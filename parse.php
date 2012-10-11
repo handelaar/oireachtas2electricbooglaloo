@@ -6,6 +6,22 @@ include('simple_html_dom.php');
 $file		= file_get_contents($parsefile);
 $pages 	= repaginate($file);
 
+/*
+
+foreach ($pages as $page) {
+	foreach ($page->snippet as $item) {
+	
+		do_things();
+		
+	}
+}
+
+
+
+
+*/
+
+
 
 die();
 
