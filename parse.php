@@ -9,10 +9,10 @@ $pages 	= repaginate($file);
 
 die();
 
+/*
 
 $pages = get_total($url . $pagestring);
 
-$file = fopen("data/DAL$parsedate.html", 'w');
 
 while ($page < $pages) {
         $pagestring =  sprintf('%05d', $page);
@@ -29,7 +29,9 @@ while ($page < $pages) {
         unset ($current);
 }
 
+*/
 
-fclose($file);
-
-
+function repaginate() {
+	return true;
+}
+	
