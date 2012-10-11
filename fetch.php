@@ -1,11 +1,30 @@
+#!/usr/bin/env php
 <?php
-$parsedate      = $argv[1];
+
+/*
+     Fetch: 
+     
+     Usage: php ./fetch.php YYYYMMDD
+     
+     Gets new-shitey-format Oireachtas debates HTML, 
+     removes all markup that's not in #htmldata,
+     appends all pages into one file,
+     wraps pages in <page num="n"></page>,
+     adds some newlines for legibility,
+     saves as data/DALYYYYMMDD.html
+     
+     
+     Some PHP functions chosen to avoid memory overload segfaults
+     
+*/
+
+$parsedate     = $argv[1];
 $page           = 1;
 
 include('simple_html_dom.php');
 
 $url            = "http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail$parsedate";
-$pagestring     =  sprintf('%05d', $page);
+$pagestring    = sprintf('%05d', $page);
 
 $pages = get_total($url . $pagestring);
 
