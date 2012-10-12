@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="2" Month="Feb" Year="1977" Vol="86" No="1" DateIrish="Dé Céadaoin, 2 Feabhra 1977" DateEnglish="Wednesday, 2 February 1977" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P Just="Center">
+      <Col N="1" />
+      <Col N="2" /> Chuaigh an Cathaoirleach i gceannas ar 2.30 p.m.</P>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Appointment of Member of Government and of Parliamentary" RHead="Secretary and Assignment of Departments">
+    <Title>Appointment of Member of Government and of Parliamentary Secretary and Assignment of Departments.</Title>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Tá orm a chur in iúl don Teach go bhfuarthas litreacha ó Rúnaí Roinn an Taoisigh á rá:</P>
+      <P>(i)  go bhfuil an Teachta Oilibhéar Ó Flannagáin ceaptha ina chomhalta den Rialtas;</P>
+      <P>(ii)  go bhfuil sannadh na Roinne Cosanta don Taoiseach foirceanta agus go bhfuil an Roinn sannta don Teachta Oilibhéar Ó Flannagáin; agus</P>
+      <P>(iii)  go bhfuil an Teachta Pádraig Mac Raghnaill ceaptha ina Rúnaí Parlaiminte don Aire Rialtais Áitiúil agus d'Aire na Seirbhíse Poiblí.</P>
+      <P>Tá treoracha tugtha agam na litreacha dar thagair mé a leagan amach sa ghnáthshlí i gCín Lae Imeachtaí an tSeanaid.  De bharr an Fhógra seo cuirfear i gcló iad freisin i dTuairisc Oifigiúil na nDíospóireachtaí.</P>
+      <P>I have to inform the House that letters have been received from the Secretary to the Department of the Taoiseach stating:</P>
+      <P>(i)  that Deputy Oliver J. Flanagan had been appointed a member of the Government;</P>
+      <P>(ii)  that the assignment of the Department of Defence to the Taoiseach had been terminated and that Department had been assigned to Deputy Oliver J. Flanagan; and</P>
+      <P>(iii)  that Deputy Patrick J. Reynolds had been appointed Parliamentary Secretary to the Minister for Local Government and to the Minister for the Public Service.</P>
+      <P>I have given directions to have the letters referred to set out in the usual manner in the Journal of the House. Consequent on this announcement they will also be printed in the Official Report of Debates.</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+              <Col N="3" />Uimhir Thagartha</entry>
+            <entry rowsep="1">
+              <Col N="4" />ROINN AN TAOISIGH</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Ref. No. S.18879</entry>
+            <entry>Department of the Taoiseach</entry>
+          </row>
+          <row>
+            <entry>16 Nollaig, 1976.</entry>
+            <entry>BAILE ÁTHA CLIATH, 2</entry>
+          </row>
+          <row>
+            <entry>Cléireach an tSeanaid</entry>
+            <entry>Dublin, 2.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Tá orm a chur in iúl duit</P>
+    <P>(1)  go bhfuil an tUachtarán, ar ainmniú an Taoisigh, le comhaontú Dháil Éireann roimh ré, tar éis</P>
+    <P Just="Center">Oilibhéar Ó Flannagáin</P>
+    <P Just="Center">(Oliver John Flanagan),</P>
+    <P>comhalta de Dháil Éireann, a cheapadh inniu, de bhun Airteagal 13.1.2º den Bhunreacht, chun bheith ina chomhalta den Rialtas; agus</P>
+    <P>(2)  go bhfuil an Taoiseach, i bhfeidhmiú na gcumhachtaí a thugtar dó le halt 4 den Acht Airí agus Rúnaithe (Leasú), 1946, inniu tar éis sannadh na Roinne Cosanta dó féin a fhorcheannadh agus an Roinn sin a shannadh do</P>
+    <P Just="Center">Oilibhéar Ó Flannagáin</P>
+    <P Just="Center">(Oliver John Flanagan),</P>
+    <P>comhalta den Rialtas.</P>
+    <P>D. Ó Suilleabháin</P>
+    <P>Rúnaí</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Uimhir Thagartha</entry>
+            <entry rowsep="1">ROINN AN TAOISIGH</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Ref. No. S.18880</entry>
+            <entry>Department of the Taoiseach</entry>
+          </row>
+          <row>
+            <entry>17 Nollaig, 1976.</entry>
+            <entry>BAILE ÁTHA CLIATH, 2</entry>
+          </row>
+          <row>
+            <entry>Cléireach an tSeanaid</entry>
+            <entry>Dublin, 2.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Tá orm a chur in iúl duit go ndearna an Rialtas inniu, ar ainmniú an Taoisigh agus i bhfeidhmiú na cumhachta a thugtar dóibh le halt 7 (1) den Acht Airí agus Rúnaithe, 1924, arna oiriúnú de dhroim an Bunreacht a achtú,</P>
+    <P Just="Center">Pádraig Mac Raghnaill, T.D.</P>
+    <P Just="Center">(Patrick J. Reynolds, T.D.),</P>
+    <P>a cheapadh chun oifig Rúnaí Parlaiminte an Aire Rialtais Áitiúil agus Aire na Seirbhíse Poiblí.</P>
+    <P>D. Ó Suilleabháin</P>
+    <P>Rúnaí an Rialtais</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. M.J. O'Higgins Mr. M.J. O'Higgins">
+      <NameTxt>Mr. M.J. O'Higgins</NameTxt>
+      <P>It is proposed to take Nos. 1, 2, 3 and 4 in that order.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Delegate to Assembly of the" RHead="European Communities: Motion">
+    <Title>Delegate to Assembly of the European Communities: Motion.</Title>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. M.J. O'Higgins Mr. M.J. O'Higgins">
+      <NameTxt>Mr. M.J. O'Higgins</NameTxt>
+      <P>I move:</P>
+      <P>That Deputy Gerald L'Estrange be and is hereby designated as a delegate to the Assembly of the European Communities in the place of Deputy Thomas Dunne.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Holidays (Agricultural Workers)" RHead="Regulations, 1977: Motion">
+    <Title>Holidays (Agricultural Workers) Regulations, 1977: Motion.</Title>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. M.J. O'Higgins Mr. M.J. O'Higgins">
+      <NameTxt>Mr. M.J. O'Higgins</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann approves the following Regulations in draft,</P>
+      <P>Holidays (Agricultural Workers) Regulations, 1977,</P>
+      <P>a copy of which Regulations in draft was laid before Seanad Éireann on 26 January, 1977.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Minister for Labour (Mr. M. O'Leary) Michael O'Leary">
+      <NameTxt>Minister for Labour (Mr. M. O'Leary)</NameTxt>
+      <P>Senators will recall that, under the Industrial Relations Act, 1976, a joint labour committee has <Col N="5" /> been set up under the aegis of the Labour Court to regulate the rates of pay and conditions of employment of agricultural workers, of whom there are 20,000 in full-time employment and 14,000 in part-time employment. The general purpose of these arrangements is to ensure that future agreements arrived at under the procedures of that Act will lead to the progressive elimination of the conditions differential which has been allowed to develop over the years resulting in a growing gap between the working conditions of farm workers and those of other industrial employees.</P>
+      <P>As part of the arrangements established by the 1976 Act, the Agricultural Wages Board will be abolished in due course.  The intention is that in that event the enforcement of holiday entitlements of agricultural workers would pass to my Department. For that purpose, I must have a set of regulations setting out the holiday entitlements of agricultural workers by reference to the Holidays (Employees) Act, 1973, under which I am responsible for holiday entitlements of workers generally.  The draft regulations laid before the House for aproval meet the objective of setting out rules to govern the holiday entitlements of agricultural workers.</P>
+      <P>The draft regulations preserve the current holidays entitlements as contained in several Agricultural Workers (Holidays) Acts, which fall to be repealed, but effect certain modifications in the Holidays (Employees) Act, 1973, to take account of their special circumstances. I expect that, at a later date when both sides of the agricultural industry have reviewed holiday entitlements in discussions at the joint labour committee, proposals may be put forward in relation to the future pattern of holiday entitlements in that industry.</P>
+      <P>I recommend that the House should now approve these draft regulations.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>There is no objection to this regulation.  It is to be welcomed that the differentials which have been growing in regard to the conditions as between farm workers and other industrial employees should be gradually eliminated.  That makes sense, and if that is the main purpose of the regulation, then we go along with it.</P>
+    </Speaker>
+    <Col N="6" />
+    <Speaker pid="MichaelFerris" hpid="Mr. Ferris Mr. Ferris">
+      <NameTxt>Mr. Ferris</NameTxt>
+      <P>I welcome this regulation. I look on it as an enabling regulation so that the Minister will have the proper powers when the Agricultural Wages Board are disbanded, which is bound to happen as a result of the Joint Labour Committee being set up.  We must welcome a move which brings agricultural workers into line with their fellow workers in industry. I congratulate the Minister on the progress he has made in this area. He will go down in history as the Minister for Labour who took the agricultural workers of Ireland off their knees.</P>
+    </Speaker>
+    <Speaker pid="WilliamRyan" hpid="Mr. W. Ryan Mr. W. Ryan">
+      <NameTxt>Mr. W. Ryan</NameTxt>
+      <P>Nonsense.</P>
+    </Speaker>
+    <Speaker pid="MichaelFerris" hpid="Mr. Ferris Mr. Ferris">
+      <NameTxt>Mr. Ferris</NameTxt>
+      <P>On the other side of the coin, I would express concern that in the setting up of this joint labour committee the employer side did not give due recognition to one of the largest agricultural employers, the bloodstock industry, which employs a great number of agricultural workers.  The joint labour committee does not include any representative of that industry.  I bring this to the notice of the Minister who may at some future date when the committee is being looked at again put this anomaly right.  I compliment the Minister on the moves he has made in this direction.  I am pleased that agricultural workers will no longer be second-class citizens.</P>
+    </Speaker>
+    <Speaker pid="JackGarrett" hpid="Mr. Garrett Mr. Garrett">
+      <NameTxt>Mr. Garrett</NameTxt>
+      <P>I should like to ask the Minister will this regulation do away with the differential between an agricultural worker who has to work 125 hours previous to a Church holiday before he is entitled to payment and an industrial worker who only has to work 120 hours before he is entitled to payment?  Will it do away with that differential, or does the same differential still exist under this regulation?</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>This is just an enabling regulation to tidy up the legislative position consequent on our decision that a joint labour committee should look after the affairs of agricultural workers rather than the old agricultural Wages Board.  I expressed the hope near the end of my statement that the joint labour committee would shortly address itself to problems of disparities and conditions in the holidays <Col N="7" /> area between agricultural workers and other workers.  So far they have been concentrating on the wages differential but this legislation is necessary if they are to tackle the question of holidays and such differentials as exist in that area.  The answer to the Senator's question is technically, no, but potentially yes, because that will be an area of concern.</P>
+    </Speaker>
+    <Speaker pid="JohnHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>I should like to welcome this regulation.  Without going into much detail, it is a well-known fact that the anomalies which existed in the agricultural area, for agricultural workers were so far out that something had to be done about them.  This is a welcome development and we hope the committee will report very soon. In the meantime, the regulation to deal with holidays is a good step forward. We hope the committee will report very soon on the total situation of pay, conditions and so on, and we welcome the regulation.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Protection of Young Persons (Employment)" RHead="Bill, 1974: Report and Final Stages">
+    <Title>Protection of Young Persons (Employment) Bill, 1974: Report and Final Stages.</Title>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I would remind Senators that on Report Stage each Senator is entitled to speak only once on each question.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 1:</P>
+      <P>In page 3, line 21, after &ldquo;means&rdquo; to insert &ldquo;an employee who is&rdquo;.</P>
+      <P>I raised this matter on Committee Stage because in the definition section of this Bill we have the information that &ldquo;employee&rdquo; means a young person or a child as the context may require.  It is really a question of semantics.  It did not make sense to me to talk in terms of an employee meaning a young person or a child as the context may require and I suggest that my version, which would make it read &ldquo;employee means an employee who is a young person or a child as the context may require&rdquo; makes more sense.  I do not propose to change the definition but I think it makes for better English.</P>
+    </Speaker>
+    <Col N="8" />
+    <Speaker pid="MichaelOLeary" hpid="Minister for Labour (Mr. M. O'Leary) Michael O'Leary">
+      <NameTxt>Minister for Labour (Mr. M. O'Leary)</NameTxt>
+      <P>As Senator Yeats says, it is not a question of great moment.  His desire is simply to clarify a definition used here.  It is really a contest between the various clarifiers.  The draftsmen advise me that they considered that their construction here is preferable to that suggested by the Senator.  I quite honestly do not have any bias one way or the other, but simply because it usually falls to the Minister of the time to side with the draftsmen's opinion on the matter, I would suggest to the Senator that is the opinion of the draftsmen's office. There is no great difference between us.  I see the Senator's point but the draftsman's suggestion is that, having considered his amendment, they still have a preference for their own construction.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>It is clear that it is bad English.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 2, 3 and 4 are related and may be debated together.</P>
+      <P>Government amendment No. 2:</P>
+      <P>In page 4, line 36, to delete &ldquo;section 4&rdquo; and to substitute &ldquo;sections 4, 5 (1) (a), 5 (1) (b), 5 (4) and 6&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>We discussed this subsection on Committee Stage and Senator Yeats and Senator Lenihan proposed two amendments.  What I suggest here is in substance, more or less, what was proposed at that time. I would ask the Senators to withdraw their proposed amendments in favour of mine, which I submit goes somewhat further than what was proposed in the amendments they sought to make at that time.  By including a reference to section 5 (1) (a) in this amendment we require the production of birth certificates, which was one of the concerns expressed by the Senators, prior to the commencement of employment in the case of persons in the excluded categories.  My amendment is in agreement with the amendments put down at that time but it extends the net.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I am happy to withdraw our amendments.  The Minister <Col N="9" /> is right in saying his amendment goes a little further than ours.  I must thank him for bringing it in.  We worded our amendments fairly narrowly because we thought, quite candidly, it was as much as we would get away with.  The Minister has gone further than us and we are happy to accept his amendment.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendments Nos. 3 and 4 not moved.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 5:</P>
+      <P>In page 4, line 42, after &ldquo;sections 4, 5,&rdquo; to insert &ldquo;8&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I accept that. Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 6, 7 and 41 are related.  The suggestion is that they be debated together.</P>
+      <P>Government amendment No. 6:</P>
+      <P>In page 5, section 4 (as amended in Committee), to delete subsections (1), (2), (3) and (4), and to substitute the following subsections:</P>
+      <P>&ldquo;(1)  Subject to the subsequent provisions of this section an employer shall not employ a child to do work.</P>
+      <P>(2)  An employer may, subject to subsections (3) and (4) of this section, employ a child who is over the age of fourteen years to do light non-industrial work which&mdash;</P>
+      <P>(a)  is not harmful to the health or normal development of the child, and</P>
+      <P>(b)  is not such work as will affect the attendance of the child at school or his capacity to benefit from the instruction given him therein.</P>
+      <P>(3)  (a) Whenever an employer employs a child during school terms pursuant to subsection (2) of this section, the hours of work of the child shall be outside school hours and shall be&mdash;</P>
+      <P>(i)  not more than two hours on any day, other than a Saturday or a Sunday,</P>
+      <P>(ii)  not more than fourteen hours in any week,</P>
+    </Speaker>
+    <P>
+      <Col N="10" /> (iii)  not more than four hours on a Saturday or a Sunday: Provided that&mdash;</P>
+    <P>(A)  if a child is required to work for more than 2 hours on a Saturday, he shall not work on the next following Sunday, or</P>
+    <P>(B)  if a child is required to work for more than 2 hours on a Sunday, he shall not have worked on the immediately preceding Saturday.</P>
+    <P>(b)  This subsection shall remain in force only until the expiration of the period of two years beginning with the coming into force of this Act unless it is continued in force by an order under subsection (5) of this section.</P>
+    <P>(4)  Whenever an employer employs a child during school holidays pursuant to subsection (2) of this section, the hours of work of such child shall be&mdash;</P>
+    <P>(i)  not more than seven hours in any day, or</P>
+    <P>(ii)  not more than thirty-five hours in any week:</P>
+    <P>Provided that during the period of the school summer holidays, the child does not do any work for a period of not less than fourteen consecutive days.</P>
+    <P>(5)  The Minister may by order at any time when subsection (3) of this section is in force provide that that subsection shall continue in force for a period not exceeding twelve months from the commencement of the order.</P>
+    <P>(6)  The Minister may by order&mdash;</P>
+    <P>(a)  vary the hours of work specified in subsections (3) and (4) of this section,</P>
+    <P>(b)  specify that children may not be employed on a particular day or during a particular period, and</P>
+    <P>(c)  revoke or amend an order made under this subsection including an order under this paragraph.&rdquo;</P>
+    <Col N="11" />
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>We had a detailed discussion on Committee Stage about the provision in regard to children between the ages of 14 and 15 years doing limited light non-industrial work. After such a long absence, Senators may not recall the details of that discussion but it was quite a protracted one.  My officials and I have given very serious consideration to the discussion we had in this House at that time.  In addition, I have had discussions with the Irish Congress of Trade Unions on the matters discussed. The amendment I have put forward is in agreement with the representations made to me subsequent to that debate between myself and trade union employee interests.  It was mainly the employee interests that were concerned about the direction of the original construction here.</P>
+      <P>In accordance with my understanding with the Irish Congress of Trade Unions, I have put forward this amendment. The new section incorporated in this amendment should gain general acceptance as a compromise solution to a rather difficult issue.  Basically what is suggested is that we ban employment during school term for those aged 14 to 15 for two years after the Act comes into operation, or at some later date if this seems more appropriate.  The Minister of the day can, therefore, extend the two-year period subject to affirmative resolution. In other words, if he wishes to extend this section over the two-year period specified here he must come before both Houses and seek their permission.  We give licence for the extension for two years but for its extension after that period, a general affirmative resolution of both Houses will be required under this amendment.</P>
+    </Speaker>
+    <P>Senators might also like to note that I have incorporated a suggestion made by Senator Yeats on Committee Stage in the new subsection (6) of section 4 giving power to the Minister to specify by affirmative order that children may not be employed on a particular day or during a particular period.  The intent of the section is basically to ban employment during the school term for those aged 14 to 15 years for a two-year period with powers of extension <Col N="12" /> if the Houses of the Oireachtas agree to that.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I am very happy, indeed, to accept the Minister's new version of this section.  It is undoubtedly a considerable improvement.  Many of us were worried about the whole problem of work during schooldays.  The Minister's compromise is an excellent one and we are very happy to accept it.  I should also like to thank the Minister for accepting the specific point I raised which is incorporated in paragraph (b) of subsection (6).</P>
+    </Speaker>
+    <Speaker pid="FintanKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>I welcome this amendment by the Minister but I am not quite certain if my interpretation of it is correct.  Congress suggested that, after two years, the section should lapse but the Minister would be enabled to continue it for a period of 12 months.  It could be read from the amendment that the Minister has power to continue this 12 months continuance indefinitely.  Am I right in that, or is the extension confined to one period of 12 months after which the section lapses?</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>What the Senator suggests is possible.  If the Houses of the Oireachtas so agreed one could continue it indefinitely, but practically speaking that is unlikely.  The Senator is quite right but I would assure him that our amendment is more or less as agreed between ourselves and representations received.  Technically one could do as he suggests.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>I, too, should like to welcome the fairly fully revised section of the Bill.  It goes a considerable distance to meeting some of the very real problems raised both on this side of the House and on the other side of the House during Committee Stage.  It refers to the last year of compulsory school going age for children.  At the moment, the compulsory school going age extends from six to 15 and, effectively after that, a quite different situation both as regard education and employment occurs.  One of the problems the Minister had to address himself to when he sat down to re-draft this section was partly psychological and partly financial in aspect.  For many <Col N="13" /> children in the 14 to 15 year old bracket, access to work and to work experience could almost be described as a civil right, with due precautions and duly circumscribed.  Unnaturally and unnecessarily to prevent children of this age from gaining some sort of work experience is quite unrealistic in this day and age and I think largely the Minister has taken this into account.</P>
+      <P>The other aspect of it, of course, is financial because work brings wages. From the figures we have it is obvious that quite a few families actually need the extra wages a child can bring in even from part-time work for a short period, not least to help to pay for the continuing cost of having that child remain in the educational system. Granted the education of that child is compulsory and therefore, if you like, ought to be free.  There are also real costs involved for parents in keeping him there.  When we look at family incomes, when we realise, as Mr. Murray of the National Social Services Council pointed out last month, that in a given period last year there were 62,000 children living in families where the sole source of income was unemployment assistance, we get some kind of measure of the problem involved here.</P>
+      <P>We have to (a) meet psychological need and (b) help families to meet the financial need that may arise from extended educational periods.  I am also glad the Minister has the goodwill of the trade union movement in this because, even though the trade union movement is justifiably concerned with protecting the employment of its members, it also has a substantial record in urging continuing amelioration through social welfare benefits and other payments, especially for low income families.  I would see this revised section as being a very adequate compromise between the legitimate demands and preoccupations both of parents and of the trade union movement.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I forgot to mention that I will be withdrawing my amendment No. 7.  After two years I have come <Col N="14" /> to the conclusion that the draftsman's wording is better than mine.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>After three years away from the Chair I would remind the Senator that he is not moving them rather than withdrawing them.</P>
+      <P>Amendment No. 7 not moved.</P>
+      <P>Government amendment No. 8:</P>
+      <P>In page 5, line 39, to delete &ldquo;obtain&rdquo; and substitute &ldquo;require the production of&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>This amendment is really in response to a concern expressed in the House that the original wording of the subsection might require the acquisition of a fresh birth certificate each time a person finds a job. The revised formula meets the objective and will ensure that an employee will not be forced to obtain a fresh birth certificate each time.  It is a practical improvement.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>It is an improvement.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 9:</P>
+      <P>In page 6, line 9, after &ldquo;charge by&rdquo; to insert &ldquo;every postmaster or subpostmaster&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>May I make this point before the Senator comes in because it concerns the Minister for Health?  The Senator wants &ldquo;every postmaster or subpostmaster&rdquo; to be inserted in line 9 after &ldquo;charge by&rdquo;. I just want to make this point before the Senator makes his case for this amendment.  The Minister for Health is not anxious to see the extension of this requisition form system, which he tells me is dying out in any case. Most people now looking for this form write directly to registrars.  He would not like to see the system further aided by fresh or new legislation.  I do not know whether this would alter the Senator's approach to his amendment.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>If I had started off I could have saved the Minister trouble because I was going to make the point that this amendment really loses much of its importance in view of the Minister's <Col N="15" /> previous amendment.  What worried me was the prospect that a child who was going to be employed would have to get an extra birth certificate because he would have to give it to the employer.  Now he only needs to show it.  Most people have a birth certificate somewhere around the house and they can dig it out and show it and really the problem does not arise any more.  Therefore I can withdraw my amendment.  I do not think it is needed any more.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 10 and 11 are alternatives and may be discussed together.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 10:</P>
+      <P>In page 6, line 23, after &ldquo;health&rdquo;, to insert &ldquo;welfare&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>Section 16 (1) provides: &ldquo;The Minister may, in any case where he is satisfied that the health, welfare and safety of employees are not endangered ...&rdquo; whereas in section 6 we hear about the health, safety or morals of young persons.  It seems to me that we should be consistent and, if &ldquo;welfare&rdquo; is included in section 16 there seems no great point in not including &ldquo;welfare&rdquo; in section 6.  There must be some reason why it is in section 16 and whatever the reason is, one would think it should apply just as much to section 6.  I am suggesting this amendment for the sake of consistency.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>The variety of references to&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Perhaps the Minister would like to hear Senator Horgan who also has an amendment down.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>The Senator's amendment relates to &ldquo;educational welfare&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I understood the House agreed to debate Nos. 10 and 11 together, with separate decisions if necessary.</P>
+    </Speaker>
+    <Col N="16" />
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>I do not propose to take up the time of the House to any considerable degree.  It occurred to me during the original discussion on this section that welfare by itself could be held to be included in the general terms health and safety.  I think that the various educational interests who made representations to me would have accepted that the child's general welfare would have been the concern of the Minister but were anxious to specify that its educational welfare should also be more specifically mentioned in the subsection.  That is the reason this particular amendment was put down.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>They are two separate concepts.  Welfare is involved in both.  Educational welfare is a slightly more vague term.  This poses certain difficulties for me because I am not Minister for Education.  The Minister for Education would have grounds for umbrage if I introduced legislation which set out to define educational welfare in a piece of labour legislation.  I am supposed to know all about safety or even health aspects of industrial work, but educational welfare does not come within the scope of my responsibility.  Certain sections of this Bill do impinge into that area of great importance.</P>
+    </Speaker>
+    <P>I will deal first with amendment No. 10, the insertion of &ldquo;welfare&rdquo; after &ldquo;health&rdquo;.  There are a variety of terms used in three sections of the Bill, sections 4, 6 and 16.  Health, morals and safety are mentioned and these terms were taken over from the International Labour Office convention on minimum age for admission to employment. It would be my intention to ratify that convention after the passage of this legislation if it goes through both Houses.  In order to faciltate our ratification of that convention certain provisions in this Bill reflect the drafting of articles in that convention of the ILO.  The words &ldquo;health&rdquo;, &ldquo;safety&rdquo; and &ldquo;morals&rdquo; in section 6 correspond with those in article 3 of the convention, which also deals with minimum age.  If the Senator wishes the insertion of &ldquo;welfare&rdquo;, <Col N="17" /> I have no objection to that addition and will accept it.</P>
+    <P>I am sympathetically inclined to the inclusion in amendment No. 11 of &ldquo;educational welfare&rdquo;, though it represents some difficulties for me.  I have discussed this very closely with the interests concerned and at official level. There are serious difficulties in attempting to decide whether the employment of young persons, and this applies to the employment of young persons over the age of 16, in any particular class of work would endanger their educational welfare.  We are departing to some extent from the guidelines in existing law on compulsory education up to the age of 15 years.  For these reasons we have included the reference to welfare but it is a concept which embraces more Departments than my own.  This is my difficulty in accepting the Senator's amendment.  I do not know whether the Senator has any views on this problem.</P>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>I will reply to the various points raised by the Minister.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Since we are on Report, it would be proper to allow Senator Harte to intervene if he wishes to do so.</P>
+    </Speaker>
+    <Speaker pid="JohnHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>A young person may get a job from which he can be released to pursue his education.  Welfare could cover that aspect.  I believe that Senator Horgan's amendment covers the situation more fully and takes into consideration the points raised by Senator Yeats.  I do not for one moment imagine that the Minister has no problems with it.  It is a matter of welfare.  If some young person is removed from a job it may affect his educational development, particularly if he is normally released from work to pursue his educational requirements.  His welfare is at stake and specifically his educational welfare.  I would feel that there is room for the two amendments.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I want to amplify what I said earlier about the difficulties in accepting this.  We can accept welfare in the sense that we can accept moral safety.  Educational welfare is a different concept and it reaches into areas which are outside my responsibility. <Col N="18" /> There is the possibility of difficulties being created by this definition which has vague frontiers of meaning. It could have very serious implications, perhaps, in relation to apprenticeship arrangements and part-time or full-time schooling after the age of 16.  It causes me to have reservations about accepting that particular amendment.  I am in sympathy with the intent expressed in Senator Horgan's amendment, but it reaches into other departmental areas of responsibility.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>I am very grateful to the Minister and to Senator Harte and others who made a contribution on this amendment.  I do not intend to adopt any intransigent attitude on it.</P>
+      <P>Two fundamental points have been made in comment on the amendment. The first is the one of vagueness, to which the Minister has already referred. The second one, which is perhaps more relevant in a strict sense, is the fact that we are dealing here with people over the age of 16.  For good, bad or indifferent, the fact is that educational attendance over the age of 16 is voluntary and not compulsory. If this were something which affected the time during which compulsory education was carried on, one would almost have to insist on an amendment of this kind being introduced. However, as it is during the voluntary educational period, the stress on it is not quite so necessary.</P>
+    </Speaker>
+    <P>I revert now to the question of vagueness.  I accept that the Minister has a point here, that there is a problem of vagueness and that there are other Government Departments concerned, notably, of course, the Department of Education.  I should be quite happy to withdraw the amendment if one could have an assurance from the Minister that this section will be operated with the fullest possible consultation with the other interests and especially with the Minister for Education. This is an area in which there will have to be co-operation between these two Ministries, both of whose interests and concerns are vitally affected. I would go further.  I would urge that as soon as possible after the passage of this Bill the two Government Departments concerned should co-operate <Col N="19" /> on a major seminar of some kind aimed at publicising, examining and getting into the public consciousness the very many and important provisions of this legislation.</P>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I sympathise with the objective of Senator Horgan's amendment.  I could undertake in making orders under this section to take into consideration this element, this dimension that he proposed and which is suggested here in his amendment.  I will of course have to talk to both sides on it but it would be my objective in any order adopted to include that aspect of welfare.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 11 not moved.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 12, 14 and 15 are related and it is proposed that they be debated together.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 12:</P>
+      <P>In page 6, line 23, to delete &ldquo;young persons&rdquo; and substitute &ldquo;employees&rdquo;.</P>
+      <P>I wonder would the Minister let us know what is happening.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I accept the principle behind the amendments.  I accepted amendment No. 12 I would just point out that in relation to amendment No. 15, the parliamentary draftsman has suggested a slight variation in the wording and I would ask the Senator to withdraw their amendment in favour of my alternative, amendment No. 14, which according to the draftsman&mdash;and I agree with him&mdash;meets the point which they wish to cover.  I accept amendment No. 12 and I would ask the Senators to withdraw their amendment in favour of amendment No. 14, which I am assured meets the point.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I am happy to do so.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>I move amendment No. 13:</P>
+    </Speaker>
+    <P>In page 6, line 24 to delete <Col N="20" />&ldquo;raise&rdquo; and substitute &ldquo;specify&rdquo;.</P>
+    <P>This is in a sense little more than a drafting amendment but it is intended to meet a situation which, owing to changing social conditions, changing habits of work, perhaps even changing educational structures, ages at which various types of employment may be performed, could possibly go down as well as up.  It was felt unnecessary to tie a Minister's hands too tightly by saying that he could only make an order to raise an age and instead to make it more general by using the word &ldquo;specify&rdquo; which leaves him the option of varying in any direction he chooses.</P>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I know the concern expressed on Committee Stage by the Senator on this matter, his feeling that the powers given to the Minister under this section are rather narrow and his desire to widen the possibilities of improvement and initiative under this Bill.  I would draw attention to the point that this section should be read together with section 4, which sets down the general minimum age for entry to employment. As I see it, if we adopt this amendment it would imply, taken with section 4, that a lower minimum age for employment could be fixed.  I may be wrong in this but my officials agree with this interpretation.  Under the section as drafted by me the powers are limited to raising the age, which we all agree with.  The Senator wishes to ensure that perhaps other standards are improved and he suggests its widening to include &ldquo;specify&rdquo;, which could relate to other sections.  We decided that it should be &ldquo;raise&rdquo; since presumably all our standards would be in the direction of increasing age limits.</P>
+    </Speaker>
+    <P>As we see it, if we substitute &ldquo;specify,&rdquo; there is a possibility&mdash;we cannot always ensure we will have an enlightened Government in this country &mdash;that a Minister at some stage in the future, with apologies to Senators, could lower the age in accordance with section 4.  It is admittedly a far-out argument but I would put that forward. I can accept what the Senator is suggesting but I would point out the <Col N="21" /> danger that may be seen in the amendment as suggested.  In the section as drafted by me we can only go in the direction of raising ages.  As suggested by them it could include other possibilities also.</P>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>The force of the Minister's argument is intensified when he makes reference to section 4 and to the possible effect that this will have on the whole import of section 4.  Anybody who has watched my track record in this House will know it to be a rare occasion when I would put down an amendment to increase ministerial powers rather than to limit them.  In fact this amendment to the best of my knowledge was put down at a time when I was not a member of the political party of which I am now a member. However, I accept the force of the Minister's argument and it does no violence at all to my own basic feelings about legislation to withdraw an amendment which would have widened the Minister's powers rather than narrow them.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Government amendment No. 14.</P>
+      <P>In page 6, line 24, to delete &ldquo;a young person&rdquo; and substitute &ldquo;an employee&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 15 not moved.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 16 to 23, inclusive, are related and may be debated together.</P>
+      <P>Government amendment No. 16:</P>
+      <P>In page 6, line 29, to delete &ldquo;ten&rdquo; and substitute &ldquo;nine&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>We had a lengthy debate on Committee Stage on the provisions relating to maximum and normal hours in sections 7, 8 and 9.  Indeed, in the other House there were also lengthy debates on these topics.  I think it would be fair to say, as a general comment on the debates as they have proceeded in both Houses, that the general feeling was expressed that a clear distinction should be seen to exist between the hours of work specified by statute for adults and those for children and young persons. <Col N="22" /> In other words, there should be a contrast seen between the hours set down by statute for both categories.</P>
+      <P>I therefore reviewed fully the content of the debate in both Houses and I have also had consultations with employee interests on this important question.  I believe that the improvements I have proposed in the form of the amendments to maximum hours in sections 7 and 8 should meet with general approval among Senators.  I may add that these improvements meet with the general approval of employee interests.  These levels of maximum working hours can of course be reduced at appropriate times in the future by means of the powers contained in the section.</P>
+      <P>Senators Yeats and Lenihan put down amendments which correspond very closely to the level of hours proposed in my amendments.  Admittedly there are some slight differences but they are very small when one considers the changes that have been made.  I must inform the Senators that the sections as amended here have been fully discussed with representative interests and meet with their general agreement.  Remember at all times that we are discussing here statutory maximum provisions.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>As far as we are concerned we are very happy to accept the Minister's amendments and not to move our own.  In all cases the figures are the same.  There are just two discrepancies.  In one case the Minister says 172 and we say 170. We are not going to fight over that. The other one, I think, is a difference between 2,000 and 1,960.  That is very small and as the Minister says is a maximum in any event.  We certainly can accept the Minister's amendment and we will not be moving our own.</P>
+    </Speaker>
+    <Speaker pid="FintanKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>The Minister's amendments to sections 7 and 8 are acceptable to me but, as a matter of logic, I should imagine that when amending the maximum hours he should also amend the normal hours in section 9.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>There are some amendments to that, I think.  I am trying to find my way among the long <Col N="23" /> sheet of amendments.  Amendment No. 29 deals with this particular point.</P>
+    </Speaker>
+    <Speaker pid="FintanKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>The maximum hours are amended but not the normal hours.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>But there is a proposal in amendment No. 28 to amend the normal hours and this point can certainly be discussed then.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 17 not moved.</P>
+      <P>Government amendment No. 18:</P>
+      <P>In page 6, line 32, to delete &ldquo;fifty&rdquo; and substitute &ldquo;forty-five&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 19 not moved.</P>
+      <P>Government amendment No. 20:</P>
+      <P>In page 6, line 35, 42 and 43, to delete &ldquo;one hundred and ninety&rdquo; and substitute &ldquo;one hundred and seventy-two&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 21 not moved.</P>
+      <P>Government amendment No. 22:</P>
+      <P>In page 6, lines 37, 43, and 44, to delete &ldquo;two thousand, one hundred&rdquo; and substitute &ldquo;two thousand&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 23 not moved.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 24 to 27, inclusive, are related and may be discussed together.</P>
+      <P>Government amendment No. 24:</P>
+      <P>In page 6, line 55, to delete &ldquo;nine&rdquo; and substitute &ldquo;eight&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>Suggestions were made that the maximum hours should be 37½ in any one week and 140 in four weeks in respect of this age group, that is for under the age of 16 years. I do not advocate that overtime is desirable for young persons but in certain emergencies it may be necessary. I agree that in such emergencies it must be controlled within carefully defined limits.  The provisions of sections <Col N="24" /> 8 and 9 would permit only a maximum of two-and-a-half hours overtime following 37½ hours normal working week.  This averages out at one half hour per day over five days, which I think Senators will accept is not excessive and therefore I ask Senators to accept the amendment proposed here.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I am happy to accept amendment No. 24.  It is identical with our own amendment No. 25, but I am a little less happy that the Minister is apparently not proposing to accept amendments Nos. 26 and 27.  Amendment No. 26 proposes to cut down the number of hours which can be worked in any week from 40 to 37½.  After all, the 40 hours originated in this Bill on the basis that one could work nine hours in any day.  If the nine hours is cut to eight, surely the amount per week ought to be cut also?  On the basis of the other figures given in this Bill I would suggest that the figure of 37½ mentioned in section 9 (1) (b) is a reasonable figure to insert here also in section 8.  I do not see any reason for keeping the 40 hours when we have cut the daily figure.  It would seem to be automatic that the weekly figure ought to be cut also to 37½, going on the Bill's own basis.</P>
+      <P>In amendment No. 27 we are suggesting that there should also be a figure given for four consecutive weeks.  This is in accordance with what has already been done in section 7 (1) (c).  We start off in that section with ten hours in any day, 50 hours in any week, 190 hours in any period of four consecutive weeks.  For the sake of consistency in section 8, where we have the eight hours in any day and a certain number of hours in any week, we should also fix a figure for a period of four weeks. I would suggest that 140 hours in any period of four consecutive weeks is reasonable once we have the cut, as the Minister has agreed, from nine hours to eight.  I agree therefore to paragraph (a) that it should be eight hours in any day.  I would suggest that (b) should be changed from 40 hours to 37½ hours and that a new paragraph <i>(c)</i> should be added giving a period of 140 hours for any four consecutive weeks.</P>
+    </Speaker>
+    <Col N="25" />
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>Senator Kennedy raised this question already as to why we did not change the normal hours. Generally, normal hours are better left to the industrial negotiations of what are referred to as the social partners.  I would be the very person to say that our statute law in this area does not generally come into the area of normal industrial relations.  Quite obviously there is a lag, a delay, between those statutory provisions and what happens in practice.  Certainly this lag would be very evident in the area of normal hours.  The normal hours could be far less in practice than anything set down by statute.  We have not taken the step of moving into the normal hours area. I could not follow the road suggested here by improving further the maximum hours area.  There is a figure here for normal hours.  As Senator Kennedy said, perhaps we should have altered it; but for the reason that I have given we have not done so.  Since we have not altered it we are left with the maximum hours set down here which constitute an improvement on the position that we previously discussed in the Seanad. For this reason I am leaving the maximum hours at the figures set out.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>You are saying you are reducing it from nine to eight?</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>Senator Yeats suggested that maximum hours should be 37½ hours in any one week and 140 in four weeks in respect of this age group.  The first would be too limiting and inflexible and the second goes further in that it effectively prevents overtime being worked by young persons in this age group.  These are practical difficulties.  This Bill seeks to prevent exploitation of young people in working excessive hours.  I do not think we should interfere in this other area, which is not the first priority in this Bill.  We introduce certain safeguards, but I do not believe the safeguards we include in this Bill should be inflexible or interfere excessively in the voluntarily agreed working times of young people over this age.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I am not really sure I follow the Minister.  I accept that there is a difference between maximum <Col N="26" /> working hours and normal working hours.  We are dealing at the moment with maximum hours.  The Minister started off with this section, saying nine hours in any day or 40 hours in any week.  He has cut the nine hours to eight.  On that basis it should be consistent to cut 40 hours to, say, 37½. Having cut one I thought he would cut the other.  It is difficult to see any consistency here at all.  Once we have cut the daily figure the weekly one should be cut as well.  I am not unduly worried about amendment No. 27&mdash; 140 hours in any period of four consecutive weeks&mdash;but we should have a definite maximum.  It ought not to be open to wage negotiators, employers, unions and so on to fix an unduly high figure during the week.  These are workers under 16 years.  In fact, 40 hours in a week is too much for a 15 year old.  When we have cut the maximum number of hours that can be worked per day to eight hours it would seem reasonable to have a shorter week of 37½ hours.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>The problem that arises here is that we have not altered the normal hours.  We have left it as it is for the reasons I have outlined. If we were to accept the amendment that there should be a maximum of 140 hours over four weeks, this would yield us a maximum of 35 hours per week which by contrast with the section dealing with normal hours, section 9, in the context of the differentials which already exist in industry would cause many problems in various employments. There are practical problems which prevent me from accepting the maximum suggested by the Senator.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I am prepared to forget about amendment No. 27.  I am more interested in amendment No. 26, which concerns the 37½ hours in a week.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I consider that to be limiting and inflexible.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendments Nos. 25 to 27, inclusive, not moved.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 28 and 29 are related and may be discussed together.</P>
+    </Speaker>
+    <Col N="27" />
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 28:</P>
+      <P>In page 7, to delete &ldquo;forty&rdquo; in section 9 (1) (a) (ii) inserted in Committee and substitute &ldquo;thirty-seven and one half&rdquo;.</P>
+      <P>This relates to normal working hours. From what the Minister has been saying I would be inclined to be of the opinion that he will not accept this.  Eight hours in any day would equate to 37½ hours a week rather than 40.  I consider 40 too high.  In the case of those from 16 upwards it seeks to have a maximum of 37½ hours in any week, and in the case of those under 16 to reduce it to 35.  These figures would be better than those listed in the Bill as it stands.  There should be a clear distinction between young people and adults.  Young people ought not to be asked to work the same number of hours as adults, bearing in mind the universal 40-hour week these days.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>That is true.  I would point out to the Senator that I have examined thoroughly the maximum and normal working hours provisions of the Bill.  I believe that given certain practical difficulties that exist in industry, the levels of hours in the Bill, which incorporates several amendments, represent the best possible package we achieve just now. Senators must appreciate that there are such things in industry as relativity which exists between the working hours of young people and adult workers in general.  The main purpose of the Bill is to prevent exploitation wherever it occurs of young people of the ages mentioned.  We do not wish to see in this Bill a basis for further negotiating changes throughout industry. That is not the main purpose of this Bill.  If further changes were made in the provisions of this Bill, particularly in regard to normal working hours, inevitably such changes would be reflected in certain employments in consequential changes in the working hours of adult employees. That is not the intention of this legislation. The Bill has ample powers to ensure that, at a later stage, such changes can be made under section 9 (3).  The Bill is not intended to replace normal negotiation procedures <Col N="28" /> between employers and unions.  It is meant to protect a category who, up to now, have not had the benefit of certain standards being laid down which must be complied with under our legislation.  It does not seek to replace the traditional function of a trade union representing the majority interest of workers in any undertaking. For that reason I put it to Senators that it is outside our scope to bring in changes that have the net effect of becoming bargaining counters in negotiations throughout industry.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 29 not moved.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 30 and 31 are cognate and may be discussed together.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 30:</P>
+      <P>In page 7, to delete lines 37, 38 and 39.</P>
+      <P>These amendments relate to the half an hour rest period that young people must be given by an employer once they have worked a certain number of hours, depending on their ages.  It is specifically provided&mdash;I am not clear why&mdash;that an employee is not entitled to be paid in respect of this period of half an hour's rest.  I can understand that we ought not to lay an injunction on an employer that he must pay them. But why should the employer be told that he is not allowed to pay them? This is not like a luncheon interval where the person concerned can go home, away from the work place.  This is just half an hour in a long consecutive period of work.  Presumably the person has to stay on the premises or very near them.  He is therefore very much at the disposal of his employer.  He is still essentially at work.  Yet it is specifically laid down that the employer cannot pay him.  I am not suggesting that the employer must pay him, but why should we tell the employer that he cannot pay him?  Why should we attempt to prevent an agreement between the young person and his employer that he be paid for the half hour?  We should leave the matter open by deleting these paragraphs.</P>
+    </Speaker>
+    <Col N="29" />
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>It does not put the obligation on the employer to make payment for the stipulated period.  It does not impose the obligation in certain employments that such periods are paid for.  The understanding is that they are paid for.  In most trade union employments it is understood that such periods are paid for but in others they are not.  We do not wish to disturb the prevailing practice. The Bill does not impose extra conditions or take away from any advantages already won.  It does not impose fresh conditions because, in general, it is not concerned with the financial aspects of the young em-employee. There are other pieces of legislation dealing with those aspects. This Bill is concerned with working conditions.  This section is concerned with rest periods, but we do not consider it appropriate to enter into the question of payment for the rest periods.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>This may be another case in which there is a discrepancy between what the parliamentary draftsman writes and the English language. When it is stated that someone is not entitled to something it means he cannot get it.  According to the parliamentary draftsman's interpretation, and from what the Minister has now said, it appears that the employee can be paid for the rest period but he cannot insist on it.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>The Senator was reading it that he could not.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>In the English language, when you say a person is not entitled to something it means that he cannot get it.  If it is interpreted as meaning that he can get it, then I am happy with that.</P>
+    </Speaker>
+    <Speaker pid="JohnHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>Any alteration of the wording might not improve the situation in that practices could be introduced where the employee would not have a proper break.  For example, ten or 15 minutes might be allowed for a break instead of the half-hour.  The section as it stands at present does not prevent the employer from paying for the rest period.  There is a danger if <Col N="30" /> the wording is changed that not only might the employer refuse to pay but he might introduce new schemes for not having the full break.  The concept of the 37½ hours which Senator Yeats was discussing and the Minister's 40-hour week would be affected if the wording of the section was altered.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 31 not moved.</P>
+    </Speaker>
+    <Speaker pid="SeanBrosnahan" hpid="Acting Chairman (Mr. Brosnahan) Acting Chairman (Mr. Brosnahan)">
+      <NameTxt>Acting Chairman (Mr. Brosnahan)</NameTxt>
+      <P>Amendments Nos. 32 and 33 are related and may be taken together.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I consider my amendment to be supportive of the line taken by the Senators in these two amendments but possibly improving it. I accept the principle behind these two amendments that young persons, not children, should be open to prosecution for offences related to the double employment prohibition.  I would ask them to accept my amendment as an alternative to their proposals.</P>
+      <P>Amendment No. 32 not moved.</P>
+      <P>Government amendment No. 33:</P>
+      <P>In page 8, line 46, after &ldquo;employee&rdquo; to insert &ldquo;, if he is a young person,&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Government amendment No. 34:</P>
+      <P>In page 8, between lines 47 and 48, before subsection (3), to insert the following new subsection:</P>
+      <P>&ldquo;(3)  The parent or guardian of an employee who aids or abets an employer in the contravention of this section shall be guilty of an offence.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>This is a drafting amendment.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>It is more than a drafting amendment; it is a substantial improvement which we asked for.  I am grateful to the Minister.</P>
+      <P>Amendment agreed to.</P>
+      <P>Government amendment No. 35:</P>
+    </Speaker>
+    <P>In page 8, in section 15 (3) (inserted in Committee), to delete &ldquo;he did not know that the employee <Col N="31" /> had done work for any other employer&rdquo; and to substitute &ldquo;he did not know, or could not by reasonable enquiry have known, that the employee had done work for any other employer&rdquo;.</P>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>This relates to section 15 (3).  It is an improvement suggested by our legal advisers which I hope will commend itself to Senators.</P>
+      <P>Amendment agreed to.</P>
+      <P>Government amendment No. 36:</P>
+      <P>In page 9, after line 41, to insert the following:</P>
+      <P>&ldquo;(3)  Whenever in a prosecution for an offence under this Act, it appears that a sum of money is due by an employer to an employee, and the employer is convicted of that offence, the Court may, if it is satisfied that the employer is liable to pay to his employee a sum of money, order, in addition to any penalty which it may impose pursuant to this Act, that the employer pay any such sum of money to the employee.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>On Committee Stage Senators Kennedy and Mullen suggested an amendment similar to this one.  I assured both Senators that I would examine the basic argument of their amendments.  I have had this amendment drafted to meet the points raised by both Senators.  Therefore I hope it will be accepted by the House.</P>
+      <P>Amendment agreed to.</P>
+      <P>Government amendment No. 37:</P>
+      <P>In page 10, after line 48, to insert the following:</P>
+      <P>&ldquo;(4)  An employer who contravenes this section shall be guilty of an offence.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>This relates to an offences provision in section 19. On Committee Stage Senator Yeats, asked that such a provision be made. This is the basis for this provision.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Col N="32" />
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 38:</P>
+      <P>In page 10, to delete lines 56 to 59 inclusive.</P>
+      <P>This is a matter which we discussed on Committee Stage.  It is something which all Ministers in all Governments tend to produce, giving special privileges to the ministerial fraternity. Section 20 (1) provides:</P>
+      <P>It shall be a good defence to any proceedings taken against any person for a breach of any of the provisions of this Act if such person shows to the satisfaction of the court before which such proceedings are brought that any act occasioning such breach was rendered necessary or reasonably proper by the actual occurrence or the threat or reasonable anticipation of fire, flood, storm violence, a breakdown of plant or machinery or any other emergency.</P>
+      <P>In other words, if there is a disaster in a particular firm, it is a case of all hands on deck and the young person might be employed for undue hours. If the employer is summoned it would be reasonable for him to say that it was an emergency.  That is fair enough. But in subsection (2) the normal obligation to come to court, if the employer should be summoned to explain the circumstances, disappears because the Minister concerned certifies that it was necessary and that is the end of it.</P>
+    </Speaker>
+    <P>I know it is not conclusive evidence, but in practice the meaning of the subsection is that there is very little the court can do about it.  It is all very well to say that Ministers will not abuse this power, but we know in reality that Ministers are not the people to take decisions.  For example, a sub-post-master in the country employing somebody for undue hours is brought to court by a diligent official.  The postmaster gets panicky and writes to some civil servant in Dublin and in no time the Minister for Posts and Telegraphs sends a certificate stating that there was a difficulty, perhaps a telephone breakdown.  The postmaster produces the certificate and that is the end of the matter.  It seems reasonable that the official involved should explain his case in court and not have to write to <Col N="33" /> Dublin for a certificate and short-circuit the proceedings which must be complied with by everybody else under subsection (1).  The court would take a reasonable view of such an explanation.  Why should public officials be in a position to do this?</P>
+    <P>The Minister would be unwilling to deprive either himself, his colleagues or future Ministers of certain rights which necessarily accrue to them.  We must accept that in certain instances in our legislation special provision is given to Ministers of State and their officials.  This must be, but in this particular case I cannot see what loss would follow.  The official involved could spend half a day going to court, if necessary, and give the required evidence. I suspect that this measure has been taken out of some other Act and thrown in as a matter of course, but in the circumstances of this case it is not necessary and should be dropped.</P>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>The Senator is right in saying that it is the usual provision in many Acts.  A simple motivation lies behind its inclusion here. It makes it possible for a Minister to place before the courts, in a convenient form, an authoritative statement of the circumstances in which an alleged contravention occurred due to an emergency. The lodgment of the certificate in court is not conclusive and it would not prejudice the discretion of the courts in any way to make further inquiries into the subject.  We see it merely as a convenient vehicle for presenting a ministerial viewpoint, if that is the correct expression, in an emergence. It does not prevent the court inquiring further into the circumstances if the explanation is regarded as inadequate. Officials can be called upon to give supplementary evidence.  It is not a matter of great moment.</P>
+    </Speaker>
+    <P>I have not been in the ministerial fraternity for sufficiently long to feel any necessity to gain extra power.  The Senator is right in that I have simply taken this routine provision out of other pieces of legislation to provide for circumstances of emergency.  It is simply a vehicle for arranging that a Minister may, in conditions of emergency, present a tidy statement of circumstances <Col N="34" /> which may not be accepted.  The court is quite free to seek further evidence. It may, perhaps, prove unacceptable but this is a convenient vehicle and for no other reason do I ask for its acceptance.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>If a court was going to pay no attention to it except that they had it and looked for evidence anyway, then there is no need to have it. The only point in having it is to protect public servants from having to attend court and, I suppose, waste public money in giving evidence.  Let us take a similar situation.  A large joint stock company has some branch down the country where this problem has arisen and the company is being summoned because the local manager has been employing people for an undue length of time.  The manager or foreman will have to come into court and give evidence that there was a bad storm, or whatever the emergency was. This is a similar situation to what the Minister is proposing for Ministers where the chairman of the board in Dublin, who has never been in this town, knowing nothing about the emergency, who has no evidence to give at all that would be receivable in court, sends a form letter saying &ldquo;I wish the court to know there was an emergency&rdquo;.  Nobody else turns up to give evidence.  The court would have to throw him out.  They would say this is outrageous.</P>
+    </Speaker>
+    <P>If the Minister does it it has to be receivable in evidence.  The Minister knows nothing about this.  He only knows what he has been told and he signs a certificate.  He has no evidence to give that any court would normally receive.  It is only because of this subsection that the court would receive it at all.  I do not know what weight the court will give to it.  I suspect that, when the Minister's certificate is presented to the court, the court would, all things being equal, think that there was no urgency and leave it at that. If there was a particularly energetic judge or, perhaps, one who did not like Ministers, he might look into it further or he might happen to know something about the matter.  If it is of no importance it should not be here.  If it is of <Col N="35" /> weight in court then it should not be here either.</P>
+    <P>The Minister would not tolerate a situation where the chairman of a big company in Dublin could write such a certificate so I cannot see why Ministers should do it.</P>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>Where this action was called for in the particular emergency circumstances, I would hope that the Minister would be representing the public interest at all times.  The Minister would, perhaps, be in a different position from other citizens.  I agree this is accepting the exclusive fraternity to which the Senator has consigned me.  I would make the defence for all Ministers seeking such powers that it is generally regarded as an addition to the comprehensive nature of the legislation that we do have this subsection in it. The Senator makes the point that if it is not totally acceptable it should not be here anyway.  In defence of the tidy minds that Ministers should have when they consider legislation, it is necessary for us to have these loopholes stopped.  Unless the Senator feels very strongly we should let it be included.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>Trying to object to this kind of subsection is like King Canute with the sea; one has no hope.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Amendments Nos. 39, 40 and 42 are related and may be taken together.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I move amendment No. 39:</P>
+      <P>In page 11, to delete lines 34, 35 and 36.</P>
+      <P>I am proposing that the Minister, instead of making what might be very extensive changes in the legislation by regulation, should be required to do it by order, which is a more formal type of operation.  These amendments on foot of international obligations, particularly EEC directives, could be very extensive.  You could have a whole rewritten piece of legislation. To do it by regulation is a rather casual way of doing it.</P>
+    </Speaker>
+    <Col N="36" />
+    <Speaker pid="FintanKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>In amendment No. 40 it is quite acceptable and proper that the Minister may by order or in any other way amend or modify any provision of this Bill so as to comply with any international obligations which the State has or has decided to assume.  It is also proper and right that the Minister and the Government should be empowered to deal adequately with any national or moral obligation as distinct from international legal obligations.  I raise this point because I recollect that very early on in these proceedings I proposed&mdash;and this proposition was accepted by Members on both sides of the House &mdash;that a body should be established consisting of trade union representatives, educationalists and others which would be concerned with the employment of young persons and which might include in its functions the preparation of plans for a socially acceptable induction to employment and the provision of employment for young persons.</P>
+      <P>I was very glad to hear that in the other House recently the Minister indicated acceptance of the need for such a body.  It might well be that it is not proper to establish such a body for this purpose under this Bill but I hope that the Minister will indicate that this important matter is one of further commitment on his part and on behalf of the Government.  The employment of young people is a matter of tremendous importance not only for the young people themselves and their parents but for the whole future of our country.  I hope that in some way or another, if not under this Bill, the Minister and the Government will continue their commitment to availing of every avenue such as the body I propose to determine and improve the position of young persons.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I agree with the points made by Senator Kennedy regarding the necessity of further work. I have already indicated the necessity of further work in relation to the problems of young people in employment and perhaps in relation to the even more serious problems of young people who are unemployed.  I have indicated my <Col N="37" /> willingness to engage in discussions with representative interests&mdash;unions, employer interests and young persons' organisations&mdash;to see exactly what may be done in this regard.  I can assure the Senator that this is a matter we will pay some attention to in the near future.</P>
+      <P>In relation to the points of the regulation the section deals with our obligations to comply with international treaties to which the State is party.  Senator Yeats would like to alter the principle referred to in section 24 (b) which provides that the Minister may make regulations to amend or modify the Act to comply with those international obligations to which the State is party.  The senator seeks to make such amendments the subject of Ministerial orders which must be approved by a resolution of both Houses of the Oireachtas.  This issue must be divided between the treatment, first, of international agreements and, secondly, of EEC directives. It was the question of EEC directives that concerned us mainly in this House on Committee Stage.  In regard to international agreements we have Article 29, paragraph 5 of the Constitution which provides that every international agreement to which the State becomes a party must be laid before Dáil Éireann.  It would be necessary, therefore, that these constitutional requirements in relation to international agreements be complied with before there are any regulations made by a Minister.  The power contained in section 24 (b) does not go beyond what the Constitution sets out. The regulation will give effect to policy commitments previously communicated to Dáil Éireann.  Under section 27 of each House of the Oireachtas can, if it so wishes, annul such regulations when they are laid before it.</P>
+    </Speaker>
+    <P>Therefore there is no limitation on the power to make regulations which might amend the Act to comply with international obligations.  The position in relation to EEC directives must be considered in the context of the European Community Acts, 1972 and 1973.  These provide that regulations to give legal effect in this country to <Col N="38" /> measures adopted by the Community may, subject to the recommendations of the Joint Committee on Secondary Legislation of the European Communities, be annulled by resolution of both Houses of the Oireachtas within one year after the regulations are made.  The position, therefore, in regard to EEC directives has been adequately protected by legislation enacted by both Houses.</P>
+    <P>Perhaps Senators on considering this matter would realise that the prerogatives of the Oireachtas are adequately protected and that in the circumstances of this Bill there is not the need to press on with amendments, to let section 24 stand because it reflects similar provisions in other legislation relating to conditions of employment.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>The Minister is right in saying that the basic purpose of our amendments is contained in amendment No. 42 which has the effect of providing that the orders made under section 24, which would be changed to section 25 with regard to EEC directives, should be the subject of an affirmative order.  He is right in saying that section 24 does not deal only with EEC directives but also with international agreements.  The Minister is right also in that it would not be in accordance with the Constitution to provide that an international agreement had to be accepted by an affirmative order of both Houses because the Dáil has the primary right. If I restricted our amendment to EEC directives we would be on firmer ground, but since international agreements are also included I am afraid we cannot bring both Houses into it. So our amendment is defective.  I am not as happy as the Minister appears to be with the manner in which EEC legislation is incorporated in the legislation of Ireland.  I personally would not agree with him that the arrangements are working satisfactorily and that the Oireachtas still has full control over the matter.  I doubt if it has. I am not insisting that this Minister and this Bill can deal with the problem. As far as the immediate issue is concerned I concede that our amendment <Col N="39" /> does not cover the points so I am happy to withdraw it.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 40 not moved.</P>
+      <P>Government amendment No. 41:</P>
+      <P>In page 12, lines 49 and 53, to delete &ldquo;4 (4)&rdquo; and to substitute &ldquo;4 (5), 4 (6),&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 42 not moved.</P>
+      <P>Government amendment No. 43:</P>
+      <P>In page 12, line 56, after &ldquo;resolution&rdquo; to insert &ldquo;annulling the order or regulation&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>This amendment is related to the changes which have been made by amendments in section 4 and ensures that orders in relation to employment between the ages of 14 and 15 will be subject to affirmative resolutions of each House of the Oireachtas.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>I wish to inform the House that I have considered the suggestions made by Senators on Committee Stage that certain sections in the Bill should be rearranged so as to have a better sequence of presentation of the provisions in relation to working hours.  This was a point that was made on Committee Stage.  It is necessary that I should inform the House that I agree to their suggestions.  I propose therefore that the present section 9, the section dealing with normal working hours, should become section 7 and that the present section 7, the section dealing with maximum working hours of young persons over the age of 16 years, should be transposed to become section 9 of the Bill.  This makes for an easier sequence.  It makes clearer the direction of the argument to the Bill.  Some cross reference changes will arise as a result of these changes.  If I had the approval of the House, this would be my intention.</P>
+      <P>Bill, as amended, received for final consideration.</P>
+    </Speaker>
+    <P>
+      <Col N="40" /> Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>A considerable length of time has been spent in putting this Bill through the Oireachtas.  It arrived in this House in May, 1975 and has only re-emerged now.  I would hesitate to criticise the Minister unduly for this delay because the important change that he made after consultation with the Irish Congress of Trade Unions regarding the time limit of the operation of the section which enables young people to take up work during school term.  This is an important amendment.  I do not know whether it needed two years to solve this problem but at any rate it was worth spending a considerable time at it.  The Bill is a much better Bill as a result of it.</P>
+      <P>I thank the Minister for the way in which he has met a considerable number of the points that were put to him during the quite long debates we had at different times on this Bill. Since we are in the Seanad I might make the point that on this occasion as a result of its progress through the Seanad a piece of legislation has emerged which is considerably better than it was when it reached this House first.</P>
+    </Speaker>
+    <Speaker pid="JohnHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>Despite the delay in the passage of this Bill it is, as Senator Yeats indicated, a better Bill now than it was in the beginning.  The agreement of the Minister to many of the amendments put down by the Opposition shows that there can be co-operation between opposing sides of the House in regard to legislation.</P>
+    </Speaker>
+    <P>Speaking earlier I expressed concern that, in relation to the word &ldquo;welfare&rdquo; as used in the Bill, there did not appear to be anything to protect the interests of, say, an apprentice against a backlane employer who might not register him as an apprentice with AnCO so that after four or five years on endeavouring to take up his craft elsewhere the apprentice would discover that he was not registered with AnCO.  I know that inspectors call to certain premises but there have been many instances of people slipping through the net, either because the inspectors were not notified of the <Col N="41" /> business or because the person who was actually dealing with the apprentices was sending them on country trips on many occasions where they usually stayed in places where the accommodation was substandard.</P>
+    <P>It is a severe blow to a young person to find after as long as four years of employment as an apprentice that he is not registered as such.  I am not sure whether the word &ldquo;welfare&rdquo; goes sufficiently far enough in respect of dealing with that problem.  I trust that the Minister can re-assure us on this when he is replying.</P>
+    <P>This legislation signifies very worthwhile development.  It is time that something is being done in this area of the employment of young persons. It is not possible to deal with the problems of young persons in isolation because there are many other acute problems involved, but from the Minister's point of view he has done an excellent job.  If we could have more legislation of this nature it would be an indication to our young people of our concern for them and it might help them to realise that there is no need for them to react to society in a hostile way.  The way we treat them will determine their attitude to society.  Admittedly the Minister can only deal with certain aspects of the problem but there are other Ministers involved also.  It is a great blow to a young person to be made redundant. This can affect seriously his attitude to employers and to society generally. Therefore, the more legislation of this nature we introduce the better.</P>
+    <P>We must help our youth to realise that they cannot find the solutions to their problems in wrecking the employment in which they are engaged or in joining ranks with the militants who claim that they will bring about a new order.  We must take very seriously the problems of youth and the Minister deserves the congratulations of both sides of the House for finally putting something down that gives an indication to the young person that there is a concern for his welfare.</P>
+    <Speaker pid="MichaelOLeary" hpid="Minister for Labour (Mr. M. O'Leary) Michael O'Leary">
+      <NameTxt>Minister for Labour (Mr. M. O'Leary)</NameTxt>
+      <P>I wish to thank Senators on both sides for their kind remarks. Our discussions in the House here and the suggestions made have been materially <Col N="42" /> helpful in improving the provisions of this legislation.</P>
+      <P>The general intention in this Bill and in other legislation which will shortly be coming before this House, I hope, has been to reflect the greatest possible degree of agreement in relation both to the views expressed in the Houses of the Oireachtas and also the viewpoints expressed by organisations representing employee interests, the trade unions, as well as the opinions of the employer organisations.  Senators will appreciate that seeking the resolution of certain conflicts that occur in this area can in some cases lead to a great deal of delay in bringing forward legislation. In this Bill there is an illustration of that kind of situation because opposing opinions existed during its earlier stages and these took a considerable time to reconcile and thereby to make it possible to obtain the necessary agreement.  It is perhaps just as well for the Bill's provisions that it took this time because we have some improvements.  Perhaps those Senators who had reservations about some of the provisions of the Bill at that time would not feel that the Houses of the Oireachtas had fulfilled their obligations under the Constitution had they not seen certain of the strongly expressed viewpoints expressed at that time mirrored in the actual legislation itself.</P>
+      <P>We have gone a long way to ensuring that the legitimately expressed views of Senators at that time are reflected in this legislation.  Up to the passage of this we had not in either Houses of the Oireachtas addressed ourselves to the problems of young people in employment.  I would see this as the first piece of legislation in this area, an area in which, perhaps, other statutory interventions are required.  I would hope that from our experience of the working of this Bill we will see the extent of the problem this Bill sets out to deal with.</P>
+      <P>I see the Bill as representing an acceptable basis of agreement.  We must bring it back to the other House for some minor changes.  However, when it is put into operation as an effective legal instrument, I trust it will help to improve the position of young people at work.</P>
+    </Speaker>
+    <P>
+      <Col N="43" /> Senator Harte mentioned the problem of unregistered apprentices.  That is outside the ambit of this legislation, but I will refer the problem to the training authority and ask them if they have any observations to make on the points he has put forward.  In conclusion, I thank Senators on both sides of the House for the care they took in presenting amendments.</P>
+    <P>Question put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Oil Pollution of the Sea (Amendment)" RHead="Bill, 1976: Second Stage">
+    <Title>Oil Pollution of the Sea (Amendment) Bill, 1976: Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Minister for Transport and Power (Mr. T.J. Fitzpatrick, Cavan) Thomas J. (Cavan) Fitzpatrick">
+      <NameTxt>Minister for Transport and Power (Mr. T.J. Fitzpatrick</NameTxt>
+      <P>, <i>Cavan)</i>: The main purposes of this Bill are (a) to enable Ireland to become a party to the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969, (b) to enable Ireland to accept certain amendments to the International Convention for the Prevention of Pollution of the Sea by Oil, 1954, (c) to extend and strengthen the powers of the Minister for Transport and Power in relation to oil pollution of the sea, and (d) to resolve a jurisdictional difficulty in relation to the Oil Pollution of the Sea Acts, 1956 and 1965, and to increase the penalties for offences under these Acts.</P>
+    </Speaker>
+    <P>The problem of oil pollution of the sea is not a new one but it has become particularly serious over the last 20 years or so during which time the volume of oil carried by sea has increased very substantially.  In the past, oil pollution of the sea occurred mainly through the practice of dumping oil residues from tankers at sea. Nowadays, however, because of the vastly increased quantities of oil being carried by sea in tankers of ever-increasing size, a major threat is also posed by spillages following marine casualties.  The Inter-Governmental Maritime Consultative Organisation (IMCO), of which Ireland is a member, decided to take the initiative in promoting international agreements to strengthen the hands of coastal states. To date IMCO has adopted four conventions <Col N="44" /> dealing with the problem of oil pollution.  This Bill is concerned with two of these:</P>
+    <P>the International Convention for the Prevention of Pollution of the Sea by Oil, 1954; and</P>
+    <P>the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969.</P>
+    <P>Two further conventions&mdash;the International Convention on Civil Liability for Oil Pollution Damage, 1969, and the International Convention relating to the Establishment of an International Fund for Oil Pollution Damage, 1971&mdash;deal with civil liability in cases of oil pollution damage and provide for the setting up of an international compensation fund to meet the cost of major spillages.  Legislation to enable Ireland to ratify these latter conventions is at an advanced stage of preparation and I would hope to present it to the House for consideration later this year.</P>
+    <P>The purpose of the International Convention for the Prevention of Pollution of the Sea by Oil, 1954, which was drafted prior to the advent of the mammoth tankers, is to reduce the risk of pollution of the sea by oil discharged from ships.  The principal means adopted in 1954 was the designation of certain zones of the sea into which the discharge of oil was prohibited.  Amendments to strengthen the convention were adopted by IMCO in April, 1962.  Both the convention and the 1962 amendments are in force internationally, that is, they have been adopted by the requisite number of states in respect of their own ships and are implemented in Ireland by the Oil Pollution of the Sea Acts, 1956 and 1965.  IMCO adopted further amendments to the 1954 Convention in October, 1969 and October, 1971.  The 1969 amendments will come into force internationally on 20th January, 1978.  The 1971 amendments have not yet received the required number of ratifications.</P>
+    <P>The purpose of the amendments adopted in 1969 is to ensure more effective control of the discharge of oil into the sea by ships.  This is done by <Col N="45" /> introducing more restrictive controls and by making the whole sea, rather than certain specified sections, a prohibited area as far as unrestricted discharges are concerned; tighter restrictions are, moreover, imposed on all discharges&mdash;including, for example, discharges of ballast&mdash;in areas within 50 miles of land.  The ultimate object of these amendments, as expressed in the Assembly Resolution adopting the amendments, is to enable significant progress to be made towards the achievement of complete avoidance of discharges.  The principal amendments adopted in October, 1971, establish requirements relating to tank arrangements and the limitation of tank sizes of tankers in order to minimise pollution of the sea by oil in the event of an accident involving a large oil tanker. A further amendment adopted in 1971 deals with the protection of the Great Barrier Reef, that great natural phenomenon of coral reefs and cays off the Australian coast.  Although the amendment is of no practical significance to us, we intend to accept it as, by doing so, we will be contributing towards its entry into force.</P>
+    <P>Senators may have difficulty in relating the foregoing to the various provisions of the Bill.  I should explain that the sections dealing with the amendments to the 1954 Convention are, basically, sections 9, 12, 13 and 18. These are couched in general terms and the actual implementation of the 1969 and 1971 amendments will be done by way of statutory orders and regulations. For example, the 1971 amendments relating to tank sizes will be implemented by a statutory instrument made under section 16 of the Oil Pollution of the Sea Act, 1956, as amended by section 12 of the present Bill.  This section enables me to make regulations concerning the construction and fitting of ships with a view to the prevention or reduction of oil pollution.</P>
+    <P>Sections 2 to 5, inclusive, provide in detail for the implementation of the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969.  This convention arose from a special international legal conference which was convened by IMCO in <Col N="46" /> Brussels in 1969 in the wake of the <i>Torrey Canyon</i> incident.  IMCO accepted that there were serious deficiencies in the powers available to coastal states for dealing with shipping casualties involving large tankers and the consequential risk of major pollution of coastlines.</P>
+    <P>Bearing in mind that existing maritime law embodies the principle of freedom of the seas, IMCO decided it was essential to adopt an international agreement which would empower coastal states to take whatever action might be necessary to safeguard their coasts.  Accordingly the intervention convention authorises a coastal state to intervene and take measures, by sinking or towing away offending vessels, to protect its coastal and other related interests whenever such a casualty occurs.</P>
+    <P>The convention stipulates the conditions under which, and the procedures through which, such measures are to be taken.  A state which took measures that went beyond what was reasonably necessary to achieve the ends stated in the convention would be obliged to pay compensation for any damage resulting from such unjustified action.  The convention also provides for the settlement of disputes which might arise from such measures. It is intended that Ireland will ratify the convention, which came into force internationally on 6th May, 1975, as soon as possible after this Bill becomes law.</P>
+    <P>I trust Senators will appreciate that, while the powers conferred on me by section 2 of the Bill are, on first glance, virtually without limit, there are two effective controls on the exercise of such powers.  Firstly, they may only be used in cases where there is grave and imminent danger of major harmful consequences arising from a maritime casualty involving oil pollution. Secondly, section 3 of the Bill provides recourse to the courts for compensation for any person who establishes that any action taken under the Bill was unreasonably severe or unnecessary.  I consider these are adequate safeguards and I feel sure I reflect the wishes of the House when I say I sincerely hope that the <Col N="47" /> circumstances which would make it necessary for me to act under section 2 will never arise.</P>
+    <P>I should, of course, point out that the convention only relates to intervention in cases on the high seas.  As it is within the competence of Governments to enact legislation in regard to intervention within their territories without the sanction of an international agreement, the convention did not concern itself with territorial waters. The Bill is structured so that it will be possible to apply its provisions to Irish ships and to Irish territorial waters in advance of applying such provisions to foreign ships outside territorial waters.</P>
+    <P>Section 7 of the Bill, dealing with the place of commission of an oil pollution offence, is designed to remedy a defect which has been discovered in the Oil Pollution Acts. Briefly, the problem is that, while the 1956 and 1965 Acts clearly created the offence of polluting the sea by oil, they did not, it has recently emerged, confer jurisdiction on any court to try such offences.  The areas of jurisdiction of the District Courts are fixed by reference to the district electoral divisions, and do not, therefore, extend to our territorial waters.  As summary proceedings are dealt with at District Court level and proceedings on indictment are initiated at that level, it is clear that, as the Act stands, no future proceedings could be initiated for offences under them.  Section 7 remedies this defect in a manner which is used in many other instances, for example, fisheries protection and air hijackings.</P>
+    <P>Finally, the present Bill extends and updates the provisions of the 1956 and 1965 Oil Pollution of the Sea Acts, mainly by increasing substantially the various fines for offences under the Acts.  It also grants additional powers to oil pollution inspectors, the most important being that such inspectors will in future be empowered to take samples of oil from any ship.  This will assist in the sometimes difficult task of assigning responsibility for a particular spillage.  A further important strengthening of the law is <Col N="48" /> effected by section 6 of the Bill which provides powers to detain vessels which are suspected of being in breach of the Acts.</P>
+    <P>To summarise, therefore, this Bill will enable Ireland to ratify and implement the latest internationally-accepted law on the subject of oil pollution offences.  The Bill recognises the fact that, although Ireland is an island, we do not live in isolation.  Our interest lies in full support of international measures to prevent pollution. It is only fair to emphasise here that Irish shipowners in general have an excellent record in this field and, indeed, I am satisfied that foreign ships calling at Irish ports also have due regard for the desirability of keeping our seas free from pollution.  This Bill and the 1956 and 1965 Acts provide adequate controls and where necessary, deterrents in the form of fines and possible imprisonment.  As such I hope the shipowners' and the general public's awareness of the potential seriousness of the problem of oil pollution will be heightened and that we may thus move nearer to the goal of a cleaner marine environment.</P>
+    <P>I commend the Bill to the House.</P>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>This Bill is essentially in our own interests, as a small coastal State situated adjacent to major shipping lanes.  It is imperative that Ireland in particular, by reason of our vulnerability and the importance of our coastline from a tourist and environmental point of view, should be very active in adopting conventions of this kind designed to protect the environment and coastlines throughout the world from serious oil spillages and pollution.</P>
+    </Speaker>
+    <P>The really effective part of the Bill, as mentioned by the Minister, is contained in sections 2, 3, 4 and 5, providing for the implementation of the latest international convention to strengthen the powers of coastal states in regard to major spillages.  I certainly would not be the slightest bit apologetic for an Irish Minister for Transport and Power taking on the sort of controls and powers envisaged in sections 2 to 5, inclusive.  Indeed, I am certain the required powers can be taken and made <Col N="49" /> effective by way of regulation under those sections.</P>
+    <P>The aspect which, in my view, should be of real concern to the Minister and his Department from now on, once this Bill has been passed&mdash;which of course it will be by agreement of all parties both here and in the Dáil&mdash;is its implementation and the type of action that can be established by the Minister and his Department in conjunction with local authorities in coastal areas to ensure effective remedial action in the event of oil spillages or pollution threatening our coasts.  I should like to hear from the Minister on that aspect.  I appreciate that does not have to be spelled out here.  The Bill will improve the powers he can take to deal with an emergency situation. I should like the Minister to inform the House what precise measures he and his Department have in mind and what consultations have taken place with the local authorities in our coastal areas.  In other words, what sort of machinery is ready to implement the necessary and effective drastic action that will have to be taken in the event of any such spillage or serious pollution arising again as has happened on one or two occasions already?</P>
+    <P>I should like to have on record the views of the Minister in this respect because time is of the essence in a situation of this kind.  It is all very well having the legislation and having the regulation but, when such an emergency takes place, we must have an effective drill where personnel can be mobilised, where action can be taken almost immediately, and where there is a general alert system, as it were, between the Minister's Department and the local authorities around the coast, who would appear to be the most effective agencies for taking immediate action.</P>
+    <P>In other words I should like the Minister to inform us what type of drill he envisages in this respect, what officers in his Department have responsibility to make immediate contact with local authorities and harbour authorities around the coast, what people are available in these harbour and local authorities to take immediate action, what type of machinery, what <Col N="50" /> type of gear, what type of depolluting facilities, and so on, are available at key places around the coast for utilisation in an emergency situation by personnel attached to harbour and local authorities.  This is the important aspect of the whole matter.</P>
+    <P>While supporting the legislation fully and supporting the Minister in any stringent regulations he may introduce under this legislation, I should like to hear from him more specifically what precise drill he and his Department will seek to have available to protect our coasts against what can only be a very serious growing menace for a particularly vulnerable and dispersed coastal State such as ours, a coastal State which depends to a very high degree for our future prosperity on preserving our environment and enhancing the great tourist assets we have around our coast which could be severely damaged in the event of any serious spillage of this kind.</P>
+    <P>There is no question but that sovereign states throughout the world are now taking a very progressive attitude in this whole area.  It is absolutely fundamental that they be given all the powers required to deal with massive pollution of this kind, which can only be viewed in a most serious light, I give every support to the Minister in his Bill and I should like to hear from him on the sort of remedies and administration he proposes to adopt to deal in a practical, effective and immediate way with this sort of problem whenever it arises, which hopefully it will not, but we must be ready for it if it does and we must be able to take immediate and prompt action.</P>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I welcome the introduction of this Bill as an updating of our current legislation which is somewhat behindhand.  We are somewhat at a disadvantage by not having the 1956 and 1965 Acts before us but the intent of this Bill is pretty clear.  The Minister referred to a substantial increase in fines and prison sentences but he did not give the actual increases. On the face of it they seem to be fairly substantial but I would question whether they are substantial enough.  A fine of £5,000 on paper <Col N="51" /> might seem quite an enormous amount but, compared with the possible damage of major pollution, it could be quite a small figure.  I should like to see somewhere in the Bill authority given to the Minister to increase these fines or the prison sentences without having to come back to the Oireachtas.</P>
+      <P>We are in a particularly vulnerable position, a small island with a substantial coastline facing west and south west where any major accident outside our territorial waters could have a disastrous effect on our scenery and on our fishing, fauna, flora, and so on, which might run into hundreds of thousands of pounds, into millions of pounds.  Taken in that light, the fines suggested here seem to me to be if anything on the small side.  The Minister has pointed out in his speech that this Bill gives him very strong powers indeed but I should like to ask him how would he implement these powers in a state of emergency or if a serious incident were to happen deliberately or otherwise.  Have we got the necessary vessels to do it? Have we got the necessary equipment and the personnel to do it?  If a big tanker starts shipping out oil in the high seas, are we in a position to prevent this?</P>
+      <P>It is one thing to have these powers, I agree with the Minister that the more far ranging the powers are the better, but we would want seriously to consider how we are going to implement these powers.  As the Minister said, over the past 20 years there has been an enormous increase in this type of pollution.  It really came to a head some ten or 12 years ago with the <i>Torrey Canyon</i> disaster which caused such extensive damage off the south west coast of England.  It really galvanised the British authorities into doing something about it and doing it quickly.  We must ensure that This legislation will be effective.</P>
+    </Speaker>
+    <P>I too, should like to support Senator Lenihan in suggesting that the Minister's agents should be people who are normally competent to deal with harbour affairs, that is, the harbour authorities and local authorities.  As <Col N="52" /> the Minister is aware there are group schemes, regional schemes on oil pollution which are organised on a regional basis.  Limerick Harbour is the centre for one of them in the south west.  These are the people who should be the effective agents for putting this legislation into effect.  I do not know whether any of the harbour authorities or other authorities were consulted on the drafting of this Bill. I have a feeling they were not.</P>
+    <P>I know a lot of wisdom reposes in the Department of Transport and Power, and other Ministers' Departments but the people directly concerned with the seas and with our waterways and estuaries should be consulted on legislation of this kind. The average Irish harbour master knows quite a lot about oil pollution and the possible dangers to the rivers or estuaries under his jurisdiction. Before the Bill becomes law there should be consultation with the harbour authorities, perhaps through the Irish Port and Harbour Authorities Organisation or directly through the harbour masters around the coast.</P>
+    <P>Mention is made in the Bill of a requirement for ships registered in the State to provide certain types of anti-oil pollution devices.  What about ships registered outside the State, which are the greatest number of ships trading into our waters?  Have we any say about those?  Is there any international co-ordination whereby all types of ships are required to be fitted out to a certain degree of safety?  I see the advantage of requiring our own registered ships to do this, but what about the others?</P>
+    <P>Apart from these and one or two other points which can be dealt with on Committee Stage I welcome the Bill.  Even though they look very substantial in this Bill I do not think the fines are sufficient to deter what has now become a very major threat to all maritime countries, and we are an important maritime country.  Every device, including very heavy fines and threatened prison sentences, should be included in the Bill to prohibit what would be a disaster to our coastline if it were to happen.  Up to now we have been extremely fortunate, except for <Col N="53" /> the Bantry Bay spillage a few years ago, and one or two minor cases.  We have been extremely lucky but, on the law of averages, we may not continue to be so lucky and now is the time to take all possible precautions by way of deterrents.  We must ensure that our legislation can be effectively implemented.</P>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Minister for Transport and Power (Mr. T.J. Fitzpatrick, Cavan) Thomas J. (Cavan) Fitzpatrick">
+      <NameTxt>Minister for Transport and Power (Mr. T.J. Fitzpatrick</NameTxt>
+      <P>, <i>Cavan):</i> I want to thank Senator Lenihan and Senator Russell for the reception they have given the Bill and for the assurance that it will pass through both Houses of the Oireachtas by agreement.  As Senator Lenihan has said, Ireland being an island country, the protection of our environment is of the greatest importance.  An unpolluted environment and atmosphere is one of our greatest assets, especially at a time when other countries are becoming built up and being polluted in one way or another.  It was because we realised the importance of this that we subscribed to the convention which the introduction of this Bill and its passing through the Oireachtas will enable us to ratify.  It was because of our consciousness of the importance of the environment, the importance of ensuring there would be no pollution and that our atmosphere and environment would be preserved that we subscribed to that convention.</P>
+      <P>While welcoming the Bill Senator Lenihan asked what steps we would take to implement it or what measures would be available to us to ensure that the desirable sections of this Bill could be enforced.  The position is that overall responsibility for the environment is vested in the Minister for Local Government.  The Department of Local Government have already established, in conjunction with the local authorities, the harbour authorities and the Naval Service, clear lines of responsibility for dealing with pollution.</P>
+    </Speaker>
+    <P>Briefly, responsibility for offshore pollution rests, as one would imagine, with the Naval Service.  Recent weeks and months have shown that the Naval Service will have other duties, functions and responsibilities in regard <Col N="54" /> to our fisheries.  In the not very distant past, that service gave a very good account of itself when having to intercept a large foreign trawler, a large factory ship.  On that occasion the fishery protection service gave a very good account of itself and saw to it that our fisheries were protected and our rights upheld.</P>
+    <P>Local and harbour authorities are responsible for onshore pollution protection. I do not think I would be expected at this stage to go into the position in detail.  I can assure the Seanad that local authorities have appointed oil pollution officers who are preparing, and have prepared in some cases, contingency plans for dealing with pollution incidents.  Generous financial assistance is available from the Department of Local Government for expenditure by local and harbour authorities on anti-pollution equipment such as detergents and so on.  The Naval Service have already equipped four vessels for oil pollution clearance. All these arrangements are constantly under review and will be looked at again and updated and improved in the light of our added responsibilities.</P>
+    <P>It is sometimes easy to talk in the abstract and say what will be done and what arrangements will be made, but I can best allay the fears expressed by Senator Lenihan by referring him to the incident when our fishery protection service found it necessary to halt, intercept, board, arrest and bring into harbour a large foreign ship, which, for one reason or another, whether because of lack of communication or language difficulties, did not appear to be fully co-operative. Senators may rest assured that the necessary machinery, equipment and vessels to enforce this and our other responsibilities will be or are available.</P>
+    <P>Senator Russell raised the point of the fines and the penalties provided for in the Bill.  Of course, the heaviest penalty is a penalty of £100,000 with a further penalty of £10,000 for every day the offence continues.  I put it to the Seanad that, by any standards, that is a heavy penalty.  As the House knows, the biggest penalty in the case of trespassing or offending ships is the <Col N="55" /> right to arrest and detain, which is also provided for in the Bill.  In section 2 what might be regarded as very extreme powers are given to the Minister &mdash;the right to arrest, to tow away and to sink.</P>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>Proper order.</P>
+    </Speaker>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> As Senator Lenihan says that is only proper order.  Subsection (6) of section 2 sets out the cases in which these extreme powers may be carried out or used.  It provides:</P>
+      <P>The powers conferred on the Minister by this section may be exercised&mdash;</P>
+      <P>(<i>a</i>) if, but only if, the Minister has reasonable cause to believe, following a maritime casualty, that there is grave and imminent danger of major harmful consequences through pollution by oil to the coastline of the State or related interests including&mdash;</P>
+      <P>(i)  maritime, coastal, port or estuarine activities, constituting an essential means of livelihood for persons concerned,</P>
+      <P>(ii)  the tourist amenities of the area concerned,</P>
+      <P>(iii)  the conservation of marine fauna and marine flora and the habitats of such fauna and flora,</P>
+      <P>(iv)  the health of the coastal population and the well-being of the area concerned including conservation of living marine resources...</P>
+      <P>If any of the matters I have outlined are affected, power is given in the Bill to remove the ship, beyond the limit of the harbour, or to restrain or control its movements.  The unloading or discharge of the cargo may be controlled. The Minister is empowered to take or to restrict the specified salvage measures and, as a last resort, is entitled to sink the ship. Those are extreme measures, coupled with the penalties of £100,000 with £10,000 a day for continuing offence.  These are substantial penalties according to any standard.</P>
+    </Speaker>
+    <P>
+      <Col N="56" /> Senator Russell has suggested that power should be taken in the Bill to increase the penalties by ministerial order.  I think the Senator, on reflection, will be satisfied that that would not be a suitable power to give to any Minister.  I doubt if there is a precedent for it; it is not a power I should like to take.  If it turns out that the penalties are inadequate then the proper procedure would be to come back to the Oireachtas and seek more severe penalties.</P>
+    <P>Senator Russell also mentioned the power taken in the Bill to provide by regulation that ships registered in Ireland shall be constructed and equipped in such a manner as to avoid pollution. Senator Russell raised a point about ships not registered in Ireland, ships which could be the greatest offenders.  The answer to that question is that, if those ships are registered in countries which have ratified the convention, they will be responsible for enforcing the same standards and equipment as we have prescribed here. That is the object behind the convention.</P>
+    <P>Those are the only points raised by the two Senators who have contributed to the Second Stage debate.  I wish to thank them for their contributions and I trust I have answered the points raised by them.</P>
+    <P>Question put and agreed to.</P>
+    <P>Agreed to take remaining Stages today.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Oil Pollution of the Sea (Amendment)" RHead="Bill, 1976: Committee Stage">
+    <Title>Oil Pollution of the Sea (Amendment) Bill, 1976: Committee Stage.</Title>
+    <P>Sections 1 to 7, inclusive, agreed to.</P>
+    <P Just="Center">SECTION 8.</P>
+    <P>Question proposed: &ldquo;That section 8 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>On section 8, are there any harbour authorities, such as pier authorities, operated by county councils?  They do not seem to be to be provided for in this section. What happens in the case of a harbour with no effective authority?</P>
+    </Speaker>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> I will deal with the Senator's last <Col N="57" /> point first, that is, a harbour with no effective authority.  The authority in that case under paragraph (d) would be the person entitled to charge rates in respect of vessels entering or using the harbour.  Section 8 amends section 3 of the 1956 Act by substituting for the definition of &ldquo;harbour authority&rdquo; contained in that Act, the following definition:</P>
+      <P>&ldquo;harbour authority&rdquo; means&mdash;</P>
+      <P>(a)  in the case of a harbour to which the Harbours Act, 1946 (No. 9 of 1946), applies, the harbour authority under that Act,</P>
+      <P>(b)  in the case of a harbour under the control and management of the Commissioners of Public Works in Ireland, the Commissioners,</P>
+      <P>(c)  in the case of a fishery harbour centre to which the Fishery Harbour Centres Act, 1968 (No. 18 of 1968), applies, the Minister for Agriculture and Fisheries,</P>
+      <P>That type of harbour came into existence subsequent to the Act of 1956 and that is why the amendment, in paragraph (c) was necessary,</P>
+      <P>in any other case, the person entitled to charge rates in respect of vessels entering or using the harbour.</P>
+      <P>In the case of harbours controlled by county councils, if there are such&mdash; and I am assured there are&mdash;then the county council, as the person entitled to charge harbour dues or rates, would be the harbour authority.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>That is clear enough.</P>
+      <P>Question put and and agreed to.</P>
+      <P>Sections 9 and 10 agreed to.</P>
+      <P Just="Center">SECTION 11.</P>
+      <P>Question proposed: &ldquo;That section 11 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>When I mentioned small fines earlier, I knew of the fine of £100,000; but that applies where no <Col N="58" /> special penalty is provided for.  In this particular instance the fine is £200.</P>
+    </Speaker>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> Under section 14 of the Act of 1956 the onus was placed on the owner or master of a vessel or on the occupier of the place to report to the harbour master any discharge of oil into the harbour.  The present Bill makes the owner, master or occupier of an attending apparatus liable to report to the Minister the cause and fact of any discharge into territorial seas.  A person found guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding £200 as compared with a fine of £100 in the comparable provision of the 1956 Act. The extension of the requirement of the 1956 Act in relation to reporting of discharges is considered desirable to cover, for example, oil discharges at private harbours or at other private terminal facilities.  The offence is for failing to report this or notify the Minister.  The penalty has been increased to £200.</P>
+      <P>As Senators will appreciate when fixing penalties for summary offences one must have regard to the Constitution. If the fines are too severe, the Supreme Court takes the view that the offence ceases to be a trivial offence which can be properly dealt with in a summary manner.  The case must then be tried by a judge and jury. I do not want to mislead the Seanad. I concede that fines up to £500 have been accepted by the Supreme Court as not putting the offence outside the category which can be dealt with in a summary manner.  I shall have a look at that particular fine between now and the Bill coming before the Dáil. If I think it should be increased, I will introduce an amendment.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 12 agreed to.</P>
+      <P Just="Center">SECTION 13.</P>
+      <P>Question proposed: &ldquo;That section 13 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>In section 13 the figure of £500 is used, so the Minister might think of bringing it into line.</P>
+    </Speaker>
+    <Col N="59" />
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> I have said I am satisfied that £500 is acceptable and I will consider the matter.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>It would be consistent with what is in section 13.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 14</P>
+      <P>Question proposed: &ldquo;That section 14 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I should like to make the same point again about the £200 fine in section 14.  We should go to the limit to ensure that these people report any leakages or defects of any kind.  I am not a lawyer, but if £500 is acceptable I would go to £500.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>That would make for consistency when you have £500 in one section.</P>
+    </Speaker>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> The fine in this case has been increased from £50 under the 1956 Act to £200 at present.  I will have a look at the penalties between now and next Stage in the Dáil.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 15</P>
+      <P>Question proposed: &ldquo;That section 15 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I must make the same comment again on the fine of £200.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 16 to 20, inclusive, agreed to.</P>
+      <P>Title agreed to.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>If there is a disaster and considerable damage is caused to, say, an estuary or coastline, where does the liability rest for cleaning up and making good the pollution?  I understand that there was an association of tanker owners who in fact accepted liability for this particular clean up but that not all tanker owners are in that organisation.  If the damage was caused by a tanker owner not a member of this international body, who would then accept liability for it?</P>
+    </Speaker>
+    <Col N="60" />
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> The Seanad will appreciate that this Bill deals with the criminal law and sets out to create offences and prescribe penalties.  If the Senators will look at section 4 they will see that the provisions of section 3 of this Bill are without prejudice to the right of the Minister, or any injured party, to take action against a third party in any case where there is a maritime casualty and it appears that the maritime casualty occurred by reason of negligence or default of such third party. Section 4 clearly preserves the right of the Minister, or the harbour authority or a land owner to follow up his civil rights.  As the law stands, in my opinion, the person who would be legally liable for the damage done would be the owner of the offending ship and the person suffering the loss or damage can follow the owner of the ship.</P>
+      <P>There are other conventions which deal with civil liability and I hope to be in a position to introduce further legislation this year dealing with that aspect of the matter.</P>
+    </Speaker>
+    <Speaker pid="TimothyWest" hpid="Dr. West Dr. West">
+      <NameTxt>Dr. West</NameTxt>
+      <P>In other words, the problem of recovery of costs for clean up, which presumably would not be covered by this Bill, will be covered by the further conventions being brought in. For example, if in Senator Russell's area, the Shannon estuary was polluted by a tanker from, say, Liberia, running aground, at the moment there is not much come-back.  If we ratify these conventions then we will be in a position, through international law, to claim the costs of clean up from the owners of the offending vessel?</P>
+    </Speaker>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> I cannot do better than to refer the House to my speech when I said that two further conventions&mdash;the International Convention on Civil Liability For Oil Pollution Damage, 1969, and the International Convention relating to the Establishment of an International Fund for Oil Pollution Damage, 1971&mdash;deal with civil liability in cases of oil pollution damage and provide for the setting up of an international compensation fund to meet the cost of major spillages.  Legislation <Col N="61" /> to enable Ireland to ratify these latter conventions is at an advanced stage of preparation and I would hope to present it to the House for consideration later in the year.  I am satisfied that the law as it stands at the moment is that the injured person must follow the owner of the offending ship but that when these conventions are ratified and legislation introduced the machinery which I have just described will be available.</P>
+    </Speaker>
+    <Speaker pid="TimothyWest" hpid="Dr. West Dr. West">
+      <NameTxt>Dr. West</NameTxt>
+      <P>I presume that countries like Liberia and Panama, which are countries&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JoeJMcCartin" hpid="Acting Chairman (Mr. McCartin) Acting Chairman (Mr. McCartin)">
+      <NameTxt>Acting Chairman (Mr. McCartin)</NameTxt>
+      <P>I should like to point out to the Senator that this debate is out of order. Such matters may be raised on the Fifth Stage.</P>
+      <P>Bill reported without amendment.</P>
+    </Speaker>
+    <Speaker pid="JamesSanfey" hpid="Comdt. Sanfey Comdt. Sanfey">
+      <NameTxt>Comdt. Sanfey</NameTxt>
+      <P>I should like to request that we adjourn the sitting at this stage for an hour to accommodate my making certain inquiries regarding the other business to be taken by the House.</P>
+    </Speaker>
+    <Col N="62" />
+    <Speaker pid="TimothyWest" hpid="Dr. West Dr. West">
+      <NameTxt>Dr. West</NameTxt>
+      <P>Could I ask the Minister this question because I will not be here in an hour's time?  It is concerning countries like Liberia and Panama who have special attraction for ship owners because they do not apply international regulations in regard to safety factors and so on.  Presumably these countries will be unlikely to ratify conventions like this?</P>
+    </Speaker>
+    <Speaker pid="ThomasJFitzpatrick" hpid="Mr. T.J. Fitzpatrick (Cavan) Mr. T.J. Fitzpatrick (Cavan)">
+      <NameTxt>Mr. T.J. Fitzpatrick</NameTxt>
+      <P>
+        <i>(Cavan):</i> I am told they have ratified.  The two countries mentioned by the Senator, Liberia and Panama, have already ratified the convention.</P>
+    </Speaker>
+    <Speaker pid="TimothyWest" hpid="Dr. West Dr. West">
+      <NameTxt>Dr. West</NameTxt>
+      <P>So we will be able to get at the owner through the government of the country involved.</P>
+      <P>
+        <i>Business suspended at</i> 5.15 <i>p.m. and resumed at</i> 6.30 <i>p.m.</i></P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Oil Pollution of the Sea (Amendment)" RHead="Bill, 1976: Report and Final Stages">
+    <Title>Oil Pollution of the Sea (Amendment) Bill, 1976: Report and Final Stages.</Title>
+    <P>Bill received for final consideration and passed.</P>
+    <P>The Seanad adjourned at 6.40 p.m. <i>sine die.</i></P>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Fri" Date="25" Month="May" Year="1990" Vol="125" No="3" DateIrish="Dé hAoine, 25 Bealtaine 1990" DateEnglish="Friday, 25 May 1990" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="377" /> Chuaigh an Cathaoirleach i gceannas ar 12 mean lae.</P>
+    <P Just="Center">
+      <i>Paidir</i>.</P>
+    <P Just="Center">
+      <i>Prayer</i>.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I have notice from Senator Joe Costello that on the motion for the Adjournment of the House today he proposes to raise the following matter:</P>
+      <P>the need for the Minister for Education urgently to provide permanent accommodation and proper facilities for the pupils of St. Aidan's Christian Brothers secondary school, Whitehall, Dublin 9, to replace the present totally inadequate prefabricated structure which has been in existence for over 20 years.</P>
+      <P>I also received notice from Senator Dan Neville of the following matter:</P>
+      <P>The urgent need for the Minister for Education to fulfil her commitment to the construction of a community school at Rathkeale, County Limerick.</P>
+      <P>I regard the matters raised by Senators Costello and Neville as suitable for discussion on the Adjournment.  I have selected Senator Costello's matter and it will be taken at the conclusion of business. Senator Neville may give notice on another day of the matter he wishes to raise.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>It is proposed to take Nos. <Col N="378" /> 1, 2 and 3.  In respect of No. 1, I am proposing, in agreement with the other groups, that there be one speaker from each group.  In regard to No. 2, it is proposed, by agreement, notwithstanding anything in Standing Orders, that the proceedings on the Finance Bill, 1990, and on the motion of concurrence with the early signature of the Bill by the President, if not previously concluded, shall be brought to a conclusion at 5.15 p.m.  One question shall then be put from the Chair which shall, in relation to recommendations, include only recommendations from the Government.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>We agree to the Order of Business.  I should like to send our congratulations to <i>NCB Ireland</i> for having completed the round the world yacht race.  A great number of people have knocked this project but it is a matter of great pride that they have finished so well up the field.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Farrell Mr. Farrell">
+      <NameTxt>Mr. Farrell</NameTxt>
+      <P>I should like to be associated with the vote of congratulations to <i>NCB Ireland</i>.  The standby tanks fitted were made in my little village of Grange, County Silgo, by SF Engineering.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>It would be remiss of me not to add my congratulations.  I wish to inquire about the progress of the Derelict Sites Bill, which has left this House.  We were fortunate that the Minister was kind enough to accept two amendments.  That was over two months ago.  Has any progress been made?  The necessity for very early implementation was emphasised during the course of the debate.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I would ask the Leader of the House if and when we will get an opportunity to discuss the constitutional implications of the case which has now become known as that between Senator Norris and the Committee on Procedure and Privileges.  I do not wish to make a speech on this matter but nevertheless I should explain that Seanad Éireann has been named specifically as a defendant in <Col N="379" /> the High Court.  It is the first time that has happened.  Will we have an opportunity to discuss the constitutional implications? I ask this of the Leader of the House, with all due deference.</P>
+    </Speaker>
+    <Speaker pid="EoinRyan" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I should like to propose a vote of good wishes to the Irish football team which left this morning on the World Cup campaign.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>We all support Senator Manning in his vote of congratulations.  I will find out about the Derelict Sites Bill and come back to Senator Costello as soon as possible.  Senator Hanafin raised a constitutional matter.  It is a question I cannot answer but most of us would like to see it answered.  It is something which I hope will be dealt with in another forum on another day.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I am not sure if I have permission to speak again.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Strictly speaking, you have not but in the mood of goodwill which we have I will allow it for a brief moment.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>Goodwill?  The Fianna Fáil Members enjoy that but there was lack of evidence of it earlier today.  This is quite a serious matter.  I am very concerned about the dignity of this House, of which I have been honoured to be a member for 21 years.  I am concerned about my own political party, as others are concerned about their parties, and for the dignity of the House.  The Leader of the House has not clarified the position.  He said he hoped it would be dealt with in another place by another group.  Does he mean the Committee on Procedure and Privileges?  I have asked if it will be dealt with in the Seanad.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Leader of the House has replied and I have allowed you to make your comment.  That should conclude the matter.</P>
+    </Speaker>
+    <Col N="380" />
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I am not questioning your statement or correcting the Senator's words but I have a very full statement&mdash;&mdash;</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Senator Hanafin. without interruption, please.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>Because agreement has been reached between the Whips on item No. 1 I cannot deal with the statement.  I asked a question but I did not get a suitable answer.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The position, in accordance with Standing Orders, is that when the Leader of the House replies that is deemed to conclude the debate on Standing Orders and I then put the question: is the Order of Business agreed?  I have to put that question now.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I do not think I have been shown the courtesy the Leader of the House should show a Senator.  He has not answered my question&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Unfortunately I cannot&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>This will have grave implications&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>&mdash;&mdash;enter into any disagreement which may obtain between the Senator and the Leader of the House.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I appreciate that but this has grave constitutional implications.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I appreciate that the Senator may very well be correct in his view but at the same time&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="LawrenceMcMahon" hpid="Mr. McMahon Mr. McMahon">
+      <NameTxt>Mr. McMahon</NameTxt>
+      <P>We are not in the other House.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>&mdash;&mdash;I must adhere to Standing Orders.  I must now ask if the Order of Business is agreed.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>May I ask if we will <Col N="381" /> have an opportunity of clarifying that point?</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Senator cannot ask any question at this stage.  I have put the question: Is the Order of Business agreed?  Agreed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="High Court Judicial Review:" RHead="Motion">
+    <Title>High Court Judicial Review: Motion.</Title>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann waives it right to seek costs against the Applicant, Senator Norris in the High Court Judicial Review Number 67 of 1990 provided the Applicant discontinues and withdraws his proceedings against Seanad Éireann in the said Judicial Review without seeking costs of same.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>On a point of order, I do not wish to upset the Leader of the House but it is very difficult to hear what he is saying.  I would appreciate it if he could&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>Poor acoustics.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I doubt if it is a cause of concern only to the Senator. The system in the House seems to be inadequate but I do not think Senator Fallon can be held responsible for that inadequacy.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>This is a technical motion and a legal requirement to ensure that Seanad Éireann is withdrawn from the judicial review proceedings.  The main reason for seeking the withdrawal of the Seanad from these proceedings is to ensure that there is no legal precedent in any shape or form whereby a House of the Oireachtas was a named respondent in High Court judicial review proceedings. This motion is of narrow scope and the settlement of the judicial review does not arise under it.</P>
+    </Speaker>
+    <P>On a personal level, as leader of the Fianna Fáil group in the Seanad, I am happy that this long running saga is near a successful conclusion.  I should like to <Col N="382" /> thank all those involved in this very difficult situation.  In admitting his error of judgment, as he did previously, the Cathaoirleach is continuing in a logical follow-on to accept full responsibility and has agreed to pay the costs, thus avoiding what many people believe would have been wrong, that is the taxpayer having to pay the costs.</P>
+    <P>I want to refer to the point raised by Senator Hanafin.  Senator Hanafin, like every Member of this House, is concerned with this issue.  I applogise to Senator Hanafin if I was not as forthcoming as he would have liked me to be.  I should like to think that this wider constitutional issue between the courts and the Oireachtas will be addressed in the future.  I do not know if this should be done in this or in another forum on another day but it seems to me that it should be done in another forum on another day.  I should like to see this issue resolved, as I am sure everyone in this House and the other House would.  It is a matter of great concern to everybody.</P>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I am calling Senator Maurice Manning.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>Will I be allowed to reply to&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The House agreed on the Order of Business that there would be one speaker only from each political group.  In those circumstances, I understand that the Leader of the House, Senator Fallon, was the speaker from the Fianna Fáil group.  I must stick to the decision which was made on the Order of Business.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I accept your ruling without question but I should like to point out that as it was Seanad Éireann which was involved in the High Court proceedings the issue should, therefore, be discussed in this House and not in some other forum.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I appreciate the view expressed by the Senator.</P>
+    </Speaker>
+    <Col N="383" />
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>As we all know, this has been a long, unhappy and unfortunate episode in the history of this House.  It has done great harm to the House but I believe that the Cathaoirleach, in assuming personal responsibility and agreeing to personal liability in this matter, is behaving in a way which, in the circumstances, is both proper and generous.  I commend him on this and hope today will mark the end of this episode.</P>
+      <P>What we as a party have said about the various elements in this episode is on the record of the House and is there for all to see.  My group have no intention today of reopening those matters or redebating the issues of the past couple of months, and I certainly do not think it would be in the interests of the House so to do.</P>
+      <P>However, there are two matters which require clarification and brief mention today.  The first is the original allegation made against the Cathaoirleach.  It is in everybody's interest that this matter be investigated through a procedure acceptable to both sides.  It is in everybody's interest that the true facts of this matter be established.  I believe that everybody in this House wants to see the facts of the original allegation established.</P>
+    </Speaker>
+    <P>The second point has been referred to by the Leader of the House and Senator Hanafin.  This is a more complex issue and deals with the constitutional implications of what has happened.  A number of my senior colleagues, Senator McDonald, Senator McMahon, Senator Howard and Senator Neville and others are extremely concerned at what they see as a major change in constitutional practice. It is their view that the decision of the High Court crossed a constitutional divide which had hitherto remained uncrossed and this is a matter which needs to be clarified in all our interests in a calm and reasoned way.  I would welcome an undertaking from the Leader of the House that this issue will be attended to as a matter of urgency and that he will come back to the House with some proposal where the House can play <Col N="384" /> its part in seeing that these issues are resolved.</P>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I am not sure that all the issues are possible of resolution.  It has been an unfortunate experience in this country that many issues are resolved only after a lengthy court case.  There is no guarantee as to the outcome of such cases.  Nonetheless, in so far as this House can establish clarity on these matters, we should do so as a matter of urgency.</P>
+      <P>Finally, I sincerely hope that this motion will end the episode and that out of all these very unhappy months can come a stronger, reformed, energised and relevant Seanad.</P>
+    </Speaker>
+    <Speaker pid="CarmencitaHederman" hpid="Mrs. Hederman Mrs. Hederman">
+      <NameTxt>Mrs. Hederman</NameTxt>
+      <P>I do not wish to speak on behalf of the Independent group of Senators.  I was not aware that Senator Norris or Senator Joe O'Toole, the leader of the group, were not going to be here today.  As I have not been apprised of the facts I do not want to speak on behalf of the Independent group of Senators.</P>
+      <P>I agree with previous speakers that this has been a most unhappy episode. Indeed, since I became a Senator there seems to have been nothing except unhappy episodes of one kind or another. I hope this motion will bring this unfortunate incident to a conclusion so that the House can proceed to deal with the serious business &mdash; long agendas, motions and so on.</P>
+    </Speaker>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>On behalf of the Progressive Democrats, I wish to say that we believe the Cathaoirleach has acted correctly, properly and in the interests of the House on this occasion.  I hope the matter can now be brought to a conclusion to everybody's satisfaction and that the attention of the House will not continue to be diverted by matters of this nature, legal action and the like.</P>
+    </Speaker>
+    <P>I share the disquiet which has been expressed by several people about the constitutional implications of this case. Fundamental questions have been raised about the nature of the relationship <Col N="385" /> between the Oireachtas and the Judiciary.  There is a need to address those issues and clarify the position but I agree that that is a matter for another day.  The onus is on us to fulfil the serious obligations we have to the people to conduct our affairs in a business-like, professional and efficient way.  We must deal with the legislative programme which the people require us to do on their behalf. I hope we can now put this matter behind us.</P>
+    <Speaker pid="PatUpton" hpid="Dr. Upton Dr. Upton">
+      <NameTxt>Dr. Upton</NameTxt>
+      <P>I welcome the motion before the House.  It will, I believe, permit all Senators to concentrate on the primary business of the House and set about restoring its authority.  The whole affair ensures that the Committee on Procedure and Privileges, and other committees of the House, will conduct their business in accordance with the principles of natural justice.  The fact that taxpayers did not have to pay costs in this case ensures that Senators who got to the courts will do so on the same basis as other citizens.  I welcome the fact that this business has ended without any special privileges being accorded to any group or any person, irrespective of who they are. I share the concern of Members about the broader constitutional implications of this whole affair and I look forward to them being clarified in a calm and dignified manner.  I hope the House will have a role to play in that clarification.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Finance Bill, 1990 :" RHead="Committee Stage (Resumed) and Final Stages">
+    <Title>Finance Bill, 1990    [Certified Money Bill]:    Committee Stage (Resumed) and Final Stages.</Title>
+    <P>Question proposed: &ldquo;That section 29 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I am not overly familiar with the concept of EEIGs but I have learned about them from reading my brief and I am aware of the tax treatment proposed.  I should like to ask the Minister how many such groupings there are <Col N="386" /> in the country and how many people in such partnerships will be affected.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Minister for Finance (Mr. A. Reynolds) Albert Reynolds">
+      <NameTxt>Minister for Finance (Mr. A. Reynolds)</NameTxt>
+      <P>On 15 May there were none registered.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 30.</P>
+      <P>Question proposed: &ldquo;That section 30 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I welcome this provision and I should like to commend the Minister, and his colleague the Minister for the Enviroment, on extending urban renewal relief generally.  We have been fortunate in Wexford to benefit from the scheme.  Indeed, recently we won the Europa Nostra Award for work done under the scheme.  I should like to ask the Minister if concerns were expressed to him by small rural towns who benefit from the scheme about difficulties in regard to parts of the towns that do not come within the designated areas.  There is a lot of rivalry, and some bitterness, between trades councils and other groups in regard to areas which are outside the perimeter.  In some cases, for example, the north of the main street is included but the south of the main street is not. Has the Minister any notice of such problems? Can he recommend some sensitive handling of the issue?  Something will have to be done because if this is allowed to continue it will distort trade and competition and in that event there will be some losers.  In Wexford the south end traders have a major problem.  I commend the scheme.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>I welcome the extension of certain time limits of the urban renewal relief scheme.  In Ennis we did not experience the problems highlighted by Senator Doyle.  I am aware that in Clonmel, Limerick and Waterford they did not experience such problems.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>They did in Waterford.</P>
+    </Speaker>
+    <Col N="387" />
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>They may have experienced a few problems.  In Ennis there was a co-ordinated effort by the business community, trade unions, people anxious to invest private capital and the Department. There was a positive approach by them all to the areas that should be included.  The person who thought of the urban renewal scheme should be commended.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>It was former Deputy John Boland, and the Minister for Finance extended it.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>In that event I should like to give credit to former Deputy John Boland and it is important to point out that the Minister for Finance and the Minister for the Environment are improving the position.  The Minister indicated that the Revenue Commissioners produced a booklet outlining proposals on tax reform and I am sure that has proved very helpful.  Due to the complications involved in any changes introduced by the Department of Finance I appeal to him to produce literature on the urban renewal scheme.  Such information should be circulated to businessmen, the trade unions and others anxious to get involved in such schemes. It is my view that irrespective of how far we extend the boundary we will not please everybody.  The line will have to be drawn somewhere.  I agree with Senator Doyle on how successful the scheme has become.  I was astonished at the interest in the scheme by the private sector and I am pleased that small businesses, and not big concerns, are getting involved.</P>
+    </Speaker>
+    <Speaker pid="JohnJRyan" hpid="Mr. J. Ryan Mr. J. Ryan">
+      <NameTxt>Mr. J. Ryan</NameTxt>
+      <P>I should like to compliment former Deputy Boland on initiating the scheme and the Ministers for Finance and the Environment on extending it.  It has proved to be of tremendous benefit to small towns and it has proved a great success in Nenagh, Galway, Limerick and Ennis.  It is important that the Minister, local authorities and private enterprise should get involved.  I welcome the extension of the date because, despite my efforts, I failed to have Nenagh <Col N="388" /> included in the last stage.  I will continue my efforts to have it included before 1993 and with the help of the Minister for Finance and the Minister for the Environment, I hope that Nenagh will benefit to the same extent as Ennis, Limerick and other parts of the country.</P>
+    </Speaker>
+    <Speaker pid="LiamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I also welcome the time extension.  In relation to Senator Doyle's remarks, can the Minister envisage the expansion of the appeals system?  Perhaps other areas could be looked at again. Does the Minister have any facts and figures in relation to extra jobs being created or on what the money has been spent?  In regard to the scheme in Dublin city, many areas are going downhill while others are prospering.  Will the Minister consider expanding the scheme to these areas?</P>
+    </Speaker>
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>I also welcome the section and I plead with the Minister to consider further extensions &mdash; either now or in due course &mdash; because it is probably one of the most beneficial Government measures, in co-operation with urban communities, which has been devised and carried out in recent years.  There is a lot of talk about the environment in terms of quality of living because the decay at the centre of western European and American small towns becomes a vicious cycle accompanied by a deepening poverty which is very difficult to remedy and which in turn, leads to crime.  However, the scheme has already made a significant difference in Dublin and it is one of the most welcome ways in which the Government, at a relatively low cost, are restoring life to this city.  The same applies to many other cities and towns.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I do not share the same benign view which has been expressed in relation to the urban renewal scheme.  It has benefited small villages and towns but it has not been beneficial in Dublin. There has been very little order, organisation, planning or a comprehensive and integrated look at the designated areas in regard to the eventual outcome.  Living in the inner city, my experience is that the <Col N="389" /> designated areas tend to meander around areas which are ripe for private speculatory development.</P>
+      <P>I spoke on this matter on Second Stage. The scheme includes part of Gardiner Street and takes in the Georgian property in Mountjoy Square, which is ripe for development but it ignores ghetto areas in much the same way as the scheme in relation to the Financial Services Centre which is about to detenant Sheriff Street to make room for a programme of &ldquo;urban renewal&rdquo;.  That is not a substitute for a comprehensive, integrated plan for our capital city.  This is a cultural capital and we are not talking about piecemeal development which will be open to abuse. I am worried about that.  It is a good principle but I have a jaundiced view of the implementation of the scheme.  In talking about Dublin we must include the whole city.  I can envisage parts of Dublin being developed and others left as ghettos and more polarised&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JohnHarte" hpid="Acting Chairman (Mr. Harte) Acting Chairman (Mr. Harte)">
+      <NameTxt>Acting Chairman (Mr. Harte)</NameTxt>
+      <P>I have been liberal in allowing the Senator to speak but it is turning into a Second Stage debate.  I remind the Senator that we are dealing with section 30.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>Will the Minister address the problem of the lack of integrated development in relation to the scheme and the scope it gives to private speculators?</P>
+    </Speaker>
+    <Speaker pid="MaryJackman" hpid="Mrs. Jackman Mrs. Jackman">
+      <NameTxt>Mrs. Jackman</NameTxt>
+      <P>I welcome the continuation of the initiative started by former Minister John Boland but I have a few questions.  One relates to the priority given to service industry manufacturing. Is there a plan within the urban renewal scheme or is it left to the local authority to decide the mix?  Does the Minister define whether he wants a mix of service and manufacturing industries, which is the case in Limerick, where there is renewal of urban offices which, obviously, is in the service area.  Some towns have turned their backs on rivers but at least it has given an opportunity for planners in the nineties to take heed of what is being done in other countries <Col N="390" /> where towns and cities utilise their rivers to the fullest extent.  There is a tendency for speculators to come to a town, putting pressure on space which accommodates small shops which might have been there at the turn of the century.</P>
+      <P>The spin-off effects are enormous but in Limerick shopping magnates have come from abroad to develop on the edges of urban renewal.  They do not have incentives but the cost of their office space is enormous by comparison.  What type of interchange will take place between the specified urban renewal area and the continuation of the more affluent areas?  Will they become white elephants if people cannot afford the high cost of space?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>We are tending to have a Second Stage debate.  I ask the contributors to make the relevant points on section 30.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>We should all welcome any scheme which creates jobs.  This is the first time I have seen co-operation between the Government, private money, local government and small businesses. We have enough commonsense to realise that that will create employment. Indeed, even a person with money should benefit from the scheme if he can create jobs.  I have very strong views on the urban renewal scheme.  The former Deputy John Boland, the Minister, Deputy Reynolds, and the Minister for the Environment, Deputy Flynn, deserve credit for continuing the scheme which has proved to be successful.</P>
+    </Speaker>
+    <Speaker pid="DanNeville" hpid="Mr. Neville Mr. Neville">
+      <NameTxt>Mr. Neville</NameTxt>
+      <P>I, too, would like to praise the work being done under the urban renewal scheme and wish to take the opportunity to ask the Minister to consider drawing up an urban renewal scheme for Rathkeale for the reasons I pointed out yesterday.  I wish to inform him that discussions have been held in the area and with Shannon Development, and that discussions are now being initiated with Limerick County Council. I ask the Minister, when the time comes, to consider this matter very carefully <Col N="391" /> because of the special circumstances prevailing which are unique to Rathkeale.</P>
+    </Speaker>
+    <Speaker pid="BattOKeeffe" hpid="Mr. O'Keeffe Mr. O'Keeffe">
+      <NameTxt>Mr. O'Keeffe</NameTxt>
+      <P>Having regard to the fact that other Senators are being parochial, why should the man from Cork not have something to say about his own area?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>If Senators do not stick to the detail of the Bill, this Dublin Senator will vacate the Chair.</P>
+    </Speaker>
+    <Speaker pid="BattOKeeffe" hpid="Mr. O'Keeffe Mr. O'Keeffe">
+      <NameTxt>Mr. O'Keeffe</NameTxt>
+      <P>I wish to refer to the importance of the economic activity generated under the urban renewal scheme. There is no harm in mentioning that ten projects have been completed in Cork at a cost of £4.5 million while another 11, at a cost of £5 million, are underway. Currently, 13 projects are in the pipeline at a cost of £9 million for the Parnell Street area which is adjacent to the heart of the city and which is badly in need of refurbishment.  Under this scheme areas adjacent to the city centre are being reinstated and as a consequence employment in the construction industry, in the first instance, and latterly in the services and manufacturing industries is being created. Let me also take the opportunity to point out to the Minister that Passage West has the highest rate of unemployment in Cork and to suggest that on the next occasion he takes this into account.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>We have agreed to complete the Bill today.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>As regards opposition to the creation of new designated areas, I would emphasise that since the Urban Renewal Act, 1986, which was promoted by the former Deputy John Boland and Deputy Fergus O'Brien, became law urban renewal areas have in all cases been designated by the Minister for the Environment under that legislation. Orders made under section 27 of the Finance Act, 1987, actually apply the urban renewal tax incentives to these areas.  The selection of new urban <Col N="392" /> renewal areas is primarily a matter for my colleague, the Minister for the Environment, operating under the powers of the Urban Renewal Act, 1986.  That Act does not specify criteria for indentification of designated areas.</P>
+      <P>The Urban Renewal Act, which is relatively recent legislation, was sponsored by the then Minister of State, Deputy O'Brien and its provisions authorising the Minister for the Environment to designate urban areas received wide agreement in this House.  Any programme involving the conferring of special benefits on localised areas necessarily involves a degree of judgement.  It is no different with urban renewal areas here or anywhere else and every time one draws a line to create special benefits for a particular purpose there will always be someone on the wrong side of the line. The only way we can avoid this is to designate the whole country but the result would be that there would be no development because everybody would be on a par.  Despite what Senator Costello might say, parts of Dublin have been lying derelict for between 20 and 30 years and if they were going to be developed without incentives they would have been developed years ago.  A lot of work is in progress but when completed we will see the fruits of this legislation.</P>
+      <P>The Government have been committed for some time to the extension of the urban renewal programme to selected new areas.  We are aware of the dangers of over-extending the scheme but our considered judgement is that significant benefits, in terms of the physical regeneration of towns and local employment, should flow from the extension of the programme just announced.</P>
+    </Speaker>
+    <P>The Minister for the Environment and other members of the Government have received hundreds of representations and have met scores of deputations seeking the designation of towns the length and breadth of the country.  There is no doubt that many other urban areas could benefit from the urban renewal scheme but the Government are satisfied that the towns and the areas in those towns now being designated are those most in need.  In <Col N="393" /> selecting the new areas for designation the Minister for the Environment was guided by reference to factors such as the extent of the urban decay, the need for conservation, the potential for commercial, residential or tourism related development, the need for job creation and the regional considerations.  Some or all of these considerations figure in the selection of the new designated areas announced on 1 May 1990.  There was consultation with all the local authorities concerned in finalising the details of the areas.  This consultation process was supplemented by examination of the development plan of the local authority for each area, inspection of the areas by officials of the Department of the Environment and full consideration of all submissions received from local representatives.</P>
+    <P>In view of this it is very difficult to understand how opposition to the extension of the period for tax incentives in the existing areas can be justified.  There is a large number of designated area projects which are still at the planning stage. Many of these pipeline projects could not be completed in time to qualify for the incentives within the present deadline of 31 May 1991.  Without the incentives they would probably not go ahead.  Bearing in mind the very substantial contribution to urban renewal and local employment which would be lost if these projects are cancelled I have decided that the qualifying period for the incentives should be extended to 31 May 1993.</P>
+    <P>In addition, Senators will be aware of the incentive to owner-occupiers to repair or restore designated area buildings of significant, scientific, historical, architectural or aesthetic interest which I introduced in section 4 of last year's Finance Act.  This is a relatively new incentive with much to recommend it, particularly as we approach Dublin's year as cultural capital of Europe.  I think the Members of this House would agree that it would be regrettable to terminate that relief, as suggested, before that incentive has achieved its full potential.</P>
+    <P>Section 30 of this year's Bill does no more than extend the period of incentives <Col N="394" /> for the original designated areas for a further two years to the end of 31 May 1993.  I repeat that the time limit has been extended, first, because we know a very substantial commercial development will proceed as a result and, second, because it is appropriate that the new relief to owner-occupiers of significant buildings should be given an opportunity to emulate the performance of the increasingly successful incentives to commercial development in designated areas.  Certain areas of our cities and towns will not be redeveloped without State assistance. Time has proved that.  Section 30 ensures that tax relief for renewal projects will continue to be available until May 1993. I commend the section to the House.</P>
+    <P>Let me respond to some of the points raised by Senators.  Senator Cosgrave asked if I have any figures available which would give an indication of how the programme is going and what its potential is.  One hundred and fifty-eight projects have been completed under the urban renewal scheme at a cost of £52,197,000, 60 projects are in progress at a cost of £124,488,000, and 127 projects are in planning &mdash; these are the projects which would more than likely fall if there was no extension in the time limit &mdash; at a value of £135,499,000.  As well as these, there are projects valued at about £38 million spread across the areas under consideration. This gives us an idea of the losses in employment, activity and opportunities which might accrue if there is no extension in the time limit.  In Dublin alone, 33 projects have been completed at a value of £12 million, 11 projects are in progress at a value of £18.5 million while 32 projects are in planning at a value of £52.650 million.  Dublin corporation have issued an excellent leaflet on the scheme which includes information on the tax incentives.  We urge other local authorities to bring out their own leaflets on the areas concerned.</P>
+    <P>In Cork, ten projects have been completed at a value of £4.5 million, 11 projects are in progress at a value of £5 million and 13 projects are at the planning stage, at a cost of almost £9 million.  That makes a total of 34 projects at a cost of <Col N="395" /> £18 million.  Senator Jackman inquiring about Limerick: ten projects have already been completed costing £17.249 million; eight projects are in progress costing £12 million; 14 projects are in planning, costing £16.5 million.  In Wexford two projects were completed, costing £1.3 million; two projects are in progress costing just over £1 million; and three projects are in planning costing £11 million.  I think I have responded to all the points made, especially in relation to the lines drawn.  That will always be a matter of contention.  The local authorities and the planners in the local authorities are involved and I cannot think of a better system.</P>
+    <P>Question put and agreed to.</P>
+    <P>Sections 31 and 32 agreed to.</P>
+    <P Just="Center">SECTION 33.</P>
+    <P>Recommendation No. 6 not moved.</P>
+    <P>Section 33 agreed to.</P>
+    <P Just="Center">SECTION 34.</P>
+    <P>Question proposed: &ldquo;That section 34 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The overall thrust of this section was to be expected and, I think, is welcomed in the spirit of what risk capital or venture capital is all about. Could the Minister assure me that this legislation will not cause any difficulty for designated funds where those funds were collected last year and are not issued until this year of assessment?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I think the Senator raised this matter on Second Stage and asked why there was a delay, from the announcement last July to this year's Finance Bill, in dealing with what I termed Disneyland schemes.  Apart from the fact that last year's Finance Bill had been passed, it was made clear at the time that if those schemes were to proceed I would legislate if necessary to ensure that they <Col N="396" /> became ineffective, and that is exactly what I did in this year's Finance Bill. There were two major schemes which were not in any way related to economic activity that would benefit this economy. Basically, they were collecting huge amounts of money, to be employed in leasing in the United Kingdom, and using the shelter of Shannon to protect them. The BES was not introduced for such schemes and I made it quite clear at the time that we would not tolerate them, that the BES was there for genuine risk investment.  I made that announcement on 22 July last year and I am legislating for it in this Finance Bill.  It is possible that, if the announcement and the warning given last July was not heeded, some people may be caught out but that is their own business.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>In other words, they were forewarned.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>They were forewarned and when people are forewarned by the Minister for Finance, especially when he makes it clear what the effective date will be, they suffer the consequences if they do not heed that warning.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 35 and 36 agreed to.</P>
+      <P Just="Center">SECTION 37.</P>
+      <P>Question proposed: &ldquo;That section 37 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>While I welcome the Minister's intention under the section to broaden the corporation tax base, at the same time I have a query in relation to a reduction in the standard rate of corporation tax and its effect.  When we consider the extent of incentives that are there already in relation to corporation tax &mdash; depreciation for plant and so on, the 10 per cent increase to the year 2010, the 100 per cent accelerated capital allowances incentives for financial services centres, designated areas and so on &mdash; I would have thought it would have been <Col N="397" /> more proper, in broadening the base, to leave the tax at the same levels to ensure that there would be a greater return from that sector which, we saw from the figures the last day, was not making an enormous contribution take to revenue.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I welcome this section.  We should now look to the corporate sector to respond to the generosity of this provision with an even greater commitment to investment in our country and in particular to the creation of employment. Anything that could be perceived as an incentive in this area must be welcomed. It also brings us more in line with this type of taxation in other European countries.  It creates a more competitive edge in this area.  However, we should call unapologetically on the corporate sector generally to respond generously, to reinvest and reinvigorate their investment and create more jobs.</P>
+    </Speaker>
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>I would very much like to welcome this section because it is vital.  Any of us involved in bringing industry into this country or in financing on-going projects know that almost the first question you are asked is: what is the rate of corporation tax?  It is an immediate major factor in decision making either by industrialists coming in or by corporations setting up or expanding projects in this country or, perhaps even more crucial, in getting those projects financed, particularly if they are of major import.</P>
+    </Speaker>
+    <P>Secondly, we have to recognise the reality that we will be competing on an equal basis with all the other countries of the European Community.  Companies in the European Community are becoming more and more international companies, perhaps not necessarily the multinationals in the old sense but companies within the Community that can decide to set up a plant here, in Belgium, Spain or elsewhere.  That decision will be based on the competitive situation.  We have some very good advantages, for example, our educated young people, our ability, flexibility and so on, but we also have disadvantages in relation to where we are <Col N="398" /> situated physically.  This is an essential measure and I hope is a signal of further reductions.</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The reduction in the standard rate of corporate tax to 40 per cent from 1 April 1991 is an important element in the corporation tax reforms which we have put in place.  We have been taking steps to increase the relatively low take from the corporate sector by phasing down the accelerated capital allowances and by restricting section 84 lending.  These measures will help to ensure that all companies will pay an appropriate amount of tax.  The ending of export sales relief and the Shannon tax exemption will also increase the corporate tax yield in future years.  The broadening of the corporate tax base has allowed us to reduce the standard rate of corporation tax significantly.  The rate has fallen from 50 per cent two years ago to 43 per cent at present and will fall further to 40 per cent from 1 April 1991, as I have said.  This downward move is in line with international trends and will give a significant boost to job creation, especially in the services sector which is such an important source of new employment. Basically what is involved here is a package which, on the one hand, sets out to transfer the advantage from plant and machinery to labour-intensive industries, which is the case with the services industry, by scaling down the accelerated capital allowances from 50 per cent to 25 per cent by April next and reducing them from 25 per cent to zero in the following year.  This will be done while, at the same time, curtailing section 84 loans &mdash; two mechanisms used as shelters for lessening the tax burden.  Therefore, it is a package. We are passing on 3 per cent of that back into the corporate sector, mainly in the services area, where we will be seeking to create more jobs in the future.</P>
+    </Speaker>
+    <P>To give the House an idea of how the balancing package will operate in ensuing years &mdash; when they will see that it is not the give-away some people might think &mdash; as Senator Conroy rightly said, we must keep pace with international events, get <Col N="399" /> in line with the levels of corporate tax prevailing in Europe.  Consequently, there is an adjustment needed.  At the same time we must broaden the tax base.</P>
+    <P>In 1991 there will be a £1.4 million loss &mdash; I am now talking about a combination of both factors; in 1992 there will be a gain of £4.1 million; in 1993, a gain to the Exchequer of £24 million; in 1994, again there will be a gain of £20.5 million &mdash; that is because the accelerated allowances will run out.  In 1995 the anticipated yield is £14.6 million.  That will give the House an idea that it is not one-way traffic.  It is a better balanced package to promote job creation within the sector from which we expect a better contribution in the future.</P>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I am not satisfied with the Minister's reply.  The Minister has presented this package as a means of broadening the corporation profits tax base &mdash; I think that is the general intent &mdash; that is being offset so that the tax take will not increase in any sense.  Therefore, it means that one is handing out with the one hand while broadening the tax base with the other.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Did the Senator hear me give the net figures for the future yield?</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>The net figures that will emerge?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>It is an increase in corporate tax yield, not a decrease.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>It is a very slight increase.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>It is an increase.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>It is a very slight increase but from the year 1994 onwards it will decline again.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The Senator must understand the operation and implications of the accelerated capital allowances.</P>
+    </Speaker>
+    <Col N="400" />
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Chair would appreciate it if Senators ceased interrupting.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>Surely we are talking about peanuts here?  In real terms we are talking about hundreds of millions of pounds.  But in terms of what will accrue by way of the changes proposed, I predict it will be negligible.  The Minister himself recognised that we have a low corporate tax yield.  I am not inclined to think that, at this point in time, we should be seeking to reduce the standard rate of corporation profits tax or that that should comprise part of the Minister's package.  We must bear in mind the overall take from the corporate sector, which is very small. While the Minister may juggle around with the package we must ask ourselves what will be the overall contribution within the context of our economy.</P>
+      <P>Senator Conroy spoke about the necessity to bring ourselves into line in a competitive fashion within the EC.  I am not sure that is the way to go about it because, in an international context, our corporation profits tax take is very low. To assume that, by reducing the rate we will improve our position, does not stand up in my mind.  Certainly that is the case when one examines the repatriation of profits in the region of £2 billion having left the country last year.  I do not think that repatriation of profits is caused by corporation profits tax but rather for different reasons.</P>
+      <P>I am dissatisfied with the Minister's response if we are really endeavouring to implement any substantial reform in this area.</P>
+    </Speaker>
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>Senator Costello mentioned repatriation of profits.  We must be realistic about this.  Hopefully what all of us want to do is introduce more high technology, high profit, upmarket industry with a particular emphasis on the services industry being attracted here.  What we are really discussing, I hope, is the means of attracting those services to the greatest possible extent.  We must recognise that we are competing in an international market. <Col N="401" /> That is becoming more and more the reality, both within the EC and on an even more global basis.  The main reason companies repatriate the £2 billion &mdash; or whatever is the precise figure &mdash; out of this country is that they feel, rightly or wrongly, they can invest it more profitably elsewhere.  What we want to do is endeavour to attract here modern, new services industries of all types.  Hopefully then we would have a much more equitable better-balanced tax system because at present much of our corporate tax &mdash; as the Minister and Senator Costello have implied &mdash; has been applicable to certain specific areas, section 84 being one obvious example.  It would be much better had we a clear-cut corporation profits tax which was in itself, competitively attractive but, hopefully, operative on a broader basis, when we would indeed get a larger take from the overall corporation profits tax paid by all companies.  At present we could be in a position in which the base for that tax could become smaller.  In addition, it is a rather unbalanced, inequitable basis at present.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I have nothing more to add.  I am surprised at Senator Costello.  I should have thought the Labour Party would have been interested in having more jobs created.  I thought the Labour Party would have been interested in tilting the balance of advantage away from plant and machinery to a labour-intensive industry.  I know that they have called for a minimum corporate tax contribution, which amounts to the same thing when one does away with the allowances.  I am at a loss to know what they want.  It appears they want to have their loaf and eat it.  I am sorry, I cannot be the baker in those circumstances.</P>
+    </Speaker>
+    <Speaker pid="JohnJRyan" hpid="Mr. J. Ryan Mr. J. Ryan">
+      <NameTxt>Mr. J. Ryan</NameTxt>
+      <P>I might remind the Minister that I am not eating any loaf.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>Of course we want to create as many jobs as possible.  The problem is that I cannot envisage &mdash; under the package to which the Minister refers &mdash; how that will be done.  I asked <Col N="402" /> the Minister a question about his proposed reduction in the standard rate of corporation profits tax.  The Minister has responded that he has put together a new package in that respect.  I am contending that that is not satisfactory, that the only difference to the Exchequer will be in the region of a few million pounds.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>A figure of £20 million is not too bad for a start.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>A figure of £20 million is the very maximum about which we are speaking.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>It is one part only of the overall tax yield.  One cannot isolate that part and contend it covers everything because it does not.  The Senator does not have to accept my view.  He has a different ideology, he is entitled to it, indeed to put his point of view, but I am putting the counter argument.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>A Leas-Chathaoirligh, I should like to put my view, if I may, without interruption from the Minister.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Senator Costello without interruption.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>We have a very low tax yield from the corporate sector, a contention with which nobody will disagree.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The corporate sector is not sufficiently big; that is the problem; if it were larger that would be one way of increasing the yield.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I welcome the Minister's intention to broaden the corporate tax base.  But, within the context of what the Minister is saying, I cannot identify any perceivable effect &mdash; namely, that there will be more jobs created which will be labour-intensive and so on.  Senator Conroy contended that the money is leaving the country because it is more attractive for companies to invest elsewhere. We should not forget that this is money which has been invested in this country <Col N="403" /> because it was an attractive place in which to make a profit in the first place.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>There is nothing wrong with that, is there?</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>We are talking about creating employment.  There is money being moved about all over the place; it is being contended that it is coming into the country because it is attractive and, equally, leaving the country because it is not sufficiently attractive.  The Minister contends that the effect of the implementation of his package will be to create jobs.  I do not see the connection.  If the Minister can explain the connection to me &mdash; for example, how we will have the use of all of this additional money, or at least money created by the labour force here &mdash; then I might be somewhat assuaged.  We must remember that we are talking about an annual outflow in the region of £2 billion not being reinvested here.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Because the tax rates are too high here.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>Is this going to render it attractive to reinvest here?  Will this be the end result?  Is that the Minister's intention?  Will that be how new jobs will be created here?  The Minister has not addressed that question.</P>
+    </Speaker>
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>Surely Senator Costello is not objecting to £2 billion being invested here?  Surely we want to bring capital in here to provide jobs? Therefore, let us follow the policy suggested with the benefit, one would hope, of moving in that direction.</P>
+    </Speaker>
+    <Speaker pid="BattOKeeffe" hpid="Mr. O'Keeffe Mr. O'Keeffe">
+      <NameTxt>Mr. O'Keeffe</NameTxt>
+      <P>I wish to point out to Senator Costello that the extraordinary thing about this is that the Labour Party were in Government for four and a half years, and did absolutely nothing about corporation tax.  I might remind you that in the period 1982-90 the corporation tax take has gone up by 50 per cent.  What you are suggesting here this morning, as <Col N="404" /> I see it, is that we hype the corporation tax, that we take more and more and at the same time keep these people out, that we want to create jobs but make it so unattractive for people to get involved in this area.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>I am very slow to interrupt the Senator but it would help to expedite the discussion if Senators from all sides addressed the Chair.</P>
+    </Speaker>
+    <Speaker pid="BattOKeeffe" hpid="Mr. O'Keeffe Mr. O'Keeffe">
+      <NameTxt>Mr. O'Keeffe</NameTxt>
+      <P>My apologies, a Leas-Chathaoirligh, but I cannot understand the argument being put forward by the Senator in this case.  This Government have shown quite clearly that they have increased the corporation tax take by 50 per cent since 1982.  They have indicated that by reducing corporation tax and by other means they will encourage other international investment to come to Ireland so that the take from corporation tax could be even greater still.  I fail to understand how the Senator from the Labour Party is looking for a higher take, is looking for greater job creation, but the argument he is propounding here this morning certainly seems to want to defeat that purpose.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Would the Minister agree, to use an expression much beloved by the Department of Finance, that you might even call this section in the proposal here today a self-financing tax cut?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>When you gain £20 million it is more than self financing.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I would not accept that anything was a self-financing tax cut.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>This is gain for the Department of Finance and the Exchequer.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I was not seeking an increase, I was merely stating that the standard rate should be left as it was, this was not the time to reduce it, and that that would enable us to get a greater return from the package the Minister has offered.  I would hope, since the Minister <Col N="405" /> seems to be hopeful, that the corporate sector would respond.  They are, as he put it, producing a relatively low take, I would say a very low take.  I hope they will respond now with the generosity the Minister has shown, and create some jobs which are very badly needed.  They certainly have not been very forthcoming in any form of principled response to the considerable incentives that have been made available to that sector over the years.</P>
+    </Speaker>
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>For the record, is it correct that 30,000 new jobs have been created in the private sector in the past two years?</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>In answer to that, a greater number has been lost and, in particular, the indigenous manufacturing sector has been very rapidly on the decline.  The manufacturing sector, that all of the Minister's incentives are directed towards, is also on the decline in this country &mdash; that is the multinational manufacturing sector.  We are already in poor shape in relation to our competitiveness within the EC.  I hope that by 1992 there will be an improvement in the situation because then we will have an open market.  There certainly does not seem to be the required input by the corporate sector in research and development of their products.  They are not putting in the same necessary foundation which other countries are putting in to look to the future.  I think we still have a very weak corporate sector that is not planning for the future.  I am very worried about that.  Tinkering here and there with incentives is not quite the thing to do, we need a response from the corporate sector and that response has to be a long term one.  Otherwise we will not be competitive in 1992 and 1993.  I am absolutely convinced of that.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>With the greatest respect to Senator Costello, the last statement he made is the first factual one he has made on this section.  As regards his previous <Col N="406" /> contributions we are not debating unemployment or employment, but section 37 of the Finance Bill.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 38 to 40, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 41.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Perhaps I could speak on recommendations 7, 8, 9 and 10 together?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>As the recommendations are related, the Senator may discuss them together.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 7:</P>
+      <P>In page 50, subsection (1) (b), between lines 48 and 49, to insert the following:</P>
+      <P>&ldquo;(ICC8) The definition of &lsquo;goods&rsquo; in subsection (1) includes grain dried within the State, in the course of a trade by the company which, in relation to the relevant accounting period, is the company claiming relief under this Chapter in relation to the trade and references in this Chapter to &lsquo;manufactured&rsquo; and cognate words shall be construed accordingly.&rdquo;.</P>
+      <P>May I just bring the Minister back to the discussion we had on Second Stage on this particular section, and indeed the Minister made a fairly comprehensive reply to the section during his Second Stage winding up contribution.  One of the points that he specifically stated and which stuck in my mind was that no one industry or sector is specifically excluded under this section.  We must go back to the section itself in the Bill proper.  It is a very comprehensive section and indeed we could spend two hours on this section alone teasing out the potential threat of what is in this section to different industrial sectors.</P>
+    </Speaker>
+    <P>I want to concentrate by way of example on the industry grain drying <Col N="407" /> sector, indeed all of us have had representations from many other sectors that are expressing serious concern that they do not quite know what tax treatment they may come to expect from the Revenue Commissioners if and when this provision is enacted.</P>
+    <P>Even though no one sector is specifically named on page 51 of the Bill, approximately at line 10, the point is being made that any one of the following would exclude an industry being considered manufacturing if they were solely in the business of &ldquo;dividing (including cutting), purifying, drying, mixing, sorting, packaging, branding, testing...&rdquo; The Irish Corn and Feed Association feel that the reference to drying specifically, will cause major problems for the grain drying industry in this country.  When you go on down to approximately line 16 or 17 it says the same restrictions will apply to methods of preservation, pasteurisation or maturation or similar treatment to any foodstuffs.  That sentence combined with the exclusion of any drying, sorting or purifying process from a definition of manufacturing which will be entitled to the 10 per cent tax rate I am afraid augurs rather badly for the industrial grain drying process in this country.  I know the Minister says none is specifically excluded but I am afraid&mdash;&mdash;</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>They will have to make their case to the Revenue Commissioners.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>To be fair to the Revenue Commissioners we should clarify as much as possible what your intent is, Minister, in this area because if we are left without any statutory definition of manufacturing, and apparently we are not in a position to put any such defination in the legislation, according to your response, there is cause for concern.  In the absence of a statutory definition of manufacturing we are not being fair either to the particular industries concerned that may be threatened by this section or indeed to the Revenue Commissioners.  In fact I think we are possibly leaving too much <Col N="408" /> discretion to the Revenue Commissioners in this area.  Industries that employ thousands of people are threatened by this section, industries that have developed on the basis of the 10 per cent rate, and the transition overnight from 10 per cent to 40 per cent could herald the end of many industries, most of which are based on indigenous raw material and indeed involve sectors such as agriculture could herald the end of many industries, many of whom are based on indigenous raw material and, indeed, involve such sectors as the agricultural industry, particularly the tillage sector, which is going through a problem time because of the very restricted cereals regime in Europe.  I am concentrating my recommendation on the grain sector but anything I say on this recommendation could apply equally to any of the sectors that are threatened.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>In the Minister's reply on Second Stage&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I was not finished.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>I beg your pardon, Senator Doyle.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>We must put on record exactly what is involved in the industrial process of grain drying given the enormous importance to the economy and to the spin-off in milling and the compounding industry and to the family producers &mdash; the tillage farmers.  There is a huge chain of people involved and I know there are thousands of jobs involved in this activity.  There is a complete physical and chemical change in the grain after the industrial process of grain drying which takes seven to eight days.  The enzyme amylase is destroyed to prevent germination. The physical and chemical change is complete and one is talking about a different product altogether from the green grain that arrived to be dried &mdash; we use the expression &ldquo;dried&rdquo; very vaguely and loosely.  Taking the fact that there is a total physical and chemical change together with the legal precedents in this area &mdash; they are very limited and <Col N="409" /> we referred to them on Second Stage &mdash; we must go to the McCausland <i>v</i>. the Ministry of Commerce case in the North of Ireland to take a line in this area. That case referred to rye grass seed being subjected to a mechanical process similar to but not as far-reaching as our industrial grain drying process.  The process of germination was not killed in the rye grass because it was sold for seed rather than milling and compounding.  There was not a total and physical change; it was drying in the layman's accepted sense of surface drying rather than interior drying and heat treatment, which is what we are talking about when we refer to industrial grain drying.  Lord McDermott stood in judgment in this case and, indeed, the outcome of that court of appeal was that the business of processing, machining and marketing of rye grass seed constituted &ldquo;a manufacture of goods&rdquo; being a production by mechanical means of a different sort of commodity from unsorted bulk.  That was in relation to rye grass where the treatment was in no way as extensive as our industrial grain drying process.  I know the Minister will tell me that nothing is specifically excluded.</P>
+      <P>I am seriously concerned and the agri-business sector is seriously concerned about the implications in the absence of a legal or statutory definition of &ldquo;manufacturing&rdquo;. The only definition we have, in the absence of a statutory definition, is the Oxford Dictionary definition which defines manufacture as &ldquo;to work up into suitable forms for use&rdquo;, which is exactly what the industrial grain drying process does.  I appeal to the Minister if the words I use here are not acceptable to him &mdash; I know my recommendation as such cannot be passed &mdash; to take on board what I am saying in this area.</P>
+    </Speaker>
+    <P>Let us tighten up this section where there were abuses in terms of the extension of the 10 per cent and a great stretch of the imagination as to what constituted a manufacturing process.  By trying to eliminate those abuses the Minister has cast the net too wide and he is threatening <Col N="410" /> many of our more important industries where a 10 per cent to 40 per cent jump in tax will virtually put them out of business.</P>
+    <P>Need I say I have a particular interest in this &mdash; as the Minister rightly pointed out &mdash; because we have a very valuable malting barley export industry in Wexford and the south-east generally.  We want to encourage exports, we want to encourage new markets for our tillage farmers because they are very restricted in what they can produce, the levies that are in force at present and there is a very restricted cereals regime in Europe.  I appeal to the Minister's generosity to tighten up this section and to take into his net only those who are abusing the definition of &ldquo;manufacturing&rdquo;, not in the genuine industries that need the 10 per cent.</P>
+    <Speaker pid="GVWright" hpid="Mr. Wright Mr. Wright">
+      <NameTxt>Mr. Wright</NameTxt>
+      <P>On the Order of Business today we made no provision for any break.  Would the House agree &mdash; I am thinking particularly of the Minister and the spokespersons involved &mdash; to a short sos, perhaps after we conclude these sections.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>This is a matter entirely for the House.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I have been given the Adjournment Debate this evening.  The Minister has some arrangement and there will, in fact, be no Adjournment debate this evening.  The House may wish to consider that in its calculations.</P>
+    </Speaker>
+    <Speaker pid="BattOKeeffe" hpid="Mr. O'Keeffe Mr. O'Keeffe">
+      <NameTxt>Mr. O'Keeffe</NameTxt>
+      <P>I suggest we adjourn from 2 p.m. to 2.30 p.m.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>It is a matter entirely for the House.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Perhaps it would be better to finish this section and then have a sos. Would that be in order?  If you break your train of thought you have to rehash the discussion when we resume the debate.</P>
+    </Speaker>
+    <Col N="411" />
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Is that agreed?  Agreed.</P>
+    </Speaker>
+    <Speaker pid="BattOKeeffe" hpid="Mr. O'Keeffe Mr. O'Keeffe">
+      <NameTxt>Mr. O'Keeffe</NameTxt>
+      <P>In my Second Stage contribution I expressed some reservations in connection with what has happened in this Bill.  I said that where there was total reprocessing and dismantling &mdash; I mentioned specifically the tyre industry and the clutch industry there could be anomalies because in total processing, there is 100 per cent added value to the end product, and there is an import substitute, one can obtain an IDA grant on the basis of manufacturing.  In any appeal to the commissioner there should be great flexibility because this is an area of genuine concern.</P>
+      <P>As I said, I agree with Deputy Doyle that this is giving rise to great concern in many areas.  I suggest that the Minister make this as broad as possible, the important thing being that there is total dismantling, reprocessing and 100 per cent added value at the end of the day, and that it is related to either export or import substitution.</P>
+    </Speaker>
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>I will be very brief because I spoke on this issue on Second Stage.  There was a great deal of anxiety in industry when the Finance Bill first came before the Houses of the Oireachtas.  The Minister has already made significant amendments which meet most of our anxieties.  There is a problem here; this definition was being abused, and I have no doubt we would all agree with that.  There is a problem in relation to the definition which led to this abuse but we have moved a very long way towards sorting it out.  I would disagree slightly with Senator Doyle in that I think Judge McDermott's judgment in the North of Ireland would be relevant if the matter were being tested before the courts.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>It is relevant &mdash; I did not mean to give the impression that it was not relevant.  It is very relevant.</P>
+    </Speaker>
+    <Col N="412" />
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>What is happening here is that the lines are being more clearly defined and to some extent, the onus is being put on companies to demonstrate that they are bona fide manufacturing something.  I understand from the recommendations that the grain drying industry and the agri-business should not have this anxiety but, I think, it is understandable.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>I recall Deputy O'Keeffe's deep concern on this issue on Second Stage.  In fairness to the Minister, he specifically stated after accepting the amendments in the Dáil that it must fall into one of the five excluded categories in the section.  Because of worries regarding qualifying for the 10 per cent, remembering urban renewal and people's attitude to finance and the Department, I will be interested to hear the Minister's reply.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Grain drying is an activity which involves the acquisition of grain in bulk and the preparation of that bulk for sale or distribution as grain.  The process is principally one of drying and storage.  Grain drying was not regarded as the manufacture of goods in 1980 when the 10 per cent tax was introduced.  It was held by the Appeals Commissioners that grain drying constituted the manufacture of goods on appeal to the Revenue Commissioners Appeals Tribunal.  As a result, the 10 per cent corporate tax was applied to grain drying companies.</P>
+    </Speaker>
+    <P>If grain drying was carried out in the course of a trade, say, milling, and as part of a manufacturing process, the process carried out by the company would, of course, be considered as a whole.  In other words, if grain drying is part of an ongoing process to milling or whatever, there is no question about where it lies. There may be instances that would have to be teased out, perhaps some of the instances Senator Doyle spoke about.  If it is part of a trade there is no question about it.  If it is an isolated activity that is <Col N="413" /> not mentioned specifically in the legislation, this legislation, even then, does not automatically rule it out because the process is what is important.  The Revenue Commissioners will go into the process.  When you talk about a specific definition in manufacturing it is not possible to go into every aspect or component of every process and enshrine that in legislation.  It is pretty difficult, and this is the best legal advice we have available. We have looked at it for quite a long time.</P>
+    <P>To go back to the McCausland Case in the North mentioned by Deputy Doyle, this was taken under the Re-equipment of Industry Act (Northern Ireland), 1951, and was in relation to a grant for an industrial building.  A company carried on the business of processing, machining and marketing ryegrass seed.  The processing and machining consisted of drying the seed and passing it through a series of sieves and mechanical separators which removed foreign matter, seeds other than ryegrass seed and defective ryegrass seed and reduced it in bulk by approximately one-twelfth.  The resultant bulk was not less than 98 per cent pure ryegrass seed.</P>
+    <P>The Court of Appeal held, in a majority decision, that, although the company did not manufacture individual seeds, they did produce a different commodity from an unsorted bulk, namely pure ryegrass which was marketable for seeding purposes, and that this production of the commodity by means of complicated mechanical process constituted a &ldquo;manufacture of goods&rdquo; for the purposes of that Act.  The fact that this case was appealed to the courts suggests that it was not policy to regard the company's activity as the manufacture of goods.  As I said, it was not Government policy in 1980, and the right to the 10 per cent was gained on an appeal to the Revenue Commissioners.</P>
+    <P>There have been a number of suggestions that if somebody was excluded it would have a detrimental effect on the whole market.  The price of dried barley <Col N="414" /> is just under £140 per tonne.  The industry claims drying costs of about £25 a tonne. However, this cost includes weight loss, storage and machinery cost.  The effect of a higher tax rate is difficult to quantify but, given that co-operatives and firms dry and then process grain, such as feed compounders, maltsters, millers, etc., will certainly not be affected.  A higher rate should have little overall impact on the grain industry in Ireland.  In regard to the export of malting barley where we have developed a strong trade with Holland, Belgium and Germany in recent years, the basis is the quality of our raw material.  I am not prejudicing their case one way or the other, but if there is a change in tax treatment in that regard it must turn out to be marginal, as it appears at this stage.</P>
+    <P>I want to give the House as much information as I can in relation to this. Section 41 (1) (a) lists the categories which are not the manufacture of goods. A process will not be regarded as manufacturing if it consists primarily of any one of the categories of section 41 (1) (a) (i) to (v) and will not be excluded.  Subparagraph (i) rules out a process which is applied to a product, produce or material which is acquired in bulk so as to prepare it for sale or distribution.  The processes involved are dividing, including cutting, purifying, drying, mixing, sorting, packaging, branding, testing or other similar process or any combination of these processes. The process must be read in the context of its application to material acquired in bulk to prepare it for sale or distribution.  If the product, produce or material which is sold is not the product, produce or material which is acquired in bulk, then the process will not be excluded.  If material are acquired in bulk and combined and processed in such a way that a different product or material results, then clearly the process is not excluded.  That is a genuine manufacturing activity.</P>
+    <P>
+      <Col N="415" /> In the administration of the new provision, the Revenue Commissioners propose after the passing of the Bill to issue a statement of practice on the provisions of section 33.  The issue of a statement of practice will provide further reassurance for genuine manufacturing companies.  It will also clarify the position for companies who may consider themselves marginal cases.</P>
+    <P>The Revenue Commissioners have administered the 10 per cent scheme since 1980 in a responsible and reasonable way.  Cases which qualified for the 10 per cent rate as a result of court decisions are evidence of that reasonable approach.  Activities such as the ripening of fruit and bagging of coal could hardly be classified as activities which should be given the reduced rate without challenge. The Revenue Commissioners will continue to administer the scheme in a reasonable manner and it is proposed that the administration of section 33 will be monitored centrally by senior officials of the Revenue Commissioners and that will ensure consistency of application.</P>
+    <P>I do not accept for one moment what are supposed to be huge clouds of uncertainty in the area.  They were there at the very start until people began to find out at various meetings with organisations, the CII, the Department and the Revenue Commissioners exactly what was involved in the legislation.  I do not accept there is a cloud of uncertainty out there now.  Similar things were said last year when I introduced anti-avoidance legislation. It was said it would create uncertainty all over the place, businesses would close and investment would run out of the country.  It did not happen.  This is somewhat similar this year.</P>
+    <P>We will issue practice.  I have gone as far as I can go in that.  At the end of the day, legislation is interpreted by the courts of the land as the highest appeal and the other appeal mechanisms are there.  The Revenue Commissioners Appeals Tribunal are their own, then on <Col N="416" /> to the courts and it is for them to interpret. We have gone as far as we can.  Everybody should accept that it is just not possible to produce a manufacturing definition and go into every class of component and every area and enshrine that in legislation.  I suppose this is the biggest Bill that has come before the Seanad but if we were to try to define &ldquo;manufacturing&rdquo; I would hardly get it in through the door.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I thank the Minister for that extensive reply.  I would like to make two points.  Given the legal lexicon of taxation 1981, stating that a test for manufacture is, &ldquo;whether a vendable product is produced, improved, restored or preserved&rdquo;, and the fact that the industrial grain drying process in this country involves considerable physical and chemical alteration of the grain, is the Minister's considered and informed view that this sector need have nothing to worry about?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>My opinions and considered views will be given to nobody. I have got in from the grain industry samples of seeds starting off, samples of dirty seeds with chemicals etc. as applied along the way.  I put it all into one big box and sent it on to my officials and it is for them and the Revenue Commissioners to sit down and sort it out.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>If, notwithstanding the good intentions that are apparent in the Minister's response &mdash; and I hope we can take from it that there should not be unnecessary concern for legitimate manufacturing processes such as industrial grain drying &mdash; problems arise subsequently that have not been foreseen by this section, will the Minister give an assurance that he will review it next year and will immediately bring it back into the House to ensure it applies only to those who are abusing the definition of &ldquo;manufacturer&rdquo;?  Will the Minister give an assurance that he will review it next <Col N="417" /> year and will, if necessary, immediately bring it back to the House to ensure that it applies only to those who are abusing the definition of &ldquo;manufacturer&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>It is a good try.  Beet compounders, malsters and millers are certainly not affected; that must be the vast bulk.  There may well be an isolated case but I am not going to give an opinion that I will be held to.  This will apply to the tax year starting in April 1990.  There will be no tax paid by the time we come to the budget and Finance Bill next year. We will listen to what has been said but I will not give any commitment as to the outcome.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>By then the Minister will have the results of what went away in the bottle.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>We might be drinking it in the form of better whiskey.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I welcome this section, which is very desirable.  We are talking about 10 per cent as distinct from 40 per cent.  Obviously there are considerable repercussions for the Exchequer.  Only properly defined manufacturing processes are accorded this special rate of taxation.  It will extend the rate of corporate take in terms of taxation.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Acting Chairman (Mr. McDonald) Acting Chairman (Mr. McDonald)">
+      <NameTxt>Acting Chairman (Mr. McDonald)</NameTxt>
+      <P>Is the recommendation withdrawn?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>No.</P>
+      <P>Recommendation put and declared lost.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Recommendations Nos. 8, 9 and 10 have already been discussed.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 8:</P>
+    </Speaker>
+    <P>In page 51, subsection (1) (c), line <Col N="418" /> 2, to delete &ldquo;subsection&rdquo; and substitute &ldquo;subsections&rdquo;.</P>
+    <P>Recommendation put and declared lost.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 9:</P>
+      <P>In page 51, lines 5 and 6, to delete &ldquo;and (ICC7)&rdquo; and substitute &ldquo;, (ICC7) and (ICC8)&rdquo;.</P>
+      <P>Recommendation put and declared lost.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 10:</P>
+      <P>In page 51, subsection (1), between lines 36 and 37, to insert the following:</P>
+      <P>&ldquo;(6)  Goods shall for the purpose of the definition of `goods' in subsection (1) be regarded as manufactured, if they are goods which result from a process, which causes a change in the character or form in the material used.</P>
+      <P>(7)  The exclusion from the definition of manufactured goods in paragraph (a) (i), (ii), (iii), (iv) and (v) of subsection (5), shall apply only where the process involves a single material or product.&rdquo;.</P>
+      <P>Recommendation put and declared lost.</P>
+      <P>Section 41 agreed to.</P>
+      <P>
+        <i>Sitting suspended at 1.45 p.m. and resumed at 2.15 p.m</i>.</P>
+      <P>Sections 42 to 44, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 45.</P>
+      <P>Question proposed: &ldquo;That section 45 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>Anything that encourages community initiative is to be welcomed and for that reason I welcome this <Col N="419" /> section.  We should not pass the section without commenting on its importance.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I welcome the section which provides for tax relief on donations from companies who establish trusts for community initiatives.  Has the Minister information on how the scheme will operate?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The business community on their own have set up a trust to promote and finance initiatives of a community nature in areas of high unemployment, poverty and so on.  That can happen for many reasons.  In some cases community development may not get off the ground due to a lack of capital or seed capital may be required for a community development project or to help an individual in a depressed community.  It can also complement the initiative I took last year in the budget to get the banks to put up money without the need for personal guarantees from young entrepreneurs or their parents.  In such instances there may be a lack of seed capital and the fund referred to in the section can assist in such cases.  If corporations or companies make donations into this trust it is non-returnable.  It will be a revolving fund.  If enterprises succeed they can repay over a five or ten year period, but if they fail that is it.  It is risk capital.  The State is responding by giving the appropriate corporate tax relief for such donations.  The whole idea is to help communities.  For example, there are some bad patches around Dublin that could benefit.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>I understood that the initiative was introduced in 1989.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I called for the initiative in 1989 and this is the response.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>Will the scheme commence following the passage of the Bill?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <P>
+      <Col N="420" /> Question put and agreed to.</P>
+    <P>Sections 46 to 69, inclusive, agreed to.</P>
+    <P Just="Center">NEW SECTIONS.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 11:</P>
+      <P>In page 62, before section 70, but in Chapter VIII, to insert the following new section:</P>
+      <P>&ldquo;70.&mdash;The provisions of sections 70 to section 79 inclusive shall not apply to persons whose tax liability arises under Case I or Case II of Schedule D.&rdquo;.</P>
+      <P>In speaking to this recommendation, may I address recommendation No. 12 which is similar?</P>
+    </Speaker>
+    <Speaker pid="ThomasHussey" hpid="Acting Chairman (Mr. Hussey) Acting Chairman (Mr. Hussey)">
+      <NameTxt>Acting Chairman (Mr. Hussey)</NameTxt>
+      <P>That is in order.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I am sure the Minister can anticipate my case on these recommendations. Certain sectors, because of the change in accelerated allowances, will be more adversely affected than others. I am sure all Senators can make different cases in regard to those allowances but I should like to refer to one group and ask the Minister to respond to my queries.  I am referring to the agri-business sector of the Agricultural Contractors Association.</P>
+    </Speaker>
+    <P>I have a feeling that the reason this section has been inserted was that there has been some imaginative use &mdash; I will not use the word abuse &mdash; by the industrial sector through leasing arrangements and so on.  I should like to ask the Minister to give us his views on that.  Has he investigated the implications of the changes on farmers and, in particular, on members of the Agricultural Contractors Association?  The Minister will be aware that an agricultural contractor goes through machinery at three times the rate of an ordinary farmer.  They will be badly affected by this section.  Those who are abusing the leasing system deserve to be <Col N="421" /> dealt with.  Will the Minister narrow down the changes to ensure that those who benefited tremendously, particularly the agri-business sector and farmers generally, will continue to benefit?</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Senator O'Toole raised a point about computers yesterday and said that the advantage would only last for two or three years.  The same principle applies here.  If one has a machine that lasts three or four years the same balance of the allowance will apply. I take it that the Senator is referring to farmers in particular?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Yes, but specifically the contracting end of farming which is slightly different.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>It may be but the same principle in taxation applies.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>They can balance?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>Are we talking about wear and tear on machinery?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>No, this is a balancing factor in taxation that can be brought in.  It is the accelerated allowance that is being phased out and nothing happens to affect anything between now and 1 April 1991 when it comes down to 25 per cent and 1992 when it comes down a further 25 per cent.  Rather than it being a problem this year I would have thought it would bring forward investment by people anxious to ensure that they can avail of the 50 per cent relief.  I do not see problems arising in regard to this.  The case has been made that the provision will this year affect the type of work described by the Senator but I do not see that happening.  In my view people will be more inclined to carry out the work this year on the basis that they will get 50 per cent relief and, if they wait until next year, they will qualify for 25 per cent.</P>
+    </Speaker>
+    <P>
+      <Col N="422" /> I should like to tell the Senator that farmyard pollution comes into this but that relates more to recommendation No. 12.  It was agreed that the grant scheme operated by the Department of Agriculture and Food for the control of farmyard pollution was generous and I would like to outline now the scope and extent of the scheme.  This anti-farmyard pollution scheme was part of the Community's framework when it began on 1 August 1989 and it is due to run for five years.  The overall budget for it is £140 million, of which 70 per cent will come from the EC and the remainder from the Exchequer.  The amount per farm of investment eligible for farm aid can go up to £20,000.  In terms of grant aid the maximum rate of grant available is 55 per cent for storage facilities for animal waste and silage effluent and grants of 45 per cent are given for animal housing and fodder storage.  Grant aid can also be claimed on the conversion of existing animal housing and fodder storage structures. New farmers are eligible for grants at 56 to 69 per cent.</P>
+    <P>Finally, the levels of grant are 10 per cent less at 45 per cent and 35 per cent respectively in areas outside the disadvantaged areas.  About 62 per cent of the country is currently classified as disadvantaged and the Minister for Agriculture and Food has made proposals at EC level to further extend this area.</P>
+    <P>The latest information available from the Department of Agriculture and Food shows that, at the end of March 1990, 22,125 applications for grant-aid were received, and that 13,140 approvals had been issued, representing an overall estimated cost of about £135 million.  There was an overall estimated grant cost of about £55.5 million.  The scheme is proving very successful and it has more than four years to run.  Because of its wide-ranging and generous nature and particularly in view of its £140 million budget, I do not think there is a case for extending the 50 per cent accelerated <Col N="423" /> allowance for pollution control expenditure by farmers as envisaged in the recommendation.</P>
+    <P>As I mentioned in the Dáil, the 50 per cent will remain until 1 April.  The recommendation would discriminate against those companies who incur anti-pollution expenditure.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The Minister said that companies would be unfairly discriminated against if he acceded to the request of the farming and agri-business sectors in this area.  However, the corporate sector got a reduction of 3 per cent in corporate tax and the Minister, in his budget speech, made the point that he was giving the corporate sector a reduction of 3 per cent in that tax rate to compensate them for the loss of accelerated capital allowances.  The Minister has already compensated the corporate sector so it does not tally with what he has just said.  The farming sector, particularly when we want to encourage them to take as many anti-pollution measures as possible, are being unfairly discriminated against.  Although the corporate sector have been compensated the farmers and the agri-business sector have not.</P>
+    </Speaker>
+    <P>Will farmers be prepared to invest in a non-productive asset which &mdash; to them &mdash; is what investment in pollution control measures is?  These measures will mainly be financed by borrowing over an excessive period, as a result of this section.  As the Minister pointed out, they can avail of the scheme up to next April but we need to take a closer look at the matter. Above all, in the agricultural sector, we must plan properly and not react from year to year, which has been the problem for far too long.  We also need proper investment and development in this sector, especially in regard to anti-pollution measures.  While it will not affect those who invest between now and 1 April, in the long term there are major implications because we want to sell the <Col N="424" /> environmental purity of our country, its products and its attractiveness as a tourist destiny if all this talk about natural resources means anything.</P>
+    <P>During this Green Presidency, about which we hear so much, I suggest that this is an anti-green measure which will, in the long-term, discourage anti-pollution investment because there will be nothing in it for the individual farmer.</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>On the contrary, I would have thought that the individual farmer would be extremely concerned about the image of the Irish food industry abroad.  They are the primary producers of food and it is in their long term interest to invest in anti-pollution measures to ensure that our environment is kept clean.  It is stretching it a bit to say that farmers did not get anything out of the budget.  Senator Doyle mentioned the accelerated allowances granted to the corporate sector&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>That was compensation&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The budget cannot be treated like an <i>a la carte</i> menu.  Many farmers will benefit from the reduction in income tax&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The 20 per cent who have a taxable income?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Farmers can get a grant of 82 per cent for certain measures. How far do we have to go, to 100 per cent?  They have benefited from VAT refunds and the indexing of inheritance tax.  We try to balance the budget and to strive for fairness although I know I will always be open to criticism from some source.  Farmers will also be getting a 50 per cent write-off in their capital allowances this year and I cannot accept the arguments that this measure will damage them.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The farmers have invested <Col N="425" /> £200 million in the last two years in anti-pollution measures but another £400 million is needed before the job is completed. We are not asking the Minister to give them grants of 100 per cent for anything, we are merely asking him not to change the system of accelerated allowances.  Please do not confuse the issue.  In the budget the Minister stated that the corporate sector were being compensated for this section by a reduction of 3 per cent in the corporate tax.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>That was part of an overall package.  The Senator should not ignore the 55 per cent grants from the EC&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The 55 per cent grants were there last year, we are not asking for any more, we are just asking the Minister not to change anything.  The Minister should not deliberately try to confuse the issue because the farmers, the agri-business sector and I will not be fooled by that.</P>
+    </Speaker>
+    <Col N="426" />
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I will not be fooled by the Senator either.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>We are just asking the Minister to consider not making a change in accelerated allowances.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>There will not be a change between now and this time next year.  If the problem is as serious as the Senator outlined she should raise it with me again next year and we will examine it.  However, as there is no change at present, the Senator's arguments are futile.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The Minister is proposing a change from next April and now is the time to lay down the marker of how destructive it could be.  It seems unlikely that the £400 million investment will be in place during the next nine months because it has taken two years to invest £200 million.</P>
+      <P>Recommendation put.</P>
+      <P Just="Center">The Committee divided: Tá, 12; Níl, 22.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Cosgrave, Liam.<br />Costello, Joe.<br />Doyle, Avril.<br />Howard, Michael.<br />Jackman, Mary.<br />McDonald, Charlie.</entry>
+            <entry rowsep="1">McMahon, Larry.<br />Neville, Daniel.<br />O'Reilly, Joe.<br />Raftery, Tom.<br />Ryan, John.<br />Upton, Pat.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Bennett, Olga.<br />Bohan, Eddie.<br />Byrne, Hugh.<br />Byrne, Seán.<br />Cassidy, Donie.<br />Conroy, Richard.<br />Fallon, Sean.<br />Farrell, Willie.<br />Fitzgerald, Tom.<br />Hanafin, Des.<br />Honan, Tras.</entry>
+            <entry rowsep="1">Hussey, Thomas.<br />Keogh, Helen.<br />Kiely, Dan.<br />Kiely, Rory.<br />McCarthy, Seán.<br />McKenna, Tony.<br />Mooney, Paschal.<br />Ó Cuív, Éamon.<br />O'Keeffe, Batt.<br />Ormonde, Donal.<br />Wright, G.V.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Ta, Senators Howard and O'Reilly; Níl, Senators Wright and Fitzgerald.</P>
+    <P>Recommendation declared lost.</P>
+    <Col N="427" />
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I move recommendation No. 11a:</P>
+      <P>In page 76, before section 71, to insert the following new section:</P>
+      <P>&ldquo;(a)  This subsection applies to a capital expenditure incurred by an employer on the provision of a nursery, creche or other facilities for the care of children of his employees at their place of employment during the hours of such employment.</P>
+      <P>(b)  Expenditure to which this subsection applies shall be regarded as an expenditure on plant provided for the purposes of the trade or profession of that employer.</P>
+      <P>(c)  In this subsection&mdash;</P>
+      <P>&lsquo;children&rsquo; means children who are under five years of age;</P>
+      <P>&lsquo;employer&rsquo; and &lsquo;employee&rsquo; have the same meaning as they have in the Unfair Dismissals Act, 1977.&rdquo;.</P>
+    </Speaker>
+    <P>Like all other recommendations put forward by the Labour Party, this is an eminently reasonable recommendation.  It seeks the application of paragraph (a) to capital expenditure incurred by an employer on the provision of a nursery, crèche or other facilities for the care of children of his employees at their place of employment during the hours of such employment and to ensure that expenditure to which paragraph (b) applies should be regarded as an expenditure on plant provided for the purposes of the trade or profession of that employer. Acceptance of this amendment would result in a capital allowance being made available for an activity in respect of which no such allowance was available heretofore and in expenditure on such facilities being regarded as expenditure <Col N="428" /> on plant.</P>
+    <P>It is important to bear in mind that capital allowances are available for many activities including those referred to by Senator Doyle on the previous recommendation. Therefore, why do we not extend capital allowances to activities such as the provision of nursery and crèche facilities for children under five years of age as specified in the recommendation? Some incentives should be given to employers to ensure that these facilities are made available.  In recent times the Minister for Labour emphasised that it is his intention to seek the provision of such facilities in the workplace. The Minister for Finance now has the opportunity to make it attractive for employers to provide facilities which would make it easier for women to participate in the workplace.</P>
+    <P>There is much talk about equality of opportunity, the elimination of discrimination in the workplace and the need to encourage female participation but unless the Minister for Finance takes some steps to ensure that the right climate is created &mdash; the Minister will be <i>au fait</i> with that expression &mdash; and makes it attractive for employers to provide nursery or crèche facilities, women will continue to be discriminated against in the workplace.</P>
+    <P>The provision of such facilities is desirable, both socially and economically.  I believe the Government are committed to ensuring that the provision of such facilities is encouraged but until steps such as these are taken to make it attractive for the employer to provide such facilities such discrimination will continue.</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I wish to inform the House that the existing law caters for expenditure on nursery, crèche or other such facilities where the expenditure is incurred on items which would be regarded as plant and machinery.  It also covers the expenditure involved in the <Col N="429" /> case of a building to which the industrial buildings capital allowances apply.  I have examined the question in detail and would not be in favour of amending the Bill as I believe practically all situations are covered.  By a long stretch of the imagination we could come across a case where a certain type of office is not part of an industrial complex to which the capital allowances would not apply but all conceivable situations appear to be covered by the legislation and, consequently, I see no reason to amend the Bill.  In general terms crèches located in industrial buildings are already catered for under the existing Act in the sections dealing with plant and machinery.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>May I take it that expenditure incurred by an employer in providing a nursery or a crèche in his or her premises is regarded as expenditure on plant under the existing legislation?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The cost incurred in fitting out a crèche in a building is allowable.  The plant and machinery capital allowances would cover the equipment in the crèche as well as the normal capital costs involved in fitting out an existing room in an office building when it is turned into a crèche.  If a new room is specifically constructed the buildings capital allowances would apply in the case of industrial buildings, including hotels.</P>
+      <P>Recommendation put and declared lost.</P>
+      <P>Sections 70 to 79, inclusive, agreed to.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 12:</P>
+      <P>In page 80, before section 80, to insert the following new section:</P>
+    </Speaker>
+    <P>
+      <Col N="430" />&ldquo;80.&mdash;Sections 70 to 79 inclusive will not have effect for expenses incurred in the purchase of plant or machinery or the erection of buildings for the purpose of pollution control by persons whose liability arises under case I of Schedule D.&rdquo;.</P>
+    <Speaker pid="PaschalMooney" hpid="Acting Chairman (Mr. Mooney) Acting Chairman (Mr. Mooney)">
+      <NameTxt>Acting Chairman (Mr. Mooney)</NameTxt>
+      <P>This recommendation has already been discussed. Is it being withdrawn?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>No.</P>
+      <P>Recommendation put and declared lost.</P>
+      <P>Sections 80 to 96, inclusive, agreed to.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>On a point of order, while subject to correction, in case there is any confusion as to what exactly was being recommended I think the reference to page 62 in recommendation No. 11 should read page 76.  It does not matter now as we have dealt with the recommendation.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>We now come to recommendation No. 13 and I call on Senator Doyle to move the recommendation.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 13:</P>
+      <P>In page 87, before section 97, but in Part II, to insert the following section:</P>
+      <P>&ldquo;97.&mdash;(1)  Regulation 8 of the Disabled Drivers (Tax Concessions) Regulations, 1989 (S.I. No. 340 of 1989) is hereby amended by the substitution of `10 per cent' for `30 per cent' in each place where it occurs in paragraph (1).</P>
+    </Speaker>
+    <P>
+      <Col N="431" /> (2)  Section 92 of the Finance Act, 1989 is hereby amended by the substitution of `10' for `30' in subsection (1) (b) (ii).</P>
+    <P>(3)  This section shall come into effect on the date of passing of this Act.&rdquo;.</P>
+    <P>I hope I receive the support of the House on this recommendation which is patently self-explanatory. One does not need any details or description from me to appreciate the importance of the recommendation and the difference it would make to this category of people who suffer from different types of handicap which would put them under the general heading of disabled drivers.  I do not want to develop this argument too far but I am very optimistic that I will have the Minister's support in trying to achieve what can only be considered a very reasonable and justifiable reduction in excise duty.</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The current scheme was devised after full consultation with Opposition spokesperson.  Last year I extended an invitation to the spokespersons of all Opposition parties in the House to sit down with me to work out what I believe should be a non-controversial and non-political issue, and that is the question of disabled drivers and how they should be dealt with under the law.  As I said, the current scheme, which was devised last year, is only in operation for some five months.  The reason for that is there was a very slow implementation by the health boards. The Department of Health seemed to be very slow getting the scheme off the ground because the chief community welfare officer is the certifying officer.  We then agreed to try to get it as right as we could between us without any disagreement and we agreed we would review it in a year in case problems <Col N="432" /> showed up along the way.  Because it has been in operation for only five months and we have agreed to review it in 12 months with spokesmen from all parties, I do not think it would be advisable at this stage &mdash; and I put this to the Dáil when I was discussing this type of amendment, and we got agreement there &mdash; to do it piecemeal but rather we would sit down in about six months&rsquo; time and have it worked out on time for the end of the year revision.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Is the recommendation withdrawn?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Yes, given the Minister's explanation I am quite happy to withdraw it.</P>
+      <P>Recommendation, by leave, withdrawn.</P>
+      <P>Sections 97 to 101, inclusive, agreed to.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 14:</P>
+      <P>In page 87, before section 102, to insert the following new section:</P>
+      <P>&ldquo;102.&mdash;Section 8 of the Principal Act is hereby amended&mdash;</P>
+      <P>(a) in subsection (3) (inserted by the Act of 1978) by the substitution&mdash;</P>
+      <P>(i)  in paragraph (b) (inserted by the Finance Act, 1982) of &lsquo;£30,000&rsquo; for &lsquo;£15,000&rsquo; (inserted by the Finance Act, 1989),</P>
+      <P>(ii)  in paragraph (c) (inserted by the Finance (No. 2) Act, 1981) of &lsquo;£50,000&rsquo; for &lsquo;£32,000&rsquo; (inserted by the Finance Act, 1989), and</P>
+    </Speaker>
+    <P>(iii)  in paragraph (e) (inserted <Col N="433" /> by the Finance Act, 1984) of &lsquo;£30,000&rsquo; for &lsquo;£15,000&rsquo;,</P>
+    <P>(b) in subsection (3A) (inserted by the Finance Act, 1982), by the substitution of &lsquo;£30,000&rsquo; for &lsquo;£15,000&rsquo; (inserted by the Finance Act, 1989), and</P>
+    <P>(c) in subsection (9) (inserted by the Act of 1978), in the definition of &lsquo;farmer&rsquo; (inserted by the Finance Act, 1982), by the substitution of &lsquo;£30,000&rsquo; for &lsquo;£15,000&rsquo; (inserted by the Finance Act, 1989) in each place where it occurs.&rdquo;.</P>
+    <P>This recommendation proposes a new section and to get the debate off on constructive grounds, I will respond to the Minister's comments.</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The latest adjustments in thresholds occurred as recently as last year, in the 1989 budget, when the annual turnover thresholds were increased in line with cumulative inflation from £25,000 to £32,000 in the case of suppliers of goods and from £12,000 to £15,000 in the case of other traders. Under EC law we simply cannot increase the thresholds to the levels proposed in this recommendation.  Registration thresholds can only be adjusted to take account of the effects of inflation, including cumulative inflation.  In 1990 thresholds of £32,000 and £15,000 if adjusted in 1990 terms, would be approximately £33,400 and £15,700 respectively. The very low level of this adjustment would not justify an increase in the thresholds in 1990.</P>
+    </Speaker>
+    <P>Apart from the legal restraints the amendment would exclude certain traders from the VAT system.  The cost is broadly estimated at about £1.5 million in a full year.  The higher the level of turnover threshold for registration purposes is pitched, the greater are the tax advantages accruing to unregistered traders below the thresholds as against registered traders above the thresholds. Such advantage must lead to a distortion <Col N="434" /> in competition.  Our thresholds, along with those in the UK, are far higher than those in the other member states of the EC.  The high level of our threshold is not viewed with favour by other member states.  There has been no demand from trade interests, that I am aware of, that thresholds should be further increased this year.  In the context of 1992, we will be looking at the situation again.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>The last sentence is perhaps the most important.  In the context of 1992, and, I presume, harmonisation generally, and Commissioner Schrivener's intentions, what are the Minister's thoughts on the Irish view and the Irish line in relation to the section? Has the Minister a specific direction he can share with us?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>In relation to what may or may not happen by the end of 1992, I must say quite clearly that no one really knows what the position will be. We know exactly where we stand in relation to VAT only to the end of 1991, in that there has been agreement on a concept of convergence on the basis that nobody in the lower rates would go out of those bands and no one in the higher rates would go outside those bands, and those who are outside hopefully would try to move into the bands before the end of 1991.  That is the position.  The excise package has only come through very recently.  It will be on the table formally at the next meeting of ECOFIN on 11 June so we will see how far we will get there.  In general terms we are in favour of high limits.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>High levels?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>High levels of thresholds.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Is the recommendation withdrawn?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I will withdraw it in view <Col N="435" /> of the fact there will be a major overall review of the area with harmonisation ahead of us.</P>
+      <P>Recommendation, by leave, withdrawn.</P>
+      <P>Sections 102 to 105, inclusive, agreed to.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 15:</P>
+      <P>In page 88, before section 106, to insert the following new section:</P>
+      <P>&ldquo;106.&mdash;The Second Schedule to the Principal Act is hereby amended in paragraph (vii) by the insertion of &lsquo;except greyhounds&rsquo; after &lsquo;dogs&rsquo;.&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The application of the zero rate to the supply of food for greyhounds &mdash; or to any other new category of goods or services &mdash; would be contrary to the Sixth VAT Directive.  The Sixth Directive, specifically precludes the extension of the scope of the zero rate and any such extension would inevitably be met with legal proceedings by the EC Commission in the European Court of Justice.  I think there would be an appreciation in the House of my reluctance to get involved with the EC Court of Justice on this specific issue.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Thank you Minister.  I accept what the Minister says in terms of the logistics but I would like to point out that what is really behind this recommendation is concern for the future of our greyhound industry.  I presume many of our thoughts were directed to this by representations we received since the budgetary statement of the moneys that were to go to the bloodstock and greyhound <Col N="436" /> industries &mdash; £3 million over the next few years.  There are concerns that this money is not being shared on an equal basis.  I am not going to recommend what the proportion share out should be, but what it did bring to the surface were the problems and difficulties in the greyhound industry generally.</P>
+      <P>This recommendation is really there to highlight what we all feel are the concerns of an industry that needs our protection and support.  It is an important export industry.  We must be concerned about some of the conditions under which dogs are exported, but generally with proper controls and procedures in place and proper policing of the industry it could develop to a far greater extent than it is now.  We are all concerned also with the threat of the closure of local tracks.  Anything we can do to ensure a healthy vigorous future for our greyhound industry must be done.</P>
+      <P>The Minister may have further views &mdash; obviously they cannot be along the lines of the recommendation &mdash; that would re-invigorate and ensure the future that we would all like for this indigenous industry.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>To elaborate on the context of the 1992 tax harmonisation negotiations, the question of the classification of goods and services at the proposed reduced and standard VAT rates have yet to be settled.  In discussions to date, however, under our Presidency there has been widespread agreement that foodstuffs generally should get favourable treatment.  Further definitional work remains to be done and the ultimate treatment of food for animal consumption remains to be decided.  The matter can best be dealt with in this context rather than by way of premature action at this stage.  We set up an <i>ad hoc</i> working group to tackle the classification changes that are going to take place in the harmonisation process.  While we await the production of proposals from the Commission in relation to the excise <Col N="437" /> and the VAT packages, this work is going ahead and is well advanced, and while definitive decisions may be nine to 12 months away, nevertheless we have advanced quite significantly.</P>
+      <P>I agree with the sentiments expressed by Senator Doyle in relation to the greyhound industry.  It is a national industry, it is a natural one, and it is one that we will be promoting, I understand, under EC rural development programmes. There is provision in this year's budget, and for the next three years also &mdash; in other words for four years &mdash; for the racing and the greyhound industries.  The greyhound industry got £500,000 this year but I would like to bring to the notice of the House the fact that the figure to be allocated in each year's budget will represent 1.5 per cent &mdash; not necessarily a ceiling of 3.5 per cent, but a higher ceiling. The greyhound industry should benefit more from the balance should the betting go over that figure, as everybody confidently expects.</P>
+      <P>Recommendation, by leave, withdrawn.</P>
+      <P>Sections 106 and 107 agreed to.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 16:</P>
+      <P>In page 89, before section 108, but in Part III, to insert the following new section:</P>
+      <P>&ldquo;108.&mdash;Bodies approved under section 5 of the Housing Act, 1988 and who are recognised by the Revenue Commissioners as being formed for charitable purposes will be exempt from VAT.&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I oppose the recommendation. Under the VAT system, exemption means that while the supplier <Col N="438" /> has no tax liability in respect of his supplies of exempt goods or services, no credit or deduction is allowed in respect of the VAT borne by that person on purchase of goods or services.  However, the activities of such housing associations as mentioned here are already regarded for VAT purposes as not being in the course of business and, accordingly, they are treated as being outside the scope of the tax.  This treatment amounts to a <i>de facto</i> exemption.  The exemption proposed would have exactly the same effect on the bodies concerned and the recommendation is therefore unnecessary.</P>
+      <P>Recommendation, by leave, withdrawn.</P>
+      <P>Sections 108 to 111, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 112.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 17:</P>
+      <P>In page 99, subsection (3) (a), line 36, to delete &ldquo;10&rdquo; and substitute &ldquo;4&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Are we dealing with recommendation No. 18?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Recommendation No. 17, but I do not mind if the Minister wants to take the two together.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>The Chair suggests that recommendations Nos. 17 and 18 be discussed together.  Agreed.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The purpose of this section is to bring the stamp duty practice into line with reality.  In large housing estates two separate contracts had to be entered into, one for the site and the other for the house.  Stamp duty was paid only on the site itself rather than on the <Col N="439" /> site plus the house.  That has to be compared with the inequity in the secondhand housing market where a person selling a house of the same value and maybe in the same district, would have to pay the full stamp duty.  This is a matter that has gone untackled for quite some time.  To avoid problems in the trade and to ensure that I would not interfere with any standing contracts, I have provided that 1 September be the deadline for existing contracts to be fulfilled.  I do not propose to accept the recommendation.</P>
+    </Speaker>
+    <Speaker pid="LiamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Is the Minister saying that any contracts entered into prior to the 1 September deadline and which have not been completed will come under the old scheme?  Obviously this would cause problems for people in relation to commitments to purchase and so on.  Is 1 September the deadline for the completion of the whole purchase deal or does it just relate to the signing of the contract?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>It has to be completed. This does not apply to grant-sized houses.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I accept the Minister's indication that there has been imaginative use of the law, or perhaps abuse, but it is not for me to say because I do not know enough about this area.  In my recommendation I am proposing to lower the figure a little from that proposed by the Minister.  Perhaps we have gone from one extreme to another.  While I accept the principle of what the Minister is doing, I think it is a little excessive.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>It is not possible for the Revenue Commissioners to ascertain the exact figure on which the stamp duty calculation is to be based.  Where, for example, the cost of building on the site is not forthcoming for some reason, the assessment will be based on a figure between five and ten times the value of <Col N="440" /> the site.  The range is wide enough both to allow a considerable degree of flexibility and to combat the avoidance potential which would result from the application of too low a multiple.  A low multiple in the range of two to four, as proposed in the recommendation before us, would encourage the deliberate suppression of information in order to benefit from as low a stamp duty charge as possible.</P>
+      <P>The section includes some in-built safeguards. Subsection (3) (b) provides for a refund of stamp duty where it is later shown that the multiple applied was too high.  Subsection (6) provides for a refund if it transpires that no house was built on a site within two years of the transfer being stamped.  In both cases tax-free interest will be paid on the refund.  Basically what we are saying is that if you buy a site and there is no direct connection between the seller of the site and the person who subsequently builds the house, that is a clear-cut situation to which this section does not apply.  If you buy a site and do not build a house on it for two years and there is a computation of tax on the basis that you bought it from a builder, that can be sorted out later also.  There are in-built safeguards and it is a reasonable approach.  As I have said, grant-type houses are exempt.  The purpose of the section is to bring the new house and the secondhand house on to a level playing pitch.</P>
+      <P>Question, &ldquo;That the figure proposed to be deleted stand&rdquo;, put and declared carried.</P>
+      <P>Recommendation declared lost.</P>
+      <P>Recommendation No. 18 not moved.</P>
+      <P>Section 112 agreed to.</P>
+      <P>Section 113 agreed to.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I move recommendation No. 18<i>a:</i></P>
+    </Speaker>
+    <P>
+      <Col N="441" /> In page 102, before section 115, to insert the following new section:</P>
+    <P>&ldquo;1 .&mdash;No stamp duty shall be payable on any instrument whereby the property in a family home (within the meaning of the Family Home Protection Act, 1976) is transferred by either spouse into the name of the other spouse to the marriage.&rdquo;.</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I sympathise with what I understand to be the aim of the Senator's recommendation.  The section as it stands will fully satisfy that aim, while going further and ensuring that a charge for stamp duty will never arise where there is a transfer of property, including the family home, between spouses.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I just want to be clear on what the Minister is saying.  He is accepting the principle of the recommendation and not just sympathising with it.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>It is already provided for.  This relates to the transfer of property from one spouse to another.  I already included a provision in relation to joint ownership and made an exemption in respect of stamp duty in that case. This is the other side of that coin.  The case was made that in a family settlement, in general terms, the house normally goes to the wife and that, where there are marital problems, it would be a bit harsh to impose stamp duty.  I have already dealt with this matter in the Dáil.</P>
+      <P>Recommendation, by leave, withdrawn.</P>
+      <P>Sections 114 to 127, inclusive, agreed to.</P>
+      <P Just="Center">NEW SECTIONS.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 19:</P>
+    </Speaker>
+    <P>
+      <Col N="442" /> In page 107, before section 128, to insert the following new section:</P>
+    <P>&ldquo;128.&mdash;Notwithstanding the provisions of the Principal Act, in any case where&mdash;</P>
+    <P>(a)  the successor is a brother or sister of the disponer, who had lived on a full time basis with the disponer in the disponer's principal private residence for the period of 5 years ending on the date of the inheritance; and</P>
+    <P>(b)  the inheritance consists of the disponer's principal private residence; and</P>
+    <P>(c)  the successor is 55 years of age or more,</P>
+    <P>then, for the purpose of computing the tax payable on the inheritance, the successor shall be deemed to bear to the disponer the relationship of a child.&rdquo;.</P>
+    <P>I suggest we discuss recommendation Nos. 19 and 20 together as they involve the same issue.  I will respond to the Minister's reply.</P>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Is the House agreeable to the discussion of recommendations Nos. 19 and 20 together? Agreed.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The purpose of this recommendation is to apply the class threshold of £150,000 instead of the class threshold of £20,000 to an inheritance consisting of the dwelling house taken by a successor from his brother or sister provided the successor has attained the age of 55 years and has been living together with the disponer for five years. The proposed new section deals with the situation where the disponer owns a house which he leaves to a brother or a sister.  The experience of the Revenue Commissioners is that this is not a normal situation.  In the more usual circumstances brothers and sisters living together will have acquired equal shares <Col N="443" /> in the house from their parents so that on the death of one that person's share will pass to the survivor or survivors. Since only a share of a house is involved in the inheritance, the tax will be negligible or nil.</P>
+      <P>However, where the situation does exist of a brother or a sister inheriting the entire house, a simple piece of tax planning will reduce the tax burden or eliminate it in some cases.  The Revenue Commissioners have suggested to, among others, the Incorporated Law Society that wills can be drawn up in such a way as to reduce substantially the amount of tax.  Instead of giving the house absolutely to the surviving sister, the owner may make a will leaving the house to that sister for life, and that on her death, it passes to, say, a nephew absolutely. The life interest would give the sister full use of the property for her lifetime but the taxable value of the house would be ascertained by multiplying its market value by a factor depending on her age.  For example, if she were aged 65 years at the time of the owner's death, the factor would be 0.565 and the effect of her taking a life interest instead of an absolute interest would be to reduce the tax from £3,500 to nil if the house was valued at £35,000 and from £14,000 to £4,865 if the house was valued at £70,000.</P>
+    </Speaker>
+    <P>Where the payment of any amount of tax would involve hardship, particularly in the case of an elderly person, the Revenue Commissioners are prepared to agree to a postponement of payment during the lifetime of the beneficiary where they can secure their claim for tax by way of a judgment mortgage on a charge on the property.  In this connection, the Revenue Commissioners, earlier this month, published a statement of practice dealing with the postponement of tax and the registration of a charge. This statement of practice gives an example of the type of situation envisaged in the case where an elderly person, <Col N="444" /> with limited means, inherits a house or an apartment which is, or becomes, her sole residence.  The publication of the statement of practice was advertised in the national newspapers and the Revenue Commissioners have brought it to the attention of the bodies representing accountants, solicitors and tax advisers.</P>
+    <P>I have given an undertaking to the Dáil that the Revenue Commissioners will not press for the recovery of capital acquisitions tax where the payment of this tax would result in a taxpayer of limited means having to sell his or her house.  I repeat that assurance in this House.  Of course, any person may provide for the payment of inheritance tax arising on his or her death by affecting policies under section 60 of the Finance Act, 1985.  The proceeds of these policies are exempt from inheritance tax in so far as such proceeds are used to pay the inheritance tax arising out of the insured person's death.  The attendant beneficiary may also take out a policy of insurance on the life of the owner of the house, the proceeds of such a policy would then be available on the owner's death to pay the inheritance arising on his or her death.</P>
+    <P>In conclusion, the computation of inheritance tax is based on the relationship between a disponer and a successor. Apart from the possible loss of revenue and the further narrowing of the already narrow inheritance tax base, I am reluctant to take on any further proposal which interferes with this basis.  Accordingly, I must oppose this recommendation, bearing in mind the way inheritance tax between elderly brothers and sisters may be met, as I have outlined by tax planning, by postponement of payment of tax and by section 60 policies.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Most of the people I know who might come into this category are rather elderly brothers and sisters, usually none of whom have married or there could be a widow or widower back in the home place after many years.  Certainly it is a difficult job to get them to <Col N="445" /> make a basic will let alone talk about tax planning.  They just do not want to know. Unfortunately, too many of our elderly, especially in rural areas still feel that by making a will they are somehow hastening their demise.  It is in this position where they are not privy to proper advice and direction that problems subsequently arise on the death of one or other.  Notwithstanding what the Minister has said, the recent directions given by him to the Revenue Commissioners and the recent statements by them which are all helpful in terms of the postponement of the collection of any relevant taxes that are due, I would ask the Minister to consider the points raised in the two recommendations.</P>
+    </Speaker>
+    <P>I can think of at least three examples in my own sphere in County Wexford where the kind of situation we are trying to deal with could arise.  It would be much better if, in the circumstances outlined in the recommendations, the Minister would allow the transfer of the property without any liabilities incurring.  We all know families in rural areas where there are two, three or four brothers and sisters who have lived together all their lives in the one house.  The house may have been left to the eldest boy by their parents.  At some stage, they may or may not take out administration &mdash; many do not bother &mdash; but even if they do, the eldest son very rarely transfers an equal share of that property to his immature brothers and sisters; things do not work that way in rural Ireland.  When the Minister says that not too many of these cases have come to the notice of the Revenue Commissioners, I find that hard to understand; I am not saying it is wrong but in my limited experience I can think of two or three specific cases where this problem exists.  Regardless of the other factors the Minister has cited &mdash; how these cases would be handled and the sympathetic approach that will be taken by the Revenue Commissioners &mdash; I urge him to consider the recommendations.  While I am on my feet, may I speak to the section <Col N="446" /> generally and ask that the Minister think again about&mdash;&mdash;</P>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>I suggest that we dispose of the recommendations first and then perhaps you would address yourself to the section.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I thought it would speed up the process a little.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Is the recommendation withdrawn?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>I have nothing more to add except to say that Revenue will handle such matters as sympathetically as possible.  I undertook in the Dáil and this was accepted, that we would send to Members of the House copies of the statements of practice and indeed details of interviews with the Revenue Commissioners on how this position can be handled.  Every other way possible we will publicise the information so that it gets through to the people affected.  I think that TDs, Senators and local authority members are as good a communication line as one can get.  If they are informed they will be able to advise people where necessary.  I could not concede that we would increase the figure in line with the CPI each year or replace it with £150,000 indexed as well.  I could not go that distance.</P>
+      <P>Recommendation put and declared lost.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 20:</P>
+      <P>In page 107, before section 128, to insert the following new section:</P>
+      <P>&ldquo;129.&mdash;Notwithstanding the provisions of the Principal Act, in any case where&mdash;</P>
+    </Speaker>
+    <P>(a)  the successor is a brother or <Col N="447" /> sister of the disponer who has worked substantially on a full time basis for the period of 5 years ending on the date of the inheritance in carrying on, or assisting in the carrying on of the trade, business or profession or the work of or connected with the office or employment of the disponer; and</P>
+    <P>(b)  the inheritance consists of property which was used in connection with such trade, business, profession, office or employment or of shares in a company owning such property,</P>
+    <P>then, for the purpose of computing the tax payable on the inheritance, the successor shall be deemed to bear to the disponer the relationship of a child.&rdquo;.</P>
+    <P>Recommendation put and declared lost.</P>
+    <P Just="Center">SECTION 128.</P>
+    <P>Question proposed: &ldquo;That section 128 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I ask the Minister to address the matter of capital acquisitions tax.  The principle of the introduction of indexation is to be welcomed.  It is long overdue.  For instance, in the mid-seventies when capital acquisitions tax took over from the appallingly penal death duties that had become part of the folklore and fear of Ireland, urban and rural, over the years, and indeed put many a rural or urban family onto the road as the years went by and no effort was made to index the capital acquisitions taxes generally, particularly inheritance tax, we have almost got back to the same penal situation which existed under the death duties.  This was further exacerbated by the introduction of milk quotas in rural Ireland since 1984 because the quota itself is an asset that attaches to the land. The potential tax treatment of that caused enormous anxiety for many <Col N="448" /> people because it would distort, so to speak, what would otherwise have been the position.  Even though it was a capital asset they had acquired by virtue of the EC changes in the whole milk production system, there was no preparation in this area for it.  The Minister will tell me that since 1985 an insurance scheme has been in existence against inheritance taxes generally, and those who were enlightened and took the advice of tax planners and the like, if their cash flow allowed them at the end of the year, could cover the potential problems in the event of their death.</P>
+      <P>Taking last year as the base year, a 4 per cent increase on the threshold is my understanding of the section the Minister is introducing.  I would have liked him to be far more generous, given the dozen or so years since the introduction particularly of inheritance tax.  During those years we had inflation running at a very high level at different stages, effectively eroding the value those levels were pitched at in the mid-seventies when they were introduced.  If the levels were acceptable when they were introduced after such bargaining between the Department of Finance and the Revenue Commissioners, we should try to get back to the real value of the initial levels when the taxes were introduced.  If we index by only 4 per cent this year and last year and by, I presume, the level of inflation from here on &mdash; I would like confirmation of that, or is it just subject to the Minister's discretion each year &mdash; is it the CPI we will use as our yardstick?  We will be a long way before, if ever, we reach the real value the levels were pitched at in the seventies when they were introduced to remove the penal death duties and the awful fear they invoked generally.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>I am pleased Senator Doyle availed of the facility provided by the Chair for her to comment on the section as a whole.  I had not informed the House of my conclusions of the question being put.</P>
+    </Speaker>
+    <Col N="449" />
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>In my review of capital acquisitions tax this year I accepted that some degree of movement was desirable. I am aware that problems can arise in this area.  However, I had to balance this view against the fact that yield from the tax was only some one third of 1 per cent of total tax revenue in 1989, a considerably lower figure than that yielded by the old death duties regime.  I also had to bear in mind that substantial changes in this area would lead to a narrowing of the tax base and, consequently, to a limiting of the options available to me in the context of overall tax reform.</P>
+      <P>Bearing in mind all these factors I, nevertheless, included important reliefs in this Bill.  Gifts taken by one spouse from another will in future be exempt from tax, and I have extended the scope of section 60 insurance policies.  One of the changes there is applying it to trust that it had not been applicable to previously. Also, I have introduced an important change under which the various thresholds will in future be index linked every year.  These changes will cost £1.35 million a year which, relative to the yield from the tax, is a significant amount.</P>
+    </Speaker>
+    <P>Senator Doyle's proposal to allow the parent-child threshold to apply in the case of certain transfers between brothers and sisters, which we have mentioned, and to increase the thresholds further would cost over £11 million a year, a reduction in the total present yield in this area of 40 per cent.  This is unacceptable, and I am sure the Senators will agree that my own proposals are sensible and realistic responses to the circumstances, bearing in mind that this tax was introduced in 1975 and this is 1990.  I do not know how much human outcry there was, but obviously it was not felt to be a major problem in 15 years.  With all the changes of Government we had the thresholds were not raised or otherwise.  I have done what I believe was equitable, that was to introduce indexation.  In view of the cost of £11 million to cover what the Senator was proposing and the reduction of the <Col N="450" /> whole tax yield by 40 per cent the recommendation is totally unacceptable.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>For the record, will the Minister indicate how the indexing will be arrived at each year?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>We take the CPI for the year and add it on.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>It will be very appropriate.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 21:</P>
+      <P>In page 107, before section 129, to insert the following new section:</P>
+      <P>&ldquo;129.&mdash;The Second Schedule to the Principal Act is hereby amended in Part I by the substitution of the following paragraph for paragraph 1:</P>
+      <P>&ldquo;class threshold&rdquo; in relation to a taxable gift or a taxable inheritance taken on a particular day, means&mdash;</P>
+      <P>(a)  £207,000 where the donee or successor is on that day the spouse, child, minor child of a deceased child (of the disponer), or, in respect of inheritance tax, a lineal ancestor limited to parents of disponer;</P>
+      <P>(b)  £27,600 where the donee or successor is, on that day a lineal ancestor, a lineal descendant (other than a child, or a minor child of a deceased child), a brother, a sister, or a child of a brother or of a sister, of the disponer;</P>
+      <P>(c)  £13,800, where the donee or successor does not on that day, stand to the disponer in a relationship referred to in subparagraph (a) or (b);</P>
+      <P>&ldquo;revised class threshold&rdquo;, in relation to a taxable gift or a taxable inheritance included in any aggregate of taxable values under the provisions of paragraph 3, means&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="451" /> (a)  the class threshold that applies to that taxable gift or a taxable inheritance, or</P>
+    <P>(b)  the total of the taxable values of all the taxable gifts and taxable inheritances to which that class threshold applies and which are included in that aggregate,</P>
+    <P>whichever is the lesser;</P>
+    <P>Provided that where the revised class threshold so ascertained is less than the smallest of the class thresholds that apply in relation to all of the taxable gifts and taxable inheritances included in that aggregate, the revised class threshold shall be that smallest class threshold;</P>
+    <P>&ldquo;Table&rdquo; means the Table contained in Part II of this Schedule;</P>
+    <P>&ldquo;threshold amount&rdquo;, in relation to the computation of tax on an aggregate of taxable values under the provisions of paragraph 3, means the greatest of the revised class thresholds that apply in relation to all of the taxable gifts and taxable inheritances included in that aggregate.&rsquo;.&rdquo;.</P>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>The purpose of this recommendation is to increase the class thresholds applying to capital acquisitions tax from £150,000, £20,000 and £10,000 to £207,000, £27,600 and £13,800 respectively, an effective increase of 38 per cent.  The recommendation also proposes to apply to inheritance taken by parents the class threshold of £207,000.</P>
+    </Speaker>
+    <P>I am conscious that capital acquisitions tax may be burdensome, but it is possible in most cases to mitigate its effects by tax planning in the use of insurance policies, the proceeds of which are exempt from inheritance tax.  I am conscious that the thresholds have not been altered since 26 March 1984 when a revised computation of capital acquisitions tax was introduced by the Finance Act, 1984.  I have provided in section 128 of the Bill that commencing <Col N="452" /> this year the thresholds will be indexed yearly according to the consumer price index, resulting in an increase in the thresholds of 4 per cent for gifts and inheritance taken in this calendar year.</P>
+    <P>It is estimated that acceptance of Senator Doyle's recommendation would involve a loss to the Exchequer of about £7 million in a full year.  This is unacceptable at a time when I am being urged to increase the yield from capital taxes with a view to facilitating the Government's commitment to reduce income tax.  Accordingly, I must oppose the recommendation.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>There are many aspects to this point but there is one I would like to underline and ask the Minister to consider once more.  That is the lineal ancestor. I have in my mind a specific case &mdash; I know specific cases make bad law &mdash; but what I am about to mention would not happen more than two or three times a year in the whole country.  It is the equity in such cases that concerns me. A father or mother &mdash; more often in traditional Ireland a father &mdash; hands over a property, business or farm to a son or daughter and that son or daughter is subsequently killed.  Under the present situation whereby the property reverts there are problems and the tax implications in sorting out those, albeit very rare, cases are fairly difficult for the family.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>Is the person killed because of an accident or something?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Yes.  On the day of the election count in Wexford in 1982 I attended the funeral of a young man who had been killed in a road accident and he had within the previous year or 18 months received the father's farm.  He was engaged to be married but was not yet married, so there was no wife to inherit anything there and there were problems in that area.  I know we should not be talking about specific cases and hard cases <Col N="453" /> but, in the cause of equity, given there will be so few such examples, could we not have the same linear tax treatment between father and son and son and father or mother and daughter or mother and son, or whichever way you like to put it?</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>My attention has been drawn to cases where, for example, a father makes a gift of property to his son and on the son predeceasing the father the property reverts to the father. In this case there are two possible claims for capital acquisitions tax while, at the same time, the property ends up in the possession of the original owner.  Senator Doyle's recommendation would give relief in this type of case, but it goes far beyond that by also indexing all thresholds at 38 per cent.  I recognise the possible hardship in these cases. However, when the matter was raised in the Dáil by Deputy Michael Noonan the time available did not permit me a full examination of the effect of giving some relief.  Accordingly I must oppose the recommendation, while repeating the undertaking which I gave on Committee Stage in the Dáil to have the matter looked at in connection with next year's Finance Bill.  It was not possible in the short period of time to go through all the implications and be satisfied that we could proceed with it.  I am repeating the undertaking to have it examined because of the hardship aspects.  There may not be many cases.  It will be examined in time for next year's budget.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Thank you.  There are perhaps only two or three cases a year.</P>
+    </Speaker>
+    <Speaker pid="RichardConroy" hpid="Professor Conroy Professor Conroy">
+      <NameTxt>Professor Conroy</NameTxt>
+      <P>We very much welcome that assurance in respect of genuine hardship cases.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>They are rather unusual cases.</P>
+    </Speaker>
+    <P>
+      <Col N="454" /> Recommendation, by leave, withdrawn.</P>
+    <P>Sections 129 and 130 agreed to.</P>
+    <P Just="Center">NEW SECTION.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I move recommendation No. 22:</P>
+      <P>In page 108, before section 131, but in Part VII, to insert the following new section:</P>
+      <P>&ldquo;131.&mdash;Section 17 of the Finance Act, 1970 is hereby amended by the addition after subsection (14) of the following subsections:</P>
+      <P>&lsquo;(15)  Any person who is aggrieved by a refusal by the Revenue Commissioners to issue a certificate of authorisation under this section may, by notice in writing to that effect given to the Revenue Commissioners within 10 days from the date on which such refusal is given him, apply to have his application heard and determined by the Appeal Commissioners.</P>
+      <P>(16)  The Appeal Commissioners shall, subject to subsection (17), hear and determine an appeal made to them under subsection (15) as if it were an appeal against an assessment to income tax, such hearing to take place not later than 30 days from the date of notice of appeal.</P>
+      <P>(17)  On the hearing of an appeal made under subsection (15) the Appeal Commissioners shall have regard to all matters to which the Revenue Commissioners may or are required to have regard under the provisions of this section.'.&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="AlbertReynolds" hpid="Mr. A. Reynolds Mr. A. Reynolds">
+      <NameTxt>Mr. A. Reynolds</NameTxt>
+      <P>This recommendation concerns section 17 of the Finance Act, 1970, which provides a scheme for the deduction of tax from payments made to subcontractors in the construction <Col N="455" /> industry.  Broadly, under that scheme a principal contractor must deduct tax at the rate of 35 per cent when making payments to a subcontractor, unless the subcontractor produces a certificate authorising the principal to pay in full.  These certificates of authorisation, known as C2 certificates, are issued to subcontractors by the Revenue Commissioners provided they are satisfied that certain conditions regarding the tax affairs of the subcontractors are fulfilled. The 1970 legislation contains no mechanism whereby a subcontractor who is refused a certificate by the Revenue Commissioners can appeal against its refusal.  The recommendation seeks to introduce an appeals procedure into that legislation.  This proposal is one I am happy to take on board and I introduced a provision in the Bill on Report Stage in the Dáil at section 131 to meet the very point.  Accordingly the recommendation is already taken up.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>I thank the Minister for his acceptance of this.  The case was made very strongly in the Dáil by my colleague, Deputy Michael Noonan.  It is justice.</P>
+      <P>Recommendation, by leave, withdrawn.</P>
+      <P>Sections 131 to 140, inclusive, agreed to.</P>
+      <P>First Schedule agreed to.</P>
+      <P>Second Schedule agreed to.</P>
+      <P>Third Schedule agreed to.</P>
+      <P>Fourth Schedule agreed to.</P>
+      <P>Fifth Schedule agreed to.</P>
+      <P>Sixth Schedule agreed to.</P>
+      <P>Seventh Schedule agreed to.</P>
+    </Speaker>
+    <P>Eighth Schedule agreed to. <Col N="456" /> Ninth Schedule agreed to.</P>
+    <P>Title agreed to.</P>
+    <P>Bill reported without recommendation, received for final consideration and passed.</P>
+    <P>Question, &ldquo;That the Bill be returned to the Dáil,&rdquo; put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Finance Bill, 1990 [Certified Money" RHead="Bill]: Motion for Earlier Signature">
+    <Title>Finance Bill, 1990    [Certified Money Bill]:    Motion for Earlier Signature.</Title>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>I move:</P>
+      <P>That, pursuant to subsection 2º of section 2 of Article 25 of the Constitution, Seanad Éireann concurs with the Government in a request to the President to sign the Finance Bill, 1990, on a date which is earlier than the fifth day after the date on which the Bill shall have been presented to him.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>When is it proposed to sit again?</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>At 2.30 p.m. on Wednesday next, 30 May.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Before the Minister leaves the House we wish to thank him for his consideration and patience during these two days.  He has a very full schedule, particularly during the six months of the Presidency.</P>
+    </Speaker>
+    <Speaker pid="TrasHonan" hpid="Mrs. Honan Mrs. Honan">
+      <NameTxt>Mrs. Honan</NameTxt>
+      <P>On behalf of our spokesperson on Finance, Senator O'Keeffe, I warmly and sincerely thank the Minister for being with us throughout the debate on the Finance Bill.</P>
+      <P>The Seanad adjourned at 3.45 p.m. until 2.30 p.m. on Wednesday, 30 May 1990.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

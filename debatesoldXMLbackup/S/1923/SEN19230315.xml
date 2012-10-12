@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="15" Month="Mar" Year="1923" Vol="1" No="14" DateIrish="Déardaoin, 15 Márta 1923" DateEnglish="Thursday, 15 March 1923" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="479">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="479" /> Cromadh ar obair an lae, ar 3.5 p.m. Bhí an Cathaoirleach, an Tiarna Lann Abhaigh, sa Chathaoir.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="NEW" RHead="SENATOR">
+    <Title>NEW SENATOR.</Title>
+    <P>Mr. William Cummins took and subscribed the Oath.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="LOCAL GOVERNMENT (TEMPORARY PROVISIONS)" RHead="BILL, 1923.&mdash;SECOND STAGE">
+    <Title>LOCAL GOVERNMENT (TEMPORARY PROVISIONS) BILL, 1923.&mdash;SECOND STAGE.</Title>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>The first business on the Order Paper is the Second Reading of the Local Government (Temporary Provisions) Bill, 1923, and the motion before the Seanad is: &ldquo;That this Bill be now read a second time.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir JOHN KEANE Sir JOHN KEANE">
+      <NameTxt>Sir JOHN KEANE</NameTxt>
+      <P>I should like to make some observations and I should be glad if the Minister for Local Government was present, because I wish to ask certain questions that he might be able to answer.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>The Minister for Local Government is on his way here and perhaps we might be considering, while waiting, what we propose to do with reference to the further stages of this Bill and the Electoral Bill.  The question was discussed briefly yesterday as to what the views of the Seanad would be as to the Committee Stage of one or both of these Bills; whether it should be taken to-morrow, or whether that would be too soon, having regard to the short notice, and whether it would not be preferable to postpone the two Bills until we meet next week.  Perhaps we might discuss that matter now.  I could, of course, myself arrange the matter, but I prefer to consult, on a question of this kind, the convenience or the Senators and if there is any view any Senator likes to express as between taking this Bill to-morrow and later on I should be glad to hear it.</P>
+    </Speaker>
+    <Speaker pid="WilliamPoe" hpid="Colonel Sir HUTCHESON POE Colonel Sir HUTCHESON POE">
+      <NameTxt>Colonel Sir HUTCHESON POE</NameTxt>
+      <P>In view of the fact that this Bill has only <Col N="480" /> been just put into our hands, and even when the Minister attends, that we shall have to take into consideration the different arguments that may be put forward, I prefer the matter to stand over until Tuesday or Wednesday next week.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. THOMAS WESTROPP BENNETT Mr. THOMAS WESTROPP BENNETT">
+      <NameTxt>Mr. THOMAS WESTROPP BENNETT</NameTxt>
+      <P>I am strongly of the same opinion. There are some matters upon which I would like to move amendments, and I would like to have time to draft and frame them.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Supposing we say we will take the Committee Stage of this Local Government Bill on Wednesday and the Committee Stage of the other Bill on Thursday.  Will the House kindly consider that as arranged &mdash; Wednesday for the consideration in Committee of this Bill, and Thursday for the consideration in Committee of the Electoral Bill?</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir JOHN KEANE Sir JOHN KEANE">
+      <NameTxt>Sir JOHN KEANE</NameTxt>
+      <P>Could we get any information of what vacation, if that is the right term, or what interval, there will be during Easter?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>It looks as if after next week we will not require to meet for a fortnight or three weeks and that will cover the Easter recess.  Possibly we may be able to make an announcement on the subject on Tuesday or Wednesday next and state the interval before which the Seanad will not be summoned.  I think that will be the most convenient way to do it.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. JAMES G. DOUGLAS Mr. JAMES G. DOUGLAS">
+      <NameTxt>Mr. JAMES G. DOUGLAS</NameTxt>
+      <P>It might be well to point out that if amendments could reach the Clerk on Tuesday morning, for this Bill which is to be taken in Committee on Wednesday, they could be circulated so as to reach members of the Seanad on Wednesday, and that in the case of the other Bill amendments should reach the Clerk on Wednesday so that they could be in the hands of Senators on Thursday.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Of course it would be in the interests of the convenience of the rest of the Seanad if amendments to either of those Bills could reach the Clerk in good time.  In the case of the first Bill they should be in by Tuesday morning, and in the case of the second Bill not later than Wednesday morning.</P>
+    </Speaker>
+    <Col N="481" />
+    <Speaker pid="JohnKeaneBart" hpid="Sir JOHN KEANE Sir JOHN KEANE">
+      <NameTxt>Sir JOHN KEANE</NameTxt>
+      <P>This Local Government (Temporary Provisions) Bill is admittedly a temporary Bill, but it is also in the nature of a Bill that confirms certain action that has already been taken.  That is to say, certain schemes have been put into operation in some counties, and however temporary their character may be on paper, action has been taken which necessarily gives to certain vested interests and certain attitudes of thought a character which it may be difficult to change in any very radical manner.  It is also a Bill which is very important to the agricultural interests, in that rates are a very heavy burden on a depressed industry. It is desirable that an important industry like agriculture should be satisfied that the local government generally is carried out, not only in the most efficient, but also in the most economical, manner. I think, possibly, now that we have got this Bill before us, the Minister may see his way to make a general statement as to the policy of the Government in respect to this question of local government. A number of schemes have been set up in the various counties; there has been a considerable divergence of methods in these schemes.  I would even suggest that, in some cases, they have been set up somewhat hurriedly, and that whilst, in some cases, they are satisfactory, in other cases they are not; and that while it is undesirable to limit unduly the initiative of a county, it is also, on the other hand, necessary for the central authority to keep a firm hand, and to exercise wise powers of co-ordination.  I would, therefore, ask the Minister, when he does reply, to state generally if the Government is satisfied, on the whole, with these schemes or, if any modification is desirable, in what direction it should be.  I have also heard it suggested that some of the schemes that were set up in the interests of economy have proved the reverse, and if the Minister could now, or, possibly, at a later stage, undertake to give us, in the form of concrete figures, the effect on economy, or otherwise, of these schemes, it would be of considerable advantage.  I realise that the central Government cannot do very much towards the improvement of our local government; the matter lies largely in the hands of the ratepayers themselves, and <Col N="482" /> for any defects that may now exist the ratepayers themselves are largely to blame.  I think it is common knowledge that in many cases the interest taken in questions of local government is very unsatisfactory. I have myself been a member of a County Council for a great many years, and have had the unpleasant experience of proceeding to attend business meetings, and of having to go home again for want of a quorum.  I cannot make the same charge of apathy in the case of any meetings where the question of patronage had to be exercised.  I found that on these occasions the attendance was altogether satisfactory.  There is one question I should like to ask the Minister. It is rather one of detail, and comes under Section 13.  It is to the effect that a member of a local authority, a member of a County Council, for instance, is ineligible for holding any office of profit under such Council.  I am afraid that in some cases that is honoured more, recently, in the breach than in the observance, and I should like to ask the Minister what powers there are legally to enforce that provision.  Finally, on the question generally of accounts, I should like to ask the Minister whether some improvement cannot be made in the form of Local Government accounts.  My criticism is not directed specially against Local Government accounts.  It is directed against all our national accounts. But in this case the ambit of Local Government accounts being more restricted, the complications not being so great, I would suggest to him that it would be a good opportunity when this thing is more or less in the melting pot to see whether a form of accounts simpler and more informative to the ratepayers might not be adopted.  In the case of certain activities like road repairs the form of accounts should be such that we might be able to compare the broad cost in several counties or in different parts of a county, the broad cost on the basis of the number of miles repaired.  Of course I know the question is to be considered with due regard to local conditions, and that we cannot compare subsidiary roads with main roads.  It would be well within the province of trained experts or skilled accountants to give us certain data of comparison which would be exceedingly useful to the ratepayers, so as to form <Col N="483" /> some kind of groundwork on which the ratepayers could criticise their representatives. The reform may be somewhat of a radical character, because public accounts have not been tackled from the commercial point of view with the object of effecting economies.  In fact, they have never been tackled.  They have been drifting on and on, and are based on old and archaic principles.  I do suggest that the Minister might see his way to appoint, not a Commission, but some Departmental Committee or expert to go into this whole question of Local Government, so that when this Bill, which is a temporary Bill, expires, we may get a well considered scheme put before the country.</P>
+    </Speaker>
+    <Speaker pid="JohnOFarrell" hpid="Mr. J.T. O'FARRELL Mr. J.T. O'FARRELL">
+      <NameTxt>Mr. J.T. O'FARRELL</NameTxt>
+      <P>Before the Minister speaks, there are one or two matters which I should like to refer to. Senator Sir J. Keane has rightly stated that the adoption of the new scheme has affected a number of vested interests; and, although the Bill before the Seanad may be of a temporary character, its effect upon these vested interests is of necessity of a permanent character. Now, in Clause 11, regarding the superannuation of officers whose services may be dispensed with, there is a provision for the new Council or authority responsible for the paying of pensions to these officers to appeal to the Minister against the amount granted.  There is no specific right stated for the officer, on the other hand, should he not be satisfied and should he desire to appeal.  I know the Minister states that the officer has the right of such appeal, and possibly that is quite true; but if he has, and I take it the Council also has the right of appeal under the existing law, why was it necessary to state here specifically the right of one side without a similar statement being made giving the same right to the other party?  Should there be any doubt at all about that I think it only right that it should be provided for by the insertion of a suitable amendment.  With regard to certain sections of this Bill very extensive powers are conferred upon the Minister.  In Clause 10 he has the right to remove a number of existing restrictions regarding the granting of relief. I quite agree that these restrictions should be removed in very many <Col N="484" /> instances, particularly in view of the prevalence of unemployment at the present time.  I think it will be agreed that the intervention of the Minister in cases of that kind is a very important step, and that it should only be done at the same time by placing an Order on the Table of both the Seanad and the Dáil giving the right to the Oireachtas to annul any such Order.  The same argument applies in regard to Clause 12, where the Minister has the right, after inquiry, to close down and dissolve the Local Authority.  Here also I would suggest respectfully that that is a sufficiently serious step to warrant an Order being laid on the Table of the Seanad. Clause 16 also gives the Minister for Education the right to stipulate the educational tests that shall be passed by those who qualify for County Council Scholarships.  That also is a matter affecting, as it does, the whole country, and in that case, too, an Order might also be laid on the Table of the Seanad. But in all these cases the Minister has absolute freedom to take any steps that he may consider proper without any right of the Oireachtas to any voice whatsoever.  Those are a few things that rather tend to impair what is otherwise a pretty good Bill when all the circumstances are taken into consideration. Senator Sir J. Keane has asked for some figures with regard to the estimated economy to be effected.  I think in all changes of this kind economies must be of a gradual kind.  The provision for pensions regarding existing employees will be a drag for some time upon the new authority that will be set up, and it will be a number of years before it is possible to make anything like an accurate and sound estimate of what the eventual economies will be.  The fact that this is a temporary measure must be borne in mind, and I think everyone who has read these schemes, and has ascertained the diversity that exists between the different schemes, will agree that some codifying law of a more common or national character will require to be embodied in any legislation which may be introduced hereafter in regard to Local Government law.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. WESTROPP BENNETT Mr. WESTROPP BENNETT">
+      <NameTxt>Mr. WESTROPP BENNETT</NameTxt>
+      <P>I should like to refer to Section 7, Clause 2 (<i>a</i>), which reads &ldquo;all the property of <Col N="485" /> such Board, Committee or other body shall pass through, and vest in, and be held in trust for the Council of the County to which such County Scheme relates.&rdquo; That property is vested immediately in the County Council of the district, and is properly used for the purposes of the County Council.  But to my mind, and I would ask the Minister to consider it, it appears only right that any property passing from a District Council in this way should be ear-marked by the County Council for the purposes of the particular district from which it passes. There is in some District Councils some very valuable property which would be passing, and I think it is unjust and inequitable that such property should go to the credit of the county as a whole. That, I think, is a matter that should be considered.  Some of the counties have made provision for such allocation.  I do not think it will be difficult for the Minister to put into his Bill some provision that would make that rule uniform, and I would ask him to make some alteration in that particular section to allow for that. A number of the schemes were very hastily prepared.  We all know that there was a great deal of difficulty in the country in getting people together, and some of the districts had not adequate representation. Their claims were more or less ignored.  I do not like to refer to particular instances, but I hope I will be allowed to refer to the county from which I come &mdash; the County of Limerick.  There we have a scheme in operation, and when I tell you that from one particular district patients have to go 27 miles to the Central Hospital you will admit that it cannot be a very good scheme.  In some cases I know that patients had to wait two days before the ambulance came to take them to the hospital.  In such a case as that where the scheme is known to be a bad one I do not think that any Act should provide for continuing such a scheme for a further period of twelve months.  I suggest to the Minister that in particular cases it might be possible to reconsider schemes in a more thorough and more businesslike way in a shorter period than twelve months &mdash; say six months or three months.  Meanwhile things could go on as at present.  Looking through the whole country you will find, I think, that many of the remarks I have made <Col N="486" /> apply to other places, and I wish particularly to emphasise that property taken from the District Councils under the schemes should be ear-marked in some way for the district from which it was taken.  I think that is only common justice, and ought to be done.</P>
+    </Speaker>
+    <Speaker pid="JanePower" hpid="Mrs. WYSE POWER Mrs. WYSE POWER">
+      <NameTxt>Mrs. WYSE POWER</NameTxt>
+      <P>I desire to congratulate the Ministry on the provisions of this Bill, which provide for the breakup of the Poor Law system.  I think we cannot dwell too much on the advance made in this temporary measure, because, temporary even as it is, it ends for all time the iniquitous and vicious system which has obtained in Ireland ever since 1840.  Very few realise what that system was, and how much the poor suffered under that law.  It was drawn up and forced upon us by an Englishman named Nicholls in total opposition to the views of the Commission set up in 1846 by Irishmen of such divergent views as William Smith O'Brien, Archbishop Whately, and Daniel O'Connell.  These men drew up a scheme which they considered in keeping with the need of the time, which was really want of work.  It was a productive scheme, but that scheme was turned down by this gentleman from England, who had never been in Ireland before, and who reported back that the scheme was not advisable.  In 1838 his scheme was enacted, and in 1840 the first workhouse was opened.  Very few, except those who have been connected with the administration of the Poor Law, will realise what a tremendous advantage this temporary measure gives to the destitute poor.  Under the old system the poor were pauperised, and children even, to the number of 600, were crowded together in one institution.  Under this new scheme the boarding-out of children is advocated, and everyone will agree that it is the natural thing for every child to be in a home.  There are few homes that have as bad an influence on the growing child as the big institution.  I say that with all respect to those who manage those institutions.  Under this scheme the poor are separated from the workhouses and from the taint of pauperism which endured for the last eighty years, and on these things and on many others we ought to congratulate this Ministry and those who worked for this object, that <Col N="487" /> such a thing was possible in the times we live in, in the short time since the little Local Government Commission met two and a half years ago under certain circumstances and conditions that were not very easy. There are a few things in connection with the county schemes that I would like to get a little information about. In some of them it is stated that the children are to be boarded out or, where that is not possible, to be sent to Industrial Schools.  I would like to have information from the Minister if any recommendation has been made for removal of the obnoxious regulation regarding offences against the Common Law.  Industrial Schools were meant for industrial centres, and not for Ireland. In order that a child of sixteen could be admitted into an Industrial School it was necessary that the child should be committed for an offence against the common law, and the custom was to bring the poor destitute child to beg in the streets and then have it brought before a magistrate and committed.  I hope that in this temporary scheme that we are now about to pass that that bar, at all events, will be removed.  I would also like to know does the proposed system of Home Help alter the terms that were heretofore necessary in order to obtain the assistance for widows with one child.  Heretofore a woman with one child could not get outdoor relief.  She had to go into some place or other, and those of us who are interested in women and children found that that was a very bad system, because it meant the breaking up of the widow's home.  Does the temporary measure provide for relief to widows with children commensurate with the amount paid for a child in an Industrial School?  I will give an instance which will illustrate my point. A decent workingman died and left six children unprovided for, one a baby in arms.  I was interested to keep that woman's home together, but I found that nothing could be done for her by way of relief.  We had to send five of her children into an Industrial School, and the five of them had to commit an offence against the common law before they were admitted.  At that time the State and the local rates were making a payment of 7s. 6d. per head to Industrial <Col N="488" /> Schools.  If that woman could have got the 7s. 6d. per head for the six of these children she would have been able to maintain all the children.  I wonder if Home Help will be extended on lines sufficient to enable a destitute widow to keep her home together?  I would not ask for more than the amount given to the Industrial School.  I am very sorry I was not in time to table these requests for information.  Perhaps the Minister will answer them at some other time.</P>
+    </Speaker>
+    <Speaker pid="PatrickKenny" hpid="Mr. P.W. KENNY Mr. P.W. KENNY">
+      <NameTxt>Mr. P.W. KENNY</NameTxt>
+      <P>In Section 7 of the Bill I find that when the property of the Unions is realised the proceeds are to go to the general fund of the County Council, and, of course, would be used in the reduction of the general rate of the county for the ensuing year.  I consider that that rather penalises thrift.  Some Boards of Guardians have conducted their affairs in an economic and efficient and thrifty manner, and have accumulated a certain amount of property.  Under this scheme the result of their application and of their energy in that direction does not re-act in their favour as a unit.  It is diffused over the whole county.  In certain Unions this scheme would scarcely work out.  For instance, the County Waterford Board of Guardians comprised members from the No. 1 Rural District Council, members from Waterford City, and members from the No. 2 District Council, which is situated in the County Kilkenny.  Clearly all these units making up a Board of Guardians have a common and particular interest in the funds and in the assets that were accumulated by the Guardians in the course of their tenure of office.  Now, the proceeds of the assets so accumulated, situated as they were in the County of Waterford and in the City of Waterford, to the exclusion of the County Kilkenny area, would go to the County Waterford, to the general funds of the County Council. When the County Waterford scheme of amalgamation was being drawn up I had a clause inserted headed &ldquo;Vesting Saleable Property&rdquo; as follows:&mdash;&ldquo;That the saleable interest, if any, of property of every description at present held by the Boards of Guardians throughout the county be transferred to the County Board of Health, for use or disposal as opportunity offers, subject to the sanction of Dáil Eireann; the proceeds to be paid <Col N="489" /><i>pro tem</i> to the credit of the County Council in separate account pending allocation.&rdquo;  You will see the equity of a clause like that.  Some of the assets may be realised at once.  Others are property assets which may be slow in realisation, but if, and when they are realised, the resulting proceeds will go to the credit of the particular unit in proportion to the valuation of that unit, and be distributed amongst the units comprising the former Board of Guardians, and go directly in reduction of the rates.  It is very necessary that some provision like this should be made, because in the particular No. 2 District Council, which was in the County Kilkenny, ratepayers of a certain valuation there have contributed towards building up these assets, and they are certainly not going to allow the proceeds of their interests in the assets of the Union to be taken up and absorbed by the Waterford County Council, and distributed in reduction of the rates paid by the ratepayers to the Waterford County Council, to the exclusion of a similar benefit which should accrue to the ratepayers of the No. 2 Council in Kilkenny.  There is no such provision for allocation on the basis of valuation in the Bill as it stands.</P>
+    </Speaker>
+    <Speaker pid="WilliamPoe" hpid="Colonel Sir HUTCHESON POE Colonel Sir HUTCHESON POE">
+      <NameTxt>Colonel Sir HUTCHESON POE</NameTxt>
+      <P>I would like to ask the Minister if he can give any explanation as to the County Hospitals.  I have not had time to go through the Bill, but I think it is in contemplation to augment, where necessary, the existing County Hospitals.  When the Bill was going through the other House I understood it was the intention of the Government that in so doing they would bring these Hospitals up to such a standard as regards medical and nursing staff that it would obviate the necessity for any persons in these counties being obliged to come up for treatment to a Dublin hospital.</P>
+    </Speaker>
+    <P>That, of course, is a very good thing for the county, but I am afraid if it exists to any large extent it will seriously interfere with the Dublin hospitals, and as you know there is a Bill to give temporary relief to these hospitals by way of sweepstakes, on which I will not express any opinion now, but which will have to be seriously considered when it comes before us.  Medical men I spoke to in Dublin <Col N="490" /> look with apprehension on any big exten sion of County Hospitals.  They say that very few of the County Hospitals would be in a position to have 100 beds, and without 100 beds no nurse will get a full certificate.  It would also cripple the clinical teaching of the medical profes sion.  You cannot expect in County Hospitals with less than 100 beds that there will be the same scientific research and so on, that doctors and students who have been trained in Dublin receive.  I will not go into the point any further now, but if the Minister can tell us what is the intention of the Government with regard to these County Hospitals we will be glad to hear it.</P>
+    <Speaker pid="EdwardMacEvoy" hpid="Mr. EDWARD McEVOY Mr. EDWARD McEVOY">
+      <NameTxt>Mr. EDWARD McEVOY</NameTxt>
+      <P>I wish to raise a similar point.  There are two Unions, Castleblayney and Clones, partly in the Six Counties and partly in the 26 counties.  Take the Castleblayney Union, one-third is in Armagh and two-thirds in Monaghan, and in Clones Union one-half is in Monaghan, and one-half in Fermanagh. The pensions for the officers of these two Unions cost £500 each, or £1,000 a year on the ratepayers of Monaghan.  Portion of the Union that originally belonged to Clones, and portion that belonged to Castleblayney are now exempt from that tax.  I would like to know if there is anything in the scheme that would make the ratepayers in Armagh and Fermanagh pay their share of this charge, and so relieve us in Monaghan.</P>
+    </Speaker>
+    <Speaker pid="WilliamBarrington" hpid="Mr. WILLIAM BARRINGTON Mr. WILLIAM BARRINGTON">
+      <NameTxt>Mr. WILLIAM BARRINGTON</NameTxt>
+      <P>Following what Senator Kenny has said I wish to draw attention to a similar state of affairs to that which exists in County Waterford.  I think that there are a great many Unions in which the same question arises.  In Limerick portion of the Union property belongs to the city and portion to County Clare.  One District Council is in Clare, and the balance of the District Council deals with County Limerick.  I should like to ask the Minister whether there are any provisions, which I cannot see in the Bill, and which apparently exist, to deal with such cases.  I am sure, in any case, he is prepared to amend the Bill so that the property shall be administered in the same way as is now proposed in the case of Waterford.</P>
+    </Speaker>
+    <Col N="491" />
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Before asking the Minister to reply I want to remind the Seanad that they ought not to be disappointed if, with regard to several of these matters that have been mentioned, the Minister is not in a position to reply.  In the first place, it must be recollected that he had no notice of any of these questions.  There is another important point to recollect, that he has not beside him any of the officials of his office to whom he can refer for details which it would be impossible for one Minister to carry in his head.  Therefore the Seanad will not misunderstand if, in regard to some of the points, he claims further time before dealing with them.  That opportunity, of course, will arise when this Bill is going through Committee.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="MINISTER for LOCAL GOVERNMENT (Mr. E. Blythe) Ernest Blythe">
+      <NameTxt>MINISTER for LOCAL GOVERNMENT (Mr. E. Blythe)</NameTxt>
+      <P>This Bill, although it does not bear it on the face of it, is to some extent in the nature of an Act of indemnity.  During the period of the struggle which went on in this country great changes were effected in the administration of the Poor Law.  These changes were effected without any definite legal sanction.  For instance, Boards of Guardians were abolished in most of the counties, County Boards of Health were set up, Unions were closed and County Homes opened in their stead, all of which was done outside the powers given by any statute. Now, this Bill is necessary for the purpose of regularising what has been done and for the purpose of preventing endless confusion and innumerable causes of litigation.  If it were not for that necessity to regularise things it might be possible to carry on as at present until permanent legislation dealing with Local Government could be prepared.  We have actually begun the preparation of permanent legislation, and I hope that within three or four months it will be possible to bring it before the Dáil. As matters stand at present, money is being spent and money is being raised in a way that is not provided for by law. It is therefore necessary that the whole matter should be regularised and that all that has been done should be ratified. If it were not ratified the condition of affairs would be certainly chaotic, and, even if a great deal of litigation did <Col N="492" /> not arise, to continue to act as we have been acting outside of actual legal sanction would tend to bring the law into contempt, and would be a most unsatisfactory state of affairs.  It is for that reason we have come to the Oireachtas asking that all the things that have been done during the past couple of years, in good faith and as a matter of public necessity, should be ratified and legalised.  I would be very far from claiming that any of the schemes proposed is perfect; but all the schemes run in the right direction.  The economies effected have been very considerable. There are counties in which economies have amounted to £40,000 per annum.  Economies were greatest where there was a large number of Unions, in each of which there was a very big number of officials and a small number of inmates.  In these counties the economies were very great.  Apart from the question of economy, we have been moving in the direction of humanity, and in the direction of efficiency, regarding it from a wider point of view.</P>
+    </Speaker>
+    <P>The restrictions mentioned by Senator Mrs. Wyse Power on the granting of outdoor relief have been removed.  They have been removed of necessity with the closing of the Workhouses.  It is clear that people who are destitute must be relieved.  No destitute person can be allowed to starve.  Previously in certain cases people might be relieved outside a Workhouse, while other people could only be relieved inside a Workhouse. Now that the Workhouses have been closed it is necessary, under proper safeguards and regulations, that any class of person, except those whose cases would render them suitable to go into the County Home, should be relieved outside the Home.  It is the desire to rob the County Homes, where old and infirm people will go, of the rather horrible character that attached to the Workhouses, and to make them places where people can go without loss of self-respect, and where people who have spent their days in honest labour and who are unable to take care of or provide for themselves at the latter end of their days, can be provided for in a decent atmosphere.  In regard to hospitals, many of the Workhouse hospitals were not anything to boast of.  As somebody put it to me, they were places <Col N="493" />&mdash;some of them&mdash;where people could go to die.  It is the intention under these schemes to set up in each county one decent hospital, very much indeed above the standard of any of the Workhouse Hospitals &mdash; a hospital where there will be a good surgeon, a man of standing in his profession, in charge, and where there will be suitable equipment. Then a certain number &mdash; as many as may be necessary &mdash; of cottage hospitals will be provided throughout the country. We have not been very anxious to have many cottage hospitals opened, because from many districts there will come spurious demands for such institutions. In many places in the country the local workhouse or the asylum was regarded as the principal local industry.  When the workhouse was closed there was a great clamour, and we heard a great deal about the suffering of the sick and the poor.  The real cause of the clamour was that local people had suffered a certain amount of loss in trade.  They clamoured because the workhouse was closed, and they were anxious to have a hospital immediately. Therefore we have not gone ahead very rapidly in dealing with cottage hospitals.  It is the intention, however, to have them opened where they are necessary, so that patients may not have to be removed too far from their homes.</P>
+    <P>The whole question of the form of local accounts is engaging attention.  That, and the matter of holding the people guilty of wrongful expenditure of money accountable, are things which will have to be taken up.  At present people are made amenable by means of the surcharge. That is a very unsatisfactory method.  It is very difficult to fix responsibility for wrongful expenditure.  It often happens that some member of a Board who is self-sacrificing, and who does not hurry home as soon as the interesting business of the meeting is over, remains to sign the orders authorising payment of accounts, and he is then held responsible.  It seems to me that some means will have to be devised for seeing that responsible officials should take certain steps so that no improper payments are made and that no paying orders are signed by any member of the Board in ignorance of the fact that a wrongful payment is being authorised.  In regard to the transfer of property held by the <Col N="494" /> Unions, to the County Councils, I do not think, although it is a matter that may loom very large in a particular locality, that it is a matter of very great substance, because when you are transferring the debts and responsibilities that have been exercised by the various Unions to the County Councils it seems to me that on the whole it will probably work out as satisfactorily as any other way of transference. I think it will be found in most cases to make very little difference. Where the Union is situated in two counties the assets will be divided between the two County Councils, and that is provided for in Section 7 (<i>b</i>).  At the end of 7 (2) <i>b</i> it says: &ldquo;so much only as the Minister shall appoint of the property, debts, and liabilities of such Board, Committee, or other body shall pass to, or be defrayed by, the Council of that county under this sub-section.&rdquo;</P>
+    <P>In the matter of Industrial Schools, under these schemes Courts have not been working, Justices of the Peace have not been functioning, and children have been sent to schools on the principle of boarding out without being committed by magistrates.  I think where in the future it is found impossible or undesriable owing to local circumstances to board children out &mdash; there may be areas where it is difficult to find suitable foster-parents &mdash; children will be sent to Industrial Schools without any taint of criminality attaching to them.  In fact, the whole Industrial School system will have to be dealt with in that connection.  As I have already said, under Home Help a widow with one child, or any number of children, will be relieved at home, and not at all in the House.  That is, a County Home is designed for the aged and infirm, and no one will be relieved there except the aged and infirm.  In connection with the matter of removing the restrictions on outdoor relief, however, further safeguards, I feel, may have to be thought out, because the question of giving outdoor relief, say, to an able-bodied man, is one that might lead to very great abuse. I think some system will have to be devised, and that is a matter which is under consideration &mdash; the provision of some form of work or labour in those cases &mdash; so that it may not be a matter of giving out the <Col N="495" /> dole, which is very demoralising if it is continued.</P>
+    <P>I am not sure that I took note of any other point.  I would like to do something to make the ratepayers of Fermanagh or Armagh pay their share of the pensions.  I am afraid I see no power that would enable us to do it.  Looking over this Bill there is very little that could be regarded as entirely new.  The larger portion deals with the confirmation of acts already done in the course of the last two or three years in the way I have stated.  This scheme of amalgamation has in broad outline been recommended by all the people who have studied the Poor Law question.  The necessity for the abolition of workhouses and the making of some such provision as those schemes direct, has been recognised by everybody. When the British Government withheld the grants from the local authorities a few years ago it was necessary for the latter to effect great economies, and it was for that purpose it was necessary to carry the schemes out.  Most of this Bill is consequential on the acts that have been done, except Section 11, which gives power to dissolve local authorities and appoint Commissioners.  That power already existed.  With relation to Boards of Guardians, the Minister can dissolve them and appoint paid Vice-Guardians. Because of the circumstances of the country and the breakdown of certain local authorities it is necessary the power should be extended to County Councils and other bodies, because, as I pointed out yesterday, there is at least one which has absolutely collapsed, and there is no machinery for carrying on local administration there.  There is one other Council which is on the border line, and if the threat contained in this clause does not induce that County Council to do its duty it may be necessary to utilise the powers given.  That is Section 12.  Section 14 states that a member of a local authority may not be employed by any other local authority.  This is a re-enactment of a decree passed by the Second Dáil.  It is necessary because of a certain type of corruption which has existed.  There was a very glaring instance of it in Dublin.  A member of the Dublin Corporation was employed by the Dublin County Council, and a member of the County Council was <Col N="496" /> employed by the Corporation.  Both men happened to be interned.  Both their families were provided for out of various funds, and certainly they did not suffer in their absence.  The County Council employee came to the Corporation and proposed that the Corporation employee should be paid full salary for all the time he was absent.  The other man went and returned the compliment.  The result was that the ratepayers of the city were mulcted in very considerable sums.  Another instance existed in the case of the Balrothery Union or Rural District Council and the Balbriggan Commissioners.</P>
+    <P>It was felt desirable to prevent people carrying out this sort of co-operative activity, and the Second Dáil passed a decree prohibiting it.  This clause in the Bill is simply a re-enactment of the decree of the Second Dáil.  Clause 15 gives power to persons employed by local authorities, partly by the transfer of functions and partly by the fact that public bodies generally are in a very low condition, and that in many cases the officials are not very loyal at the time.  The <i>morale</i> of the officials has suffered, and numerous cases have arisen pointing out the necessity for the present, at any rate, of a central authority being able to intervene.  Section 16, which gives power to provide for instruction in the Irish language, is a re-enactment of a Decree of the Second Dáil, and of course it only applies to this year.  The whole matter will come up again in permanent legislation.  It has been acted on by various County Councils.  I do not know if it was by the majority, but certain County Councils did strike a rate last year and are striking a rate this year under that Decree of the Second Dáil.  It is necessary that it should be re-enacted, so that there may not be illegal payments and to avoid this business of surcharges and remitting surcharges.  Section 17, which gives power to provide exhibition scholarships in Secondary Schools, and has been acted on by several of the County Councils this year, was also a Decree of the Second Dáil.  Several of the County Councils struck a rate under that Decree. It is again a question of bringing the Decrees of the Second Dáil, which for the past couple of years have been acted on by the local authorities, into <Col N="497" /> conformity with the existing law and reenacting them now by the Parliament of the Free State.  The other sections of the Bill, I think, are mostly consequential. The Bill is due to run till the end of March, 1924, but I think, however, as a matter of fact, the actual currency of the Bill may not be more than six months or so.  I hope we will be able to make such progress with our permanent Local Government legislation that we will be able to bring the Bill before the Dáil and afterwards before the Seanad in the course of the coming summer.</P>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>May I be permitted to ask one question?</P>
+    </Speaker>
+    <Col N="498" />
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>There is a provision that under the county scheme a Board may be abolished, and under Clause 7 the property of that Board can be alienated.  We would like to be assured that that cannot be applied in any way to a privately owned hospital.  We know that is not intended, but we should like the Minister's assurance on the point.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      <NameTxt>Mr. BLYTHE</NameTxt>
+      <P>It will only apply to public hospitals owned by Boards of Guardians.</P>
+      <P>Question: &ldquo;That the Bill be read a second time,&rdquo; put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="TUARASGABHÁIL ÓN MBUAN-CHOISTE" RHead="AR BHUAN-ORDUITHE">
+    <Title>TUARASGABHÁIL ÓN MBUAN-CHOISTE AR BHUAN-ORDUITHE.</Title>
+    <P>(Report of the Standing Committee on Standing Orders.)</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Do ceapadh an Coiste seo le Rún den tSeanad ar an 25adh Eanair, 1923, do réir Airtiogail 70 de sna Buan-Orduithe Sealadacha, atá marleanas:&mdash;</entry>
+            <entry rowsep="1">This Committee was appointed by a Resolution of the Seanad on the 25th January, 1923, pursuant to Article 70 of the Provisional Standing Orders, which is as follows:&mdash;</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>&ldquo;I dtosach gach Siosóin ceapfaidh an Seanad Coiste um Bhuan-Orduithe ar a mbeidh an Cathaoirleach agus an Leas-Chathaoirleach ex-officio agus ceathrar Seanadóirí an chuid is mó dhe.&rdquo;</entry>
+            <entry>&ldquo;At the commencement of each Ses- sion the Seanad shall appoint a Com- mittee on Standing Orders, which shall consist of the Cathaoirleach and Leas- Chathaoirleach ex-officio, and not more than four Senators.</entry>
+          </row>
+          <row>
+            <entry>Siad so leanas atá ar an gCoiste do ceapadh amhlaidh:&mdash; An Tiarna Lann Abhaidh, Seamus Dubhglas, Aindrias Mac Séamais, Seán Ó Fearghail, Pádraig Ó Cionaodha, Sir Seán Ó Catháin.</entry>
+            <entry>The Committee so appointed is consti- tuted as follows:&mdash; Lord Glenavy, James G. Douglas, Andrew Jameson, John T. O'Farrell, Patrick W. Kenny, Sir John Keane.</entry>
+          </row>
+          <row>
+            <entry>Do tháinig an Coiste le chéile ar an 22adh Feabhra, 1923, agus bhí na baill seo leanas i láthair:&mdash;</entry>
+            <entry>The Committee met on the 22nd Feb- ruary, 1923, the following members being present:&mdash;</entry>
+          </row>
+          <row>
+            <entry>An Tiarna Lann Abhaidh (i gCeannas), Séamus Dubhglas, Aindrias Mac Séa- mais, Pádraig Ó Cionaodha, Sir Seán Catháin.</entry>
+            <entry>Lord Glenavy (in the Chair), James G. Douglas, Andrew Jameson, Patrick W. Kenny, Sir John Keane.</entry>
+          </row>
+          <row>
+            <entry>Do bhreithnigh an Coiste an Tuaras- gabháil do cuireadh chuige ón gcruinniú ar Fhuirinn an Oireachtais, a comóradh ar an 15adh Feabhra, 1923, agus ar a raibh An Tiarna Lann Abhaidh, Séamus Dubhglas, Aindrais Mac Séamais agus Pádraig Ó Cionaodha ón Seanad agus Ceann Comhairle na Dála (Micheál Ó hAodha, Ollamh).  Do beartuíodh go molfaí don tSeanad socruithe áirithe a dineadh ag an gcruinniú san agus táid seo: míreanna 1-4 infra.</entry>
+            <entry>The Committee considered the Report made to it of a conference on the Staff of the Oireachtas, held on the 15th Febru- ary, 1923, between Lord Glenavy and Messrs.  Douglas, Jameson, and Kenny on the one hand, and the Ceann Com- hairle of the Dáil (Professor Michael Hayes) on the other.  It was decided that certain decisions come to thereat should be recommended to the Seanad for approval.  These are embodied in Paragraphs 1-4, infra.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>
+      <Col N="499" />
+      <Col N="500" /> 1.  It is recommended in the case of the Clerk, Assistant Clerk, and Second Assistant Clerk that these officers, subject to the probationary period of one year already agreed upon&mdash;</P>
+    <P>(i.)  Shall be whole-time officers;</P>
+    <P>(ii.)  Shall be put on scales of salaries, with regular increments; and</P>
+    <P>(iii.)  Shall hold office until they reach a certain specified age, say, 60 or 65, subject to being removed from office by Resolution of the Seanad, but only for misbehaviour or incapacity, which shall be expressly stated in such Resolution.</P>
+    <P>(iv.)  The superannuation of these officers shall be on the Civil Service scale.</P>
+    <P>2.  It is further recommended that the following additional Standing Orders, relative to the protection of the House, shall be adopted:&mdash;</P>
+    <P>(i.)  The Captain of the Guard or his principal Lieutenant, shall attend in the Seanad during the sittings of the House, and while attending there such officer shall be subject to the control of the Cathaoirleach.</P>
+    <P>(ii.)  He shall admit none but authorised visitors within the precincts of the House, and he shall preserve order and decorum amongst them while present.</P>
+    <P>(iii.)  He shall take into custody persons irregularly admitted into the Seanad, and persons guilty of disorderly conduct, and shall cause the removal of persons who have been directed to withdraw.</P>
+    <P>(iv.)  He shall be responsible to the Cathaoirleach for the internal safety of the buildings of the Seanad, and for this purpose shall supervise the lighting and other apparatus, and shall take all other steps necessary for this purpose.</P>
+    <P>3.  There exists at present a Dáil Staff, which it is recommended shall be made a common Oireachtas Staff, for the discharge of the following duties:&mdash;<i>(a)</i> Translation work; <i>(b)</i> ordering of printing, stationery, and furniture; <i>(c)</i> despatch of documents to members of the Seanad and Dáil; <i>(d)</i> typing, and <i>(e)</i> reporting of Debates. This common Staff to be under the control of the Clerks of the two Houses, the Clerk of the Dáil being the senior.</P>
+    <P>4.  It will be necessary to appoint a Counsel to act as Examiner of Private Bills, to function for both Seanad and Dáil; and it was decided that, pending the appointment of such a Counsel, the Cathaoirleach of the Seanad, Ceann Comhairle of the Dáil, and the Attorney-General should appoint a Counsel to draft Standing Orders dealing with Private Bills.  These Orders, when drawn up, will be submitted to the Standing Orders Committees of both Seanad and Dáil, as it is desirable that the same Standing Orders be adopted by both Houses.  Provided, that any arrangement by which advice is given by the Examiner of Private Bills when appointed, to the Cathaoirleach or Leas-Chathaoirleach shall be regarded as temporary, pending the appointment of a legal adviser to the Cathaoirleach, Leas-Chathaoirleach, and Seanad, an appointment which is certain to become inevitable as the work of the Seanad increases.</P>
+    <P>(5)  The question of Standing Orders regulating inter-communication between the two Houses was discussed.  It was agreed that these matters can best be settled by a Joint Conference between the Standing Orders Committees of the two Houses, and it was decided to recommend to the Seanad that a message be sent to the Dáil requesting its approval of such a Joint Conference.</P>
+    <P>6.  Standing Orders 30 and 31, relating to Divisions, were considered.  In view of the difficulty of judging from the calls &ldquo;<i>Tá</i>&rdquo; and &ldquo;<i>Níl</i>,&rdquo; which side is in the majority, and in order to effect a reduction of the number of divisions which is thereby rendered necessary, it is recommended that Standing Order 30 be altered as follows:&mdash;</P>
+    <P>(i.)  Page 7, line 11, after the word &ldquo;<i>nil</i>,&rdquo; insert the words &ldquo;or he may call for a show of hands.&rdquo;</P>
+    <P>
+      <Col N="501" />
+      <Col N="502" /> (ii.)  Delete the next sentence, and substitute therefor, &ldquo;He shall then judge and declare which side is in the majority.&rdquo;</P>
+    <P>(iii.)  Page 7, line 17, after the word &ldquo;then,&rdquo; insert the words &ldquo;after an interval of two minutes.&rdquo;</P>
+    <P>7.  The question was discussed of the desirability of allowing Parliamentary Questions in the Seanad, and it was decided for the present not to draft or recommend any Standing Orders dealing with this matter, for the following reasons:&mdash;The Committee consider that, having regard to the powers and constitution of the Seanad, no questions, save such as may be addressed to the Cathaoirleach in relation to matters connected with the business and procedure of the Seanad itself, would serve any useful purpose.  They would presumably deal with matters of executive and administrative policy, to which the responsible Minister for the Department concerned alone could supply an adequate or a satisfactory answer, and the Committee do not feel justified in existing conditions in adding to the many responsibilities and duties of Ministers by recommending that they should be invited to attend the meetings of the Seanad for this particular purpose.</P>
+    <P>8.  The Committee also considered the alternative suggestions that Ministers might be invited to transmit their answers in writing, or that one Minister might be deputed to give oral answers on behalf of his own and the other Departments concerned; but apart from the serious burden which the experience of other Legislative Assemblies has shown might thereby be cast upon the staffs of the various Ministries in the reference and research that the preparation of the answers would entail, it is obvious that neither of these alternative suggestions would reasonably permit of supplementary questions, without which the privilege would be comparatively worthless.</P>
+    <P>9.  Further, the answering of questions by Ministers cannot be claimed by the Seanad as a matter of right, but would depend upon the consent from time to time of the Government of the day; and in the absence of any agreed practice on the subject, might lead to difficulty.</P>
+    <P>10.  Finally, it is to be remembered that in respect of any matter of importance it is in the power of any Senator to call public attention to it by an appropriate Resolution, which, should the matter be of sufficient urgency, he can, by permission of the Cathaoirleach and by leave of the House, move without previous notice.</P>
+    <P>11.  Pursuant to the second paragraph of Standing Order No. 3, which is as follows:&mdash;</P>
+    <P>&ldquo;A panel of not less than two Senators shall be appointed each Session, who may, on the request of the Cathaoirleach, the Leas-Chathaoirleach, or the Seanad, act as Cathaoirleach during the absence of the Cathaoirleach and Leas-Chathaoirleach.&rdquo;</P>
+    <P>it was decided to recommend the appointment for this Session of a panel consisting of Senators Sir Thomas Esmonde and J.T. O'Farrell.  The Committee are of opinion that the Senators to be selected for this purpose should be varied each Session.</P>
+    <P>12.  As the present Provisional Standing Orders remain in force only until the 25th March, it is recommended that the changes proposed in Paragraphs 2 and 6 <i>supra</i>, shall not, if adopted, be incorporated in the printed copies forthwith, but shall await the revised Standing Orders which it is intended shall replace the present Provisional Orders.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">(Signithe),</entry>
+            <entry rowsep="1">GLENAVY.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+            </entry>
+            <entry>JAMES G. DOUGLAS.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>ANDREW JAMESON.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>JOHN T. O'FARRELL.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>PATRICK W. KENNY.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>JOHN KEANE.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>13adh Márta, 1923.</P>
+    <Col N="503" />
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>The next business on the agenda is to receive a report from the Standing Committee on the Standing Orders.  I had the honour of being Chairman of that Committee, and I think it might be convenient to the House if I were shortly to explain to them the meaning of these various recommendations. In the first place it was thought desirable to have a conference with the other House in regard to certain services which it was thought could be jointly carried out, and a deputation was appointed from our Standing Committee to confer on this matter with the Speaker of the Dáil and the President.  The Speaker, with the assistance of the Attorney-General, met us in conference. The President, owing to his other engagements, was unable to attend, but he was kept informed of the general conclusions at which we arrived, and they were subsequently agreed to by him.  Now, on these matters we came to certain conclusions which, of course, are subject to your approval.  They were only conclusions. In so far as we can arrive at an agreement it depends on you whether you adopt them or not.  The matters on which we did come to an agreement are as follows: It was thought, in the first place, that the senior members of our staff should be placed in regard to their position, their tenure, their salaries and superannuation in an analogous position to that of the officials of the Dáil.  You will recollect that the senior members of our staff at present only hold office for a year, so, at the expiration of the current year it would be necessary to re-appoint them or others, and these provisions that we propose will only come into effect at the expiration of the year, during which the present officers hold their places.  These recommendations are that they shall be whole-time officers, that they shall be put on a scale of salaries with regular increments, that they shall hold office until they reach a certain specified age&mdash;we recommend 60 or 65&mdash;or whatever is agreed to by the Seanad, subject to being removed from their office by Resolution of the Seanad, but only for misbehaviour, or for incapacity, which shall be specially stated in such Resolution; and lastly, that the superannuation of those officers shall be on the Civil Service scale.  I may mention that regulations of the same kind <Col N="504" /> are being adopted by the Dáil in relation to their staffs.  It was in order to produce a certain amount of harmony and consistency in this matter that they thought it well to make this a subject matter of joint agreement.</P>
+    </Speaker>
+    <P>The next matter that we dealt with was the protection of liberties of members of the Seanad, the safeguarding of the precints and the regulations for the admission of strangers or visitors. We have practically arrived at conclusions with regard to that, which we recommend and which are identical, subject to the necessary changes as between the two Houses, with those in force for the Dáil.  There should be a Captain of the Guard who is to have a principal Lieutenant, and the Captain of the Guard, or his principal Lieutenant, is to be present in the Seanad during its sittings and while he is here he is to be subject to the control of the Chairman of the Seanad.  He is not to admit any but authorised visitors and he shall preserve order and decorum amongst the visitors while they are present. He is to take into custody persons irregularly admitted or guilty of disorderly conduct and shall remove persons whose removal has been directed. He shall be responsible to the Chairman for the internal safety of the buildings of the Seanad, and is to supervise the lighting and other arrangements and to take all steps necessary for this purpose. These are on a line with similar provisions that have been made with reference to the duties of the Captain of the Guard and his Lieutenant in the other House.  Then we had to consider the question of the translation of our proceedings into Irish, the necessity of having our proceedings printed and supplied, stationery, furniture, and matters of that kind, the despatch of documents to members of the Seanad and the Dáil, and the typing and reporting of the debates. Well, inasmuch as there already exists in the Dáil a staff with appropriate offices for all these purposes we thought it would be a proper economy if, by arrangement with the Dáil, we could have the services of these officials, so that it would not be necessary for us to duplicate Departments for doing the work that at present is being done in these services for the other House.  Accordingly we have arranged, subject to your <Col N="505" /> approval, that these various matters should be done for us by the existing staff in the existing offices of the Dáil, with a proviso that while that staff is engaged in doing work for us, they should be under the control of the Clerk of the Seanad; that is to say, that they should be subject to and liable to obey the orders and directions that he would convey to them, he, of course, acting under the directions of the Seanad and the Chairman.</P>
+    <Speaker pid="HonJameson" hpid="Mr. A. JAMESON Mr. A. JAMESON">
+      <NameTxt>Mr. A. JAMESON</NameTxt>
+      <P>What you are just now saying is not exactly my recollection. I am speaking entirely from memory, because I have not got a copy of what I signed as our report, but you will notice that the last words of Clause 3 do not bear out what you are saying. No control is given there to the Clerk of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>This common staff will be under the control of the two Houses.</P>
+    </Speaker>
+    <Speaker pid="HonJameson" hpid="Mr. A. JAMESON Mr. A. JAMESON">
+      <NameTxt>Mr. A. JAMESON</NameTxt>
+      <P>I do not remember that part.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I will tell you exactly what occurred in regard to that. I am glad you called attention to it.  The result of the Conference, as we understood it, that is to say, as our Sub-Committee understood it, is as I have already stated to the House, but when that report was sent to be printed, with a view to its circulation amongst the members of the Seanad, the Chairman of the other House called attention to the fact that we had omitted something which he said he had regarded as a matter of agreement namely, that if any question arises as between the two Clerks&mdash;that is the Clerk of the Seanad, and the Clerk of the Dáil&mdash;the Clerk of the Dáil was to have the senior vote, that is to say, he was to have a right of precedent.  It is a small matter.  I do not think it will lead to any friction, because what I clearly made plain, I think, to the Chairman of the Dáil, and what I inform the Seanad now, as the clear understanding and intention of our Committee is this&mdash;that as regards all matters that this common staff has to do or discharge for this House they are to take their orders from the Clerk of this House and from <Col N="506" /> him alone.  That is our understanding of the arrangement we arrived at.  It might be that on some point of form or otherwise, some question affecting the dignity of either Clerk might arise, and, with regard to that, we did say&mdash;not really as a matter to be put into black and white&mdash; what we thought would be a workable arrangement, that probably the Clerk of the Dáil might be regarded as the senior of the two, but we never did agree that he was to override the orders of the Clerk of the Seanad, or that the Clerk of the Seanad was under any obligation to take directions from him, but that in regard to the work done for the Seanad by the common staff of the Oireachtas, that common staff, in doing that work, were to be under the control of, and take their orders from, the Clerk of the Seanad. Then we had to consider what was to be done with regard to inter-communication between the two Houses.</P>
+      <P>You naturally understand from the Constitution, and from our own Standing Orders that inter-communication on various matters, and on various occasions, will be necessary between the two Houses, and that our Standing Orders should provide for that, but we came to the conclusion that that was a matter arising for joint arrangement or agreement, and we propose to you that that would be best settled by a joint Conferference between Standing Committees of the two Houses and, if you approve of that suggestion, we of course, will take steps to have this joint Conference in bringing about a general agreement.</P>
+    </Speaker>
+    <P>The next matter the report deals with is that a considerable amount of time is lost, and uncertainty created, when you put to the vote a question and say those in favour to say &ldquo;Tá,&rdquo; and those against &ldquo;Níl.&rdquo;  The more articulate members, although in a minority, may present the appearance of a substantial majority, and we think it would save time, and do away with the necessity of calling the roll, if the alternative power was left to the Chairman to decide the matter preliminarily&mdash;instead of calling for those to answer in favour &ldquo;Tá,&rdquo; and against &ldquo;Níl,&rdquo; rather to ask for a show of hands because, of course, there can be no mistake about the hands, which I was going to say speak for themselves.  It would be much simpler, and in either case members <Col N="507" /> will have the right to call for a division, but it will facilitate and expedite business if the alternative power is granted to the Chairman as requested here.</P>
+    <P>One other matter we had to deal with was a very difficult one and that is the matter of question to Ministers.  We came to the conclusion that, at least for the present and under existing conditions, we could not possibly require Ministers to attend here for the purpose of answering questions that might be submitted to them on any matter in connection with Executive or Administrative policy.  We have no power to compel them to be here, and, consequently, we came to the conclusion that as long as we have no power to compel them, and as long as they are engrossed, as they are at present, with very grave and responsible duties, it would be an extra, and perhaps impossible, burden to cast upon them to suggest that they should attend here for the purpose of answering questions.  The alternative proposal was made that Ministers might transmit their answer in writing and thereby avoid the necessity of coming here in person.  We did not think that satisfactory because it gives no opportunity for supplementary questions and supplementary questions are really very often the only valuable part of such proceedings, because unless you can follow up an answer from a Minister by a supplementary question not much good can be derived from it.</P>
+    <P>Then it was suggested that one Minister should be requested to attend and answer for all the others.  That also was practically worthless, because if such a Minister had a question put to him of a supplementary character about another department than his own, he would manifestly be unable to answer it, and certainly would be unwilling to answer it, and the conclusion we arrived at is that unless times change, and there is some agreed practice between the two Houses hereafter, it would be better make no suggestion as to any Standing Order dealing with questions at all.</P>
+    <P>Now, one other matter.  Under our existing Standing Orders it is provided that a panel of not less than two Senators shall be appointed, each session, who, at the request of the Chairman or the Deputy, should take the Chair during his <Col N="508" /> absence.  We have recommended that, during the present session, this panel should consist of Senator Sir Thomas Esmonde and Senator J.T. O'Farrell, and we recommend that the Senators to be selected for this purpose should be varied each Session.  We do that because by circulating the duties between Senators they will acquire experience in the Chair that will be useful afterwards when they are serving on Committees.</P>
+    <P>Your Standing Orders expire on the 25th of this month, and, therefore, in order to avoid the expenditure of duplicate printing we recommend that if you approve of our proposal in paragraph 2, and these two new Standing Orders about the Captain of the Guard, and the Standing Order giving power to call for a show of hands, they should not be printed now, but appear with the new Standing Orders that must be adopted on or before the 25th of this month.</P>
+    <P>Paragraph 4 deals with a very important matter.  The Seanad will understand that when we speak of Private Bills, Private Bills are of two kinds.  There is a Private Bill in the sense of a Bill introduced by a private member, although dealing with public matters; that is one head under which these Bills are called Private Bills; but there is a more important head, and that is Private Bills brought in by promoters of public undertakings which require the sanction of law, because they interfere with private rights, such as the taking of land, interference with private rights, compulsory acquisition of land, and so forth&mdash;these are Private Bills in the proper sense of the term, and it is almost certain that a considerable number of these will be coming before Parliament in the near future.  Railway companies and other public boards and bodies which require extension of their power, and want to branch out in new directions will all have to come and obtain those powers by Private Bills.  And that is likely to be a very important portion of our work in the near future.  In the British Parliament where there are a great many of these Private Bills, arrangements are made at the beginning of each Session by allocating a certain number to be initiated in the one House, and the remainder to be initiated in the other House.  For the purposes of these Private Bills it is necessary that they should <Col N="509" /> comply with certain conditions, that they should be in certain form and contain certain affirmations, and disclose certain facts upon the face of the Bills, and to make sure that they comply with these requirements it is always found necessary to have what is called Examiners of Private Bills.  Remember, now, I am not talking of private members' public Bills, but of those Private Bills introduced by promoters for their own purposes.  It is always essential to have examiners for these Bills to see that they comply with the Standing Orders of Parliament.  Your Committee was satisfied that these Standing Orders must be the same for both Houses, and, consequently the same official should act as examiner for both Houses, and that it would be an extravagance if there were to be separate officials in each House discharging practically the same work.  And accordingly, at this joint Conference with the Speaker and the President, we agreed, subject to your approval, that the same official should act as examiner for Private Bills for both Houses, and that the Standing Orders in relation to Private Bills should be drawn up by the Joint Committee, and should be the same in each House.  It was also thought desirable, and we so far agreed, that this gentleman, whoever he is, who may be appointed Examiner of Private Bills, should, for the time being, give advice to the Speaker and the Deputy in the other House, and to the Chairman and the Deputy here, but, at the same time, we had present to our minds and saw plainly and so reported that we did not think that that arrangement could ever relieve us from the necessity in the near future of appointing an independent counsel who shall act as advisor, not merely to the Chairman and Deputy-Chairman, but to the Chairman of Committees in this House, and to members of the Seanad itself.</P>
+    <P>I think that will be inevitable because, as you know, when you proceed to deal with Private Bills and sit in Committee upon them, the Chairman of the Committee will require to have at his elbow, or available, a competent legal expert who will assist him on legal points that Counsel, appearing in support of the Bills, will raise.  At present that work is discharged in the House of Commons and the House of Lords, not merely with <Col N="510" /> the assistance of Counsel, but they have also a body of trained expert clerks, one of whom attends each Committee.  We do not propose, at the present at any rate, to advise you to go to the expense of employing expert clerks, but we do believe that you will require, very soon, to have a legal adviser for a purpose of this kind.  I mention that, in order that you may not think that we have overlooked it.  In agreeing that the same official should act as an examiner of Private Bills for the Seanad and Dáil we have not lost sight of the fact that it will probably be necessary for us to have a legal adviser of our own.  I think I have travelled over the whole ground, and to put the matter in form, perhaps some member will now move the adoption of the report.  When it is seconded it will be open for discussion by the members of the Seanad.</P>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>I beg to move the adoption of the report.</P>
+    </Speaker>
+    <Speaker pid="JamesGoodbody" hpid="Mr. GOODBODY Mr. GOODBODY">
+      <NameTxt>Mr. GOODBODY</NameTxt>
+      <P>I beg to second the motion.</P>
+    </Speaker>
+    <Speaker pid="ThomasMacPartlin" hpid="Mr. MacPARTLIN Mr. MacPARTLIN">
+      <NameTxt>Mr. MacPARTLIN</NameTxt>
+      <P>In connection with this report, I think the Seanad, at some of its early meetings, elected a Committee to deal with the conditions governing its own officials.  As regards what appears in paragraph 1 of this Report, it is business, I think, that ought to have been dealt with by the Committee I refer to, and I want to know if that Committee is still in existence.  If it is, I think it ought to have been consulted in connection with the making of new conditions to govern the officials. The reason I am interested in the question is this&mdash;that if my memory serves me right&mdash;it was also agreed by the Seanad that that Committee should deal with any other appointment to be made by the Seanad.  If the Committee is still in existence, and that portion of its powers are such as I refer to, I think it ought to have been consulted before any new conditions were imposed.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I think there is a little confusion about that particular point.  I know it is a difficulty that has arisen in the minds of several Senators. There is, no doubt, that some confusion has arisen, and I wish to explain the matter.  There is a Committee, still undischarged, <Col N="511" /> which has performed some of the functions referred to it by this Seanad. That is the Committee to which the Senator is referring, and it has not yet completed its labours in respect of two matters.  The first is in respect of assigning duties to the respective officers of this Seanad, and secondly, in regard to the minor officials.  But, this Committee that you are now dealing with, has not undertaken any duty with regard to the minor officials, save in so far as it found, on experience, that minor officials&mdash;that is to say, a separate and independent staff&mdash;would not be required in regard to particular matters which we recommended should be carried out as a kind of a joint operation by the existing staff of the Dáil.  That is to say, we thought it would be absurd to suggest that we should have a separate reporting staff, a separate translation staff, a separate printing staff, a separate service staff for supplying furniture and things of that kind, and a separate typing staff.  We came to the conclusion that it would be more desirable to avail ourselves of the existing officers in the Dáil, and get that work done for us there.  To that extent, perhaps, we have been overlapping&mdash;if you wish so to describe it&mdash;portion of the work that the other Committee might have done, but we certainly were not going outside the Terms of Reference to ourselves, because the Reference to ourselves was to prepare Standing Orders in respect of every matter that we thought should be dealt with by the Seanad.  I might mention that I had intended, later on, to recommend to the Seanad, that the Committee, to which the Senator refers, should be discharged, and that the remainder of its work be carried out by the Committee on Standing Orders. My reason for that is this&mdash;to save time, and to save money.  If you leave the work in the hands of the other Committee, then when they have made their recommendations this present Committee will have to frame suitable Standing Orders to carry them out, and you will be having the same work overlapping, and being done at considerable expense and delay by two different bodies.  All that remains to be done now by the Committee to which the Senator refers, and I want the Seanad to understand this, is to define the duties of our staff, <Col N="512" /> and to say what minor appointments are required.  When they have that done, if they continue to exist, and are allowed to make a report on that, it will be necessary for your Standing Order Committee to proceed to put their recommendations into the shape of Standing Orders, and, therefore, you will be doing a double work.  What I had intended to suggest to the Seanad was, if they so approved, that they would discharge that first Committee, and leave the balance of their work that was unfinished to be carried out by the Standing Orders Committee, and, therefore, avoid double trouble, and, I hope, double expense.</P>
+    </Speaker>
+    <Speaker pid="ThomasMacPartlin" hpid="Mr. MacPARTLIN Mr. MacPARTLIN">
+      <NameTxt>Mr. MacPARTLIN</NameTxt>
+      <P>Is this a Standing Order that I am referring to?  My reading of it is that it is not one.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>No, it is not.  It is merely our recommendation.</P>
+    </Speaker>
+    <Speaker pid="ThomasMacPartlin" hpid="Mr. MacPARTLIN Mr. MacPARTLIN">
+      <NameTxt>Mr. MacPARTLIN</NameTxt>
+      <P>I thought from what you stated at first that it was a Standing Order.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>No; what said was that if you do not discharge the other Committee, but leave it to carry out the balance of the work that still remains for it to do, when it is finished and its recommendations are complete, then the Standing Order Committee will have to frame Standing Orders to give effect to these recommendations.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>I think there is another answer to Senator MacPartlin, and it is this, that this Committee which is reporting now&mdash;that is, the Standing Orders Committee&mdash;was instructed, after the adoption of its own last report, to consult with members of the other House on questions affecting the relations between the two Houses, and in doing so it is now making these recommendations.  These recommendations are quite apart from the question as to whether the other Committee is to be kept up or not, or as regards the making of minor appointments. If these recommendations are accepted, it will not be necessary to have further recommendations for appointments to our own staff.  I thought it was understood that we were acting on the instructions of the Seanad, because we were empowered to make recommendations as to the relations affecting the two Houses.</P>
+    </Speaker>
+    <Col N="513" />
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>I remember, when this Committee that we have been discussing just now first reported, that it took over to itself certain duties which, perhaps, did not belong to it, and I remember that the Chairman commented severely upon its having done so.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Not severely, I hope.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>Severely, and not only that, but you straightway cancelled the whole affair and reassembled the Committee, with certain recommendations to be carried out in a different way. Now it seems to me, with all due respect to you, that you have done exactly the same thing with another Committee.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Kindly point in what respect.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>Yes, I will do so. The original Committee was deputed to appoint messengers and the minor staff, and also to discuss this question of a Barrister who was to help us.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>No; not to appoint the minor staff at all, because the Seanad refused to give them that power.  It was debated here, and finally not agreed upon.  All that the Committee who made the recommendations did was to say that the appointments should be in the hands and under the control of and subject to the approval of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>Very well, that Committee should make recommendations, but that Committee never assembled since, and never was asked to make recommendations, but, instead of that, a smaller and much less representative Committee side-tracked them by making recommendations by which these people would be appointed by somebody else.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Again there is confusion.  We have not made any arrangements with reference to the appointment of messengers.  All we have done is, having been requested by this Seanad to report, we have reported on several matters that could properly be made the subject of a joint arrangement &mdash;printing, typing, reporting, etc.&mdash;and we have done that in compliance with the reference given by this Seanad.</P>
+    </Speaker>
+    <Col N="514" />
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>I remember that you took a very strong attitude at the time that the Seanad should appoint its own officers.  However, I do not think the matter is worth considering any longer, and perhaps the solution is the inevitable solution that would have been come to in any case.  I think the discussion, whether it was done in the right way or in the wrong way, is perhaps superfluous.  But as the discussion was raised here, I think it proper that it should be cleared up.</P>
+    </Speaker>
+    <Speaker pid="WilliamBarrington" hpid="Mr. BARRINGTON Mr. BARRINGTON">
+      <NameTxt>Mr. BARRINGTON</NameTxt>
+      <P>As Clause 4 deals with a matter in which I have been considerably concerned and in which I take a great interest, might I ask for a little information?  I take it that these recommendations, if they are approved by the Seanad, will become the Standing Orders.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>They will. They will have to be put into the shape of Standing Orders in the case of some of them.  We only framed suggested Standing Orders in two cases&mdash;the case of the Captain of the Guard, and the necessary changes in order to give the Chairman the right to call for a show of hands.  If these are approved of, they may require Standing Orders.</P>
+    </Speaker>
+    <Speaker pid="WilliamBarrington" hpid="Mr. BARRINGTON Mr. BARRINGTON">
+      <NameTxt>Mr. BARRINGTON</NameTxt>
+      <P>Under these circumstances I assume that the Standing Orders will be prepared in strict accordance with this document before us.  The other day we were supplied with the Green Paper and this Green Paper is to a large extent the same as the Paper which we have got here; I do not know what colour you call it&mdash;I suppose buff.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS HENRY GRATTAN ESMONDE Sir THOMAS HENRY GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS HENRY GRATTAN ESMONDE</NameTxt>
+      <P>Orange.</P>
+    </Speaker>
+    <Speaker pid="WilliamBarrington" hpid="Mr. BARRINGTON Mr. BARRINGTON">
+      <NameTxt>Mr. BARRINGTON</NameTxt>
+      <P>Between these two Papers there is one important difference&mdash;the Green Paper says in reference to Clause 4 that &ldquo;as far as possible the same Standing Orders shall be adopted by both Houses,&rdquo; and the buff paper says that &ldquo;the same Standing Orders shall be adopted by both Houses.&rdquo;  Your Lordship was right in laying great stress upon the matter that they should be the same.  Because in dealing with these private Bills a vast amount of expense and trouble has got to be gone through to comply with the Standing Orders.  These Bills and plans <Col N="515" /> have to be submitted to an examiner, and the examiner is, as a rule, extremely strict, and if one set of plans and prints were supplied for one House and one for the other House it would lead to a lot of confusion.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>The real meaning in the difference in the phraseology of the report presented to the Dáil, and our report on this particular point arises in this way&mdash;there are certain technical words that will only be appropriate to the Dáil, and other technical words that will only be appropriate to the Seanad, but in every matter of substance the Standing Orders will be identical.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>Standing Order 2 makes provision as to who is authorised to admit visitors.  Does that change the present arrangement for authorising visitors?  The present arrangements say that the Cathaoirleach has absolute discretion. Does that mean that the arrangements come to in these Standing Orders is the same as in the original?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>The authorisation comes from the Chairman?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Certainly.</P>
+    </Speaker>
+    <Speaker pid="JamesMacKean" hpid="Mr. McKEAN Mr. McKEAN">
+      <NameTxt>Mr. McKEAN</NameTxt>
+      <P>Take the recommendations of this report in their natural order, and the first thing that we have got to consider is the question of our senior clerks; their salaries and their tenure of office have been fixed, and what we have got now to consider is Sub-clause 2 of Clause 1, which reads:&mdash;&ldquo;Shall be put on scales of salaries with regular increments.&rdquo; Now I think it will be time enough to discuss the question of increments when the probationary period of one year is nearly expired.  That would be a more business-like proposition.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I think there is a misapprehension.  We do not ask you to legislate on that now, because when we do come twelve months hence to the appointment of these officers, we will do so under regular agreements. When that agreement is being drawn up, there should be uniformity preserved between them and the agreements for <Col N="516" /> similar officials in the Dáil.  The necessity for putting this in force or acting upon it will not arise until the end of this year.  That is the reason why we deliberately left out any suggestion as to what increments or salaries should be, and that is also the reason why we left it to the Seanad hereafter to say whether they would fix 60 or 65 as the period for retirement.</P>
+    </Speaker>
+    <Speaker pid="MichaelODea" hpid="Mr. O'DEA Mr. O'DEA">
+      <NameTxt>Mr. O'DEA</NameTxt>
+      <P>I understand that the original Committee appointed to make recommendations for these clerkships definitely fixed in their recommendations the question of remuneration for these officials, so that the case of increments to my mind would not arise.  I believe one gentleman is a civil servant, or was a civil servant, and the other two were not.  Now, I do not know the reason why the recommendations of that original committee had been departed from, but it appears to me that they had been overridden.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>In what respect?</P>
+    </Speaker>
+    <Speaker pid="MichaelODea" hpid="Mr. O'DEA Mr. O'DEA">
+      <NameTxt>Mr. O'DEA</NameTxt>
+      <P>In making recommendations for the bonus in their capacity as civil servants.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>We have not really done that.  The present officials &mdash;and please do always recollect it&mdash;were deliberately appointed temporarily only, and they hold office only until the end of the year.  We made certain arrangements as to what their salary for that year was to be.  When you come to appoint permanent officials, whether new officials or the same men, you will have to make arrangements for them as to the salaries they will start on, and, as to the increases they will get, if any, and as to the amount of those increases.  We have left all that open to the Seanad to do twelve months hence.  We have not anticipated the action of the Seanad in any way.</P>
+    </Speaker>
+    <Speaker pid="MichaelODea" hpid="Mr. O'DEA Mr. O'DEA">
+      <NameTxt>Mr. O'DEA</NameTxt>
+      <P>It looks mighty like as if you were making them permanent now.  I know these appointments have been very severely criticised in the Dáil, and very likely it will be so again.  It seems to me that this recommendation was unnecessary owing to the action of the original committee, and it would appear <Col N="517" /> as if you departed more or less from the recommendations of the first Committee.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I thought I had made that plain.  I will try to make it plain again.</P>
+    </Speaker>
+    <Speaker pid="MichaelODea" hpid="Mr. O'DEA Mr. O'DEA">
+      <NameTxt>Mr. O'DEA</NameTxt>
+      <P>I am quite satisfied.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>All we wanted to do&mdash;whether we have done more than we wanted to do, I do not know&mdash;was to put the officers when they come to be appointed or re-appointed in the future on a similar basis to that of the officials of the Dáil holding similar offices and performing similar duties. We do not want to have competition in salaries or duties or increments or pensions. All we wanted was to put the staffs of both Houses upon a parity in that regard to avoid possible friction.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>I was of opinion that the appointments were made on fixed salaries.  Certain salaries were set out, and the arrangement to my mind was that the gentlemen were appointed for a probationary period, and, at the end of that period that they would take up office on the fixed salaries.  In most public appointments, probationary appointments assume that character.  A man may be appointed to a job of £500 or £600 a year for a probationary period of, say, six months, and at the end of that time he assumes office at the salary stated.  I thought that was the arrangement made with our officials, but that is obviously done away with, because there are to be scales of salaries.  It is possible that the old salary may be fixed upon, but there is likely to be a new scale made which I do not think was the intention of the original Committee.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I have no doubt whatever myself&mdash;and I think the record will bear me out, and so I am sure will my colleagues&mdash;that when we recommended the appointment of these officials, we distinctly recommended them not for the probationary period in the sense that Mr. Bennett speaks of, but for a year only, for the deliberate purpose of giving the Seanad power, after an experience of these officials, to change them if they thought fit.  In consequence of that we deliberately arranged&mdash;as the Seanad did in the case of the Cathaoirleach <Col N="518" /> and Deputy Cathaoirleach&mdash;that their tenure should be for one year only.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>The Seanad should, I think, try and forget, as far as possible, the personnel of the clerks in considering this matter.  We are considering an arrangement of more or less permanent character, although we are really making appointments for a probationary period of only one year.  I cannot see a better way, not of preventing criticism&mdash; I do not care whether the Dáil criticises us or not, because it is easy to criticise at a distance&mdash;but of securing smooth working, than by close co-operation between the Dáil and the Seanad, and it is easy to see that in many matters there will have to be close co-operation.  It is only common sense that at a Joint Conference there should be agreement reached as to the terms of appointment, and terms of office of the officials of both bodies.  Further, if the Seanad takes the view, as I hope it will, that most of the work should be done by a joint staff it is almost a necessity that the clerks who are not members of the joint staff, but separate officials should have some similarity in their tenure of office.  As regards one point raised by Senator Jameson, I think it is only right to say that at the Joint Conference, when this matter was discussed, it was generally agreed that the Oireachtas staff should be under the control of the two clerks, which means that our clerk would be responsible for the conduct of the staff as far as matters affecting the Seanad were concerned.  At the same time we did agree that between meetings of the two bodies, when questions of seniority might arise, that the Clerk of the Dáil should be the senior.  That is clearly the recommendation we made at that conference, and it is, of course, open to rejection, but it is only fair to state that those were our views.  Personally, I have no doubt that the Clerks of the Dáil and the Seanad will work harmoniously together.  I think we are making a great mistake if we assume that there will, of necessity, be friction.  There never was any business concern that there was not friction in somewhere, but I think that we ought to go on the assumption that there will be no friction in this case, and that in the public interest and in the interests of good Government <Col N="519" /> and economy we will play our part in trying to maintain harmonious working between the two Houses.  On matters such as the reporting of the proceedings, the sending out of notices, stationary, printing, typing and such matters, it is far better that there should be a joint staff for the Dáil and Seanad. Up to the present much of this work has been done for us by the Dáil staff.  This report has already been adopted in principle by the Dáil, and if we agree, there will in future be a common staff, and that staff will be in control of our own official, as far as our own affairs are concerned.  I should like to draw attention to the recommendation that a message should be sent to the Dáil asking for a Joint Conference between the two Standing Order Committees.  Since our Committee met and made this recommendation the Dáil itself has drawn up and adopted a certain number of Standing Orders affecting the relations between the two bodies, so far as their side is concerned.  Although that is the case, there will be, as pointed out by the Cathaoirleach a question of Standing Orders for Private Bills, which Orders must, in the public interest be identical. I think the present method of haphazard conversation between members of the two bodies and between the Chairman of one body and the Chairman of another, is not a proper method by which the relations between the two Houses should be settled.  I trust, therefore, that this message will be sent, and that the Dáil will accede to the request we make, and that the two Committees will meet.  Not only is it the common-sense and natural way but it is the only satisfactory way for bringing about a closer and better understanding between the two Houses&mdash; that representatives of the two Houses should consult, and where possible arrange their own agreements.  I hope that this message will be agreed to.  There would be the additional advantage, that when reports from the Dáil reached us, we would know that responsible men in the other assembly had approved of them.</P>
+    </Speaker>
+    <Speaker pid="JohnOFarrell" hpid="Mr. O'FARRELL Mr. O'FARRELL">
+      <NameTxt>Mr. O'FARRELL</NameTxt>
+      <P>In regard to recommendation No. 6, where it is provided to give An Cathaoirleach the right to call for a show of hands, I want it to <Col N="520" /> be distinctly understood that my interpretation of this recommendation is that if any member of the Seanad still desires a division in the ordinary way, he should have the right to call for it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>That is absolutely certain.  You mean, that, supposing I take a show of hands and declare that the &ldquo;ayes&rdquo; have it, would that interfere with the right of any Senator to call for a division, and to have the roll called for the purpose?  Certainly this does preserve that right.</P>
+    </Speaker>
+    <Speaker pid="JohnOFarrell" hpid="Mr. O'FARRELL Mr. O'FARRELL">
+      <NameTxt>Mr. O'FARRELL</NameTxt>
+      <P>That is all right Of course, there will be certain divisions on which we must all take individual responsibility, and I want that right to be recognised.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I might say with regard to that, that the Seanad might consider &mdash; I do not know whether they would or not&mdash;that that right of calling for a division, by calling the roll, so that each man records his vote, should be subject to some restriction, that, at least a certain quota or number &mdash; say, six or eight or ten Senators &mdash; should require it.  In other words, that it should not be in the power of one or two Senators, who are alone representing one side, to insist on having the roll gone through for that purpose.  That is, of course, a matter for the Seanad, but, as it stands at present, the existing right is in no way interfered with.</P>
+    </Speaker>
+    <Speaker pid="JohnOFarrell" hpid="Mr. O'FARRELL Mr. O'FARRELL">
+      <NameTxt>Mr. O'FARRELL</NameTxt>
+      <P>Of course, it is a matter for consideration whether there should be a limit upon the number who could force a division, but I think it will be recognised that there are some very important questions on which there may be only a very small minority, and still it would be desirable that those who vote on either side should have their names recorded, as the questions may involve very big questions of policy affecting the country.  Regarding the general recommendations, it is somewhat amusing to notice the amount of interest there is always aroused whenever the question of appointments is mentioned.  That has been referred to already by one of the Senators in regard to attendance at local bodies, Corporations County Councils, etc., and, I am inclined to think that we are only a glorified County Council in <Col N="521" /> that respect, even here.  I think there has been a good deal of misapprehension altogether in regard to paragraph I which simply makes a recommendation governing general principles &mdash; laying down the general principle governing the appointment of the staff.  It does not at all suggest that we should, here and now, go into the question of the salaries of any of the present officials or future officials of this body.  I would appeal to Senator O'Dea not to worry himself unduly over criticism in the Dáil.  I think the criticism that has been delivered there has been on the part of a few jesters who generally make up in humour by a few words what they lack in other respects.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>Generally, I find myself in agreement with the Report except a paragraph very near the end.  I take it we are discussing this more or less in a Second Reading fashion, and that later on you will take the clauses one by one.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Unless the Seanad requires it, as that would be very inconvenient and very long, I propose to take the opinion of the Seanad on the whole Report, unless there is some amendment to alter any part of it.  I do not want to curtail observations.  After the observations are over, that is the motion I will put to the Seanad.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>You will have one division on it &mdash; or whatever it is &mdash; and that will settle it.  There are one or two points I would like to dwell upon.  I will take the various clauses <i>seriatim.</i>  As to Clause 1, no Senator need take offence or be in any way frightened.  Obviously, when we decide to appoint our officers permanently, it is only fair to them that they should know what their salaries are, and that they should have certain increments; and it is only fair to the Seanad that when the officials reach the age, say, of six score and ten, the Seanad should be in a position to thank them for their services and appoint someone else.  There is nothing whatever wrong in No. 1, so far as I can see.  No. 2 is obviously a proper proposal and I have only one suggestion to make in respect to it.  I hope I shall not be misunderstood.  I think it would be most useful, if not for <Col N="522" /> the Seanad, at least for the public, if our Captain of the Guard, or our defender in this place, were in uniform.  We should then know who he was.  From the hours that we sit, and judging from the habits of the Senators, we are not likely to make mistakes.  But it is conceivable that a stranger might not know who the Captain of the Guard was.  I would very much like to see some kind of insignia or badge, or perhaps, if the Lieutenant of the Guard is a military officer, his own uniform upon him.  I think that would be a most useful thing.  With regard to No. 3, up to the very end of it it is obviously the right thing to do.  Why should there be additional and unnecessary expense in connection with the printing of our proceedings and the printing of the proceedings of the Dáil? The same staff can quite easily do the work, and why should we have two?  As far as we are concerned, I understand from your proposition that the reporting of our debates and so forth, and the printing of our proceedings will be subject to your control and supervision nominally. That being so, I think we are quite safe in leaving the matter as it is.</P>
+    </Speaker>
+    <P>There is just that one paragraph which Senator Jameson took exception to at the end of Clause 3.  I hold strongly that these two Houses should stand upon an equal footing.  I think that was the burden of our song some time ago, when this question was reached before, and I do not think you can fairly ask the Seanad to vote for the last three words. I do not like to vote, and I certainly shall not vote for an admission of that kind. What I would suggest is this: We hope and we desire to be on the most friendly relations with the other House.  We know the practice of diplomacy.  Where you have diplomats of various countries accredited to certain capitals, it is not the representative of the greatest, or the largest, or the richest Power who takes precedence.  It is the oldest member of the Diplomatic Corps.  Why could not we meet this in the same way? Let us suppose that at one time the Clerk of the Dáil were the older man or that his appointment were the longer made. Let us suppose again that the Clerk of the Seanad were the older man or that his appointment were the longer made. Could not some way out be found in that <Col N="523" /> respect?  I do not understand from your explanation that there was an executive question raised in this matter.  The phrase you used, I think, was &ldquo;senior vote.&rdquo;</P>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>What I had in mind, and what I know my colleagues had in mind, was this.  Supposing the Clerk here, for example, were to send some requisition to the printing office for some printing matter that had to be done with great expedition.  The printing official might reply to say that he had got on hand work for the other House which would keep him going until the next day, and might say, &ldquo;If I obey you and do this printing for the Seanad, I shall not be able to execute the printing I have already been ordered to do by the Clerk of the other House.&rdquo;  Some possible question of that kind may arise, although I do not think it is likely; but certainly, in the event of such a question arising, the unfortunate staff of the printing office will be left in a position of great difficulty and doubt, and therefore I think it is safer that we should provide that in a case of that kind the order of the Dáil should take precedence.  That is all that means or is intended to mean. I was going to suggest that in order to make the matter a little clearer that portion of the Report might be read in this way: &ldquo;A common staff to be under the control of the Clerks of the two Houses respectively when discharging duties for either House.&rdquo;  That is to say, when performing duties for the Seanad they are under the control of our Clerk, and when performing duties for the Dáil they are under the control of the Clerk of the Dáil.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>I am very much obliged for your explanation.  I have no partiality for any particular form of words, but what I want to do is to get rid of the idea that the Seanad is an inferior Chamber.  Your form of words would do me up to a certain point.  Of course, we are really having a Second Reading, a Third Reading, and the Committee Stage debate all in one.  How would this do? Supposing you leave out the words beginning with the words &ldquo;the Clerk,&rdquo; on the last line but one in that clause, and <Col N="524" /> insert words so that the sentence would read, &ldquo;the work of the Dáil to take precedence.&rdquo; I would leave out the word &ldquo;senior.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I think that would be much more far-reaching than the present form.  It would give him a right to insist on precedence at any time, even when the requirements of the Dáil might not need it.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>He would not do it in that case.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>If you can trust him to that extent.  This is a much milder form.  We as a Committee are bound to adhere to the retention of these words &ldquo;The Clerk of the Dáil being the senior,&rdquo; because we agreed to that.  If that is in practice found to be the subject matter of abuse, so as to put our Clerk or our staff or the Seanad in an undignified position, as it is only a Standing Order it will be always open to the Seanad to alter and amend it. I do not think we need anticipate that it is going to be abused.  I think myself it will be only required where in a time of stress or emergency of public business, that the Dáil may require the printing staff to devote their whole time to them for a day or a half a day.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>Well, if it was this way, &ldquo;the work of the Dáil to take precedence when necessary.&rdquo;  I think that would obviate the possibility of future misunderstanding. This, as I understand your explanation, was what was in the minds of the Committee.  I would respectfully suggest that Clause 3 should be amended by leaving out the words &ldquo;the Clerk of the Dáil being the senior&rdquo; and insert &ldquo;Dáil work to take precedence when necessary.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>May I just point out that you are going much further than we have gone because your form is a positive rule and not a matter for exceptional treatment.  It decides as a rule that the work of the Dáil is always to have precedence.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>Where necessary.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Then you <Col N="525" /> are putting this Seanad in a much inferior position that the recommendation of the Committee, which only deals with an emergency or when an exceptional case might arise.  You propose to make it a permanent rule that the work of the Dáil is always to have precedence over our work.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>Where necessary.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Who is to decide?</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>Common sense would decide it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Then you will have to embody common sense.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS H. GRATTAN ESMONDE Sir THOMAS H. GRATTAN ESMONDE">
+      <NameTxt>Sir THOMAS H. GRATTAN ESMONDE</NameTxt>
+      <P>I prefer to infer common sense than to put it on record that this Seanad is voting itself an inferior House.  I shall vote against it in any case even if I cannot get anyone to support me.  As to Clause 4 we must have an Examiner for Private Bills.  That is the usual practice when dealing with the drafting and arranging of all Private Bills that are submitted to Parliament. That appointment is necessary and there is no reason why it should not be the same official for both Houses.  That would also be an economy and I think a desirable economy.  It does not raise the very important question which is raised in No. 7, so that I need not dwell further on that except to say that when these Private Bills pass the Examiner and come to be considered by the Seanad, it will be necessary for the Seanad to have a Standing Orders Committee to see if these Private Bills dealing with railways, gas works, railway development opening docks, and things of that sort, comply with whatever Standing Orders may be drawn up by the Seanad at its own volition.  It is the usual thing that a House like this should have a Standing Orders Committee for Private Bills just the same as everybody else &mdash; for over thirty years I was a member of a Standing Committee on Private Bills in another place so that we cannot get on without that Committee.  No. 5, dealing with joint conferences, is a most excellent <Col N="526" /> arrangement.  Probably we shall find it advisable to have many joint Conferences, but whether these joint conferences should be stereotyped and made always a matter of reference to one particular Committee is another matter.  I think it is quite conceivable that the Seanad occasionally might like to have these conferences appointed <i>ad rem.</i> There has been a certain amount of difficulty in some divisions, and some Senators explained to me that they did not know what they were voting on.  That is to be expected, so that calling for a show of hands is simpler than reading out a long list of names.  Senator O'Farrell's point could easily be met by saying that after a show of hands, if it was found there was relatively a small number on one side wishing to have their names recorded, it would be quite easy to do what is done in other places &mdash; ask members to rise in their places and let their names be taken down.  It would save time, and might be found a convenience. There is no idea in this arrangement to prevent members asking for a division when they please, but the Seanad would find it rather objectionable if, say, three members could call for a division.  As to No. 7, I am glad that remains open.  It is one of the most important matters we have yet to arrange. It will be quite impossible for the Seanad to carry on its business satisfactorily and efficiently if it has not a Standing Council. When we come to appoint members to that Council, let it consist of the very best men obtainable.  I think the proposals are quite good and practicable, with the exception of the third, which, I regret very much I cannot vote for.  I do not desire to vote against the Orders as a whole.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>It is open to any Senator to move the omission of any part of this Report, and the substitution of other words.</P>
+    </Speaker>
+    <Speaker pid="HonJameson" hpid="Mr. JAMESON Mr. JAMESON">
+      <NameTxt>Mr. JAMESON</NameTxt>
+      <P>My name has been mentioned several times, and I think I have been misinterpreted.  When I rose to ask you about words at the end of Clause 3 I was not disputing those words at all.  All I wanted to know was whether those were the words that we as a Committee agreed to.</P>
+    </Speaker>
+    <Col N="527" />
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I think the form in which we drew up the proposal was to the effect that a common staff, while engaged in the work of the Seanad, would be under the control of the Clerk of the Seanad.  Then we agreed to add that the Clerk of the Dáil was to be regarded as senior.  That was to deal with cases where some conflict might arise, as to which House would have priority in a particular case.  The phraseology of the preceding words was intended to make it plain that when the common staff was doing work for this House it was to be under the control of our Clerk alone.  The report that is before you almost incorporates, word for word, the terms of the original document.  The Conference suggested that the present staff should be available for the staff and should be available for the official work of both the Dáil and the Seanad under the control of the Clerks of the two Houses, the Clerk of the Dáil being the senior.  In the report that had, of course, to be condensed.  The meaning and intent of it is that while the Joint Staff was doing work for the Dáil it should take its orders from the Dáil Clerk, and while doing its work for this House it should take its orders from our Clerk.  If a dispute arose between the two Houses, the Dáil was to be regarded as the senior.</P>
+    </Speaker>
+    <Speaker pid="HonJameson" hpid="Mr. JAMESON Mr. JAMESON">
+      <NameTxt>Mr. JAMESON</NameTxt>
+      <P>There was a document which we signed.  Is that the document from which you are quoting?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>No.  The document which we drew up reached the Speaker of the Dáil.  He called attention to the fact that it did not correspond with the document agreed to at the joint conference, and that we had omitted to insert the words &ldquo;the Clerk of the Dáil being regarded as the senior.&rdquo;  We put those words into our draft report which was then printed and is now before you.</P>
+    </Speaker>
+    <Speaker pid="HonJameson" hpid="Mr. JAMESON Mr. JAMESON">
+      <NameTxt>Mr. JAMESON</NameTxt>
+      <P>There was a certain document sent to the members of the Committee.  We signed that document. My impression is that what is here now is not the same as was contained in the signed document.  This may be a small matter, but if there is to be the smallest alteration of which we are not told, we are open to all sorts of alterations.  I <Col N="528" /> do not believe there is anything wrong here, and I am not specifying this case. I have not the slightest doubt it has been dealt with quite correctly; but if there has been an alteration in the printing of the document that we signed, then I hold that it should not be done.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>At the Joint Conference there was an official who recorded what took place, and who prepared a minute of the proceedings. We drew out our report subsequently giving our account of what took place without going into minute details.  When that document was sent to be printed it passed to the Speaker of the Dáil, who, comparing it with the signed Minutes of the Conference, found our draft did not contain the words I am referring to.  He accordingly required that the words should be inserted, and we thought that inasmuch as they did appear in the Minutes they were entitled to be included.</P>
+    </Speaker>
+    <Speaker pid="HonJameson" hpid="Mr. JAMESON Mr. JAMESON">
+      <NameTxt>Mr. JAMESON</NameTxt>
+      <P>Those who signed the document should have got notice of the change in the wording.  I am not saying that anything wrong has been done. I do hold that when an alteration is made those who signed the document should be acquainted of the change so as to give them an opportunity of saying whether they approve of it or not.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>As a general principle, I entirely agree with that; but here we could not have avoided saying we approved of it, because the words were actually in the minutes of the Joint Conference.  Therefore we could not in honour have refused to insert them.</P>
+    </Speaker>
+    <Speaker pid="HonJameson" hpid="Mr. JAMESON Mr. JAMESON">
+      <NameTxt>Mr. JAMESON</NameTxt>
+      <P>Certainly not; but the other members of the Committee should be informed as well.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>There is no doubt that where signatures were appended those who signed should have been informed of any change in the wording. There can be no question at all about that.  I think it is important that Senators should know it was agreed at this Committee that the Report should be drawn up by the Chairman, who is the Chairman of the Seanad.  Inadvertently some members did not receive a copy.  In a draft of the Report it <Col N="529" /> was pointed out to me that we had not put in some words which were in the minutes of the Joint Conference.  If there is any apology necessary, I am willing to apologise and accept any responsibility. The minutes were drawn up by an official, passed by the Ceann Comhairle of the Dáil, submitted to the President, and then received and passed by our Committee.  It was a completely authenticated record, by which we are bound.</P>
+    </Speaker>
+    <Speaker pid="PatrickKenny" hpid="Mr. KENNY Mr. KENNY">
+      <NameTxt>Mr. KENNY</NameTxt>
+      <P>An occasion may arise where both Houses will require work of a very urgent character carried out within a specified time by the Oireachtas staff. A staff can do no more than it is able to do, and it is then a matter for decision as to which House they shall serve.  If and when such a crux arises, we have left ourselves in this position that the Dáil work will take precedence.  We should have gone further than that and given our Chief Clerk permission, in such an event, to have our work carried out.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>In that case we would have no hesitation in giving him permission to have the work done by someone outside.</P>
+    </Speaker>
+    <Speaker pid="PatrickKenny" hpid="Mr. KENNY Mr. KENNY">
+      <NameTxt>Mr. KENNY</NameTxt>
+      <P>I was about to suggest that, but then we want to preserve the prestige of this Seanad.  In the wording, as has been pointed out by Senator Sir Thomas Esmonde, there might impliedly be a lowering of our prestige and an admission of inferiority.  To avoid that might I suggest that we add to our Orders the following:&mdash;&ldquo;In the event of a pressure of urgent work from both Houses, with which the Oireachtas staff finds itself unable to cope, then the Dáil shall have precedence, as it is more likely to be of greater urgency, and that the Chief Clerk in such event be empowered to get the Seanad work done elsewhere.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I do not think that is necessary.  If the Oireachtas staff said they could not undertake to work for us in time, then we should get it done elsewhere for that particular occasion.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>This is really a question of the two Houses being on the same level, and we should adopt a set of Orders so as to put the two Houses in that position.</P>
+    </Speaker>
+    <Col N="530" />
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>With Senator Sir Thomas Esmonde's suggested amendment the clause would read: &ldquo;This common staff to be under the control of the Clerks of the two Houses, the work of the Dáil to take precedence when necessary.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="ThomasMacPartlin" hpid="Mr. McPARTLIN Mr. McPARTLIN">
+      <NameTxt>Mr. McPARTLIN</NameTxt>
+      <P>I am going to vote against the amendment.  I do not see that it changes the position.  It really emphasises the very point that Senator Sir Thomas Esmonde is trying to remove. This is all a great storm in a teacup. What does it really matter about the Clerk of the Dáil being the senior? If we debate for hours on trifling things like these, it will be necessary for us to show that we are senior to the Dáil in our discussions.  There is no difference between what Senator Sir T. Esmonde has put in front of us and the wording in the Orders.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>The Seanad is overlooking the fact that at any moment, when this is the subject of abuse, the Standing Order can be altered.</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>For the purpose of throwing oil on the troubled waters, I would suggest that the wording in Clause 3 would read:&mdash;&ldquo;This common staff to be under the control of the two Houses, the Clerk of the Dáil being, for the purpose of this Order, regarded as the senior.&rdquo;  I think those words would meet Senator Sir T. Esmonde's views. If I am permitted, I would move that as an amendment.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>The way the matter stands now is that an amendment has been moved to Senator Sir T. Esmonde's amendment.  The Earl of Wicklow proposes that the only alteration to be made in Clause 3 should be this, instead of the words being &ldquo;The Clerk of the Dáil being the Senior&rdquo; to insert these words &ldquo;The Clerk of the Dáil for the purpose of this Order to be regarded as Senior.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="PatrickKenny" hpid="Mr. KENNY Mr. KENNY">
+      <NameTxt>Mr. KENNY</NameTxt>
+      <P>Do we understand that these recommendations have already been submitted to the Dáil and approved?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I do not think this particular recommendation has come before the Dáil at all.</P>
+    </Speaker>
+    <Col N="531" />
+    <Speaker pid="PatrickKenny" hpid="Mr. KENNY Mr. KENNY">
+      <NameTxt>Mr. KENNY</NameTxt>
+      <P>Do we understand that we had plenary powers, and that anything the Conference agreed to was to be approved?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Certainly. We only entered into the Conference on that basis.  We did not purport to bind the Seanad at all, nor could we do so.</P>
+    </Speaker>
+    <Speaker pid="PatrickKenny" hpid="Mr. KENNY Mr. KENNY">
+      <NameTxt>Mr. KENNY</NameTxt>
+      <P>Therefore the agreement we came to was open to discussion and amendment?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Certainly.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS ESMONDE Sir THOMAS ESMONDE">
+      <NameTxt>Sir THOMAS ESMONDE</NameTxt>
+      <P>If the Earl of Wicklow's amendment will satisfy you I am quite satisfied to accept it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>If you accept the amendment of the Earl of Wicklow and that satisfies everybody it satisfies me, because it leaves the thing exactly where it is, and therefore probably it would be the best solution.</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>With all respect, Sir, I do not think it leaves it entirely where it is.  It is surely defining the seniority of our Clerk so far as this particular matter is concerned.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>That was the intention of all parties.</P>
+    </Speaker>
+    <Speaker pid="ThomasEsmondeBart" hpid="Sir THOMAS ESMONDE Sir THOMAS ESMONDE">
+      <NameTxt>Sir THOMAS ESMONDE</NameTxt>
+      <P>May I say this, so long as we do not put it on record that this is an inferior House I do not care what the amendment does.</P>
+    </Speaker>
+    <Speaker pid="ThomasLinehan" hpid="Mr. LINEHAN Mr. LINEHAN">
+      <NameTxt>Mr. LINEHAN</NameTxt>
+      <P>You have two amendments before you.  Which are you putting?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>If the amendment of the Earl of Wicklow is adopted the other is unnecessary.  Senator Sir T. Esmonde has expressed his willingness to withdraw his amendment in favour of the Earl of Wicklow's, so the only amendment before the Seanad is the one proposed by the Earl of Wicklow.</P>
+      <P>Amendment put, and, on a show of hands, declared lost.</P>
+    </Speaker>
+    <Speaker pid="WilliamYeats" hpid="Mr. W.B. YEATS Mr. W.B. YEATS">
+      <NameTxt>Mr. W.B. YEATS</NameTxt>
+      <P>In moving my amendment I am not going to use the form of words which has been circulated.  These words are not mine, and I do not think them practicable, so I hope I have the leave of the Seanad to use a different form of words which in no way differs in intention from <Col N="532" /> that circulated.  I propose that in addition to the message to the Dáil proposed in paragraph 5 a message be also forwarded requesting that before any final arrangements are made relative to the permanent location of the Oireachtas, including the questions of site, locality, and the allocation of the necessary chambers and offices between the two Houses, a joint conference of members of both Houses be called together to consider this matter.  I know, of course, that as this is a matter that involves the expenditure of money, the other House will be entirely within its rights if it refuses to consult us on the matter, but I would think now that it is pointed to them they will decide as a matter of courtesy to consult us, for, after all, it is right that we should know in what manner of house we are going to speak and eat, and, if the state of this country continues to be disturbed, possibly to sleep. I, for one, would very much like to know, whether we are to have chairs or benches. I feel strongly in the circumstances in favour of benches.  We only know from common rumour, if that can be described as knowledge, where the other House is to be.  There is a certain amount of feeling in the country that it should be the House in College Green, and I am sure that, considering the strength of the case in sentiment and tradition for that House, if the Government has given up that idea they have done so for some sound reason.  Then, we hear again from public rumour that we are probably going to the Royal Hospital.  If that is decided upon I should like to be assured that the Government will take great care of that priceless building, that they will not alter it in any substantial way, and that if they have to add to it, as they will have, they will not so add to it as to destroy its proportions.  It is a masterpiece of architecture. It is not only the work of a great architect, but the work of a great architect of a great period.  There are also, I know, certain plaster ceilings there, Italian work of great value.  But whatever decision they come to they should, as a matter of courtesy, consult us.  It would be a matter to us of regret if it is found that the old building in College Green is impossible.  I think that there are certain members of the Seanad present whose ancestors took part in the debates in that House, and helped to create one of the <Col N="533" /> few great schools of oratory which has arisen since classical times.  I think that if it were upon that ground alone the Government should consult us before it has made any final decision.</P>
+    </Speaker>
+    <Speaker pid="EdwardMacLysaght" hpid="Mr. MacLYSAGHT Mr. MacLYSAGHT">
+      <NameTxt>Mr. MacLYSAGHT</NameTxt>
+      <P>I beg to second the amendment.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I will have to put the Senator's original amendment, and these alterations, and make one out of them as best I can.  They are a little bit disjointed.  It is proposed by Senator Yeats, and seconded by Senator MacLysaght, that there be added to this report the following words, which would come in as an addition to paragraph 5, at the end: &ldquo;That in addition to the message to the Dáil proposed in paragraph 5, a message be also forwarded requesting that before any final arrangements are made as to the permanent location of the Oireachtas, including the question of site, locality, and allocation of the necessary chambers and offices between the two Houses, a joint conference of members of both Houses be called together to consider the matter.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="HenryGuinness2" hpid="Mr. GUINNESS Mr. GUINNESS">
+      <NameTxt>Mr. GUINNESS</NameTxt>
+      <P>I want to draw attention to a few points, one of which is that the Report we are discussing now has already been signed by six members of the Committee.  If you add something to that, you will require to get the adhesion of these members.  One member is not here, and if you introduce that into the Report&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Oh, no; I do not think that is a true view of the position. I will explain what it is.  This is a Report as to the matters on which we recommend there should be certain Standing Orders and, with a view of carrying out the inter-communication between the two Houses, we recommend that these Standing Orders should be the subject-matter of a joint conference. That is for the Seanad to approve or disapprove of; they can reject any portion of it or adopt any portion of it.  Senator Yeats now proposes that in asking for a joint conference on one matter the Seanad, not the Committee, should further ask for a joint conference in regard to this question of the location of new buildings.  The adoption of the Report has been moved and seconded.  I am <Col N="534" /> going to ask the Seanad now to vote on the question of the adoption of this Report as it stands, with the addition of Senator Yeats' motion, but if there is any opposition to Senator Yeats' motion we will discuss that first.  Does any other member wish to speak about it?</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>I thought you were asking whether anyone wished to speak on that particular motion of Senator Yeats?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>Not on the whole question of the general wording, and that the whole question is concluded? That is what we have understood. It appears to me that we have only touched on subjects that really do not matter very much.  The point that strikes me as being of the greatest importance of all is contained in Clause 7. It appears to debar us from exercising our obvious function of asking questions.  I can see and admit that there will be difficulties in providing us with somebody to answer questions, but it ought not to be impossible.  I think the Seanad should certainly consider most seriously the question before deliberately depriving themselves of the right to ask a question &mdash; one of the most useful functions that, I think, the Seanad can discharge.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>What is the use of having a right if you cannot enforce it?</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>Surely somebody could be provided who will be in a position to answer for the Government?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I cannot see who.</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>I have no doubt that with your great knowledge of these matters you might be able to answer a great many of the questions yourself.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Do you move to omit or alter any part of that paragraph 7?</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>Paragraph 7, as far as I can see, does not provide us with that power.  I merely put forward the suggestion that it is a very undesirable thing to allow our Standing <Col N="535" /> Orders to be so framed that we are debarred from putting questions to be answered by the Government.  I should have thought that some arrangement could be arrived at by the Committee. If necessary, I should be willing to propose that it be an instruction to the Committee that they should devise some arrangement by which questions in this Seanad could be forwarded to the proper members of the Government, and, perhaps, at the next session the answer might be given by yourself, sir, or by anybody whom you might think fit to depute for the purpose.  But I do most earnestly ask the Seanad not deliberately to deprive itself of the right to ask questions. I think that would be a most vital omission.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>On a point of order, I desire to ask whether we are taking Senator Yeats' amendment, or whether the Earl of Wicklow is moving another amendment.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>It was first suggested that we should have a vote on the adoption of the Report of the Committee and add to it, if the Seanad so agree, this other amendment by Senator Yeats.  But now the Earl of Wicklow has intervened to say that he wants to have a further discussion on the question of the adoption of the Report, and I do not like to shut him out, although I understood that that part of the debate was closed.  It will be necessary for him to put forward some concrete amendment if he wishes to do so, because there is no use in his saying that we have a right to have these questions answered.  We may have the right, but we have no way of enforcing an answer.</P>
+    </Speaker>
+    <Speaker pid="EdwardMacLysaght" hpid="Mr. MacLYSAGHT Mr. MacLYSAGHT">
+      <NameTxt>Mr. MacLYSAGHT</NameTxt>
+      <P>If it were to be decided for the present not to press the amendment, that is not depriving ourselves of the right.</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>If the whole paragraph were omitted, would it have the effect of providing that the Seanad does not commit itself one way or the other at present on the subject of questions?  Otherwise I should like to move that it be an instruction to the Committee drawing up the Standing Orders to find out some means by which questions may be answered.</P>
+    </Speaker>
+    <Col N="536" />
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>You would be entitled, if you wish, to ask the Seanad to adopt the Report, with the exception of Paragraphs 7, 8, 9, and 10, but I want to call attention to this, that we are only dealing with the immediate present and with the inadvisability of pressing for having questions answered under existing conditions.  The last line of Paragraph 9 refers to the possibility of an agreed practice on the subject later on, but if you were to try to force the thing now, I think you might embarrass the position hereafter.</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>Very well, sir; I beg to move that Paragraphs 7, 8, 9, and 10 be omitted for the present.</P>
+    </Speaker>
+    <Speaker pid="HenryGuinness2" hpid="Mr. GUINNESS Mr. GUINNESS">
+      <NameTxt>Mr. GUINNESS</NameTxt>
+      <P>I beg to second that.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>Would it be in order to discuss the main question now?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>On that motion, of course, any Senator can speak.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>I should like to support the recommendations of the Report. I think it would be a great mistake if they were not adopted, and my reasons are mainly these: We must remember that we are now engaged in creating the practice and custom of the Second House of the Oireachtas of Saorstát Eireann, and we must consider whether it is desirable that we should imitate the other House, or whether we should try and derive a Second House with somewhat different functions from the Dáil. Personally I hold the view strongly that the popular House is most directly responsible to the people.  We must remember that in 6 or 12 years this Seanad will also be an elected Chamber, and I hold the view that the House that only can be responsible for the Executive Government, and all questions affecting administration, is the House that has control of the Minister or Ministers responsible for that particular work, and that it is practically vital to address a large number of questions from time to time to these Ministers.  But if they come here or send over someone over whom we have no control, or for whose actions we have no responsibility, then I think we would not be achieving any <Col N="537" /> useful purpose by putting questions in such circumstances, because we would be going outside our own functions.  I do not mean we should not ask questions of Ministers who come here in charge of Bills.  I do not mean we should not ask them questions bearing upon those Bills, but that is a different matter.  Members of this Seanad are in the unfortunate position of having the whole of Saorstát Eireann as their constituency, and if, at the end of 6, 9, or 12 years, a Senator sought re-election, he would have to stand for the whole country.  That means, that while a member of the Dáil will have a constituency of some thousands to ask questions for, and that each question will have a particularly local character, we in the Seanad shall have the whole of Ireland for a constituency, and not merely some thousands of people upon whose behalf we could ask questions. Personally I think that should weigh very considerably with the members of the Seanad before they insist on the right to ask questions.  That objection is fundamental.  The other reason I am opposed to it is that it would be well in this connection if members of the Seanad would think out for themselves the functions of this Seanad, and get, if possible, some clear idea into their minds as to what the functions of a Second Chamber should be, rather than to try and imitate the other House or other Houses that we know of.  Personally I do not pretend that I have thought it out fully, but, in the main, I think our functions should be criticism of legislation coming from the other House It should be criticism not hostile to any particular Government, but friendly criticism, and I think that is our function in the State, and that in addition to that our function should be to initiate legislation if possible on public matters which, in the ordinary rush of party politics, would not come to the forefront in a House that was very busy with popular legislation and urgent legislation, and that we should be an efficient revising Chamber, giving care and time and thought to the matters that come before us, and at the same time initiating matters of public importance that would not, in the ordinary way, come before the other House, and in that way we would justify our existence. If, on the other hand, we insist <Col N="538" /> on the right to ask questions on trifling matters, I think we will find that instead of improving we will only weaken the whole position of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="WilliamBarrington" hpid="Mr. BARRINGTON Mr. BARRINGTON">
+      <NameTxt>Mr. BARRINGTON</NameTxt>
+      <P>It seems to me that Senator Douglas has so skilfully evaded the main point at issue that he would almost convince me not to vote for the Earl of Wicklow's amendment. The point at issue is not whether we should ask, or should not ask, questions, but whether we should abandon any right or claim to ask them.  I do not say it is desirable to ask questions, but I do not see why we should stultify ourselves by adopting any Standing Orders, and say that we abandon the right to ask questions. I have much pleasure, therefore, in supporting the Earl of Wicklow's amendment.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>In the report of the Standing Order Committee it is stated that the Committee had decided for the present not to draft or recommend any Standing Orders dealing with questions. That is you leave the matter as it was, and whether or not it is right to ask questions has been left in doubt.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>That is the difficulty.  If you strike out that paragraph what position do you leave your selves and your Chairman in?  If I receive notice of a question addressed to a Minister, what am I to do with it?  I cannot compel the Minister to come here. It would be unreasonable to expect, as I have already pointed out, under existing conditions, at any rate, that each Minister of each Department should attend here to be cross-examined and have supplementary questions put to him.  That is the reason why I say you do not meet the difficulty by shutting your eyes to it, and pretending it is not there.  If you ignore it altogether and strike out this paragraph you at once cause the difficulty to arise in an acute form, at the moment I receive the first question about some administrative problem.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>The elimination of this particular paragraph would not leave you in any worse position than you were in before.  It is stated in the recommendation that you do not think it desirable to draft any Standing Orders dealing with questions for the present, so that the position is just as it was before.</P>
+    </Speaker>
+    <Col N="539" />
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>I think Senator Douglas distinguishes between two sorts of questions &mdash; questions of administration and questions of legislation.  By adopting this recommendation we debar ourselves from asking either sort of question, whether it be a question of administration, which may or may not be a right thing to do, or a question of legislation.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>That is not so; you have not read the recommendation. The recommendation says: &ldquo;Save in relation to matters connected with the business and procedure of the Seanad itself.&rdquo; That, of course, would be legislation.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>You state explicitly in the Report why you do not draft or recommend any Standing Orders on this matter.  As far as I understand, that is perfectly plain.  You give reasons why you do not draft any Standing Orders; how then can any exist if you not draft them?</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>The Chairman told us, when we asked might we put questions, that we were asking him to do the impossible.  I do not see, with all respect, why it should be impossible for him to take a note of questions, put, say, this afternoon, and to forward them to the Minister concerned, so that we could be provided with answers at our next meeting.  I admit it would be much nicer if the Minister were sitting here, so that we could get the answers at once, but, in the absence of that, I suggest that other arrangements such as the supplying of written answers could be made.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Will you explain to me how I can compel a Minster to give me a written answer?</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>Have you any reason to suppose that the Minister will refuse?  I think much better of the Ministers than that.  I am sure they would be the last people in the world to be so discourteous as to refuse to answer a question addressed to them by a member of this Seanad.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>That would depend a good deal, I suggest, on the nature of the question.  If such a thing were once agreed to, there would be no possible limits to these suggestions, and <Col N="540" /> what I and the Committee thought was that, under present conditions, and having regard to the difficulties and responsibilities of Ministers at present, to impose upon them the responsibility of answering innumerable questions would not be reasonable or right.</P>
+    </Speaker>
+    <Speaker pid="JanePower" hpid="Mrs. WYSE POWER Mrs. WYSE POWER">
+      <NameTxt>Mrs. WYSE POWER</NameTxt>
+      <P>In the event of this turning out that a great many questions were handed in, and no answers were given, we could then consider the question of framing Standing Orders to deal with the situation.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>See how the dignity of the Seanad will have suffered. We have endeavoured to assert a right to questions which is denied us.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>I do not know why it is supposed that innumerable questions will be asked.  I certainly do not desire to ask any questions.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I am quite sure Senator Moore is the last who would wish to be bound by that.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>If the Seanad wishes to have Parliamentary questions, then, in decency and in order, we should draft Standing Orders, and do it in a way by which it will be in order.  If that is the wish of the Seanad, let it say so, and make recommendations and attach it to the Report of that Committee.  I desire to be taken as arguing against this.  I do not think we should insist on this right. At the same time, if it is to be done, the fact that at present we have no Standing Orders must be remembered.  I should like to point out, if at present we do not have Standing Orders, it does not mean that at another time we will not take steps to have questions answered here in the Seanad.  If it is desired by the Seanad that Minister should attend and answer questions, then the first step would be to pass a resolution, approach the Ministers, and try to come to some arrangements with them, and then make Standing Orders to meet their convenience&mdash;that is, if it is desirable to have this done.  We should arrange the thing amicably.</P>
+    </Speaker>
+    <Speaker pid="HenryGuinness2" hpid="Mr. GUINNESS Mr. GUINNESS">
+      <NameTxt>Mr. GUINNESS</NameTxt>
+      <P>I take it that the Standing Orders Committee will still be functioning, and as these clauses have not met with the entire approval of the <Col N="541" /> Seanad, it is possible that on some future occasion, when considering this matter of the Standing Orders, you would put in some other Standing Orders which would possibly meet the views of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>As far as I am concerned, I think it is only fair to say that I feel strongly impressed with the view that under existing conditions, and while they continue, it would be undesirable to impose this duty upon the Ministers.  It is not imposed upon them under the Constitution.  If we seek to impose this, and have no means of enforcing it, and if they do not want to agree to it, we place ourselves in a position of great want of dignity, and possibly great loss of influence.  There is nothing to prevent the Seanad later on, if things become normal, from entering into negotiations with the Dáil with a view to arriving at some common agreement as to the way questions might be put.  Until that arises &mdash; and I think the occasion will not definitely arise under existing conditions&mdash; we thought it, it may have been in our foolishness, better to leave the question in abeyance altogether.</P>
+    </Speaker>
+    <Speaker pid="ThomasFarren" hpid="Mr. FARREN Mr. FARREN">
+      <NameTxt>Mr. FARREN</NameTxt>
+      <P>I believe if we adopt these recommendations we give our whole case away.  We are making Standing Orders which will shut out the possibility of this being done later.  I am in sympathy with Senator the Earl of Wicklow when he said that we will not be compromising our position if we delete Clauses 7, 8, 9, and 10. That is to say, then, that the position is open.  We have not given our case away.  We have not compromised the position.  We are just as we were. We can take steps, and regulations can be framed by which vital questions can be answered.  Nobody thinks that we are going to ask questions about little things that might be asked by members in the Dáil.  I think the members would be giving away their rights if they agreed to these Standing Orders now.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>We considered that carefully &mdash; whether we can put any restrictions upon the questions. When you speak of vital questions, who is to determine what is a vital question? Is it the Minister or the Seanad?  The <Col N="542" /> Minister may refuse to answer the question on the ground that it is not vital, and the Seanad may think that it is one of the most vital questions that they are concerned with.</P>
+    </Speaker>
+    <Speaker pid="WilliamYeats" hpid="Mr. YEATS Mr. YEATS">
+      <NameTxt>Mr. YEATS</NameTxt>
+      <P>If it is not in our Constitution that we have a right to ask questions, and if we provide no machinery for the answering of questions, will not the Cathaoirleach be perfectly within his right to say, if handed a question: &ldquo;I cannot accept it because we have no machinery for answering questions?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>That is what I shall have to do.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. DOUGLAS Mr. DOUGLAS">
+      <NameTxt>Mr. DOUGLAS</NameTxt>
+      <P>It would not prevent machinery being provided later if it is thought well.</P>
+    </Speaker>
+    <Speaker pid="PatrickKenny" hpid="Mr. KENNY Mr. KENNY">
+      <NameTxt>Mr. KENNY</NameTxt>
+      <P>I support Senator the Earl of Wicklow's view.  It seems to me that this completely closes the door for any arrangements to be made to answer questions.  What we should endeavour to do is to keep that door open.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I thought we did that.  We say that &ldquo;under existing conditions&rdquo; we should not have questions, and finally we say we should delay doing it &ldquo;in the absence of any agreed practice on the subject.&rdquo;  Both paragraphs pointed to the possibility or probability in the future of having agreement on the subject.  That is why we deliberately put in these provisos&mdash;so as not to close the question.  I would like the Seanad to realise what is going to happen if they take the course of rejecting these paragraphs.  Probably to-morrow I will receive notice of a question. Senator Colonel Moore says he is not going to exercise the privilege.  He might be tempted to do so.  I get notice of a question addressed to a Minister. What am I going to do with it?  Am I going to run the risk of sending that question to the Minister and receiving no reply?</P>
+    </Speaker>
+    <Speaker pid="EarlofWicklow" hpid="The EARL of WICKLOW The EARL of WICKLOW">
+      <NameTxt>The EARL of WICKLOW</NameTxt>
+      <P>The risk is small.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I do not know that it is.</P>
+    </Speaker>
+    <Speaker pid="ThomasFarren" hpid="Mr. FARREN Mr. FARREN">
+      <NameTxt>Mr. FARREN</NameTxt>
+      <P>What is causing most of the discussion at the Seanad is that the framing of these questions deprived <Col N="543" /> the Senators of the right of asking questions that are described in these paragraphs. If these paragraphs had not been here, and if some of the Senators had been allowed to ask the Cathaoirleach could we have a Minister here to answer questions, it would have been all right.  But unfortunately the Committee did the thing &ldquo;off their own bat,&rdquo; and put in these paragraphs.  I do not think that anything we have here will deprive the Seanad of having questions asked if they think fit.  At present it seems that we are satisfied that we do not want to ask questions, and why bother about the matter now?</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>Paragraph 9 would actually debar us from having questions answered by Ministers, and I think that is not much to be claimed by the Seanad as a matter of right.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>Do you say it can be claimed as a matter of right?</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>I do not say one way or the other.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>That is not a very reasonable way of dealing with a matter.  I could understand your saying you do claim it is a right.  If it is clear and plain we have not got a right, why should we not be honest enough to say so?</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>I do not say it is clear at all.</P>
+    </Speaker>
+    <Col N="544" />
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>Arrangements are made for questions to be addressed to the Cathaoirleach according to this Report. Is there a Standing Order dealing with that particular item; and, if not, what will it be?</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>I really could not tell you.  It would be a very simple matter, and would relate to questions dealing with the procedure and the business of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="ThomasBennett" hpid="Mr. BENNETT Mr. BENNETT">
+      <NameTxt>Mr. BENNETT</NameTxt>
+      <P>Then there will be a new Standing Order?  You do not recommend it on the face of this Report.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>We have not drafted it.  We merely say that these are the only questions about which Standing Orders would, in our opinion, be appropriate at present.</P>
+      <P>Amendment put:&mdash;&ldquo;That paragraphs 7, 8, 9 and 10 of the Report be omitted.</P>
+      <P>Amendment declared lost (on a show of hands) by 14 votes to 12.</P>
+    </Speaker>
+    <Speaker pid="" hpid="AN CATHAOIRLEACH AN CATHAOIRLEACH">
+      <NameTxt>AN CATHAOIRLEACH</NameTxt>
+      <P>The paragraphs therefore remain in.</P>
+      <P>Question put:&mdash;&ldquo;That the Report be adopted.&rdquo;</P>
+      <P>Agreed.</P>
+      <P>Question put: &ldquo;That the additions moved by Senator Yeats and seconded by Senator MacLysaght be made to the Report.&rdquo;</P>
+      <P>Agreed.</P>
+      <P>The Seanad adjourned at 6.15 p.m. until 3 o'clock on Wednesday, the 21st March.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

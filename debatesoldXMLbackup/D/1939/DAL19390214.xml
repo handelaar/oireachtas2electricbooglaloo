@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Tue" Date="14" Month="Feb" Year="1939" Vol="74" No="4" DateIrish="Dé Máirt, 14 Feabhra 1939" DateEnglish="Tuesday, 14 February 1939" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="377">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="377" /> Do chuaidh an Ceann Comhairle i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of the Pope&mdash;Letter" RHead="from Cardinal-Chamberlain">
+    <Title>Death of the Pope&mdash;Letter from Cardinal-Chamberlain.</Title>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I have received the following communication from His Eminence Cardinal Pacelli:&mdash;</P>
+    </Speaker>
+    <P>&ldquo;To His Excellency, Mr. Frank Fahy, Chairman of Dáil Eireann, Dublin.  The adjournment of Dáil Eireann as a mark of respect to our <Col N="378" /> beloved departed Pontiff has moved us deeply and consoled us.  Please accept and convey to the members of Dáil Eireann this expression of our profound gratitude.</P>
+    <P Just="Right">&ldquo;CARDINAL PACELLI,</P>
+    <P Just="Right">&ldquo;Camerlengo.&rdquo;</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Adjournment" RHead="of the Dáil">
+    <Title>Adjournment of the Dáil.</Title>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>As the body of His Holiness Pope Pius XI is being laid to rest to-day it is fitting, as an expression of national mourning, that An Dáil should adjourn and I, therefore, move, A Chinn Comhairle, that the House do adjourn until 3 o'clock to-morrow.</P>
+      <P>Agreed.</P>
+      <P>The Dáil adjourned at 3.5 p.m. until 3 o'clock on Wednesday, 15th February, 1939.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

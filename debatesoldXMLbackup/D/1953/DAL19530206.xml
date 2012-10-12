@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="6" Month="Feb" Year="1953" Vol="136" No="3" DateIrish="Dé hAoine, 6 Feabhra 1953" DateEnglish="Friday, 6 February 1953" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="397" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is proposed to take Item No. 6&mdash;the Restrictive Trade Practices Bill&mdash;and Private Deputies' business at 12 o'clock.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>I wish to give notice that I will raise the subject matter of Questions Nos. 124 to 130 on yesterday's Order Paper on the Adjournment.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>I thought the Parliamentary Secretary to the Taoiseach would announce the arrangement entered into with regard to the business next week, and especially with regard to the time to be allocated to the discussion on the Taoiseach's Estimate and two other Private Deputies' motions.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain) Donnchadh Ó Briain">
+      <NameTxt>Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain)</NameTxt>
+      <P>The arrangement is that the debate on the Taoiseach's Estimate will start on Tuesday after Questions and be continued on Wednesday.  The Labour Party motion in connection with unemployment will be taken in conjunction with it.  The Clann na Talmhan Deputies have also asked that a motion in their name&mdash;No. 23 on the list&mdash; should also be taken.  The arrangement is that the debate on the Taoiseach's token Vote should conclude on Wednesday night in time for the taking of the necessary votes.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>And we are compensated by Private Members' time on Friday.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>Is it premature to ask about the hours of sitting next week, in view of our discussion yesterday?</P>
+    </Speaker>
+    <Col N="398" />
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>It was also agreed that the House should sit on Thursday from 10.30 a.m. until 7 p.m.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>Deputy Lehane requested time for consideration of the motion which has been tabled in his, mine and Deputy Finucane's names, with regard to the price of milk.  Could that also be included in the debate on the Taoiseach's Estimate?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Chair may take it that the main topics for discussion will be supplied to the Chair.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>No.  I do not think it has been the practice.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>In 1948, 1949 and 1950 the Fianna Fáil Party, when in opposition, specifically refused to supply such topics.  Prior to that it was always announced by the Ceann Comhairle what subjects had been notified.  That practice broke down in 1948 and has broken down ever since.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The practice was broken down by Deputy McGilligan long before that.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It was intimated to the House that the pressure to have a debate next week arose from a desire to discuss the unemployment position.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The Taoiseach's Estimate since those days in general Government policy.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>Could Deputy Lehane's motion be taken in conjunction with that debate?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>If the main subject is to be unemployment and we ramble on to all sorts of other subjects, it will be very difficult to get any definite conclusion.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Chair was anxious that it should know what was the main subject for discussion.  The Chair does not wish to limit the subjects which any Deputy is entitled to discuss but would like to know what will be the main topic.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>General Government policy, from which all the ills flow.</P>
+    </Speaker>
+    <Col N="399" />
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Chair must continue in its ignorance on the matter.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Restrictive Trade Practices Bill, 1952" RHead="&mdash;Committee Stage (Resumed)">
+    <Title>Restrictive Trade Practices Bill, 1952 &mdash;Committee Stage (Resumed).</Title>
+    <P>Question again proposed: &ldquo;That Section 3 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>When progress was reported last night, I was complimenting Deputy Dockrell on having so neatly and so completely demolished the case made by Deputy Costello against this section.  As a sane and sensible businessman, Deputy Dockrell realises that most people like to avoid undue publicity, trouble and fuss, and if a businessman is a member of a trade association, as many businessmen are, he would like that trade association to be run in accordance with established law.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>Deputy Dockrell says: <i>Timeo Danaos et dona ferentes.</i></P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>He would like to bring the rules of that association within the terms of the Bill as speedily and as easily as possible and this section facilitates citizens in so doing.  The members of the legal profession would like to do it in another way.  They would like to have each citizen put in the witness box and there cross-examined, browbeaten and cross-heckled until he does not know whether he is a businessman, a farmer or a criminal.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I should like to ask the Minister for information on one point that was discussed here last night.  The Minister made the point that under Section 3 he visualised that an application might be made by a very small association that was being squeezed out, so to speak, by bigger ones.  Is it not more likely that an application of that sort would be made under Section 6 rather than under Section 3?  The Minister's argument earlier was that Section 3 was more likely to be used by an association representative of the bigger part of a trade which wants voluntarily to put its house in order.  The small man who <Col N="400" /> is being squeezed out, to whom the Minister referred, would be more likely to come under Section 6.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce Mr. Lemass Minister for Industry and Commerce Mr. Lemass">
+      <NameTxt>Minister for Industry and Commerce Mr. Lemass</NameTxt>
+      <P>I think that is very likely.  I also think it probable that representation by members of the public or by organisations of consumers, such as were mentioned here yesterday, will be made under Section 6.  It is almost inconceivable that members of the public who feel that there is something wrong which should be rectified, would proceed under Section 3.  That, I think, is also likely to be the case where a minority of traders feel aggrieved by certain practices.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Therefore the point whether the association is representative or not does not arise?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Except that under Section 3 it should be a representative body that should make the application rather than an individual.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Yes, for the reasons I suggested.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 4.</P>
+      <P>Question proposed: &ldquo;That Section 4 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It seems to me that once Section 3 has been agreed to, Sections 4 and 5 must also be agreed to.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 5.</P>
+      <P>Question proposed: &ldquo;That Section 5 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The intention seems to be that the commission must publish notice of their intention to make rules. When the rules are made, they will undoubtedly communicate with the trade but is there any provision for publishing them otherwise?  I do not think there is in the Bill.  Is there a possibility that anybody may come along and say that the commission is entitled only to give these rules to the trade and that they are not entitled to give them to the public?  I think the Minister will agree that not merely <Col N="401" /> must they be known in the trade but they must be known as widely as possible.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I agree.  I shall look into that point.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>It might be advisable to have attention drawn to the fact that rules had been made.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>We might leave that to the discretion of the commission itself.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>From the drafting I am not sure whether the commission take power to publish the rules after they are made.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I shall consider that.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Would the Minister also consider whether it might not be desirable to have some method of communication with the Oireachtas?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>What is contemplated is that there will be a voluntary approach to the commission and there will be notice given that the commission are working on such an application. The fair trading rules are prepared and are communicated to the organisation concerned and the commission then has the responsibility of seeing that these rules are observed by the traders concerned.  If they find that they are not being observed, then they report to the Minister and the Minister can take appropriate action.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Have they a statutory obligation under Section 6 to ensure that rules prepared by them under Section 3 are observed?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Under Section 5 they have an obligation to see that these rules are observed and, if they are not being observed, to report to the Minister, who can then proceed under Section 8.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Does that report to the Minister by-pass an inquiry under Section 6?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>If some body voluntarily submits to the procedure and then fails to comply with the rules, action can be taken.</P>
+    </Speaker>
+    <Col N="402" />
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Would the Minister mind communicating to us the results of his consideration in regard to the publicity point so that if the Minister does not intend to put down an amendment we can do so?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Yes.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 6.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I move amendment No. 6:&mdash;</P>
+      <P>In sub-section (1), lines 34 and 35, to delete &ldquo;(by one or more of their members delegated by them for the purpose)&rdquo;.</P>
+      <P>This commission is to consist of not less than two and not more than four members with a chairman.  I think that any inquiry held should be conducted at least by a certain minimum number of members.  As the section stands, the commission may delegate power to a member or members to hold an inquiry.  The Prices Advisory Body, when they saw their programme was a heavy one, had, I think, to appoint two committees and to appoint a vice-chairman as well, but I think it would be undesirable that an inquiry of this nature should be conducted by one member.  It would be better to have two members and the chairman. If the section is left as it is the commission can delegate the duty of holding an inquiry to an individual member.</P>
+      <P>I suppose at this stage it is not possible to speculate as to what particular type of representation will be on this commission but on the assumption that the chairman will be an independent person and that the other members will, on one side, represent business or commercial interests and on the other side, the consumers or the public, I think it would be desirable if an inquiry has to be held, that it should be conducted by a certain minimum number of members rather than allow the commission to delegate the holding of an inquiry to a particular individual.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The reason for that provision was to provide for the possibility of disposing of matters more expeditiously. <Col N="403" /> If the whole commission had to sit on every inquiry it would unnecessarily delay matters.  It seems advisable to have an arrangement of this kind open to the commission if they choose to exercise it so that two or more inquiries could be held simultaneously, it being understood that the whole commission must sit in on the preparation of the report which has to be submitted to the Minister under the section.  May I say that I was not contemplating a commission under which all the members would be appointed in a representative capacity as such?  If that were the case I agree that there would be objection to this system but assuming that the members of this body will be chosen more from the point of view of their suitability for the post than from any other consideration, it seems reasonable to allow the commission to conduct two or more inquiries simultaneously with one or more members sitting on that inquiry. This is an empowering section and is not mandatory.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I agree that it is only right that the commission should not be a representative commission in the sense that the Prices Advisory Body is, but on the other hand the ramifications of this inquiry will be very considerable. I think the Minister should consider at any rate having it held by not less than two members although the commission must itself take the decision after the inquiry is held.  If the facts are presented after one individual inquiries into it it is reasonable to suppose that the commission will act on the particular slant or view which that member expressed in his report to the commission.  While I appreciate that there may be in the beginning a number of inquiries proceeding simultaneously, I think there is a good deal to be said for having not less than two members.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I was thinking of a total membership of three rather than a large body.  As the Deputy knows, the Industrial Development Authority proceeded in that way by delegating particular spheres of inquiries to particular members even though the whole <Col N="404" /> body has to come into the ultimate result.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>If there is going to be an inquiry under sub-section (3) there can be, in circumstances, a public inquiry.  If there is to be a public inquiry, then it would be undesirable that it would be held by one member.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The importance of the matter has to be taken into account.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>If it is important enough to be a public inquiry it should be held by more than two.  On the other hand, if the inquiry, as can be the case in the sub-section, is equivalent to a file investigation, then I can quite see the Minister's point.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>As the Bill stands, it is contemplated that every inquiry will be a public inquiry unless there is good reason for having it otherwise.  Deputy Dockrell wants to turn that round.  On the assumption that that will be the position, we will have to contemplate that members of the commission will always act in public.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Quite.  The public part of the inquiry would be the equivalent of a court decision.  I think the Minister will, on consideration, agree that it would be undesirable for one member of a committee to hold that. Suppose the Minister appoints three people on the committee and one is ill, I can see that the Minister does not want the entire business of the committee to be held up.  If the Minister will consider making it either two or more members in sub-section (1) or provide in sub-section (3) that an inquiry shall be held by two or more, I will be happy.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I will consider it.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I will not push the Minister beyond the consideration stage now.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It may be possible to make some arrangement.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>There are undoubtedly those two aspects.  First, the aspect of the file investigation, the <Col N="405" /> figure investigation which can be done easily enough by one person, but where it is a question of considering oral points that are put, then it is a different case.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I see the Deputy's view point, certainly, in that regard.</P>
+      <P>Amendment No. 6, by leave, withdrawn.</P>
+      <P>Amendment No. 7 ruled out of order.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I move amendment No. 8:&mdash;</P>
+      <P>Before sub-section (2) to insert a new sub-section as follows:&mdash;</P>
+      <P>(2)  The commission may, in the course of an inquiry in relation to the supply or distribution of any kind of goods, inquire into the conditions which obtain in regard to the rendering, in the course of carrying on any trade or business, of any services affecting such supply or distribution.</P>
+      <P>This amendment goes some way to meet the idea that Deputy Cosgrave had in the amendment that was ruled out of order.  The object of the amendment is to enable the commission to consider the possibility of reporting upon restrictive practices in relation to services affecting the distribution of any kind of goods which is under examination by them.  I think it goes as far as it is desirable in this Bill to bring in services.  It covers every case in respect of which a complaint has been made to the Department regarding the operation of restrictive practices in services as distinct from the distribution of goods.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>It covers the case mentioned by the Minister last night in regard to the motor traders, where part of such trade is goods and part services applicable to such goods.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I was rather thinking of another type of complaint.  Hirepurchase facilities are only allowed to certain traders and not to others. That type of service would come into an inquiry of this kind.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The service of not merely selling petrol but also filling the petrol?</P>
+    </Speaker>
+    <Col N="406" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I think it is desirable to have this scope available.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>That is what Deputy Cosgrave was trying to get in in amendment No. 7.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I move amendment No. 9:&mdash;</P>
+      <P>Before sub-section (2) to insert a new sub-section as follows:&mdash;</P>
+      <P>(2)  Where the commission receive a request from any person or organisation for the holding of an inquiry into the conditions which obtain in regard to the supply and distribution of any kind of goods they shall consider the grounds on which such request is based, and in the event of a decision being made not to hold an inquiry the commission shall inform the person or organisation making such request of the reasons for such refusal to hold an inquiry.</P>
+      <P>This amendment, I think, explains itself.  If there are any grounds why the Minister should refuse to accept a reasonable amendment of this kind, I would like to hear them.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It seems obvious that the amendment would create considerable practical difficulties for the commission. It is almost certain that during the early period of its existence it will receive very numerous requests for the holding of inquiries into the distribution of a very wide range of products.  I presume that at all times the commission will aim at giving priority to the more important complaints affecting trades where it is alleged that restrictive practices are most widespread and particularly harmful. In practice, that will mean that the commission will not be able for some time to deal with many of the applications which they may have for the holding of inquiries in a particular trade.  If they are requested, as is suggested in the amendment, that they shall reply to every application, etc., then obviously they must have some formal consideration of the application. That would, it seems to me, completely <Col N="407" /> clog up the work of the commission at an early stage.</P>
+      <P>In practice, they will put it on the long finger or will not reply at all. They will have to space their work over a period of time but it would not necessarily mean that a decision not to proceed with an inquiry at this stage would involve never proceeding with it. It is better to leave the matter as it is rather than put this obligation on the commission.  It would mean that they would spend most of their time not on the important allegations but considering every single approach made to them in order to give a reason why they are not proceeding with it.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I must thank the Minister for his frankness on the matter in so far as he considers what is likely to happen when the commission commences to function.  I assume there will be a long finger period between the date of the coming into operation of this Act and the date when the members of the commission will commence to operate.  Awkward questions can always be dodged by putting them on the long finger.  As a result, we see in the House from time to time that, after the patience of members has been exhausted, questions are put down asking the Minister why such and such a thing has not been done.  With very few exceptions, these questions are put down by reasonably-minded Deputies only after sufficient and ample time has been given to civil servants to deal with the matters and to the Minister to make a decision on the reports of the civil servants.</P>
+    </Speaker>
+    <P>I assume that, between the time of the coming into operation of the Act and the date of the commencement of the functioning of the commission, the members will have plenty of time to prepare a priority list.  I would be the last in the House to make an objection to the preparation of a priority list&mdash; a list that will be prepared on the basis of the urgency and importance of the matters that may be referred by individuals or organisations to the commission for inquiry.  Is it not reasonable to assume that the priority list will be <Col N="408" /> prepared before the first sitting of the members of the commission and is it not reasonable to expect that, within a reasonable period of time from the date of the first sitting, that priority list will be reviewed, say, at the end of three months or six months or whatever period the Minister would consider suitable or which the members of the commission might allocate to themselves? The preparation of the priority list does not prevent the members from reviewing that list after they receive further applications.  All the applications will not come in on the same date or before a certain date.</P>
+    <P>I think that this amendment is reasonable.  Apart from the question of individual applicants, I think that an organisation which, after consideration, makes an application for an inquiry does not do so on any flimsy grounds.  It does so after a considerable number of people have considered the matter.  The application is not made just for amusement or for the purpose of advertising the existence of their organisation.  It is made for some good and valid reason.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Certainly.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>Does the Minister agree that the first priority list made out on or before the date of the first sitting should be reviewed within a reasonable period of time?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I do not think the Deputy understood my point.  The commission is set up.  There are, say, 100 proposals for inquiries into the circumstances prevailing in particular trades.  The commission says: &ldquo;O.K., we will pick five or six of these proposals as being the most important and most urgent and proceed to deal with them.&rdquo;  The amendment suggests that in every case they must consider the grounds for the request and communicate to the applicants on the basis of the consideration of the grounds for the request and why they are not taking it immediately.  In my view, that would clutter up the work of the commission and embarrass its operation. I think it would be far better to deal with the most urgent cases first.  If somebody asks why his particular <Col N="409" /> application is not being taken, the answer will be that it is because the commission have more urgent and important applications to deal with first.  We do not want to have statutory obligation to consider the grounds for a request.</P>
+      <P>This amendment would put upon the commission a statutory obligation which, if they attempted to discharge it, would impede and hold up the work for a long time.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I admit that queer applications can be sent in by individuals under cover of this amendment. Does the Minister agree that any organisation&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Representative organisation.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>&mdash;&mdash; worthy of its name is entitled to have some reply within a reasonable time?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Certainly.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>Will the Minister give an undertaking to consider this amendment on that basis before the next stage?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Provided that the reply can be, say, that other cases have priority and that the application in question is, say, tenth on the list&mdash;a reply which does not in any way involve the commission in going into the merits of the application in any detailed way.  While that might be possible later on in the life of the commission I do not think it would be possible in the initial period.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>Many organisations have been established in the country for the purpose of protecting the community in regard to matters of this kind. These organisations represent a substantial number of people and I submit that they are worthy of being accorded a reply within a reasonable time to a request of this kind.  I would not apply that argument to individuals because I realise that individuals can become a nuisance in matters such as this and that they can make a claim&mdash;&mdash;</P>
+    </Speaker>
+    <Col N="410" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I assume that that would be done as a matter of ordinary courtesy.  I assume that a reply would be sent.  I see what the Deputy is getting at.  His point is that if a responsible organisation makes a request for an inquiry which the commission, after full consideration, decide not to take, it should be informed to that effect so that the matter of having the case examined can be taken up here or somewhere else.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>Will the Minister look into the matter before the next stage?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It may be possible to devise some statutory provision in that regard, though in my view it is hardly necessary.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I move amendment No. 10, which stands in the names of Deputy J. A. Costello, Deputy Cosgrave and in my own name:&mdash;</P>
+      <P>To delete sub-section (2).</P>
+      <P>There are various arguments against sub-section (2) of Section 6.  I think the chief argument is that it seems to put the commission very much under the direction of the Minister.  Perhaps we could hear the Minister's views?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I think myself that the objection to this sub-section is due in a large measure to misunderstanding. It was not my idea that the commission should be subject to supervision by the Minister in regard to the manner in which it carried out its inquiries.  All I had in mind was that the commission should be given rather clear terms of reference so that if the Minister wanted to inquire, say, into the circumstances of the motor trade he could say: &ldquo;It is the motor trade which I want you to inquire into and not motor tyres or things of that kind.&rdquo;  It seems to me, on reconsideration of the section, that it is clear enough in sub-section (1)  and not necessary in sub-section (2).  Therefore, I am prepared to accept the amendment.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>It would look as if they were completely under the thumb of the Minister.</P>
+      <P>Amendment No. 10 agreed to.</P>
+    </Speaker>
+    <Col N="411" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The next three amendments are the same.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>They are all together.  I move amendment No. 11:&mdash;</P>
+      <P>In sub-section (3), line 1, to delete &ldquo;public&rdquo; and substitute &ldquo;private.&rdquo;</P>
+      <P>The idea is to hold the inquiries in private save where the commission themselves want them to be held in public.  I urge on the Minister the importance of amendments Nos. 11, 12 and 13.  There is an idea&mdash;which I think is completely erroneous&mdash;that this Bill should be a big stick to beat the business community.  I do not believe that the business community generally are at all as culpable as certain people seem to imagine they are. I think that the spirit in which this Bill is framed and in which it will be passed will have a very big effect on the future relations of the fair trade commission and the business community generally.  If firms and associations will be continually subjected to inquiries which will be held in public &mdash;whether or not they ask for them&mdash; I think that the whole approach to the working of this Bill afterwards will be very different from what the Minister and the House would like to see.  For a variety of reasons, many of which have not anything sinister in them at all, it is not always advisable to publish trade matters, and so I think that inquiries of this kind would be entered into in a much better spirit if they were only held in public when it was necessary.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The Deputy is obviously trying to turn the section around completely. What the Bill provides at the moment is that the inquiry must be in public unless the commission think that it would be unfair to trade interests to do so when they may hold a private session.  I think it is far preferable to have it that way than as the Deputy suggests.  His suggestion is that it would always be held in private unless there were good reasons for holding it in public.</P>
+    </Speaker>
+    <P>The Labour Party amendment goes even further in the direction of public inquiries than I would think desirable because they want to provide that, <Col N="412" /> even when the commission decides to hold a sitting in private, all persons interested or any person who indicates an interest in the matter, would be entitled to be present at the private sitting.  I recognise fully that there are dangers that, at inquiries of this character, firms may be asked to give information which, if published, might be detrimental to their trade interests in the sense that it would reveal certain information to competitors in regard, say, to processes or advantages which they were enjoying or had secured by their own ingenuity, and that that should not be done except it is relevant to the subject matter of the inquiry. It is necessary, therefore, in my view, to provide that the commission can avoid doing unnecessary injury to trade interests in an inquiry of this kind by holding private sessions where the circumstances indicate that that would be fair.</P>
+    <P>On general principles, I think that inquiries of this character which are likely to lead to the publication of reports and to legislative action, should be held in public, and that there should be no suggestion that the report was based on anything else than the evidence which had been furnished to the commission by the interests concerned, so that public opinion could begin to circulate around the matter and lend support for whatever action might be considered necessary.</P>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I think that this is a most important matter.  I want to assure Deputy Dockrell that the members of this group do not take the view that every employer and trader in the country is a dishonest individual.  The Labour Party are prepared to give support to, and, in certain circumstances, to advertise the fact that a very large section of the traders, manufacturers and business people generally are decent honest-to-God citizens.  We are prepared to meet these people halfway in any matter where they have grievances.  But there is a community point of view, in present circumstances, which has to be satisfied regarding allegations that excessive profits are being made by certain people and that excessive prices <Col N="413" /> are being charged.  There is only one way of satisfying public opinion on matters of that kind, and that is through the medium of an inquiry held in public where the employer, the manufacturer or the person against whom the allegations are made can come forward and produce evidence to refute the charges put forward by the other side.</P>
+      <P>I hold the view that, in existing circumstances and in the dangerous times in which we live, public opinion is an important matter, and that the majority of the people in this country, or in any country under a democratic system of government, generally do not do wrong, and do not come to wrong conclusions.  If we want any evidence of that we can find it in the courts of the country.</P>
+      <P>This commission will be a court.  I suggest to Deputy Dockrell, who stands for high principles&mdash;he is an honourable man associated with honourable people who have been in business for generations&mdash;that he and people like him and the type of manufacturers and others for whom he speaks, should have no fear of going before a public inquiry as regards doing things in the right way, and in producing evidence to this commission, or, indeed, to any court, that they had a good defence against any charges which might be made against them.  I ask him to accept it from me that the members of this group do not share the view that the majority of the manufacturers or employers of this country are all bad citizens.  They are not.  We will give the decent employer and the decent trader every protection that lies in our power, and we are not going to be associated with any charges made before a commission in this country or anywhere else, or from platforms, or by disclosures that could not be justified.</P>
+    </Speaker>
+    <P>On the question of disclosures, we have an amendment later dealing with that.  I want to say, however, that if persons are admitted, in exceptional circumstances, to a court or a commission, and it can afterwards be proved that they disclosed information which a judge or a chairman of a commission <Col N="414" /> regarded as confidential, then I personally would be prepared to say that they should be made subject to severe penalties for making such disclosures.</P>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I thank Deputy Davin for the very nice things he has said about me and for his assurance on behalf of his Party, a thing which I already knew, that they were not out for the blood of the business community. In this matter, a lot will depend on the way in which the commission approaches it and on the way in which the business community will approach it.  If the commission is working along harmonious lines with the people who come before it, then I do not think it matters a whole lot whether the sittings of the commission are held in public or in private&mdash;that is, as I say, if there is goodwill on both sides. There may be some other Deputies who wish to express their views on this.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>The only view I have on this is that if Deputy Dockrell's amendment were persisted in any confidence which the people of the country had in the setting up of a fair trade commission, or in the implementation of a Bill of this kind, would be lost entirely.</P>
+      <P>A big number of people have raised the question of restrictive trade practices over the last few years and if, as suggested by Deputy Dockrell, even a big proportion of these inquiries were to be held in private, the whole effect of setting up a fair trade commission and the implementation of this Bill would be lost.</P>
+      <P>As Deputy Davin said, in the case of the ordinary courts of justice and the labour court, the vast majority of the sittings are in public.  Information of a confidential or a semi-confidential nature is disclosed by employers.  It is to the credit of these people who attend on behalf of the workers and the trade unions that this information is not divulged to the general public or to the members of the organisation or trade union represented by these leaders.</P>
+    </Speaker>
+    <P>It would be anticipating amendment No. 15 if I were to make further remarks with regard to public sittings <Col N="415" /> but I would again emphasise that if any large proportion of these sittings are held in private the public will not have the confidence they should have in the Bill and will not believe that there is any determined effort on the part of the Minister or on the part of this House to smash trade rings or to break down restrictive trade practices.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Provided the commission is a good one, going about its job in the proper way, I do not think the amendment matters, because, whether the section is left as it is&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The commission can do it one way or the other.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>&mdash;&mdash;the commission can do it one way or the other.  It is just a lead to the commission.  If the commission is a good commission, doing its job, basically, it does not really matter.  I want to make this point.  On a premise similar to that adopted by Deputy Corish I have come to a slightly different conclusion.  It is in the interests of the good trader, using the phrase as meaning a person who keeps within the type of rules that we want, to resolve so far as he can the present public suspicion and so long as the commission do not allow inquiries before them to be utilised for the purpose of noising abroad trade secrets in the true sense of the term, it would be to the advantage of the good trader that the inquiries would be held in public because he would then obtain the confidence of the public.</P>
+      <P>All of us in this House know very well that for every ten complaints we get we find on investigation that about 50 per cent. of them are based upon misunderstanding of the facts.  Therefore, as the disclosure in public does not affect trade secrets but merely has the facts properly understood and properly represented and therefore properly believed by the public, a public inquiry, instead of doing harm to the trader, will do a great deal of good in establishing public confidence.</P>
+    </Speaker>
+    <P>I agree with the Minister and with <Col N="416" /> Deputy Davin that there are cases where, while a general inquiry could be in public, certain information may not be disclosed.  Whether you have the amendment or the section as it is, these cases will be dealt with by the commission, if it is doing its job. Although I know perfectly well that some traders do not appreciate it, in the main if there is no disclosure of trade secrets in the true sense of the term a public inquiry will very materially help the good trader, and equally will penalise the very small proportion of really bad ones that there are.</P>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>I agree with Deputy Dockrell's point of view but, like Deputy Sweetman, I do not think that it makes very much difference whether this amendment is accepted or not.  The success of this Bill depends on the competence and ability of the commission. They can make the provisions of this Bill workable, effective and successful or they can bring about its failure.  In this matter we have to repose a great deal of confidence in the commission.</P>
+      <P>I am inclined to resent Deputy Davin's sanctimonious and patronising attitude towards businessmen.  There are some good businessmen and there are some bad businessmen, but who is to decide?  Is it Deputy Davin?  Is it the politicians who will separate the sheep from the lambs?</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>A sanctimonious old cod talking about sanctimoniousness.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>I was always brought up in the belief&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>That the evil you do lives after you.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>&mdash;&mdash;that the judge of good and evil is the Supreme Being, not Deputy Davin.  It is a pity that when Deputy Davin did try to be reasonable he allowed to creep into his address and revealed to this House his attitude of mind in regard to the community generally.  I suppose, like Hitler and Mr. Stalin and a number of others, he thinks that all men can be regimented and herded.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>That is what Mr. Barry thinks about the farmers.</P>
+    </Speaker>
+    <Col N="417" />
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>On a point of order. Was the Deputy in the House when I was speaking?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I suggest that Deputy Davin should treat the remarks with contempt.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Cogan is entitled to speak on the amendment before the House.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>That is what I am doing.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>He is entitled but he is not able.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>He is slightly out of his depth.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>I am replying to the point made by Deputy Davin that business people, farmers and other sections of the community should be herded into some sort of inquiry, treated as criminals until they succeed in proving their innocence.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>What did I say to deserve this?</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>I appeal to the House to approach the Bill in a different spirit and to realise that there are evils which have to be eliminated and which can be eliminated if there is reason and goodwill on every side but if there is an attempt to blackmail, browbeat or misrepresent a large independent section of the community the Bill will fail.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>May I inquire why Deputy Cogan has given the House a lecture on regimentation when it is perfectly obvious, this week of all weeks, that nobody has ever been so regimented as Deputy Cogan is being regimented by Fianna Fáil?</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendments Nos. 12, 13 and 14 not moved.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I move amendment No. 15:&mdash;</P>
+      <P>Before sub-section (4) to insert a new sub-section as follows:&mdash;</P>
+    </Speaker>
+    <P>(4)  Where an inquiry is held as a result of a request made under sub-section <Col N="418" /> (*) by any person or organisation, and it is decided in accordance with the preceding sub-section to hold private sittings such person or organisation shall be entitled to be present or be represented at such private sittings, but shall be required to treat all proceedings at such private sittings as confidential and not to be divulged to any other person or organisation.</P>
+    <P>In many respects this amendment is supplementary to amendment No. 9. Amendment No. 9 seeks to ensure that a person or organisation may ask the commission to hold an inquiry.  The commission may do so if it wishes, but if it fails to do so, it shall indicate why it refused to hold an inquiry and the reasons for such refusal.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I think the Deputy is speaking to the wrong amendment.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I am referring to amendment No. 9.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I was inclined to rule that this amendment falls with amendment No. 9 but I do not think it does.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I understand the Minister has undertaken to consider amendment No. 9.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I said that while I was considering some alternative procedure I was not prepared to agree that they must examine each case to the point of giving reasons.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I think the reasons might be given to an organisation.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Except that in order to give reasons there must be an investigation. That is my main objection.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>If a responsible organisation asks, it ought to be told why the commission refused.  I agree that there is a risk in having to give an explanation to an ordinary person, having regard to the eccentricity of many persons, if an inquiry was not held. This amendment seeks to ensure that if the commission decides on holding the inquiry in private the person or organisation should be entitled to be <Col N="419" /> present on the understanding that the proceedings are confidential and must not be divulged to any other person or organisation.  I would be satisfied if the Minister would meet the point by permitting a responsible organisation to be represented.  Unless they are present on these occasions they will not be in a position to tender the evidence which the commission thinks should be tendered, or to elicit information which may be helpful in the presentation of whatever case they desire to make.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I think it would be at the discretion of the commission as the sub-section is worded.  You cannot just give a statutory right to everybody to be present who has made representations. There might even be 100 persons and there must be some process of selection in accordance with the circumstances of the individual case and the character of the people making the representations.  As the sub-section stands I think the commission will have the right to say who is entitled to be present in the interest of the inquiry at a private sitting.  If there is any doubt about it I will have the wording reconsidered.  I do not think it is possible to do any more than leave it to their discretion, because if you give a statutory right to certain classes of persons to be present you can defeat the whole purpose of having a private session, and in many cases create real practical difficulties because of the number that might be involved.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I am satisfied if the Minister will look at the amendment from that point of view and write into the records here the view that if the organisation is a responsible organisation the normal procedure of the commission would be to permit a representative of the organisation to be present even at a private inquiry.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>My opinion is that every inquiry should be public and that a private sitting should only be necessary where matters that are not completely relevant to the inquiry might come out of a character which, if published, would damage the trade interests <Col N="420" /> unfairly or unnecessarily because of the irrelevancy of the matter.  If this danger arises and the commission is holding a private sitting, it must have regard to the persons entitled to hear the evidence.  I think the wording of the section as it stands gives the commission the right to say: &ldquo;We are going to hold a private sitting and at the private sitting So-and-so will be entitled to be present and hear what is going on.&rdquo;  If there is any doubt about that, I will have the sub-section reconsidered.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Is it not manifest that there ought to be discretion in the commission to refuse permission for anyone to be present except the firm or body which they wish to hear, because, if you do not provide that discretion, any private firm which does not choose to disclose intimate personal details to the world at large can be hauled before the commission by a trade union and the trade union may claim the right to attend every sitting as a primarily interested party and gain access to information which the firm does not want to give to the trade union or anyone else?  That applies very particularly to a private firm as opposed to a public company.  I feel that that situation might arise and that it is essential that there ought to be discretion left in the commission to say: &ldquo;The confidential financial information which we require to make up our minds as to the position of this firm and the reasons why it is doing what it is alleged to be doing is not for publication and we intend to treat it with the same confidence as the Revenue Commissioners.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I have had complaints that certain manufacturers have refused to supply A, B or C and gave some plausible reason.  When the manufacturer was questioned as to the reason for the refusal he said: &ldquo;I have got a report which indicates that the particular firm which applied for the supplies may be unable to pay or is not doing too well, but I am not going to say that that is the reason.&rdquo;  Some such inquiry might come up and in everybody's interest it would be fair that these facts should not be revealed <Col N="421" /> outside the circle which must know them for the purpose of the inquiry. What I contemplate is that at a public inquiry certain questions may arise and it will be obvious that the replies to these questions will be damaging to somebody else's interest or credit, and that for a short while they would go into private session to ascertain what the position was.  If they find it is not so they can raise the issue at the public inquiry.  If it is so, they need not.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>They can move into a private session?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I am sure Deputy Dillon knows from his own business experience that confidential information has been given freely on many occasions to trade union officials to justify a refusal to do this, that or the other in certain circumstances.  It is desirable in some of these cases that such information should be given.  I venture to suggest, and I think the Minister knows more about this than anybody else, that information has been given to trade union officials and they have gone back to the people responsible for asking them to make a certain representation and given that information as a justification for not proceeding any further with the claim.  I think that is desirable.</P>
+    </Speaker>
+    <P>Therefore, there is some precedent for this.  An organisation which makes an application is entitled to have representation. If, for instance&mdash;I am not sure whether this is correct&mdash;such an able advocate or representative of the milk producers as Deputy Cogan was associated with an application I am sure, if he was the advocate on behalf of the producers&mdash;I am only saying this for the sake of argument&mdash;he would be entitled to resent being refused a hearing before a competent court set up by this House.  I would sympathise with him in particular if he was refused admission.  I have a certain amount of confidence in him&mdash;it is a limited amount of confidence&mdash;in that if he got information as an advocate representing an organisation before a commission <Col N="422" /> or court of this kind he would treat it as confidential.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>You mean he would not tell it to the cows.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I would go so far in protecting those who are entitled to protection in a court or commission of this kind as to say that if anybody was admitted on behalf of an organisation and information of a confidential nature had to be disclosed in defence of the parties concerned I would be prepared to say that the court should have power to impose a penalty upon any person who would break that confidence in a serious matter of that kind.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Would Deputy Norton not leave this to the discretion of the commission?</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>So long as &ldquo;private&rdquo; does not mean a sitting composed exclusively of the members of the fair trade commission.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Exactly.  The commission at a private sitting would have the right to exclude or admit those whom it considered desirable to exclude or admit.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That does not exclude the possibility of the commission saying: &ldquo;At this stage we propose to hear the story alone.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Exactly.  One cannot exclude that possibility.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I am more concerned with the organisation rather than with the individual.  An organisation which wants to give evidence to the commission, even if the session is a private session, should never be excluded except for very grave reasons and only when the commission feels, balancing everything up, that it is desirable to hold the inquiry in circumstances which permit the members of the commission themselves to be in private.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I am strongly of the view that these inquiries should be in public except where very grave reasons exist.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I am prepared to allow the matter to stand over.</P>
+    </Speaker>
+    <Col N="423" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I will look into it.  The wording of the section may, in fact, give the commission that discretion. If not, we will provide a discretion.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I move amendment No. 16:&mdash;</P>
+      <P>In sub-section (4), line 7, after &ldquo;inquiry&rdquo; to add &ldquo;and at the same time to the association of traders or associations of traders if any in the trade concerned.&rdquo;</P>
+      <P>I think this amendment is self-explanatory. It is to ensure that the association of traders or associations of traders concerned will receive the report.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I could not agree to this amendment at all.  The Deputy is asking that a report from this commission, which must ultimately come before Dáil Éireann, should reach trade associations before it reaches Dáil Éireann.  I think that would be very objectionable.  Secondly, these reports may contain confidential information, information which even Dáil Éireann should not get because of the effect it might have upon private trading interests.  The amendment asks that such information should be published to the trade associations.  Every report will, of course, be published and available after it has been presented to the Dáil.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>That is what I am really aiming at.  I am not asking for the confidential report the Minister will get.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>In fact, the report which is published to the Dáil will be available both to trading associations and for public purchase outside.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>Will it not be available in the Stationery Office after publication?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It will.  I think that is as much as any trade association could reasonably expect.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>It frequently happens that papers laid on the Table of the House are not available for months <Col N="424" /> after that.  Perhaps with the gradual recession of the emergency further into the background such delays will not occur in future.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I do not think the delays are as frequent as they used to be.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>It would be very awkward if a report was laid on the Table of the House and was published in the Press but interested parties could not get a copy.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>There is no danger of a dummy presentation such as that which occurred in an argument I had with the Minister for Finance?</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>If there is an assurance that proper notice will be given, that will meet the case.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Both the trade association and the Dáil must have the report before any question of action by the Minister under Section 8 arises.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>When the report is printed for the Dáil will there not be certainly enough copies available then for all interested parties?  The Minister could, if necessary, ensure that extra copies would be printed.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is so.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question&mdash;&ldquo;That the section, as amended, stand part of the Bill &rdquo;&mdash;put and agreed to.</P>
+      <P Just="Center">SECTION 7.</P>
+      <P>Amendment No. 17 not moved.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I move amendment No. 18:&mdash;</P>
+      <P>In sub-section (3)  to delete paragraphs (b)  and (c),  lines 24 to 33.</P>
+    </Speaker>
+    <P>The purpose of this amendment is to preclude or prevent the Minister permitting publication of any information from a report which the commission may make to him on any matter which they have inquired into.  I think that the commission when considering a matter of this kind must realise the necessity for exercising care in publishing any matters which might be to <Col N="425" /> the detriment of the organisation or trader concerned.  Accordingly, I think that the power given to the Minister under the section to omit from a copy of a report information which, in his opinion, might injure the legitimate business interests should be given to the commission where the commission feels that a particular matter which is not relevant to a proper understanding of the report might in any way injure the business interest or the organisation concerned.  We should have sufficient confidence in the commission to permit it to exercise its discretion in the matter.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I think the Deputy is suggesting something undesirable.  He suggests the commission should withhold from the Minister information which might be essential for his consideration of the report.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>No.  The Minister has taken the wrong view.  We suggest there might be information that it would be desirable for the Minister to have but undesirable to broadcast to the public.  We suggest it is the commission that should decide what should be broadcast and not the Minister.  If we have not made that clear in the amendment that is our fault.  We want to ensure that where there is confidential information it should be the people who hear the representations as to why that information is confidential who should decide rather than the Minister who comes into the matter at a later stage.  The commission's report will be sent to the Minister but there might in addition to that&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>A supplementary report.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>&mdash;&mdash;be observations on the report submitted by the commission to the Minister.  That would be permissible.  In other words, it would be the persons who had themselves made the investigation and were fully aware of the internal circumstances who would decide whether publication should be prohibited, rather than the Department official coming in on the examination of the report afresh and anew.</P>
+    </Speaker>
+    <Col N="426" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Let us look at it from the point of view of the Dáil.  What I am providing is that the commission will give its full report which may include statements of the actual profits made by individual firms over a period of time.  If the Minister deletes anything from it he must give a statement to the Dáil indicating the character of the material that he has deleted and, as I say, the report would indicate: &ldquo;the firms engaged in this business made excessive profit&mdash;&mdash;&rdquo; or something of that kind, and at this point we delete the actual figures for individual firms.  But if the commission gives two reports, one report for publication and the other report not for publication, the Dáil would not have the same information as to the deletions which had appeared in the first report.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Would the Minister concede this much?  Any information could only be excluded which the commission, in its report, indicated as being unfit for publication.  Of course, we all know these things are not dealt with by the Minister personally although he takes responsibility.  I visualise the officials of the Department taking the report and not being able to assess what is really confidential to the trade in the report and what is not.  I think the people who have actually been on the preparation of the report are the people who would be able properly to make that assessment. Therefore, what I think Deputy Cosgrave wished to indicate was that it would be the commission that would decide, and if the commission indicated in their report something to the effect that: &ldquo;having regard to our investigations we are aware that the following would be in the nature of true trade secrets and, therefore, the Minister should submit a summary of...&rdquo; and so forth.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>On the whole I think it is better to do it this way.  I want the commission to work out a report without any omissions at all, giving a fair picture of the circumstances of the trade as they found it and basing their recommendations as to the action to <Col N="427" /> be taken upon that picture.  What is suggested is that the report is drafted and at that stage the examination of it is undertaken again with a view to ascertaining whether its publication unabridged would be unfair to any trade interest.  I think it is better that it should not be done by the people who actually made the report and that it should be done by somebody coming fresh to it provided that person indicates later the nature of the material being deleted.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>Would the Minister not think it would be a good idea to go this far: that when the commission send this report they should send in either recommendations or suggestions as to what material they feel should not be for publication?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>In practice I am almost certain that will be done but we cannot put that in the Statute.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>I can see the force behind the arguments made by Deputy Sweetman and Deputy Cosgrave.  They feel it would be of assistance to the Minister if the people who actually did the inquiry themselves were more or less the people who would suggest what is the nature of the material that should not be published.  I find myself in this difficulty, that I do not want to deny to the Minister what I feel is his inescapable duty, that is, the decision as to what will ultimately be published and what will not be published. I know it will be his responsibility to discuss in the Dáil issues germane to the report that he was not able to publish.  I feel there should be some compromise found whether it is to be found by way of the design of the previous report or by actually amending it.  If the report received from the commission was so designed that it would give its observations or suggestions as to what would not be, in the interest of the trade, for publication in the Dáil, it would probably get over the difficulty.  I am trying to find a compromise.  I do not think you can find it in amending the report.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That would be making the commission do two jobs.  Normally <Col N="428" /> the commission would prepare their report solely with the aim of giving an accurate picture of the trade they are investigating.  Having done all that it is suggested they should go over the report with a view to seeing what parts of it should not be published in fairness to the trade concerned.  I think that is a separate job and that it would be better done by somebody coming fresh to it.  I do not see any objection to giving the commission the right to make suggestions in that regard, to providing for consultation with the commission before deleting any portion of the report.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I think the commission should at least know beforehand what parts the Minister proposes to delete.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I will consider whether there is any objection to such a phrase as &ldquo;that the Minister after consultation with the commission&rdquo; being inserted.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I move amendment No. 19:&mdash;</P>
+      <P>In sub-section (3), paragraph (b), line 24, to delete &ldquo;It shall be lawful for the Minister to&rdquo; and substitute &ldquo;The Minister shall.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is making the Minister legally liable for any damage he may do.  I do not think we could have it.  The Minister must be entitled to exercise his opinion but he cannot be made liable for the damage if he publishes too much.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I do not think there is a tremendous amount in this matter.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I cannot agree to this at all.  As it stands, I have the right to publish information at my discretion, but to say I must do it raises immediately the whole question of what the consequences will be.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I do not think you could do that.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>It is forcing him to omit, but I think the Minister must be left with discretion.</P>
+    </Speaker>
+    <Col N="429" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I think it must be at his discretion.  The same applies to the next amendment.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>Yes, I think it falls, too.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 20 not moved.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I move amendment No. 21:&mdash;</P>
+      <P>In sub-section (3), paragraph (b), to delete all words after &ldquo;person&rdquo; in line 27, down to the end of the sub-section.</P>
+      <P>As that sub-section stands, the two parts are really contradictory because the Minister, first of all, says he will not publish any information which would conflict with or injure legitimate business interests.  He then says: &ldquo;I will do it only if it is essential.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Obviously you cannot withhold from the Oireachtas information which is essential to the understanding of the report.  In this case you have to balance the damage you may do to the trading interest with the damage which is, in fact, being done to the public interest.  We can only justify the withholding of information which might damage a trading interest if its publication is not essential to the understanding of the position and the reason for action. If publication is essential to enable the Dáil to understand the circumstances that have arisen and why action is required, it must be published, even if it has the effect of doing that damage.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The damaging information may, as the section stands, be published even though no action is required.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is true but the Minister&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I can see the Minister's case that if action is required the information must be published if it is necessary in order to take the action.  That is done on the basis that the public good overrides the private good.  But where no action is required I cannot see any justification at all.</P>
+    </Speaker>
+    <Col N="430" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The Deputy is mixing the Minister with the Oireachtas. Ultimately&mdash;in theory at any rate&mdash; the decision regarding action is a decision of the Dáil.  The Minister may refuse to initiate a Bill, under the next section, but the Dáil would certainly be entitled to have the information which would enable it to decide whether action was necessary and so raise it independently of the Minister.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>Is not that slightly naive?  Where the Minister takes a course in which he will not initiate discussion and will not take action, surely he does not think some Deputy is going to take action in the teeth of that?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That he should doctor the report so that no one is going to press him?</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>No, no.  Where no action is necessary there should be no necessity to publish information that might have a wrong effect.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Remember that this says &ldquo;information which is essential to the understanding of the report&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>How can you equate private good against public interest when there is no action going to be taken on the particular matter?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Look at the temptation you are giving the Minister.  If he is not going to do anything about it, he withholds the essential information.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I see the Minister's point that technically a private Deputy could also bring in proposals for legislation based on the report.  I had not spotted that, but I am not happy about it.  We will have that on another day. I move to report progress.</P>
+      <P>Progress reported; Committee to sit again.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies Business. - Workmen's Compensation" RHead="(Amendment) Bill, 1952&mdash;Second Stage (Resumed)">
+    <Title>Private Deputies Business. - Workmen's Compensation (Amendment) Bill, 1952&mdash;Second Stage (Resumed).</Title>
+    <P>Question again proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>As I stated on Wednesday, I hope this Bill will be dealt <Col N="431" /> with in a non-Party manner.  With a view to avoiding repetition, I am not going over the details which have been put by Deputy Norton and Deputy Larkin on the merits of this simple Bill.  I look upon the Minister's attitude last night as somewhat cynical regarding our reason for asking for 90/- a week as payment for injured workers.  In 1934 workers were paid 30/- when injured; this was subsequently increased to 37/6 and in 1948 to 50/-.  Even at 50/- the purchasing power of money then was worth only 22/6 as compared with 1938 and 1939. Even if the 90/- we are now asking were paid, the purchasing power, according to the Government's own figure, is only equal to that of 40/6 as compared with 1938/39.</P>
+      <P>We are not satisfied that even 90/- a week is a proper figure to ask for injured workers to-day.  Quite a number have been drawing £6 to £8 a week and the moment they are injured they are thrown back to 50/-.  We feel that 90/- is not doing justice to them, but we came to the conclusion that it was better to fix a figure on which it would be possible to get agreement rather than ask for what most of us desire to get for them.</P>
+      <P>We have at the moment quite a number of members involved in workmen's compensation.  It may surprise some members of the House to know that some of these workers have been drawing it for three or four years and some of them for six or seven years or more. These are men who were earning good wages and who have wives and families.  It is hardly necessary to stress that the condition of those workers' homes at the moment is a very distressing one.</P>
+    </Speaker>
+    <P>Someone mentioned last night that the insurance companies would come into this.  Of course they will, and they are rather interested in it.  I looked up the figures for the amounts collected in this country by non-nationally-owned insurance companies. The latest figure I have is for 1951, when they collected £8,432,000.  From 1944 to 1951, inclusive, they have collected £49,141,077.  That should convince <Col N="432" /> anyone, in view of the figures Deputy Larkin gave last evening about insurance companies dealing with workmen's compensation.  It is little surprise to me to read in the <i>Cork Examiner</i> this week a notice of workmen's compensation insurance reduction of 20 per cent.  The advertisement reads: &ldquo;20 per cent. reduction in present premium now guaranteed to industrial concerns, builders, creameries, pit owners and all others who pay this type of insurance; obtain quotation now; maximum security at minimum cost.&rdquo;  I suggest to the House that, in asking for 90/- and in asking for an increase on the amount at present paid to widows and orphans of those who meet with fatal accidents, our demand is a very moderate one indeed.</P>
+    <P>It might be better to bring home to the House what that means.  There appeared in the newspapers on the 16th of last October the following news item: &ldquo;£600 for a widow and nine children&mdash;The widow and nine children of John O'Halloran, carpenter, who was killed in May when he fell from a scaffolding at the Limerick mills of Rank's, Ltd., were awarded in the Circuit Court to-day £600 workmen's compensation.  Mrs. O'Halloran will get £186.&rdquo;  That is something to make one look around with concern.  Here is a worker, probably earning £8 a week, and because he falls and is killed in the course of his work, his widow gets only £186 out of the total of £600 maximum which she could get under the Workmen's Compensation Act.</P>
+    <P>I hope this Bill will be treated as a non-Party measure.  We have certain other amendments to the Act and they are long overdue.  The Act is of very old standing and was built up in the years of conservative Governments both here and outside the country. I hope there will be no division of opinion about it.  There are other items we are anxious to have dealt with.  One is the right of workers to come under the common law.  I know one case at the moment of a man injured over 18 months ago.  He has been lying in hospital on his back and cannot stir. We are satisfied that that man met with the accident by reason of carelessness <Col N="433" /> and defective machinery, but under the law he cannot get workmen's compensation, so he has to live on what the national health authorities provide for him while his case is being decided. We claim that that man should not be deprived of coming within the scope of workmen's compensation payments, even if he were to take weekly payments.</P>
+    <P>I know another man who was very seriously injured and who accepted workmen's compensation before consulting anybody, with the result that he cannot now proceed under the common law.  I was a witness in a case in which a docker was instantly killed when a sack of grain fell upon him.  An action was taken under the common law and a verdict in favour of his widow and children secured, but the insurance company appealed to the Supreme Court and the case was thrown out, because that man had taken a risk which he should not have taken in carrying a sack of grain up a plank.</P>
+    <P>We are anxious to keep these cases out of court but we are not asking for that at the moment.  When workers who have fallen sick and are unable to work for six months resume work, they may meet with an injury after a couple of weeks or months, and in that case the worker cannot get even the 50/- under the Workmen's Compensation Act because the compensation is based on his average earnings over the previous 12 months.  We are not making any claim in that respect at the moment.  We confine ourselves to three points: An increase in the weekly payments to 90/-; an increase in the present payment to the widows and orphans; and the right of workers who are injured to proceed under the common law whenever they think such a course necessary or desirable. Deputy Norton and Deputy Larkin have put our viewpoint in a reasonable way and I hope that the Bill will be dealt with on a non-Party basis.</P>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>Everyone will sympathise with the objective of this Bill. It is, however, desirable that the whole matter of workmen's compensation should be lifted out of the chaos in which it is at present, that the <Col N="434" /> provision for workers who are disabled because of accidents should be incorporated in our social service code and that the worker who is incapacitated through injury should enjoy the same security and the same system of compensation and support as is provided under the National Health Insurance Acts.  It is wrong that when a worker finds himself unable to work because of injury a complicated legal procedure has to be set up to secure justice for him.  The present code is altogether too expensive and complicated.  Of the amounts paid by the employer, either directly or through his insurance company, for the compensation of a worker, a very large percentage is diverted into the pockets of legal gentlemen and perhaps also of members of the medical profession.  In some cases the worker who has received the injury gets the smallest portion, so that there is need for reform of the whole code.</P>
+      <P>If a man who, by the very nature of his employment, must depend for his existence upon the labour of his hands, is incapacitated, it is essential that he should be provided for and adequately provided for.  There is provision in the Social Welfare Act for the man who is unable to work by reason of sickness or ill-health and there is provision for compensation by the employer for men who are incapacitated through injury in the course of their employment, but, between the two cases, there is wide scope for debate and discussion, and for legal proceedings as to whether a man should be compensated under the Workmen's Compensation Act or under the National Health Insurance Act. There is wide scope for endless legal proceedings and expense and it should be cleared up.  There should be clear-cut and adequate provision under a State scheme for such a man and that means that we should aim at the nationalisation of workmen's compensation insurance.</P>
+    </Speaker>
+    <P>I am not one of those who frequently advocate the extension of socialisation or nationalisation, but in this case I think it is clear that the worker's interest and the employer's interest would be better safeguarded in a national comprehensive scheme of <Col N="435" /> insurance which would cover all types of inability to earn a living.  I acknowledge&mdash;and I do not want to be misrepresented in this&mdash;that, under the workmen's compensation code, the employer is absolutely liable for the compensation of the worker and I am not advocating that that liability should be transferred from the employer directly to the State.  What I am suggesting is that the employer, instead of being forced to go to some private financial firm or insurance company, can safeguard himself by complying with the Social Welfare Act which provides for the stamping of a card and the making of a weekly contribution.  In other words, the employer's contribution to the insurance of his worker against accident should be combined with the insurance under the national health insurance regulations.  That, I think, would remove a great deal of unnecessary legal expense.</P>
+    <P>If that were done, it would mean in effect that the worker who receives an injury in the ordinary course of employment, and not through any neglect on the part of his employer&mdash;because there, I think, the common law would come in, though I am not quite sure&mdash;would have no difficulty in claiming compensation. In the ordinary course of events, the worker who is entitled to benefit under the existing code should be entitled to benefit under a comprehensive scheme of social insurance and to draw his benefit directly from the Department of Social Welfare.  It would follow, of course, that the employer would not enter into it.  The question would simply lie between the worker and the Department of Social Welfare.  On becoming incapacitated, he would make his application to the Department of Social Welfare, just as in the case of illness, and it would be for that Department to decide whether his claim was just or otherwise.  In that decision, again the consideration would be whether he was really incapacitated or not; it would be purely a question of medical examination.</P>
+    <P>As it is at present, a great many other issues are raised.  There is the issue whether the person received the <Col N="436" /> injury in the course of his employment. There are a great many questions of fact which, in case of disagreement, can only be settled in court.  I think that all of that is unnecessary.  Surely our aim should be to ensure that a man who is deprived of ability to earn his living, whether it be through illness or accident, should have a direct claim on the Department of Social Welfare and should be awarded a weekly benefit on an adequate scale.  That is, I think, the lines along which reform should go.</P>
+    <P>As it is, the employer is liable entirely for any injury which may be received by his employee during the course of his employment.  If the employee receives an injury, perhaps a serious injury, outside the ordinary course of employment, he is not entitled to any benefit under the workmen's compensation code.  Of course that leads naturally to legal proceedings on a very large scale and on a very expensive scale.  A great deal of the work of the Circuit Courts is confined to workmen's compensation cases because there is very often a conflict of evidence as to the time at which the accident occurred and also as to the extent of the incapacity of the workman.  I think if the entire code were reformed, all that difficult and expensive litigation would be eliminated. It would, of course, be a question for consideration by the legal branch of the Department of Social Welfare as to the extent of the workman's incapacity.  That is a matter which could be settled administratively and there would be no need for legal proceedings. It would eliminate legal action in regard to this whole matter of compensation for injured workmen. The legal profession have ample and adequate scope for earning a livelihood without cutting in on the compensation that is awarded to the ordinary manual worker.</P>
+    <P>There are other aspects of this question which make the present system undesirable.  There is the question of the settlement of claims by means of lump sum payments.  There you have a certain amount of haggling and bargaining carried on between representatives of insurance companies and representatives of the workers.  You <Col N="437" /> have workers' claims being bought and sold, if you like, in the same way as a beast is bought and sold in the market.  There is the dividing of the last £5 or £10 or perhaps even of smaller sums though it is sometimes hard to get the legal profession to consider anything less than &ldquo;tenners.&rdquo;</P>
+    <P>There is a social evil in regard to the whole matter of settling claims by lump sum payments.  There is a temptation on the part of the worker to exaggerate a minor injury in order to receive a lump sum payment.  If it is a minor injury, he will go to a solicitor and he will probably be told that his injury is much more serious than he thinks, that he will want to nurse it for a considerable time and that, if he does, it should be possible to secure settlement by way of a lump sum payment.  Of course, portion of that lump sum would have to go to the solicitor and portion to a medical man.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>The Deputy must bear in mind that the whole thing is determined by medical evidence in the end.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>In cases decided in court there is often a conflict of medical evidence.  That all gives scope for haggling and bargaining in regard to the worker's claim.  If everything is decided by medical evidence, how is it that quite a large number of cases are settled out of court after a considerable amount of bargaining?  That is something which is entirely undesirable. If the State undertakes the whole liability, having collected a weekly premium or contribution from the employer then I think that traffic will be, to a great extent, eliminated. I think it is not desirable or it should not be even possible for the worker to commute a weekly benefit for a lump sum payment.  If this whole code is reformed and the compensation of workers is taken over by the Department of Social Welfare, that should not be permitted.  The worker would be entitled to a weekly benefit so long as he is incapacitated and there should be no question of a lump sum compensation. I think there is a strong case for reform of the entire code, both from the workers' point of view and the employers' point of view.</P>
+    </Speaker>
+    <P>
+      <Col N="438" /> There are employers who, on account of the accidents to their employees, find it difficult to insure their workers. Insurance companies may say to an employer: &ldquo;You have had a considerable number of claims against our company over the past one, two or three years and for that reason we will not cover your liability.&rdquo;  As we all know, insurance companies are to a great extent linked together.  They have some kind of a protective trade union or something like that and if an insurance company once refuses to accept the liability of an employer others are also inclined to refuse except they are paid very high premiums.  The whole code at present is open to very, very grave abuse on all sides.  It should not be possible for the medical profession, the legal profession or insurance companies to make substantial profits out of the misfortunes of the ordinary workers.  Whatever money is provided by way of compensation for workers should go almost entirely to the workers, less, of course, necessary administrative expenses.</P>
+    <P>Now that we have established a social welfare Department to deal with national insurance against ill-health and all other forms of hazard that the worker may have to face, I think it would not involve too great additional administrative expenses to transfer compensation insurance to that Department.  I would ask both the Government and those who are sponsoring this Bill to think along those lines.  If they do that I think we will eventually make our social welfare services much better than they are to-day and much more comprehensive.</P>
+    <P>There is, of course, the point that it is the employer and the employer alone who should bear liability for the compensation of the worker because the existence of that liability on the employer renders it necessary for him to take precautions in regard to the safety of the worker.  That might have been all right as the Act was originally conceived but when it is possible for an employer to farm out his liabilities to insurance companies that incentive to safeguard the workers no longer exists. I cannot conceive in a Christian society that any employer would expose <Col N="439" /> his worker to unnecessary risks.  If he did I think the common law should operate in that case in regard to compensation.</P>
+    <P>I would ask the Government to set to work immediately on an amendment of the Social Welfare Act of last year so as to incorporate in it the provision for workmen's compensation as a result of accidents and whatever increase is necessary in the contribution made by employers.  I think that the employer who has got to pay very substantial sums by way of premium to an insurance company would very much prefer to pay that sum in compensation by way of contributions under the Social Welfare Act.</P>
+    <P>I hope the Government will face this problem along the lines I suggested.  I think it is the best way to solve it.  I think it is time to eliminate from our workmen's compensation code and from the social services excessive profits by outsiders who have no interest whatever in either the employer or worker but just want to get as much as they can out of them.</P>
+    <Speaker pid="ColmGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>Having listened to this debate, it appeared to me that there is abundant evidence that this whole code requires revision.  I am all with the Labour Party that an increase is necessary to the worker who is the unfortunate victim of an injury which keeps him out of work.  I think it is unfair that a man in receipt of £6 or £8 per week should suddenly come on to 50/- a week.  From my own experience in the City of Dublin I find that is a grave hardship.  Any effort that can be made to ensure an increase in that rate would be a good step and a necessary one.</P>
+      <P>Deputy Hickey is greatly concerned about premiums going out of this country.  He said that in one year £8,000,000 went out of this country through non-national insurance companies. We all know that.  That is going on for years.  What I would like Deputy Hickey to realise is that these companies give very good employment to Irishmen and give very good terms to their agents.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>So well they may.</P>
+    </Speaker>
+    <Col N="440" />
+    <Speaker pid="ColmGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>We should not forget that.  Many young men go into the insurance business.  They go into Irish insurance companies, too, but we have got to realise that there is a very good outlet for our young people in the insurance business.  I think we should not get away from that fact.  When we try to attack the non-national insurance companies we should realise that they give very good employment here to our young people.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>The Deputy seems to be travelling very wide of the Bill.</P>
+    </Speaker>
+    <Speaker pid="ColmGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>There are good employers and bad employers.  There are good employers who pay the increased premiums so that their employees will get compensation equal to a full week's pay.  Unfortunately, there are not so many of those.</P>
+      <P>Having regard to my own experience, I am with the Labour Party in regard to the question of increasing the amount paid to the dependents of the victim of a fatal accident.  I think £600 is a very small amount to give to any person.  Deputy Hickey mentioned the case of somebody with ten children.  I think £600 is ridiculous in a case like that.  I had one experience myself of a very prominent sporting personality, a colleague of mine, a young married man with four children. He met with an accident.  His widow was left with the paltry sum of £600. I took a very poor view of that.  A few of us got together&mdash;I am not boasting of this fact&mdash;and we organised a function which brought that sum well over £1,000.  We felt it our duty.  I felt that was a very small amount and I have not changed by view since.</P>
+    </Speaker>
+    <P>Any effort that can be made in this House to revise the whole code so that the worker would get a decent sum when he is injured and be given an increase in the amount payable would be a step in the right direction.  I am not going into the legal aspect of the matter.  Deputy Cogan seemed to be rather severe on the legal and medical professions.  I do not think it is right to say that they go all out to make huge sums of money at the expense of persons who are injured. The law is there and they do everything they can for their clients <Col N="441" /> whether it is the insurance company or the person who is injured.</P>
+    <P>I do not think the legal profession try to make money out of this.  The code is there and they are certainly doing what they can to get their share of it.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>In fact, the law is that no sum for legal costs can ever be taken out of the compensation payable to a workman.</P>
+    </Speaker>
+    <Speaker pid="ColmGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>That is the impression which one would get from the tone of the debate here.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I agree.  Deputy Cogan, as usual.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>There is a split between Deputy Cogan and Deputy Cowan.</P>
+    </Speaker>
+    <Speaker pid="ColmGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>Deputy Davin is longer in this House than I am.  He is well used to splits.  I am making the case as I see it.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>You will get slapped on the pants over the foreign insurance companies.</P>
+    </Speaker>
+    <Speaker pid="ColmGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>Deputy Davin has just sufficient intelligence to keep up his own end in this House, without trying to help me.  I am satisfied, as I said earlier, that the whole question of workmen's compensation is not helping the worker at the present time. There is a case for this increased payment when a man is injured and certainly there is a great case for the increased compensation payable to a widow who is left with a large family. I think every Deputy in the House will agree with that.  I think that anything that can be done&mdash;whether it be taken over by the State or by any other method&mdash;to bring about an improvement in the whole code of workmen's compensation will be welcomed on all sides of the House.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>It is refreshing to note the approach that has been made to this important measure by Deputies in this House, irrespective of Party. It reflects the Dáil in a new light. For the odd time it has an opportunity of displaying its ability as a <Col N="442" /> debating assembly it is refreshing to see that the members of the House apply their minds in a common-sense way to a problem that is of common interest to everybody in the country.</P>
+      <P>This measure deals with workmen who are injured in the course of their employment&mdash;in other words, the soldiers of our industrial and agricultural army.  When we come to discuss the wounded soldiers of any particular army we become enthusiastic on their behalf, but common-sense, and not enthusiasm, is asked for in relation to the matter of workmen's compensation in this country at present.  I am sure everybody in the State recognises what an important function it is and that it calls for closer co-ordination and integration, eventually, with the social welfare code.  It will take a long time to have it integrated, but we think it should be integrated with the social services of the country.</P>
+      <P>This measure does not appear to go fundamentally into the whole matter which will eventually have to be dealt with.  This Bill deals, really, with a matter of urgency, based upon the social framework, such as it is, but relating that framework to the existing cost of living and the value or the lack of value of money.  Consider the case of a man who is earning £8, £9 or £10 a week and who, in the course of his services, is rendered <i>hors de combat.</i> He becomes a hospital patient.  His wife and family immediately become dependent on whatever they are entitled to receive from workmen's compensation.  They now receive £2 10s. per week instead of the £10 which they received while the father was able to work.</P>
+    </Speaker>
+    <P>The difference which that means in a home can readily be appreciated.  That man may have four, five or six children. They will be able to struggle along the first week because there may be a few bob left over from the previous week. It is well known, however, that the average worker in this country, and in other countries, has no bank balance and is not able to put money by for the rainy day.  He lives from day to day. That is the best he can do for his family.  He is a useful member of the community because he spends the money which he earns.  In 99 cases out <Col N="443" /> of 100, when a man falls from a scaffolding or has an accident in a factory he has no money saved&mdash;because he has not been able to save it&mdash;to help him over the period while he is out of work through injury.  He has to depend solely on what he gets from workmen's compensation.</P>
+    <P>The claims in this Bill are moderate. There have been rare cases in which good employers who valued their workmen continued to pay full wages during the time the workmen were absent from work as a result of injury which they sustained during the course of their work.  That, indeed, is a very fine practice and it would be well if it were more generally adopted, but the fact of the matter is that it is infrequent and all too rare.  A case could be made for the right of a workman, who gave of his best to his employer while he was fit, to full-time wages during his absence from work because of injury sustained during the course of his employment. After all, such a man has, in a few short minutes, lost his health and has to suffer pain and maybe operations and hospital treatment.  In addition, he suffers the loss of his employment during his incapacity.  It is far more costly to him to be sick than to be at work.  No attempt has been made to help him in such circumstances except a very parsimonious workmen's compensation provision.</P>
+    <P>When the Military Pensions Bill was being debated in this House Deputy Cowan remarked that the framework of the original Bill was governed by a mean spirit and that it was devised in a mean atmosphere.  If that is a good parliamentary word then I think we could apply it to the people who framed the original workmen's compensation legislation.  They had a small-minded approach to the requirements of a man who was injured in the service of industry, agriculture or commerce in this country, and of his family who had to carry on while he was lying on the flat of his back.</P>
+    <P>Deputy Hickey mentioned a case that happened quite recently in Limerick City.  I intended to refer to <Col N="444" /> it myself because the young man who was killed in that accident was personally known to me, as is his family. They are a long line of carpenters and joiners in Limerick.  In the prime of his life he fell from a scaffolding.  He left a wife and nine children.  I may say that it is one of the most tragic and poignant cases that I have ever come across.  Of course, there is no question of workmen's compensation in his case, but what about his wife and nine children who were left completely unprovided for?  Not one of the children is working.  The eldest is, I think, about 16 or 17 and the youngest is only a baby.</P>
+    <P>Under the workmen's compensation code, the maximum that could be awarded in such a case is £600&mdash; divided, by some mathematical process, between the whole family from the youngest to the mother.  The mother got something like £180 for the loss of her husband and to enable her to face the world and to rear that large family.  Surely that amount of compensation does not adequately enable her to cater for the future of her children nor compensate her for the shock and the blow she has suffered as a result of the tragic death of her husband.  I think that that figure of £600, which is the maximum which the courts are allowed to award in such cases no matter what number of dependent children there may be in the family, is scandalously low compensation. Surely there ought to be a <i>per capita</i> arrangement.</P>
+    <P>The limitation on the amount of compensation is miserably small&mdash;£300 for one adult person and £600, irrespective of the number of dependents in family.  I think that that is crying out loudly for redress.  The measure which is now before the House seeks to redress the position.  I am sure there will scarcely be any disagreement in the mind of any Deputy who examines the matter as to the figure of £1,800 which is to be the maximum that can be awarded in certain circumstances.</P>
+    <P>In this case we are suggesting £1,800 in substitution for the now obsolete figure of £600.  If one were to take the O'Halloran case you would have under our proposal ten persons sharing in that <Col N="445" /> sum of £1,800 for the loss of the breadwinner who, perhaps, had been bringing in £8, £9 or £10 per week.  I am sure no one in the House would suggest that the figure in this Bill is unreasonable.  The idea is that it should be there until such time as suitable amending legislation is brought forward integrating social welfare and the workmen's compensation code.</P>
+    <P>The Bill also seeks that the weekly compensation should be raised from 50/- to 90/-.  We have spoken about men who are earning £8, £9 and £10 per week.  In their case, it is surely unfair to ask, as happens at the present time, that the weekly income should drop down to 50/-.  Where that happens, a family may be able to carry on for the first week on the 50/-.  In the second or third week they may succeed in getting some credit from the local shopkeeper because they have been good customers in the past, but in the fourth week the welcome for them will not be so warm.  The shopkeeper will not want to continue giving credit.  He will naturally ask, who is going to pay him, with the result that that family has to go on short rations.</P>
+    <P>How can a man who is ill, with a wife and family of three or four children, live on 50/- a week?  The most they can do is to live in meagre comfort for about three days a week. I believe that if we had a different approach there could be a good case made for giving the man 100 per cent. of what he had been earning.  You have to consider that in these cases a man has lost his health, and hence will have more expenses to meet than when he was in his employment.  We know that in many cases good employers give full pay to their workmen during illness because their one anxiety is to get their health restored and get them back to work as soon as possible.  I hope that the time will come when the State will follow the example of the good employer and pay its servants engaged in industry and agriculture full wages during the period when they are recuperating from illness.  We are asking that 90/- take the place of the 50/-.</P>
+    <P>In view of the changes in the value <Col N="446" /> of money that, I think, is not an unreasonable request.  We are particularly interested in this matter of weekly compensation payments because of the plight which families find themselves in when the breadwinner of a family is injured or is out due to illness.</P>
+    <P>As regards Section 8, you will find employers who, perhaps, feel a sense of guilt, due to their negligence in not providing proper protection for the machinery that led to serious accident, coming along and offering consolation and help, in their own interest of course, to the injured workman by trying to get him to accept workmen's compensation.  The man, then in a sick and helpless condition, is often too ready to accept the offer which is made to him.  One may say that Irish workers have a dread of the courts because their experience of them, generally speaking, has been to their disadvantage.</P>
+    <P>That is exemplified by a case that I heard of many years ago.  It was that of a chap who was working on a scaffolding and fell.  He came down on a heap of debris which acted as a sort of cushion for him and saved him from meeting with very serious injury. He was knocked out for a while.  He went to a solicitor and got him to take up his case with an insurance company. After a good deal of correspondence, he eventually succeeded in getting £60 as a settlement.  At the end of a long-drawn out business he went to see his solicitor and was then told about all the letters that had passed between the insurance company and himself. Finally, the solicitor presented him with his bill for £30, and handed this chap, who had fallen off the ladder, a cheque for the balance&mdash;£30.</P>
+    <P>I think that case is typical of the reluctance that many workers have of going to court.  There is a saying that the wise man keeps away from the courts.  We know, however, that the courts are there as a sheet-anchor and a protection for our people.  On that question what we are seeking is to ensure that the worker ought to be made aware at the time of an accident of his rights at common law.  He is more likely to do better for himself if he exercises that right.  I understand <Col N="447" /> that a recent decision of the courts has been to the effect that, if an injured workman once avails himself of the Workmen's Compensation Act, he is debarred from seeking further remedy at common law.  That is a matter which, I think, could be easily adjusted and ought to be.  The injured workman ought to be made aware of the fact that, in the case of an accident, he has rights at common law and should not prejudice them by accepting a lump sum under the Workmen's Compensation Act.</P>
+    <P>This Bill is a simple one.  It was admirably presented in the House by Deputy Norton, and even at this late hour I should like to congratulate him on the reasonable and fair-minded way in which he put it forward for acceptance by the members of the House.  I want to support the appeal that has been made by Deputy Norton and other members of our Party that a Second Reading be given to this Bill so as to speed up the enactment of this very necessary and urgent legislation, the absence of which is causing such great hardships to injured workmen at the present time owing to the meagre nature of the compensation that is available to them.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Would the Minister say when he will introduce his Bill?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I undertook to introduce proposals before Easter.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>That is, proposals dealing with the compensation itself?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes, compensation.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>And the matter dealt with in Section 8?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>May I put this to the Minister as a suggestion, that he would agree to give this Bill a Second Reading; we might agree on the amount for weekly compensation in non-fatal cases and agree to amend Section 8 of the Bill and leave over for consideration later the question of increasing the lump sum payments in fatal cases?  Is the Minister prepared to agree to that?</P>
+    </Speaker>
+    <Col N="448" />
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I do not think I get exactly what the Deputy has put to me.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Sympathy has been expressed with the object of this Bill. The purpose of the Bill, quite frankly, is to do three things, recognising that this is not a settlement of all the problems involved in workmen's compensation and that a longer and more detailed Bill must ultimately come and perhaps it will be a Bill to ensure State management of workmen's compensation. Would the Minister now be prepared to agree to give this Bill a Second Reading, allowing the Bill to increase workmen's compensation to a maximum of £4 10s. a week, providing for the amendment suggested in Section 8 of the Bill and leaving over to a later date and for consideration in connection with the Minister's projected Bill the question as to what the compensation should be in fatal cases and, of course, you can leave over the income limit, if necessary, also?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am afraid not, because the thing I want to consider in particular is what the compensation should be and whether it should be on a basic rate or whether we should have a basic rate, plus compensation for dependents as we have in the other social welfare schemes.  It would be impossible for me to agree at this stage to any sum, no matter whether it was 90/- or 70/- or anything else, until we give consideration to that matter.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>If the Bill is to continue we can discuss it further, but I can see nothing wrong with the idea of increasing the amount of weekly compensation as provided for in this Bill, leaving over for consideration at a later date whether we would or would not alter the structure in such a way as to provide for a payment for a single man with an allowance in the case of a married man for his wife and children. The Minister has to consider the risks, from the worker's point of view, of resorting to that so long as you allow workmen's compensation to remain in private hands, because there is the danger, and this danger is recognised by trade unions, that the employer will want to employ single men <Col N="449" /> because the premium is going to be cheaper in the case of single men than it will be when he is covering the workman, his wife and his children.</P>
+      <P>At first blush I was tempted towards the idea the Minister has in mind.  I am still tempted towards it and still in fact in favour of it provided the State is administering the scheme, but if it is administered privately by private insurance companies and a private employer has to deal with an insurance company the private employer will say, if there are 60 men looking for jobs and he wants ten men, that he will take ten single men.  The married man will say: &ldquo;I was too dear for workmen's compensation purposes.&rdquo;</P>
+      <P>I do not think, at this stage, the fact that we are having a fixed payment in workmen's compensation of a maximum of 90/- a week need prevent the Minister at a later stage altering the whole structure if the State is going to administer the scheme.</P>
+      <P>All I am trying to do is to step up the 50/-, which is grossly inadequate to-day, to 90/-, and I do not think 90/- represents reasonable compensation. Frankly, I would prefer to have the workman insured for three-quarters of or his whole wages, no matter what that would be, and let the premium be based on that, having no maximum.</P>
+      <P>I would suggest to the Minister that there is not necessarily a big gap between us on this matter because we could both agree to approach the matter of covering the wife and the children in a State scheme.  Would the Minister let it go for Second Reading and then let us have a discussion?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>No, I could not agree to Second Reading because I have not given consideration to the question as to whether 90/- is a fair amount or not. If you change the compensation from 50/- to 90/- it appears to me that the premiums will go up by 60 per cent. That will have to be considered from the point of view of industry and the effect on the cost of living, and so on.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It is correct to say that, at 50/- a week, injured workmen are actually starving.  I know of some cases, there may be others.  I do not <Col N="450" /> think that is putting it too widely.  It is an urgent matter to provide some interim increase as quickly as possible.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I know it has to be done by legislation.  That is the problem. There is no way of doing it by emergency orders or anything of that kind, but I do commend it as a very urgent matter.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Is the Minister aware that on last Monday there was an advertisement in the papers by the insurance companies offering 20 per cent. reduction in the premiums for workmen's compensation?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I know.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Why are you so scrupulous then?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>That is because the premiums are collected on the wage, as was pointed out here, while the benefit remained the same and, naturally, that reduction was due.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>There is no reason why we should be in any way scrupulous.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Would the Minister agree to let us have the Second Reading of the Bill now and, if he did not like 90/-, he can still move on Committee Stage, or he could have a collective census of the House and take off the Whips or he could put on the Whips, and put in his own figure?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>The Deputy must appreciate that, whatever discussion we might have here, it would be understood generally, if the Second Reading was allowed to go through, that we had agreed to this 90/-, which I cannot agree to without further consideration.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Cannot we write here into the record, you on that side and I on this side, that the Second Reading has gone through, that the question as to the amount is yet to be discussed and it could be discussed by the Minister putting on his Whips or it could be discussed freely in the House?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>That is a fair offer.</P>
+    </Speaker>
+    <Col N="451" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Nothing could be more reasonable, having regard to the speeches made from the Minister's own benches.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Alternatively, would it be possible to adjourn the Second Reading for a stated period of, say, three weeks?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>That would be better, probably.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>We could have a time limit of a fortnight or three weeks or something of that kind so that the Minister could have an opportunity of having an investigation as to the figure.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Deputy Norton has gone a long distance.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Let Deputy Davin go ahead and we will consider that.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Postpone it for four weeks.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>That would lump us in with the Vote on Account.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>A fortnight should be the outside.  It is very urgent.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I am not sure that anything that I say now will have any influence on the Minister after he has more or less rejected the very sportsmanlike and risky offer which Deputy Norton made to him.  I am not sure that any further discussion will do much good.  I would urge the Minister, however, to realise that every Deputy who has spoken in this debate from his own side of the House as well as from this side of the House has spoken in favour of this measure and of every section of it, and particularly in favour of the section which proposes to give an immediate increase to the unfortunate people who are suffering as a result of accidents which occurred in the course of their employment.</P>
+    </Speaker>
+    <P>The Minister candidly admitted at the outset that he had not had sufficient time to consider this matter. This measure was not rushed on the House.  It was not introduced for the purpose of gaining political kudos. The Minister has always taken the line <Col N="452" /> in previous legislation, especially social security measures, that he is always prepared to do more for the people coming under such legislation than the members of this group have expressed their willingness to do or have asked the House to do.  The Minister has a decent and human outlook and this is a human matter for those who are trying to exist on £2 10s. a week.  He has had over two months to consider this matter since the Bill was introduced, but he candidly confesses to-day that he has not given any consideration to the suggestion contained in one section of the Bill regarding the payment of £4 10s. per week.</P>
+    <P>Recently, a Minister had the full support of this House on a measure of this kind.  The Minister for Defence introduced a measure which received the unanimous approval of the House yesterday.  That Bill was brought in by the Minister for Defence, supported by the Government, dealing with a matter related to this kind of measure and it had the unanimous support of the House.  In spite of the precarious position, from some people's point of view, of the finances of the country and the reduction in tax revenue, the Minister for Defence, in response to the request of every section of this House, brought in that measure and got approval for the Second Reading of it although it will cost the taxpayer a further £400,000 a year.  The Minister for Social Welfare is in the fortunate position that he can take a decision now and say whether he will respond to the wishes of the majority of Deputies, and he merely asks us to postpone the matter for further consideration after he has been given two months to consider it.</P>
+    <P>I do not want to say anything that might be regarded as not being helpful, but I appeal to the Minister to give further consideration here and now to the generous, sportsmanlike and risky offer made by Deputy Norton, namely, to accept the principle of this very short measure on Second Reading and leave it to the free decision of the House or a vote in the ordinary way finally to decide what the figure should be, if he is not prepared to accept the figure of £4 10s., when the next stage of the <Col N="453" /> Bill comes up.  The Minister is in the position, if he agrees to the Second Reading on these very clearly stated conditions, that he takes over responsibility for the measure and can bring forward for the approval of the majority of the House or of the whole House his own figure on the next stage of the Bill.</P>
+    <P>Does the Minister not realise that there is a very strong case to be made for an increase as the last increase given to the recipients of workmen's compensation was given as long ago as 1948?  Even on the admitted increase in the cost of living since the last Budget there is a glaring case for that increase.  Will the Minister not admit that the comprehensive measure which he says he will introduce in two months' time cannot come into operation for a considerable time?  We have had experience of that in the case of the Social Welfare Bill and in the case of the promised health scheme. Everything does not turn out in the way the Minister wishes in matters of this kind and, therefore, whatever increased compensation might eventually be agreed to by the Minister with the approval of the House in connection with the proposed comprehensive measure would not come into operation before the beginning of next year.  Surely that is not the wish of the Minister.  He says that he could not bring in his own amending Bill because the high officers of his Department are engaged on more important matters.  Is that a good reason why the recipients of workmen's compensation and their dependents should have to continue to exist on the miserable sum of £2 10s. per week?</P>
+    <P>I appeal to the Minister to say here and now that he will accept the Second Reading, the principle of this very limited measure.  It will take some considerable time to prepare and present to the House a comprehensive measure of the kind the Minister has in mind, and in the meantime there is a glaring case for the increase asked for in this short measure.  The Minister can provide for that increase in the way suggested by Deputy Norton or he has other ways and means of doing it if he has the will to do it. <Col N="454" /> This is not a matter affecting the pockets of the taxpayers as in the case of the Military Service Pensions Bill, which, whenever it passes through this House, will be operative from the 1st January of this year.  The Military Service Pensions Bill was brought in and the promise of an increase to those in receipt of special allowances and disability pensions was given because a case was made for these increases on the basis of the increase in the cost of living, quite apart from the fact that the majority of persons in receipt of military service pensions are receiving a pension as low as £6 13s. 4d. per year.  The case in favour of an immediate increase, at any rate, in connection with workmen's compensation is related to the case made and accepted by the Minister for Defence and every section of the House and the Minister at any rate should copy the good example of his colleague, the Minister for Defence.</P>
+    <P>If the Minister is adamant in this matter that is all that can be said at present, but I make a final appeal to him to accept the risky offer which has been made by Deputy Norton for the purpose of getting general agreement and enabling the Minister to take over this measure on the condition that a majority of the House as a whole can finally fix the amount to be paid to the recipients of workmen's compensation as from the date of the coming into operation of this measure or whatever other measure may be brought in by the Minister at a later date.</P>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Norton to conclude.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Will the Minister say something helpful?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I cannot say anything more.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I thought the Minister would have shown some appreciation of the difficult position in which injured workmen are placed by indicating his willingness to accept the principle of this Bill and by taking steps to give effect to a measure of relief such as that contemplated by this Bill as speedily as possible.  Apparently the Minister's attitude is still one of aloofness <Col N="455" /> in the matter of workmen's compensation and he has not in any sense disclosed whatever plans he may have in mind for dealing with the problem.  In December last I asked the Minister whether he contemplated introducing a scheme of workmen's compensation during the present session of the Dáil, a session which runs until the summer recess.  The Minister then stated that he did not contemplate introducing any legislation on workmen's compensation during that period and it is because the Minister stated he had no such intention that we find it necessary now, because of the hardships which are being endured by injured workmen, to introduce a Bill of this kind.</P>
+      <P>We have not claimed for the Bill that it represents an exhaustive review of the defects which are inherent in the present workmen's compensation code. We have not claimed for the Bill that it remedies all the defects.  We realise that these defects and imperfections can only be dealt with in a comprehensive Bill and it is not within the power of an Opposition Party to introduce a Bill removing the major defects associated with our present workmen's compensation code.</P>
+    </Speaker>
+    <P>We, therefore, set out to do three or four main things.  Firstly, and this is the most urgent, we endeavoured to raise the amount of compensation which an injured workman can receive. We suggest that the present maximum of 50/- should be raised to 90/-.  I could give many reasons why the maximum should be more than 90/- but in order to introduce a Bill which would command the support of both sides of the House we geared the Bill to a level maximum of 90/- per week.  I could give many reasons why the compensation should be higher than that.  I could give reasons why the compensation ought to be 75 per cent. of the injured workman's wages, no matter what sum of money he earns, in order to provide more reasonable compensation for the higher paid workman in the event of injury in the course of or arising out of his employment.  I could give reasons why he should get his entire wages where, because of the <Col N="456" /> nature of his occupation, he is exposed to risk of injury, risk which I think ought to be paid for by those who employ him at occupations which involve these special dangers.</P>
+    <P>We do not aim at perfection.  We do not aim at doing anything extravagant. We sought only to adjust the present basis of compensation, maintaining the present structure but providing for additional compensation having regard to the steep rise in prices since the present level of compensation was fixed.  We sought also to step up the compensation in respect of fatal injuries so that the dependents and children of workmen who lose their lives in the course of their employment will have more adequate compensation than they have to-day.</P>
+    <P>Let us bear in mind that there has been no upward revision of the compensation payable in fatal injury cases since 1934 and the need for revision must be obvious to everyone to-day.  We sought also to remedy the hardship whereby, if an injured workman meets with an accident in the course of his employment through sheer negligence on the part of his employer, he will not be stopped at common law from taking an action against that negligent employer merely because, when he is semi-conscious perhaps, the employer or his agent or an insurance company shoves workmen's compensation into his hands or into the hands of his wife and gets a signature for it from the distraught and semi-conscious workman.  We wanted to remedy that and lift the ceiling from £500 to £800.  There we were prepared to discuss whether £800 was gearing it too high or whether we ought to adjust it at the lower level.</P>
+    <P>These are the four main purposes that this Bill sets out to achieve, but, again, in order to be reasonable in the matter and in order to get some speedy relief for the injured workman, we are prepared to say to the Minister: Remedy the defects which Section 8 in this Bill seeks to remedy; step up the compensation to the 90/-, and we will leave over for discussion at a later date in the light of any legislation which you have the question of gearing <Col N="457" /> up the compensation to be paid in fatal cases and we can leave over, too, if you like, the question of the premium for insurability purposes.</P>
+    <P>I think that was offering to meet the situation fairly, and I am surprised the Minister, who professes sympathy with the claim, has not accepted the offer which was made.  I am not sure, of course, that the Minister is not influenced in this matter by political considerations, because I must say that the only political speech that was made on the Bill was made by the Minister. Every Deputy, even those in his own Party, who spoke on the Bill discussed it from the point of view of the injured workman.  It was left to the Minister to bring in the political seasoning in his speech.</P>
+    <P>If the Minister wants to discuss it against a political background, let us have that discussion by all means so that the Minister's intentions may be contrasted with his performances and so that whatever imperfections may have been associated with the inter-Party Government's approach to this matter can be contrasted likewise with the Minister's unfulfilled intentions.</P>
+    <P>What is the background?  In 1934, the present Government introduced a Workmen's Compensation Bill.  Up to 1934, the maximum compensation which an injured workman could get was 35/- per week.  The Fianna Fáil Bill in 1934 reduced the maximum compensation from 35/- to 30/- per week. That was the first step taken by the Fianna Fáil Government in respect of workmen's compensation; they reduced the compensation by 5/- a week in 1934.  Having reduced it from 35/- to 30/- per week in 1934, they then waited until 1943 &mdash; everybody knows the way the index figure moved between 1934 and 1943 &mdash; and they then gave him an increase of 7/6 because of the substantial rise in the cost of living.</P>
+    <P>The situation then was that in 1943 he had 37/6 per week.  Bear in mind, however, that in 1932 he had 35/- a week, so the increase which the injured workman got under the Fianna Fáil Government was from 35/- in 1932 to 37/6 in 1943.  Their sympathy with the injured workman was shown then.</P>
+    <P>
+      <Col N="458" /> What happened in the years from 1943 to 1948?  He got nothing more from the Fianna Fáil Government.  In 1932, before the Fianna Fáil Government came into power, he had 35/- per week; in 1948 he had 37/6 per week. In other words, Fianna Fáil permitted the injured workman to get an increase of 2/6 per week in the maximum compensation payable under the Workmen's Compensation Act in all that long period from 1932 to 1948.  In 16 years they gave him an increase of 2/6 to compensate for the rise in prices between 1932 and 1948.</P>
+    <P>Then the Minister has the audacity to upbraid me and my colleagues in the last Government for not doing something in respect of workmen's compensation as if he was himself the economic messiah so far as injured workmen are concerned.  That is mere fraudulent abuse, and the Minister must know it.</P>
+    <P>Let us see what we did do and let us contrast it with what the Minister's Government did in 16 years.  In 16 years Fianna Fáil gave the injured workman 2/6 per week with the cost of living rising so high that Deputy Kissane, the former Parliamentary Secretary, put it on record in this House that the £ between 1939 and 1947 under the Fianna Fáil Government had been reduced to 8/-.  It was against that background that the injured workman got an increase of 2/6 per week as compensation for the rise in prices over 16 years.</P>
+    <P>Let us have a look at what I did with workmen's compensation.  I claim no credit for it, but I want to contrast it since the Minister raised this issue and wants a sharp political discussion on it.  I am sorry but it is the Minister's speech that has provoked me to make these comparisons.  Within 12 months of taking office we increased workmen's compensation by 12/6 per week.  That was not too bad a performance&mdash;an increase of 12/6 a week within 12 months against 2/6 a week under Fianna Fáil over a period of 16 years.  We lifted the ceiling up from £350 to £500 for non-manual workers and gave them a cover which they had not previously got.  We made sure that those who were getting lower compensation than 50/- a week could <Col N="459" /> go to the courts and have their compensation stepped up to 50/- a week.</P>
+    <P>These were substantial improvements, all done within 12 months, and if the Minister wants to make comparisons as to his performance in this matter as against mine or against what has happened in other countries, his performance will be a pretty puny one indeed.  Within 12 months under Fianna Fáil a person got 2/6 a week increase on his original 35/-.  Within 12 months he got an increase of 33? per cent. from us.  That is not a bad performance, and if he Minister wants to contrast his with mine he can have it there.</P>
+    <P>The Minister asked where I got the figure of 90/- a week.  I do not take any pride in that figure of 90/- as the maximum benefit possible as workman's compensation.  As I explained, the figure was geared low to get the support of as many Deputies as possible in this House.  But is there anything unreasonable in the figure of 90/- a week?  Apparently it staggered the Minister.  What are the facts of the situation?  I have shown that under the pre-1934 legislation an injured workman could get 35/- a week; in other words, in 1932 he could get 35/- a week. Let us remember the increase in the cost-of-living index figure since 1932, when I think it was 50 over the 1914 level, the 1914 base being nought.  By 1939 that index figure had gone up to 70 or 75, so that if you adjust the 35/- compensation which the workman had in 1932 to its 1939 purchasing power the adjustment would surely have brought the 35/- to £2.  In other words, if he was getting £2 in 1939 he was getting only 35/- by 1932 standards.</P>
+    <P>We have had the statement by the Taoiseach in the House that it now takes 45/- to buy what £1 bought in 1939.  Therefore, workmen's compensation ought to have been £2 in 1939 and that is only a 5/- adjustment of his 1932 compensation.  If he had £2 in 1939 and if we want to give him the current purchasing power of £2 we arrived at according to the Taoiseach's estimate, I do not think there is anything unreasonable in the figure of 90/- built up on sheer mathematical calculations <Col N="460" /> though in this case we are dealing with human flesh and blood and we are entitled to advert to every situation apart from the mathematical calculations as to what the compensation would be.</P>
+    <P>As to the pattern which our future legislation in respect of injured workmen should take I think there is scope there for differences of opinion and for an adjustment of views in the light of the facts confronting us.  The original Workmen's Compensation Act was passed in order to enable the injured workman or his dependents to recover compensation in the case of temporary or fatal injuries from the person who employed him.  Since then, however, a whole variety of agencies have come into the matter.  There is the insurance company on the one hand and it is not just sheer love of the injured workman or of the employer that brings the insurance company in.  There is the agency that collects the insurance premiums; there is the doctor; there is the solicitor and the lawyer.  These agencies mill around the original workmen and are as important a part in the business as the workman.</P>
+    <P>Deputy Keyes has told the House a story which, while humorous, really describes the position of the workman in the modern workmen's compensation legislation so that you do not know who gets the most benefit out of the workman's injuries.</P>
+    <P>Frankly, I would prefer to see workmen's compensation taken over by the State and operated as a State scheme making no profit whatever and giving to the employer the lowest possible premiums and utilising whatever fund is created for the purpose of paying injured workmen.  It is a sobering thought that if you look at the 1947 figures of the income from premiums for workmen's compensation paid to insurance companies and the money spent by those companies in paying compensation to the injured workman, the injured workman gets only 46 per cent. of the money which is paid in premiums; in other words the employer gets nothing back out of the £ and the injured workman does not get the £ but by the time everybody is finished with the employer's original <Col N="461" /> £ the injured workman gets less than 10s. in benefit.</P>
+    <P>The employer gets nothing back and all these other agencies contrive to get more than 50 per cent. of the employer's premium in respect of workmen's compensation.  You begin to ask there whether the Workmen's Compensation Act was passed for the injured workmen or whether it was enacted in order to enable us to rear up a workmen's compensation code which gives the workman less than half the premiums paid by his employer.</P>
+    <P>It ought to be possible to evolve a State scheme whereby the State would cover the employer against his liability towards the injured workman and I think a scheme on those lines is the most desirable thing for dealing with this whole situation.  There is no cause for leaving it in private hands having regard to the way in which the premium income secured from the employer is utilised to-day.  The injured workman gets the least portion of the pound in the distribution of it as between himself and all the other agencies.  I would prefer to see this scheme administered by the State.  I confess this, too, that I personally think it is better to give the widow of a deceased workman a pension rather than give her a lump sum&mdash; small as it is under our present legislation&mdash;which I fear will be frittered away in a short time.  The widow is then thrown very largely on her own resources, except for the small pension she receives under the Widows' and Orphans' Pensions Act.</P>
+    <P>There is more of a case for having a yearly pension paid to the dependents of an injured worker than there is for giving a lump sum payable to the widow or for investment for the children&mdash;because the amounts we pay at present are paltry for these purposes.  We make no adequate provision for the widow and no provision at all for the children.  We have heard about the scattering of £600 amongst a widow and seven or eight children.  One can imagine what she gets to help her to keep going and what is left to keep the children until they are 15 or 16 years of age.  The whole conception is absurd.</P>
+    <P>
+      <Col N="462" /> I prefer to approach this from the angle in which the worker will be covered in such a manner as will enable the widow and children to get a reasonable pension.  I have in mind something substantially higher than the widows' and orphans' pensions in the event of a workman losing his life during or arising out of his employment. I think that is the best solution and a more enduring solution.  It is one which makes the best provision for the widow and the children &mdash; and they are the important consideration once the injured worker dies.</P>
+    <P>The Minister favours a scheme in which there would be an allowance to the injured workman, an allowance for dependents &mdash; his wife, presumably &mdash; and an allowance for children.  I think there is a good deal to be said for that structure, but you need to have a climate in which you can rear a structure of that kind.  As I said by way of interjection earlier, the real risk there is that if you leave insurance in private hands and if there is no obligation on the employer to insure, the temptation always will be to employ only single men.  The employer will tend towards a reduction in his expenses, by employing single men, as they will cost less to insure than married men with dependents.  That is a risk well known and recognised among trade unions &mdash; that it may lead to preference being given by certain classes of employers to single men, to the detriment of the economic interests of married men.</P>
+    <P>Therefore, I do not see anything wrong with the idea of raising the present maximum payment from 50s. to 90s. and allowing that structure to remain until such time as the State decides to take over the whole question of workmen's compensation, administering it as a State non-profit-making undertaking.</P>
+    <P>I do not think that there is any money to be made by the legal people out of workmen's compensation.  I do not say this with any hostility to the legal profession, because where these cases go to court I do not think they make any money out of them.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Many of them give their services completely free.</P>
+    </Speaker>
+    <Col N="463" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I have had experience of sending workmen to solicitors who have handled cases free of charge to them.  In any case, I think the maximum legal expense is £15.  Nor indeed, does the doctor get much, as the maximum he can get, if awarded by the court, is £5.  The whole mechanism is an involved and complex one.  The original authors of workmen's compensation wanted to produce a simple Act which it would be easy for everyone to read and understand, under which everyone would know where they stood; yet probably more case law has been built up on workmen's compensation than on any other Act of Parliament passed during the last 100 years.  Worse than that &mdash; many people do not understand the case law and all kinds of complications arise.  The Supreme Court gave a decision recently in a case which has been a feature of workmen's compensation for the last 20 years and only came up the other day when the case was being argued in the Supreme Court.</P>
+    </Speaker>
+    <P>I would prefer to see a State tribunal, something like the machinery that exists for determining widows' and orphans' pensions or old age pensions, operated by the Department.  It would be a kind of tribunal to which an injured workman might make application, where the facts could easily be <Col N="464" /> established, whether he was injured on the job or not, and if he were, then his compensation would be determined. There would be no difficulty about having an argument with the employer, no difficulty as to what you are going to get in an action at common law, no need to go into the courts and wait until you get a place in the queue in the courts to have a case decided. The simpler the machinery the better. That is the reason why I prefer a scheme administered by the State.</P>
+    <P>It is not possible to make the progress on this Bill that I had hoped would be possible from the manner in which the House approached the question of improving the position of injured workmen.  The Minister's attitude has made progress impossible, and the only thing we can do is to leave it to the House.  Although this matter is being left to the House, I suppose the Minister will insist that his Party must be pushed into the Division Lobby against it, notwithstanding the sympathetic speeches which were made by members of his own Party.  Even now the Minister may approach this matter in a sympathetic spirit and recognise that a case has been made, that there is a case to be met.  We have given the Minister an easy way out of the situation and even now he ought to take it.</P>
+    <P>Question put.</P>
+    <P Just="Center">The Dáil divided: Tá, 33; Níl, 59.</P>
+    <P Just="Center">Tá</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Beirne, John.<br />Belton, John.<br />Byrne, Alfred.<br />Byrne, Thomas.<br />Cafferky, Dominick.<br />Collins, Seán.<br />Corish, Brendan.<br />Davin, William.<br />Desmond, Daniel.<br />Donnellan, Michael.<br />Doyle, Peadar S.<br />Dunne, Seán.<br />Everett, James.<br />Hickey, James.<br />Keyes, Michael.<br />Kyne, Thomas A.<br />Larkin, James.</entry>
+            <entry rowsep="1">Lynch, John (North Kerry).<br />MacBride, Seán.<br />MacEoin, Seán.<br />McQuillan, John.<br />Morrissey, Daniel.<br />Murphy, Michael P.<br />Murphy, William.<br />Norton, William.<br />O'Donnell, Patrick.<br />O'Hara, Thomas.<br />O'Higgins, Thomas F. (Jun.)<br />Palmer, Patrick W.<br />Roddy, Joseph.<br />Rogers, Patrick J.<br />Sweetman, Gerard.<br />Tully, John.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Aiken, Frank.<br />Allen, Denis.<br />Bartley, Gerald.<br />Beegan, Patrick.<br />Blaney, Neil T.
+<Col N="465" />Brennan, Joseph.<br />Breslin, Cormac.<br />Briscoe, Robert.<br />Buckley, Seán.<br />Burke, Patrick.<br />Butler, Bernard.<br />Calleary, Phelim A.<br />Carter, Frank.<br />Childers, Erskine.<br />Cogan, Patrick.<br />Colley, Harry.<br />Collins, James J.<br />Cowan, Peadar.<br />Crowley, Honor Mary.<br />Crowley, Tadhg.<br />Cunningham, Liam.<br />Derrig, Thomas.<br />de Valera, Vivion.<br />Fanning, John.<br />Flynn, John.<br />Flynn, Stephen.<br />Gallagher, Colm.<br />Gilbride, Eugene.<br />Harris, Thomas.<br />Hillery, Patrick J.</entry>
+            <entry rowsep="1">Boland, Gerald.<br />Brady, Philip A.<br />Brady, Seán.<br />Breathnach, Cormac.<br />Breen, Dan.
+<Col N="466" />Hilliard, Michael.<br />Humphreys, Francis.<br />Kenneally, William.<br />Kennedy, Michael J.<br />Killilea, Mark.<br />Lemass, Seán.<br />Little, Patrick J.<br />Lynch, Jack (Cork Borough).<br />McCann, John.<br />McEllistrim, Thomas.<br />Maher, Peadar.<br />Moran, Michael.<br />Moylan, Seán.<br />Ó Briain, Donnchadh.<br />O'Reilly, Matthew.<br />Ormonde, John.<br />Rice, Bridget M.<br />Ryan, James.<br />Ryan, Mary B.<br />Sheridan, Michael.<br />Smith, Patrick.<br />Traynor, Oscar.<br />Walsh, Laurence J.<br />Walsh, Thomas.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash; Tá: Deputies Mac Fheórais and Kyne; Níl: Deputies Ó Briain and Killilea.</P>
+    <P>Question declared lost.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Adjournment Debate. -" RHead="Ballinalee Post Office">
+    <Title>Adjournment Debate. - Ballinalee Post Office.</Title>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy MacEoin has given notice of his intention to raise the subject matter of Questions Nos. 125 to 130 on yesterday's Order Paper.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>When I put down these questions to the Minister on Tuesday week last, I did so with the specific purpose of getting from the Government and from the Minister, information which up to then, and up to yesterday, we had been unable to obtain &mdash; what were the charges which the Minister had to make against the sub-postmistress of Ballinalee.  On yesterday the Minister, from the sheltered position of the ministerial bench, made a series of charges against the sub-postmistress of Ballinalee&mdash;the ex-sub-postmistress, as he described her, and as she now is.</P>
+      <P>Let me say at the outset, and say it categorically, that at no time within the last 12 months has there been a deficiency of cash there in the accepted sense of the term.  At no time during the inspections was there a shortage of cash, in the sense that she had not the cash that was in dispute in the office, and more with it.  A person cannot be charged with a deficiency if the cash is there and, notwithstanding the Minister's explanation, which I shall deal with in more detail later if I have time, that the reason he did not prosecute her was because of her frail, physical and nervous condition, the reason, of course, is that he had no criminal case to make and that no criminal charge could be sustained.</P>
+      <P>I should like just to mention that when an investigator from any Department, and in particular from the Department of Posts and Telegraphs, finds a deficiency, he is entitled there and then to swear an information and have the person responsible for that deficiency arrested, but if there is no deficiency he cannot do so.  If the money is there but due to bad accountancy, carelessness, inefficiency or for any other reason there is a breach of the regulations, there is no criminal offence.</P>
+    </Speaker>
+    <P>I want to protest against the attitude the Minister adopted here in levelling these charges against the person concerned in that particular way.  I want further to protest against Radio <Col N="467" /> Éireann being utilised last night and this morning for the purpose of putting that across.  As I have said, the time at my disposal is short, and I want to make as much use as I can of it.</P>
+    <P>The questions were put down last Tuesday-week with the intention of finding out what the Government or the Minister had to say in the matter, because we failed to get an interview with the Minister.  When I say &ldquo;we&rdquo; I mean that the people of Ballinalee, who sought it, failed to get an interview with the Taoiseach so that we could then hear the charges and make an answer, if answer could be made, and so that, if the post office were being changed to-day instead of this day-week, everybody would know what the circumstances and the situation were.  I hoped when I put in the question on Tuesday-week that the Minister or the Government would not change the post office until it was clear what the charges were.</P>
+    <P>A case has been made in the village of Ballinalee in defence of Mrs. Devine which every shade of opinion &mdash; Fianna Fáil, Fine Gael, Labour, Clann na Poblachta, Clann na Talmhan, so far as it is organised, and other organisations in the district&mdash;believes to be true.  It is in violent conflict with the charges made by the Minister here yesterday. I submit that if the Minister believed the charges he made yesterday he and his Department had only one function, and that was to submit the papers to the Attorney-General.</P>
+    <P>I hold that no Minister has the right to decide whether a prosecution should be initiated or not.  Certainly no Minister has the right to decide that because of a person's physical or nervous condition that person should not be prosecuted.  If the Minister could do that, all one had to do when faced with a charge of this nature, was to pretend that one was in the &ldquo;jigs&rdquo;, as it were, and one could do anything and get away with it because of one's nervous and physical condition.</P>
+    <P>I suggest, therefore, that if the Minister or the Department believes these charges there was one onus and obligation on them and that was to have the postmistress arrested last July.  If <Col N="468" /> that were done, she would by now have been either acquitted or convicted and we would know, and everybody would know, where we stood and where she stood.  I assert that the Minister has no authority to decide this question of prosecution.</P>
+    <P>On the question of her physical and nervous condition, the Minister informed me on yesterday that on the 26th June, 1952, she was interviewed at three different times on the one day. When you add the periods of her examination together, you find that she was under examination and cross-examination from 10.40 a.m., with three short breaks, to 8.30 p.m.  During that period, as the Minister says, she was under the interrogation of the most efficient interrogator in his Department, one who was accustomed to interrogation and to taking statements. This simple-minded country postmistress was under that examination for the period I have stated.  If she was able to withstand interrogation for that length of time, surely to goodness she would be able to stand her trial in the dock.</P>
+    <P>There is no justification for a charge of this kind unless it is that she signed certain statements.  I suggest to the Minister that when she signed these statements, she was in such a nervous condition after that length of time that, as she said herself, to get out of it she would sign anything.  If there is a single word of Mrs. Devine's vocabulary in these statements I would say that we were completely wrong.  The statements were drawn up by an official.  I have nothing to say against him, but they were drawn up by him and submitted to her afterwards for signature.  I am glad that the Minister has offered to show me these statements.</P>
+    <P>He could have told me that within the last three weeks, but I have written to Mrs. Devine asking for her authority to see the statements, because apparently it is only on condition that I get her consent that I can see them.  I have asked for that and I will, indeed, examine them, and I hope the Minister will give me a full opportunity of seeing whether the statements are in script or typed, with her signature attached to them.</P>
+    <P>
+      <Col N="469" /> At this point let me say that I have no objection whatever to the person appointed as sub-postmistress of Ballinalee. She is a decent, respectable person.  If I were appointed a referee as to her character for the appointment I would have no hesitation whatever in certifying that she was a person suitable for appointment.  I want to get away from the question of the appointment, which should never have arisen.</P>
+    <P>The point at issue at all times amongst the people of Ballinalee was that the circumstances surrounding the dismissal of this person were exaggerated.  The Minister's seven charges are framed in such a way that it would look as if they were seven distinct offences.  They are not.  The seven charges outlined are a duplication of the same offences.  I challenge contradiction on that.</P>
+    <P>The money was in the post office in the place where it had been customary to keep it since 1926.  The business of the post office in Ballinalee increased from approximately £200 per week to over £1,100 per week &mdash; a huge increase. If through inefficiency or ill-health or other causes the postmistress, since 1947, has slipped, I think the Post Office should have known all about it, and did know all about it.  I will go further than that and say that when she offered her resignation at a certain time it was not accepted.  I want to know why it was not accepted.  Why put that in now?</P>
+    <P>In regard to the charges I assert that charges 1, 2 and 4 are duplicates of 5 and 7.  With regard to charge No. 5 &mdash;failure to report a deposit of £7 on the 20th June, 1952, etc.&mdash;let me tell the House the circumstances surrounding that particular item.  At 7.15 p.m., when the post office was closed, persons arrived to draw the old age pension, due on the previous Friday, for their fathers and mothers.  They were paid that and went away.  At 7.45 p.m. they came back with a Post Office Savings Bank book and the £7 and handed it, not to the postmistress, but to the maid in the house to lodge.  No receipt was wanted.  Why?  Because Kathleen Devine is, in fact, as honest and reliable as the Bank of Ireland.  The people trusted her implicitly.  On Tuesday <Col N="470" /> morning she put that money in with her own money and Post Office money.  The Post Office knew that to be the case because there was never a safe in the place.  I admit that was wrong.  She proceeded to fill the docket.</P>
+    <P>The next day she did not know whether it was £7 or £8 the girl gave her, and she sent out word with the postman to ask her was it £7 or £8. Anybody that knows the country post office knows that that is true.  I see people sneering.  I will listen to the Minister making a violent attack upon a citizen of this country, but he should have manners for the moment.  The postman did not meet that person on Wednesday, but on Thursday the inspection took place.  I submit, Sir, that if Mrs. Devine was wise in her generation the £7 in the book would not be put in the Post Office at all, and it would have been no offence known to the law.  It is no offence, anyway, because the £7 was there.</P>
+    <P>At this stage might I draw attention to No. 6 &mdash; delay from the 20th July, 1947.  This came to light in 1953 &mdash; six years afterwards, and it is inserted here with the deliberate intention of asserting that she deteriorated since the last warning.  Here is the charge: Delay from the 20th July, 1947, to the 28th September, 1947, in bringing to account the sum of £10.  The fact of the matter is that Kathleen Devine, in that instance, was acting wrongly and contrary to the regulations as a private banker.</P>
+    <P>She held that money in trust, and was asked by the depositor not to put it in, that she might want it from time to time, and that she wanted her to hold it.  It is the same person, with the same £10, who is concerned in charge No. 7 &mdash; failure to report a savings bank deposit in July, 1951, and converting it for private purposes. There are only the two persons.  The person was going into the county home. She came to the conclusion that if she took the book and the money into the county home the matron might take them off her.  The book and the money were handed to Mrs. Devine to keep so that she might send the person £1 now and again.</P>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>That is quite customary in rural Ireland.</P>
+    </Speaker>
+    <Col N="471" />
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Let me make the case.  The Minister would be well founded in his charge if, yesterday, he said that Mrs. Devine had been guilty of a serious breach of the regulations in acting as a private banker by keeping a person's bank book and not leaving it where it ought to be, in the custody of the person who lodged the money.  I want to admit candidly that if I were Minister for Posts and Telegraphs I might&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Minister for Posts and Telegraphs (Mr. Childers) Minister for Posts and Telegraphs (Mr. Childers)">
+      <NameTxt>Minister for Posts and Telegraphs (Mr. Childers)</NameTxt>
+      <P>What about the time to reply, Sir?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister will have ten minutes.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>In view of the situation, I think I should not have been interrupted in this way.  If that state of affairs was allowed to continue it could lead to very grave abuses and I, as Minister for Posts and Telegraphs, might take serious action, but I would not take any more serious action than the Minister for Health took against an official who, it was established on oath and after a sworn inquiry, had actual deficiencies&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanDunne" hpid="Mr. Dunne Mr. Dunne">
+      <NameTxt>Mr. Dunne</NameTxt>
+      <P>He was probably well got.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>&mdash;&mdash;of over £200. The Minister for Health, in his paternal vision and by doing what an ordinary citizen of this country will do by exercising the Christian principle of giving a person another chance, restored that person to the office in Ennis, so that he might at some future date render efficient and satisfactory service.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I must call on the Minister.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>May I conclude on this note?  If the Minister had received the deputations, answered the petition, we could indeed have peace in Ballinalee.  I again want to reiterate that the acts of violence in Ballinalee were against Kathleen Devine, against us and against this State &mdash; and I, for one, at no time would ever stand over or tolerate them.  Anything they did damaged the case and enabled the <Col N="472" /> Minister to do what he did yesterday&mdash; to make use of this House to make a violent attack upon the character of a citizen of this State.</P>
+      <P>
+        <i>Deputy Carter and Deputy Everett rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister for Posts and Telegraphs.</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>On a point of information.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Deputies Deputies">
+      <NameTxt>Deputies</NameTxt>
+      <P>Sit down!</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>I do not want to intervene. I want information.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I am calling on the Minister for Posts and Telegraphs to reply.</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>Has the Minister power to waive prosecutions?  I had not that power.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain) Donnchadh Ó Briain">
+      <NameTxt>Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain)</NameTxt>
+      <P>Order! Chair!</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>I am asking a question.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>You are not entitled to do so.</P>
+    </Speaker>
+    <Speaker pid="SeanDunne" hpid="Mr. Dunne Mr. Dunne">
+      <NameTxt>Mr. Dunne</NameTxt>
+      <P>Do not get excited.  Take it easy.</P>
+    </Speaker>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>The former Minister for Posts and Telegraphs is trying to prove that the statements of the ex-Minister for Justice were perfectly true.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Will I be allowed to speak?  Surely the main object of this discussion is to elicit information from the Minister?</P>
+    </Speaker>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>It appears that false information was elicited from him yesterday.  An attempt is being made to correct them.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Deputies Deputies">
+      <NameTxt>Deputies</NameTxt>
+      <P>Order!</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Mr. Childers Mr. Childers">
+      <NameTxt>Mr. Childers</NameTxt>
+      <P>Last night, I indicated quite clearly the irregularities committed by Mrs. Devine.  I made it quite clear that I was not judging her as guilty of criminal intent.  All I can do to-day in the short time at my disposal <Col N="473" /> is to make it quite clear that it is absolutely forbidden to postmasters, postmistresses and sub-postmasters and sub-postmistresses to mix their private and official cash.  When the books of Mrs. Devine were examined the cash balances were found to be incorrect. This was only the result of years of difficult experience in dealing with Mrs. Devine and in the general conduct of her office.  In actual fact, even if Mrs. Devine had not committed the one most serious mistake &mdash; the irregularity in connection with the Savings Bank book &mdash; she could not have been allowed to retain the position of sub-postmistress of Ballinalee.</P>
+      <P>Deputy MacEoin has attempted to throw a gloss on the whole business by giving excuses for her conduct, by suggesting that all she was doing was making use of Post Office money for her own private account.  The actual fact is that her own signed statements&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Which I challenge.</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Mr. Childers Mr. Childers">
+      <NameTxt>Mr. Childers</NameTxt>
+      <P>&mdash;&mdash;are of a kind which made it incumbent upon me to dismiss her from the post of sub-postmistress. The statements were made to an officer in her own home &mdash; an officer in whom I have the most absolute confidence.  He spent with her the amount of time which is absolutely inevitable under these circumstances.  Every postmaster and every postmistress and every sub-postmaster and every sub-postmistress in the country knows that if investigation takes place it must be pursued from the beginning to the end.  Track must not be lost of the examination of accounts by undue delay.  I am glad to say that, at the end of her interview, Mrs. Devine said that the investigation officer had been kindly in his attitude towards her, and made no complaint whatever.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Brendán Mac Fheórais Brendán Mac Fheórais">
+      <NameTxt>Brendán Mac Fheórais</NameTxt>
+      <P>She ought to curse him!</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Mr. Childers Mr. Childers">
+      <NameTxt>Mr. Childers</NameTxt>
+      <P>These interrogations must continue from the beginning to the end of any examination of this kind. It is the custom, for which there are wide precedents &mdash; I have not the time to read them now &mdash; not to prosecute in <Col N="474" /> certain circumstances.  The fact remains that Mrs. Devine's action in writing to the Department for a new Savings Bank book on behalf of a depositor was such that I could say that, almost alone, it merited her dismissal.  She tore out the centre pages of the old deposit book, so that when the depositor would ask for her book she would then be given a new one&mdash;and what Mrs. Devine would have said on presenting the new book to the depositor I do not know.  I make no reflection on her. All I can say is that we do not retain in the service of the Post Office people who make use of Savings Bank books in that manner, or who act in that manner in the taking in and giving out of Savings Bank money.</P>
+      <P>I have no time to read out the long list of persons who, in past years, have been dismissed for exactly the same kind of offence after warning, after interrogation. In some cases they were dismissed immediately because the circumstances were related to serious matters such as Savings Bank books. In other cases they were given opportunities, such as Mrs. Devine, to rectify the position.</P>
+      <P>Mrs. Devine was suspended on the 27th June, 1952.  Seventy-five days elapsed before her dismissal, during which time she, with the advice of her friends in Ballinalee, could have consulted a solicitor, could have renounced the statements she made, could have asked for a second investigation, could have had questions asked in the Dáil &mdash; but no action was taken.  On the 13th August, Deputy MacEoin 'phoned the Secretary of the Department and asked what was happening.  He was told that, apart from the investigation, which had not been completed, it was unlikely that Mrs. Devine could be kept in the service of the State.  The new Dáil session began.  Mrs. Devine was dismissed on 13th September.  No action was taken.  No Dáil questions were asked.  No solicitor was engaged on her behalf.  No statement was made to the effect that her signed statements were incorrect or were made under undue influence.  A petition of the ordinary kind was presented, which did not suggest that the statements were incorrect.  Eighty-three days elapsed before that time.</P>
+    </Speaker>
+    <Col N="475" />
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>May I intervene?</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Mr. Childers Mr. Childers">
+      <NameTxt>Mr. Childers</NameTxt>
+      <P>No.  As I say, 83 days elapsed between that time and the time when the letter was finally sent to the solicitor giving the reasons for her dismissal. In the meantime, Mrs. Devine made only one statement to me in the course of a letter.  She made the point that I had dismissed her, and then she went on to make reflections on the characters of certain postal officials. She made no direct appeal to myself personally.  On the 17th January the Taoiseach wrote to Deputy MacEoin, mentioning the signed statements.  He had from then until 30th January in which to deny that the statements were correct, to ask for the statements, to suggest to Mrs. Devine that she should consult her solicitor in view of the gravity of the position.  The solicitor, by that time, was deceased &mdash; he was a very honourable man in Longford, with whose family I have the utmost sympathy &mdash; but the letter could have been passed on to some other member of the firm.  Nothing was done.  The scenes of violence began on 30th January and ended on 31st January.  Only then did Deputy MacEoin intervene in the matter.</P>
+      <P>In my own view, poor Mrs. Devine had one of the worst advocates of whom I could think of for the elaboration and presentation of her case.  I could conceive of no less efficient or praiseworthy aid than that given to her by the Deputy now that I have announced all the facts.  Months elapsed during which any of these matters could have been taken up.  I can only assume that the observations now made by Deputy MacEoin are solely for the purpose of trying to excuse the disgraceful incidents that took place.</P>
+      <P>I should add, in passing, and in conclusion, that of the people on the protest committee, there is not one at the present time who has faith in the judgment of myself or of my colleagues in this Government.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Might I ask the Minister one question?  Is it not a fact <Col N="476" /> that the Minister informed me that investigations were still <i>sub judice,</i> that investigations were proceeding, and that he could take no action until the full investigations were completed?  Is that not correct?</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>On a point of order.  Seeing that this matter affects my constituency&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy may only ask a question.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>I want to refute the suggestion of Deputy MacEoin&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That is not a question.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>Deputy MacEoin has alleged that members of the Fianna Fáil Party are embroiled in this.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>The club.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>I deny that.</P>
+    </Speaker>
+    <Speaker pid="MichaelOCarroll" hpid="Dr. ffrench-O'Carroll Dr. ffrench-O'Carroll">
+      <NameTxt>Dr. ffrench-O'Carroll</NameTxt>
+      <P>Can the Minister answer this question?  Was Deputy MacEoin aware of the charges that were made against Mrs. Devine before this dreadful exhibition took place in Ballinalee and before he intervened and asked Mrs. Mannix to resign?</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Mr. Childers Mr. Childers">
+      <NameTxt>Mr. Childers</NameTxt>
+      <P>Deputy MacEoin was made aware of all the facts.  One of the most prominent citizens of Ballinalee &mdash; whose name I cannot give, because it would be unfair to do so under present circumstances&mdash;actually came to my office about the matter.  Because of his high position in the life of Ballinalee he was allowed to be given the utmost detail in regard to this case. His manner on leaving made it quite clear that there were facts of which he had not been aware.  I believe that all the prominent people in Ballinalee knew all about this business.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>I must be allowed to answer this.</P>
+      <P>The Dáil adjourned at 2.30 p.m. until 3 o'clock on Tuesday, 10th February, 1953.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

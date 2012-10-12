@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Fri" Date="1" Month="Jun" Year="1973" Vol="75" No="1" DateIrish="Dé hAoine, 1 Meitheamh 1973" DateEnglish="Friday, 1 June 1973" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P Just="Center">
+      <Col N="1" />
+      <Col N="2" />
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Tháinig an Seanad le céile ar 3 p.m. Bhí an Cléireach, Seán Toibín, agus an Leas-Chléireach, Mícheál Mac Giolla Ruaidh i láthair.</entry>
+            <entry rowsep="1">The Seanad assembled at 3 p.m., the Clerk, Mr. John R. Tobin, and the Clerk Assistant, Mr. Michael Kilroy, attending.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Léigh an Cléireach Forógra Uach- tarán na hÉireann ag Comóradh Sheanad Éireann.  Seo a leanas an Forógra:&mdash;</entry>
+            <entry>The Clerk read the Proclamation of the President of Ireland convening Seanad Éireann.  The Proclamation was as follows:&mdash;</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">FORÓGRA AG COMÓRADH SHEANAD ÉIREANN.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">PROCLAMATION SUMMONING SEANAD ÉIREANN.</entry>
+          </row>
+          <row>
+            <entry>De bhun comhairle a thairg an Taoiseach dom faoi alt 8 d'Air- teagal 18 den Bhunreacht, déanaimse, EAMON DE VALERA, Uachtarán na hÉireann, Dé hAoine, an lú lá de Mheitheamh, 1973, a shocrú leis seo mar an lá a thiocfas Seanad Éireann le chéile ar chéadtionól tar éis an Olltoghcháin a bhí ann le déanaí.</entry>
+            <entry>Pursuant to an advice tendered to me by the Taoiseach under section 8 of Article 18 of the Constitution, I, EAMON DE VALERA, President of Ireland, hereby fix Friday, the 1st day of June, 1973, as the day on which the first meeting of Seanad Éireann after the General Election lately held shall take place.</entry>
+          </row>
+          <row>
+            <entry>ARNA THABHAIRT faoi mo Láimh agus faoi mo Shéala an 23ú lá seo de Bhealtaine, 1973.</entry>
+            <entry>GIVEN under my Hand and Seal this 23rd day of May, 1973.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">
+            </entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Sgd.) EAMON DE VALERA</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">UACHTARÁN NA hÉIREANN</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(PRESIDENT OF IRELAND)</entry>
+          </row>
+          <row>
+            <entry>(Sgd.) LIAM MAC COSGAIR</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>TAOISEACH</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="3" />AINMNEACHA NA gCOMHALTAÍ A AINMNÍODH AGUS NA gCOMHALTAÍ A TOGHADH CHUN FÓNAMH I SEANAD ÉIREANN.</entry>
+            <entry>
+              <Col N="4" />NAMES OF MEMBERS NOMINATED AND OF MEMBERS ELECTED TO SERVE IN SEANAD ÉIREANN.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">An Cléireach: Is iad seo leanas ainmneacha na gcomhaltaí a ainmníodh agus na gcomhaltaí a toghadh chun fónamh sa Seanad.</entry>
+            <entry rowsep="1">The Clerk: The following are the names of the members nominated and of members elected to serve in the Seanad:&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>NOMINATED MEMBERS.</P>
+    <P>BREANDÁIN Ó hALLAGÁIN</P>
+    <P>(BRENDAN HALLIGAN)</P>
+    <P>SEÁN BLENNERHASSETT</P>
+    <P>(JOHN BLENNERHASSETT)</P>
+    <P>PÁDRAIG Ó CIARAGÁIN</P>
+    <P>(PATRICK KERRIGAN)</P>
+    <P>PÁDRAIG MAC CRAITH</P>
+    <P>(PATRICK W. MCGRATH)</P>
+    <P>AIBHISTÍN MAC AN DÉISIGH</P>
+    <P>(AUSTIN DEASY)</P>
+    <P>MÍCHEÁL Ó MAOLÁIN</P>
+    <P>(MICHAEL MULLEN)</P>
+    <P>SÉAMUS Ó SANFAOI</P>
+    <P>(JAMES W. SANFEY)</P>
+    <P>PÁRAIC Ó TUATHAIL</P>
+    <P>(PATRICK O'TOOLE)</P>
+    <P>AN tIARLA UÍBH EACHACH</P>
+    <P>(THE EARL OF IVEAGH)</P>
+    <P>MÍCHEÁL Ó hUIGÍN</P>
+    <P>(MICHAEL D. HIGGINS)</P>
+    <P Just="Center">agus</P>
+    <P Just="Center">and</P>
+    <P>MÍCHEÁL Ó hUIGINN</P>
+    <P>(MICHAEL J. O'HIGGINS)</P>
+    <P>UNIVERSITY MEMBERS</P>
+    <P>
+      <i>National University of Ireland</i>
+    </P>
+    <P>JOHN S. HORGAN</P>
+    <P>AUGUSTINE MARTIN</P>
+    <P>PATRICK MICHAEL QUINLAN</P>
+    <P>
+      <i>University of Dublin</i>
+    </P>
+    <P>NOEL C. BROWNE</P>
+    <P>MRS. MARY ROBINSON</P>
+    <P>TIMOTHY TREVOR WEST</P>
+    <P>PANEL MEMBERS</P>
+    <P>
+      <i>Cultural and Educational Panel</i>
+    </P>
+    <P>
+      <i>(a)</i> Nominating Bodies Sub-Panel</P>
+    <P>TIMOTHY MCAULIFFE</P>
+    <P>MICHAEL B. YEATS</P>
+    <P>
+      <Col N="5" />
+      <Col N="6" />
+      <i>(b)</i>  Oireachtas Sub-Panel</P>
+    <P>KIT AHERN</P>
+    <P>BILLY FOX</P>
+    <P>MARY WALSH</P>
+    <P>
+      <i>Agricultural Panel</i>
+    </P>
+    <P>
+      <i>(a)</i>  Nominating Bodies Sub-Panel</P>
+    <P>JACK BARRETT</P>
+    <P>PIERCE BUTLER</P>
+    <P>JOHN JOSEPH MCCARTIN</P>
+    <P>KEVIN O'CALLAGHAN</P>
+    <P>
+      <i>(b)</i>  Oireachtas Sub-Panel</P>
+    <P>BOB AYLWARD</P>
+    <P>BERNARD COWEN</P>
+    <P>JACK FITZGERALD</P>
+    <P>PATRICK MCGOWAN</P>
+    <P>JOHN M. MANNION</P>
+    <P>WILLIAM RYAN</P>
+    <P>LIAM WHYTE</P>
+    <P>
+      <i>Labour Panel</i>
+    </P>
+    <P>
+      <i>(a)</i>  Nominating Bodies Sub-Panel</P>
+    <P>SEÁN BROSNAHAN</P>
+    <P>JOHN HARTE</P>
+    <P>FINTAN KENNEDY</P>
+    <P>EVELYN OWENS</P>
+    <P>
+      <i>(b)</i>  Oireachtas Sub-Panel</P>
+    <P>JOHN BOLAND</P>
+    <P>SEAMUS DOLAN</P>
+    <P>DES HANAFIN</P>
+    <P>MARK KILLILEA</P>
+    <P>MICHAEL DALGAN LYONS</P>
+    <P>BERNARD MARKEY</P>
+    <P>WILLIAM O'BRIEN</P>
+    <P>
+      <i>Industrial and Commercial Panel</i>
+    </P>
+    <P>
+      <i>(a)</i>  Nominating Bodies Sub-Panel</P>
+    <P>JAMES DOOGE</P>
+    <P>DENIS FARRELLY</P>
+    <P>ALEXIS FITZGERALD</P>
+    <P>
+      <i>(b)</i>  Oireachtas Sub-Panel</P>
+    <P>JOHN J. BRENNAN</P>
+    <P>PATRICK (FAD) BROWNE</P>
+    <P>BRIAN LENIHAN</P>
+    <P>MICHAEL MOYNIHAN</P>
+    <P>GEORGE EDWARD RUSSELL</P>
+    <P>EOIN RYAN</P>
+    <P>
+      <i>Administrative Panel</i>
+    </P>
+    <P>
+      <i>(a)</i>  Nominating Bodies Sub-Panel</P>
+    <P>SEÁN BROSNAN</P>
+    <P>THOMAS KILBRIDE</P>
+    <P>BERNARD MCGLINCHEY</P>
+    <P>
+      <Col N="7" />
+      <i>(b)</i>  Oireachtas Sub-Panel</P>
+    <P>PHILIP BURTON</P>
+    <P>JACK GARRETT</P>
+    <P>SEÁN KEEGAN</P>
+    <P>ANDY O'BRIEN.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">I gcomhlíonadh Buan-Ordú a trí de na Buan-Orduithe i dtaobh Gnó Phoiblí táim tar éis cóipeanna de na deimhnithe ar thorthaí na votaíochta do chomhaltaí tofa a leagan faoi bhráid an Tí.</entry>
+            <entry rowsep="1">In compliance with Standing Order No. 3 of the Standing Orders relative to Public Business I have laid before the House copies of the certificates of the results of the polls for elected members.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election of" RHead="Cathaoirleach">
+    <Title>Election of Cathaoirleach.</Title>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I move:</P>
+      <P>That Senator Dooge be elected and do now take the Chair of the Seanad as Cathaoirleach.</P>
+      <P>I have pleasure in nominating Senator Dooge as Cathaoirleach.  Senator Dooge has been a member of the Seanad since 1961.  He has occupied the position of Leas-Chathaoirleach since 1965.  I have no doubt that Members on both sides of the House who had the privilege of serving in the House when Senator Dooge was in the Chair will agree with me that Senator Dooge has shown himself to be eminently suited for the position of Cathaoirleach.  All of us, on both sides of the House, who had experience of meeting in this House while he was in the Chair will agree that, in addition to his other qualities, he has demonstrated notwithstanding his own strong political convictions, his ability to be absolutely impartial.</P>
+      <P>Mixed with his other attributes for this position is the fact that he is a man who has shown that he has a sense of humour, which is often very useful in this particular post.  Time and time again he has demonstrated his good sense as a Chairman.  I have no doubt that Members on all sides of the House, whether they agree or disagree with the nomination I am making, will all agree with what I have said regarding Senator Dooge.  He is a man of very great experience as Chairman.  In addition to chairing this House of the Oireachtas on many occasions as Leas-Chathaoirleach, he has acted in that capacity elsewhere.</P>
+    </Speaker>
+    <P>In his own particular profession he is a man of very particular eminence, <Col N="8" /> frequently being sought abroad to lecture and to speak on his own particular subject.</P>
+    <P>On this first meeting of the Seanad it is only right that we should pay the tribute that is due to Senator Dooge by nominating him and electing him to the post of Cathaoirleach.  In fact, it is merely a promotion for Senator Dooge, which most of us, regardless of our politics, would feel is very much overdue.</P>
+    <Speaker pid="JohnFitzgerald" hpid="Mr. J. Fitzgerald Mr. J. Fitzgerald">
+      <NameTxt>Mr. J. Fitzgerald</NameTxt>
+      <P>It gives me great pleasure to second the motion by Senator O'Higgins proposing Senator James Dooge as Cathaoirleach of Seanad Éireann.</P>
+      <P>As Senator O'Higgins has pointed out, Senator Dooge has occupied the position of Leas-Chathaoirleach since 1965.  In his capacity as Leas-Chathaoirleach he has proved himself to be an excellent Chairman.  Those of us who have been privileged to serve under Senator Dooge must agree with everything that Senator O'Higgins has said in proposing Senator Dooge.  It therefore gives me great pleasure to second the proposition that Senator Dooge be elected Cathaoirleach to Seanad Éireann.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>On behalf of the main Opposition group, I wish to say that I entirely agree with the commendations that have been made by both Senator O'Higgins and Senator Fitzgerald with regard to Senator Dooge's fitness for the position of Cathaoirleach of the Seanad.</P>
+    </Speaker>
+    <P>As far as the Fianna Fáil Seanad group are concerned, there will be no opposition to this proposal.  It accords with the tradition of the Oireachtas <Col N="9" /> that there should be a sharing of positions of this kind.  Yesterday, the people also displayed their view that there should be a sharing of power within the Oireachtas.  We, therefore, are not opposing this proposal.  It is our view that it is in accordance with the parliamentary convention of sharing power in regard to an office of this kind.  As I have already said in regard to the people's wishes expressed yesterday, there should be an equal balance of appreciation in regard to the selection of the Leas-Chathaoirleach. We, therefore, intend to put forward a nominee for that post.</P>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I have great pleasure in being associated with the proposal to elect Senator Dooge an Cathaoirleach and to be associated with all the tributes that have been paid to him.</P>
+      <P>In the past at all times we have had an excellent Chairman in the Seanad and we have had excellent relations. Senator Dooge can be relied on to carry on this tradition.  The Seanad, in practice, has usually been a very mildly political body and has a great contribution to make.</P>
+      <P>Senator Dooge has at all times been in the forefront in trying to get the Seanad utilised to the fullness of its capabilities.  We hope that in his term as Cathaoirleach we will see much greater use being made of Seanad Éireann than has been made in the past.  We hope that this will fit in with the effort to adapt our parliamentary institutions to become the watchdog of our democracy in the EEC context. Therefore, it is great pleasure to feel that we have a man of Senator's Dooge's calibre, experience and broad-mindness to pilot us in this.  It is especially heartening to hear the words of the Leader of the Opposition, Senator Lenihan, who also endorsed Senator Dooge's appointment.  It is a happy augury for the future and I look forward to facing squarely what is the real issue in Seanad Éireann&mdash;reform or abolish.  I hope it will be seen at the end of this period that the solution will not be to abolish Seanad Éireann.  It is indispensable to Irish democracy in the context of the European Economic Community.</P>
+    </Speaker>
+    <P>
+      <Col N="10" /> I have great pleasure in being associated with the nomination of Senator Dooge who was a former colleague of mine in Cork.</P>
+    <P>Question put and declared carried.</P>
+    <P>
+      <i>Whereupon Senators rose in their places and remained standing while the Cathaoirleach proceeded to the Dais.</i>
+    </P>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>A chomh-Sheanadóirí, tá mé thar a beith buíoch díobh as ucht mé a thoghadh mar Chathaoirleach ar an Seanaid.  Ar ocáid mar seo is deacair labhairt gan tagairt a dhéanamh do Chothrom na Féinne agus ina dhiaidh sin bheith ag léimrigh ó cliché go cliché.  Accordingly, I do not intend to say much.  Those who were my colleagues previously know what to expect from me.  To those who are new to the Seanad, I hope that I can be of assistance to them in initiating them into the traditions and workings of this House.  To all of you, thank you for your confidence.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Date for Election of" RHead="Leas-Chathaoirleach">
+    <Title>Date for Election of Leas-Chathaoirleach.</Title>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The next item is the fixing of a date for the election of Leas-Chathaoirleach.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I suggest 20th June.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Wednesday, 20th June, is fixed as the date for the election of Leas-Chathaoirleach.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Messages" RHead="from Dáil">
+    <Title>Messages from Dáil.</Title>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Before proceeding with the remaining business, messages have been received from the Dáil as follows:</P>
+      <P>Dáil Éireann has agreed to the amendment made by Seanad Éireann to the Minimum Notice and Terms of Employment Bill, 1972.</P>
+      <P>Dáil Éireann has made the following Order:</P>
+      <P>That, in pursuance of Standing Order No. 56 of the Standing Orders relative to Private Business, a Select Committee be appointed to be joined with a Select Committee of Seanad Éireann to constitute the Joint Committee on Standing Orders.</P>
+    </Speaker>
+    <P>
+      <Col N="11" /> Dáil Éireann has made the following Order:</P>
+    <P>That, in pursuance of Standing Order No. 113 of the Standing Orders relative to Public Business, a Select Committee be appointed to be joined with a Select Committee of Seanad Éireann to constitute the Standing Joint Committee on Consolidation Bills.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I have received notice from Senator Mary Robinson that on the motion for the Adjournment tonight she proposes to raise the following matter: the absence of any proper remand home for juvenile offenders and the use of the Bridewell Prison for this purpose.  I am accepting that notice and the matter will be taken when the business ordered has been concluded.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It is proposed to take Nos. 5, 6, 7 and 8 and to take all Stages of No. 8 today.  In connection with No. 8&mdash;the EEC Bill&mdash;the Seanad could normally expect to take Motion No. 11 with the Bill, but as the Minister for Foreign Affairs is in Paris on State business I do not propose ordering No. 11.  However, I can inform the House that the Minister is prepared to attend the Seanad at the next sitting on the 20th June and, if necessary, on the 21st June to enable Motion No. 11 to be discussed to avoid a long delay in this regard.</P>
+      <P>At the next sitting it is also hoped to take the remaining matters which appear on the Order Paper for public business&mdash;the two motions dealing with the Department of Agriculture, the Local Rates Bill, the local Elections Bills and the motion for the Department of Education.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>I agree with the proposals made by Senator O'Higgins but I should like to emphasise that this report on the development of the European Economic Community is a very important one.  There is a lot of meat in it and it is important that we should have a very full debate at this stage.  As the situation develops within the Community, we may be in a position as a country not to be able to <Col N="12" /> make as decisive a contribution as we can at present.  I suggest that this matter be given priority and that a full two day debate take place as it is at this stage that valid contributions can be made in regard to the development of the Community.  In 18 months or two years time things may have passed us by so there should be a full debate of three days if necessary on this report which is a valuable document, which points out the way ahead and the problems involved in regard to the development of the European Economic Community.</P>
+      <P>The Bill is largely a technical one confirming regulations.  We can make points on it during the ensuing debate but we should give complete priority as a matter of urgency that this forum of the Oireachtas should have a very full and detailed debate on this first report which is the important one and it is in regard to suggestions on that report that we can seek to influence how we participate in the Community over many years ahead.</P>
+      <P>Order of Business agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Oireachtas Library Joint Committee:" RHead="Message from the Dáil">
+    <Title>Oireachtas Library Joint Committee: Message from the Dáil.</Title>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Dáil Éireann has passed the following Resolution in which the concurrence of Seanad Éireann is desired:</P>
+      <P>That it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann be set up to assist and advise the Ceann Comhairle and the Cathaoirleach in the direction and control of the Oireachtas Library.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann concur with Dáil Éireann in its Resolution communicated to Seanad Éireann on 15th day of May, 1973, that it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann be set up to assist and advise the Ceann Comhairle and the Cathaoirleach in the direction and control of the Oireachtas Library.</P>
+      <P>Agreed and ordered accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Oireachtas Restaurant Joint Committee:" RHead="Message from Dáil">
+    <Title>Oireachtas Restaurant Joint Committee: Message from Dáil.</Title>
+    <Col N="13" />
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Dáil Éireann has passed the following Resolution in which the concurrence of Seanad Éireann is desired:</P>
+      <P>That it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann be set up to direct and control the Oireachtas Restaurant.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann concur with Dáil Éireann in its Resolution communicated to Seanad Éireann on 2nd day of May, 1973 that it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann be set up to direct and control the Oireachtas Restaurant.</P>
+      <P>Agreed and ordered accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Delegates to Assembly of the" RHead="European Communities: Motion">
+    <Title>Delegates to Assembly of the European Communities: Motion.</Title>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I move:</P>
+      <P>That Deputies Donal Creed, Liam Kavanagh and David Thornley be and are hereby designated as delegates to the Assembly of the European Communities in the places of Deputies Conor Cruise-O'Brien, Justin Keating and Richie Ryan.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>When the predecessor of this motion was in discussion in this House prior to the General Election, myself and several other Senators objected to the way in which names arrive before us out of the air for appointment to the European Parliament and we urged very strongly a revision of the procedure for appointing members to the European Parliament.  We urged that the Government of the day should take steps to set up a Standing Committee of both Houses from which the nominations would come to both Houses.  It is no pleasure to me on the first sitting of the new Seanad to make precisely the same objections against procedure adopted now as I did on the last occasion.  If we are to be consistent this objection must be registered.</P>
+    </Speaker>
+    <Col N="14" />
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>I should like to associate myself with the remarks made by Senator Horgan.  This method of choosing a delegation to the European Parliament by the Oireachtas is a substitute for direct elections.  Under Article 138 of the Rome Treaty there is provision for direct elections and our Ministers for Foreign Affairs, both past and present, have made points that we would favour direct elections. What we are doing in choosing delegates for the European Parliament is a poor substitute for the direct elections and we make it even worse by the indirect way in which we do it.  I support Senator Horgan's arguments that on the wording of Article 138 it is the responsibility of the Parliament to decide how the delegates will be chosen and that the Oireachtas ought to set up a committee and set out the criteria and give these delegates a mandate.  At present the delegates going from this Parliament to the European Parliament have no coherent mandate, no particular role to play and never make any statement as to what is happening in the European Parliament, as to what they feel to be the priorities there or of the importance of what is being debated. We are losing an opportunity to forge a useful link for the time being between the Oireachtas and the European Parliament by not taking the selection of the delegates to the European Parliament seriously, by not having a formal procedure for choosing these delegates and by not giving them an express mandate as to what they could be fulfilling at the European Parliament.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>In principle I do not disagree with either Senator Horgan or Senator Robinson as to the desirability of the kind of procedure outlined by them.  So far as this particular item is concerned, the root defect has already occurred and all we are asking today is to substitute three names for three others who are now members of the Government and were chosen before they became members of the Government. I hope some such procedure as has been mentioned may be established in the future.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I hope that in the <Col N="15" /> reorganisation promised by the Leader of the House it may be considered worthwhile to give added status to the leadership of the delegation by a Minister without portfolio or at least a junior Minister for whoever leads the Irish delegation to the European Parliament.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="European Communities (Confirmation of" RHead="Regulations) Bill, 1973: Second Stage">
+    <Title>European Communities (Confirmation of Regulations) Bill, 1973: Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="ConorCruiseOBrien" hpid="Minister for Posts and Telegraphs (Dr. Conor Cruise-O'Brien) (for the Minister for Foreign Affairs) Minister for Posts and Telegraphs (Dr. Conor Cruise-O'Brien) (for the Minister for Foreign Affairs)">
+      <NameTxt>Minister for Posts and Telegraphs (Dr. Conor Cruise-O'Brien) (for the Minister for Foreign Affairs)</NameTxt>
+      <P>I should like first of all, Sir, to congratulate you on your appointment just now.  I should also like to say briefly, before I come to the substantive matters in the Bill, that I would hope to be coming back to the Seanad with matters affecting my Department substantially before too long.  The Broadcasting Act, 1960, was originally introduced in this Chamber, and I propose to follow that practice in relation to the new broadcasting legislation which will be introduced, I hope, next year.  I will be introducing it next year.</P>
+      <P>The European Communities Act provided that regulations made under it by Government Ministers would lapse six months after being made unless they were confirmed by Act of the Oireachtas passed within that period or unless they were regulations merely revoking wholly regulations previously made under the Act.  The first regulation made under the Act was made on 13 December, 1972; it is therefore necessary to have a confirmatory Act enacted by 12th June next and that is the purpose of the present Bill.</P>
+      <P>Senators will be aware that Ministerial regulations are necessary in order to implement here the legislation of the Communities which is not self-enacting, that is, directives and decisions under the EEC and EURATOM Treaties and recommendations under the ECSC Treaty.</P>
+    </Speaker>
+    <P>It is proposed in the present Bill to confirm 22 regulations made since 13th <Col N="16" /> December of last year.  This first confirmatory Bill is of course exceptional in that it was necessary at the very beginning of our membership to give effect here to existing Community legislation which had been adopted over many years and I would not expect that as many regulations as this would be required in &ldquo;normal&rdquo; conditions of membership.</P>
+    <P>As I mentioned, some of the regulations in the Schedule to the present Bill are required to give effect to Community legislation which was adopted before we acceded to membership. Some of the legislation was fundamental to the existence of a Community such as that to which we now belong. I would instance the European Communities (Judicial Notice and Documentary Evidence) Regulations, 1972, which are an example of regulations which are necessary in order to fit Community law into our legal system.</P>
+    <P>There are certain matters which need not be proved in our courts, because the courts take judicial notice of them, that is, are taken to know them already. Thus, by virtue of the Interpretation Act, 1937, the courts take judicial notice of Acts of the Oireachtas. Similarly, by virtue of these regulations, the courts now take judicial notice of the Treaties governing the European Communities, the Communities' Official Journal and decisions of, or expressions of opinion by, the European Court.</P>
+    <P>There are further provisions in these regulations regarding the proof in evidence of the authenticity of texts purporting to be the texts of certain documents relating to the Communities, including the Treaties, acts adopted by the Community institutions, judgments or orders of the European Court and documents in the custody of Community institutions or of a Minister of State.  These provisions are on the lines of those in the Documentary Evidence Act, 1925, relating to national legal texts.</P>
+    <P>The European Communities (Common Agricultural Policy) (Market Intervention) Regulations, 1973, appoint the Department of Agriculture and Fisheries as the market intervention agency <Col N="17" /> here for a certain number of agricultural products and thus provide of the necessary mechanisms for the operation here of the Common Agricultural Policy which is so important to our farmers.</P>
+    <P>As Senators will have remarked in the Explanatory Memorandum to the Bill, many of the regulations to be confirmed are of a technical nature and make only minor modifications to Irish practice.  I would instance the regulations dealing with customs matters, those on cycle tyres and on bacon levy periods.  Senators will have an opportunity later this month for a full debate on European Community affairs when a motion to take note of the first Report on developments in the European Communities comes before the House.</P>
+    <P>I might add that, with regard to proposals for legislation by the Communities, the Minister for Foreign Affairs is at present engaged in drafting proposals for the Government with a view to making suitable arrangements for the information of the Oireachtas and of delegates to the European Parliament on this draft legislation.</P>
+    <P>I commend the Bill to the House.</P>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>I am very glad to hear the point of view I expressed confirmed by the Minister in regard to having a very full debate on the whole implications, consequences and future development of the European Economic Community.  The place to have such a discussion is in the national Parliament.  A very full debate is certainly called for at this stage.</P>
+    </Speaker>
+    <P>There is one point I should like to make on the Bill before the House.  It relates to the type of debate I am sure we will have on the development of the Community and concerns the participation by the Oireachtas in the investigation of regulations and orders made under Community directives, either at home here under Ministerial orders or in regard to orders made by the European Economic Community. I accept that this Bill is essential as a fire brigade operation.  We must have these regulations confirmed by 12th June.  The people have made their decision with regard to the European <Col N="18" /> Economic Community, the Oireachtas has passed the legislation and, consequential on that legislation, these orders must be implemented by 12th June.  But it is the future procedure that concerns myself and people who are genuinely interested in the participation of all member states in the future development of the Community. At this stage, having regard to the urgency of the matter and a deadline involved, we will agree to the passage of this Bill but I would like to stress that there must be greater participation and involvement by all of us in the national Parliament in future orders, regulations and directives, whether passed by the National Government or the European Economic Community.</P>
+    <P>There was discussion during the passage of the European Communities Bill last year in the House about the establishment of an Oireachtas Committee. That committee would be concerned with EEC directives and regulations. I should like to see the scope of that committee extended to include orders made by Government Departments and Ministers here by reason of EEC directives.</P>
+    <P>There should be a wide-ranging permanent Committee of the Oireachtas which would not alone supervise regulations of the European Economic Community but also supervise regulations made by the Government and Ministers, by reason of directives of the Community.  In regard to the scope of the committee, which was suggested as a committee initially by the present Minister for Foreign Affairs, he did not include at that stage in his suggestions in the Dáil the whole ambit of domestic orders and regulations. These should be included because these are the particular orders with which we are concerned to confirm in this particular measure.  This should be a permanent and major Committee of the Oireachtas to ensure that everything pertaining to the European Economic Community, whether enforced through EEC or through domestic order or regulation, should be under permanent Parliamentary supervision here at home.  This whole area of liability will be of growing importance as far as our Parliament <Col N="19" /> is concerned but more especially for our people, the ordinary citizen and business person in the community, when they become more involved from the point of view of civil and legal obligations.</P>
+    <P>Our approach to this problem today is haphazard.  I accept that it has to be such by reason of the time factor and the fact that we have been in the Community only since 1st January and the fact that this Bill must be passed by the 12th June I accept this for the time being.  I want to issue a warning to the Government that we on this side of the House will not accept this haphazard approach in the future.</P>
+    <P>There must be a continuing parliamentary supervision of every order and regulation that emanates from the EEC and from our own Government arising out of EEC directives. It is only in this way that we can give full meaning to membership of the European Economic Community. Indeed, I would emphasise that this particular aspect of supervision in regard to Community regulations and directives is more important than the question of direct elections, which all of us are anxious to see achieved. Direct elections to the European Parliament, while a wish, may be some time away.  It is of far greater importance to ensure that we have in our national Parliament an adequate system of supervision in regard to directives, orders and regulations issuing from the European Economic Community.  This should be a priority.</P>
+    <P>It is important from our point of view as a nation that we are in touch with what is going on and that, through our elected Parliament, our people are made fully aware of developments within the European Economic Community.  It is only in that way that we can induce the climate that will lead to an acceptance of the more direct involvement which we all want, direct elections and participation by our people in a European Parliament.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>It seems to me that the Bill we are dealing with today is a very unsatisfactory one.  It is not the kind <Col N="20" /> of Bill we should reject, particularly owing to the fact that due to events of which we are all aware it has inevitably come to us at the last minute.  But it is unsatisfactory because of the way it is presented and the way in which we are expected to deal with these 22 regulations, some of which are of considerable importance.</P>
+      <P>The difficulty is that we have very little information about these regulations.  Twenty-two of them are listed in the Bill and the memorandum accompanying the Bill really gives the absolute minimum of additional information.  The first on the list, the European Communities Motor Vehicles Regulations, 1972, was unavailable in the Library this morning. I understand that it was not presented to either House of the Oireachtas.  This is the regulation that we are supposed to be enacting into law today and, indeed, was enacted into law by the Dáil a week or so ago.  It is now available in the Library because I asked for it.  This is the kind of situation in which we find ourselves.  Even if we did have copies of these regulations freely available this is not much help as I found in trying to plough through them.</P>
+      <P>I was, at first, encouraged listening to the Minister's speech today.  Most of his speech was, essentially the same as that delivered by the Minister for Foreign Affairs in the Dáil but I noticed there was an additional paragraph which, at first, I found encouraging.  In this he said:</P>
+      <P>I might add that, with regard to proposals for legislation by the Communities, the Minister for Foreign Affairs is at present engaged in drafting proposals for the Government with a view to making suitable arrangements for the information of the Oireachtas and of delegates to the European Parliament on this draft legislation.</P>
+    </Speaker>
+    <P>That is a good thing and I am happy to hear that is being done.  On looking at it a second time and, perhaps, with a colder eye, I realise that it relates to proposals for legislation by the Communities and not to these regulations. Even in the future it would seem that, in spite of these improved arrangements, <Col N="21" /> there is still apparently no intention to supply Members of the Oireachtas with regulations of this kind which are going to be made by the Irish Government.</P>
+    <P>The regulations in this Bill are of a technical nature.  Nearly all of them could be described as non-controversial but it is very difficult to deal with them. We are not in this House as individual Senators, experts in crystal glass, matters such as the national catalogue of agricultural plant varieties, or regulations about cycle tyres.  We are not experts in these matters and it would be difficult for us to deal with them in the course of a debate of this kind.</P>
+    <P>It is a more serious matter when one considers that these are regulations importing into Irish law the provisions of directives that have been enacted by the Council of Ministers on the proposal of the European Commission. To put it in more simple terms, the machinery of the European Economic Communities works in that law is made in two different ways.  You have regulations proposed by the Commission and enacted by the Council of Ministers which come into force automatically in the nine countries of the EEC without any further action being required by the various governments. On the other hand, you have directives which are directions to the governments to enact into law the provisions of these various directives.</P>
+    <P>What should interest us as Members of the Oireachtas is whether, in any particular instance, the Government have followed the directives, whether the provisions of these various regulations and the other regulations that will come in future years are strictly in accordance with the directives of the EEC or whether, as could happen, further additional items have been incorporated into these which are not required by the directives.</P>
+    <P>Alternatively, it is quite obvious that there are many different ways of importing an EEC directive into Irish law. For example, the second last item on the list, the European Communities Marketing Standards for Eggs Regulations, 1973, comes into force on 18th July and replaces an earlier regulation <Col N="22" /> which was brought in by the Minister for Agriculture and Fisheries on the 18th January last.  They are, in certain respects, different from each other.  The new version is an improved one and is altered in a number of respects.</P>
+    <P>The point I wish to make is that there are many different ways in which any particular directive could be enacted but we have no way of knowing whether the way these regulations are presented to us is the best way.  We know almost nothing about them but even if we did we cannot amend them. We could, of course, reject them.  We must either pass or reject them as there is no way in which they can be amended.  This seems to me to be entirely unsatisfactory.</P>
+    <P>We are now in the European Economic Community.  We took a decision&mdash; and it was a right decision&mdash;to join the EEC but, nonetheless, we must accept that there are certain dangers to democracy, to the rights of the elected representatives of the people in the whole EEC set-up.  There is very little we can do to control the hundreds and thousands of directives and regulations which come out every year from the Commission and the Council of Ministers. This is one of the perennial problems of the EEC.  We and the other eight countries will have to learn, as the years go by, particularly through the speeches in the European Parliament, improved methods of dealing with this immense mass of material which is coming out week after week.</P>
+    <P>These regulations are in a different field.  They do not stem directly from the Commission or the Council of Ministers. They are produced by our own Government.  It should be possible for us, in the Oireachtas, to consider them in detail and to amend them if we see fit.  They are on a quite different basis from the EEC law itself.  Some of these regulations which we are dealing with today are relatively non-controversial and not of vast importance, but some of them have a far-reaching effect.  I could quote a considerable number of them, but there is really no point in doing so.  I should like to mention just a few of the provisions.  For example, there is Statutory Instrument, No. 129, <Col N="23" /> European Communities (Fresh Poultry Meat) Regulations, 1973.  Paragraph five provides for fines of £200, at the discretion of the court, or for imprisonment as well for a term not exceeding six months.  These are fairly heavy penalties.  In paragraph eight there is also a provision for a fine of £200 or a term of imprisonment of six months.</P>
+    <P>There is also the European Communities (Marketing Standards for Eggs) Regulation which will be coming in on 18th July, which provides for licences being given to dealers in eggs and where the holder of such a licence called an authorisation, contravenes the provision of these regulations or of a Community regulation relating to the marketing of eggs, or fails to comply with a condition attached to such an authorisation, his means of earning a living may be revoked by the Minister. In addition, he would be guilty of an offence and be liable on summary conviction to a fine of £100 or to imprisonment for six months, or both.</P>
+    <P>Then it states that the Minister shall not revoke an authorisation and shall not take the egg dealer's licence away from him without telling him&mdash;that is nice&mdash;and he must give him the reasons why he is doing so and, in addition, he must afford the holder an opportunity of making representations to the Minister in relation to the revocation.  In other words, the Minister will not take his licence away from him without giving him a chance to complain.</P>
+    <P>This kind of power is fairly extensive. I remember a few years ago spending day after day in here in August, when we should have been on holiday and, instead of sitting on a rock in Connemara or somewhere, we were ploughing through the provisions of a famous or notorious Bill called the Marts Bill.  This had a provision, amongst others, which was violently objected to by the then Opposition, whereby those running marts could have their licences taken away by the Minister for certain breaches of the Act and, in that case, certain precautionary steps were laid down in the Bill.  There, again, the Minister had to tell the person why he was doing it but, in addition, before taking a <Col N="24" /> man's licence away under section 3 of the Marts Act, a statement had to be laid before each House of the Oireachtas that the man's livelihood was being taken away from him.  There was also provision for an independent inquiry to be made on the demand of the holder of the licence, the inquiry to be held by a barrister of at least ten years standing.</P>
+    <P>There are no safeguards for the dealer laid down in this particular order.  It is provided also that an authorised officer, that is, a Department inspector, at all reasonable times, can enter any premises, railway wagon, vehicle, ship, vessel or aircraft in which he has reasonable grounds for believing that eggs or industrial eggs are kept or produced.  These are the usual provisions that will be found in Bills dealing with agricultural matters for large-scale entry by inspectors to inspect private dwellings.  I accept that they are necessary.  I defended them at considerable length in relation to the Marts Bill and I would be willing to go along with them in any other legislation. These kinds of powers are necessary; these kinds of penalties are necessary. But, these kinds of powers and these kinds of penalties should be discussed by the Oireachtas.  We are passing these kinds of regulations and there are many other regulations such as these that I could go through which lay down criminal penalties of one kind or another, in licensing provisions, inspecting provisions, and so on.</P>
+    <P>We are discussing these.  We have not been sent copies of the regulations. I have already mentioned that one of them was not even in the Library this morning.  At least, in theory, notice is given in <i>Iris Oifigiúil</i> of the making of these regulations and I suppose, in theory, one should read them every week; send off 5p to the Government Publications Office and get copies of them.  In fact, one does not.  It is wholly undesirable that we should be eroding the democratic rights of the people in this way and enacting 22 pieces of legislation in one sheet like this, legislation which we have not seen, about which we know very little and, even if we had seen it, we would still have no real way, short of spending months at it, of <Col N="25" /> finding out if it was in accordance with the original directives, or what the original directives were.  In at least one case in the memorandum it does not even say what directive of the EEC has required the making of the particular regulation.</P>
+    <P>How can one deal with this situation? We are still new in the EEC and we will have to try to devise means of dealing with all the problems that may arise.  How can we deal with this particular one?  The EEC committee of the Dáil and Seanad which was being discussed last January must be set up immediately.  I have never been quite clear what the functions of this committee were to be.  The committee, as I understand it, was originally intended to consist of 20 members, that is, the ten members of the European Parliament and ten others of whom three should be from the Seanad and seven from the Dáil.  I was never quite clear as to precisely what powers and duties they should have.</P>
+    <P>One obvious point which occurs to me is that this committee could help to keep some members of the Oireachtas informed about events in the EEC. They could give detailed information about what was going on and how these matters might affect our country. They could also perform a useful task in deciding what type of library and other research facilities they felt were needed to enable us to keep abreast of Community legislation.  Their main function &mdash;the one that people mostly had in mind&mdash;was that they would try to consider proposals by the Commission before they had been acted upon by the Council of Ministers.  I shall return to this point later as I believe it is the main duty the committee will have but it is an extraordinarily difficult one to carry out.</P>
+    <P>The fourth duty&mdash;one which, I think, was never proposed that they should have but it seems to me elementary and one it is essential that they should have it&mdash;is the power of dealing with Irish Government regulations such as we have in this Bill.  There is no great difficulty involved in the first two potential functions of the committee. It is obvious that the committee will be <Col N="26" /> able, without much difficulty, to keep at least themselves informed and anyone else who is interested about EEC matters.  They could certainly press for improved facilities for members with regard to EEC legislation and other matters of that kind.</P>
+    <P>Their main task is much more difficult.  The experience of the original six members of the EEC suggests that it is extraordinarily difficult for any committee of Houses of Parliament to keep abreast of events in the EEC.  The most elaborate effort was made in Germany.  In setting up an EEC committee we will be the only country&mdash;perhaps Britain will have one&mdash;in the EEC with an EEC committee because the normal Continental practice is a whole range of committees each of them dealing with specific types of legislation.  The Germans, for example, would have about 12 or 15 committees dealing with different aspects of political affairs and when a matter dealing with a directive, regulation or anything of that kind at EEC level comes up it would be sent to the relevant committee.  Where we would have one committee, trying to keep abreast of the thousands upon thousands of items of legislation going to and fro in the EEC, the Germans have 12 or 15 such committees.  They have found it utterly impossible, even with all their committees, to keep abreast of the EEC work.  I do not know how our committee will even begin to do its work. It will be very difficult.</P>
+    <P>Another possible function which must be given to the committee is a much easier one to perform; it deals with Irish Government regulations.  We have 22 regulations that have arisen since last January but almost all of them are a backlog arising from problems raised by our recent entry into the EEC.  Our former Minister for Foreign Affairs suggested that about ten or 20 regulations per year would be the maximum number we would have to deal with and the committee would be able, without any great strain, to deal with that number.</P>
+    <P>The best way to deal with this situation would be if each Minister, before making a regulation, came to the committee and discussed with them the <Col N="27" /> form that the regulation should take before the regulation was brought in. It might be said that problems of urgency would arise here.  I doubt if the problems of urgency would frequently occur.  We all know that the original directives on which such regulations are based frequently lie around in the Council of Ministers for years on end before anything is done about them. If one looks back one will find that the original directives of many of these regulations were first thought of many years ago.  Matters move very slowly in EEC circles so I doubt if urgency would very often arise.  However, if a Government regulation had to be brought in urgently, I am sure it would be a simple matter to provide that it be brought in by the relevant Minister and then discussed by the committee.  After that, the committee in each case could report to the Dáil and Seanad and put forward their views on it, whether they felt it should be amended or whether they felt it should be agreed to.  It is only with a committee of this kind that we would have any possibility of dealing adequately with the mass of material we have before us today.  I would prefer if the discussion of such material by the committee was done beforehand.  It is much easier to deal with regulations of this kind before they are made.  Once they have been made and the committee propose amendments that would entail the introduction of new regulations.</P>
+    <P>How should this committee be formed?  The original idea, as I have mentioned, was that there should be 20 members, ten of whom would be Members of Parliament, seven from the Dáil and three from the Seanad.  During the recent debate on this Bill in the Dáil the suggestion was made that members of the European Parliament should not be members of this committee.  I would prefer not to be on any such committee. Certainly no member of the European Parliament could welcome the idea that when he returned from the European Parliament in Brussels or Strasbourg he would have to deal with more EEC business on the joint committee of the two Houses.</P>
+    <P>
+      <Col N="28" /> From every point of view, nonetheless, it would be a great mistake to eliminate members of the European Parliament from this Joint Committee. In the first place, those of us who are members of the European Parliament could be of great help to the committee.  Obviously, we would have a specialised knowledge, particularly from the work that we have put in on our own committees of the Parliament, which would be very valuable to the committee.  Also, and perhaps more important, we could ourselves gain greatly from membership of the committee.  The committee, for example, could ask us as members to deal with certain matters they felt should be raised either at the Parliament or at the committees of the Parliament.  It is essential, of course, that all Irish members of the European Parliament should be in constant close touch with our fellow members of the Oireachtas.</P>
+    <P>The question of direct elections has been raised and I do not propose to deal with it on this Bill.  I shall be saying something on that matter when we come to discuss the report on 20th June.  One of the problems arising from direct elections would be that you would be cut off from contact with parliamentarians.  This kind of contact is very necessary if we are to play an adequate part in the European Parliament.  Naturally, members of the European Parliament would very often be absent.  Many of the meetings of the joint committee would have to be held without them but I imagine that there should be no great difficulty when specialised matters come up in arranging meetings on those points when they were back in Ireland.</P>
+    <P>I would like to stress that this Bill is not ordinary subsidiary legislation. The Minister may well say that any Government in any year produces perhaps hundreds of regulations of this kind and it is not considered necessary that they should be discussed at length by a parliamentary committee but it is not just a matter of regulations of this type.  The regulations we are dealing with today are unique in that the ordinary Government regulations, subsidiary legislation, statutory orders <Col N="29" /> and so on, derive their authority and legal existence from legislation that has been passed through the Dáil and the Seanad.  The regulations, on the other hand, derive their authority from directives&mdash;or maybe regulations&mdash; which have stemmed from the Council of Ministers through the Commission, over which we have no direct power. In other words, we in the Oireachtas are not able directly to influence the making of the directives on which these regulations are based.</P>
+    <P>There is a fundamental difference between a situation where a Minister issues an order under a Bill, with power given to him by us in a particular Bill, and these regulations which are issued by a Minister under a power given to him by the bureaucracy in Brussels.</P>
+    <P>There is also perhaps the more important point that these EEC regulations are far more important than the ordinary type of subsidiary legislation. This is not the kind of relatively minor ministerial orders that are issued under various Acts of the Oireachtas.  Many of these are of great importance.  They deal with the livelihood of people. Those we have today deal with the rights of people to fish in our territorial waters, with the rights of people to earn their living in a variety of respects, and with the enforcement of Community judgments.  In the future, we will have regulations which are of far-reaching importance, and which may in many cases affect the whole way of life of vast sections of our community. We cannot allow a situation to arise where things of this importance are treated as if they were minor subsidiary regulations dealing with such matters as the siting of traffic signs.</P>
+    <P>These are very important and we must look at them in that way.  On this occasion we must pass this Bill.  On future occasions the Government will have to think very seriously about having it done in a better way.  The only way I can think of is that any such Government EEC regulation should be discussed at length, as if it were an ordinary item of legislation, with the new Committee to be set up.</P>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I agree with much of <Col N="30" /> what Senator Yeats has said, but I do not think that we should overstate the case either.  This is a particular set of circumstances that has arisen due to the fact that an amount of legislation concerned in this Bill was enacted before we joined the Communities.  It is a situation that will not recur.  That should be emphasised.  I am quite sure that the Government are fully alive to the situation.  In regard to future regulations, an opportunity will be given in ample time to discuss these and to advise this House of what the regulations mean in depth.</P>
+      <P>I should like to support Senator Yeat's suggestion that this Joint Committee should be set up as soon as possible.  We discussed this before in the previous Seanad and we decided it would serve a very useful function by giving Members of both Houses an opportunity to participate more fully in the regulations of the EEC, and also to become more familiar with their operations.  We must not forget that we voluntarily decided to limit our sovereignty to a marked degree when our people decided in a referendum to join the European Economic Community. Much of the legislation that would be passed and made law in this country and in the other member countries would be put into practice whether we liked it or not, and we would be obliged to put it into practice; in matters of decisions and directives there would be very little power, and in some cases no powers at all, except to adopt the legislation.  However, we have some limited power, although a negative power, in regard to regulations: they automatically lapse if they are not confirmed in the intervening period of six months.  These deserve to be studied not as academic exercises or mere technical documents.  I should like to see this Joint Committee studying them in depth to see what the result of these regulations would be.</P>
+    </Speaker>
+    <P>I have in mind one that comes before us today to be confirmed.  The first regulation &mdash; European Communities (Motor Vehicles) Regulations, 1972&mdash; provides for certain protection for the motor vehicle industry up to 1985.  I see a possible danger in merely renewing this by confirmation every six <Col N="31" /> months.  We forget that we are dealing with a very important industry in which a large number of men are employed. Judging by recent publicity affecting one of the motor assembly plants here, we may be talking about a protection which exists only in name, which means nothing in terms of employment or in the progress and prosperity of the industry.  I should like to see this Joint Committee studying the condition of the industry and the condition of the fisheries, or whatever may happen to be concerned in this regulation, and coming back to this House and the other House with the detailed report on the effects of the regulation.</P>
+    <P>I do not know what powers our Government have to change these regulations or to amend them.  I know that by not confirming them, they automatically lapse.  With the passing of time, if they require adjustment, can we do anything about it In other words, how much of a rubber stamp are the joint Houses of the Oireachtas?  I know there is very little we can do about much of the legislation that will be passed in Brussels.  However, until such time as we have direct elections to the European Parliament, I agree with both Senator Lenihan and Senator Yeats that it behoves us in this House&mdash;and the Dáil&mdash;to be fully alive to the legislation coming through, so that we can do something about it.  For that reason, I hope the Joint Committee will be set up fairly shortly.</P>
+    <P>We should not overplay the situation in regard to this Bill.  It provides for a set of circumstances that arose through the delay in our accession to the European Economic Community.  It will not occur again and if only ten or 20 regulations come through in a year, it should not be a vast task for an active Joint Committee to report on them and to study them in depth.</P>
+    <P>I would like to see the members of the European Parliament represented on this Joint Committee.  They would be a very useful link between the two Houses of the Oireachtas and our representatives in Europe and would help other Members who are not participants in the European Parliament to become more conversant with it. <Col N="32" /> Through them, I should like to see the public at large and other public bodies outside the Houses of the Oireachtas becoming more familiar with the workings of the European Economic Community. I see a danger in our particular circumstances, because we have been isolated from European affairs for so long, of becoming almost apathetic to what is going on in Europe, and then waking up too late and blaming a Parliament far removed from our shores.  The more our people, as a whole, can participate by knowledge and experience in the workings of the Community, the more they will appreciate what it stands for and how it will benefit and effect their daily lives.</P>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>This Bill has been described as a technical Bill.  I am afraid I cannot regard it in this light because it embodies a fundamental principle.  Taking into consideration the principle of whether the Oireachtas has any role play in the process towards European integration takes it out of any question of technicality and ranks it as one of the most important Bills that has come before the Oireachtas in recent years.</P>
+      <P>I support very much the criticisms made by other Senators.  I go further. They seem to have accepted that this is a Bill which had to happen&mdash;that this was the only way of implementing the regulations contained in the Schedule and thereby implementing the statutory legislation of the European Parliament.  I do not accept this.  I accept there was a choice of methods and we chose the one which was least democratic, that paid least attention to the two Houses of the Oireachtas and that deprived Deputies and Senators of knowledge of what was taking place.  I propose to give my reasons for this and to indicate that I do not propose to support this Bill.  I regard it as a serious matter that Parliament is being deprived of the role which it could play.</P>
+      <P>In the second paragraph of the Minister's speech introducing this Bill he stated:</P>
+    </Speaker>
+    <P>Senators will be aware that ministerial regulations are necessary in <Col N="33" /> order to implement here the legislation of the Communities which is not self-enacting, that is, directives and decisions under the EEC and Euratom Treaties and recommendations under the ECSC Treaty.</P>
+    <P>Article 189 of the Rome Treaty which deals with the question of directives makes it clear that it is up to the national country to decide how secondary legislation will be implemented.  I quote from Article 189:</P>
+    <P>A directive shall be binding, as to the result to be achieved, upon each Member State to which it is addressed, but shall leave to the national authorities the choice of form and methods.</P>
+    <P>Therefore, it is in our hands to chose the form and method by which we implement secondary legislation coming from Europe.  One way in which we exercise that choice is by the European Communities Act which was passed during last year and which provided in section 3 that &ldquo;a Minister of State may make regulations for enabling section 2 of this Act to have full effect&rdquo;, that is for enabling the Community provision to have effect.  It is necessary to read section 2 carefully.  It states:</P>
+    <P>From the 1st day of January, 1973, the treaties governing the European Communities and the existing and future acts adopted by institutions in those Communities shall be binding on the State and shall be part of the domestic law thereof under the conditions laid down in those treaties.</P>
+    <P>In other words, to the extent that the directives purport to be part of domestic law they shall be part.  We know they do not purport to be part of the domestic law in the sense of being enacting or self-executing.  Sections 3 provides a facility for allowing Ministers by regulations to implement the secondary legislation of the Communities. It does not say that the Oireachtas may not have a role in enacting legislation in the normal way.  This is important. As I shall point out in examining some of these regulations, it might have been proper for the method of implementation by ordinary legislation of the Oireachtas to have been chosen and <Col N="34" /> not this single method of implementation of directives of the European Community by confirmation of regulations under section 3 of the European Communities Act, 1972.</P>
+    <P>A problem with the method provided for in the European Communities Act, of which I was critical then and still am, is that it narrows the choice of the Oireachtas to an absolute minimum if the choice is merely one to confirm or to reject but not to amend. Senator Russell made this point that it is not a choice even to be able to choose regulations.  It is a very minimal choice.  In my submission it has been reduced to a point of absurdity because Senators and Deputies were not circulated with copies of the statutory instruments they were supposed to be confirming.  This is a matter without precedent.  During the time I have served on the Seanad Committee of Statutory Instruments, the members of the committee have been circulated in advance with the statutory instruments concerned, of which there is usually a very large number.  We get them sufficiently in advance to be able to examine them in order to make a determination as to whether they are in conformity with the terms of the parent Act under which they were enacted.</P>
+    <P>This is important because, like Senator Yeats, I had considerable difficulty in getting hold of some of these statutory instruments.  I went to the Government Publications Sale Office and was unable to obtain five of these statutory instruments so that, despite an effort to find out what we were supposed to be confirming, I was not able to do so in the normal way because they were not available.  I hardly think they were sold out.  It is more likely they were never published or made available to members of the public or to Members of this House.  Therefore, we are in the position of being invited to come here today to pass a Bill confirming statutory regulations which most of us have not looked at.</P>
+    <P>This is the role which it is conceived the Oireachtas will play in relation to the implementing of secondary legislation from Europe into Irish law.  The Oireachtas should not be prepared to accept that their role in this respect <Col N="35" /> can be reduced to such a minimum.  If section 3 of the European Communities Act is regarded as one of the choices, there are areas where a section 3 regulation is appropriate and there are areas in relation to some of these regulations before us today where there are small technical points which can be implemented in this way.  But where there are policy considerations or where there is an importance that justifies the publicity of having a Bill before the Oireachtas in my submission there is nothing in the European Communities Act to prevent the Oireachtas from passing the Bill to implement the directives and the obligations under them. It is not necessary to by-pass the Oireachtas and the Members of the Oireachtas should be very concerned not to allow themselves to be easily by-passed in this way.</P>
+    <P>Looking at the content of some of the regulations it is interesting to note that where we choose to implement provisions in this way by ministerial regulations, in other countries these were contained in the text of the European Communities Act.  We need not necessarily assiduously follow the practice in other countries but it is interesting that the European Communities Act contained many of the provisions which are in these regulations, such as the provisions for judicial notice of documents of the Communities and the provision in relation to the common agricultural policy.  The effect of that was that the Parliament at the time of the passing of that European Communities Act knew in a more full way and lawyers could find the particular provision but it is difficult for a practising lawyer to find these statutory instruments and it is a much less satisfactory method.</P>
+    <P>One of the instruments to which I should like to refer specifically seemed to me to give a very broad power.  I am not being dogmatic in this and would welcome the views of other Senators as to whether this is a proper intrepretation of this statutory instrument&mdash;it is No. 329 of 1972 and is called the European Communities (State Financial Transactions) Regulations.  It provides that the Minister for Finance in exercise <Col N="36" /> of the powers conferred on him by section 3 of the European Communities Act makes these regulations and they provide for payments from the Central Fund to discharge Community obligations.</P>
+    <P>Paragraph 4 of this regulation provides &ldquo;Any payments necessitated by the obligation of membership of the State of the European Communities may be made from the Central Fund or the growing produce thereof.&rdquo;  It provides for advances by the Central Bank to the Minister for payment to the European Investment Bank.  The Central Bank of Ireland may advance to the Minister monies required to make any payment to the European Investment Bank arising from membership of the State of the European Communities. It also states: &ldquo;Advances may be made from the Central Fund or the growing produce thereof to the Minister for Agriculture to enable him to discharge functions in connection with the common agricultural policy of the European Communities.&rdquo;</P>
+    <P>If one of the basic functions of a parliament traditionally has been control over moneys in the sense of knowledge of what moneys are being dispersed by the Government, then we are giving a <i>carte blanche</i> to the Government to make any moneys available to the Central Fund or to the European Investment Bank without any further need to come back to the Parliament.  I am aware that this payment will be to meet obligation which the State has.</P>
+    <P>The aliens regulation is also an important one with a good deal of policy content.  For example, a residence permit may be refused if the Minister is satisfied that it would be contrary to public policy or would endanger public security to permit the person to remain in the State.  It would have been interesting to question what exactly we mean by public policy in this context which would enable a Minister, if satisfied, to exclude a national from one of the European Community countries from setting up residence here and working here.  It would have been very useful to have a debate on this matter and for comments to be made on this particular point; to see whether this Bill is giving <Col N="37" /> too much power to the Minister and whether the Parliament might prefer if there was some sort of independent tribunal or some mechanism to determine whether it was fair either to withdraw a residence permit from somebody or to refuse him entry.</P>
+    <P>I am aware that under the directives there is the possibility of this reserve on the part of the Irish nation, a reserve based on <i>Ordre Publique</i>, Public Order, or on national security. It is a matter of which we should be aware.  We ought to discuss on the floor of the House what exactly is the scope of this concept of public policy which would either exclude people from coming to this country to take up residence and work or from staying here when they apply to have their residence renewed, or even in some circumstances from having their residence determined.</P>
+    <P>Again, as Senator Yeats pointed out in the context of another regulation, there are substantial offences possible, by reference back to the Aliens Act, 1935.  These are still summary offences because they are the only limit to which the Minister can go in these regulations since he cannot create an indictable offence.  Happily, when the Bill was going through the Seanad this amendment was made.  It was made by the former Government, bringing in this amendment consequent on the Second Reading debate.  That is the only limit on what the Minister can do.  Apart from that, he can amend or vary Irish law.</P>
+    <P>What I have been trying to show is that the statutory instruments in question are not merely technical. Some of them have a high policy content.  The choice of using this method, in my view, was a bad choice and some of them would have been more appropriately enacted by Acts of the Oireachtas, going through the final Stages in the Dáil and then coming up to the Seanad for full consideration. This is particularly so if, as we are told, this is an unusual circumstance where we are implementing 22 regulations which were part of the Community secondary legislation before we joined it and that this is more than we would usually have to pass and obviously of considerable importance. <Col N="38" /> There was an opportunity for the Government to involve the Oireachtas in this process of European integration by introducing Bills. The obligation to implement directives is a direct obligation.  It is not one which imposes such rigid time limits that it would not have been possible to discuss them further.  In any case it would have been possible to anticipate this matter by introducing these regulations in sufficient time to meet our obligations under the EEC Treaties.</P>
+    <P>Having made the choice to use the method which gives the most minimal role to the Oireachtas, this was aggravated by the complete lack of information, by the lack of availability of these statutory instruments to Deputies and Senators and by the reduction of their role, as pointed out by Senator Russell, in this matter to that of a rubber stamp.  This is what we all feel we are doing today.  It is a very deplorable precedent if we have to fulfil the role of a rubber stamp twice a year from now on because we have joined the European Communities.  It is a lesson in how easily our democracy can become eroded.</P>
+    <P>Certain other Senators have addressed themselves to the question of devising more effective control through a joint committee of the Oireachtas.  I would agree with those in favour of the establishment of this joint committee and I would further submit that they would have a role to play at the two different points in the time-scale for European legislation&mdash;at the point when the proposals are still draft proposals.  There could be a very constructive role to play at that stage, whether they are draft proposals or regulations or directives or the general budget or the social or regional policy; but whenever they are in draft, going from the Commission both to the Council of Ministers and continuously, as happens now, to the European Parliament they ought also to be transmitted to an Irish joint committee on European affairs of the Oireachtas.  The policy content and the implications for Ireland should be examined.  Obviously, if this is to be a useful exercise, then this committee would have to have power to call in <Col N="39" /> civil servants for their co-operation as to how these proposals, if they were passed to the European level, would be implemented into Irish law.</P>
+    <P>This approach should be adopted in order to avoid a confrontation between the Parliament and the bureaucracy.  It would be advisable that this committee be given power to call in outside technical assistance, to call in assistance from a particular State-sponsored body if that were appropriate to the subject matter; to call for expert reports and, in other words, to be a policy committee&mdash;the sort of committee that, as yet, this Parliament has not really evolved.  That would be when the proposals were still in draft and when there is the opportunity, because of the fluid nature of the European legislative process, to find out what is being proposed and influence the final decision on legislation.</P>
+    <P>Secondly, there is a role for the Oireachtas committee, as Senator Yeats has suggested in relation to the regulations under the European Communities Act which implement certain Community legislation which is not self-executing into Irish law.  I like very much the suggestion that there might even be a discussion with the Minister as to the way in which a particular Department would implement the obligations of a directive; that there would be prior consultation so that the regulation did not arrive, as these regulations have done, until it was too late for the Parliament to have any influence on them, too late to be anything more than a rubber stamp after being six months in operation.</P>
+    <P>If the decision was taken to set up a committee with this sort of power and to allow them to operate at both ends of the process of European legislation, it would also be necessary to provide this committee with sufficient information to make a rational decision and to discuss fully the content of the proposals or the ministerial regulations.  Here the onus would have to lie on the Government.  Whenever the commission send draft proposals to the Council of Ministers, they automatically and necessarily send them to the Irish Government, to the <Col N="40" /> Minister for the time being at that Council of Ministers.  It is at that point in time that the Irish Parliament ought to be used by the Government for the purpose of considering the draft proposals concerned.</P>
+    <P>We ought to adopt the practice which is at present implemented in the Westminster Parliament of sending round to all Deputies and Senators a list of draft proposals from the European Communities and asking them to indicate those they wish to have sent to them.  The Irish Government should also undertake, as the British Government has now done&mdash;I say this not because we should necessarily ape British practice, but it is interesting to know how other countries are facing the same sort of problems as we are&mdash; to supply the information in relation to internal responsibility for implementing European Community secondary legislation.  It has undertaken, in relation to each draft proposal, to indicate the Ministry responsible, the policy considerations, to what extent there will be or has been consultation with interests, how these proposals will affect existing enactments of law and to give sufficiently in advance a very clear picture of what the internal implications of the draft proposals would be.</P>
+    <P>These suggestions were embodied in a report of the select committee on secondary legislation of the House of Commons which reported in February. There was, subsequently, a debate on this and the duty to provide sufficient information was accepted by the British Government and has now been implemented by them.  In addition, each Minister coming from a meeting of the Council of Ministers at which there was an important decision taken undertakes to report specifically to the House of Commons on the implications of that decision.</P>
+    <P>I do not think we have yet reached the stage where a Minister, who takes part in important discussions at the Council of Ministers, undertakes to report back to the Parliament.  Deputies and Senators still read in the newspapers accounts of what has happened at the Council of Ministers and do not get a detailed account from the Irish <Col N="41" /> Ministers to the Oireachtas.  I see the possibility of danger in devising mechanisms for making the Oireachtas relevant.  One might take a backward step and find that the Parliament was resisting the process towards a European integration.  I believe that is a risk that is worth taking.  It is better to have a Parliament resisting the process towards European integration and European law-making than a Parliament that is totally irrelevant to it.  What we have at the moment in the present European Communities (Confirmation of Regulations) Act is a Parliament that is irrelevant to the European process.</P>
+    <Speaker pid="NoelCBrowne" hpid="Dr. Browne Dr. Browne">
+      <NameTxt>Dr. Browne</NameTxt>
+      <P>I am sorry that we are not able to discuss both the Bill and the developments in the European Community at the same time.  The important factor here is the one to which Senator Robinson referred and that is the basic principle which is being altered in a radical way by virtue of the fact that we are presented with a two-sheet speech by a Minister.  I do not imply any criticism of the Minister because much the same speech was delivered to the Dáil by the Minister for Foreign Affairs, Deputy FitzGerald.</P>
+      <P>The speech covered an enormous amount of implications in regard to the changes of the practice of parliamentary democracy in our country and the consequential effects on the different sectors of industry, agriculture and fisheries and the personal professional technical lives of the whole community.</P>
+    </Speaker>
+    <P>I suspect that a Minister more conscious of his responsibilities to either House of the Oireachtas would have attempted to provide a slightly more modest fig-leaf to the remaining shreds of the parliamentary charade gradually disintegrating since our entry into the Common Market.  Deputy Ryan described the Bill under which the provisions of the European Communities Act, 1972, were made as a Bill which was sounding the deathknell of democracy in an Irish Parliament.  One would have imagined that either the Minister for Foreign Affairs, Deputy FitzGerald, or the Minister for Posts and Telegraphs, Deputy Cruise-O'Brien, would have sprinkled a little holy water on <Col N="42" /> the remains in the process of their introductory speeches.  I think this is particularly serious.  I am particularly concerned as a person who is deeply committed to the whole democratic idea. There is no doubt that the Dáil, and most European Parliaments, have been allowed to retain many archaic features from institutions established for a completely different time and different needs.  That has been due to the inertia of all legislators in all parties and in all Governments.</P>
+    <P>Senator Russell pointed out perfectly honestly that we do not really know what we are debating.  We are being asked to implement certain regulations. There is no detailed, or nearly detailed, assessment of the effects, influence, or consequences in human terms, in financial or economic terms, in terms of national sovereignty, from the Government, in spite of their grave concern expressed in Opposition, at this death of the democratic system. We saw yesterday&mdash;some heard it as an echo&mdash;the most dangerous manifestation of the state of disinterest which the younger generation have in these institutions already, in the young people's failure to concern themselves with the Presidential election.</P>
+    <P>When a proposal is made in this cursory way it is very difficult to persuade anybody that the Houses of the Oireachtas have any serious or significant function and, whatever functions they had up to now are to be greatly attenuated in the months and years ahead.  This represents a very serious and continuous deterioration in the faith of the younger generation who have to take on the operation of these institutions.  It is very difficult to blame them when we take ourselves with such political levity that we should sit here discussing this Bill, with all its implications, in a matter of hours.  I do not think there is anybody who could tell us what we are deciding here today, beyond exercising the administrative function of ratifying something which we are told would be good for us if we ratified it.  That is not the act of mature and responsible legislators.  We should either allow this central bureaucracy to take over our affairs entirely and run them, we hope efficiently, or else, <Col N="43" /> we should insist that we continue to have the right to consider all the matters implicit in this kind of Bill and, only after mature consideration of all the implications, give our opinion. If we give an opinion it should be based on all the available facts.  We have been led to accept this kind of thing as becoming inevitable.  To a conscientious legislator it is humiliating to be presented with this kind of <i>fait accompli</i> and to be used as an alleged House of Parliament when we are legislating about issues which we do not fully comprehend because of a lack of full information about them.</P>
+    <P>I find it particularly objectionable because clearly it is a retrograde step in terms of effective democracy when the whole community have shown themselves time and time again to be well prepared for the whole process of taking decisions about their lives and their future and their own welfare. Instead of attempting to bring about a devolution of power even from this House down to the periphery, down to the people, trusting them with these rights, these powers and these functions, We are withdrawing power from them, abrogating whatever powers we have ourselves and vesting them in this central bureaucracy in Brussels.</P>
+    <P>Over the years the basic conflict in our Parliament which has divided us here has been this general feeling of repugnance against the idea of the democratic centralist idea of government, the process of government, with decisions taken by a bureaucracy and then referred out to the periphery.  The periphery took them and had little further say because they had little or no influence in relation to these decisions. This was epitomised, I suppose, in the Stalinist era of the USSR.  It is the complete anthithesis of the type of representative democracy in which we have said we believe.  It astonishes me to see Senators and to watch Deputies in the Dáil so readily giving up their authority, their power and their capacity to determine the way in which their own lives should be run. This was one of the main points made by the Labour Party in the whole <Col N="44" /> EEC campaign.</P>
+    <P>Some of us should make some attempt to dissociate ourselves&mdash;I certainly would like to dissociate myself&mdash; from this Bill which I believe would be an insult to Parliament if it were passed in a deliberative assembly.  I would not mind this happening in one of the Siberian States in the old USSR because they had little or no choice but, after 50 years establishment of an independent Parliament, to accept that we should hand over these rights and decisions as readily as this is something I oppose.</P>
+    <P>In one of these proposals we make available £1.6 million in 1972-73 and £6 million in 1973-74.  There are many businessmen here and there are many fathers of families and others who are involved in attempting to work within budgets, make ends meet, or deal with finance or money in one way or another; they are all conscious of the need to be careful of the way in which they spend money, of knowing why they are spending it, on what they are spending it, if they are spending it well and wisely, if it could be better spent. Is there any other way this money could be raised rather than from our pockets as taxpayers and ratepayers?</P>
+    <P>Under section 6, in 1972-73 we spent £1.6 million and in 1973-74 we will spend £6 million.  I would like Senators who really know where that £6 million is going to put up their hands.  Does the Minister know where it is going?</P>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>He cannot be quoted.</P>
+    </Speaker>
+    <Speaker pid="NoelCBrowne" hpid="Dr. Browne Dr. Browne">
+      <NameTxt>Dr. Browne</NameTxt>
+      <P>That is honest anyway. It is a very obvious point.  The figures are there in the small print.  Knowing little or nothing about some of the subjects here our ignorance is profound. Do we not all admit it?  Is it not irresponsible of us to accept the ratification of a Bill of this kind with as little information as we have before us?  It surely makes a complete farce of Parliament that we should be prepared to do this.  I think we should refuse to condone the Government's irresponsibility in relation to the many proposals in this Bill.  The Explanatory Memorandum is just as secretive a performance and just as effectively insolent as are the present Minister's <Col N="45" /> speech and the Minister for Foreign Affairs' introductory speech.  If one tolerates this kind of thing one gets more of it.  One has to be educated into democracy.</P>
+      <P>One of the frightening developments, for instance, of the County Management Acts&mdash;we all know that local authorities used to be very corrupt and dilatory&mdash;was the fact that they were in their own way disastrous because they removed any real power from the local representative bodies&mdash;county councils, corporations and so on&mdash; particularly in relation to the spending of money.  That had the consequential effect of making serious people, intelligent people, educated people lose interest in representative politics in local areas.  That was bad for democracy. It was bad for the community because when people stop taking an interest they stop bothering to concern themselves about what is done in their society, how it is ordered and how it is controlled and then there is the death of part of democracy in that society. It is perfectly understandable.  You cannot expect people to enter into an iron age or pleistocene debate.  We are all professional people, businessmen, people with responsibilities and, while I am one who accepts that the Seanad should have no power, I think it should be treated with the courtesy at least of being provided with all possible information on the subject on which its opinion is asked.  I recognise that the only function I have here is to give an opinion on what is being done in the Dáil.</P>
+      <P>I would be interested in the views of the trade union representatives here on the aliens regulations.  To what extent have we any control? Have we any control <i>per se</i> for power in relation to the conditions of employment, and in regard to professional bodies in relation to the interchange of professional people, whether they are nurses, doctors, chemists, architects or engineers, or whatever they may be?  To what extent are their standards higher than ours? Should ours be brought up to their level, or should their standards, if lower than ours, be brought up to our level?</P>
+    </Speaker>
+    <P>
+      <Col N="46" /> I am also concerned with the power given to the Minister that he can satisfy himself that public policy will be protected and that there will be no danger to the State by the admission of something or other.</P>
+    <P>I am purposely limiting the debate to the Bill because there is no doubt, I presume, that when we discuss the European Economic Community's first report, we will be given very much wider scope in the discussion concerning Government policy and attitudes and inter-Government conflict in relation to attitudes, standards and values.  We should have a very interesting debate on that.</P>
+    <P>At present I am mainly concerned with the basic principles in this Bill. I understand some of its provisions in only a very superficial way.  It is my great regret that the Fine Gael and Labour Coalition which, with my support, objected so strongly to the provisions of the EEC Act, should not have taken an opportunity of attempting to give some facade of democracy to these proposals.  It is quite clear that there were alternatives open to the Government, even within the straitjacket of the EEC and the Government have not chosen to use them. To me this represents a very retrograde step at a time of greater literacy, better education, much higher level of sophistication and understanding of the manipulation of complicated voting systems, such as PR referenda, which has taken 50 years to bring about.  It was a very slow, but a very positive educational process, culminating in the magnificent decision by the public yesterday to elect Deputy Childers to the office of President.</P>
+    <P>In a period like that, it seems to me particularly retrograde of the Government not to lean over backwards in order to try to establish, without precedent, that we still represent or believe in and are inextricably bound up with the whole parliamentary democratic idea, and in particular with the idea of true representative democracy.</P>
+    <Speaker pid="PaddyMcGowan" hpid="Mr. McGowan Mr. McGowan">
+      <NameTxt>Mr. McGowan</NameTxt>
+      <P>I am mainly concerned with the regulations that will affect the farming community.  The <Col N="47" /> method by which it is proposed to implement these regulations will cause the farmers to be more concerned. We all know that the farming community have a good deal of concern as to the benefits that will accrue from a European market.  They are a bit sceptical about the extent to which the benefits will reach the actual farmer's target.  The Minister's speech in regard to the European Communities (Common Agricultural Policy) (Market Intervention) Regulations indicate that the Irish Government will act as agents.</P>
+      <P>I should like to refer to a number of items, such as seed, ryegrass, fruit, vegetables, the bacon levy period, An Bord Bainne, fishery limits and&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>If the Senator spoke a little louder, he could be heard.</P>
+    </Speaker>
+    <Speaker pid="PaddyMcGowan" hpid="Mr. McGowan Mr. McGowan">
+      <NameTxt>Mr. McGowan</NameTxt>
+      <P>This Bill is insufficient to inform the farming community of something that is very important. I agree with the expression of thought here that if we, as Senators, have not the facilities and if we do not understand in full the regulations that we are asked to support and implement, what chance have the farming community?  There is an obligation on the Government not only to inform Members of this House and Members of the Dáil but also to discharge a duty to the community at large.  My main concern is for the farming community.  Certainly, they have not access to libraries and the Government Information Bureau.  All too often, when the information reaches them through the Press, it is too late for them to do anything about it through their various organisations.</P>
+    </Speaker>
+    <P>I am wondering what we can contribute beyond expressing our concern about how the regulations are being presented here today.  Can we contribute anything useful?  Can we delay these regulation and have a further discussion?  Are we caught in a trap or caught in the elevators?  Do we just have to slide on?  In practical terms that is the position.  I hope we can learn a lesson from this and I hope the Minister will see that it is <Col N="48" /> not the type of Parliament to which one would like to spend time contributing. Those we represent would expect a better performance and would expect us to have knowledge about regulations which will affect the farming community and all other sections of the community.</P>
+    <P>This is a vital time for the farming community in so far as the whole policy shaping of the Common Market is now taking place, as is the regional development policy.  An indication that we have so little say in the formation of policy will shatter the confidence of people who had pinned their hopes on this country benefiting from joining the Common Market.  I hope the Minister and the Government will see that these types of regulations are not presented in the manner in which they have come before this House or the other House which prevents us from doing anything other than commenting on and criticising them.</P>
+    <Speaker pid="ConorCruiseOBrien" hpid="Minister for Posts and Telegraphs (Dr. Cruise-O'Brien) Minister for Posts and Telegraphs (Dr. Cruise-O'Brien)">
+      <NameTxt>Minister for Posts and Telegraphs (Dr. Cruise-O'Brien)</NameTxt>
+      <P>We have had a very interesting and important debate. Almost all of what has been said would be equally relevant and will be equally relevant in the debate on the report which we will have later this month at which the Minister for Foreign Affairs will be present and which will be, as Senator Lenihan rightly asked that it should be, a very full debate. Much of what has been said here must be seen as a kind of trial run for that debate.  The responsible Minister will have an opportunity of looking at the points raised by Senators.</P>
+    </Speaker>
+    <P>I hope Senators will understand and forgive me in deputising here for the Minister for Foreign Affairs if I do not attempt to go into any great detail on all the points raised.  I endeavoured to set out at the beginning, although to my regret not to the full satisfaction of Senators, the reasons why this Bill is necessary and urgent.  It is unfortunate that discussion on the Bill and on the Motion had to be separated.  This in itself is an indication of some of the constraints of the EEC.  The Minister for Foreign Affairs cannot be here and elsewhere at the same time so these two <Col N="49" /> aspects have had to be separated.  This is unsatisfactory for Senators since they would have liked to have heard the responsible Minister reply in full to the substantive debate on both Bill and Motion before voting on the Bill.</P>
+    <P>Unfortunately the time factor does not permit that.  This matter is rather less tractable and we have less control over this process than some of the interventions in this debate suggest. There is usually only an interval of six months between the adoption of a directive and the time by which measures must be in force implementing it in the member states.  There is no point in discussing measures to implement directives before they are adopted in the genitive forms.  It will be necessary to adopt a circular process.</P>
+    <P>In the course of the debate on the European Communities Act, 1972, it was made clear that the options open to Ministers in the implementing Community obligations were: one, ministerial regulations under the Act; two, ministerial regulations under another Act; three, statute; four, in the case of directives which are directly applicable or which require no implementing legislation here, as are practices already in accordance with Community requirements, no action on the part of Ministers.  It is also clear, as was mentioned again in the Seanad on that occasion, that it would be impracticable to implement all obligations in the Community by statute.  That is a major point.  This would overload both Houses of the Oireachtas.  Senator Robinson, who is not in the House now, said that the Oireachtas should be seized of all these matters.  If the Oireachtas were seized of all these matters it would be in the sense of a motor engine being seized&mdash;it would not be able to do its work, literally.  It is in consideration of the matter in this light that the option exercised in the present case was that of ministerial regulations under the Act.  Despite the criticisms made we had no option there.</P>
+    <P>Senator Browne showed in this matter a certain kind of consistency in that he was opposed to EEC entry altogether and therefore he regards himself as committed to oppose certain <Col N="50" /> consequences of EEC entry.  There has been much talk of abandonment of democracy and so on, but a democratic decision was taken in this matter by the people in May of last year.  It was not a decision my party hoped to get.  We pointed out at that time that we believed entry would involve a diminution of national sovereignty, a diminution in the powers of our national Parliament, and that in certain cases we would be required to rubber-stamp various measures passed in Brussels. The people heard our arguments and it cannot be said that they were greatly impressed by them because they decided by a very large majority to come into Europe with all these attendant drawbacks to which we drew attention. We may say what we like about that decision but we cannot say that was not a democratic decision as it was taken, not by representatives of the people, but by the people themselves, which is the very basis of democracy.</P>
+    <P>In the circumstances in which these directives issue, and with the time-limits and the various pressures which exist, there is no serious option to the kind of procedure which was adopted here.  However, that is a matter which Members of the Seanad will have an opportunity of discussing more fully on the Motion.  I take it that that debate will be a very wide-ranging and free-ranging one though we also ranged pretty freely here today.</P>
+    <P>The same ground can still be covered and Senators will have a chance of examining my remarks here in relation to this Bill.  I should like to make a few remarks on specfic sections.  As regards aliens, the provisions regarding free movement were publicised in the White Paper on our accession and an opportunity was already given to Senators and Deputies to debate them.  Ireland has a derogation of five years in respect of the provisions on the free movement of workers.  There are as yet no provisions adopted under which members of the profession can automatically practise in other member states.</P>
+    <P>That is all I would wish to say in reply to this debate on the Bill.  I hope I understand from the remarks made <Col N="51" /> that Senators are willing to pass the Bill in a spirit of &ldquo;Do not let it happen again&rdquo;.  Of course it will not happen again in exactly this shape. Senator Russell said this is a nonrecurring Bill, but things that are rather like it are likely to happen again and it is in relation to that that you will be able to debate on the motion itself.  In passing this Bill you are not concluding the debate on the main substance which was discussed here, which is how we should approach these matters in future.</P>
+    <P>Question put and agreed to.</P>
+    <P>Agreed to take remaining Stages today.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="European Communities (Confirmation of Regulations)" RHead="Bill, 1973: Committee and Final Stages">
+    <Title>European Communities (Confirmation of Regulations) Bill, 1973: Committee and Final Stages.</Title>
+    <P>Question proposed: &ldquo;That section 1 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>On section 1, I should like to get some elucidation from the Minister in regard to the question which I raised on the Second Stage relating to the future parliamentary supervision of similar type legislation.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Before the Senator proceeds, I should like to point out that section 1 brings the Schedule into the Bill and would the Senator propose to discuss section 1 and the Schedule together?</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>It would not be possible to have a repetition of the debate on the section and on the Schedule.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>It would be more appropriate to have the two together.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>We are discussing section 1 and the Schedule at the same time.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>I am concerned with the principle involved in the parliamentary supervision that this Oireachtas considers appropriate in regard to this type of legislation in the future.  As agreed by everybody who is sensible in <Col N="52" /> the House, this Bill must be enacted before 12th June.  What we want from the Minister is an assurance that this sort of procedure will not be adopted in the future and that the Joint Committee of the two Houses should be established forthwith to deal with not just the regulations passed by the European Economic Communities, the regulations processed through the Communities, but also regulations which are the concern here under the Schedule to the Bill&mdash;regulations which are passed by Government Departments here arising out of directives from the European Economic Communities.</P>
+      <P>We must have, if we are to have any semblance of democratic parliamentary control, a Joint Committee of both Houses of the Oireachtas which will supervise in a very detailed way.  I would regard this Committee as being one of paramount importance in the Oireachtas, which will go through many of the matters raised in the debate on the Second Stage and exercise a supervisory control of every regulation, not just the ones emanating from the European Economic Communities but regulations arising here by reason of directives of the European Economic Community. This is our concern in the Schedule to the Bill.</P>
+      <P>As the motion which was proposed to be passed by the previous Oireachtas is now apparently in a situation of <i>medias res</i>, I should like to know where exactly that proposal stands.  I should like to ask the Minister if he could inform us where do we stand in regard to the Joint Committee which was proposed to examine the regulations and directives of the Community. What do the Government propose to do in regard to that Joint Committee? Furthermore, I would ask the Minister to make it clear that any such Committee, when appointed by the Oireachtas, will also be empowered to examine domestic regulations passed here arising out of EEC directives.</P>
+    </Speaker>
+    <P>Does the proposed motion, which was not implemented before the dissolution of the last Oireachtas, still stand?  It is quite clear from reading it that its only mandate was to inquire into regulations, directives and decisions <Col N="53" /> emanating from the European Economic Communities.  The Seanad has rightly criticised this Schedule but we on this side of the House are willing to pass it because it must be passed before 12th June.  These particular regulations do not come within the ambit of the proposed Joint Committee of the Oireachtas.  I should like these aspects clarified so that we will not have a debate of this kind every six months where Members of the Seanad and Dáil have imposed on them an Act of legislation which sets out orders which, to put it bluntly, no Member of either House of the Oireachtas has any knowledge of, no committee has pursued any investigation into and generally makes a charade of the whole parliamentary procedure.</P>
+    <P>We are willing to grant a pardon on this occasion but we should like to ascertain and receive from the Minister an assurance that this will not happen again and that, before any such legislation is introduced in future, either in regard to domestic regulations arising out of EEC directives or in regard to regulations emanating directly from the European Economic Communities, a Joint Committee of both Houses of the Oireachtas will be established, equipped with a proper secretariat, be properly founded and will be a permanent Oireachtas watchdog in regard to all EEC matters as set out here in the Schedule.</P>
+    <Speaker pid="ConorCruiseOBrien" hpid="Dr. Cruise-O'Brien Dr. Cruise-O'Brien">
+      <NameTxt>Dr. Cruise-O'Brien</NameTxt>
+      <P>I must ask for the indulgence of the Seanad at this point.  I would hope not to be pressed, as the Minister deputising for the Minister for Foreign Affairs, to give undertakings and guarantees as to what that Minister will do in the future.  It might be reasonable to request such guarantees if it would appear that the Seanad will not have another opportunity of debating these matters for some considerable time after the passage of this Bill.  But this really is only an interim or adjournment debate and the Minister for Foreign Affairs, the proper person to reply to the important points raised by Senator Lenihan, will be in the House for the debate on the motion. These questions can all very properly be put to him at that stage.</P>
+    </Speaker>
+    <P>
+      <Col N="54" /> I understand he is at present engaged in drafting proposals for the Government with a view to making suitable arrangements for the information of the Oireachtas and of delegates to the European Parliament on draft legislation. He will be here to report to the Seanad.  I am sure he will do it in detail and will answer all questions which Senators have to raise on this matter.  I hope I may have the indulgence of this House on that matter.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I would be prepared to accept the Minister's suggestion that we should leave over until the 20th June the further discussion of the nature and powers of this Committee. The only point that would worry me is the possibility that between now and the 20th June the terms of reference of this committee might be framed so that it would be past history by then.  Perhaps the Minister would be willing to give us an undertaking that he would ask his colleague, the Minister for Foreign Affairs, not to put the terms of reference into final form until we have had an opportunity to debate them again.</P>
+      <P>I am less willing to go along with the Minister's suggestion that we should not seek any further information about these regulations on the grounds that we could discuss them again on the 20th June.  I do not know whether the Cathaoirleach would agree with me but it does seem that once we have passed this Bill enacting these 22 regulations we would not be permitted again, under the Standing Orders, to discuss those regulations until a term of six months had elapsed.  Anyone who tries to discuss these regulations or to find out details about them on the 20th June might be told that he was out of order.  I do not know if I am right but it occurs to me that this is a distinct possibility.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>For the Senator's information it would not be proper during the debate on the motion to refer to these individual regulations or to refer, in detail, to their effect.  However, the whole question of the manner of making regulations will be open for debate and these regulations could be cited as examples and referred to in passing.</P>
+    </Speaker>
+    <Col N="55" />
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I accept that, but it leaves us in the position that any information about an individual regulation that we may wish has got to be acquired now or else never.  To take an example, Senator Robinson asked a question about the £6 million that will fall to be paid in the coming financial year.  The memorandum relating to this particular regulation, The European Communities (State Financial Transactions) Regulation, 1972, says:</P>
+      <P>The main payments which will arise are as follows: EEC budget, European Investment Bank, reserve and capital, European Coal and Steel Community reserve, and financial aid to Turkey under the association agreement with that country.</P>
+      <P>I do not know why Turkey should be an exception but it does say in regard to Turkey:</P>
+      <P>...our contribution in this instance will be submitted to the Dáil for approval in due course.</P>
+      <P>That is satisfactory but the other three items, apparently, do not require any kind of Dáil approval.  Therefore, I do think we ought to know in general terms how this £6 million is to be allotted and which particular item is going to get what particular funds.  We are never going to be able to ask again.</P>
+    </Speaker>
+    <Speaker pid="JohnBoland" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I do not propose to go into the technical aspects of the various numbers of regulations that have been made.  Listening to the Leader of the Opposition speak here this afternoon I believe it is worth placing on record the fact that, when he says the Opposition are prepared to grant pardon for an interim piece of legislation such as this, the reason why this legislation is necessary at this time is because of a decision taken by the previous Government. The reason why we are here today to implement this measure so as to reach a particular deadline is because of the way the measure was initially handled by the previous Administration.</P>
+    </Speaker>
+    <P>It would not be proper that this House, meeting for the first time, should allow the record to go unchallenged in that regard.  We ought to understand very clearly that what is happening now is a tidying-up operation, <Col N="56" /> a mopping-up operation, on something that was initially handled badly, on the admission of the Leader of the Opposition, and now is being dealt with so that the way can be cleared to establish the Committee and to allow things to take place properly in the future.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I think Senator Boland is forgetting that he is now supporting the Government.  This Bill comes in as the responsibility of the Government and not of the Opposition.  The Opposition, when in Government, put through the enactment which stated that these various regulations would be brought within the six months period before the Oireachtas and they would lapse unless they were agreed to by the Oireachtas.  It is the responsibility of the present Coalition Government which brings them in in this form that we are faced with the situation that we have 22 regulations to deal with, that we have a memorandum which gives the minimum of information written by the Coalition Government, that none of us received copies of these regulations, and that no copy of one of these regulations was available in the Library until this morning.  Senator Boland will have to live with the fact that he is not now in opposition but supporting the Government and it is the responsibility of the Government to see that Members of the Oireachtas are provided with adequate information when a Bill of this kind is brought in.</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I sympathise, to a great extent, with the call for information which has come from Senator Yeats but I am slightly less impressed when I look at the Explanatory Memorandum and notice that in the case of very many of these regulations they came into effect on the 1st January last. It was well within the competence of the then Government to circulate all information that the Senators now in opposition might have required.  It was particularly within the competence at that time of the now Leader of the Opposition in this House to ensure that his colleagues were fully briefed with all the information necessary.</P>
+    </Speaker>
+    <P>
+      <Col N="57" /> That was the job of the Minister for Foreign Affairs on the 1st January, 1973.  Instead of doing that job, apparently, the Minister for Foreign Affairs at the time found himself taken by surprise by the then Taoiseach and found he had to float around the country.  At that time he had not got a &ldquo;Wanderly Wagon&rdquo; to assist him but nevertheless he found he had to float around the country and engage himself in a general election instead of circulating the information that Senator Yeats so urgently required.</P>
+    <P>I have sympathised with the predicament of Senator Yeats and I hope that all information necessary to enable Members of both Houses of the Oireachtas will be circulated as soon as it is reasonably possible for the Government of the day to do so.  It is essential that we should be put in a position of discussing these regulations as informed as we possibly can.  Do not let us start off this day in the Seanad with this kind of carping criticism when the whole thing has its roots in the failure of the then Government to handle the position properly and to brief Members of the Oireachtas at the earliest possible time with the information which Senator Yeats is now calling out for.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>I am not quite clear about the exact point which Senator O'Higgins is trying to make.  Do I understand that he is suggesting that the then Fianna Fáil Government did not tell the Coalition Government what this £6 million was to be spent on and that, therefore, they do not know?</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I am only responsible for what I say, not for Senator Yeats' understanding.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>May I ask the Minister where this £6 million is going to next year.  I still do not know.  I do not know whether he knows or if he has it on his file but before we enact this particular regulation it would be nice if someone knew.</P>
+    </Speaker>
+    <Speaker pid="ConorCruiseOBrien" hpid="Dr. Cruise-O'Brien Dr. Cruise-O'Brien">
+      <NameTxt>Dr. Cruise-O'Brien</NameTxt>
+      <P>Senator Yeats' request is, in part, reasonable.  The fact is, of course, that the main payments which make up this are set out in the memorandum.  He has referred to them: <Col N="58" /> EEC Budget, European Investment Bank, European Coal and Steel Community and Reserve and Financial Aid to Turkey.</P>
+      <P>The first three were already dealt with in the White Paper on Accession as part of the terms of Accession and an opportunity was given to both Houses to debate these matters.  As regards the fourth item&mdash;Financial Aid to Turkey under the Association Agreement&mdash;our contribution in this instance will be submitted for Dáil approval in due course.  We are not certain at this stage what the exact amount of that will be.  I have asked the officials to provide me with a breakdown of these items and, as soon as I have that, I will inform the Seanad.</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>I am not anxious to participate in this pingpong buck-passing that is going on.  I note that the regulations are described as Statutory Instruments in the Schedule.  I should like to know whether these regulations will be sent to the Seanad Committee on Statutory Instruments, whether this will be done before the Confirmation Act and if this is done, what role the Seanad Committee will play in scrutinising these Statutory Instruments.  As far as I can see from the wording of section 3 of the European Communities Act, the only limit on the power of the Minister is that he may not create an indictable offence.  He can amend and vary and repeal any existing Irish law and, therefore, presumably he could possibly impose a tax.  It would be interesting to know whether this would be so and the ordinary criteria by which the Committee on Statutory Instruments judge Statutory Instruments might not therefore be very relevant.  If this was the case, would it be considered, in looking into the question of setting up a Joint Committee on European affairs, that the Seanad Committee on Statutory Instruments might also be remodelled to play a more useful role in relation to these instruments if they will be referred to them?</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Since this is the first meeting of the Seanad there is no Committee on Statutory Instruments at the moment.</P>
+    </Speaker>
+    <Col N="59" />
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>Does that mean my question does not have to be answered?</P>
+    </Speaker>
+    <Speaker pid="ConorCruiseOBrien" hpid="Dr. Cruise-O'Brien Dr. Cruise-O'Brien">
+      <NameTxt>Dr. Cruise-O'Brien</NameTxt>
+      <P>I understand the regulations do not require to be sent to the Committee on Statutory Instruments but, whether in fact they will be sent, I am afraid I cannot tell the Senator at this moment.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>They would be of no real assistance if they were sent to the Committee on Statutory Instruments. I would not be in favour of that at all.  The Committee on Statutory Instruments deal with statutory orders made under Irish legislation and, therefore, these orders, which arise under EEC legislation, do not appear to appertain to their terms of reference.  In any event, even if their terms of reference were extended to cover these regulations, all the Committee on Statutory Instruments could do is to investigate the matter as to whether any such orders were legally in accordance with the powers given to the Minister under the relevant legislation.  It is not their business to decide whether, in their view, it is a good or satisfactory order or an unsatisfactory order, or anything of that kind.  I do not think that would be any safeguard.  What we need is some kind of committee, or some kind of procedure, which will go through these regulations and decide whether they are the kind of regulations we in the Oireachtas should be supporting and putting through.</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>Senator Yeats may have misunderstood me.  I suggested that the Seanad committee might meet one of the great failings in the operation of this procedure.  The fact is that these Statutory Instruments are not available, not published, and are not where Senators might possibly avail of them.  They were not available in the Government Information Office in Henry Street during the past week and, apparently, some of them were not in the Library.  The committee have a function in this area, and have a function as to the formal nature of the Instruments.  I would agree that, to some extent, the only function they could have would be to <Col N="60" /> see that these Instruments complied with section 3 of the Irish Act and the European Communities Act.  Since section 3 is very broadly phrased, it would not be a very useful role, but I noted that they are described as Statutory Instruments in the Schedule and I therefore wished to know whether they came under the Statutory Instruments Act, 1947.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 2 agreed to.</P>
+      <P>Schedule agreed to.</P>
+      <P>Title agreed to.</P>
+      <P>Bill reported without amendment received for final consideration and passed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Adjournment Debate:" RHead="Juvenile Remand Homes">
+    <Title>Adjournment Debate: Juvenile Remand Homes.</Title>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>We will now take for discussion the matter on which notice was received from Senator Robinson and which was allowed for debate.  I might point out to Members of the House that the custom is, in regard to such a debate, that the Senator raising the matter, or other Senators, speak for 20 minutes and ten minutes is allowed for reply on behalf of the responsible Minister.</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>I decided to bring to the attention of the House the fact that there appears to be no proper remand or detention home for juvenile offenders, that is, offenders under the age of 16.  The practice appears to have begun of committing these young offenders under the age of 16 either to the Bridewell Prison in Dublin or to the care of country Garda stations.  I submit that this is an intolerable situation which should not be allowed to continue. I would be grateful for an explanation from the Minister as to what steps will be taken in relation to it.</P>
+    </Speaker>
+    <P>The statutory authority and statutory duty are set out in the Childrens' Act, 1908.  Section 108 of this Act places on every police authority the duty to provide such places of detention for every petty sessional division within their district as may be required <Col N="61" /> for the purposes of this Act.  These places of detention would serve both as remand homes and, where appropriate, as places of detention after sentence.</P>
+    <P>The problem arises because of the closure of Marlborough House Remand Home during 1972.  The onus at that time was on the Government to provide alternative accommodation, which they have failed to discharge with very serious consequences for juvenile offenders. I should like to refer briefly to two examples of what happens as a consequence of the lack of proper facilities being provided.</P>
+    <P>There is a judgment in the High Court in the case of Hanley versus District Justice Butler and the Governor of Mountjoy: an unreported decision of the 3rd January, 1973, but which is reported in the Solicitors' Gazette of February, 1973.  Mr. Justice Finlay held that a youth could not have been held in a place of detention provided by the Childrens' Act, 1908, as directed by District Justice Butler on November 16th for the most fundamental reason of all that no such place existed.  He held that orders made by the District Justice, sentencing the youth to a month's imprisonment because the defendant was so unruly a character that he could not be detained in a place of detention in safety, were invalid.  The youth had challenged the order of the district justice removing him from a place of detention because of unruly behaviour and committing him to prison.  Mr. Justice Finlay held that there had not been evidence of unruly behaviour but that, in any case, the child being a youthful offender, should not be held in a place of detention because no such place existed.  This was one occasion in January in the High Court when this matter must have come to the attention of the Department of Justice.</P>
+    <P>A more recent case which, I think, shows much greater hardship to the individual, and the individual concerned here is somebody under the age of 16, concerns a charge against a young offender that he committed arson in a certain premises in Dublin.  I propose to read the report of this case in the <Col N="62" /><i>Evening Herald</i> of Tuesday, 15th May. The solicitor in question.  Mr. Dudley Potter, asked specifically that publicity be given to this case and that the provision preventing publicity be lifted because he wanted to draw attention to the hardship involved.  For that reason I think it appropriate to read that report on to the record of the House.</P>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Is this case <i>sub judice</i> still?</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>We are not concerned here with the charge and I shall not be naming the individual in question.  It is not the merits of the case that I am concerned with; it is the total absence of facilities for remanding youthful offenders, the fact that this boy was kept in the Bridewell for a number of days and the position obtaining there.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I am not challenging the point the Senator is making, but it seems to be possibly treading on dangerous ground to raise a case which may be still <i>sub judice.</i> The argument could possibly be made without actually referring to the case.</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>I submit that I am subject to the ruling of the Cathaoirleach. What I want to do in referring to this report is to quote the view expressed by the solicitor and the view expressed by the district justice&mdash;not about the merits of the case; I accept that it is <i>sub judice</i> and this House has no business in relation to it, but about the absence of a remand home.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>This matter was taken under consideration when the question of whether or not this motion would be allowed was being considered.  It is considered that it is perfectly in order to refer to the form of detention in the case without going into the details of the case.  This is properly in order.  If the matter were <i>sub judice</i> the whole discussion would be out of order.</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>At the Children's Court the solicitor, Mr. Dudley Potter, made the following statement which was reported in the <i>Evening Herald</i> on Tuesday, 15th May last:</P>
+    </Speaker>
+    <P>
+      <Col N="63" /> Mr. Potter said that it was a matter of public importance that his client should be remanded to the Bridewell garda station because it was the only place as the law stood to where he could be sent, having failed to get bail.</P>
+    <P>&ldquo;My client was detained in the cells of the Bridewell 24 hours a day. The gardaí, I know, did their best. But there is no place in the Bridewell where my client could have got exercise.  There are no facilities.  The cells at the Bridewell are to hold people for a few hours before they appear in court.&rdquo;</P>
+    <P>Mr. Potter described it as a &ldquo;scandalous situation&rdquo; that all juveniles under 16 had to be kept in the Bridewell if they were on remand and could not get bail.  The Kennedy Report made recommendations three years ago which were welcomed all round by members of the legal profession.</P>
+    <P>The Attorney General's Office and the Minister for Justice at an earlier remand hearing of this case expressed concern that his client should have been detained in the Bridewell and applied that he be sent to Mountjoy.</P>
+    <P>&ldquo;The Department of Justice has had three years since the publication of the Kennedy Report to rectify this matter, but they have omitted, neglected or chose not to deal with the matter,&rdquo; said Mr. Potter. &ldquo;Marlborough House,&rdquo; he added, &ldquo;which the report recommended should be closed down forthwith in 1970 was not closed down until 1972.&rdquo;</P>
+    <P>It was recommended that it should be replaced.  It has not been replaced and there is no place where under 16 juveniles could be remanded to.  He would be failing in his duty to his client and to the court not to draw this matter to the attention of the public.</P>
+    <P>District Justice Kennedy said:</P>
+    <P>&ldquo;The lack of proper detention centres in Dublin is a great inconvenience to the Court.  I thoroughly agree with you.&rdquo;</P>
+    <P>
+      <Col N="64" /> She remanded the boy to St. Patrick's because he had then reached the age of 16 years but that does not concern the Seanad.</P>
+    <P>I should like to refer to the Kennedy Report so far as it discussed the question of remand homes.  On page 42 of the report it refers to the remand home system and quotes the authority of the Children's Act, 1908.  On page 43 it says:</P>
+    <P>The Remand Home should be designed to provide a disciplined environment which will begin the process of the rehabilitation of the child at a time when he is experiencing an abrupt break with his familiar surroundings and to enable information to be gathered with the assistance of the courts about his history, background and personality. These Remand Homes should serve as Observation and Assessment centres.</P>
+    <P>Reports on the behaviour and character of children while in remand homes should be provided by the Superintendent at the request of the courts and there should be full facilities for proper examination by psychiatrists and psychologists and reports by psychiatric social workers.</P>
+    <P>Proper educational facilities should be provided and proper use of leisure time should be encouraged.</P>
+    <P>The Superintendent should be a suitably qualified person.</P>
+    <P>A remand home for girls which should also be an observation and assessment Centre, should be provided in Dublin and the question of providing one for the South and West of Ireland should also be considered.</P>
+    <P>There is a need for greater segregation in remand homes to prevent delinquent children mixing with non-delinquents and older children exercising an undesirable influence over younger children. Much could be achieved by adequate staffing and suitable layout of buildings.</P>
+    <P>The report goes on to examine Marlborough <Col N="65" /> House, as it then existed, and to make serious criticisms of it.  It says:</P>
+    <P>Marlborough House is completely unsuitable for the purpose for which it is being used.  The building itself is old and was in fact condemned as dangerous as far back as 1957.  It is run by a staff with no special training in child care.  The attendants, who are recruited through the Employment Exchanges, are not required to have any qualifications which would make them suitable for the task of caring for children.  It is obvious that their function at present is purely custodial.</P>
+    <P>Anything that could have been said in the Kennedy Report about Marlborough House, which has now been closed, can be said with far greater conviction with regard to the Bridewell. The Bridewell is worse than any other prison in Ireland.  It has been called &ldquo;the black hole of Calcutta&rdquo; and it is an Irish &ldquo;black hole of Calcutta&rdquo;. It is not intended that any adult prisoner stays there more than a few hours before he comes into court for the hearing of his case.  Yet we are allowing a system in which 16-year-olds are remanded there.  I understand that the authority for this remand is the Criminal Procedure Act, 1967, section 25 of which provides:</P>
+    <P>The Court may, where it remands a person in custody for a period not exceeding four days, commit him to the custody of a member of the Garda Síochána.</P>
+    <P>This, apparently, is the authority on which young boys under the age of 16 years are remanded for periods of four days to the Bridewell or to a country Garda station where there will be no facilities for exercise, no attempt to get psychiatric help and nobody with any experience in child care; in other words, none of the recommendations which were made in the Kennedy Report are to be implemented.</P>
+    <P>The question is very much part of a larger question, namely, the necessity to have a reform of the children's law in this country.  The charter relating to children is the Children's Act, 1908, which is very much outdated and which has none of the concepts in relation <Col N="66" /> to child care which we now know of and which are present in the legislation of other countries.  It is only the urgency of this particular aspect of it and the misery caused to the individual caught up in this process that prompted the idea of raising it in this House in order to get an undertaking from the Minister that alternative facilities will be provided and that these alternative facilities will embody, at the very least, the positive recommendation in the Kennedy Report that there would be a person there with experience in child care and that there would be a proper assessment of the child.</P>
+    <P>I understand that there is a remand centre in St. Laurence's in Finglas but it appears to involve such a small number that district justices cannot remand young offenders to it because the assessment process is a very severe one. They are anxious to get young people there who will respond to treatment. The intake is far too small to cope with the number who are either ordered to be detained after sentence or who are remanded pending trial or pending sentenced after some assessment takes place.</P>
+    <Speaker pid="PatrickMarkCooney" hpid="Minister for Justice (Mr. Cooney) Patrick M. Cooney">
+      <NameTxt>Minister for Justice (Mr. Cooney)</NameTxt>
+      <P>The Senator in her motion mentioned specifically the question of remand or something like that.  I intend to deal generally with the custody of young offenders.</P>
+    </Speaker>
+    <P>First of all, I should like to deal with her problem regarding the absence of remand facilities.  I share her views that there is a problem in this regard.  Offenders of 16 years and over can be committed to St. Patrick's Institution; the problem arises in regard to offenders under the age of 16 years.  At the moment they can be committed to special schools, such as St. Laurence's in Finglas.  This particular school is conducted on a voluntary basis by a religious order and they have the power under the Children's Act to refuse to keep a boy of unruly or difficult disposition. If a boy of that type is remanded by the court to St. Laurence's in Finglas, those in charge of the school are entitled to refuse to have him.  There is a gap in our system and there is no <Col N="67" /> place to which that boy can be committed; he has to remain free.</P>
+    <P>I understand that technically the Bridewell is a prison and, consequently in light of the High Court decision to which the Senator referred, it would not be proper to commit a young offender to that place.</P>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>Oberstown House?</P>
+    </Speaker>
+    <Speaker pid="PatrickMarkCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>I am telling the Senator what I understand to be the legal position.  I am not saying whether or not I approve of what has been done.  In view of the fact that there is a decision to the effect that boys under 16 years cannot be committed to prison, there is nowhere the courts can send a person certified to be of an unruly or depraved character. We have had the situation where young offenders, having been before the courts and convicted of quite serious offences, have had to go free because the persons in charge of the institutions to which they would normally be sent had refused to have them, and they are entitled to refuse to have them under the provisions of the Children's Act.</P>
+      <P>It was hoped that when Marlborough House closed down that the people conducting St. Laurence's in Finglas would make provision to keep boys of this particular type, but that expectation was not realised.  At the moment discussions are going on between my Department and the Department of Education to try to overcome this very serious difficulty.  I share the Senator's concern in this regard.  She has my assurance that anything I can do to have this matter rectified, I shall do.</P>
+    </Speaker>
+    <P>The position in regard to girls is better in so far as the institutions to which girls may be committed will take them on remand while awaiting trial, and are prepared to deal with the more difficult cases.  What is going to be done with regard to the detention, other than on remand, of persons convicted is another problem. As the Senator possibly knows, St. Conleth's in Daingean is closing down shortly, and the school is transferring to new premises at Oberstown. <Col N="68" /> It was hoped that a section of these premises would provide a high degree of custody security and that the more difficult type of absconder, such as a boy with a particularly tough record, could be accommodated there.  Some difficulties appear to be arising in that case, too.  There is some doubt as to whether the facilities in Oberstown will be available for this type of defendant. The people running these institutions feel that the &ldquo;mix&rdquo; of this type of boy with a boy of a less serious criminal background could be detrimental to the latter.  Their efforts at rehabilitation could, therefore, be inhibited and frustrated if they were to allow the very unruly to mix with the moderately unruly.</P>
+    <P>On this question also discussions are taking place between the Departments and the interests involved.  I sincerely hope that these discussions will find some compromise which will enable these boys to be treated by the people who will run Oberstown.</P>
+    <P>It is a very real and great difficulty and I am well aware of how serious it is.  It seems an extraordinary situation that unruly boys, aged 15, when remanded by the courts, cannot be accommodated in any place of safety. Unfortunately, that is the position at the moment.  I share Senator Robinson's concern about it and she has my assurance that what my Department and I can do to remedy it as speedily as possible will be done.</P>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>I thank the Minister for his approach to the problem. I would also like to ask him if he is prepared to say whether the whole question of the reform of the children's law is under consideration as a priority.</P>
+    </Speaker>
+    <Speaker pid="PatrickMarkCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>I can assure the Senator that it is.  As she knows, this is only one aspect of it.  The whole question of the treatment of delinquent children involved in the garda juvenile liaison scheme, and all this area, is under active consideration.  I promise her that she will see reforms as speedily as is administratively possible.</P>
+      <P>The Seanad adjourned at 6.15 p.m. until 3 p.m. on Wednesday, 20th June, 1973.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

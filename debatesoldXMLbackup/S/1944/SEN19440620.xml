@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Tue" Date="20" Month="Jun" Year="1944" Vol="28" No="19" DateIrish="Dé Máirt, 20 Meitheamh 1944" DateEnglish="Tuesday, 20 June 1944" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1413">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1413" />
+      <Col N="1414" /> Do chuaidh an Cathaoirleach i gceannas ar 3 p.m.</P>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>I have two Proclamation to read:&mdash;</P>
+      <P Just="Center">FORÓGRA.</P>
+      <P Just="Center">(PROCLAMATION).</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="left">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="left">
+        </colspec>
+        <tbody>
+          <row>
+            <entry>De bhun comhairle do thairg an Taoiseach dom fé fho-alt (1) d'Alt 2 den Acht Olltoghchán (Forálacha Prá- inne), 1943, (Uimh. 11 de 1943), déana- imse, Dubhglas de h-Ide, Uachtarán na hÉireann, a ordú leis seo go mbeidh olltoghchán comhaltaí do Dháil Éireann ann.</entry>
+            <entry>Pursuant to an advice tendered to me by the Taoiseach under sub-section (1) of Section 2 of the General Elec tions (Emergency Provisions) Act, 1943, (No. 11 of 1943), I, Douglas Hyde, President of Ireland, hereby direct that a general election for members of Dáil Éireann shall take place.</entry>
+          </row>
+          <row>
+            <entry>Arna thabhairt fám láimh agus fám Shéala an 10adh lá so de Bhealtaine, 1944.</entry>
+            <entry>Given under my hand and Seal this 10th day of May, 1944.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">
+            </entry>
+          </row>
+          <row>
+            <entry>(Sgd.) ÉAMON DE VALÉRA,</entry>
+            <entry>(Sgd.) DUBHGLAS DE H-IDE,</entry>
+          </row>
+          <row>
+            <entry>Taoiseach.</entry>
+            <entry>Uachtarán na hEireann.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">FORÓGRA.</P>
+    <P Just="Center">(PROCLAMATION).</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="left">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="left">
+        </colspec>
+        <tbody>
+          <row>
+            <entry>
+De bhun comhairle do thairg an Taoiseach dom fé fho-alt (2) d'Alt 3 den Acht Olltoghchán (Forálacha Práinne), 1943, (Uimh. 11 de 1943), déanaimse, Dubhglas de h-Íde, Uach- tarán na hÉireann, leis seo, Dáil Éireann do lán-scur agus déanaim leis seo Dáil Éireann do chomóradh chun teacht le chéile i gCathair Bhaile Atha Cliath, Dé hAoine, an 9adh lá de Mheitheamh, 1944, ar a trí a chlog tráthnóna (eadhon, an áit agus an lá <Col N="1415" />agus an uair do mhol an Taoiseach dom chuige sin) chun pé gnó do dhéanamh a cuirfear féna mbráid.</entry>
+            <entry>
+Pursuant to an advice tendered to me by the Taoiseach under sub-sec tion (2) of Section 3 of the General Elections (Emergency Provisions) Act, 1943 (No. 11 of 1943), I, Douglas Hyde, President of Ireland, hereby dissolve Dáil Eireann and hereby summon Dáil Eireann to meet in the City of Dublin, on Friday, the 9th day of June, 1944, at the hour of 3 o'clock in the afternoon (being the place, day and hour recommended to me in that <Col N="1416" />behalf by the Taoiseach) for the de spatch of such business as shall be submitted to it.</entry>
+          </row>
+          <row>
+            <entry>Arna thabhairt fám láimh agus fám Shéala an 7adh lá so de Mheitheamh, 1944.</entry>
+            <entry>Given under my hand and Seal this 7th day of June, 1944.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">
+            </entry>
+          </row>
+          <row>
+            <entry>(Sgd.) ÉAMON DE VALÉRA,</entry>
+            <entry>(Sgd.) DUBHGLAS DE H-ÍDE,</entry>
+          </row>
+          <row>
+            <entry>Taoiseach.</entry>
+            <entry>Uachtarán na hEireann.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Members of Government and" RHead="Parliamentary Secretaries">
+    <Title>Members of Government and Parliamentary Secretaries.</Title>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>I have received the following letters from the Secretary to the Government:&mdash;</P>
+      <P Just="Right">Roinn an Taoisigh,</P>
+      <P Just="Right">12adh Meitheamh, 1944.</P>
+      <P>To: Cathaoirleach an tSeanaid.</P>
+      <P>I have to inform you as follows:&mdash;</P>
+      <P>(1)  Dáil Éireann, having duly nominated Éamon de Valéra to be the Taoiseach, the President appointed him on the 9th instant to be the Taoiseach accordingly.</P>
+      <P>(2)  The Taoiseach having, with the approval of Dáil Éireann, duly nominated the undermentioned Deputies to be members of the Government, the President appointed them on the 9th instant to be members of and with the Taoiseach to constitute the Government.</P>
+      <P>(3)  The Taoiseach, on the 9th instant, pursuant to Article 28.6.1º of the Constitution, nominated Seán T. Ó Ceallaigh a member of the Government to be the Tánaiste.</P>
+      <P>(4)  The Taoiseach, on the 9th instant, pursuant to Section 3 of the Ministers and Secretaries Act, 1924, as adapted, determined and declared the Departments of State to be assigned to and administered by the respective members of the Government as set out opposite the names of the respective Departments hereunder:&mdash;</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Éamon de Valéra, Taoiseach</entry>
+            <entry rowsep="1">In charge of the Department of Ex ternal Affairs.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Seán T. Ó Ceallaigh (Tánaiste)</entry>
+            <entry>In charge of the Department of Finance.</entry>
+          </row>
+          <row>
+            <entry>Seán F. Lemass</entry>
+            <entry>In charge of the Departments of Sup plies and Industry and Commerce.</entry>
+          </row>
+          <row>
+            <entry>Seán Mac an tSaoi</entry>
+            <entry>In charge of the Department of Local Government and Public Health.</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="1417" />Séamas Ó Riain</entry>
+            <entry>
+              <Col N="1418" />In charge of the Department of Agri culture.</entry>
+          </row>
+          <row>
+            <entry>Tómas Ó Deirg</entry>
+            <entry>In charge of the Department of Educa tion.</entry>
+          </row>
+          <row>
+            <entry>Gearóid Ó Beoláin</entry>
+            <entry>In charge of the Department of Justice.</entry>
+          </row>
+          <row>
+            <entry>Oscar Mac Tréinfhir</entry>
+            <entry>In charge of the Department of Defence.</entry>
+          </row>
+          <row>
+            <entry>Pádraig Ó Caoilte</entry>
+            <entry>In charge of the Department of Posts and Telegraphs.</entry>
+          </row>
+          <row>
+            <entry>Seán Ó Maoláin</entry>
+            <entry>In charge of the Department of Lands.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>(5)  An Order was made at a meeting of the Government held on the 9th instant, appointing Mr. Frank Aiken to be Minister for the Co-ordination of Defensive Measures, in which capacity he will deal with matters relating to Air Raid Precautions.</P>
+    <P Just="Right">(Signed) P. Ó CINNEIDE,</P>
+    <P Just="Right">
+      <i>Leas-Rúnaí.</i>
+    </P>
+    <P Just="Right">Roinn an Taoisigh,</P>
+    <P Just="Right">14adh Meitheamh, 1944.</P>
+    <P>S. 13479</P>
+    <P>To Cathaoirleach an tSeanaid.</P>
+    <P>A Chara,</P>
+    <P>I have to inform you that the Government on the 9th instant appointed the under-mentioned persons to be Parliamentary Secretaries pursuant to Section 7 of the Minister and Secretaries Act, 1924, with effect in each case from the 9th June, 1944:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Éamon Kissane, T.D.</entry>
+            <entry rowsep="1">To be Parliamentary Secretary to the Taoiseach and to the Minister for Defence.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Patrick Smith, T.D.</entry>
+            <entry>To be Parliamentary Secretary to the Minister for Finance (in charge of Office of Public Works).</entry>
+          </row>
+          <row>
+            <entry>Seán O'Grady, T.D.</entry>
+            <entry>To be Parliamentary Secretary to the Minister for Industry and Com merce.</entry>
+          </row>
+          <row>
+            <entry>Dr. Francis C. Ward, T.D.</entry>
+            <entry>To be Parliamentary Secretary to the Minister for Local Government and Public Health.</entry>
+          </row>
+          <row>
+            <entry>Erskine H. Childers, T.D.</entry>
+            <entry>To be Parliamentary Secretary to the Minister for Local Government and Public Health.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Mise, le meas,</P>
+    <P Just="Right">(Signed) P. Ó CINNEIDE,</P>
+    <P Just="Right">
+      <i>Rúnaí.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election to Dáil of" RHead="Former Senators">
+    <Title>Election to Dáil of Former Senators.</Title>
+    <Col N="1419" />
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>I desire to acquaint the House that I have received letters from Deputies (former Senators) Richard Mulcahy, Richard Walsh, Michael Colbert and Peter J. O'Loghlen, informing me that they <Col N="1420" /> have been elected members of Dáil Éireann.</P>
+      <P>I will give instructions to enter the letters in the Journal of Proceedings and the Official Reports of the Debates.</P>
+      <P>
+        <i>The following are the letters:</i>&mdash;</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Don Chathaoirleach,</entry>
+            <entry rowsep="1">Sadh Meitheamh, 1944.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Seanad Éireann.</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>A Chara,</P>
+    <P>Tá orm a chur in úil duit go bhfuil fachta agam ó Chléireach na Dála tuairisc á rádh gur toghadh mé mar Theachta Dála i gcóir Dáilcheanntar Chondae Tiobraid Árann.</P>
+    <P Just="Center">Beir beannacht,</P>
+    <P Just="Right">(Sgd.) RISTEÁRD UA MAOLCHATHA</P>
+    <P Just="Right">(Richard Mulcahy).</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">The Cathaoirleach,</entry>
+            <entry rowsep="1">13th June, 1944.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Seanad Éireann.</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>A Chara,</P>
+    <P>I desire to acquaint you that I have been notified that I have been elected a member of Dáil Éireann for the County Constituency of South Mayo.</P>
+    <P Just="Center">Mise, le meas,</P>
+    <P Just="Right">(Sgd.) RICHARD WALSH.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">The Cathaoirleach,</entry>
+            <entry rowsep="1">12th June, 1944.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Seanad Éireann.</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>A Chara,</P>
+    <P>I desire to inform you that I have been notified that I have been elected a member of Dáil Éireann for the County Constituency of Limerick.</P>
+    <P Just="Center">Mise, le meas,</P>
+    <P Just="Right">(Sgd.) MICHAEL COLBERT.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">The Cathaoirleach,</entry>
+            <entry rowsep="1">14th June, 1944.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Seanad Éireann.</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>A Chara,</P>
+    <P>I desire to inform you that I have received notification that I have been elected a member of Dáil Éireann for the County Constituency of Clare.</P>
+    <P Just="Center">Mise, le meas,</P>
+    <P Just="Right">(Sgd.) PETER J. O'LOGHLEN.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Collection of Taxes (Confirmation) Bill, 1944 (Certified" RHead="Money Bill)&mdash;Second and Subsequent Stages">
+    <Title>Collection of Taxes (Confirmation) Bill, 1944 (Certified Money Bill)&mdash;Second and Subsequent Stages.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="SeanTOKelly" hpid="Minister for Finance (Mr. O Ceallaigh) Seán T. O'Kelly">
+      <NameTxt>Minister for Finance (Mr. O Ceallaigh):</NameTxt>
+      <P>This Bill is not part of the ordinary procedure of the Oireachtas in relation to financial matters.  It is necessitated by the occurrence of a general election during the period in which financial matters were being discussed in Dáil Éireann.  The House is aware of the circumstances and probably I need not go into any lengthy explanation.</P>
+    </Speaker>
+    <P>Four of the Resolutions passed by the Dáil in Committee on Finance on the 3rd May last were given statutory effect under the provisions of the Provisional Collection of Taxes Act as from the 6th April last, i.e., as from <Col N="1421" /> the commencement of the current income-tax year.  That Act, however, provides that Financial Resolutions to which statutory effect is thus given shall cease to have statutory effect on a dissolution of the Dáil.  A gap, therefore, came into existence which if not bridged would result in a position of confusion and uncertainly, affecting not only the revenue, but also thousands of persons throughout the country, e.g., in relation to deduction of income-tax from payments of ground rent, mortgage interest, dividends, etc. The Bill is designed to put an end to any such uncertainty and to restore the position to what it would have been if the Budget Resolutions in question had continued to have the force of law up to the date of the passing of the Finance Bill.</P>
+    <P>It will be observed that the Bill gives to the Resolutions a purely temporary life.  All the Resolutions with which the Bill deals were introduced afresh in the Dáil prior to the introduction of the Finance Bill, which contains clauses to the same effect as the Resolutions.  As the Finance Bill, however, could not become law for some time it was essential that the state of uncertainly to which I have referred should not prevail in the meantime&mdash;hence the necessity for this Bill.</P>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>The Minister, I think, has accurately described the circumstances in which this Bill becomes necessary.  It arises because at a certain stage of financial business in the other House, a general election was declared, and whatever we think about the taxes that are being imposed, I take it that we are all in agreement that they must be collected when they have been properly imposed.  Therefore, I think we should pass not only the Second Stage of this Bill but all stages of it now.</P>
+      <P>Question put and agreed to,</P>
+      <P>Agreed to take the remaining stages now.</P>
+      <P>Bill passed through Committee without recommendation, and reported.</P>
+    </Speaker>
+    <P>
+      <Col N="1422" /> Question: &ldquo;That the Bill be received for final consideration&rdquo;&mdash;put and agreed to.</P>
+    <P>Question&mdash;&ldquo;That the Bill be returned to the Dáil&rdquo;&mdash;put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Censorship of Publications (Amendment)" RHead="Bill, 1944&mdash;Second Stage">
+    <Title>Censorship of Publications (Amendment) Bill, 1944&mdash;Second Stage.</Title>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane:</NameTxt>
+      <P>Before the House decides to proceed with this Bill, I should like to make a statement which might be regarded as something in the nature of a personal statement.  Since this Bill was introduced, statements have appeared in the Press&mdash;I think that one was issued by the Bureau of Information&mdash;to the effect that the Government proposes to legislate in this matter, and to embody the principle of appeal in such legislation. That being so, I do not feel that any purpose will be served by proceeding with this Bill now, and having a debate, which might be a very lengthy debate, on the subject.  Therefore, with the permission of the House, I ask leave to withdraw the Bill pending the introduction of the proposed legislation. I may bring it in again if I see fit, when I see the form which the Government legislation will take.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>Are we to understand that the Senator is withdrawing the Bill unconditionally?</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane:</NameTxt>
+      <P>I withdraw it unconditionally.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>It is the same either way.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>The motion is: &ldquo;That leave be given to withdraw the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="ThomasForan" hpid="Mr. Foran Mr. Foran">
+      <NameTxt>Mr. Foran:</NameTxt>
+      <P>May we take advantage of the presence of the Minister to inquire if it is his intention to introduce a Bill dealing with this matter?</P>
+    </Speaker>
+    <Speaker pid="SeanODonovan" hpid="Mr. O'Donovan Mr. O'Donovan">
+      <NameTxt>Mr. O'Donovan:</NameTxt>
+      <P>I submit that that has nothing to do with the question before us.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>As the Senator has withdrawn his Bill unconditionally, I submit, with all respect, that it is <Col N="1423" /> not permissible to question the Minister as to whether or not he will do this thing or that thing.  That would be to make the unconditional withdrawal a conditional withdrawal, and would be quite irregular.</P>
+    </Speaker>
+    <Speaker pid="EdwardMonahan" hpid="Mr. Monahan Mr. Monahan">
+      <NameTxt>Mr. Monahan:</NameTxt>
+      <P>I submit that the Minister should be permitted to make a statement in reply to Senator Foran if he so desires.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>It is for the House to give leave to withdraw the Bill and the motion is: &ldquo;That leave be given to withdraw the Bill.&rdquo;  Discussion on that motion must be restricted to the immediate question.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>I am completely in favour of the motion that leave be given to withdraw the Bill but, as a member of the Seanad, without regard to my views on censorship or any other matter, I dislike anything which would prevent a Minister from making a statement if the Seanad desires him to make it.  I am not saying that the Seanad does want the Minister to make such a statement, but I think that Senator Foran was perfectly entitled to ask the question which he has asked.  It seems to me, with all possible respect to you, A Chathaoirligh, that, if the Minister is willing to make a statement, it need not necessarily lead to a debate.  I think that we are perfectly entitled to have a statement from the Minister to the effect that he proposes to bring in legislation of a particular character.  I do not think that any such statement would necessarily lead to a debate, which is, perhaps, what some Senators fear.  I think that talk about the Bill being withdrawn conditionally or unconditionally has no meaning.  The Bill is withdrawn&mdash;full stop.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>If Senator Keane's withdrawal of the Bill is unconditional, how is the House to continue the discussion of the Bill? I submit that what the Minister is now being invited to do is to make a speech of the type which he would make on First Reading.  That, I submit, is completely out of order.</P>
+    </Speaker>
+    <Col N="1424" />
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>Surely we are allowed to have some belief in the ingenuity of any given Minister.  Like Euclid, we are entitled to believe that any given Minister of any given Party will have a given amount of ingenuity and that he need not make a Second Reading speech&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>I referred to a First Reading speech.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>He need make neither a First Reading nor a Second Reading speech of the Dáil type when he announces to this House on a particular matter that he has in mind certain legislative proposals to which he will give definite form later.  I merely want to assert for this House the right to hear whatever a Minister wants to say to it, if the House so desires, at any particular time.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>There is no objection to the Minister answering the question put by Senator Foran, but the Minister cannot be allowed to enter into any details in connection with any proposed measure which is not before the House.  All I can permit the Minister to do is to answer the question put to him.</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane:</NameTxt>
+      <P>If the House thinks it necessary that the Minister should make a statement, it should be understood that there will be no debate whatever on that statement.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>No debate of a controversial character will be permitted on the motion now before the House.</P>
+    </Speaker>
+    <Speaker pid="PatrickDoyle" hpid="Dr. Doyle Dr. Doyle">
+      <NameTxt>Dr. Doyle:</NameTxt>
+      <P>The Minister need only confirm or deny the suggestion that he proposes to introduce legislation.</P>
+    </Speaker>
+    <Speaker pid="GeraldBoland" hpid="Minister for Justice (Mr. Boland) Gerald Boland">
+      <NameTxt>Minister for Justice (Mr. Boland):</NameTxt>
+      <P>I am in the hands of the Seanad.  If the Seanad so desires, I am prepared to make a short statement.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>The Minister may make a statement to the effect that it is his intention to introduce such a <Col N="1425" /> measure as has been mentioned, but he may not go into any details in connection with it.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>I do not want to seem to be difficult in this matter.  I happen to be in opposition to the Minister but I am speaking as a member of this House and I submit that, for the general purposes of this House, we should not impose restrictions on ourselves.  If the Minister chooses to give us information at this particular moment, I do not think that we ought to be the channel through which objection would be lodged to his giving us that information.  I am speaking without regard to my views on the Minister's proposals.  I may be entirely against them.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>On a point of order, Senator Hayes is overlooking the fact that this is not simply a request to the Minister to make a statement. It is a request to the Minister to make a statement following on the statement made by Senator Sir John Keane that he understands the Bill is to embody such and such.  I submit, Sir, that your ruling should be maintained and that it would be an act of disorder on the part of the Minister to make such a statement.  To press him to be guilty of an act of disorder is not to be entertained.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>I should hate to have the Minister for Justice disorderly, but nobody intends to offend against your ruling.  What I submit, with the greatest possible respect, is that no rule should be made which would restrict our right to hear statements from Ministers.  The statement to be made now has nothing whatever to do with Senator Sir John Keane's frame of mind when he withdrew the Bill.  He withdrew the Bill&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>He made a statement.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>The Minister may now answer the question which has been put to him, but no details which might lead to controversy may be entered into.</P>
+    </Speaker>
+    <Speaker pid="WilliamQuirke" hpid="Mr. Quirke Mr. Quirke">
+      <NameTxt>Mr. Quirke:</NameTxt>
+      <P>Nobody is trying to prevent the Minister from making a <Col N="1426" /> speech or a statement if he so desires. Senator Hayes, evidently, wants to hear a statement from somebody on this side of the House.</P>
+    </Speaker>
+    <Speaker pid="GeraldBoland" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland:</NameTxt>
+      <P>I expected that the Second Reading of this Bill would be moved to-day.  When the Bill was introduced, I appreciated that I should have to come here and give my views on it.  As a matter of courtesy, I informed the Censorship Board that I intended to oppose the Bill and that, when I got an opportunity, I intended to bring in an amending Bill.  The position, so far as I have seen it since I became Minister for Justice, has been most unsatisfactory. I do not think that it is right that the Minister should be the person who bans a publication.  That is my personal view.  I have always banned books with reluctance, for the simple reason that I felt that I should have read any book that I banned&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>The Minister is now going too far.</P>
+    </Speaker>
+    <Speaker pid="GeraldBoland" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland:</NameTxt>
+      <P>Then I am in an embarrassing position.  I do intend to bring in a Bill dealing with this matter.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>On a point of order&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators:</NameTxt>
+      <P>Order!</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamMagennis" hpid="Professor Magennis Professor Magennis">
+      <NameTxt>Professor Magennis:</NameTxt>
+      <P>I am raising a point of order.  I support the ruling of the Chair.</P>
+    </Speaker>
+    <Speaker pid="GeraldBoland" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland:</NameTxt>
+      <P>I am in the hands of the Chair and I stop as soon as I am told.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>Will the Minister inform Senator Foran if it is his intention to introduce legislation to deal with censorship?</P>
+    </Speaker>
+    <Speaker pid="GeraldBoland" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland:</NameTxt>
+      <P>It is.</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>That finishes the matter.</P>
+      <P>Question&mdash;&ldquo;That leave be given to withdraw the Bill&rdquo;&mdash;put and agreed to.</P>
+      <P>Bill, by leave, withdrawn.</P>
+    </Speaker>
+    <Col N="1427" />
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes:</NameTxt>
+      <P>What will be the business for next week?</P>
+    </Speaker>
+    <Speaker pid="SeanGoulding" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach:</NameTxt>
+      <P>If the Finance Bill is <Col N="1428" /> passed in the Dáil this week, this House will have it next week.</P>
+      <P>The Seanad adjourned at 3.30 p.m. <i>sine die.</i></P>
+    </Speaker>
+  </MainHeading>
+</Debate>

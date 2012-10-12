@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="21" Month="May" Year="1969" Vol="66" No="13" DateIrish="Dé Céadaoin, 21 Bealtaine 1969" DateEnglish="Wednesday, 21 May 1969" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1031">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1031" /> Chuaigh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>It is proposed to take Nos. 1, 2, 4, 5 and 3, in that order.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>On the Order of Business, may I ask Senator Ó Maoláin if he has received any information about motion No. 10 which deals with civil rights?  He said last week that he hoped the motion would be taken before the dissolution of the House and I am sure he must be listening to what is happening elsewhere and that he must realise that that event is not very far away.  In view of the importance of this matter, would the Leader of the House have it included in today's Order of Business?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I am not aware of what Senator McQuillan is referring to as happening elsewhere.  I do not know of anything that is happening elsewhere but the Senator must have no sense of humour if he thinks that by taking a motion like that it would result in any legislation before whatever he is referring to might happen. There is no prospect of the legislation going through before the general election, whether that be in October or in <Col N="1032" /> March next.  There would be a long drawn out debate on this motion.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>I do not think so in view of the fact that Senator Ó Maoláin himself, on the 12th July, 1961, moved the motion at a special meeting of the Joint Committee on the Electoral Law and in view of the fact that this motion, which is on the Order Paper in the names of Senator Sheehy Skeffington and myself, is a result of what was passed in 1961 by the Joint Committee on Electoral Law as moved by Senator Ó Maoláin.  There should not be any great difficulty about getting it through and I suggest, therefore, that it be included in today's Order of Business.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Many Bills have appeared on the Order Paper which apparently did not seem to present any great difficulty but which resulted in 12 or 14 hours of debate.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>In support of what Senator McQuillan says, perhaps we could hear from Senator Ó Maoláin whether he is supporting us in this motion, as I would assume he would?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Senator knows very well that it is a publicity gimmick.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>There are no gimmicks attached to the fact that 45 years have been spent waiting for civil rights and if this House passes the motion it will have a big bearing.</P>
+      <P>Question put: &ldquo;To add &lsquo;and 10&rsquo; after &lsquo;3&rsquo; on the motion for the Order of Business&rdquo;.</P>
+      <P Just="Center">The Seanad divided: Tá, 12; Níl, 20.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Conlan, John F.<br />Dooge, James C.I.<br />FitzGerald, Garret M.D.<br />McDonald, Charles.<br />McHugh, Vincent.<br />McQuillan, Jack.</entry>
+            <entry rowsep="1">Malone, Patrick.<br />Mannion, John.<br />Murphy, Dominick F.<br />Rooney, Éamon.<br />Sheehy Skeffington, Owen L.<br />Stanford, William B.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Ahern, Liam.<br />Boland, Gerald.<br />Brennan, John J.<br />Browne, Seán.<br />Eachthéirn, Cáit Uí.
+<Col N="1033" />Killilea, Mark.<br />McGowan, Patrick.<br />Martin, James J.<br />Nash, John Joseph.<br />Ó Donnabháin, Seán.</entry>
+            <entry rowsep="1">Egan, Kieran P.<br />Farrell, Joseph.<br />Fitzsimons, Patrick.<br />Flanagan, Thomas P.<br />Honan, Dermot P.
+<Col N="1034" />Ó Maoláin, Tomás.<br />Ryan, Eoin.<br />Ryan, William.<br />Teehan, Patrick J.<br />Yeats, Michael.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash; Tá: Senators McQuillan and Sheehy Skeffington; Níl: Senators Browne and Farrell.</P>
+    <P>Question declared lost.</P>
+    <P>Order of business as proposed by Senator Ó Maoláin agreed to.</P>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Nos. 1 and 2 are being taken together.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Industrial Relations Bill, 1966:" RHead="Second Stage (Resumed)">
+    <Title>Industrial Relations Bill, 1966: Second Stage (Resumed).</Title>
+    <P>Question again proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The last day, before the debate was adjourned, I was dealing with the Minister's statement to the effect that a minority in the trade union movement did not seem to favour this new Bill.  He suggested that this minority were afraid of change.  I agree with him that the people concerned are afraid of change but the question as to whether they are a minority is something that is well worthwhile examining.  The Minister knows perfectly well that to date the associations which purport to represent a majority of the Civil Service, and it is a substantial number of those people employed in the country today, object to being brought in under the Labour Court.  Nobody could describe those as a minority.</P>
+      <P>The Minister was not very realistic in giving such a description of the situation. The last day I suggested to him that while the majority of the associations are objecting and objecting strongly to being dragged into the 20th century so far as the Labour Court is concerned, they do not represent the opinions of the rank and file of these associations.  There is no question that there is grave dissatisfaction at the present time in the Civil Service associations with the conciliation and arbitration machinery.  The Minister must know that the terms of conciliation and arbitration are being broken daily. Conciliation and arbitration is now becoming a thing of shreds and patches. Within the last fortnight his officers must have seen examples of this themselves.</P>
+      <P>We had an example of dissatisfaction in Sheriff Street in the past few weeks where the entire business of the Post Office was practically brought to a halt because of the outmoded machinery of conciliation and arbitration.  There is grave danger that on Friday next there will be a halt in business and that the mail and other Post Office services to the community will be disrupted as a result of failure of the conciliation and arbitration machinery. Arising from that serious position, would it not be wise for the Minister to say to the people who favour conciliation and arbitration, &ldquo;I have heard enough.  I am going to make available the services of skilled personnel and of men who understand what human dignity means and what human relations should be.  I am going to send them into the Civil Service to see that the dignity of civil servants is no longer ground into the dust&rdquo;?  A few months ago we had a division here on what, in fact, is industrial relations.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Gimmickry.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>I would hope that had the Minister the authority and power to vote that he would have walked into the Division Lobby in favour of giving civil rights or industrial rights to the Civil Service.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>That was not the vote.  Senator McQuillan is not going to be allowed to get away with that piece of misrepresentation.  It had nothing to do with civil rights.  This is just a piece of gimmickry, just as Sheriff Street is.  Senator McQuillan acts in this manner at every opportunity.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>I am not trying to get under Senator Ó Maoláin's skin.</P>
+    </Speaker>
+    <Col N="1035" />
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Senator has got under it already.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>To me industrial relations mean that workers, whether civil servants or workers in a factory, are able to stand up and say, &ldquo;I am a first-class citizen just the same as a Deputy of the House or a member of a business or an employee of the ESB or elsewhere.&rdquo;  If the Minister is serious about applying industrial democracy and good relations in the Civil Service I should have thought he would speak to Senator Ó Maoláin because Senator Ó Maoláin cannot get away with it at this stage that nine years ago, on the 12th July&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="A Senator A Senator">
+      <NameTxt>A Senator</NameTxt>
+      <P>A good day.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>So far as the North is concerned, yes.  I am referring to civil rights here.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Come back to the Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The relations which are available in the Six Counties are not available to the Civil Service down here.  It is appropriate that the 12th July is mentioned.  Senator Ó Maoláin is the man who sought on 12th July, 1961, to bring good industrial relations into operation in the Civil Service.  He moved a motion at the last meeting of the Joint Committee on the Electoral Law.  At that stage he said it was of the utmost importance that the legislature should be able to draw its members from as wide a field as possible and only for the most grave and compelling reasons of public policy should any individual be prevented from putting himself forward for election.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Would the Senator kindly relate that to the Bill before the House?</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Industrial relations mean to me giving human dignity and respect to the worker. Certain workers are lacking in certain rights and they will feel disturbed. They will take part in rightful protests and they will seek to put themselves on the same level as you and I, a Chathaoirleach. <Col N="1036" /> Civil rights play a major part in industrial relations.  The Minister has stated that many of the troubles among workers, whether Civil Service or otherwise, are not because of the lack of pay or the cost of living. They are connected with conditions of work and the conditions of supervision and the general lack of rights.</P>
+      <P>I submit that one of the most vital rights of an individual is the right to be elected to this House or to the Dáil and to stand for election.  This is one of the few communities where this type of penalty is imposed on a large section of the community.  I should have thought that Senator Ó Maoláin, having got the unanimous support of all Parties in the House on the Joint Committee in 1961, would spearhead any movement at this stage to grant what has not been available in so many years.  I do not propose to go into that any further.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Senator knows it could not be done in the time preceding&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>Preceding what?</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Chair is asking that the Senator come to the terms of the Bill before the House.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>Preceding what?</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The conditions of service of civil servants are scandalous. A matter of this nature is of vital importance so far as this Bill is concerned. If the Minister thinks&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>It is not what the Minister thinks but what the Chair thinks in this House at the moment.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>It is important that the Chair would exercise the fairness he is noted for so far as a matter of this nature is concerned.  It is a question of the rights of the individual, the conditions in which he is employed. The conditions of service of civil servants at the moment make them third-class citizens.  Much of the unrest would be eliminated if proper civil rights, as part of the Industrial Relations <Col N="1037" /> Bill, were granted to civil servants, and I submit on that basis&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Senator has submitted that at least twice already. He should come to the main part of the Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Let me give an example of the dissatisfaction that is rife at the present time.  The Sunday and daily newspapers carry letters from people protesting at victimisation, conditions of work and so forth.  Within the last month an official in the Civil Service wrote what I thought was an excellent letter to the <i>Sunday Independent</i> criticising the Minister's trade union legislation&mdash;incidentally there were several other letters, including one from a Mr. Matt Doolan of television fame.  The civil servant exercised his right as a human being to write to the papers, but within three days he was hauled over the coals by the Minister's colleague, the Minister for Posts and Telegraphs, for daring to write to the papers on the grounds that this was a political matter.  One can imagine the feeling of frustration for a citizen who has the welfare of the community at heart and who is then told that the matter is political.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The individual concerned should know that according to the conditions of service operating in the Civil Service he is debarred from writing to the papers on matters like this.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Nine years ago you tried to change it.  You moved a motion to that effect, but in the past nine years you have been asleep.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Do not worry. It will be changed in due course and it will be done by a Fianna Fáil Government who have changed many things for the good of the people.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Including your principles.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Stick to the thoughts of Mao and remember to behave yourself in future.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The only thing I would say to Senator Ó Maoláin is <Col N="1038" /> that when Fianna Fáil come to change all those things they should do something to improve conditions for civil servants and the gardaí, and not be forced by us into doing it.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Do not claim credit for a miracle.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I would draw the Senator's attention to the fact that he is discussing electoral legislation and this is not in order on this Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>It concerns conditions of employment of workers.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I would ask the Senator to come to the terms of the Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>There is no good in trying to roughride over my rights and the Chair has the function to explain its reason to me, not in this arrogant way.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I do not think it is in order for the Senator to subject the Chair to this abuse.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The issue of electoral law is not an important part of this Bill.  The Senator may refer to it but he may not discuss it to the extent he is now attempting.  I would ask him to come to the terms of the Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>I do not wish to run counter to the Chair's ruling, but I want to make it clear that the troubles in the Civil Service are causing grave unrest.  The Minister is trying to remedy unrest and I suggest that one method is to ensure that the Civil Service and its associations are modernised.  I will leave the matter there and will return to what Senator Ó Maoláin said the other day.</P>
+      <P>In the course of my earlier contribution to this debate, I spoke of the necessity for bringing in legislation to deal with people who jack up prices casually and unscrupulously at the drop of a hat.  At column 584, Volume 66, of the Official Report, Senator Ó Maoláin is reported:</P>
+      <P>Does the Senator think that wages should keep going up and up and nothing happen?</P>
+    </Speaker>
+    <P>If the Minister and Senator Ó <Col N="1039" /> Maoláin and his Party were anxious to cure the unrest which exists in industry, the first thing they should do is to curb the avaricious approach of people in industry and in business who, the moment a justifiable increase in wages is granted, raise the price of the commodity to the housewife.  I have made it my business on a number of occasions to check on prices after workers had received an increase in their wages and I can assure the House that not a week goes by but there is an increase in the prices of commodities in the supermarkets.  Why is that? Is it because of the increase in wages to the worker?  I am not suggesting we should look to Fianna Fáil to place rigid control on prices.  I know they will not do that, but surely they can try to make it more difficult for those people to raise prices at the present time.</P>
+    <P>Since I spoke here last week a number of items have been increased in price.  The housewife has no way of regulating these prices except by abstaining from purchasing.  I think we should have a price section in this Bill which would curb much of the exploitation on the part of those who, having been forced to pay a just wage, are trying to get it back in another way.  The Minister should have no qualms about taking these steps because his attitude now is to punish workers for failing to live up to agreements. He wants to impose certain penalties if agreements are not kept. In order to balance it out, he can impose penalties on the employer for not keeping his part of the agreement, but when all is said and done the employer can increase the price of his product and there is no question of a penalty being imposed.</P>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>In which section of the Bill is the penalty?</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>All the Senator has to do is to read it and see for himself.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I am asking you which section relates to this business of punishing the workers?</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The question arises in this Bill that if an agreement is <Col N="1040" /> made between the unions and the employer, and if that agreement is relative, there is a certain fine imposed on one or the other for breach of an agreement.  That is what I am referring to.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>It is section 10.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The Minister should, at the same time, take powers to ensure that both sides keep that agreement so that the employer does not take a back door way of breaking it by increasing the prices of commodities because that is the way the employer has of getting out of it. The worker has no way out so he is on the losing end all the time.  That is why I say that the Minister, though he says he will act in a neutral fashion, will, in fact, favour the employer because he is leaving him free to increase the price of the commodity.</P>
+      <P>In conclusion, I should like to refer to that part of the Minister's statement where he says that the new machinery for the settling of certain kinds of disputes should be of considerable benefit to workers and where he refers to the power to appoint Rights Commissioners.  When the Minister is replying, I should like him to say whether these commissioners or ombudsmen will be empowered after the passage of this Bill to enlarge the area of their activities taking in the Civil Service groups.  It is my belief that there is no one better able to settle a dispute than an outsider.  If there is a dispute in an industry or in the Civil Service about insubordination or something else, there is no point in sending down a higher official of the same Department to solve it. It is necessary to bring in somebody from outside who is skilled in personnel relations.</P>
+      <P>I hope Senator Ó Maoláin will not mind if I repeat the matter about Sheriff Street.  If the Minister makes his troops available now he can prevent the situation that is now building up there to reach a stage where there will be a head-on collision.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Will the Senator be good enough to tell us who is to cause this head-on collision?</P>
+    </Speaker>
+    <Col N="1041" />
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The Minister for Posts and Telegraphs.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>But who will be responsible for operating this collision?</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>My information is that the workers in Sheriff Street have already given an ultimatum to the effect that they will take action if a half-day's pay is deducted from them on Friday next in accordance with the instructions of the Minister for Posts and Telegraphs.  As soon as that happens the Government, the Opposition and everybody else, will be out of contact with each other as far as sending letters are concerned.  Now is the time to settle that matter.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Is the Senator saying that all the workers in Sheriff Street are involved?</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>There are 600 workers there and if a fire is lit in one room it is likely to spread through the whole building.  I wish to make clear that I have no association whatever with Sheriff Street but I know about this matter from people who come to me and tell me about it.  All I am asking is that the Minister bring in people from outside to handle this dispute.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Is it one union, association or what that is involved?</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The matter is hardly in order on this Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>I think it is a question of individuals in the particular sorting office of a Government Department who are in dispute with the Minister for Posts and Telegraphs. It is a dispute that will come to a head because of the activities of the Minister and his civil servants.  The Minister has told me, as his officials did earlier, that they have a right to move into any dispute to settle it whether it is in the Civil Service or elsewhere if they are called upon to do so.</P>
+    </Speaker>
+    <P>I gather that because the dispute is in the Civil Service, in the domain of another colleague, the Minister for Labour is rather embarrassed and he does not consider that he should send <Col N="1042" /> in his fire brigade to quench a fire in Deputy Childer's Department.  That should not worry the Minister and it should not worry the Minister for Posts and Telegraphs either.  Both of them should be more concerned with preventing the fire from starting.</P>
+    <P>I should also like the Minister to say whether he is prepared, irrespective of getting the Civil Service associations to accept the Labour Court, to make available now the services of his skilled personnel to help industrial relations in areas within the Civil Service.  That can be done and should be done and I should like the Minister, when he is replying, to state what his views are on this.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Minister for Labour (Dr. Hillery) Patrick J. Hillery">
+      <NameTxt>Minister for Labour (Dr. Hillery)</NameTxt>
+      <P>I will answer Senator McQuillan first by saying that as the Bill is drafted, and as I intended, the Rights Commissioners would be available to people who had already access to the Labour Court and for that reason there would not be the right for civil servants to use this now.  Even with the right, Rights Commissioners can act only by agreement of both parties.  If one party objected to the commissioners offering a recommendation, he would not be entitled to do so.  I imagine that even without establishing the right, Rights Commissioners will be operating as well as industrial relations officers if both employer and worker agree to asking for their opinion in seeking a solution, but this right will not be in the Bill.</P>
+      <P>When Deputy Tully asked me in the Dáil to extend all the activities of the Labour Court to these people, I said that we would start off by making the Labour Court available and that we would consider and study the matter as time went by as to which extensions of the activities of the Labour Court should be made to this type of worker.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Supposing there is no objection by one side and the other side asks for it, does that mean that the Rights Commissioner cannot give an opinion?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The Rights Commissioner would only be entitled to give an opinion when there is agreement on <Col N="1043" /> both sides.  Naturally, this field is one where one would seek to get agreement and, in the absence of agreement by both parties, a conciliation officer or anybody else would have very little business offering his opinion.  There are times when one side or the other believe that the forces are in their favour and they will not accept a third party in those circumstances.  It is only when they believe they are losing that certain people will look for help from outside.</P>
+      <P>The main idea put forward on the last day on which the Seanad discussed this was the extension of the divisions of the Labour Court.  In this Bill, I was seeking powers to have three sections in the Labour Court.  Senators Dooge and, I think, Crowley also spoke of decentralising the court and asked the question if three sections were enough.</P>
+      <P>I will say again that a number of people in the Dáil made strong pleas for an increased number of sections of the court.  If the court was an accepted arbitrator, and if by its actions it was immediately accepted and solved problems, then I would see the point in having as many courts as we could have available in as many places as possible, but the experience to date&mdash; and this is a view of most people who have experience of industrial relations &mdash;is that they will agree, privately at any rate, that disputes take on a life of their own.  I will not go all the way with what the Deputy said in the Dáil that it was like a boil coming to a head and suppurating and needed time to be fit for incision.</P>
+    </Speaker>
+    <P>Those experienced know that early offers of recommendations to settle disputes are rejected out of hand.  They do not fit in with the emotions of the situation or the thinking of the two parties.  It takes a little bit of time, of muscle-flexing if you like, or even the use of force, negotiation and argument, before people will accept they have gone on long enough and that perhaps an outside third party could help them then.  You could be criticised for saying a dispute must mature, but the saying of it is only to identify what is fact. The existence of adequate sections of the Labour Court is not a problem.  I am convinced, from discussions with <Col N="1044" /> the people who are intimately concerned, that having three sections available will be quite adequate for the pressure period and will mean that for long periods of the year we will have the courts worthy of their white gloves, or whatever courts get when they do not have any business.</P>
+    <P>My whole thinking about the Labour Court, after the experience I have had in this field, has been that the court should become less thought of as a court and more as a servant from the conciliation aspect.  We who have dealt with it here in the Seanad, in the Dáil, in the law, and those who have dealt with it in practice in the court realise it is not, in fact, a court as a court of law handing down decisions.  Much of the public feeling about the failures of the court and much of the public demoralisation in this field is due to the fact it is called a court and the people expect it to hand down decisions which would be accepted as they would be accepted in the ordinary courts of law.</P>
+    <P>Our experience has shown that the court is there in the hope that the parties will be sensible enough to see that a decision handed down by an independent body representative of both sides may solve the problem&mdash; that neither side can win and in a situation in which both sides are continuing to lose.  The people who say you should put teeth into the Labour Court are those impatient people who feel it is a bad way of doing business. It is a bad way, from the point of view of efficiency, of doing business, waiting for recommendations that are not necessarily accepted, but from the point of view of a free society it is a better way than having a court which has its recommendation enforced by some outside service&mdash;as some Deputy said, &ldquo;calling in the troops, the tanks.&rdquo;</P>
+    <P>The only way the Labour Court can work and the only way we should want it to work is by agreement of the parties going before the court.  For that reason I hoped to get away from the habit of going quickly to the court, getting a decision and making that a basis for further discussion or going to the court at the request of the other side and <Col N="1045" /> then afterwards rejecting it and saying that we did not want to go anyway.</P>
+    <P>I hope we will put the accent on direct negotiation between the employer and the representatives of the employees and that this negotiation will be as meaningful as possible&mdash; negotiation for the purpose of finding a solution and of being fair to everybody concerned.  I know a great deal of posturing goes on and we all have experience of people crying havoc, that the plant will shut down and the country will break up, but those near the scene have become familiar with the various cries of anguish which have been ignored.  I think that with all the noise they are making they are still coming out about even in their battles and nobody has taken too much out of the situation except in regard to the general economic waves of rounds which some day are going to cost us out of many markets.</P>
+    <P>In this situation here, as I said in the Dáil, they should try to put their noses into this.  It is their problem: it is management's business to negotiate properly with the trade unions and it is the trade union's business to so structure themselves that they can work efficiently for their members and that they can negotiate on behalf of their members with full authority to make agreements and decisions.  We should get them to work at this in a free democracy and be very certain they have failed to do this before the State takes over or tries to take over.  I do not think it is possible for the State to take over altogether.</P>
+    <P>In that situation I am aware that an experienced conciliation officer can be a help.  If you have people who, as I say, are posturing, making noises, and widely separated, an experienced conciliation officer can go from one room to another and bring them closer together.  A certain amount of wrangling and a certain amount of horse trading, which we in this country seem to want to do, looks inefficient but it is in our nature to wrangle and horse trade.  If we want to do it that way then an experienced conciliation officer can help.  I hope that in the future, while we will have three sections of the Labour Court in order to give decisions <Col N="1046" /> where arbitration is accepted or where arbitration on part of a dispute is accepted, that the court will be a bit more remote and that the accent will be on negotiation with the conciliation officers helping the people to negotiate properly.</P>
+    <P>That is another reason why I think we should take the accent away from the Labour Court being constantly available in many places in many sections. I would say I am quite convinced now that this whole field needs people with a flexible outlook and we should be constantly thinking of new ways to solve this problem, always aware that whatever structures we offer will work only as well as the employees and the unions will let them work.</P>
+    <P>I intend that new legislation should not be repressive legislation but legislation setting up the procedures which would improve the situation.  I think the suggestions made by Senators will be useful because you constantly have to think whether you want more activity or less activity in the Labour Court.</P>
+    <P>Our experience in the last 20 years with the Labour Court, with conciliation, with mediators, with the total rejection of arbitration, with national agreements and our tendency towards smaller agreements will be an important part of our industrial relations history.  As a nation we will have to look at our own little history in this field and, perhaps with a flexible outlook, to devise structures suitable for the time, changed when necessary, and always trying to stress on management and on the unions that it is their function, that it is their country and that their stake is much bigger than ours.</P>
+    <P>As long as we give them the impression that we will come and solve this problem by some unknown magic that will be acceptable to both of them, then they will not get down to work this field, being a field which requires rational behaviour.</P>
+    <P>This has been attained in other countries and I have no doubt it will be achieved here, but first we have to go through the experience of rather inefficient messy behaviour.  I was <Col N="1047" /> always taught when I was a student that good judgment is built on experience and experience is built on bad judgment.  We have been through the period of bad judgment and we are gathering experience, unwelcome as it is, which in time must give good judgment and rational attitudes to our management and our trade unions.</P>
+    <P>I will keep the decentralisation of the Labour Court in mind.  I have not made a decision on it yet.  I do not think I will make a decision now.  The size of the country and the ease of transport and the benefits of having all sections near the court seem to outweigh any theoretical advantage of having sectional or regional Labour Courts as there are in Germany.  We will examine the position and see whether a regional set-up of any kind would promote better relations.  Some regions might accept more readily than others a particular form of procedure.  People in some parts of the country might be willing to make an act of faith and accept arbitration, whereas in other parts it would be completely rejected without consideration.  This will form part of a study which will be made with a view to having frequent legislation when we get agreement.</P>
+    <P>The Labour Court should have some function in relation to non-registered employment agreements.  There is not any great difficulty about this.  The officials of the Labour Court get information about these agreements.  Sometimes the agreements have been drawn up by the conciliation officers themselves. There is a degree of co-operation in supplying information to the Labour Court on current happenings and trends.  I am advised it does not need the compulsion of law at the present time.  Senator Crowley mentioned the widow of Tom Johnson, an original member of the Labour Court. I spoke to the Minister for Finance on this subject.  A way has been found, apart from this legislation, of dealing with the matter.  We will not deal with it here&mdash;it is not appropriate at this Stage.  Perhaps we could deal with it in Committee.</P>
+    <P>There are sections of this Bill which <Col N="1048" /> bring up to date sections of the 1946 Act.  They contain penalties for noncompliance with the Act.  In one or two sections, the penalty was £100.  Members of the Dáil thought that was an inadequate penalty.  Since 1946, there has been a great devaluation in the pound and some Deputies felt we should raise the figure on that basis.  I agreed to examine the matter.  Having thought it over, I feel that all the thinking I have done on this field has been on the basis of not having penalties at all.  If we are to make a democracy work we must assume that the majority of people will obey a law which has been properly thought out at the time of enactment.  The idea of penalties would be to compel a minority only.</P>
+    <P>However, I will not remove the penalties. We should leave them in but not increase their amounts.  The inspectors of the Labour Court are getting co-operation. When they find a difficult employer they find it more satisfactory to try to bring him round to more enlightened thinking rather than to impose a penalty and leaving him to slip back to his bad habits.  It would be imprudent to bring about an attitude of mind by putting on heavier, or even savage, penalties on people in relation to matters which depend on co-operative effort for their success.</P>
+    <P>I am saying this to the Seanad because I promised in the Dáil to look at the matter.  It may be justifiable on the basis of devaluation but if our thinking is to promote a feeling of co-operation and to have the law as something which people will respect and obey, then perhaps we should not put the accent on penalties.  We should see what the inspectors can do in the field of co-operation.  The figures mentioned are the maximum penalties under the law.  One does not know what penalty a district justice would impose. A district justice does not always impose the maximum penalty.  It is unrealistic to rise the maximum which has never been imposed anyway.</P>
+    <P>I have no other notes of questions raised.  Senator Dooge said there was uncertainty about my approach to the Bill and to the drafting of the Bill itself.  This uncertainty is based on the fact that we have two sides to industry, <Col N="1049" /> the employer and the employee.  They have disputes about rights and conditions of employment.  We are trying to have a third party represented in this area, the public.  We set up the Labour Court in 1946.  I am satisfied that the thinking behind that legislation was to make it available in the hope that people would use it.  In recent years its recommendations have been rejected on many occasions.</P>
+    <P>One has to make up his mind, if the Labour Court should fail, whether its recommendations must be imposed, and about the question of having penalties attached to it.  This is what is called putting teeth into the Labour Court.  There can be a great public education policy for coaxing people to co-operate.  I was uncertain about this Bill.  I thought the existence of the Labour Court was blinding participants in negotiations to the fact that the finding of a solution was their task and that making industry run smoother is their job.  The presence of the Labour Court allowed some people to shrug off this responsibility and to pass the matter on to the Labour Court.</P>
+    <P>In turn, this irked many workers and they rejected recommendations.  I have had consultations with both employers and trade unions and they agree that the Labour Court should remain.  They all agree that though they understand what is happening they do not expect a court of law.  These people see the Labour Court rejected and the employers would wish that it had not been rejected so often.  All parties agree that a recommendation of the Labour Court is a help in the disputes.  It may look inefficient at times but the recommendations are a basis for settlement. All parties wish it to remain.  The Labour Court is there only if the people wish to use it.  It cannot be made to work without a change in our system of society and we are not going to do that.  I hope that in the years ahead the people in industrial relations, and particularly management, from whom I expect a great deal, should try to make the system work. The Labour Court will then be as good as they want it to be.</P>
+    <P>So far as the law is concerned, it has a part to play in supplying procedures <Col N="1050" /> and machinery.  In the two Houses of the Oireachtas we can pass any law we like.  There are times during the year, as I said during the maintenance dispute, when powerful repressive laws could be passed. If a law is to fail at its first confrontation it should not have been passed.  I do not believe that the law is the solution to problems in this area.</P>
+    <P>Certainly those who want laws passed to make workers behave to suit them should wake up and find out.  If they will not listen they will find out the hard way that you cannot make a law work if sufficient people do not want it to work.  Our whole object should be to produce between the Houses of the Oireachtas laws which will be acceptable to the people concerned, which the majority want and will help to work.  This is what I have done in the drafting of this Industrial Relations Bill.  We could have gone further. There is no system which people cannot impose.  People ask: &ldquo;Why did you not think of this or that?&rdquo;, and my reply is, &ldquo;We thought of everything&rdquo;. What counts with me is what is reasonable to propose as law; what is liable or likely to be effective, and what will help the workers to get their fair share of what is going and at the same time what will protect the development of industry and of the economy generally so that we will be able to supply employment at home for our people.</P>
+    <P>We can go into the sections of the Bill on the Committee Stage, but I would say that I should like to do a lot if I knew how to get clearly in the minds of people everywhere that there are only two roads open in the field of industrial relations.  One road is to get a solution by force, which I think all workers would resist; and the other road is the road of reason.  This method will be abused by some people, because a minority will go against the reasonable way, but as far as I am concerned it is the way I am proposing. In fact, I think it is the only way in a democracy.</P>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>May I ask the Minister one question?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Col N="1051" />
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>Would the Minister consider some ways and means of encouraging the study of industrial relations in our universities, both from the point of view of giving instructions to graduates finding employment in our industries and also the creation of a skilled pool of experts in this direction? I had hoped to develop this on the Second Stage, but I was delayed on the way.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I would consider anything. Once we have decided that the way to do it is the way of consensus and agreement, then we have to have a massive application of our intelligence and communications, and I would agree that this would be very reasonable.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee Stage ordered for Wednesday, 28th May, 1969.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Electricity (Special Provisions)" RHead="(Repeal) Bill, 1969&mdash;Second Stage">
+    <Title>Electricity (Special Provisions) (Repeal) Bill, 1969&mdash;Second Stage.</Title>
+    <P>Question: &ldquo;That the Bill be now read a Second Time&rdquo; put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Electricity (Special Provisions) (Repeal) Bill," RHead="1969&mdash;Committee and Subsequent Stages">
+    <Title>Electricity (Special Provisions) (Repeal) Bill, 1969&mdash;Committee and Subsequent Stages.</Title>
+    <P>Bill put through Committee, Reported without amendment and received for final consideration.</P>
+    <P>Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>May I say on the Final Stage, on behalf of this side of the House, how glad we are that this Act has been repealed and that the repeated efforts of Fine Gael to do this have eventually borne fruit?</P>
+    </Speaker>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>I am glad to hear the confession of Fine Gael.  Is my memory not correct, then, that Fine Gael voted for this Act when it was going through and that the only opposition was from the Labour Party?  I hope my memory is correct.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>And subsequently sought to repeal it because it was no longer necessary.</P>
+    </Speaker>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>The confession is welcome, anyway.</P>
+    </Speaker>
+    <P>
+      <Col N="1052" /> Question put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Curragh of Kildare Bill, 1968:" RHead="Second Stage">
+    <Title>Curragh of Kildare Bill, 1968: Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time&rdquo;.</P>
+    <Speaker pid="MichaelHilliard" hpid="Minister for Defence (Mr. Hilliard) Michael Hilliard">
+      <NameTxt>Minister for Defence (Mr. Hilliard)</NameTxt>
+      <P>The purpose of the Bill is to amend and extend the Curragh of Kildare Act, 1961, to provide effective control over the grazing of sheep on the Curragh lands, which are State property.</P>
+      <P>The grazing rights on the Curragh derive from grants of certain lands surrounding the Curragh which were made after the dissolution of the monastic institutions in Ireland and which included a right of commonage over the Curragh.  Under the Curragh of Kildare Act, 1868, three Commissioners were constituted to ascertain, among other things, what (if any) rights of common of pasture existed on the Curragh.  The Commissioners made their award in 1869 and it is embodied in and confirmed by the Curragh of Kildare Act, 1870.</P>
+      <P>The award set forth that the Curragh should not be grazed by any animals except sheep; it listed the persons whose claims to rights of common of pasture were allowed, and it set out the number of sheep which each such person was entitled to graze.  The persons whose claims were allowed were either owners, lessees, tenants or occupiers of certain specified lands adjoining the Curragh, and the grazing rights are appurtenant to the specified lands.</P>
+    </Speaker>
+    <P>The successors in title to these persons now hold the grazing rights.  Prior to the enactment of the 1961 Act, the total number of sheep for which grazing rights on the Curragh existed was 7,957.  Pursuant to the provisions of the 1961 Act, the enclosure by the Racing Board of the area of the Curragh Racecourse (about 816 statute acres) was authorised after the Board had arranged for the extinguishment of 1,432 sheep grazing rights and the non-exercise of 307 rights.  A further small number of grazing rights was extinguished in connection with the sale of about two acres of the Curragh and the lease of a site for school building. <Col N="1053" /> The total number of sheep for which grazing rights now exist is 6,212 but it is reported that the number of sheep actually grazing there at various times is far in excess of this figure.</P>
+    <P>Pursuant to section 16 of the 1961 Act, the Curragh Bye-laws, 1964 (Statutory Instrument No. 7 of 1964) were made so that the entry of sheep to the Curragh could be controlled and that only those persons entitled to the grazing rights should put or keep sheep on the lands.</P>
+    <P>The Head Bailiff at the Curragh reported early in 1964 that a number of sheep-owners had placed sheep on the Curragh lands without having them branded with the official brand and had failed to comply with his instructions regarding the proper procedure to be followed.  Communications were addressed by my Department to the sheep-owners concerned in May, 1964, drawing their attention to the appropriate provisions of the bye-laws and requesting them to arrange to have their sheep branded with the official brand or, alternatively, to have them removed from the lands immediately.</P>
+    <P>The sheep-owners concerned did not comply with the requirements of the Head Bailiff or of my Department and, in the circumstances, legal proceedings were instituted against a number of them.  At the District Court, Droichead Nua, in February, 1965, the Justice convicted certain persons for contravening the bye-laws and imposed fines. Appeals were lodged by the defendants and, in May, 1965, the Circuit Court Judge at Naas Circuit Court allowed the appeals.</P>
+    <P>Following the review of the results of the 1965 court proceedings by the Attorney General, it is now considered that the 1961 Act should be amended on the lines set out in the Curragh of Kildare Bill, 1968.  The important parts of this Bill are sections 2 and 3, which will put on the statute book provisions which, up to now, had only the status of bye-laws, and section 4 which will enable more effective action to be taken to deal with contraventions of the law.  It is vital for the effective control of sheep-grazing on the Curragh and for ensuring that only those persons <Col N="1054" /> entitled to do so shall keep or graze sheep on the lands that legal proceedings instituted against persons contravening the law should be successful. I am assured that the Bill will, on enactment, achieve this result and I recommend it for the approval of the House.</P>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>It is always a mystery to me how quickly a flaw in legislation is discovered and how long it takes to correct it.  Here we have a difficulty that arose after the passing of the 1961 Act and which has taken until now to remedy.</P>
+      <P>The Curragh of Kildare should rightly be the concern of Departments other than the Department of Defence. The Minister for Agriculture, the Minister for Transport and Power and the Minister for Lands could also interest themselves in the Curragh to the betterment of various aspects of their Departments.  By virtue of the fact that the Curragh of Kildare has the Army training camp and the necessary lands for practice known, I think, as the Blue Lands, there are other aspects of the Curragh which merit consideration and which I regret are not included in this Bill.</P>
+      <P>In his recent Budget speech, the Minister for Finance announced increases for mountain sheep.  The Department of Agriculture have become worried about the fall in the sheep population of the country.  On the Curragh there are 6,212 acres devoted exclusively to the grazing of sheep.  Anybody travelling across the Curragh having any knowledge whatever of agriculture cannot but remark at the pathetic starved appearance of the lands&mdash;lands which, if they were fertilised and put to their maximum production, could graze at least six sheep per acre.  Indeed, the grazing rights could be greatly increased and in spite of the number of rights extinguished as a result of the 1961 Act to enable the Racing Board to enclose about 800 acres, there would be no loss in the number of sheep available for grazing.</P>
+    </Speaker>
+    <P>I know that the Minister gets no revenue from the grazing rights.  The people having grazing rights pay rates <Col N="1055" /> just as the Racing Board pay rates to Kildare County Council.  I am sure that if these people were approached in the right manner they would increase their contribution which, I think, is as low as 6d.  I am subject to correction on that but the rate is, at least, very low. The increased contributions could be devoted to the improving of the lands of the Curragh to the benefit, ultimately, of the nation as a whole.</P>
+    <P>One has only to look at the enclosure made by the Racing Board to see the improvement that can be made in the land.  Now that we can see the results great credit and thanks are due to those who agreed to the extinguishing of their grazing rights in order to enable that to be done, now that we see the results.  Were it not for that, we could never have had the tremendous attraction which the various big races that have been since held at the Curragh have offered.  On that point, the Department of Transport and Power come in in dealing with tourism because those races are a tourist attraction. Many of our visitors and particularly those from the United States have on numerous occasions made sure that their tour coincided with a race such as the Irish Sweeps Derby, the Guineas, the Oaks and some of the other big races which attract the cream of the horses from all over the world.</P>
+    <P>To look out from the stands at the Curragh and to see the improvement that has been made in the lands, is in itself proof of what can be done to the remainder of the Curragh.  The Racing Board are to be congratulated on the section which they have planted with trees and this is where the Minister for Lands could very usefully come in.  There are portions of the Curragh which would, if they were planted, benefit the users of the Curragh as well as the animals by way of shelter.</P>
+    <P>At one point on the edge of the Curragh, Kildare County Council services for houses pass close by so that water and sewerage is available.  There is an acute shortage of housing in the area.  I am aware that the Minister was approached about this some time back and that certain discussions took place <Col N="1056" /> but the proposals fell through in a short time.  I should like the Minister, when he is replying, to let me know whether the allocation of a small amount of housing around the Maddenstown area would require the extinguishing of further grazing rights or if it would require special legislation.  If that were so, I would be very sorry that the necessary legislation was not included in this particular Bill so that it could be used at some future date.</P>
+    <P>In his speech the Minister stated that when a check was made on the number of sheep on the Curragh at one time, it far exceeded the number permitted. That is the understatement of the year.  The effect of the restrictions did not have the desired effect in so far as putting sheep to graze by people who were not entitled to do so was concerned.  The trouble was that the bye-laws were quite useless in penalis-ing these people.  It is in order to give the Minister power to effect the restrictions that we have this Bill before us today.  If the Bill succeeds in doing that and if it protects those who have grazing rights it should receive a warm welcome in this House.</P>
+    <P>I am sure the Minister has the rights of the people involved very much at heart, but there is one section of the people who have a complete disregard for the property of those on the Curragh. I refer to people in the adjacent areas who keep dogs without keeping them under control.  It is not unusual, and it is a horrible sight for those crossing the Curragh, to find sheep which have been savaged and killed by dogs which should not be there and which should be kept under strict control.</P>
+    <P>Indeed, under the Diseases of Animals Act which went through this House a few years ago, it was pointed out that the method being advocated by the Minister at that time to control dogs would be quite ineffective.  Indeed, the passage of time has proved that the dogs are still loose.  They are killing sheep, and if they are traced back to where they came from, the people concerned refuse to acknowledge ownership. The sheep-owners are thus at a loss.  This is a terrible problem and one which will not be easily solved.  It does <Col N="1057" /> not appear to be getting the attention which it should of the Department of Agriculture.  I hope I have not ranged too far over the Curragh.  It is a very big area covering many Departments and should be of interest to many Departments.  If this Bill succeeds in bringing about the necessary change in the provisions to enforce the previous Act then we give it a warm welcome.</P>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>It seems that this Bill is intended mainly to deal with the sheep grazing rights on the Curragh. Now that we are dealing with this aspect of it, and dealing with the Curragh in general, we ought to consider a few aspects in so far as the Curragh is concerned.  Apparently thousands of sheep are grazed every year on land which is very poorly grazed.  Apparently it is just the elements and nature which provide the grass on the Curragh for these sheep.  Apparently too there are people with vested interests in the Curragh.</P>
+      <P>Those are States lands.  I think I am right in saying in fact that this nation are the caretakers of this land previously held by the British.  The State are really the caretakers of those State lands in so far as the early legislation affects us.  When we speak about sheep in those modern times let us talk about the traffic hazard involved in the lack of a trunk road between Dublin and Cork and Dublin and Limerick. Thousands of cars pass through the Curragh every day but no attempt has been made to keep the sheep from crossing the road and causing considerable danger to the people using that road.</P>
+    </Speaker>
+    <P>There is a 60-mile limit all over the country now but there were times when cars travelled across the Curragh nearer the 100-mile-an-hour mark. There is no fencing and sheep can walk back and forth from one side of the road to the other as they like.  The time has come for those responsible for the Curragh to organise some kind of fencing arrangement to ensure, though the sheep have full rights both in the middle of the road and on the land of the Curragh, that the traffic is regulated and that sheep do not cross that major trunk road.  I know this would involve a lot of fencing and it may involve <Col N="1058" /> many organisations as well but we should certainly do something about it.</P>
+    <P>We are lucky to have such a fine place as the Curragh, a flat spacious plain.  The people in Dublin city are fortunate to have the Phoenix Park which is used as a park for various recreations and also for ordinary visitors. The Curragh should be regarded also as a national recreational park. Something should be done so that it can be so used.  We all know that Dublin Airport has become very busy and very crowded with planes coming in every minute.  There are thousands of planes, not hundreds, coming in and out of Dublin Airport.  That traffic includes private planes coming in and out and also helicopters.  I feel the time has come when an arrangement should be made to provide an airstrip on the Curragh for the use of private individuals.</P>
+    <P>I know that at the present time people land private planes on the Curragh, particularly on Derby day when our great national race takes place.  People arrive in their own planes before the race and fly away afterwards.  There is no level strip of ground for them to land on.  Those people have probably been told before they arrive where the most suitable place to bump down on the Curragh is.  We can all think of the wide open space on the Curragh which could provide facilities for private planes and for tourists who wish to come here by plane and helicopter.  There is a railway line alongside the Curragh which would facilitate those people if they wish to travel into Dublin free of the roads from the Curragh.  They could also travel to Limerick or Cork in the same way.</P>
+    <P>Those are just a few of the points I wanted to make on this Bill.  We should not be legislating here to make sheep the queen of the Curragh with the run of the lands and the public road.  When we are doing something now about this we ought to bring in some kind of regulation which will enable us to make better use of the Curragh in so far as the nation is concerned. We should make the Curragh available for people who wish to use <Col N="1059" /> it for recreational purposes and as a public park.  The Curragh could become a national park.  I doubt if there is any place in the world with such a large acreage of land which could be used and formed into a national park. We are lucky to have it.  I know from the Minister's statement the reasons why this Bill is here before us today but I think when we are dealing with this matter now is the time for us to consider the many other useful purposes to which the wide open spaces of the Curragh could be put.</P>
+    <Speaker pid="MichaelHilliard" hpid="Mr. Hilliard Mr. Hilliard">
+      <NameTxt>Mr. Hilliard</NameTxt>
+      <P>The lands of the Curragh, as the House knows, are vested in the Minister for Defence subject to grazing rights held by certain people.  Those people are very jealous of their rights.  They have those rights by virtue of rights which go back to monastic times in this country.  The rights are enshrined in legislation passed in the British Parliament and are continued by legislation passed by the Oireachtas in recent years.  I have no authority whatever to create new grazing rights on the Curragh.  There is no legislation needed to extinguish rights.  They can be extinguished by agreement with the holders of the rights.</P>
+    </Speaker>
+    <P>Part of the Curragh is used by the Department of Defence as a training ground for military personnel.  We have a military establishment on the part of the Curragh known as the Brown Lands on which there are barracks and other military installations.  On the Curragh there are rifle ranges used to train our troops.  In modern times, with modern vehicles now being used by military personnel, we have many complaints from sheep grazers on the Curragh and from the owners of the rights that these vehicles interfere with the grass and that they are damaging the grazing lands known as the Green Lands.  Senator Rooney wishes to have an airstrip on the Curragh to facilitate landing there.  If landings were to take place regularly on the land under the control of the Minister for Defence it would be necessary to have regard to the grazing rights for sheep on the Curragh.  We agreed to give facilities <Col N="1060" /> to the Turf Club, but they did not go ahead with their proposals.</P>
+    <P>Senator Malone raised the question of house building on the Curragh by the Kildare County Council.  I wish to tell the Senator that some years ago the County Council approached the Department of Defence for a two-acre site on the Curragh for the purpose of erecting new, fully-serviced houses.  The site was beside Williams Corner.  The Department offered to sell the site in 1966.  The Council did not proceed with the matter and notified the Department that they were no longer interested.</P>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>Would the site be available to them again?</P>
+    </Speaker>
+    <Speaker pid="MichaelHilliard" hpid="Mr. Hilliard Mr. Hilliard">
+      <NameTxt>Mr. Hilliard</NameTxt>
+      <P>We would try to facilitate the local authority in that regard. We facilitated them with a site for a sewage disposal works.  We try to meet any reasonable requests that come to the Department from any local authority or from groups interested in providing services for houses.</P>
+    </Speaker>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>The services are all there?</P>
+    </Speaker>
+    <Speaker pid="MichaelHilliard" hpid="Mr. Hilliard Mr. Hilliard">
+      <NameTxt>Mr. Hilliard</NameTxt>
+      <P>Yes.  We realise there is a large acreage on the Curragh.  Personally, I would like to be able to assure the House and the public that we could go ahead with a rehabilitation programme for the Curragh.  The fact is that the Department of Defence get no return whatever from the grazing of sheep on the Curragh.  The owners pay a small amount of money in rates to the local authority.  I do not know what the figure is.  They also pay a land annuity to the Land Commission which may include an element for the grazing rights attached to their lands.  These rights have come down in succession to the people who own the lands now.  If one could extinguish the grazing rights completely and take over the Curragh as unencumbered State lands one would not have much trouble in formulating a plan of rehabilitating the lands and then letting them to sheep-owners.  It would not be difficult to make full use of the land for the grazing of sheep.  I have explained the legal position to the House.  I have spoken to some people who have come <Col N="1061" /> to see me in relation to the improvement in the lands.  If these people propose a scheme whereby they will make contributions themselves in order to improve the land, even in a piecemeal fashion, my Department will facilitate them provided there is no charge on the Exchequer.  Senator Malone knows that a former Minister for Finance from his own constituency set up an inter-departmental committee to have the question examined on the basis that there would be no ultimate charge to be borne by the Exchequer.  I have explained the situation in regard to the grazing rights as fully as I can.  I have explained the difficulties we would have in dealing with a rehabilitation programme on the Curragh.  The Racing Board have improved their area immensely.  I see that myself as I pass through the Curragh.  They extinguished the grazing rights.  The Racing Board do not graze sheep on the lands but they use the land in connection with the horse racing industry. They have an income for the lands which perhaps does not cover fully for their expenses.</P>
+      <P>The owners of grazing rights are not confined to any one particular grazing area in the Curragh.  The sheep may roam the full extent of the Curragh grazing area.  I have no authority to prevent that.  It would be very expensive to erect a fence around the whole Curragh and along the roads intersecting it, similar to the one which has been erected by the Racing Board.  The cost of such a fence would be prohibitive.</P>
+      <P>I cannot give the House any assurance in relation to the dogs.  I wish we could find a method of keeping dogs off agricultural land except when they are under the control of the land-owner or some responsible person.</P>
+    </Speaker>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>Dogs are a terrible problem.</P>
+    </Speaker>
+    <Speaker pid="MichaelHilliard" hpid="Mr. Hilliard Mr. Hilliard">
+      <NameTxt>Mr. Hilliard</NameTxt>
+      <P>Dog owners should be more conscious of their civic responsibility in this matter, but there are people who do not live up to their responsibilities in matters of this kind and there is very little that can be done by way of legislation.  It would be difficult to control that malpractice <Col N="1062" /> which is so common in this country.</P>
+    </Speaker>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>What about the Department of Agriculture?  Have they plantations on the Curragh?</P>
+    </Speaker>
+    <Speaker pid="MichaelHilliard" hpid="Mr. Hilliard Mr. Hilliard">
+      <NameTxt>Mr. Hilliard</NameTxt>
+      <P>I do not think they have.  I have not gone into this matter but I think any trees planted on the Curragh have been planted by ourselves. The development of tree-planting there was, I think, initially carried out by individual officers at the Curragh who took a personal interest in matters of this kind.</P>
+      <P>Question put and agreed to.</P>
+      <P>Agreed to take remaining Stages to-day.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Curragh of Kildare Bill, 1968&mdash;" RHead="Committee and Final Stages">
+    <Title>Curragh of Kildare Bill, 1968&mdash; Committee and Final Stages.</Title>
+    <P>Bill put through Committee, reported without amendment, received for final consideration and passed.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Post Office (Amendment) Bill," RHead="1969&mdash; Second Stage">
+    <Title>Post Office (Amendment) Bill, 1969&mdash; Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time&rdquo;.</P>
+    <Speaker pid="PatrickJLalor" hpid="Parliamentary Secretary to the Minister for Posts and Telegraphs (Mr. Lalor) Patrick J. Lalor">
+      <NameTxt>Parliamentary Secretary to the Minister for Posts and Telegraphs (Mr. Lalor)</NameTxt>
+      <P>The Bill has three main purposes, all of which require changes in existing legislation.  I should perhaps mention that the principal piece of legislation governing Post Office activities is the Post Office Act of 1908 which, with relatively few amendments, is still in force to-day.</P>
+      <P>The first purpose is to enable regulations to be made to allow literature and articles specially adapted for the use of the blind to be sent free of postage.</P>
+    </Speaker>
+    <P>The principle of free postage for literature and articles specially adapted for the use of the blind is already accepted internationally in the Universal Postal Union Convention.  Most countries have now abolished postal charges, other than airmail charges, for this class of mail.  Our postal charges in this country for such articles have, for many years, been nominal; they range from a minimum of ½d. to 2½d. for packets of 15 lb.  Until <Col N="1063" /> recently those rates satisfied the interests concerned but the two major organisations concerned with the welfare of the blind in this country have asked that free postage facilities should be provided in line with the general practice elsewhere.  In order to accede to this request it is necessary to amend the Post Office Act, 1908, which gives power to fix, by statutory order, rates of postage for different classes of postal packets but does not give power to permit postal packets of any prescribed class or classes to be sent free of postage.  Subsection (1) (c) of section 2 of the Bill proposes this extension of the regulation-making power. Any regulation made under section 2 will be subject to the requirement that it shall be laid before both Houses of the Oireachtas and that notice of the making of the regulation shall be published in <i>Irish Oifigiúil.</i></P>
+    <P>The second purpose is to transfer certain powers from the Minister for Finance to the Minister for Posts and Telegraphs.</P>
+    <P>Statutory instruments made under the Post Office Act, 1908, must be executed by the Minister for Finance, as the successor of the Treasury.  The Minister for Finance and myself agree, and the Government has accepted the view, that such instruments, being of a technical character and primarily the concern of the Post Office, should be made by the Minister for Posts and Telegraphs, subject to the consent of the Minister for Finance where charges, fees or scales of weights are involved. In subsection (1) (a) and (2) of section 2, and in section 3 the authority of the Oireachtas is sought for this change.</P>
+    <P>In detail, subsection (1) (a) of section 2 gives the power to the Minister for Posts and Telegraphs to make, by warrant, regulations fixing the rates of postage and other sums to be charged on postal packets and to regulate the scale of weights and the circumstances according to which those rates and sums are to be charged, subject, however, as provided for in subsection (2), to the consent of the Minister for Finance.</P>
+    <P>Section 3 transfers to the Minister for Posts and Telegraphs the power <Col N="1064" /> vested in the Minister for Finance under section 4 of the Act of 1908 to make by warrant such regulations as may be necessary for carrying into effect postal arrangements with foreign states and also the more important power, given under section 82 of the Act, to make regulations generally in respect of any matter authorised or required by the Act.  The section again provides that the consent of the Minister for Finance is necessary where financial considerations are involved.</P>
+    <P>The third purpose is to permit greater flexibility in mail-handling arrangements.</P>
+    <P>Section 4 provides for the amendment of section 15 of the Act of 1908. That section provides, in effect, that where the despatch or delivery of letters might be delayed by having to deal at the same time with printed papers, samples and postcards, the Post Office can hold over those items until the despatch or delivery next following that by which they would ordinarily be sent.  The deferable mail is, of course, that posted at reduced rates, and consists, at present, mainly of circulars and bills.</P>
+    <P>The Post Office is now faced with greater problems in the postal service than it was in 1908.  These problems arise from the steady increase, year by year, in the volume of mail posted, the trend towards shorter hours and more congenial hours for the staff, and the difficult traffic conditions in the cities that impede the collection, transmission and delivery of mail.  A stage has now been reached where, in order to ensure that letters are despatched in due course and incur no risk of delay in delivery, greater freedom in the treatment of mail posted at reduced rates is necessary. Accordingly, Section 4 proposes to remove the present restriction on the power to defer such mail only until the next despatch or delivery and to empower the Post Office to deal with it at off-peak periods.  The British Post Office got rid of the restriction in 1953 and I understand that most other postal administrations are similarly free to make flexible arrangements.  This power is particularly necessary at the present time so as to enable delivery patterns to be rationalised in the light of the <Col N="1065" /> further reduction in working hours&mdash;to 37½ net&mdash;which will shortly be introduced for postmen and to enable a 5-day working week, on whatever basis is finally settled, to be granted to them. The form the rationalisation will take is not yet clear as discussions are going on with the staff on various aspects. But probably some kind of balanced arrangements may be necessary in Dublin and other large centres, that is, letters and newspapers would be delivered in the morning and other mail at a later time or times.  It may also be necessary, in order to ensure the prompt despatch of letters, similarly to hold back other mail for a later despatch.  I may mention that it is intended to continue to give subscribers' copies of newspapers the same treatment as letters, despite the low rate of postage charged.</P>
+    <P>In brief, the intention of the Bill is to give the Department in a number of matters the greater flexibility demanded by modern conditions.</P>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>We welcome this Bill in so far as the Parliamentary Secretary has announced that concessions will be made to the blind and other less fortunate sections in our community.  Anything that is done in this regard must be welcomed by all but I am a little apprehensive about one or two of the sections.  The Parliamentary Secretary has not made it quite clear as to how far he intends to go with the powers he is taking under subsection (4).</P>
+      <P>Can we expect either the introduction of first and second class mail which will in the main mean an increase on the present rates?  I am also not very happy about the giving of power to the Post Office to defer the delivery of packets for more than one day.  The Minister is taking more power than is necessary in this respect.  Perhaps the Parliamentary Secretary will tell me whether, under this section, the packets which we as Members of the Oireachtas receive with the Order papers, will be treated as letters or packets and whether we can expect to get the excellent service that we now enjoy.</P>
+    </Speaker>
+    <P>One of the main problems one finds with the postal service at the present <Col N="1066" /> time and which is most regrettable is the fact that such a large number of temporary whole-time postmen who, after giving 20 or 30 years' service are sent out at the age of 65 with no pension rights whatsoever.  These people deserve better treatment than this.  There are also a number of counter clerks in post offices who have the same problem.  Perhaps the Parliamentary Secretary will take a closer look at his organisation in this regard and improve the working conditions within the very important organisation that he controls.  I should like to compliment the Department on the progress that has been made in certain sections of the service.  For my own part&mdash; perhaps I am lucky&mdash;the service in the general area in which I reside is second to none.  When I am at home I can post a letter for general delivery up to 8.30 p.m., whereas in some of the Dublin offices the letter would have to be posted before 5.30 p.m.</P>
+    <P>To be a little more critical, it is unfair of the Post Office when they decide to close down a sub-office in rural Ireland that such inconvenience is caused to the public.  Taking Vicars-town as an example, which is in the Parliamentary Secretary's constituency, tremendous inconvenience was caused to the less well-off sections of the community as a result of that closure.  It is unfair to expect pensioners and others to travel five miles to Ballybrittas or four miles to Stradbally. Some of them may have to go across the county border to Athy in order to collect their pension or post a registered letter.</P>
+    <P>When that post office was closed, I, myself, saw letters lying around the small posting box because the box was not adequate to take the volume of post.  As we progress as a nation, the services should improve and should improve for everyone in every section of the community.  One thing I find about the present administration is that those of us who are happy to live in rural Ireland are getting a worse service day by day in some areas.  This should not happen.  There are villages and small towns throughout the country from which the services are being whittled away.  The Parliamentary <Col N="1067" /> Secretary might also consider erecting telephone kiosks outside post offices rather than inside them.  Perhaps the Acting Chairman may consider that I am wandering from the Bill.</P>
+    <Speaker pid="JohnCole" hpid="Acting Chairman (Mr. Cole) Acting Chairman (Mr. Cole)">
+      <NameTxt>Acting Chairman (Mr. Cole)</NameTxt>
+      <P>The Senator is wandering from it.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>We have not had an opportunity of discussing the Post Office in this House since I first came here 12 years ago.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>The Senator will have to make an opportunity for himself. He cannot do it on this Bill.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>We did not even have an opportunity of discussing it on the Appropriation Bill last year.  We do not have the advantage of having an active Parliamentary Secretary who can do something about our complaints.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>This Bill will not give the Senator that opportunity.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>I should like, then, to refer to the Explanatory Memorandum. It is not very informative and I find it quite misleading.  It does not spell out everything that the Parliamentary Secretary has in mind.  His Second Reading speech did not help the House and I had hoped that he would be a little more specific.  We are more or less left in the dark as to what it is proposed to introduce by way of regulation under this Bill.</P>
+      <P>We should not give the Department power to delay delivery of mail.  If this is allowed, we might find people receiving mail on three days per week only.  It is reasonable to assume that some attempt would be made to introduce a five-day week in the Post Office soon.  If the Minister is to have the power to withhold packets and postcards for a period of time not specified, the chances are that the service will deteriorate a lot.  The granting of that power by the Oireachtas will not be in keeping with the progress that we would expect to see in the country at the present time.</P>
+    </Speaker>
+    <P>
+      <Col N="1068" /> I should also like to ask the Parliamentary Secretary if, when he gets around to the new regulations and the fixing of rates, the public will have any redress.  Taking postage stamps as an example, their cost has been steadily increasing.  I realise that the Parliamentary Secretary has said that he proposes to afford free postage to certain sections.  Will people be able to apply for this service or will they have to take what comes?  I shall raise the other points I wish to make on the Committee Stage.</P>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>I welcome this Bill and I shall endeavour to confine my remarks to what is in the Bill.  The Bill, as I see it, is designed to do two things. It is designed to apply free postal services for the blind and that is certainly very welcome.  I may say I wonder why it has taken so long to provide this sort of thing, which is generally welcome.  I know they have facilities at the moment for a reduced postal charge but I am glad that the Minister is finally coming around to providing free postal services for those people.</P>
+      <P>The second part of the Bill is to enable the Minister, as I see it, to make the necessary regulations to introduce a two-tier system of postage, something like that which has operated in Britain for some time.  I am sure he will have examined what has been happening in Britain in that respect and he will ensure that it will operate more efficiently here.  I welcome that because I see it as an opportunity to improve the conditions of service of the staff employed in the Post Office.</P>
+      <P>The five-day week is now generally in operation in industry.  The absence of a five-day week in the postal service must mean a hardship on the staff, must make it more difficult for the Post Office to recruit, train and maintain adequate staff.  I hope it will be possible to introduce a five-day week as widely as possible and with full consultation with the trade unions which so effectively and efficiently represent the staff concerned.</P>
+    </Speaker>
+    <P>In regard to the two-tier system, I think it is fair to say, in Dublin anyway, the present position is that the postmen in the early morning deliveries <Col N="1069" /> are over-burdened with mail and generally speaking the afternoon delivery is very light.  Any change which would make it possible to even the burden would, I think, be of assistance.  In regard to the question of the Saturday delivery, the position in Dublin is that the postmen are delivering mail to factories and offices which are closed and will not re-open until Monday and there is really no point in the postman delivering mail to those places on a Saturday as it is lying in the letter-boxes until Monday.</P>
+    <P>In regard to delivery to private residences, I do not think it would be any undue hardship if the delivery were held over until Monday.  With the widespread use of telephones, the letter-box for personal correspondence is not that important and certainly not as urgent as it was a decade or so ago. The telephone is widely used now.  It is becoming more generally available all the time and it is a fair comment to say that most of the letters delivered to private residences on Saturday are largely composed of bills and circulars. I do not think any of us would complain if our bills were not delivered until Monday or later, if possible.</P>
+    <P>It may seem to many people that the absence of a delivery on Saturday would be a setback but really we have had to face up to a situation where the banks, which were previously opened on Saturday for a half-day, are now generally closed on that day all over the country.  We have come to live with that and adapt ourselves to it.  We have a situation in which the ESB offices are now closed on Saturday and we have also had to adapt ourselves to that situation.  We are now reaching the stage where a Monday to Friday week will be generally operative and in regard to places which find it hard to have such a five-day week it could be operated on a rotational basis so that everybody would not necessarily be off on a Saturday.  I am glad to see, at any rate, that the Minister is preparing to accept a five-day week.  I welcome that and I hope it will be put into operation after full and adequate consultation with the trade unions representing the staff so that the five-day week should come into operation as <Col N="1070" /> quickly as possible.  We in the Labour Party, therefore, welcome the Bill.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I cannot regard the prospect of a deterioration in the postal service, even in the good cause of a five-day week, with quite the equanimity of Senator Murphy. Already it is most unsatisfactory.  If one is writing a letter to another country at the weekend, and that is the commonest time for many people to write letters, who have not the time during the week, unless that letter is posted by a certain time on Saturday it does not begin its journey until Sunday night.  It sits around this country until Sunday night because there is already a total closure from the afternoon of Saturday until the afternoon of Sunday.  You cannot get your letter on its way to another country.  It has to sit here in the post box during that time when, if it could be dealt with, it could be across the Atlantic over the weekend.  One can scarcely view the prospect of a further deterioration in the postal service which Senator Murphy looks on so cheerfully.  This is something I cannot readily accept.</P>
+      <P>One can understand that one would like to work towards a five-day week but it seems to me that a five-day week for essential services should not operate on the usual Monday to Friday basis. I know that is the usual way the five-day week operates.  One thing which cheers me very much is driving home at lunchtime on Saturday and finding so little traffic on the road.  It is not because I want to get home more quickly but because I realise the change which has taken place in this country.  I am very glad to see that most people in industry have a five-day week.  As I said, in the ordinary way the five-day week is a week from Monday to Friday but in certain cases people who work on a five-day week basis are required to work, and are compensated for so doing, during the weekend.  They may work five days in the week but those include Saturday or Sunday or both.  If they work either or both of those days they should be suitably compensated.  This should also be on a rotational basis so that people will not be asked to work weekend after weekend.</P>
+    </Speaker>
+    <P>
+      <Col N="1071" /> The operation of the five-day week does not mean that essential services must be closed down for the weekend. This matter is being pushed in a way which is undesirable.  However, it is something I would not have referred to if Senator Murphy had not raised the issue.  We should make a distinction between people working a five-day week and not working Saturday and Sunday and those working a five-day week who are engaged on essential services, and must of necessity work on Saturday and Sunday.  The Post Office services at the moment are inadequate. I do not think people are generally aware that unless you post a letter which catches a 4.30 p.m. collection on Saturday it is not dealt with for 24 hours.</P>
+    <P>However, I should like to deal with a technical point in regard to the Explanatory Memorandum on this Bill. Explanatory Memoranda are supposed to explain Bills but this one does not explain this Bill in any satisfactory way.  If I understand the Bill correctly, and indeed I am aided by the Parliamentary Secretary's speech which is very helpful in this respect, section (2) (1) (a) of the Bill makes a change in the responsibility of the Minister concerned.</P>
+    <P>In fact, it transfers the responsibility for rates of postage from one Minister to another.  The Minister has explained this satisfactorily and I have no complaint in this respect.  The Explanatory Memorandum is somewhat different. It relates only to one subsection of section 2.  Section 2 provides for the &ldquo;fixing&rdquo; of rates of postage and other sums to be charged in respect of postal &ldquo;packets&rdquo;.  It does indeed do that. There is transfer of responsibility for fixing rates from one Minister to another.  The Explanatory Memorandum should explain the main purpose of section 2.  In this respect this item of the Explanatory Memorandum is unsatisfactory.</P>
+    <P>When we come to the explanation of section 5 the Explanatory Memorandum provides a description of what is done.  There is no mention there of what appears to be a widening of the area to which this provision of delaying <Col N="1072" /> mail applies.  I may not be interpreting this correctly.  I have tried to trace this through previous Acts and I am confused.</P>
+    <P>Section 4 of this Bill, which is covered by section 5 in the Explanatory Memorandum, effects two changes. One is to make it possible for second-class mail to be postponed, not to the next delivery, but to any later delivery. The other effect is to change the character of mail which can so be postponed, widening it from book packets, sample packets and postcards to any postal packets other than letters.</P>
+    <P>This may be only a technical change but I do not read it like that.  The Minister's speech does not explain this satisfactorily.  It glosses over this completely. It does not explain whether this has any significance.  In the 1908 Act reference is made to book packets and sample packets but I cannot find any definition of the book packets in that Act.  There are some definitions in the Act but there is no definition of a book packet.  Section 89 is the definition section.  It explains inward bound and outward bound vessels.  It has references to coaches and carts and horses, but there is no reference to book packets, sample packets and postcards.  Is it the case that the new phraseology which has been substituted by this amendment changes the mail to which the section applies or does it not change it?  Is this a technical amendment?  The Minister should not introduce an explanatory memorandum which leaves any doubt about the position and the changes.</P>
+    <P>There is reference to amending section 15 of the 1908 Act by section 1 (2) of the 1920 Act.  I am unable to find anything about the book packets nor does this section tell me what is a printed packet.  It would have been helpful if the Parliamentary Secretary had told us more about this section.  If the area of second-class mail is being widened we should be told about it. The Explanatory Memorandum is inadequate, as is the Minister's speech.  I should be glad of clarification.</P>
+    <P>We come now to section 4 and to the delays of delivery beyond the next delivery.  I am unhappy about this section.  It is bad enough that we should have reached the stage where mail has <Col N="1073" /> to be delayed.  It is bad enough that the delay should be extended, but extension without limit is terrible indeed. Is there no limit to the extent to which mail can be delayed?  Could we have a verbal assurance about the extension of the deferment of delivery of second-class mail?  Senator Murphy says that we should be glad not to receive some mail.  We would be sorry not to receive mail if our electricity was cut off before the bill was paid. Second-class mail should be delivered within a reasonable time.  One recognises that there is first-class and second-class mail and if one is to get a cheaper rate the second-class mail could not have the same priority as first-class mail.  Up to now the priority was defined and we knew the second-class mail would come by the next delivery.  This Bill appears to extend the provisions for delaying the second-class mail.  Sometimes such mail is important as it may bring notices of important meetings.</P>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>That is very important at the present time.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>It includes a whole range of material of practical importance.  If the position is that there can be no guarantee of when such mail would be delivered, people would be dubious of using such a system of communication.  It would be inadequate and out-of-date.  We seem to be going backwards to the position which prevailed before the pre-paid mail system was introduced.  At that time there was no certainty as to when mail would be delivered.  The Minister should give us some idea of the intention with regard to this type of mail.</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>This Bill opens up in a very innocent way; but when one goes down through the Bill it is not so innocent.  This question of first and second-class mail is a very serious matter.  We have seen it in England. I will give some examples of what is happening.  The Minister says the deferred mail will be paid for at reduced rates and that it consists at present mainly of circulars and bills.  It also includes ungummed private letters.</P>
+    </Speaker>
+    <Col N="1074" />
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>It should not include such letters.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>Private letters are supposed to be gummed.</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>Let us take the example of a business firm which was spending £5 a day on postage.  When the postage charges were increased the bill went up to £6 per day which was a colossal increase on the people involved. Many of them found it necessary to leave envelopes open so that they would come under the 5d postage and keep their bills down.  A letter which used to cost 5d now costs 6d. This statement means that if an envelope is not gummed it is going to be thrown aside.  It is not true that this mail consists mainly of circulars and bills.  It is thrown aside until the next delivery.</P>
+      <P>Again and again one receives letters which, according to the postmark, were posted two days earlier; in other words, it has lost a day because it has missed a certain process.  People are complaining that the present postal service is not as good as the postal service of ten years ago because where they formerly had been sure of getting letters next morning, they are not sure of getting them now.  There are new electronic sorting devices which, I believe, the Post Office are getting ready to introduce, but first of all they must ensure that letters are delivered promptly.  It is too bad to see people rushing with an urgent letter, to catch the post only to find next morning that the letter has not been delivered.</P>
+      <P>It has been suggested that with the increased number of telephones we have the position where the need for posting letters to the same extent does not arise.  If one posts a letter from Dublin to Cork it is going to cost sixpence, but if one telephones Cork from Dublin how much is that going to cost?  A telephone call cannot be substituted for a letter except where local calls are concerned when it is cheaper to telephone than to use the postal service.</P>
+    </Speaker>
+    <P>With regard to the provision of telephones, there are at least 10,000 people already on the waiting list so that we cannot say we are sufficiently <Col N="1075" /> well provided with telephones to counteract the delay in the delivery of letters.  It has been said that letters should not be delivered on a Saturday morning in order to comply with the working of the five-day week.  The argument was put forward that letters delivered on a Saturday were mainly bills, but the fact of the matter is that they might be cheques; it might be money instead of bills that are being delivered on Saturday.</P>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>You cannot cash a cheque on Saturday, anyway.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>Of course you can, provided your credit is good.</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>What kind of cheques does the Senator receive?  While we are on the delivery service question, I should like to say that though the conditions of our postmen have been greatly improved, they are one section of the community who should be treated very well because they are the king-pin of normal communications. The status of our postmen and their level of wages should be brought up to a very satisfactory level considering the very important service these men are giving to the country, whether it be in rain, hail or snow.  Postmen should be provided with transport where it is convenient and possible to do so.  In the past a postman was provided with a bicycle, a pump and a repair outfit and that was it.  The non-established postman has to hurry around in the morning and get his job done so that he will be free to earn something in the afternoon to supplement his wages.  I believe the work of the postmen should be organised so as to provide a full-time job.</P>
+    </Speaker>
+    <P>Another alternative to communication by telephone or by letter is by telegram, but we all know that our telegraphic service is almost non-existent. If we want to send a telegram, certainly the message will be taken and it will be delivered.  Generally speaking, however, one is told that it cannot be delivered until the next morning, but very often that is far too late.  It is not for me to suggest&mdash;indeed, I am unable to do so &mdash; an improvement so far as <Col N="1076" /> our telegraphic service is concerned. but the present system is most unsatisfactory.</P>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Would the Senator please relate that to postal charges?</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>I am relating the postal services to the fact that if we arrive at a stage where we may have a five-day week and find it necessary to send telegrams, we will not be able to get a telegram delivered during the time when there is no letter delivery service.  Priority should be given to all kinds of letters rather than to packages and parcels.  The average letter contains a message of importance, even if it is merely convening a meeting, but some are more important than others.</P>
+      <P>When considering this matter the Minister should realise that the cost of our postal service is very high at the present time.  I suppose sixpence for a letter might not be much for a person who writes the odd letter but it is a colossal imposition on firms involved in the issue of large quantities of mail every day.  There are plenty of small firms who have to post between ten and 20 dozen letters per day and when one calculates twenty dozen letters at sixpence a letter it is £6 a day and that is a very heavy imposition on the small firm who is probably trying to give some kind of employment.  There will be very few members of the staff getting that amount of money per day in these small firms.  Apparently very little thought is given to the impact of increased postal charges.  They are put on as a matter of course.  I hope the Minister is not thinking of bringing in a two-tier postal system, such as the system in operation in England at the moment, because it has caused enough nuisance and trouble over there.</P>
+    </Speaker>
+    <P>I think the Minister in his statement here at some stage or other has mentioned this question of this two-tier postage charge or something that would imply it.  I should like an assurance from the Minister that he has no such idea in mind, because even at the present cost of the ordinary postage stamp&mdash;6d.  for a gummed letter and 5d. for one ungummed and 4d. for a postcard&mdash;these rates are very heavy.  Finally I think that so far as the <Col N="1077" /> sorting and delivery of letters is concerned a great deal of reorganisation needs to be done still to ensure that a prompt delivery service will be achieved.</P>
+    <Speaker pid="DermotHonan" hpid="Mr. Honan Mr. Honan">
+      <NameTxt>Mr. Honan</NameTxt>
+      <P>When I offered to speak first I had a few points in my mind but Senator Garret FitzGerald has covered quite a number of them and Senator Rooney has covered a few more.  I do not want to say any more except that while everybody would like to see the implementation of a five-day week in the Post Office and that the workers would have the benefit of this, it is also necessary to keep in our minds that in this year of 1969 it is very important that communcations, which are the life of the community, be raised to the highest possible standard. There seems to be a feeling, in discussing this whole problem, that the postal services are of necessity social services.  The cost of posting at the moment has reached such a stage that now people consider they are paying very well for the service which they expect to get.  This should not be lost sight of.  The service to the public for what they pay for cannot be minimised in any way by considerations other than considerations of what the people pay for the service.</P>
+      <P>I know that in my own area where we are quite near Shannon Airport it often happens that Americans coming on business tend to locate themselves reasonably near the airport because they want fast communications back to their business headquarters, and they find that they have to pay a very substantial airmail fee or stamp and that yet letters may be in the post office for possibly a day or two after when they consider that they should be delivered from the other side.  The emphasis should be seen on this, that whether it is first or second class mail the public are paying for the service, and the Post Office authorities must direct themselves to providing a service that is reasonable for the people who pay for it to expect.  I know that there are difficulties, but in any ordinary commercial operations people have to get over their difficulties.</P>
+    </Speaker>
+    <P>I would be concerned to know where finally the responsbility would be for <Col N="1078" /> deciding what is first and what is second class mail&mdash;whether it is the local postmaster or the postman who has to decide this.</P>
+    <P>We should direct the service, first or second class, to giving the best service to the community for the fees that they pay and at the same time have consideration for the people working in the service and see that they have the same facilities of most other workers, but service to the public should be the first consideration, because this is not a social service, it is a service for which the people pay a good fee and they expect to get results comparable to the fee that they pay.</P>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>I will make just a few brief remarks.  First of all I welcome the section which will provide free postage for articles specially adapted for the use of the blind.  The blind have a very special place in the hearts of every one of us.  They are a section of our community cut off from the outside world to a very large extent except for the use of the radio and anything that can be done to further assist them is to be greatly welcomed.  I certainly welcome this part of the Bill.  I would like, however, to ask the Parliamentary Secretary if it would be possible also to include in the free postage section dealing with the blind that community of workers for the blind who collect money to assist them and who have perhaps not very much expense, but this expense could be diverted to the assistance of the blind if they were facilitated in this way and were saved from having to pay postage on circulars seeking financial assistance for the blind.  This is something that might be heart-warming, and in dealing with the section of the Bill relating to the blind perhaps this could be incorporated in some way or other.</P>
+      <P>As regards the postal service in general I have no complaints, with one possible exception, and that is the counter service in post offices in country towns on certain days when there are old age pensions, children's allowances and things like that being given out. Then quite considerable delays occur in those places.  I wonder if something could be done to speed up the service on those days.</P>
+    </Speaker>
+    <P>The delivery service in my area leaves <Col N="1079" /> nothing to be desired.  I had qualms at the time when the motor vans were introduced that when the winter hard weather came we would have considerable delays with these compared to the bicycle, because the bicycle always got through.  I thought that perhaps the vans might be held up and that we might have to wait possibly for weeks even for a mail delivery. But that has not been the case.  I do not know how they do it, but they get through on the most treacherous roads and we have not been left without them.  The only complaint I have relates to the length of time it takes to get a telephone directory delivered.</P>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>Let me first of all say that I am grateful to the House for the manner in which they have accepted this Bill.  Naturally there is a certain amount of reserve in that some Members of the House feel that the Post Office is taking on to itself a little more power under the Bill than it needs.  I certainly did not expect any opposition to the provision of free postage for the blind and I did not get any, for it is normal to expect all of us to feel that we should provide as many facilities as we possibly can for people afflicted in this way.</P>
+      <P>I think that Senator Garret FitzGerald did go into some sections of the Bill which I might respectfully suggest might be dealt with more adequately on the Committee Stage, but since they have been raised on this Stage it would be proper for me to say that there is no intention under this Bill to have any change made in the rate-fixing arrangements.  There is certainly no significance apart from the technical significance in the changeover from the description of book packets or packets other than letters. The Senator drew attention to the fact that there had been a change from the book packet to the printed packet.  This is something which took place under the Post Office Act of 1920 so that in this particular section&mdash;subsection (4) &mdash;of the Bill nothing but letters are specifically introduced in order to have what could be described as a more convenient description for packets other than letters.</P>
+    </Speaker>
+    <P>
+      <Col N="1080" /> I was interested to hear Senator Rooney's observations with regard to an opened letter or a closed letter with its accompanying 5d or 6d stamp. Speaking off-the-cuff, let me say immediately that if somebody sends a written letter in an open envelope with a 5d stamp, the post office considers that it is legitimately entitled to charge an additional 2d on delivery of that letter.  There is no such thing as a 5d. stamp with an open envelope.  If a firm decided to keep its overheads down to, say, £5 or £6 a week, they could send circulars or bills as open letters for which the correct postage is 4d.  They would be out of order in affixing a 5d stamp to the envelopes.  I do not suppose that the Post Office would have any objection to anybody putting a 5d stamp on a letter which would only require a 4d one.</P>
+    <P>Senator McDonald used the occasion to deal with other matters besides those in the Bill.  I suppose there is a temptation to do this and I cannot blame him for doing so.  He did use the occasion to mention that he did not have an opportunity of discussing the Post Office before and he raised the matter with regard to pensions for temporary full-time postmen.  In this regard, I can only tell the Senator that this is something which has been dealt with for some time and as I said recently in the Dáil, it is the subject of discussion at conciliation and arbitration level at the present time.</P>
+    <P>Both Senator McDonald and Senator Garret FitzGerald criticised the Explanatory Memorandum issued in connection with the Bill.  I thought that my speech covered this specifically. Explanatory Memoranda are exactly what they are purported to be.  They are an explanation of what is written into the Bill.  Senator Garret FitzGerald mentioned section 2 of the Bill as it is explained in the Explanatory Memorandum.  The Explanatory Memorandum with regard to this question reads:</P>
+    <P>Section 2 provides for the extension of the regulation-making powers in the Post Office Act, 1908 to permit postal packets of any prescribed class or classes to be sent free of postage.</P>
+    <P>
+      <Col N="1081" /> In paragraph (b) of No. 1 of the Memorandum it is stated that one of the purposes of the Bill is:</P>
+    <P>to transfer to the Minsiter for Posts and Telegraphs certain powers vested in the Minister for Finance...</P>
+    <P>This is also dealt with in section 2 of the Bill.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>The Parliamentary Secretary will appreciate that the initial statement appears to be justified by the Explanatory Memorandum in respect of section 3.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>The Explanatory Memorandum covers what the Bill is about.  We could go into detail in this that possibly could be better gone into on Committee Stage.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I agree that the Committee Stage is the right place to go into detail but I thought that the Explanatory Memorandum is something that could be dealt with on Second Stage.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>My only comment on that is that the Explanatory Memorandum may fall down in not specifically stating to whom free postage facilities will be given.  It could have been mentioned but it is written into the Bill.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I do not consider that the Explanatory Memorandum should be used to indicate that.  I would not criticise it on those grounds.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>I submit that the Explanatory Memorandum indicates what the Bill is about.  Subsection (4) is specifically for the purpose of enabling the Post Office to continue to give first-hand treatment to mail as such. Senator Rooney mentioned that he was quite satisfied about mail being defferred.  This particular subsection is to ensure that all fully paid up letters &mdash;letters bearing a 6d postage stamp&mdash; would get immediate treatment and that these letters can be delivered to the addressee the following day.  The position up to now has been that the Post Office is specifically entitled to hold any post which is not first-class, fully paid letter post until the next <Col N="1082" /> sorting stage.  This is very often has the effect that fully paid up letters may be held up to clear this.</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>It brings in first- and second-class issues.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>It does not bring in something that has not already been there.  The only difference in this regard is that I am asking that the Post Office be allowed to hold back non-fully paid up letters on the lines suggested by Senator Murphy who pointed out that in the city areas there is a heavy delivery of morning post and a lighter one in the afternoon. What we really want to do is to synchronise our system so that we can have fully paid-up letter post delivered by way of first post and have non-fully paid-up letter post dealt with on a second post. I was quite interested to hear Senator Rooney referring to a five-day week as &ldquo;another day's work&rdquo; because it struck me it was a day's work less.</P>
+      <P>I think this is naturally an occasion on which Senators would take the opportunity to speak but there is no doubt that with the shorter working hours and the better conditions which we have been endeavouring to provide for our postmen, as has been exhorted here, there is this problem of trying to synchronise our mail delivery.  Let me say it would be only right to say, while we are talking about discussions in relation to a five-day week, that we do not think this five-day week should specifically leave out Saturday.</P>
+    </Speaker>
+    <P>I hope in our discussions with the responsible trade unions concerned that we will be able to arrive at an agreement for a staggered five-day week so that we can have this, as I say, much needed delivery on Saturday. If we have not you will have the problem that a letter posted late on a Friday afternoon would have to lie until Monday morning before it could be taken to a sorting office and it would then not be delivered until Tuesday.  That is a simple example. It is certainly not something which recommends itself to me.  As I say, this is the subject of discussion at arbitration level with the Post Office. It is something where I hope an early <Col N="1083" /> agreement will be obtained.  If there are any other matters which need to be raised I will certainly be very happy to discuss them on Committee Stage.</P>
+    <P>Question put and agreed to.</P>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Next stage?</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. Eoin Ryan Mr. Eoin Ryan">
+      <NameTxt>Mr. Eoin Ryan</NameTxt>
+      <P>Now.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Is the House agreeable to that?  It is now six o'clock and traditionally we adjourn at 6 for tea.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I am not clear if we agreed to take all Stages today.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>It is a matter for the House.</P>
+    </Speaker>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>We should all like to see it go through but I doubt if the Parliamentary Secretary would be able to get it through the Dáil before the Dáil is dissolved.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>How many hours have we left?</P>
+    </Speaker>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>We are not on a five-day week.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>Perhaps if it were left over we could look at it during the interval and see if there are any amendments we should like to introduce.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>We will look at it at 7.30.</P>
+      <P>
+        <i>Business suspended at 6.05 p.m. and resumed at 7.30 p.m.</i>
+      </P>
+      <P>Agreed to take remaining Stages today.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Post Office (Amendment) Bill," RHead="1969&mdash; Committee and Final Stages">
+    <Title>Post Office (Amendment) Bill, 1969&mdash; Committee and Final Stages.</Title>
+    <P>Bill put through Committee, reported without amendment and received for final consideration.</P>
+    <P>Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>I notice from the Title to the Bill that the power which we are giving to the Minister is not limited <Col N="1084" /> to the provisions of postal facilities for blind persons.  It appears that it may be possible at a later stage for the Minister for Posts and Telegraphs to apply to the Minister for Finance for permission to give facilities to other classes in the community.  I would suggest that the Minister should consider making free postage available to old age pensioners.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Senator may deal only with what is in the Bill.</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>My comment in relation to the Bill here is that it seems obvious the Minister is taking power to make facilities available at a later stage to other classes and not merely to blind persons.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLalor" hpid="Mr. Lalor Mr. Lalor">
+      <NameTxt>Mr. Lalor</NameTxt>
+      <P>That is so.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Housing Bill, 1968:" RHead="Second Stage">
+    <Title>Housing Bill, 1968: Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="PaugeBrennan" hpid="Parliamentary Secretary to the Minister for Local Government (Mr. P. Brennan) Paudge Brennan">
+      <NameTxt>Parliamentary Secretary to the Minister for Local Government (Mr. P. Brennan)</NameTxt>
+      <P>The Explanatory Memorandum circulated with the Bill outlines its scope in some detail.  The intention is that in practically all cases involving a proposal which will result in a loss of housing accommodation to the community, by the demolition or use for a purpose other than housing of a habitable house, the permission of the housing authority will be required before the work can proceed.  If the authority give their permission they can impose conditions which take into account the need to conserve the housing stock.  There will be a right of appeal to the Minister by the owner against the decision of the housing authority.  An application for planning permission for a proposal involving the demolition or change of use of a habitable house will not be considered until permission under this Bill has been obtained.</P>
+    </Speaker>
+    <P>The Bill will also strengthen the powers of local housing authorities to deal with cases where an owner may deliberately permit a house to fall into disrepair in order to avoid the consequences of the Bill.  Provision is being <Col N="1085" /> made for an appeal by the owner to the Circuit Court in such cases.</P>
+    <P>In an expanding economy, investment in industrial and commercial building is essential to provide the resources for further development, including the construction of houses. It is inevitable that some houses have to be demolished or put to other uses to make way for other forms of development.  It is, however, important also that the process should be subject to control by the local housing authority so that housing considerations will not be lost sight of.  The Bill seeks to give effect to this objective.</P>
+    <P>The possibility of providing adequate control over the demolition or change of use of habitable houses by amending the Local Government (Planning and Development) Act, 1963, has been given careful consideration. Under that Act, planning authorities, in dealing with applications for planning permission are restricted to considering the proper planning and development of their areas.  Such considerations would not enable an authority to refuse permission for the demolition or the change of use of a habitable house on purely housing grounds, such as the scarcity of accommodation in their area.  This Bill contains the necessary power enabling the housing authorities to do this.</P>
+    <P>I commend the Bill to the Seanad.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>We on this side of the House have no difficulty in welcoming the Bill which is, in fact, in belated response to the Bill introduced by us two years ago.  This Bill of course, takes a different form to the one we introduced because the method we suggested of tackling the problem was to deal with an order which had been made by the Minister for Local Government under the 1963 Act.  That would have dealt with part of this problem and was considered by us as a possible solution at that time.  The Minister has given prolonged thought to the problem and has produced this Bill as his answer.  It appears to us to be a good approach though there are aspects which we will look at in more detail on Committee Stage.</P>
+    </Speaker>
+    <P>The Bill provides power to control <Col N="1086" /> the demolition of a habitable house and this should make it possible to do two things: to ensure that a house which is usable is not demolished, thereby reducing our stock of housing, without having any control or measure to see that where a house is demolished a replacement is provided, and secondly it will ensure&mdash; although we may need to look into this aspect more closely&mdash;against demolition of houses which have architectural merit.</P>
+    <P>One point about which I am a little unsure and on which I should like to ask the view of the Parliamentary Secretary, is the significance of the words &ldquo;human habitation&rdquo; in section 2 (1) (b).  The definition section of the Bill, section 1, defines various things, including &ldquo;habitable houses&rdquo;, but does not define &ldquo;human habitation&rdquo;, and I am a little doubtful as to the significance of these words.  It may be they are defined in some earlier legislation and this will carry some weight in interpreting this Bill.  It appears desirable to bring in a definition and I would like confirmation that &ldquo;human habitation&rdquo; has a broad connotation and that it does not necessarily imply that people have to live or sleep in the house but will also include houses used for office purposes.  It is important that we are clear on this.</P>
+    <P>It is at this point that the Bill becomes a little unsatisfactory.  I am not sure that it is adequately defined to fulfil the two purposes we would wish to achieve.  If &ldquo;human habitation&rdquo; is broadly defined there is a danger that dwelling houses could be converted on a large scale to office use, thereby reducing housing accommodation. That would be a loophole or a means of escape from the type of control we want to secure, which is to ensure the maintenance of our stock of houses, that houses which can be used for living purposes are not destroyed or diverted to other use.  It may be that such diversion would be covered by the 1963 Act and I should be glad of the Minister's guidance on this point.</P>
+    <P>On the other hand, if the definition is narrower, implying that people have to live in the house, there would be a danger that houses of architectural <Col N="1087" /> merit being used for office purposes might not be covered, in which event one of the purposes of this Bill and of the Bill we introduced in 1967 would not be adequately fulfilled.  The present Bill does not provide protection for houses of architectural merit, or forming a part of a unit of architectural merit, with amenity value which, if not covered by this Bill, could then be demolished.  There may be a double danger of diversion from dwelling to business purposes and after that diversion, demolition of the house.</P>
+    <P>I am speaking at this stage from ignorance because I do not know what definition of human habitation is intended or what definition of human habitation is involved here so far as the words have been defined elsewhere in a manner that would be binding in the interpretation of this Bill.  I am raising it at this stage because it is important that the Parliamentary Secretary should give us guidance on this point in his reply to the Second Stage debate because one's attitude to the Bill would depend on this point.  One might have to amend it in either of two directions, but the treatment to be adopted would be quite different depending on the interpretation put on these words.  I should be quite grateful therefore if the Parliamentary Secretary would indicate what meaning is attached to them&mdash;either the narrow meaning of a house or dwelling place or the broader one of a house for human use as distinct from animal use, for example&mdash;and if he would indicate the authority for the definition and whether it is contained in legislation legally binding on the interpretation of this Bill.  A lot would hang on this question and I would be glad if he would give us some guidance on it.  In the absence of guidance on that point it is difficult to say more on the Bill in general terms because it is difficult to know its precise effect.</P>
+    <P>It seems on the face of it, subject to this point which I have raised, a well thought out measure and one which is clearly designed to cover many aspects of this complex problem.  The Bill which we introduced in 1967 was one which would have been useful if it had been accepted then.  It might perhaps <Col N="1088" /> have prevented other houses being demolished since, but I think we would accept and did accept that the Bill at that time as we designed it was drafted to meet a particular aspect of the problem. It could be that legislation was required to make the Minister withdraw that extraordinary Order he made in 1963 under which authority for demolition was included with minor changes such as painting and plastering. One doubts if any civil servant drafting an Order would inadvertently include demolition in an Order for painting and plastering, and it must therefore have been included deliberately and as such was designed to leave a loophole for people wishing to demolish buildings, houses in particular, and in fact had that effect.  We all know of the gaping hole for the past two or three years in St. Stephen's Green beside Hume Street where a developer in the expectation&mdash;on whatever foundation we do not know&mdash;of purchasing two houses nearby from the Government which owns them demolished buildings in the expectation of buying these other buildings from the Government and being able to make a considerable profit in developing the site.  Through the alertness of public opinion he was frustrated in that, but his frustration is also our frustration, because where there was a building of considerable architectural merit forming a part of a unit there along the side of St. Stephen's Green there is now a gaping hole and no indication of what is ever going to fill it.  The fact that that happened, that it was possible for someone without having it clear from the planning authority what was going to replace what was being demolished, was an outright encouragement to developers to demolish buildings, because once a developer had demolished them it was arguable that the amenity value of the area would be improved by any kind of building which was substituted rather than by leaving a large hole.  There was this kind of blackmailing effect, to get hold of the building and demolish it quickly, and whatever plan you put up the local authority would have to accept it and would be under great pressure to do so rather than to leave a scar there in the form of a vacant site.</P>
+    <P>
+      <Col N="1089" /> It was that particular loophole which our Bill was designed to deal with. The Minister said at that time, and we accepted it, that the problem was very complicated, though I do not believe that that justified him in rejecting our Bill, and we did not accept his approach as being entirely genuine, but even had the Bill been accepted by him and put through this and the other House the problem would still by no means have been completely solved and further legislation of the kind the Parliamentary Secretary is now introducing would be required for these purposes.</P>
+    <P>Therefore this legislation is welcome, though I am still not clear that it does cover all the aspects of this problem some of which we were trying to tackle.</P>
+    <P>I would be glad if the Parliamentary Secretary told us what was the present situation about this extraordinary plastering, painting and demolition Order and how it will be affected by this Bill.  It is proposed that the introduction of this Bill will ensure the repeal, withdrawal or cancellation of that Order?  Generally speaking, how does this Bill relate to that Order?  We would like to be clear also on how it relates to both aspects of this problem of preserving housing from the point of view of ensuring adequate housing, particularly in a city where the housing shortage is extremely acute and not being adequately dealt with, and also the problem of securing the preservation of buildings of architectural merit rather than their destruction, leaving a large gap of the kind we are familiar with, or alternatively replacing them by one which, whether or not it has architectural merit, may be completely out of place in that particular area.  I should be glad if the Parliamentary Secretary gave us guidance on these points, because the shape of the Committee Stage debate must depend largely on the replies which he gives us.</P>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>It seems that this Bill has been brought in here at this stage to put an end to the scandalous activity around Dublin city centre particularly where the demolition of sound dwellings <Col N="1090" /> has taken place while there is a long waiting list of families in need of re-housing.  These sound dwellings were demolished to make way for large office blocks which we see around the city at the present time.  Apparently public opinion has swung very much against the Minister for Local Government and the Government for permitting this activity to go so far as it did. We know that apart from the large office blocks which are under construction in the vicinity of Dublin city centre many other portions of Dublin city have already been acquired by outside interests who intend to demolish the buildings and to replace them by office blocks.  We will have the situation where the number of people living near the city centre is going to be very much reduced by reason of the fact that the Government has allowed this activity to continue for so long in spite of the Bill which was brought in many years ago pointing out this activity and requiring the Government to do something about it, and to stop this unwelcome activity.</P>
+      <P>At the present time the number of houses being constructed in Dublin city is not sufficient to meet the growing needs of this city.  We know, for instance, that the number of local authority houses being built is only reaching the level of about ten years ago, but in the meantime the provision of local authority houses fell down to such a low level that a very large number of families came under the necessity of seeking for houses and they are now on the long lists of Dublin Corporation and the various county councils.</P>
+    </Speaker>
+    <P>It seems now that the Government will not succeed in getting the local authority housing programmes up to a level which will cater not alone for the current needs and those which arise with the passing of time particularly in Dublin City and County, but they will not reach the level of local authority housing which was under way in 1956/57.  A crash programme of housing is essential and I mean local authority housing.  I do not mean speculative housing.  There is no doubt that the speculative housing campaign has got out of hand and the result is that convenient sites in the immediate <Col N="1091" /> vicinity of Dublin City are not now available for the provision of houses by Dublin Corporation for the families of Dublin City.</P>
+    <P>The same situation arises, perhaps to a smaller extent, in the county.  In my view, this Bill is almost too late but at least it is gesture and it shows a change of heart on the part of the Government in so far as allowing the demolition of sound structures within the central city area for the construction of commercial buildings is concerned while the list of homeless families is growing longer.</P>
+    <P>Like Senator FitzGerald, I welcome this late conversion on the part of the Government.  If this Bill gets through the Oireachtas, it will demonstrate to the people that at least some action will be taken to ensure that the unsavoury activity of knocking down sound houses to make way for these commercial developments will be stopped.  In so far as many of the suitable sites near the central city area are concerned, this Bill is too late. People in search of housing accommodation have been sent out to the Ballymun Estate.  They are living in 17-storey-high skyscrappers.  There are approximately 290 families living in this scheme in Ballymun.  People have been put into these blocks of dwellings where they have not the kind of accommodation and, indeed, with less accommodation than they had in their previous dwellings.</P>
+    <P>I have heard many times the boast about the amount of money being spent on housing as compared with the amount spent in 1956-57 or even in more recent years but everybody knows that the cost of building a house has gone up considerably and that the money being provided now will not buy the same convenient space that a similar amount of money would have bought in 1956-57 or in the earlier years of this decade.</P>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>May we now come to the problem of this Bill which is to stop the demolition of sound structures?</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>Yes, Sir.  The Minister has indicated that it should be more <Col N="1092" /> difficult in future for commercial enterprises, if this Bill is passed, to come to Dublin or Cork city or any other place where there are concentrations of population and long lists of homeless families and to make a deal for the purpose of demolishing premises.  After the passage of this Bill, it will be necessary for them if they have that in mind not alone to seek permission from the corporation or the county council concerned, but also to comply with the provisions of this Bill.  This Bill, therefore, is a welcome move on the part of the Government.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>I welcome this Bill. In so far as the greater Dublin area is concerned it will be a safeguard for many of the areas especially those streets with buildings of architectural merit.  However, there are a few points in the Bill about which I am not completely happy.  I suppose it stems from the fact that the provisions of the Bill will be applied to the country at large. While they may be admirable for the City of Dublin, if they are strictly enforced throughout the country they may not be very effective.  Subsection (2) of section 4 reads:</P>
+      <P>In determining an application made under section 3 a housing authority shall have regard to the state of repair of the house to which the application relates and to the adequacy of the supply of housing available in their functional area.</P>
+      <P>That is all right for Dublin and it is quite admirable but it might be a different matter when related to any of the counties.  Taking my county of Laois as an example, a ratepayer in Portarlington, which is in the eastern part of the county, might put in an application to demolish a house or part of a house in Rathdowney, which is 30 miles away from the local authority's functional area.  If, shall we say, there is a housing shortage in Rathdowney, this person according to this Act may not get the permission to which he is entitled because the local authority would be barred from giving him that permission.</P>
+    </Speaker>
+    <P>That is a point on which I am not very clear.  Many times in this House I have been interested in the demolition <Col N="1093" /> of Irish Land Commission mansions. Farmers who were lucky or unlucky enough, as the case may be, to be allocated a mansion with a parcel of land were very often not able to afford to take the supply of electricity from the ESB because the bi-mensual charge related to the floor area of the house&mdash;&mdash;</P>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Senator is going far outside the scope of this Bill.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>I certainly think, a Chathaoirligh, that this comes in under section 2 and subsection (1) (a) which says that permission shall be required under this Act in respect of:</P>
+      <P>the demolition, either in whole or in part, other than a demolition for the purpose of providing an extension or other improvement or for the purpose of carrying out works of maintenance...</P>
+      <P>It has happened that these people were allowed to fence off entire floors of these mansions in order to reduce the bi-mensual charge and justifiably so. I think that under this subsection people will be refused that permission. This will only happen in rural Ireland. I should like an undertaking from the Minister that people in this category, and there are many hundreds of them throughout the country, will not be penalised by the clause.  I should like the Parliamentary Secretary to have a close look at this section.  It is only in the present year that the Minister for Transport and Power has given some relief to those people.  In the Land Commission they are still pursuing the division of estates and a certain number of those people get large houses. They must be allowed to avail of the loopholes that allow them to fence off a floor or allow them to use a floor of the house for the storage of grain or something else.  I should certainly like the Parliamentary Secretary to elaborate on those two points which I feel affect the people in rural Ireland particularly. I would certainly like to have the opportunity of perhaps putting in amendments in regard to this.</P>
+    </Speaker>
+    <P>The Bill in general is one which can be dealt with in Committee as it is rather technical.  I have noticed the time limits set in each case for applications and appeals are unusually short. <Col N="1094" /> The period is three and five weeks.  In this instance I feel, with the present flow of permission to the planning offices throughout the country, those people will certainly have to step up on the number of staff employed.  I know this may again add to the cost of local authorities and would be a further burden on the rates.  Perhaps it is a good thing to tie them down to a certain period but I think the period in the Bill is unusually short.</P>
+    <P>In subsection (3) of section 2 there is provision for fines.  I should like to ask the Parliamentary Secretary, in the case of somebody who demolishes a dwelling without permission, am I to take it he will be fined £10 a day for life after that?  The subsection to me is not at all clear.  Again, this is another section on which I feel on Committee Stage we can get answers to all those points and we will be able to satisfy ourselves to a much better degree.</P>
+    <P>The Department of Local Government should provide on some of the sites on which houses have been demolished a greater area for the provision of caravan sites.  This is becoming a ghastly sight around the city of Dublin.  I should like to avail of this opportunity to ask the Parliamentary Secretary and the Minister for Local Government to apply their minds to this problem, which is certainly nothing to our credit in the city of Dublin, or to the Department of Local Government. Great hardship is being caused to small families who have to live like itinerants on unserviced sites.  Something should certainly be done to do justice to those people.  Those unserviced caravan sites tend to devalue in no uncertain way the adjacent property. Those people congregate on those sites.  In conclusion, I hope we will have an opportunity of putting down amendments to this Bill, as it is rather a technical one, and in regard to the points I wish to raise I think it would be very hard to raise them on this Stage.</P>
+    <Speaker pid="PatrickCrowley" hpid="Mr. Crowley Mr. Crowley">
+      <NameTxt>Mr. Crowley</NameTxt>
+      <P>I did not intend speaking on this Bill but I feel I ought, on behalf of the Labour Party, add my voice to those in the House who have welcomed the Bill and to say that naturally we are glad to see even this <Col N="1095" /> belated action at this belated hour on the part of the Government in this particular field.  Any criticism we have to offer on this Bill is that it promises far too little far too late.  Nothing can be done at this juncture to repair the irreparable damage done in this city and many parts of the country by the unwarranted demolition of perfectly sound buildings in order to give way to office blocks.  I do not think any sane person could possibly wish to think of this Bill other than that it is long overdue.  Anything we can do to expedite the passage of the Bill will be done.  However, as I said already, the criticism we have to offer in regard to the Bill is that it does not go far enough and is coming far too late.</P>
+    </Speaker>
+    <Speaker pid="PaugeBrennan" hpid="Mr. P. Brennan Mr. P. Brennan">
+      <NameTxt>Mr. P. Brennan</NameTxt>
+      <P>First of all, I want to thank the Seanad for the manner in which they have received this Bill.  I will deal with a few of the points raised by Senators.  Senator McDonald seems to be worried in case the local authorities might be unreasonable under this Bill.  He seemed to think people, particularly down the country, might find themselves being treated in an unreasonable manner by the local authorities.  There is right of appeal in the Bill to the Minister and in some cases to the courts, so that it is not left entirely to the local authorities in either case.</P>
+      <P>Senator McDonald also raised the case of an individual who would demolish a house and would be subject to continuing payment of a fine. This, of course, would be a matter entirely for the courts to decide and I do not know how the courts might interpret it.</P>
+    </Speaker>
+    <P>Senator Rooney spoke mostly about housing rather than the general contents of the Bill.  I should just like to remind him that if he is not a member of a local authority in Dublin at least he has been a member of this House for some years, and he must know in recent years there has been a big stepup on the amount of money being spent here in the city and county of Dublin in relation to the provision of sites for new dwellings.  He says the Dublin authorities have no housing sites.  For Senator Rooney's information <Col N="1096" /> I am delighted to be able to tell him that in the last couple of years the local authorities in Dublin have acquired, or are in the course of acquiring, land that will give 25,000 sites.</P>
+    <P>I would remind him also that in recent years there has been a big increase in housing activity and consistently since the 1961-62 period there has been an increase in the number of houses provided every year.  Last year we provided 13,000 houses.  That is along the lines of the Government White Paper on Housing issued some years ago.</P>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>How many in 1961?</P>
+    </Speaker>
+    <Speaker pid="PaugeBrennan" hpid="Mr. P. Brennan Mr. P. Brennan">
+      <NameTxt>Mr. P. Brennan</NameTxt>
+      <P>Moneywise, the amount spent in 1961-62 was about £9.5 million and in 1968-69 it was £30 million, so despite what Senator Rooney says here or any place else I do not think he can deny the fact that in and around the city and county of Dublin there is quite a substantial amount of activity in this particular field.</P>
+      <P>Senator FitzGerald raised a few points.  First of all I should like to say that when the Fine Gael Bill on housing was here in the Seanad two years ago the Minister at that time, having looked at it, felt it was impossible to cater for this type of legislation under the Planning Act.  He promised to have a look at it and see what he could do about it.  The Bill we are now discussing is the result of that. Housing will have to be dealt with in that way.  I do not agree that this legislation is late.  When the Bill relating to planning and development was going through the Dáil in 1963 we discussed all and every aspect of that measure for weeks on end.  The leader of the Fine Gael Party at the time paid tribute to the then Minister for his general approach to the matter.</P>
+    </Speaker>
+    <P>Senator FitzGerald said there might have been a loophole which allowed this type of development to take place and houses to the knocked down in the city of Dublin.  If there was a loophole it was not the result of any deliberate action on the part of the Minister.  In fairness to all concerned, both the Fine <Col N="1097" /> Gael spokesman for Local Government at that time and the Labour spokesman went through this particular measure with the Minister.  They went through it line by line and word by word.  They were satisfied, when that Bill passed through all its Stages in the Dáil, that they had brought in a piece of legislation of which they could be proud.  We all know that within a matter of days after the passing of legislation in the Dáil one may think of amendments. People will always find loopholes.  This is a housing matter and any proposal to demolish houses must be approved by the local authority.  A developer must get permission to demolish.</P>
+    <P>This Bill covers the matter fully. In the future each housing authority will have to take cognisance of the housing condition in their own area before giving planning permission to a developer.  A developer may be asked to contribute towards the provision of dwellings for the people being displaced as a result of his development. I am satisfied that this is a good measure.  The general tone of the debate here would indicate that also. Senator FitzGerald was worried about some aspects of the Bill.  He was worried about the status of the 1964 order made by the Minister.  If he looks at section 10 of this Bill he will get the answer.</P>
+    <P>I must again refer to the fact that before anything is done in the nature of development there must be prior approval from the housing authority. Senator Garret FitzGerald also wanted to know whether there was a definition of &ldquo;human habitation&rdquo; in this Bill. It was not defined in this Bill or in any other housing legislation.  The term has <Col N="1098" /> been used in many Acts since the Housing of the Working Classes Act, 1890.  It has been judicially considered by the Circuit Court under the Housing (Miscellaneous Provisions) Act, 1931, in relation to demolition.  The term should be interpreted in the ordinary, commonsense way.  If Senator Garret FitzGerald is not satisfied with that explanation I have no doubt that we may be able to satisfy him on the Committee Stage of the Bill.</P>
+    <P>The Members of the Seanad have welcomed the Bill.  I appreciate that very much.  I hope that we will be able to take the Committee and Final Stages this evening.</P>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>I wonder whether there are any provisions in this Bill which would enable the income limit to be increased from £1,200?  This is a terrible problem at the moment.  Many people are being refused SDA loans.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Chair is prepared to recognise that as a question, but not as a relevant one.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>There are a few amendments which I and some other Senators would like to put down.  It might be convenient to take the Committee Stage next week.</P>
+    </Speaker>
+    <Speaker pid="SeanBrowne2" hpid="Mr. Browne Mr. Browne">
+      <NameTxt>Mr. Browne</NameTxt>
+      <P>We should like to get the Bill back to the other House before the summer recess.</P>
+      <P>Committee Stage ordered for Wednesday, 28th May, 1969, at 3 p.m.</P>
+      <P>The Seanad adjourned at 8.30 p.m. until 3 p.m. on Wednesday, 28th May, 1969.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

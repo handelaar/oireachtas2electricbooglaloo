@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="15" Month="May" Year="1968" Vol="64" No="16" DateIrish="Dé Céadaoin, 15 Bealtaine 1968" DateEnglish="Wednesday, 15 May 1968" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1349">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1349" /> Do chuaigh an Leas-Chathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Message" RHead="from Dáil">
+    <Title>Message from Dáil.</Title>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Fuarthas an Teachtaireacht seo a leanas ó Dháil Éireann:</P>
+      <P>Tá an Bille um Leabharlann Chester Beatty, 1968 rite ag Dáil Éireann gan leasú.</P>
+      <P>The following Message has been received from Dáil Éireann:</P>
+      <P>Dáil Éireann has passed the Chester Beatty Library Bill, 1968 without amendment.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>It is proposed to take Nos. 8, 2, 1 and 6.  It is proposed to terminate the sitting at 6 p.m.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Could we have some explanation as to why we are finishing at 6 p.m. ?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Minister, unfortunately, has a prior commitment after 6 p.m. and will not be available.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>Will the House meet tomorrow?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Do I understand that we are having three hours, from 7 p.m. to 10 p.m., not being used at all because one Minister is not available?  There are several motions on the Order Paper.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>There are no Ministers available for the said motions today.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I feel that for the third time in succession this House really is being treated in a cavalier manner in relation to these motions.  We will be faced with them at the end of July and they will be rushed through or skipped.  I do not <Col N="1350" /> think the Leader of the House is being fair to the House.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>That is the Senator's opinion.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Is it intended that the House will meet next Wednesday or, if not, on Tuesday ?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I did not get the Senator.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Is it intended to meet next Wednesday and, if not&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Seanad will meet on Wednesday week.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>If there is any good reason why not&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Seanad will meet on 29th May and will get down to a long series of discussions on a long series of Bills.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>We raised the question of the Biafran motion and left it to the Leader of the House to give us information as to when it would be taken because we did not want to press is unfairly without adequate notice.  We were told&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I indicated to the Seanad last week that as far as I was concerned I did not think it appropriate to have that motion discussed and it would be most inappropriate now when peace negotiations are proceeding in Biafra.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>The peace negotiations are in progress but the war is also in progress and from what we have heard of it from our own correspondents and from correspondents of English newspapers there is a threat of genocide and the practice of genocide&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>We cannot have the substance of the motion discussed on the Order of Business.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I am rebutting the point made by the Leader of the House which is, no doubt, equally out of order.  This is a matter <Col N="1351" /> of urgency.  The peace negotiations are going on and so is the war.  The war has not been stopped.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>If the Senator wishes to propose a variation to the Order of Business he may do so.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I propose that the motion on Biafra be taken today.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I second that.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Before that motion is put to the House, I understand from the Leader of the House that this day fortnight is the earliest the Seanad will meet again.  In view of the amount of business to be completed before the House rises, would it not be possible to persuade some of the Ministers to offer themselves, to volunteer occasionally to come into the House?  In that respect I suggest that if there are motions on the Order Paper which Senators are not prepared to take in order or which they wish to switch, like the particular one referred to by Senator FitzGerald, in circumstances where motions are by-passed by Members would the Leader of the House at that stage agree to take those motions which the movers are ready to go on with?  Motion No. 14 has been on the Order Paper for some time and it would appear that the motions prior to it are not being moved.  In these circumstances, would the Leader of the House be able to indicate when a Minister will be available to take that motion?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>There is no question at all of whether it is possible for Ministers to volunteer to appear in the House.  The position is that on three recent occasions I had arranged for the taking of three different motions and I informed those concerned that they would be scheduled for the next day but I was told they would not be available&mdash;that they had other commitments.  On the other matter it is a question for the Committee of Procedure and Privileges.</P>
+    </Speaker>
+    <Col N="1352" />
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Will the Leader of the House give the names of the Senators in question and the motions?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>He has said that three motions were not taken because the proposers were not available.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I can assure the Senator that his was not one of them.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>A statement has been made in the House and it should be substantiated so as to remove any impression that it might be a figment of the imagination of the Leader of the House.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The suggestion that the Leader of the House would make such a statement when there was not substance in it is not in order.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Are we not entitled to ask that it be substantiated?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Senators have a right to make a single speech on the Order of Business and to propose a variation on the Order of Business but beyond that they have not any right at this stage of the proceedings.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>There are five motions on the Order Paper and we have been told that one of them is one in which the mover is not available. There are only four left and with three of these I am associated. I am not aware of not being available on any occasion to move the motions and, therefore, I must ask the Leader of the House to name the Senators he has mentioned and the motions concerned.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Mr. Quinlan Mr. Quinlan">
+      <NameTxt>Mr. Quinlan</NameTxt>
+      <P>I support Senator FitzGerald and Senator Sheehy Skeffington.  We should have the names of the Senators associated with the motions.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>There is a proposal to take items Nos. 8, 2, 1 and 6 on the Order Paper and that we take <Col N="1353" /> the adjournment at 6 p.m.  There has been an amendment proposed to this that item No. 15 on the Order Paper be added to the Order of Business.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I take it that the Leader of the House, not having substantiated the allegation he made, is withdrawing it.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>No.  Senator FitzGerald is one, Senator Murphy is another and Senator O'Quigley is another.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>What motion ?</P>
+    </Speaker>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>My name has been mentioned.  That was in connection with the motion dealing with the training of agricultural personnel and the <Col N="1354" /> date suggested by the Leader of the House did not suit me but I came along and took the motion.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>That was on a previous occasion.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>We formally deny that we have postponed in any way the motions to which our names are attached.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The amendment before the House is that item No. 15 be added to the Order of Business.  Will those who support the amendment please stand ?</P>
+      <P>
+        <i>Senators Garret FitzGerald, Murphy, Quinlan, Malone and Dr. Sheehy Skeffington rose.</i>
+      </P>
+      <P>Question put: &ldquo;That item No. 15 be added to the Order of Business&rdquo;.</P>
+      <P Just="Center">The Seanad divided: Tá, 13; Níl, 20.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Conlan, John F.<br />FitzGerald, Garret M. D.<br />McDonald, Charles.<br />McHugh, Vincent.<br />McQuillan, Jack.<br />Malone, Patrick.<br />Mannion, John.</entry>
+            <entry rowsep="1">Murphy, Dominick F.<br />O'Quigley, John B.<br />O'Sullivan, Denis J.<br />Quinlan, Patrick M.<br />Rooney, Éamon.<br />Sheehy Skeffington, Owen L.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Ahern, Liam.<br />Boland, Gerald.<br />Brennan, John J.<br />Brosnahan, Seán.<br />Browne, Seán.<br />Cole, John C.<br />Dolan, Séamus.<br />Egan, Kieran P.<br />Farrell, Joseph.<br />Flanagan, Thomas P.</entry>
+            <entry rowsep="1">Honan, Dermot P.<br />Martin, James J.<br />Ó Conalláin, Dónall.<br />Ó Donnabháin, Seán.<br />Ó Maoláin, Tomás.<br />O'Reilly, Patrick (Longford).<br />O'Sullivan, Ted.<br />Ryan, James.<br />Teehan, Patrick J.<br />Yeats, Michael.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá, Senators FitzGerald and Sheehy Skeffington; Níl, Senators Farrell and Ó Donnabháin.</P>
+    <P>Amendment declared lost.</P>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Order of Business proposed is items 8, 2, 1 and 6 and the adjournment of the Seanad at 6 p.m.  Is the Order of Business agreed?</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Houses of the Oireachtas (Members)" RHead="Pensions Scheme: Motion">
+    <Title>Houses of the Oireachtas (Members) Pensions Scheme: Motion.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I move:</P>
+      <P>&ldquo;That Seanad Éireann hereby approves of the amendment of the Houses of the Oireachtas (Members) section 6 (A) of the Oireachtas (Allowances to Members) Act, 1938, by</P>
+      <P>(1)  the addition to sub-clause (1) of clause 1 of the following definitions :</P>
+      <P>&lsquo;member&rsquo; without qualification means a member of either House of the Oireachtas</P>
+      <P>&lsquo;widow&rsquo; means the widow of a member or former member</P>
+    </Speaker>
+    <P>
+      <Col N="1355" />&lsquo;child&rsquo; means a child who is the issue of, or was legally adopted during, the marriage of a member or former member</P>
+    <P>&lsquo;orphan&rsquo; means a child both of whose parents are dead</P>
+    <P>&lsquo;appropriate age&rsquo; means the later of age 16 or the age not exceeding 21 years up to which a child is receiving full-time education;</P>
+    <P>(2)  the insertion of &lsquo;and their widows and children&rsquo; after &lsquo;Oireachtas&rsquo; in sub-clause (1) of clause 2;</P>
+    <P>(3)  the substitution in clause 5 of</P>
+    <P>(a)  &lsquo;eight&rsquo; for &lsquo;ten&rsquo; and &lsquo;10&rsquo; in sub-clauses (1) (a), (4) (including the amendment to this sub-clause made with effect from 7 July, 1966) and (5),</P>
+    <P>(b)  &lsquo;1/40&rsquo; for &lsquo;1/60&rsquo; in sub-clause (1) (c),</P>
+    <P>(c)  &lsquo;27 years, provided that the amount of pension in respect of the 27th year of service shall be reduced by one-third&rsquo; for &lsquo;40 years&rsquo; in sub-clause (5),</P>
+    <P>(d)  &lsquo;person&rsquo; for &lsquo;former member of the Oireachtas' in sub-clause (8);</P>
+    <P>(4)  the addition to clause 5 of the following sub-clauses:&mdash;</P>
+    <P>(10) The Trustees may pay to a widow</P>
+    <P>(a)  whose marriage to her husband took place before he ceased to be a member, and</P>
+    <P>(b)  whose husband was</P>
+    <P>(i) in receipt of a pension under this Scheme, or</P>
+    <P>(ii) a member after 1 December, 1960 and had not less than 8 years' service as a member on the date of his death</P>
+    <P>a pension until her widowhood ceases not exceeding the greater of</P>
+    <P>(a)  £250, or</P>
+    <P>(b)  one-half of the pension payable to her husband under this Scheme or which would have been payable to him if he had ceased to be a member on the date of his death</P>
+    <P>together with an addition to such <Col N="1356" /> pension of £50 for each child under the appropriate age subject to the total amount so payable not exceeding the greater of</P>
+    <P>(a)  £250, or</P>
+    <P>(b)  the pension payable to her husband under this Scheme or which would have been payable to him if he had ceased to be a member on the date of his death.</P>
+    <P>(11) Where a widow was married to a member for less than a year prior to the date of his death and where there are no children of the marriage, the Trustees may, at their discretion, direct that no pension be paid to her.</P>
+    <P>(12) No pension shall be paid to a widow for any period during which she is a member but on her ceasing to be a member and provided she has not remarried payment of a pension under subclause (10) of this clause may commence or be resumed with effect from the date on which it would be payable if it were a pension under sub-clause (1) of this clause, and continue for any period during which it would exceed the pension, if any, payable to her under sub-clause (1) of this clause but no pension under the aforestated sub-clause (1) shall be payable to her during such period.</P>
+    <P>(13) The Trustees may pay to each orphan whose parent was</P>
+    <P>(a)  in receipt of a pension under this Scheme, or</P>
+    <P>(b)  a member after 1 December, 1960 and had not less than 8 years service as a member on the date of his death</P>
+    <P>a pension of £100 up to the appropriate age subject to the pensions payable to the orphans of such parent not exceeding the greater of</P>
+    <P>(a)  £250, or</P>
+    <P>(b)  one-half of the pension payable to such parent under this Scheme or which would have been payable to him if he had ceased to be a member on the date of his death</P>
+    <P>and, where both parents have been members, the parent eligible for, if he had ceased to be a member on the <Col N="1357" /> date of his death, or in receipt of, the smaller pension shall be disregarded for the purposes of this sub-clause.</P>
+    <P>(5)  the insertion of &lsquo;or if an orphan is entitled to receive a pension under this Scheme' after &lsquo;thereof' in clause 10.</P>
+    <P>(6)  the renumbering of the existing clause 11 as 11 (1) and the insertion of a new sub-clause as follows:</P>
+    <P>(2) Any amendment of this Scheme made between 1 April and 30 June, 1968, shall apply with effect from 1 December, 1960 (except in the case of the amendment already made to sub-clause (4) of clause 5, in which case it shall apply with effect from 7 July, 1966) but no payment shall be made by virtue of such amendment with effect from a date earlier than 1 April, 1968.&rdquo;</P>
+    <Speaker pid="CharlesJHaughey" hpid="Minister for Finance (Mr. Haughey) Charles J. Haughey">
+      <NameTxt>Minister for Finance (Mr. Haughey)</NameTxt>
+      <P>The power to provide pensions for the widows and orphans of deceased Members was taken in the Oireachtas (Allowances to Members) (Amendment) Act, 1968, and the purpose of this motion is to make the necessary alterations in the Members' Pension Scheme.  It also provides improved benefits for Members themselves.  The effects of the proposed changes are as follows:</P>
+      <P>(i)  the fraction of 1/60th of the parliamentary allowance will be increased by 50 per cent to 1/40th for each year of service, with a maximum of 2/3rds, for both current and future pensions;</P>
+      <P>(ii)  the minimum period of service required for pension will be reduced from 10 to 8 years.  Any person who ceased to be a Member of either House after 1 December, 1960, with 8 years of service but less than 10 years, will benefit, as well as persons ceasing membership after 1 April, 1968;</P>
+    </Speaker>
+    <P>(iii)  the widow and children of any Member who died on or after 1st December, 1960, with at least 8 years' service will be eligible for a pension.  A widow's pension will be one-half of her late husband's entitlement with a minimum of £250.  The widow's pension will be <Col N="1358" /> increased by a flat amount of £50 a year for each child, subject generally to the total not exceeding the late Member's entitlement;</P>
+    <P>(iv)  provision is also made for the suspension and termination of widows' pensions in certain circumstances. I might add that no widow's pension will be payable unless marriage took place during or prior to membership of either House of the Oireachtas;</P>
+    <P>(v)  orphans' pensions will be £100 per annum each, subject to the total not exceeding £250 or one-half of the late Member's entitlement, whichever is the greater, and the position of orphaned children of a deceased female Member is also provided for;</P>
+    <P>(vi) finally, where the widow of a Member or former Member qualifies for a Member's pension, she will be paid either her pension as a Member or the widow's and children's pensions appropriate to her case, whichever is the greater.</P>
+    <P>The Members' Pension Fund will not be able to bear the cost of the extra liabilities which these improvements will impose on it.  It is estimated that they will increase the outgoings of the Fund by about £12,000 a year initially and it is proposed that the Exchequer will make a grant of £12,000 to the Fund this year.  The total cost of the extra liabilities cannot be ascertained until they are examined by an actuary.  It is proposed that this examination should take place at an early date.</P>
+    <P>As I indicated previously, these improved benefits will be payable with effect from 1st April, 1968.</P>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Before we take up consideration of this motion, I should like to indicate that I have ruled that amendment No. 1 in the names of Senator Sheehy Skeffington and Senator McQuillan is out of order on the grounds that it introduces a factor irrelevant to the motion.</P>
+      <P>The Senators have been notified accordingly.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I move amendment No. 2:</P>
+    </Speaker>
+    <P>
+      <Col N="1359" /> To delete &ldquo;1968&rdquo; where it occurs at the end of the motion and substitute &ldquo;1969&rdquo;.</P>
+    <P>I have put down this amendment, which defers the moment of application of this scheme from 1st April, 1968, to 1st April, 1969, in order to give the Minister another year of grace, as it were, in order that he may take time off to consider whether widows other than those of former Members of the Oireachtas have not got a prior claim to consideration in relation to pensions.  This scheme is brought in mainly for the benefit of the widows of former Members of the Oireachtas who are pensioners, and I think it is a good scheme in that connection, but we have long urged the Minister, many of us here in this House, to give active consideration to the necessity for a wider scheme for the widows of all State servants, and it was with that purpose that originally I put down the motion, which was not in order unfortunately, that this scheme, which applies to the widows of former Members of the Oireachtas, should not come into being until the others were provided for by a State-sponsored scheme.  I am, however, entitled to suggest postponing the application of this present scheme, which is for our benefit and for the benefit of our dependants, until both Houses of the Oireachtas have accepted an equitable scheme, on the proposal, I would hope, of the Minister for Finance, to deal also with widows of all State pensioners.  I read the other day that the Garda Síochána were, in fact, asking for widows pensions of 50 per cent of the pension of gardaí.  This would seem to me to be absolutely fair and this is what I should like to see happening in relation to widows of all State pensioners.  I would like to put it that, and I think it applies to all State servants, a pension is, in fact, a form of deferred payment of salary, that this is put off until retirement age, and that pensioner then draws the payments which have been deferred up to then.</P>
+    <P>I do not think it could be denied that the pension of any pensioner, if he is married, is intended to keep himself <Col N="1360" /> and his wife.  Therefore, it seems to me inequitable that the pension should die with the pensioner.  I am aware of the fact that the State graciously allows pensioners on retirement to defer payment of portion of their pensions for the sake of their widows. This is a kindly act on the part of the State which does not lose them a penny. It enables the man to put aside a small pension for his widow, should he die before his wife.</P>
+    <P>The State insists even in this scheme that the pensioner should produce a medical certificate for himself, not for his wife, to show that he is 100 per cent fit, and is consequently unlikely to have to use this scheme for the benefit of his widow, since the State insists that he provide this medical certificate for himself but not for his wife. Therefore, this extra precaution on the part of the State really means that a pensioner who might have most need to provide for his widow, a person not in the best of health, is automatically precluded from the scheme.  I would ask the Minister&mdash;I happen to know that he personally is most sympathetic on the whole question&mdash;to look at this. I feel I have a right to challenge him in public to show what precisely he expects the widow of a State pensioner to do.  In certain countries I understand they burn the widow on the funeral pyre of the dead man.  I do not think there is any such organisation here for the carrying out of that, but as far as the State is concerned the widow is apparently expected to disappear when her husband dies.</P>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Or come in here.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>May I interrupt the Senator on a point of order ?  Is this speech in relation to the amendment ruled out of order rather than to the amendment under discussion ?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>I think what the Senator is saying would be in relation to the amendment which I ruled out of order, but I think the Senator is sufficiently close to the issue for his speech to be in order.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I am making the point that if the Minister is given <Col N="1361" /> another year to consider this, he will be in a position to deal as well with widows of State pensioners as now he is dealing with widows of former Members of the Oireachtas.  I feel, and I think other Members of this House feel, that we are not acting correctly in accepting this benefit for ourselves and for our widows when, in fact, the Minister tells us, apparently by his action so far, that it is not possible to do this for other widows of men who are equally servants of the State, I think, in the way we all are in these Houses of the Oireachtas.</P>
+      <P>The three main differences made by the Minister's amendment to the original Bill deal first with pensions for widows.  That is a new thing.  Secondly, a reduction in time that one has to be in this or the other House in order to get a pension.  It was ten years when it was first introduced, and now the period is reduced to eight years.  If you have been a Member of either House for eight years you are entitled to a pension or will be if we pass this amendment.  Thirdly, the State will put up a sum of money, in accordance with the proposal of the Minister for Finance, in order to meet the extra cost involved.</P>
+    </Speaker>
+    <P>I remember very clearly, I was a Member of this House when the Oireachtas pension scheme for Members of the Oireachtas was introduced, and a great point was made then that this was not going to cost the State anything, that this was a self-supporting fund, that this was entirely contributory and consequently one could accept it, because we were not putting a charge on the State.  We are now being asked to put a charge on the State and it is for one reason which might be regarded as highly legitimate and worthy and that is for the arrangement that widows as well as Members of the Oireachtas pensioners shall get a pension.  In the original Act, however, the pension was given after a membership of ten years and now this is to be reduced to eight years.  I would be inclined to object to this.  I would like to hear the Minister defending it. Why reduce it to eight years?  It now means that after eight years serving in either House of the Oireachtas you are <Col N="1362" /> entitled to a pension.  I think this is too short.  I thought ten years was really a minimum, but I now see even that being reduced.  The reduction of this period will cost the State money so that in the first year of application it will cost about £12,000.</P>
+    <P>In those circumstances I feel the Minister should be given another year in order to think over the implications of this, because of the fact that we are now putting a charge on the State for pensions for ourselves, to get them more readily in a shorter space of time.  While the State can find money to help to subsidise pensions for our widows, the State cannot find the money to devise an equitable scheme for pensioners for widows of all State servants.  I say again I am certain the Minister personally would like nothing better than to introduce such a general scheme.  I would urge him very strongly to do so, and I would urge the House to pass my amendment, and allow this year of delay which would enable the Minister to go into this question, and come up with a solution that will be fair to all, and not merely to Members of the Oireachtas and their widows.</P>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>I should like to second the amendment and wait until later to speak.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I support the motion that the scheme for the Members of the Oireachtas pension scheme be amended in the manner suggested by the Minister.  I do not agree with Senator Sheehy Skeffington's amendment although I sympathise with his reason for putting it down.  If Senator Sheehy Skeffington tabled a motion calling on the Minister for Finance to introduce a scheme of pensions for the widows and orphans of State servants and, indeed, for a number of persons who are not covered by the widows pensions under the Social Welfare Acts, he would never get heard in this House.  There are motions on the Order Paper for several months and they have not been reached yet.  We are meeting this afternoon until only 6 o'clock.  We are meeting for a short time.  To the extent that Senator Sheehy Skeffington wants to avail of this particular motion to amend the Oireachtas <Col N="1363" /> Members Pension Scheme to make a plea for the introduction of a comprehensive widows and orphans pension scheme for all State servants and for other people not covered by the Social Welfare Acts, I can sympathise with him and I support his plea.  There is no use in saying that in order to benefit the large number of people who are suffering because of the neglect of the Government we ought to cause other people to suffer for a further year by accepting Senator Sheehy Skeffington's motion.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>It is a question of priorities.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It may be a question of priorities but if there are people we can help here and now we ought to do so.  The fact that we cannot help others does not mean there is any reason for not helping those we can help.  You might as well say there is no use in Mother Theresa looking after 5,000 people in Calcutta because there are 1,000,000 people living on the streets of Calcutta.  You might as well say that she should not do anything about it.  Of course, we ought to help the widows and orphans of Members of the Houses of the Oireachtas and we ought also to help all the others, but because we cannot help the others is no reason for not helping those whom to a large extent we are helping out of funds provided by ourselves.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>We are helping ourselves first.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I shall come to that in a minute.  It is invidious that we should appear to be concerned firstly for ourselves, but to a large extent, as I understand the financial provisions of this scheme, the Members of the Oireachtas are paying for the benefits their widows will get and they themselves will get if they retire, resign or are dismissed by the electorate.  We are paying for this to a great extent out of our own moneys.</P>
+    </Speaker>
+    <P>For that reason I think it is entirely correct that we ought to introduce this scheme at this time.  It is invidious, indeed, in relation to the fixing of salaries of Ministers, Members of the Dáil and Members of the Seanad, that <Col N="1364" /> this task should be undertaken and done by ourselves, that we should be judges in our own cause.  I think that, while the public know what is going on and that there is nothing done in an underhand way, we are doing ourselves as Members of the Oireachtas less than fair play in not having these salaries and matters relating to pensions determined by a body outside ourselves who would make recommendations and then it would be for the Oireachtas to accept or reject or modify these recommendations.</P>
+    <P>In relation to matters such as pensions, it would be far better if there were a committee consisting of any seven members of the public, like the elected members of trade unions, farmers' organisations, philanthropic organisations, and so on, presided over by an accountant, a judge or a businessman, who would determine the salaries appropriate having regard to the conditions and then let the Oireachtas decide whether to reject or accept them and enact them into law. I do not like the idea that we have any hand on the public purse and that we can put our hand into it when we want to to the extent of £12,000.  I think this is only a single payment of £12,000 and that the scheme will be financed by the Oireachtas after this.  The Minister can correct me on this.  For that reason, I can see the point made by Senator Sheehy Skeffington but he is not playing his usual rôle when he is seeking not to relieve suffering when it needs to be relieved.</P>
+    <P>With regard to the form of the amendment, I think even the Minister will deplore the shape that this pension scheme is taking.  Look at the sheets in which the pension scheme is embodied.  There are four different sets of sheets and when anybody wants to find out what he or a widow is entitled to he has to cut through the jig-saw puzzle with a scissors to find out what it is all about.  Senator Ó Maoláin, when introducing a motion here last year, showed how these pension schemes were not clear.  It is absurd and completely ridiculous and unjustifiable and hopelessly indefensible to say that when we want to <Col N="1365" /> formulate a pension scheme we have to get on with the business of deciding the substitution in clause 5 of &ldquo;eight&rdquo; for &ldquo;ten&rdquo; and the figure 10 in clause 1 (a) (4) including the amendment to this sub-clause made with effect from the 7th July, 1966, and (5).</P>
+    <P>Did anybody ever hear such rubbish and such mumbo-jumbo?  To the extent to which the parliamentary draftsman has been involved, I think he is rather tied by the original scheme which said that it may be amended from time to time by Resolution of each House; and I would ask whether it is not possible to amend the original scheme so as to provide that it may be consolidated from time to time and when it gets into this state of confusion an appropriate resolution for consolidation should be introduced and the scheme formulated in a proper fashion. It is quite hopeless to have to read this and for Members of the Oireachtas to try to make out what they or their widows are entitled to.</P>
+    <P>It is reasonable to reduce the period for eligibility from ten to eight years for the reason that the longest period fixed by law for the duration of the Dáil is five years.  The normal span of any Dáil on an average has been something from three to four years&mdash;from 1922 to the present time.  I think four years probably means that a person must be elected three times either to the Dáil or to the Seanad.  If people have undergone that gruelling test&mdash;I have tried it unsuccessfully on one occasion and Senator Sheehy Skeffington would sympathise&mdash;</P>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Is the Senator not encouraging more frequent elections?</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Frequency of elections can only come from the demand of public opinion and the exigencies of the Government's position.  I think it is fair and reasonable to say that if a person has served for eight years he should get a pension commensurate with that, seeing that they get it from moneys contributed by themselves. Senator Sheehy Skeffington as a committed socialist is, perhaps, well provided for as regards his widow and orphans&mdash;God forbid&mdash;and he may see <Col N="1366" /> no difficulty about a ten of 15 year period.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>How do the Social Democrats feel about it?</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Speaking as one committed to social justice, I would think that the period of eight years for the reason I have given, which probably involves three elections, is a reasonable period and it is a period that has been accepted and agreed to by all political Parties.</P>
+      <P>There is only one further thing I want to say.  The time is long since past for the introduction of a comprehensive scheme for widows and orphans who do not come within the Social Welfare Acts.  There are shopkeepers, small farmers, small contractors, professional men, businessmen, accountants, and people of that kind, who cannot afford to take out the necessary insurance to provide themselves with the kind of pension scheme that Senator Sheehy Skeffington wants the Minister to be given a year to consider.  I am talking now about the motion.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>I was getting a little worried about whether you were talking on the motion or the amendment or on either.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I will return now to the amendment.  I think that the time has long since passed when the Government should busy itself about introducing such a scheme.  Certainly we in the Fine Gael Party have long since indicated that we wanted to do that, but it involves a fair amount of investigation and actuarial calculation, and political Parties have not the opportunity, the finance, or the facilities to do more than to recommend that the existing Government should undertake a scheme of this kind.  This is a matter for the Minister and his colleagues in the Government to undertake without any delay.</P>
+    </Speaker>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>It may not be good political practice for a member of the Opposition to stand up and defend a Minister, but I want to defend the Minister, and, indeed, to thank him for bringing in this motion today.  We have for a long time been troubled about the financial difficulties of <Col N="1367" /> widows and orphans of Members of both Houses of the Oireachtas, because we all know circumstances where Members have died and because of their involvement with the political life of the country have left their widows and orphans in a position which might not otherwise be the case. Indeed, I can recollect three members of my own union who were Members of the Dáil and who died, and I can say with a good conscience that their families would have been better off financially if they had stayed in their jobs in the particular employment that they had.  It could well be, of course, that they would not have done as much good for the community as they did as Members of the Oireachtas.</P>
+      <P>We have now finally persuaded the Minister to accept on behalf of the Government the responsibility of providing benefits for widows and orphans of Members of the Oireachtas. It might be no harm to remind ourselves that we are ourselves contributing to the pension fund.  Pension funds are a normal feature in many good employments.  Whether a Member of the Oireachtas can be regarded as in an employment is a question, but pension funds are pretty common, and the usual situation is that the employee contributes to the fund and so does the employer.</P>
+    </Speaker>
+    <P>The same position can be said to obtain in the Civil Service even if there is no actual deduction made from the salary of the civil servant account being taken of the value of what is called his free pension or superannuation benefits in determining the level of his salary.  It is recognised that, in fact, the nominal salary attached to the job is five or six per cent higher than the amount that is actually paid because of this fact that no deduction is made at source for the superannuation benefit. But in the pension provisions we have made for ourselves as Members of the Oireachtas there is no contribution from any other quarter.  It is contributed fully by Members of the Oireachtas.  We pay 25/- a week, I think, towards the provision of a pension for people who have formerly been Members of the Oireachtas.  Up to now I think you had to have a qualifying <Col N="1368" /> period of ten years.  Now it is proposed to reduce it to eight years.  Again, it might be no harm to remind ourselves that people who contribute up to ten years to that fund and then lose their seat as a Member of the Oireachtas get no benefit whatever.  The fund was in benefit and the money was left there and helped to pay the benefits for other people.  Equally, and this would still obtain despite the amendment, if a person dies and he is not married the 25/- which has been paid by that Member to the pension fund remains in the pension fund.  I do not think, therefore, that we should have any bad conscience at all in getting up and defending what is provided for here.</P>
+    <P>All that is provided for here is that the other part&mdash;for want of a better word&mdash;the employer is not coming in to pay half the benefits to the fund even, but only going in to provide a benefit for the widows and orphans at half what the pension would be for the Minister himself.</P>
+    <P>I want to say that I am grateful to the Minister for undertaking this responsibility. I hope that he will not mind me saying that when he was introducing the Bill recently which gave him power to make this order I pressed him to have the benefits for the widows and orphans applied not from 1st April, 1968, but from the date of death of the Member.  I said that it might easily be arranged that it could be applied from the date of death for a Member who was elected to the current Dáil.  Unfortunately, he has not seen his way to do this but, nevertheless, I am grateful on behalf of those people for what the Minister is doing in this motion.</P>
+    <P>With regard to the amendment, I have every sympathy with and support fully the argument that members of the Civil Service should equally be provided with widows and orphans pension benefits, and, indeed, as the Minister well knows, this has been advocated by the associations representing the Civil Service over many years.  I have also been interested in it from a trade union point of view in respect of the members I represent. Quite frankly, the difficulty up to now has largely been the fact that there <Col N="1369" /> was no precedent for this.  There was no recognised arrangement.  I know that the provisions we made here for widows and orphans of Members of the Oireachtas are welcomed by the Civil Service organisations and by my organisation as providing a precedent to press further the claims for similar benefits for civil servants.  In thanking the Minister I am giving him due warning that he will have a lot of pressure on him now to provide similar benefits for members of the Civil Service and equally for people in other semi-State employments where at the moment there is no such provision.</P>
+    <P>To say that the scheme should be postponed for a year, of course, cuts right across the plea I made to the Minister when we were dealing with the Bill recently to have it back-dated. I understandably oppose the amendment, though I fully support Senator Sheehy Skeffington's plea that civil servants should be dealt with equally as quickly as possible.</P>
+    <P>May I repeat myself by thanking the Minister for bringing forward this motion, by welcoming it and by thanking him particularly on behalf of the people who will benefit &mdash; the widows and orphans of some of our colleagues who served in politics and the public service of this country.</P>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I wish to support quite strongly the principle enshrined in the motion, that is, that we are about to make certain provision for the widows and dependants of former Members of the Oireachtas.  That is an excellent principle, one to which we can all subscribe not alone here but in every section of the community. However, I think we should have done a little better.  We should expect a headline from the Houses of the Oireachtas and I urge the Minister that after this year, when he has made a grant of £12,000 to provide for increases to cover this scheme, the scheme will be returned to its original form of being self-supporting.</P>
+    </Speaker>
+    <P>The amount involved is rather trivial.  At present the levy on Members is £60 a year.  A doubling of that levy would make full and adequate provision for each case.  It is an <Col N="1370" /> amount that no Member would hesitate about or grudge for a moment and it would set a real headline in pensions for the country at large.  I am in favour of pensions for widows and dependent children but the primary onus for the provision rests on the individual group themselves.  Therefore, I think the Minister should, if possible, get this scheme back again to a type of scheme like the original one &mdash; one that is self-supporting.</P>
+    <P>Another point I should like to raise is that I do not think a change from eight years to ten years is a necessary one.  There could have been a provision of ten years or of three elections.  To my mind, the original period of ten years could have been allowed to stand. I do not think any period should have been applied to the case of widows. A widow should qualify if her husband had been in the House six months or a year.  Such a widow is much more deserving of our charity and our concern than the widow of a Member who has served 40 years in the service of the Oireachtas.  It might be something which would not be favoured actuarially because of calculation circumstances, but it is certainly in accordance with Christian charity and a Christian approach to the needs of widows and orphans that we should deal generously with the dependants of a man who has been cut off after six months in the job as much as of the man who had served a lifetime in it.</P>
+    <P>Perhaps the Minister might be able to give consideration to removing any limitation in respect of a widow drawing the minimum pension of £250 a year together with £50 per child.  The amount involved would be trivial.  I do not think I know any Member who died leaving a dependent family after having served four or five years in the House.  However, such a case could occur in the future and in our charity as a group we should see that all widows are included right from the start.  We should ensure that a widow has a right to a pension as some recompense for having had her husband cut off in early life.  With those suggestions, I commend the scheme which I consider to be one that we can take pride in introducing, providing we make it self-financing.</P>
+    <Col N="1371" />
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I should like to support the motion but not the amendment.  I feel, with Senator O'Quigley, that the fact that we should like to do something for other pensioners should not delay the cases of the few people who may get pensions under this motion and who need such pensions.  As Senator Murphy has said, we all know of people who would have benefited themselves a great deal better if they had stuck to their jobs instead of deciding to give service to the public, sometimes in local government, sometimes in these Houses. I know one former Member of the House who was not a Member for very long but who gave an enormous amount of service to public life, first in local spheres, and who is now receiving benefit from the county council. He was a Member of the Dáil for only a few years.  He was then defeated and in very bad health.  He is the one instance I know of.  Senator Quinlan said he did not know of anybody of that kind.</P>
+      <P>There comes a time, even in local government, when a man who has married and has a family must look to his own conscience and perhaps ask himself: &ldquo;Am I giving too much time to public life and neglecting my own family or the future prospects of my own family?&rdquo; To the extent that this motion helps that situation and relieves that worry a little, I fully support it.  There is one other point, however, and I am sorry I did not put down an amendment.  It might be worth mentioning that somebody examining the scheme later may consider the definition of a widow.  This is strictly confined to widows but in certain cases a sister might live on with a brother who is in public life, and give her whole life to him in order that at the same time he can give service to the public.  I know cases of it.  There might be cases of single females totally dependent on Members of the House &mdash;female dependants who served the Members to the best of their ability thus allowing the Members to devote more of their time to public life.  Such people would be completely dependent on the Members' earnings, people who had no lives of their own apart from that, and there might be a case to look into this in relation to this scheme.</P>
+    </Speaker>
+    <Col N="1372" />
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>The amendment moved by Senator Sheehy Skeffington gives an opportunity to Members of the House to tell the Minister what their views are on the whole question of pensions and the necessity as soon as possible for making provision for dependants of people in the various services&mdash;the Civil Service, the local authorities and other State and semi-State concerns.  Some Senators have criticised the amendment on the grounds that if we hold up this legislation we shall deprive a limited number of persons of benefits.  I do not know if that is the position and I should like to know from the Minister if it is&mdash;that there are people in such circumstances of hardship.</P>
+      <P>To me one of the most important features of all this is the fact that both Houses of the Oireachtas decide through the Government what the Civil Service are paid and what their conditions are.  The one thing we should be most careful of is not to leave this House open to the criticism that priority is given to Members of the House rather than to those whom it is the duty of the Members of the House to look after first.  That is the reason I allowed my name to go to the amendment. The question of timing in these matters is all important.  I am in full favour of the scheme and would like to commend the Minister for his outlook in these matters and for a certain amount of courage he has shown in the face of opposition from many quarters. I welcome his courage in matters which need attention much more urgently than do the rights of Members of the Oireachtas.</P>
+    </Speaker>
+    <P>I am probably one of the longest serving Members of both Houses and I make no bones about the fact that I think it is necessary to have improved conditions for Members.  But that is no reason to say that because we are giving improvements to Members of the Oireachtas it should be an encouragement to Civil Service organisations and others to seek improvements for the conditions of their members.  If the same enthusiasm was shown to give civil servants and other public servants a similar scheme they <Col N="1373" /> would have it now.  To concentrate on ourselves first is a poor answer to public criticism of the conditions of these people.</P>
+    <P>The purpose of the amendment is to give the Minister an opportunity of hearing the views of the House on the question of widows and other pensioners in other sections of the community. I have run across tragic examples in the teaching profession and in the Garda Síochána where husbands died suddenly and left large families.  The usual procedure in Civil Service circles is that 12 months' salary in the form of a gratuity is paid to the widow and after that she can look out for herself and her family.  A widow with responsibility for a family who may previously have had a profession or occupation may be unfit to resume that occupation or may be unable to do so because of her family.  That example can be quoted by every Member of this House and it is a big problem.</P>
+    <P>The suggestion in the amendment is to postpone the operation of this scheme until the Minister has had an opportunity of bringing in, at the same time as he brings in this scheme, a scheme that would cover such persons. These are urgent cases and there is an equal urgency to make provision for them as there is as far as Members of the Oireachtas are concerned.  We are now faced with the question of whether we should first make provision for ourselves rather than for those who cannot help themselves.  That is the point at issue.</P>
+    <P>On the measure itself, I should like the Minister to clarify the provision that where a widow was married to a Member less than a year prior to the date of his death and where there are no children the trustees may at their discretion decide that no pension be paid to her.  What is the purpose of that?  A case can be made that there is more hardship involved on the widow in such circumstances than if she had been married for ten or 15 years.  Or do the people who thought up this scheme not want to encourage a gold-digger to get her claws into some unfortunate member who is likely to depart shortly from this world? <Col N="1374" /> I do not think it would be a great attraction to any gold-digger to put her claws into a dying Member of this House, or the other one, at that stage.</P>
+    <P>The only other point I wish to make is with regard to the ten year period. When the scheme was first mooted in the other House the idea was that a Member should go through three general elections.  If a Deputy goes through the torment and hardship of three elections and is re-elected each time he must have worked for the public during that period and he must, to a great extent, have neglected his own private business.  There is every justification for the ten year period.  I have listened to the reasons put forward for the eight year period and they are not very weighty.  It has been said that we have had elections fairly frequently over the last 40 years.  That is true but the period for which the House is elected is five years and we should envisage when engaging in legislation that the House will run its full term.</P>
+    <P>If we do not base our legislation for pensions on that idea we will give rise to the impression that we are expecting the Dáil to fall every 12 months or two years and I do not think anyone wants to see that situation arising.  It is not a big point but I would ask the Minister to clarify the reasons for which the period was changed from ten years to eight.  If a person is a Member of the Oireachtas for seven and a half years does it mean that if he does not make the statutory period of eight years he or his widow gets nothing?</P>
+    <P>It would appear to me that under most pension schemes which are in operation, a refund is made to the person who is subscribing of the contributions made and I do not see why it is not possible in this case.  To my knowledge, Members of the other House have been affected in this way, and if it applies to the individual himself who is beaten or retires, the same applies as far as the pension to the widow is concerned.  It is out.  Some arrangement should be made whereby a refund will be made of what the husband had paid in, if the widow does not qualify for the pension.</P>
+    <Col N="1375" />
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I do not think any comment is necessary on most of the speeches that were made, nor do I think any defence of this proposed amendment of the Houses of the Oireachtas Pension Scheme is required. It speaks for itself and it certainly is long overdue.  However, I do think that this suggestion of Senator McQuillan's about the Houses of the Oireachtas giving priority to themselves in regard to pension matters over what he described as other equally pressing claims is nonsense, and the Senator knows it.  The Senator is quite well aware that the Dáil has existed in one form or another for almost 50 years now, and for almost 50 years men have come and gone and have served this country to the best of their ability, with very poor recompense, by and large, and with no provision for their dependants.  Until this pension scheme, which is contributory, was introduced, they could just take pot luck. If they were defeated and if they had spent many years in the service of the public, they could be thrown on the scrapheap and possibly become an object of private or public collections to keep their wives and children or to keep the wolf from the door.  That has been the experience of many former Members of the Dáil during the past 50 years and to talk about priority now being given is so absurd that I think the Senator should take a tumble to himself&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>The widows.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>&mdash;&mdash;and realise that if it were possible for the Members of this Oireachtas to join the modern cult, to join the new religion of the picketeers, long ago there would have been groups all around this place of members of the Oireachtas picketing the Government or whoever was responsible for the time being to ensure that justice would be done to the dependants of Members of these Houses who had worked in the public interest.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>A very good suggestion.</P>
+    </Speaker>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>That is an idea.</P>
+    </Speaker>
+    <Col N="1376" />
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>There is no doubt that Members of the Oireachtas would long ago have picketed these buildings.</P>
+      <P>Senator Quinlan, to my amazement, did not seem to understand what this scheme is all about when he talked about charity.  It is not a question of charity and that is a most reprehensible word to use in this connection.  There is no charity in it.  This is a contributory pension scheme.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>A contribution of £12,000 by the State.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>It is contributed by members of the Oireachtas whose dependants will receive the benefits and there is no reason for anybody to apologise for it.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I did not say&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>You sit down. I listened to you and now you listen to me, and take that Cork stuff back to your College down there.  As I said, there is no reason why anybody should have to apologise for this scheme or the amendment.  It is a good scheme and there is no reason in the world as far as I can see why anybody from the side which made these speeches should feel half ashamed in explaining to the public that they are taking part in this pension scheme.  There should be no reason for that.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>State servants are ignored.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>There should be no reason whatever for any apology for a scheme of this nature, which is contributory, and there should be no attempt by Senator Sheehy Skeffington, Senator Quinlan, Senator McQuillan or anyone else to pull the wool over the people's eyes as to its being anything but contributory.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>It is.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>As regards the State grant or subvention which is now being made, Senator Murphy mentioned the position with regard to pensions in private employment in <Col N="1377" /> which the employee contributes something, the employer contributes something and the State contributes something. Very good.  I see no reason in the world, and I make no apology for putting it forward either, why there should not be a pension scheme here in which the employer, being the State, contributes something.  After all, if this is the social democratic society which the new tigers are aiming at, they should have social democratic concepts. Naturally, the Socialist Party will have them and we have had them since our foundation.  Therefore we are making converts.</P>
+      <P>As far as the suggestion contained in the amendment is concerned, I would remind Senator Sheehy Skeffington that every addition and every new social service that operates in this country at the present moment was introduced by various Fianna Fáil Governments and there is no need for him to point out to the Minister for Finance, to the Government or to anyone else their duty in regard to the people who require assistance.  At the present moment, as was announced recently in the Dáil, the whole question of our social service code is under minute examination and in due course the proposals will be announced in regard to it.  I have no doubt that in compliance with the Fianna Fáil policy of social justice, these new proposals will continue the humane policy which has been adopted by various Fianna Fáil Governments since the establishment of the organisation.</P>
+      <P>I welcome this amendment of the pension scheme, and I hope that Senator Sheehy Skeffington will not feel unduly depressed by the fact that in spite of himself, he will be compelled to help dependents of Oireachtas members, even though all the other people in this country who could be helped and need to be helped and maybe will be helped in due course cannot at the present moment be helped.  You cannot pull down a skyscraper with a little trowel.  You need more than that to do it and money is a very big consideration, as the Senator knows.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Minister for Finance (Mr. Haughey) Charles J. Haughey">
+      <NameTxt>Minister for Finance (Mr. Haughey)</NameTxt>
+      <P>I think the Seanad itself has dealt with <Col N="1378" /> this motion and the amendment very fully and I think the more responsible members of the Seanad have dealt with the amendment more adequately than I could but there are a couple of points I want to make about this whole situation.</P>
+      <P>First of all, I cannot understand how any alleged humanitarian, for what seem to be purely tactical purposes, would deprive necessitous widows and children of benefits which we are trying to give them through this motion. You can argue with all the clever wordy logic at your disposal but you cannot deny that what is involved in the amendment is simply to delay giving a number of widows and children benefits which the rest of us are anxious they should have as soon as possible.  I fully agree with Senator Murphy that what perhaps we should have been doing was making these benefits payable from the date of death rather than from 1st April, 1968, as is proposed, but, however, we cannot do everything.  I do not think the amendment could stand up if there were no other considerations involved, but I would have thought it fairly well-known by now that some considerable time ago I directed that the question of pensions for widows and orphans of State servants should be taken up by the conciliation and arbitration machinery and an effort made to devise an acceptable scheme.  That work has actually been in progress for some considerable time.  I would have thought Senator Sheehy Skeffington was so concerned with this question that he might have known that and he would not have been forced to the disreputable tactic of introducing this tawdry amendment.  I am hopeful that the conciliation and arbitration machinery will be able to come up with an acceptable scheme of pensions for widows and orphans of State servants.</P>
+    </Speaker>
+    <P>I have accepted in principle that such a scheme should be introduced and will be introduced.  The only thing remaining now is to settle the terms of it.  I have a feeling Senator Murphy was probably aware of this from his own experiences as a trade union official but was honourable enough not to refer to it because he possibly felt it was not <Col N="1379" /> to be disclosed as yet, so for that reason alone this amendment is quite silly and irrelevant.  It is true that this State, by and large, is supporting a pension scheme but I think this particular generation of parliamentarians, those who are in the Dáil and those in the Seanad now, and have been for the last few years, are carrying the brunt of the neglect of our predecessors.  We have to contribute to the scheme a great deal more than would normally be required because for many years our predecessors did not have any such scheme and the fund now is carrying a load inherited from the past.</P>
+    <P>The scheme does not provide for refund of contributions to a Member who retires without qualifying for a pension.  It could not at present.  The fund is still young.  It is in a very weak condition and to attempt to provide that where a Member retires, without qualifying for a pension, he would get a refund of his contributions would weaken it still further.  In order to bring in this very necessary proposal I am bringing in now we have to top up the fund very slightly from the Exchequer. I do not know what the situation will be in the future.</P>
+    <P>This is a very difficult sort of fund to bring in because of the nature of membership of the Oireachtas.  A Dáil or Seanad which lasts for a long time can change the situation radically.  On the other hand, a series of general elections could change it equally radically in the other direction, so we can only at this stage introduce those amendments, make sure the fund has sufficient funds to pay them and then see what happens in future years.</P>
+    <P>It is entirely a question for Members of the Oireachtas themselves, whether they would take the view of Senator Ó Maoláin and say that the employer being of the State should pay half or whether they would go the other way with Senator Quinlan and say that this should become a fully self-supporting scheme.  This is a decision we do not have to take at the moment for the simple reason that we cannot take it but it is something on which I would not have any dogmatic views when this comes.  Senator Quinlan <Col N="1380" /> raised the point about the length of time.  You must have some length of time, you must have some limitation, you must have some qualification.  I think it is reasonable to suggest that the finances of a Member, who has been here for a considerable time, eight years, 10 years or 12 years, will be that more seriously disrupted.  A man who is in here for only one year or two years presumably would not suffer so greatly in regard to his job, his business or his farm but if a man or woman serves here for a period of eight or 10 years, then I think it is almost inevitable that either his job prospects or his financial situation must deteriorate all the more the longer he is in here.  That is why the qualifying period of eight years has been inserted in this though, indeed, it is possibly true that there will be cases of hardship.</P>
+    <P>I am aware of cases of difficulty already&mdash;Members who have been in this House for seven years and 300 days and that sort of thing who will not qualify even with those amending provisions.  In all those matters a line has to be drawn somewhere and it seems to me that eight years is a reasonable qualification.  Different Members and different Parties have pressed me to reduce the period but at this stage I do not feel I could do so.</P>
+    <P>Finally, I want to say in all those matters, as Senator Ó Maoláin has said, in this House at any rate we try to be as humane and as progressive as our circumstances will permit.  I do not think we can reach for the moon over night but if our resources and our circumstances permit we will continue to improve all those matters.  I hope I will not be misunderstood when I say I have a soft spot for widows because I was reared and educated by a widow.</P>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I think I would be in order in replying on the amendment.</P>
+    </Speaker>
+    <Speaker pid="DenisOSullivan" hpid="Acting Chairman (Mr. D.J. O'Sullivan) Acting Chairman (Mr. D.J. O'Sullivan)">
+      <NameTxt>Acting Chairman (Mr. D.J. O'Sullivan)</NameTxt>
+      <P>No.  You may ask a question.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Could I have a ruling on that?  I proposed an amendment.  I understood, under the <Col N="1381" /> rules of procedure, the mover of an amendment has the right to reply.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>The Minister has concluded.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I would claim on a point of order that the Minister has made a reply to my proposal and the debate but that the reply of the proposer comes after what the Minister has said.  This is what applies to motions and I suggest it would apply to an amendment.  The Minister has replied to the amendment and I should now have the right to wind up on the amendment.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>No, Senator, the Minister has concluded.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I suggest, with respect, that it would not really be possible for me to speak finally on the amendment before the Minister said what he has to say.  Therefore, with respect, I would be in order in winding up on the amendment.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>No, the rules would not permit it.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>May I ask a question?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Yes, you may.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>What proportion of the £12,000 subsidy now being paid will be due to the reduction on the qualifying period from ten years to eight years?  The Minister told us that the question of widows' pensions has been &ldquo;for some considerable time under review&rdquo;.  Could he give us any idea how long?</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>Not under review. Under active examination in the preparation of the scheme.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I accept the amendment though I do not think it makes much difference to widows.  I should like to ask the Minister when, after active consideration, does he intend to take action?</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>The reply to the first part of the question about the proportion <Col N="1382" /> of this money which is attributable to the reduction from 10 years to eight years is very difficult.  It would be, I think, impossible to say with any degree of accuracy but I believe it has been very slight.  A part of the £12,000 will be required to meet the widows' and orphans' obligations. The position about the pensions for widows and orphans of State servants is as I said some time ago&mdash;I do not know whether I used the word &ldquo;considerable&rdquo;; if I did I would modify it to &ldquo;some time ago&rdquo;&mdash;that this matter was taken up in connection with conciliation and arbitration machinery. It is not a question of it being under review.  It is a question of work going on, a drawing up of an acceptable scheme by the people concerned. As soon as that scheme can be hammered out, there will be no delay on my part in introducing it.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I thank the Minister for that reply, from which I feel most encouraged.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>Could the Minister give favourable consideration to my suggestion of having no period attached to widows?  In other words, from the moment a widow comes in, she is covered, even though the Member is not entitled?</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>That would give rise to an absurd situation where the widow would be entitled to a pension and where her husband would not, if he were still alive.  In that connection, the same consideration would accrue to the widow as to the Member.  Again, we have a qualifying period of eight years, and so on.  In that time his circumstances would have changed by being a Member of this House and devoting his time to public service.  Presumably his affairs, in so far as they would affect his widow's circumstances, would be the same.  He would leave her much worse off the longer he was in here and it is reasonable to say that the first thing that must happen is that the husband must qualify, and if he qualifies at all&mdash;and this is a significant thing we are providing in the scheme&mdash;his widow qualifies.</P>
+    </Speaker>
+    <Col N="1383" />
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>It is not operating in the United States that widows' pensions come up and are not linked.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>This is an argumentative question.  Is amendment No. 2 withdrawn?</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I should like to press it.</P>
+      <P>Amendment put and declared lost.</P>
+      <P>Motion put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Continental Shelf Bill, 1967:" RHead="Committee Stage">
+    <Title>Continental Shelf Bill, 1967: Committee Stage.</Title>
+    <P>Section 1 agreed to.</P>
+    <P Just="Center">SECTION 2.</P>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>It is suggested that amendments Nos. 1 and 2 be taken together.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I move amendment No. 1:</P>
+      <P>In subsection (1), line 16, to delete &ldquo;are&rdquo;.</P>
+    </Speaker>
+    <P>The section suggests that rights of the State outside territorial waters are required to be vested in the Minister and that they will be exercisable by the Minister.  As I understand the position, and I am open to correction on this, under the Constitution, all natural resources, including the air and all forms of potential territory, belong to the State.  That is Article 10 of the Constitution. If they belong to the State, it seems to me that the State can vest them in different Ministers, and so on, or in State bodies like the Commissioners of Public Works.  In this Bill what we are doing is saying, as I understand it, that certain rights which might be outside the normal territorial limits of the State are one thing and at the same time, that the State owns those, but if so, why is it then necessary to vest them in the Minister?  If the rights belong to the State, the right to explore the sea bed belongs to the State.  Then, it does not seem to me to be necessary to vest them in the Minister because the State as we know, under the decision of the Minister for Industry and Commerce which related to mines and minerals compensation in the county of Clare during the war <Col N="1384" /> years, is a juristic entity capable of acquiring rights, and if rights are already vested in this juristic entity, it seems to me superfluous to vest these rights in the Minister when they are already vested in the State.</P>
+    <P>It is necessary that the Minister shall exercise rights on behalf of the State as the Minister is the responsible State authority to exercise rights on behalf of the people, but I cannot see why it is necessary that the rights which are already vested in the State, in this juristic entity, should be vested in the Minister.  It seems to me to be superfluous action on the part of the Oireachtas.</P>
+    <Speaker pid="GeorgeColley" hpid="Minister for Industry and Commerce (Mr. Colley) George Colley">
+      <NameTxt>Minister for Industry and Commerce (Mr. Colley)</NameTxt>
+      <P>I am not too sure whether there is any importance in the point made by Senator O'Quigley or whether it is a technical, legal point. As I understand it, the rights in international law to explore and exploit the natural resources of the continental shelf accrue to this country as the State&mdash;one might say, accrue to the State.  The provision in this section is designed merely to make it quite clear how these rights are to be exercised. It may be that it could be argued, or should be provided, that these rights shall be exercisable by the Minister for Industry and Commerce but, in practice, I do not think it makes any real difference.  Under the Petroleum and Other Minerals Act, 1960, petroleum vested in the State originally is vested in the Minister, that is, the rights to petroleum.  We are following this practice, but, as I say, I do not think there is any important fundamental point involved here.</P>
+      <P>I can see the argument Senator O'Quigley is making.  What is provided here is, in fact, what is necessary in order to exercise these rights.  It has some precedent and in the absence of any compelling reason to do so, I am not disposed to change it.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It is, of course, I suppose a matter of technical drafting as to whether we should leave this in the Bill or exclude it, but what the Minister said provides me with very good reason and relieves me of no part of my fears for this being applied <Col N="1385" /> to exclude this particular provision, because one will come along to another type of right which may be vested in the State&mdash;for instance, in the drainage schemes going on at the moment for lands which are under lake water, where the levels are being lowered, and one begins to wonder to whom does the new land between the former high water mark and the new high water mark belong.  You run into certain problems in determining does that belong to the owner or to the State, and if it belongs to the State people will then ask: &ldquo;Does it belong to a particular Minister, does it belong to the Land Commission under the various reservations that are made in the vesting of lands for tenants?&rdquo; One sometimes fails in legislation of this kind to follow what is, in fact, the constitutional position, and one finds that when the courts begin to consider Acts of the Oireachtas as to who owns what in a particular case, there is this mistaken interpretation enshrined in a particular Act the Minister refers to, the Petroleum and Minerals Act, which is continued from year to year, and then the courts are driven into the position of not knowing what the situation really is because there are conflicting applications or interpretations by the Oireachtas of the constitutional position of the State in relation to land.</P>
+    </Speaker>
+    <P>It is for that reason &mdash; it may not be of any importance whatever in relation to the actual operation of this particular Bill and would not affect it one way or the other &mdash; that it is important from the point of view of keeping the road of authority and where rights lie and keeping that in line the whole way from the Constitution upwards.  It is not an amendment which I intend to press, but I would prefer if it were done in another way because, as I say, it would not make any difference once it is clear by whom rights will be exercised over the natural resources it is hoped to exploit.  Here they are going to be exercised by the Minister. I suppose it is a matter of semantics as to whether one accepts this amendment or not, but I can see difficulty arising later on and I would wish that consideration should be given to the matter in the light of the constitutional position if similar legislation is being <Col N="1386" /> drafted by the Minister's Department in future.</P>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>It seems to me from what Senator O'Quigley has said that he has more or less strengthened the case for retaining the section as it is. It does refer to the rights of the State and, therefore, sets out the position in that phrase, that the rights belong to the State, and then goes on to provide that those rights of the State are vested in the Minister and exercisable by the Minister.  It seems to me that it is fairly clear that the Oireachtas is saying that the rights of the State in this regard should be vested in and exercisable by the Minister and this should exclude the possibility of confusion in the event of this statute being interpreted by the courts.  The case that Senator O'Quigley is making about avoiding confusion is a pretty good case for the section as drafted. If Senator O'Quigley's amendment were accepted it would be necessary then to spell out specifically that the rights of the State in this matter shall be exercisable by the Minister.  I think that what we are trying to achieve and do achieve is that there is no possible confusion being caused by the wording of the section as it stands.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 2 not moved.</P>
+      <P>Question proposed: &ldquo;That section 2 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I take it that when these rights are to be exercised by the Minister, the Minister may then delegate them and transfer or assign them to any exploration company.  Is that the intention?</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>Yes, in the form of transferring the licences and leases as is done on the land.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 3.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I move amendment No. 3:</P>
+    </Speaker>
+    <P>In subsection (2), page 3, to add a <Col N="1387" /> new paragraph to the subsection as follows:&mdash;</P>
+    <P>&ldquo;()  In this subsection &lsquo;installation' includes part of an installation.&rdquo;</P>
+    <P>Section 3 is designed to apply the laws of the State to what is, in fact, outside the territory of the State.  As I understand it, there may be rigs or things of that kind used in the exploration of the sea-bed erected.  What we are trying to do is to provide for the case that if a crime is committed on the rig, somebody is murdered, or that kind of thing, it will then be clear that that crime was committed within the jurisdiction of the State and that the State has jurisdiction over the offender.  We are also saying that in relation to the tort of negligence or in relation to the Social Welfare Acts the law of the State in relation to negligence will apply to any act committed on the rig.</P>
+    <P>Here is where the difficulty arises, if one has the experience they had in the case of gas exploration somewhere in the North Sea where the rig was demolished or partially demolished by storm or by water, and when it comes to lawyers framing a cause of action against somebody for negligence if it so happens that the installation is partially demolished and that the part is dismantled or being retrieved by a worker of the prospecting company, and through negligence on the part of the employer the worker is injured on the partially dismantled installation, I think that subsection (2) does not fit that particular kind of case.  Subsection (2) refers to installations, but it does not apply to part of an installation, and I think it is necessary to insert, therefore, that for the purpose of that subsection &ldquo;installation&rdquo; includes part of an installation.</P>
+    <P>You find in the erection of an installation, which I take it to be a rig for the boring and so on&mdash;I am only acting upon a layman's knowledge of these things&mdash;it seems to me that if you were erecting a rig which is only partially erected and some man got his arm knocked off through the negligence of the employers, it could well be contended that we ought to make it clear and beyond any doubt that it is a <Col N="1388" /> partial installation and that the negligent act had been committed on it and, therefore, the Civil Liability Act, 1961, should apply to that particular case. Subsection (2) it seems to me should make that clear beyond doubt.</P>
+    <P>I should say to the Minister also that a similar amendment would be required in relation to subsection (1), which deals with offences, but I am not greatly concerned, to tell the truth, about tracking down offenders.  That is a job for the State authorities and I spend my time more in defending them, but it is right to point out to the Minister that it could be a splendid defence on an application for a direction to a judge to say that the particular crime was committed on part of an installation and that, therefore, it was not captured by subsection (1).  I do think, and I would like to hear the Minister on this, that amendment No. 3 is necessary to make it clear beyond all doubt that if a tort is committed on a partially erected installation or a partially demolished installation the law of the State applies equally in those cases, in particular the Civil Liability Act, 1961.</P>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I took it when I saw the amendment that what Senator O'Quigley had in mind was an incomplete installation or one rent in two by bad weather.  He has mentioned both possibilities.  I am advised, if this is what he has in mind, that there is no necessity for an amendment&mdash;that &ldquo;installation&rdquo; includes any incomplete installation or an installation rent in two.  If that is so, it is not necessary to have this amendment.  Furthermore, as the Senator has pointed out, if this amendment were to be accepted it would be necessary also to make similar amendments in at least one and possibly other sections.  I am advised it is not necessary and that the word &ldquo;installation&rdquo; includes both an incomplete installation and one that has been rent in two.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Ministers have always great sources of advice available to them that ordinary mortals have not.  We frequently find in the courts that what the Parliamentary draftsman <Col N="1389" /> or the Minister's advisers have said is the position turns out not to be so.  It would be interesting to know what Senator Eoin Ryan would have to say as one skilled and experienced in defending in the laws of tort.  This is the kind of case at which the Minister should have another look and consider defining &ldquo;installation&rdquo; in section 1 to include an installation partially built or partially demolished. I am not the slightest bit happy about the position at the moment.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>The Senator's request, on the face of it, is not unreasonable but he will be familiar with the danger that by defining something one may introduce limitations which were not originally intended.  The advice available to me is that the word &ldquo;installation&rdquo; covers everything the Senator wants covered.  I cannot guarantee, as the Senator has pointed out, that this will be so interpreted in the courts. Neither can I guarantee that if the Senator's amendment were accepted it would not raise some other hares which we cannot visualise at the moment.  The Senator will agree from his own experience that it happens, sometimes at least, that by defining something in the way he suggests, one can exclude certain other possibilities which would otherwise apply to the word.  In other words, by the process of being specific one excludes the general connotations. I am not saying that it would apply in this case.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>The word &ldquo;installation&rdquo; has a wider meaning than the Minister made it out to have.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I should hope that would be so but I could not guarantee that either.  It is a question of Senator O'Quigley's fears in this matter as against the advice I have received and though I should like to set his fears at rest if it could be done, I do not think it is necessary.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I withdraw the amendment and will put it down for Report Stage.  I should love to see the Minister's advice.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question proposed: &ldquo;That section 3 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Col N="1390" />
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I should like to know what is meant by subsection (3) which states:</P>
+      <P>Any jurisdiction conferred on any court under this section shall be without prejudice to any jurisdiction exercisable apart from this section by that or any other court.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>An example of this would be the admiralty jurisdiction of the High Court.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I can see that but this refers to &ldquo;any jurisdiction conferred on any court under this section shall be without prejudice to any jurisdiction exercisable apart from this section by that or any other court.&rdquo; I do not know what the whole section is meant to convey.  I can see that admiralty jurisdiction is bound to apply&mdash;that what we are trying to do is to confer jurisdiction in a criminal court.  What, say, will be the situation in a case of a rig seven miles off the west coast?  If a summary offence is committed which court will try it? Will it be the district court in Mayo or in Galway, or where?  How is that to be determined?</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I do not undertake at this stage to give a specific answer as to which court will try which offence but the meaning of the subsection should be fairly clear.  The meaning I take from it is that we are conferring a new jurisdiction on the courts by virtue of this Bill&mdash;a jurisdiction outside our territorial waters&mdash;and we are saying that that jurisdiction shall be exercisable in addition to any other jurisdiction which might at present exist in the courts and not a derogation of that.  For example, the admiralty jurisdiction in the High Court can relate to matters outside territorial waters.  I think the subsection is reasonably clear.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 4 agreed to.</P>
+      <P Just="Center">SECTION 5.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>I move amendment No. 4:</P>
+    </Speaker>
+    <P>In subsection (5), page 4, line 12, before &ldquo;The person&rdquo; to insert <Col N="1391" />&ldquo;Subject to a right of appeal to the High Court&rdquo;.</P>
+    <P>This amendment is designed to give a right of appeal in regard to costs.  I noted that subsection 5 of this section states:</P>
+    <P>(5) The person holding an inquiry under this section may, if he so thinks proper, order the costs and expenses incurred by any person in relation to the inquiry to be paid by any other person who appeared or was represented at the inquiry and, if the person who incurred, or the person who is liable to pay, the costs so requires, the costs and expenses shall be taxed and ascertained by a taxing-master of the High Court and the amount of such costs and expenses when so taxed and ascertained shall be recoverable as a simple contract debt in any court of competent jurisdiction.</P>
+    <P>Then there is provision for the taxing of costs.  This does not make any provision for any appeal and in view of the fact that the person who is holding the inquiry may not be a judicial person, some appeal should be provided for because the burden of costs under this Bill could be extremely heavy and the imposition of them on one party by a person not necessarily a judge, and there being no right of appeal at all, would seem to me to be an improper procedure or an unsuitable situation for us to create.  Even if we had not put down the amendment, I am wondering if there would not be some right of appeal in natural justice or some constitutional right to an appeal. We should make provision for an appeal under this subsection.</P>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>The provision in this subsection is designed to enable the person who hears the evidence to decide whether one of the parties should pay all or portion of the costs. If there was to be a right of appeal against that it would mean in many cases, if not in all, that it would be impossible for the court hearing the appeal to decide whether the costs were justly awarded against one of the parties without hearing the substance <Col N="1392" /> of the appeal and the evidence given previously which, in effect, would mean that having a right of appeal against the costs order would mean having a right of appeal against the whole substance of the finding.  This is not something, in the particular circumstances of this case, which is either necessary or desirable.  As I mentioned on Second Stage, this provision is the same as the corresponding provision in section 18 of the Foreshore Act, 1933.  It is merely extending the existing jurisdiction under the Foreshore Act to the continental area.  It does not seem to me necessary or desirable that we should provide in this section for an appeal which would, in effect, have to be a re-hearing of the whole inquiry.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>The Minister is right in saying that in many cases, in order to determine whether a particular party should bear costs, you have to find out who was right and who was not right in the original action.  Costs follow the event in the normal course of events.  If somebody is found to have instituted proceedings without reasonable cause, then they are liable for the costs of the other side.  The real trouble is that Senator FitzGerald is beset by the fear that this is going to be an inquiry held by a person of unknown qualifications. We do not know what the nature of the inquiry is going to be but we do know that the person holding it is going to have power to summon witnesses, to administer the oath, to call for the production of documents and follow the same procedure as that of the High Court.  It is important to know the status of the person who is going to decide that a particular party is entitled to get such and such a thing done by the Minister for Transport and Power. It is desirable to know the status of the person who is going to direct that some other person is liable to pay costs. Until we have some clarification of the form the inquiry is going to take the necessity for some right of appeal should be insisted upon.</P>
+    </Speaker>
+    <P>This kind of subsection in the Bill indicates what I have already said in this House on several occasions, and what I will continue to say, and that is the necessity of establishing some kind of system of administrative <Col N="1393" /> tribunals along the lines of the French administrative tribunals that could be called on for the holding of inquiries of this kind, bodies that will not be judicial tribunals but that will have the fine impartiality and independence that the French administrative tribunal system provides.  Here we are, back again in the situation in which we were with the Livestock Act, where we are going to have an inquiry but we will not know the degree of independence or the experience of the person holding it.  Until we have more detail in the section about the persons who are going to hold these inquiries some right of appeal ought to be provided. The amendment is desirable to that extent.</P>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>The holding of an inquiry in this matter would result eventually in the Minister for Transport and Power having to make a decision as to whether he should grant or refuse the consent sought under the section.  I think it would be undesirable that one of the parties could, by appealing against a costs order, secure a court re-hearing of the case, possibly after the Minister had given his decision.  Senator O'Quigley admits, in effect, that the effect of the amendment would be to provide an appeal which would be a re-hearing of the inquiry.  I do not think there is any compelling case as to why there should be such a re-hearing and I do not think there is any evidence that where inquiries of this nature have been held they have resulted in giving any undue cause for complaint, certainly nothing that would justify the specific insertion here of a right of appeal in a matter which could be of considerable technical complexity.  It would not be of advantage to the Bill to accept the amendment.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question proposed: &ldquo;That section 5 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I notice that the Minister has a very fine regard in this section for the person of the Minister for Industry and Commerce because he says in it that where a person erects <Col N="1394" /> one of these structures and does not remove it when requested to do so by the Minister &ldquo;the Minister may himself remove the structure&rdquo;.  That is rather unusual phraseology because the Minister would have to be a very powerful man to be able to do this. I had hoped that in replying to the amendment the Minister would have dealt with the question of who would be the person to hold such an inquiry, whether he would be an assistant principal or principal officer of the Department, or an inspector of wrecks or what would be his status.  It does not look as if these are to be ordinary informal inquiries because the person holding them is going to be in a quasijudicial, in fact, in a judicial capacity.</P>
+      <P>I dislike the idea that an inquiry which ought to be impartial and independent is to be conducted by someone who is an officer of the Minister. While civil servants are upright and honourable people, it is unfair to put them in the position of having to conduct an inquiry while they continue to be officers of the Minister.  I remember well the experience of an Appeals Officer in the Department of Social Welfare.  The officer conducting the appeal, instead of acting as the Supreme Court afterwards said he ought to have acted&mdash;hearing the evidence of one side and hearing the evidence of the other side &mdash; himself went round collecting evidence and then at some stage of the proceedings produced a letter from the Minister for Finance saying XY was a civil servant in the service of the Government and then said: &ldquo;I am bound by the letter of the Minister for Finance to hold that you are.&rdquo; In fact, the High Court or the Supreme Court held that the man was not a civil servant in the service of the Government and the Supreme Court quite explicitly condemned the approach adopted by this particular person in holding an inquiry.  Persons who are officers of the Department cannot for six hours in one day, when they are holding an inquiry, be absolutely independent of the Minister and then on the next day be officials of his, subject to his direction.</P>
+    </Speaker>
+    <P>The whole principle is wrong and I <Col N="1395" /> hope that the Minister agrees with me that this is a bad principle and that we ought to construct some kind of system whereby those inquiries will be held by people who have expert knowledge in these kind of things, perhaps advised by an assessor of the Minister's Department, which is a different thing. As it stands in this section the person holding the inquiry could be just an officer of the Minister and subject to his direction.  That kind of system does not give the degree of impartiality that one would expect or create the circumstances and climate in which justice can be seen to be done.  Some people may think that is not important.  I always think that any inroad upon our traditional system of impartiality in the administration of justice as between man and man and the citizen and the State is to be deplored and every little section like this in a Bill is another erosion of the fine concept of justice that we have inherited here in this country and that, to a large extent, we have practised over the years.</P>
+    <P>I would be glad if the Minister would indicate what his views are.  Of course, he cannot because it is the Minister for Transport and Power who is going to appoint a particular person to hold an inquiry but I wonder if he has any views or has had any contact with the Minister for Transport and Power as to what his views are on this matter and if they can between them give some kind of assurance as to the nature of the person to hold this particular inquiry, the office that he will occupy.</P>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>Senator O'Quigley's reference to this section as being another erosion of the justice to which we were accustomed is not, I think, true.  First of all, I do not think it is an erosion at all but even if it were I do not think it is another one because this is exactly the same provision as appears in the Foreshore Act, 1943.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. Garret FitzGerald Mr. Garret FitzGerald">
+      <NameTxt>Mr. Garret FitzGerald</NameTxt>
+      <P>The foreshore is being eroded, obviously.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>In certain areas this is true.  I am in some difficulty here because, in fact, no inquiries have been <Col N="1396" /> held under the Foreshore Act for many years and, therefore, I am not in a position to say with certainty the nature of the person holding the inquiries.  I would assume that such people would almost certainly be people with technical knowledge of the problems that might be involved&mdash; navigational, radio or whatever might be involved in the particular structure and the appeal against its removal&mdash; but, in fact, the procedure following that of the Foreshore Act would be that inquiries would be held only if, following advertising of the application, serious objections were received which could not be resolved by consultation. It would only be in those circumstances that an inquiry would be held.  If such an inquiry were to be held I am not in a position to say who would conduct it because, first of all, there have not been any inquiries under a similar provision of the Foreshore Act for many years and, secondly, the type of person conducting the inquiry would depend to a large extent, I would think, on the circumstances of the particular occasion and the particular technical knowledge required.  However, I would repeat what I said on the amendment that I am not aware of any evidence to the effect that the holding of public inquiries in this country under various statutes has led to abuses of the kind apparently feared by Senator O'Quigley.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Of course, what is important in these cases&mdash;and it is exactly what I was saying in relation to section 2, subsection (1) earlier&mdash;is that the Oireachtas year after year enact legislation of this kind and create an atmosphere and climate in which this is the way in which the Oireachtas ordains that justice is to be dispensed and disputes resolved between the Minister and the citizens.  All I can say is I do not like it and I do not believe I ever will.  I think a better system ought to be devised and is necessary to be devised in modern circumstances.</P>
+      <P>Another matter on this section that causes me some alarm is subsection (9) which provides that:</P>
+    </Speaker>
+    <P>A person who contravenes subsection (1) of this section or fails to <Col N="1397" /> comply with a condition subject to which a consent of the Minister for Transport and Power has been given under this section shall be guilty of an offence and shall be liable&mdash;</P>
+    <P>(a)  on summary conviction to a fine not exceeding one hundred pounds, and</P>
+    <P>(b)  on conviction on indictment to a fine of such amount as the court may consider appropriate.</P>
+    <P>I very much doubt if in modern times we have enacted legislation that leaves at large the maximum fine in a case of this kind or for the commission of any offence.  I do not know of any other precedent but this is probably the first stone in the erection of this precedent that is being made in this section.  &ldquo;On conviction on indictment to a fine of such amount as the court may consider appropriate&rdquo;.  I have every respect for the discretion of the courts but I do think that if the Oireachtas decides that a particular thing is going to be an offence it is the duty of the Oireachtas then to measure the maximum penalty which it considers appropriate for what it is going to constitute an offence.  There are all classes of cases in which conditions attached to licences may be broken or not fulfilled by the person to whom the licence is granted, but in all of these cases to my knowledge the Oireachtas, having constituted the offence, constitutes the appropriate maximum penalty which can be always scaled down by the court having regard to extenuating circumstances if the offence is proved to have been committed.  I certainly do not like this particular subsection and I do not know if there is any precedent in modern times for so great a latitude in the imposition of punishment to be found in any legislation.</P>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I cannot say whether there is any precedent in our recent statute law for this particular provision. There may be, but I am not aware of it, but I can say that the range of offences that we are trying to deal with here is probably also without precedent in other statutes.  We could be dealing with something relatively simple or we could be dealing with <Col N="1398" /> something which could constitute a very grave hazard to the lives of very many people and a very grave hazard to property worth many millions of pounds.  The possible offences under this section can range within these limits, if one can describe them as limits.  This being so, it might be quite unreal for us to lay down a particular maximum penalty here having regard not only to the possible gravity of the offence but also to the wealth of possible offenders whereby what would be a very grave deterrent to the average, ordinary person or company might be trifling in the case of some of the people who could be concerned in this kind of offence.  It is for this reason that I think the refusal of the Oireachtas to lay down a maximum penalty for a serious offence under this section is justifiable.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>The Minister is not at all convincing to me because if we are dealing with people, companies, explorers who have made great wealth and are liable to cause through their negligence or the manner in which they carry out the removal or installation of equipment or structures great perils for other users of the sea or cause great risk to life, limb or property, then the appropriate way to deal with that situation is to make sure before the offence is committed that there will be something available to answer at least a substantial proportion of the possible damage that may be caused at a particular place.  You cannot forecast the extent to which damage may be done. A ship with 1,000 passengers aboard is sunk or comes into collision with a rig in the sea because it is not properly lighted or something of that kind. There is no amount of money any particular company can provide which will be sufficient, and in that kind of case it would be absurd to say that a court will be asked to fix a fine in relation to the destruction done through the negligent act or the offence committed. You might as well say that the master of a ship who is negligent in the piloting of the vessel should be liable to a fine on indictment or a term of imprisonment such as the court might determine.  We do not do that kind of <Col N="1399" /> thing.  We set down and we constitute an offence, and then make the best assessment we can of the punishment we ought to mete out for that offence, and that is the end of it.</P>
+      <P>Again, you might say, having regard to the range of offences and depredations under the Road Traffic Act, that the court may impose any fines it regarded as proper.  If a father of 17 children is killed in a road accident do we say that the court will impose a fine of such amount as it considers appropriate? If we want to make provision for compensation and if we really want to get at the people who are wealthy, we should insert in this Bill, which would be the proper way of doing this, a provision whereby a consent is given that the person would enter into a bond for £10,000, £20,000 or £50,000, depending on the nature of the operation, with the Minister for Transport and Power, and in the event then of failure to comply with the conditions of the consent, the bond should be forfeited or the Minister could go against the bond for such amount of damages as is appropriate.  That seems to be the effective way not alone of getting compensation but of securing compliance with the conditions upon which consent is given.  This is the way to prevent damage being done and to have money there that would be forfeit in the event of the person not complying with the conditions.</P>
+      <P>When you say the way to get around the difficulty is to give this kind of discretion to the courts, it is quite inappropriate, quite useless and, to my mind, dangerous.  I do not like this particular thing at all.  The Minister might reconsider the suggestion I make to provide a really effective remedy against persons who do not comply with conditions by providing that they enter into a bond before being granted consent by the Minister and that that bond be available in the event of the offence being committed either on terms to be laid down in the consent or that so much of the bond would be made forfeit if the court, hearing the charge either on summary conviction or indictment, determined that that was appropriate.</P>
+    </Speaker>
+    <Col N="1400" />
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I do not agree with Senator O'Quigley.  We are not dealing with compensation; we are dealing with what is in effect a criminal offence.  The giving of a bond against liability for a criminal offence, particularly in the circumstances I outlined earlier where you could be dealing with very large wealthy companies who might be committing very grave offences with serious consequences to life, limb and property, does not seem to me the appropriate way to do it.  It seems to me, having regard to these circumstances, that the practical and sensible way to deal with it is to trust our courts to exercise their discretion in this matter.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I am delighted to hear the approval from the other side, though it is a very muted approval, that we trust our courts.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>We are doing it all the time.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Mind you, we will have something to say about that on the Fourth Amendment of the Constitution Bill where the courts are not over-trusted because they interpreted the Constitution as the people enacted it.  They merely said what the people enacted.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>Do you distrust the court as a result?</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Who distrusts what court?</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Acting Chairman (Mr. Cole) Acting Chairman (Mr. Cole)">
+      <NameTxt>Acting Chairman (Mr. Cole)</NameTxt>
+      <P>Perhaps this is outside the section.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>We will come to that at the opportune time.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>There will be an opportunity.  Perhaps we could get back to section 5.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Senator is stringing it out.  You will have plenty of opportunity.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I do not at all agree with the reasoning of the Minister.  I do not want to have the Minister try to put me in the position that I do not trust the courts, but how often do we <Col N="1401" /> hear the courts say&mdash;indeed we had it on the Criminal Procedure Act of 1967 the other day to which I put down a number of amendments which were not accepted by this House or the Minister for Justice&mdash;that they found it quite impossible to construe the legislation as enacted.  I tried to clear up some of the difficulties on that occasion and I am trying to do it now, but I know that in cases of this kind the courts will look to the Oireachtas for some guidance and they are not getting it.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 6.</P>
+      <P>Question proposed: &ldquo;That section 6 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>This is a section where it is an offence for the master of a ship to enter into an area which will be a designated area.  It seems to me that he will be guilty of an offence which, on indictment, can lead to imprisonment.  I should like to know in what way?  Will the Minister make regulations indicating the limits of a designated area?  How will masters of ships be made aware of the limitation of a designated area or particular designated areas?  It does not emerge from the Bill how that is to be done. It seems that if we are going, and rightly so, to make masters of ships guilty of an offence we should make it quite clear, or there should be provision in the Bill to make it quite clear, that the designated areas will be clearly identifiable by masters of ships.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I would refer the Senator to subsection (2) which says:</P>
+      <P>If a ship enters part of a designated area in contravention of an order under this section, its owner and master shall be guilty of an offence unless it is proved that the prohibition imposed by the order was not and would not on reasonable inquiry have become known to the master.</P>
+    </Speaker>
+    <P>so there is protection for people who would be in the position where they could not have known that there was such an order.  In fact, the procedure in regard to matters such as this is <Col N="1402" /> that orders are published at the time of making them and shipping is kept informed of prohibited zones by way of notices to mariners.  It is a special procedure and ships' masters are familiar with it.</P>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>We are learning every day.  I am obliged to the Minister.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 7.</P>
+      <P>Question proposed: &ldquo;That section 7 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="DermotHonan" hpid="Mr. Honan Mr. Honan">
+      <NameTxt>Mr. Honan</NameTxt>
+      <P>I see in subsection (1) (b) the phrase &ldquo;otherwise than from a ship&rdquo;.  It would seem that to discharge oil from a pipeline or other installation would be an offence, but if the discharge were from a ship, it would not be an offence.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>The discharge of oil from ships is already covered by the Oil Pollution of the Sea Act, 1956, and the Oil Pollution of the Sea (Amendment) Act, 1965.  That is why it is excluded here.  It is already covered.</P>
+    </Speaker>
+    <Speaker pid="DermotHonan" hpid="Mr. Honan Mr. Honan">
+      <NameTxt>Mr. Honan</NameTxt>
+      <P>I presume this will apply mostly to any prospecting by way of oil rigs.  On practically all ships there are safety precautions for the owners of ships and I presume they do the same thing for oil rigs, that there are various protection devices for themselves.  I often thought of the possible consequences for the west coast of Ireland of a big release of oil there, seeing how dependent it is on tourism.  I think anybody erecting any of these oil rigs off shore should be required to carry on it a substantial quantity of the requisite detergent so that it could be applied on the spot to deal with any oil leak of any considerable dimension until something could be done about it from the shore.  It would be little compensation for damage to some of our best beaches on the west coast to be told: &ldquo;This will be O.K.; we can recover compensation from the oil rig.&rdquo; When this legislation is going through, it might be possible to look at the hope <Col N="1403" /> of bringing in some kind of provision to compel people engaged on this type of development to include in the building of the rig sufficient safeguards to prevent oil discharge.  They should be required to carry on the rig a certain quantity of suitable detergent to prevent a big outspill of oil getting free from the rig.  I do not know what that would require in quantity.  I should imagine, however, that it would be possible to do something along these lines.  It is no benefit in the long run to people dependent on tourism to find beaches destroyed by oil when, by taking certain precautions at the point where the oil is released, something could be done.  Something should be done to see that that kind of situation will be met.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I am not sure about the technical aspects of this, whether it is technically feasible to do what Senator Honan suggests.  I shall make inquiries about it between now and next Stage, and if it seems feasible to include such provision in the Bill, I will certainly consider an amendment to that effect. At this stage I am not certain if it is possible.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Would the Minister say which detergent washes whitest?</P>
+    </Speaker>
+    <Speaker pid="PatrickFirmullaghOReilly" hpid="Mr. P. O'Reilly (Longford) Mr. P. O'Reilly (Longford)">
+      <NameTxt>Mr. P. O'Reilly</NameTxt>
+      <P>
+        <i>(Longford):</i> The one that washes whiter than white. May I say that Senator Honan and the Minister do not seem to be aware that detergent may not be the answer. I take it that Senator Honan and the Minister have in mind the use of detergent in the case of the <i>Torrey Canyon.</i> If you make inquiries, you will find that a detergent, including the ones that wash whiter than white&mdash;and these are the ones to which the Senator has referred&mdash;is intended to be an oil solvent rather than a protection against the release of oil.  As far as I know, the use of detergent has created a bigger problem on the beaches on the south of England than the oil itself in that it upset the balance of nature. It destroyed a certain type of life; it killed birds and caused a situation where you have a froth on the beach <Col N="1404" /> which appeared a worse situation than the one to be prevented, that is, pollution by oil.  As far as I know that was the situation in the south of England.</P>
+    </Speaker>
+    <Speaker pid="DermotHonan" hpid="Mr. Honan Mr. Honan">
+      <NameTxt>Mr. Honan</NameTxt>
+      <P>I used the word &ldquo;detergent&rdquo; in the widest sense.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 8.</P>
+      <P>Question proposed: &ldquo;That section 8 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I merely want to make this suggestion to the Minister. When it comes to enacting or proposing legislation of this kind, it is a bit unfair to members of the Oireachtas to say that we have to find the Submarine Telegraph Bill and the Convention when it could very well have been put into a White Paper to accompany this Bill.  I do not like this legislation by reference, though at times it can be justified.  I think the Minister should give some consideration at any rate to the convenience of Members of the Oireachtas, and indeed to the public, when they have to operate this Bill by putting into the Bill itself, if it is not too long, but certainly into an appendix to a White Paper, abstruse sections like this so that we, when we are asked to enact section 8, will know what we are enacting.</P>
+      <P>It has been adopted already very successfully by the Minister for Justice. Members of the public, and certainly the legal profession, are grateful to the Minister for Justice for incorporating in the explanatory memorandum on the Rent Restrictions Bill, 1967, the sections of the 1960 Rent Restrictions Act as amended by the 1967 Act. Equally, when you have abstruse or old sections like this which are not readily available to Members, they should be given, or at least the substance of them, in an explanatory memorandum to the Bill.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I think that the Senator's request is not unreasonable and I will bear it in mind in regard to any future legislation I am bringing in.  If the Senator wishes, I will read for him the relevant section.</P>
+    </Speaker>
+    <Col N="1405" />
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>No, I read it myself.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 9 to 12, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 13.</P>
+      <P>Question proposed: &ldquo;That section 13 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I am sure that it was put in for some reason, but I should like the Minister to explain what is meant by saying that &ldquo;a member of the Garda Síochána shall in a designated area have all the powers, protection and privileges which he has in the State.&rdquo;  It is the question of privileges which I do not understand. By all means I want to see the guards being in exactly the same position to deal with offences in the designated areas that they would be elsewhere, but I wonder what they would think if it is said that they have privileges, and the kind of privileges which are being applied to them by subsection 3 of this <Col N="1406" /> section.  It strikes me as being most unusual and very interesting.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I am afraid that I am not in a position to spell out the privileges of the Garda Síochána, but the phrase &ldquo;powers, protection and privileges&rdquo; is designed to carry over into the designated areas the same position and the same conditions as operate at present within the State.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Perhaps the Minister might like to give it some consideration for Report Stage.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 14, 15 and 16, inclusive, agreed to.</P>
+      <P>Title agreed to.</P>
+      <P>Bill reported without amendment.</P>
+      <P>Report Stage ordered for Wednesday 29th May, 1968.</P>
+      <P>The Seanad adjourned at 5.55 p.m. until 3 p.m. on Wednesday 29th May, 1968.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

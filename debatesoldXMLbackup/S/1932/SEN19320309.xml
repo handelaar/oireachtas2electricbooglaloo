@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="9" Month="Mar" Year="1932" Vol="15" No="9" DateIrish="Dé Céadaoin, 9 Márta 1932" DateEnglish="Wednesday, 9 March 1932" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="569">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="569" />
+      <Col N="570" /> Do chuaidh an Cathaoirleach i gceannas ar 3 p.m.</P>
+    <P Just="Center">
+      <b>Proclamations.</b>
+    </P>
+    <P>The Clerk read the Proclamations convening the Oireachtas as follows:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">FURÓGRA Ó SHEAMUS MACNEILL, SEANASCAL SHAORSTAIT EIREANN.</entry>
+            <entry rowsep="1">PROCLAMATION BY JAMES McNEILL, GOVERNOR-GENERAL OF THE IRISH FREE STATE.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>BE BHRI gur dineadh leis an bhfurógra uaim ar an dáta so Oireachtas Shaorstáit Eireann do scur agus Toghachán Generálta i gcóir Dháil Eireann d'fhógairt ach ní i dtreó go ndéanfaí baill Sheanaid Eireann do chur as a Suideacháin ná toghachán i gcóir na mball san do bheith ríachtanach:</entry>
+            <entry>WHEREAS by my proclamation of this date the Oireachtas of the Irish Free State was dissolved and a General Election for Dáil Eireann declared but not so as to vacate the Seats or require an election of members of Seanad Eireann:</entry>
+          </row>
+          <row>
+            <entry>ANOIS AR AN ABHAR SAN do réir agus de bhua na comhachta agus an údaráis atá agam dinimse, an Seanascal roimh-ráite, leis an bhfurógra so in ainm a Shoillse an Rí agus comhairle Ard-Chomhairle Shaorstáit Eireann agam chuige sin Oireachtas Shaorstáit Eireann agus gach Tigh den Oireachtas san do ghairm agus do ghlaoch le chéile chun teacht le chéile i gCathair Bhaile Atha Cliath, Dia Céadaoin, an dara lá de Mhárta, míle naoi gcéad tríochadh dó, ar a trí a chlog um thráthnóna chun pé gnó a leagfar fé bhráid na dTithe fé seach do dhéanamh.</entry>
+            <entry>NOW THEREFORE under and by virtue of the power and authority in me vested I, the Governor-General aforesaid, by this proclamation in the name of His Majesty the King do hereby by and with the advice of the Executive Council of the Irish Free State summon and call together the Oireachtas of the Irish Free State and each House of the said Oireachtas to meet at the City of Dublin on Wednesday the Second day of March, One Thousand Nine Hundred and Thirtytwo, at the hour of three o'clock in the afternoon, for the dispatch of such business as shall be submitted to the respective Houses.</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="571" />Tugtha fém Láimh agus Séaluithe le Mór-Séala Shaorstáit Eireann i mBaile Atha Cliath, an Naomhadh lá ficheadh so d'Eanair, Míle Naoi gCéad Tríochadh Dó.</entry>
+            <entry>
+              <Col N="572" />Given under my hand and Sealed with the Great Seal of Saorstát Eireann at Dublin, this Twentyninth day of January, One Thousand Nine Hundred and Thirtytwo.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">JAMES McNEILL,</P>
+    <P Just="Right">Seanascal Shaorstáit Eireann.</P>
+    <P Just="Right">Governor-General of the Irish Free State.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Tugtha fé Láimh a Oirdhearcais Seanascal Shaorstáit Eireann agus tugtha amach fé Mhór-Shéala Shaorstáit Eireann i mBaile Atha Cliath, an Naomhadh lá ficheadh so d'Eanair, Míle Naoi gCéad Tríochadh Dó.</entry>
+            <entry rowsep="1">Given under the Hand of His Excellency the Governor-General of the Irish Free State and issued under the Great Seal of Saorstát Eireann at Dublin, this Twentyninth day of January, One Thousand Nine Hundred and Thirty-two.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">LIAM T. MACCOSGAIR,</P>
+    <P Just="Center">Uachtarán Ard-Chomhairle Shaorstáit Eireann.</P>
+    <P Just="Center">President of the Executive Council of the Irish Free State.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">FURÓGRA Ó SHEAMAS MacNEILL, SEANASCAL SHAORSTAIT EIREANN.</entry>
+            <entry rowsep="1">PROCLAMATION BY JAMES McNEILL, GOVERNOR-GENERAL OF THE IRISH FREE STATE.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>DE BHRI go ndearnadh, le furógra do rinneas ar an Naomhadh lá ficheadh d'Eanair, Míle Naoi gCéad Tríochadh Do Oireachtas Shaorstáit Eireann do scur agus Toghachán Generálta de bhaill i gcóir Dháil Eireann d'fhógairt, agus go ndearnadh le furógra eile do rinneas ar an dáta céanna an tOireachtas san do ghairm agus do ghlaoch le chéile chun teacht le chéile Dia Céadaoin an Dara lá de Mhárta, Míle Naoi gCéad Tríochadh Dó san áit agus ar an am atá luaidhte sa bhfurógra san:</entry>
+            <entry>WHEREAS by a proclamation made by me on the Twenty-ninth day of January, One Thousand Nine Hundred and Thirty-two the Oireachtas of the Irish Free State was dissolved and a General Election of members for Dáil Eireann was declared, and by another proclamation made by me on the same date the said Oireachtas was summoned and called together to meet on Wednesday, the Second day of March, One Thousand Nine Hundred and Thirty-two, at the place and time therein mentioned:</entry>
+          </row>
+          <row>
+            <entry>AGUS DE BHRI ná beidh an Toghachán Generálta san de bhaill i gcóir Dháil Eireann críochnuithe roimh an Dara lá san de Mhárta, Míle Naoi gCéad Tríochadh Dó, toisc nithe ná raibh coinne leo do thárlachtaint:</entry>
+            <entry>AND WHEREAS owing to unforeseen events the said General Election of members for Dáil Eireann will not be completed before the said Second day of March, One Thousand Nine Hundred and Thirty-two:</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="573" />ANOIS AR AN ABHAR SAN do réir agus de bhua na comhachta agus an údaráis atá agam deinim-se, an Seanascal roimh-ráite, leis an bhfurógra so in ainm a Shoillse an Rí agus comhairle Ard-Chomhairle Shaorstáit Eireann agam chuige sin Oireachtas Shaorstáit Eireann agus gach Tigh den Oireachtas san do ghairm agus do ghlaoch le chéile chun teacht le chéile i gCathair Bhaile Atha Cliath Dia Céadaoin an Naomhadh lá de Mhárta, Míle Naoi gCéad Tríochadh Dó, ar a trí a chlog um thráthnóna, in áit agus in ionad teacht le chéile an lá, an t-am, agus san áit atá luaidhte sa bhfurógra san dar dáta an Naomhadh lá ficheadh, d'Eanair, Míle Naoi gCéad Tríochadh Dó, chun pé gnó a leagfar fé bhráid na dTithe fé seach do dhéanamh.</entry>
+            <entry>
+              <Col N="574" />NOW THEREFORE under and by virtue of the power and authority in me vested I, the Governor-General aforesaid, by this proclamation in the name of His Majesty the King, do hereby by and with the advice of the Executive Council of the Irish Free State summon and call together the Oireachtas of the Irish Free State and each House of the said Oireachtas to meet at the City of Dublin on Wednesday, the Ninth day of March, One Thousand Nine Hundred and Thirtytwo, at the hour of three o'clock in the afternoon in lieu and stead of the day, time, and place mentioned in the said proclamation of the Twenty-ninth day of January, One Thousand Nine Hundred and Thirty-two, for the dispatch of such business as shall be submitted to the respective Houses.</entry>
+          </row>
+          <row>
+            <entry>Tugtha fém láimh agus Séaluithe le Mór-Shéala Shaorstáit Eireann i mBaile Atha Cliath an Naomhadh lá déag so d'Fheabhra, Míle Naoi gCéad Tríochadh Dó.</entry>
+            <entry>Given under my hand and Sealed with the Great Seal of Saorstát Eireann at Dublin this Nineteenth day of February, One Thousand Nine Hundred and Thirty-two.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">JAMES McNEILL,</P>
+    <P Just="Right">Seanascal Shaorstáit Eireann.</P>
+    <P Just="Right">Governor-General of the Irish Free State.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Tugtha fé Láimh a Oidhearcais Seanascal Shaorstáit Eireann agus tugtha amach fé Mhór-Shéala Shaorstáit Eireann i mBaile Atha Cliath, an Naomhadh lá déag so d'Fheabhra, Míle Naoi gCéad Tríochadh Dó.</entry>
+            <entry rowsep="1">Given under the Hand of His Excellency the Governor-General of the Irish Free State and issued under the Great Seal of Saorstát Eireann at Dublin, this Nineteenth day of February, One Thousand Nine Hundred and Thirty-two.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">LIAM T. MacCOSGAIR,</P>
+    <P Just="Center">Uachtarán Ard-Chomhairle Shaorstáit Eireann.</P>
+    <P Just="Center">President of the Executive Council of the Irish Free State.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Procedure" RHead="and Privileges">
+    <Title>Committee on Procedure and Privileges.</Title>
+    <Col N="575" />
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>The Committee of Selection report that they have nominated the following Senators to serve on the Committee on Procedure and <Col N="576" /> Privileges:&mdash;S. L. Brown, K. C., J. G. Douglas, T. Johnson, Colonel Moore, Brian O'Rourke, Mrs. Wyse Power, R. Wilson.</P>
+      <P>The Seanad adjourned at 3.10 p.m. <i>sine die.</i></P>
+    </Speaker>
+  </MainHeading>
+</Debate>

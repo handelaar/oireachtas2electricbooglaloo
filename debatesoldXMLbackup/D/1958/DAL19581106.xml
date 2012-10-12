@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Thu" Date="6" Month="Nov" Year="1958" Vol="171" No="5" DateIrish="Déardaoin, 6 Samhain 1958" DateEnglish="Thursday, 6 November 1958" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="507" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Business, as set out on the Order Paper, will be taken as follows: Nos. 6, 7 and 8.  Questions will be taken at 3 p.m. or on the conclusion of business, if business should be concluded before 3 p.m.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Will the Tánaiste say what are the sitting days next week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>My guess would be that one day should suffice for the business ordered next week.  Three Bills are down for discussion.  It is possible that we could complete the three of them in one day.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The Tánaiste will remember that I asked last week&mdash;not in the House but through the usual channels, to use the appropriate euphemism&mdash;for time next week to deal with motion No. 4.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Is what is on the Order Paper all the legislation the Government has ready?  Is any more forthcoming?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>There will be more forthcoming in this session.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Before Christmas?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Before Christmas.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Will we see the P.R. Bill before Christmas?</P>
+    </Speaker>
+    <Col N="508" />
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I expect so.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Do you want it passed before Christmas?  Are you giving second thoughts to it?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is possible that the motion referred to by Deputy Sweetman will come up next week in Private Members' time.  I shall consider it.  If one day should not suffice for the business ordered for next week, we would sit on the second day.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>There is not two days' work for next week.  Is that not so?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>That is a matter of opinion.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Can you not do any better than produce this kind of agenda?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>A considerable amount of very useful work has been done.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Does the Tánaiste remember that last year also, in November, the Dáil had to adjourn, missing a week, because the Government could not produce more business?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Or else because the business was of such a high quality that it went through more quickly.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>The Government are on strike.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Electricity (Supply) (Amendment)" RHead="Bill, 1957&mdash;Second Stage">
+    <Title>Electricity (Supply) (Amendment) Bill, 1957&mdash;Second Stage.</Title>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. S. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. S. Lemass)</NameTxt>
+      <P>I move that the Bill be now read a Second Time.  The purpose of this Bill is to effect a number of miscellaneous amendments in various provisions of the Electricity (Supply) Acts, 1927 to 1955, the Shannon Fisheries Act, 1935, and the Liffey Reservoir Act, 1936. These amendments relate to rural electrification, fisheries, compensation for interference with a public bridge, powers to dispose of land, membership of the Oireachtas, and pension matters.</P>
+    </Speaker>
+    <P>The effect of Section 2 is to raise the limit of expenditure for rural electrification <Col N="509" /> to £30,000,000.  The existing limit of £25,000,000 was authorised by the Electricity (Supply) (Amendment) Act, 1955, and was intended to cover expenditure up to this year.  At 31st March last, the board had spent or was committed to spend approximately £23,000,000.  At that date 184 rural areas still remained to be developed and it is estimated that the cost of the entire scheme will be not more than £30,000,000.  It is hoped that the scheme will be effectively completed by 31st March, 1962.</P>
+    <P>The object of Section 3 is to reintroduce a Government subsidy of 50 per cent. for rural electrification as from 1st April, 1958.  Such a subsidy was payable from the commencement of the rural electrification scheme in 1946 until 1955 when the subsidy was withdrawn.  It was then argued that the board had reached a position in which, from their own resources, they could provide all the finance required for future development.  The financial expectations of 1955 have not, however, been realised.  In the year ended 31st March, 1955, the board had a gross surplus of £928,659 including a surplus of £44,130 on rural revenue account.</P>
+    <P>The net surplus fell to £50,184 in the year ended 31st March, 1957, the deficit on rural revenue account being £491,645.  In the year ended 31st March last the board had a net deficit of £180,017 on general account, while the deficit on rural revenue account had risen to £552,197.  While other causes, notably a reducing rate of increase in demand for electricity generally and the charges arising from the bringing into operation of new generating stations in the last few years, have operated to reduce the board's annual surplus, the fact is that the demands of rural electrification have meant the difference between a modest surplus and a loss on the board's electricity net revenue account.  The average return on capital represented by fixed charges is falling heavily with the connection of new rural areas and the annual deficit on rural account when the scheme is completed would, in the absence of a subsidy, be well over £1,000,000.  The <Col N="510" /> board have been increasingly perturbed by the growing deficits on rural electrification.</P>
+    <P>Although originally it was intended that the State would provide part of the capital free, the board have now for some years been required to provide all the capital necessary and have been required also to extend supply to areas which are increasingly uneconomic. The relief which the subsidy will afford to the board is unlikely to eliminate losses on rural electrification and, in the circumstances, I have accepted a rather slower, rate of development.  There is no doubt that the rate and extent of rural electrification have been much greater than they would have been if commercial considerations only had been taken into account.  As these considerations are being ignored on the insistence of the Government, I am satisfied that the Government should in equity assume as far as possible responsibility for the financial consequences.</P>
+    <P>Section 4 of the Bill, coupled with Section 3 (4), will relieve the Minister for Finance and the E.S.B. of the obligation to earmark advances to the board as being for rural electrification or for general purposes.  It was found difficult to determine beforehand the purpose to which a particular advance would be applied.  Expenditure for general purposes will be limited to £100,000,000.</P>
+    <P>Sections 5 and 6 of the Bill are designed to improve the accounting procedure for the board's fisheries.  Before a decision to develop or abandon a fishery can be made, certain expenses must be incurred on investigating its potentialities.  In addition, expenditure must be incurred in maintaining and preserving the existing stocks of fish while the investigations are going on, Under existing legislation, all these expenses are chargeable to the fisheries accounts, even though the fishery concerned might never be operated.  Regardless of whether the fishery is operated or not, it is unrealistic to burden the fisheries accounts with these expenses, which arise solely because of the disturbance caused to the river by the hydro-electric development. The restoration of fisheries is a <Col N="511" /> difficult enough process without loading these expenses on to the fisheries accounts.  Under Section 5, it is proposed, therefore, to authorise the board to charge these expenses to their general revenue account.</P>
+    <P>The object of Section 6 is to enable the board to transfer to their general revenue account the annual profit or loss arising out of all their fisheries activities.  Under existing legislation, the board are required to keep a separate capital account and balance sheet for the Shannon and other fisheries.  The intention was that fisheries should be operated independently and would provide sufficient income to remunerate the capital invested in them, but this hope has not been realised.  The Shannon Fisheries, which are the largest, have incurred growing deficits.  Each year these deficits are transferred to the fisheries balance sheet which is required by existing legislation, and by 31st March last they had accumulated to the total of £56,551.</P>
+    <P>I think it is now clear that hydro-electric development involves such severe damage to the fisheries in a river that their rehabilitation, assuming it is possible at all, is a long and costly process.  Deficits are likely to occur for many years before the fruits of the restoration work can be expected.  As the board's involvement in fisheries operations is a direct result of hydro-electric development these operations cannot be regarded properly as a separate undertaking. An amendment to the existing accounting procedure is, therefore, called for and the only sensible thing to do is to abolish the separate capital account and balance sheet and to incorporate the results of the board's fisheries transactions in their general accounts.  In this way, the board's fisheries will be treated in the same manner as their other subsidiary activities. Separate trading and profit and loss accounts are published by the board in respect of these activities, but the balance on each of these accounts is transferred annually to the general revenue account.</P>
+    <P>I might mention at this stage that I <Col N="512" /> shall be introducing on the Committee Stage a provision designed to permit the board to incur expenditure on the development of new fisheries which may arise in the reservoirs of hydro-electric schemes.  Under the legislation as it stands, the powers of the board are confined to fisheries which exist before a scheme of hydro-electric development is undertaken.  In fact, however, new fisheries are arising and it is desirable that the board should have powers to develop and manages them as well as the existing fisheries if they so think fit.</P>
+    <P>Section 7 of the Bill authorises, the board to pay compensation to persons who have suffered serious loss or inconvenience as a result of the sub-mergine of Fitzgibbon Bridge by the Lee hydro-electric scheme.  Under the Electricity Supply (Amendment) Act, 1945, the board are empowered to submerge or otherwise interfere with any public or private road or bridge for the purpose of carrying out a hydro-electric scheme.  The Act provides that in the case of private roads and bridges, compensation shall be payable by the board.  No provision is made for the payment of compensation for interference with a public road or bridge, but in general the board are required to provide suitable replacements, unless relieved of this obligation by Order made by the Minister for Industry and Commerce after consultation with the Minister for Local Government.</P>
+    <P>The approval Order for the Lee scheme provided for the submerging of a public bridge over the River Dripsey known as Fitzgibbon Bridge, and for the erection of a new bridge some distance upstream.  In April, 1956, the board requested my predecessor to make an order relieving them of the obligation to construct the replacement bridge.  The board stated that because of the nature of the site the construction of a bridge would be technically difficult, and its cost would be out of all proportion to any use which might be made of it. My predecessor decided not to accede to the board's request.</P>
+    <P>In May of last year, the board requested me to reconsider this decision <Col N="513" /> and they suggested that if I were disposed to agree that the new bridge was not required, they should be empowered to pay, at their absolute discretion and entirely on an <i>ex gratia</i> basis, suitable compensation to those affected. As I was not prepared to agree to allow the board to be the sole arbiter regarding the persons entitled to compensation and the amount to be paid, I informed them that the obligation to provide the replacement bridge must be discharged by them, unless they could negotiate an agreement acceptable to the majority of the landholders concerned.  I made it clear that if they succeeded in concluding a satisfactory agreement with the landholders, I would promote any legislative measures necessary to enable them to implement this agreement.</P>
+    <P>The majority of the landholders have now agreed to do without the bridge in return for compensation payments, the amounts of which have already been agreed with the E.S.B.  As I have already mentioned, there is no provision in the Acts whereby compensation can be paid in cases where a public road or bridge is interfered with.  The position is, therefore, that although the board have negotiated this agreement with the landholders, they are, under existing legislation, unable to make the necessary compensation payments.  The object of Section 7 of this Bill is to give the board the power to make these payments.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Before the Minister passes from that section, would he mind saying with how many landowners has agreement been secured and how many are still holding out for a new bridge?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Thirteen out of 16 have accepted.</P>
+    </Speaker>
+    <P>Section 8 of the Bill is designed to remove doubts about the board's powers to dispose of property.  Under the Electricity (Supply) Acts, 1927-1955 and the Liffey Reservoir Act, 1936, various powers for the acquisition of land required for the performance of their functions were conferred on the board.  Some of the lands acquired for the carrying out of particular schemes, especially hydro-electric schemes, eventually become surplus to requirements <Col N="514" /> and they are then sold.  The board have been advised that the powers conferred on them for such disposals are inadequate in some cases and doubtful in others.  Although these powers have never been seriously questioned, it is essential that the board should, if required, be able to satisfy a purchaser that their powers of disposal are clear and adequate.  If they are unable to do so, a situation may arise in which they will have to retain property which is surplus to their requirements and this, of course, would be undesirable.  The purpose of the proposed amendment is to put the board's powers beyond doubt; it does not confer any new powers on them.</P>
+    <P>Section 9 of the Bill revokes Section 3 of the Electricity (Supply) Act, 1927. The Act of 1927 provides that every member of the board and every officer and servant of the board shall, while holding office or employed as such member, officer or servant, be disqualified from nomination for or membership of the Oireachtas.  In effect, this meant that a member of the board or its staff was disqualified from being a candidate in a parliamentary election.  The principle now followed in legislation is that, where membership of the Oireachtas is incompatible with membership of a State-sponsored body, the person concerned may opt for one or the other. Under more recent legislation dealing with the establishment of various State bodies, the practice has been simply to provide that a member of the Dáil or Seanad may not be a member of the body and that if any member of the body becomes a member of the Dáil or Seanad, he shall cease to be a member of the body.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Only during his membership of the Oireachtas?  He can go back to his employment if he ceases to be a member of the Oireachtas?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That is right.  I shall deal with that in a minute.</P>
+    </Speaker>
+    <P>In the present Bill, it is proposed to provide that a member of the Dáil or Seanad would have to resign before he could be appointed a member of the board or seek employment under the board.  As regards seeking election to the Dáil or Seanad, it is <Col N="515" /> proposed to make a distinction between members of the board and officers and servants of the board.  It is proposed to provide that a member of the board would have to resign before offering himself as a candidate for election, but that officers and servants be free to seek election and if one is elected that he shall absent himself from his employment and shall not be paid for the period of his absence.</P>
+    <P>A provision is included to ensure that if a person qualifies for a pension in respect of a period of service as Minister of Parliamentary Secretary, the same period cannot count for pensions from the board.  On the Committee Stage, I shall introduce a new provision which will clarify fully the position in regard to the maintenance of pension rights of employees of the board who may becomes members of the Oireachtas.</P>
+    <P>Sections 10 to 13 of the Bill are designed to enable the board to pay to their former employees pension increases similar to those provided for other pensioners under the Pensions (Increase) Act, 1956.  Under that Act, provision was made for pension increases for former teachers, members of the Garda Síochána, local authority employees, harbour authority employees and others.  Some time ago the Minister for Defence laid before the House a scheme to secure similar pension increases for members of the Defence Forces.  It is only fitting, therefore, that this opportunity should be availed of to authorise appropriate pension increases for former employees of the E.S.B.</P>
+    <P>The intention of the Pensions (Increase) Act, 1956, on which these provisions are modelled was, generally, to provide for increases in those pensions which were granted in respect of service which ended before the 1952 general revision of salaries.  This is the basis of the provisions of the present Bill which relate to the general employees of the board.  In the case of manual workers, however, it is proposed to authorise the board to grant increases within the limits set by the Pensions (Increase) Act, 1956, where they think fit to persons who <Col N="516" /> retired at any time up to 1st July, 1957. The reason for this is that many of these workers retired on very small pensions because of their inability to purchase at a reasonable price suitable pension units under the superannuation scheme.</P>
+    <P>Section 14 proposes the amendment of the superannuation terms of the present chairman of the board.  Under the Electricity Supply Board (Superannuation) Act, 1942, as amended, full-time members of the board are entitled to a pension at the rate of 1/48th of retiring salary for each year of service, subject to a maximum of 24/48ths, but no lump sum is payable.  Prior to his appointment in 1930, Mr. Browne, the present chairman, had been a full-time civil servant for a period of about 18 years, and on joining the E.S.B., he was granted special leave without pay.  As a civil servant, Mr. Browne is entitled to a pension at the rate of 1/80th of his salary as at the date of his appointment to the E.S.B. for each year of his Civil Service service, together with a lump sum of 1/30th for each year of service.  Under existing legislation, therefore, Mr. Browne's accrued pension and gratuity as a civil servant would be payable to him in addition to his E.S.B. pension.</P>
+    <P>It is now proposed to cancel Mr. Browne's Civil Service superannuation allowance, and instead, to grant him superannuation allowances on the lines of those payable in the Civil Service and based on the aggregate of his service in the Civil Service and in the E.S.B.  The effect of the amendment is that Mr. Browne, on retirement, will be paid a pension of half his retiring salary together with a gratuity equal to one and a half times that salary.  This section implements a decision taken by my predecessor.  I might remark that the Transport Act, 1950, contains provisions on similar lines in respect of the superannuation of the former chairman of C.I.E. who also was on special leave from the Civil Service.</P>
+    <P>Under Section 14 of the Superannuation Act of 1942, the board are empowered to add up to ten years to the period of pensionable service of employees who <Col N="517" /> were 40 years of age or over on the passing of the Act.  Under Section 15 of the Act they are also empowered to pay supplementary pension allowances to certain persons transferred to the service of the board from undertakings acquired by the board.  Section 15 of the Bill will permit the surrender of the whole or part of these supplementary pension awards in return for an appropriate annuity for a dependent as may already be done in the case of ordinary pensions.</P>
+    <P>Section 16 of the Bill is intended to remove any doubts which may exist regarding the dates of operation of amendments to the existing superannuation schemes of the board.</P>
+    <P>The purpose of Section 17 is to amend certain provisions of the manual workers' superannuation scheme which have been in dispute between the board and the members of that scheme for a number of years following the introduction of an amending scheme in 1952.  This is a complicated problem. Broadly, the position is as follows.  The 1952 amendment permitted manual workers, who had served with the board prior to 1st April, 1943, to supplement the basic pension under the board's scheme by the purchase of pension units whose value varied with length of pensionable service.  Unfortunately, the 1952 amending scheme was open to differing interpretations in regard to liability for payment for service prior to the date of purchase of these units.  The board, on the one hand, contended that their maximum liability was limited by the 1942 Act which provided for equal contributions by the board and the member in respect of all service subsequent to the introduction of the original scheme in 1943, while, on the other hand, members interpreted the scheme as requiring the board to pay the greater portion of the costs.</P>
+    <P>Various efforts to resolve the dispute were unsuccessful, but some time ago a compromise solution of the difficulties was agreed between the parties.  Under this solution, the members concerned will contribute to the pension fund one half of the cost of their pensionable service subsequent to the date of purchase of <Col N="518" /> each new unit while the board will pay half the cost of all the members service towards the purchase of these units.  The effect of the new arrangement is that the combined contributions to the pension fund will be reduced, with a consequential reduction in the benefits payable.  I am satisfied that the solution is fair and reasonable and is one which should be accepted.</P>
+    <P>The next provision of the Bill is Section 18, which refers to the rate of interest payable by the board on loans made to them by the trustees of the superannuation funds.  Section 14 of the Electricity (Supply) (Amendment) Act, 1949, provided that the rate of interest so payable should not exceed 4 per cent.  The reason why this figure was selected was that in the calculations on which the funds were based, the actuary assumed a rate of 4 per cent. per annum.  With the increases in interest rates which have taken place in recent years that rate is no longer realistic and a position has now arisen in which the trustees can secure a better return on their funds elsewhere. Unless, therefore, provision is made for the payment of a more attractive rate of interest, they may invest their funds wholly outside the board.</P>
+    <P>As these funds represent a useful source of additional finance for the board, that would be most undesirable. It is proposed, therefore, to remove the limit of 4 per cent.  In view of the possibility of further fluctuations in interest rates generally it would be inappropriate to fix another figure in substitution for that existing limit, and it is proposed, therefore, to provide merely that the rate payable shall not exceed that charged at the time on advances from the Central Fund.</P>
+    <P>There is one other matter I think I should mention at this stage.  For some time, I have felt that some arrangement should be made whereby the Minister for Lands would be more closely associated with the administration of the board's fisheries and it is possible that I may be able to indicate definitely on the Committee Stage of the Bill the <Col N="519" /> manner in which this will be done and to move the appropriate amendments which will be necessary. There will, in any event, be another E.S.B. Bill in the near future to increase the capital provision for the board's general purposes, and this will afford an opportunity to Deputies to discuss the board's general development programme and to introduce the amendments to the fisheries clauses if they are not ready in time for inclusion in the present Bill.</P>
+    <P>Apart from the provisions in respect of rural electrification, which I feel will have the support of all Deputies, the amendments are largely of a &ldquo;tidying-up&rdquo; character and I therefore recommend the Bill for the approval of the House.</P>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>This Bill, including as it does, provision for further expenditure on capital development, particularly on rural electrification, brings before the House and the country the remarkable success of the E.S.B. undertaking. The last report indicates that including expenditure on capital works which were still under construction at the end of the year, and adding that expenditure of over £4,000,000 to the previous total of £93,800,000 on generation, transmission and distribution, the total capital investment comes to over £98,000,000.</P>
+    </Speaker>
+    <P>It requires little effort to imagine what our economic condition would be like without the power and light which is being brought to urban and rural areas by this undertaking.  All those who are responsible for its success deserve the commendation of the House and the country.  It has supplied opportunities for employment for Irish-trained engineers and technicians and craftsmen of various categories.  By their work, they have brought credit to the undertaking and demonstrated that when Irish people are given the opportunity, they can acquit themselves with distinction in technical fields.  It is all the more satisfactory that it was possible in this case, as in a number of other State undertakings, to employ Irish technicians in developing their <Col N="520" /> own country.  In the past, too many of those people were obliged to use their talents elsewhere.  This enterprise is a striking tribute to the vision of those who conceived it and has more than justified the most optimistic views which were held concerning its success. I believe, therefore, that the proposals contained in this measure will find general approval.</P>
+    <P>I should be glad to know from the Minister if the provision of subsidy will enable full development of uneconomic areas under the rural electrification system.  As I understand the system as it has worked up to the present, areas are taken on a certain basis and allowing for comparison between the number of people who accept in different areas, priority is given to those with the largest number of acceptors.  That stage is now drawing to a conclusion, if it has not already been completed, but when all these areas have been developed, or when a whole district has been developed, pockets are still left where people, because they failed to be included in two adjoining areas, find themselves without current.  I know many cases where the supply could not be extended on anything like an economic basis or even on the same terms as it was possible to extend the rural network to the adjoining areas. I should be glad, therefore, to know whether it is proposed in this measure to extend the supply to all consumers who are prepared to take it and whether that will include those areas which have been considered up to the present to be uneconomic.</P>
+    <P>As I understand the E.S.B. programme, the present and planned generating capacity of hydro stations and turf-fired stations will be completed by 1961 or 1962 and at that stage all existing sources of power available in the country&mdash;hydro and turf-fired&mdash;will be either completed or in process of completion and after that date supply will depend either on further oil or coal-fired stations or on the use of atomic energy.  The previous Government established a committee, which reported last year, on the question of acquiring, at the instigation of the United States of <Col N="521" /> America, an atomic reactor.  The committee reported and I understand that the report was sent to the various Government Departments interested. I would be glad to know when Government policy on that report will be made known, if a decision has yet been reached on the recommendations made in the report and what steps will be taken to implement it.</P>
+    <P>On this question of retirement pensions, some years ago I received representations&mdash;I do not know whether the matter has been settled since&mdash;concerning those who are employed in what are known as &ldquo;transferred undertakings&rdquo;. Some of those people had been employed in a similar capacity in those undertakings prior to the acquisition by the E.S.B. of the smaller electricity supply plants.  Quite a number of them were employed at an age which precluded their gaining full-time service, counting their years of service with the previous undertaking and whatever years of service were still available to them under the E.S.B.  I do not know whether or not added years have been provided but I would be glad to know whether consideration will be given to that small number of persons whose services up to the present precluded their getting a pension or in some cases precluded them getting anything like a pension which would enable them to live under reasonable conditions.  Some of them undoubtedly did get small pensions, but nothing like what they would have got if full service or added years were provided for them.</P>
+    <P>As this is the first occasion on which we have discussed this matter since the retirement of Dr. T.A. McLaughlin and Mr. J.M. Fay from the board, it is appropriate that a tribute should be paid to the work which they did as members of the board for a great number of years and for the distinguished service which they rendered as members of the board, both to the E.S.B. and to the general welfare of the community, arising out of the success of that undertaking.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>As the Minister said, this is very largely a routine Bill which does certain legislative tidying up on the code of legislation on which the <Col N="522" /> E.S.B. relies for the operation of its undertaking.  Therefore, one has not to engage in any wide or length survey of the board's activities.  There are some matters, however, that I should like to raise on this Bill.  One arises out of Section 7, which is designed to enable the board to provide compensation to persons for loss or inconvenience due to the submerging of what is known as the Fitzgibbon or Dripsey bridge in County Cork.  The question as to whether the board should provide an alternative bridge in lieu of the bridge which would be submerged has been the subject of a good deal of heated contention in that region.  The local residents felt that it was essential to their way of life that an alternative bridge should be provided in lieu of the Fitzgibbon bridge, which the board felt it was necessary to submerge for the purpose of their Lee hydro-electric scheme; and efforts at that stage to tempt them into submissive silence by offers of financial compensation did not attract the persons concerned.</P>
+      <P>I now gather from the Minister that 13 out of 16 persons affected have indicated their willingness, to accept compensation.  Am I right, however, in thinking that this case is before the courts, has been before the courts or is likely to come before the courts, in which some local people are insisting on their right to have an alternative bridge provided?  I do not know the precise legal position at the moment, but I have some kind of recollection that this matter has been the subject of litigation.  Whether the litigation is in prospect or whether the matter has been or is still before the courts I cannot say, but perhaps the Minister when he is replying would throw some light on the position in that respect.  I take it that if the matter is before the courts, the persons concerned will not have their legal rights interfered with by the passage of a section in this Bill. It would be unfair to deprive them of access to the courts if access to the courts at present constitutes their constitutional rights.</P>
+    </Speaker>
+    <P>Under another section of the Bill, Section 9, when a person becomes a member of either House of the <Col N="523" /> Oireachtas he goes off the pay roll of the E.S.B.  It does not say that when he ceases to be a member of the Oireachtas he may go back to the E.S.B., nor does it say what is to happen his pension rights which accrued to him whilst he was a member of the E.S.B. staff and before he became a member of either House of the Oireachtas.  If a person has served as a member of the E.S.B. staff for, let us say, 20 years and then decides that he will share his talents with the nation by becoming a member of the Dáil or Seanad and remains in either House for four or eight years and is then unsuccessful in maintaining the confidence of the people or of the Government, as the case may be, and then goes back to the E.S.B., is his 20 years' service preserved for pension purposes?  In other words, are his accrued pension rights, as it were, parked for him so that he can bring them to life on going back to the E.S.B.; or can be, at the time that a pension would normally be payable to him on retirement from the E.S.B. if he had not left the service of the board, count upon a pension based upon the number of years' service which he rendered to the board? Perhaps the Minister would throw some light on that situation when replying.</P>
+    <P>There is one other matter to which I should like to refer.  I am not too sure whether it is in order, but if the Chair will be indulgent with me for two or three minutes I can dispose of the matter, particularly in the light of the other Bill on the subject of the E.S.B. which the Minister has foreshadowed. The E.S.B. have done a first class job in the matter of rural electrification.  The success of the rural electrification scheme has brought the amenity of lighting and heating into rural, and even exceptionally remote, areas.  In that way they have certainly done an enormous amount of good in brightening and making more tolerable the conditions of life of the people who live in these remote areas.</P>
+    <P>For the purpose of its rural electrification operations the E.S.B. have an <Col N="524" /> excellent field staff which operated throughout the country and not only was it able to provide rural electrification expeditiously but also to do a first class job which commanded the admiration of everyone, both inside and out-this House.  It is a pity that because the board has operated so efficiently and expenditiously that organisation, which was created for the purpose of rural electrification, should be disbanded. I think it could be put to other operations.</P>
+    <P>We are now approaching the stage where practically everybody in rural areas is an E.S.B. consumer and in practically all of these rural areas everybody wants to get water and sanitation services.  I tried to fertilise the mind of the Minister for Local Government, in the previous Government, with the idea that the E.S.B., which is now the provider of light in rural areas, should be given power to provide water services in rural areas, that the work could be carried out by an organisation equivalent to its rural electrification organisation and that the cost of providing the water supply by an E.S.B. equipped with such powers could be charged by the board on the electric light bill.  Thus it would be within the competence of the board to recover its expenditure and, at the same time, be within the ability of people in the rural areas to obtain a water supply.</P>
+    <P>In these days with the use of the electric motor and with the provision of the polythene pipe all one has to do is to find a clean stream or spring and by the use of the electric motor which the E.S.B. can supply, consuming E.S.B. current, it should be possible without much difficulty, especially to an organisation like the E.S.B., to provide water services in these areas.</P>
+    <P>The board could then become not merely a provider of light but a provider of water services, and perhaps sanitation services at a later date.  I do not want to develop that point as it is probably out of order, but I do think that, before this organisation is submerged, some consideration should be given to equipping the board to do a job of that kind.  If it can, in respect of providing water services in rural <Col N="525" /> areas, do half as much only as it has done in respect of providing light in rural areas it will have done an excellent job.  It will be doing an excellent job for the people and bring them a new service which will parallel in comfort the excellent service provided by electric light in the rural areas.  I shall leave that idea with the Minister.  I think it is only by equipping some national authority like the E.S.B. with such power that you are going to see water services in the really remote areas.</P>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I should like to have a few points clarified.  One of them is in connection with the subsidy which I think is largely one to cover the losses the board is incurring on the extension of its activities to the rural areas.  The Minister stated that the board now operates at a loss somewhere around £500,000 on its activities in the rural areas.  Is this subsidy a continuing subsidy, or a subsidy purely against capital outlay on the extension of electricity to the rural areas, and has the E.S.B. indicated to the Minister what capital outlay will be utilised to complete rural electrification schemes which they have either in course of construction, or which they propose to introduce?  If the subsidy is sufficient to offset the losses on the rural electrification side of the E.S.B.'s business can we then assume that the board will operate at a reasonable profit on the rest of its undertaking?</P>
+    </Speaker>
+    <P>The only other point is in regard to Sections 5 and 6, in connection with the Shannon fisheries.  I contribute wholeheartedly to the praise which Deputy Cosgrave gave to the E.S.B. as an electricity undertaking and for the very fine job they have done over the past 30 odd years.  I cannot, however, say the same about their activities in regard to the Shannon fisheries.  The Minister did hint that he hoped to introduce an amendment on the Committee Stage to associate&mdash;I think that was the word&mdash;the Minister for Lands more closely with the fishery activities of the E.S.B.  I would seriously urge the Minister to go a step further and dissociate fishery activities completely from the E.S.B.  It would be far more appropriate, and better from the point <Col N="526" /> of view of the fisheries, if they were transferred completely to the aegis of the Minister for Lands and Fisheries.</P>
+    <P>I know there may be technical difficulties in the way but these should not be insurmountable and in the final analysis the thing that accounts most is the best method of developing the Shannon fisheries which should be of far greater advantage to the country than they are.  The present Minister for Lands is a very active Minister and has given proof of his interest in fisheries.  It would be a sound and progressive step to transfer this side of the E.S.B. undertaking completely to his responsibility. I also join with Deputy Cosgrave in paying tribute to Dr. McLaughlin and Mr. Fay who gave such excellent and long years of service to the E.S.B. and, through the board, to the community.</P>
+    <Speaker pid="DanielJMoloney" hpid="Mr. Moloney Mr. Moloney">
+      <NameTxt>Mr. Moloney</NameTxt>
+      <P>I should like to make a few observations arising out of the discussions on the Bill.  It is not a very controversial matter but nevertheless it provides us with an opportunity of raising a few matters which have been bones of contention for some time.  A previous speaker, with Deputy Cosgrave, referred to the exceptional charges which the E.S.B. are inflicting on consumers in rural districts where they are classified as belonging to the uneconomic areas.  It is beyond the comprehension of the ordinary man to understand when an area is economic and when it is uneconomic. I find it very hard to satisfy myself from the explanations I get when I make inquiries in individual cases as to why a particular pocket or area is classified as uneconomic.</P>
+    </Speaker>
+    <P>The E.S.B. is a national service and should not differentiate in supplying that service.  I think the system of introducing levies in certain pockets regarded as uneconomic is a bad one.  I submit it would be as logical for the Minister for Posts and Telegraphs to insist on a surcharge for delivering a letter in an out-of-the-way district.  I seriously suggest to the Minister that he might avail of this opportunity to take up the matter with the E.S.B. and try to get the board to accept the good <Col N="527" /> with the bad and to offer an overall average charge.  The present system does not help to get people in rural districts to co-operate as well as they might in the ordinary way in the case of the canvass which is necessary before electricity can be brought into an area.</P>
+    <P>I find it hard to understand why one, two or three houses, possibly only 100 yards away from other houses, are singled out as uneconomic and the householders told they will have to pay a rent greatly in excess of that paid by their neighbours across the fence or road.  We should now have arrived at a position in the case of this service when we could reasonably request the board to introduce an average overall charge.</P>
+    <P>I am very pleased that the Bill has come along at this stage, particularly Section 3 which implements an assurance given in the Minister's Budget speech.  Unfortunately, the rural electrification scheme was more or less in suspense for the past couple of years until a few months ago and I think we can now look forward confidently to seeing areas hitherto undeveloped being dealt with.  I would ask the Minister to bring to the notice of the board the fact that the canvass which was made in a number of areas some years ago is now completely out of date and I suggest that if at all practicable, the people initiating schemes in different areas&mdash;I mean local people&mdash;should get an opportunity of carrying out a further preliminary canvass and explaining to householders whom they found it difficult to entrol formerly that it is now possible with the special subsidy to carry out a development programme. Many people were not prepared to co-operate previously because they were rather frightened about the special charge to which I have referred. If the board can give any facilities in that way&mdash;and I think they can&mdash;the position in the outstanding areas would be much improved and the people would be anxious to co-operate.</P>
+    <P>The fixed charge is a special problem in a number of Gaeltacht areas, particularly in North Kerry.  The houses were built under various schemes of <Col N="528" /> grants operated both by the Congested Districts Board and by native Government and in those days the preference seemed to be for larger houses.  I take it the population in the districts in those times was very much greater than it is now and possibly the idea of the big houses was to have dwellings which would accommodate large families.  Perhaps, also, the people were keeping an eye to the future and had visions of tourist traffic and thought it a good idea to provide more than ordinary residential accommodation.  The result is these people now find themselves with large houses carrying a high valuation so far as size is concerned, but a valuation very much higher than in the case of a house of normal size.  Canvassers in Gaeltacht areas at present find considerable difficulty in getting householders to agree to the fixed scale charges in connection with the installation of power.  There is no great difficulty in getting people to pay the standard charges, but the other difficulty is, I believe, almost impossible to overcome.</P>
+    <P>I had hoped that some special concessions might be given by the E.S.B. to these Gaeltacht areas or, alternatively, that the Minister might have a word with the Minister for the Gaeltacht with a view to making some suitable arrangement, even if it were impossible to get the board to give a special rate.  The Minister for the Gaeltacht might give some subsidy&mdash;&mdash;</P>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I do not think the matter arises on this Bill.</P>
+    </Speaker>
+    <Speaker pid="DanielJMoloney" hpid="Mr. Moloney Mr. Moloney">
+      <NameTxt>Mr. Moloney</NameTxt>
+      <P>I am making the suggestion&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy has made it now.</P>
+    </Speaker>
+    <Speaker pid="DanielJMoloney" hpid="Mr. Moloney Mr. Moloney">
+      <NameTxt>Mr. Moloney</NameTxt>
+      <P>I join with Deputy Russell in his reference to the utilisation of the fisheries of the E.S.B.  I think the E.S.B. acquired these fisheries some years ago because they wanted certain facilities regarding the usage of water and it was desirable that they would have exclusive control. That left the E.S.B. in possession of fisheries and, like other big bodies, I think they found difficulty in working the fisheries economically <Col N="529" /> I believe the time has arrived when a very full examination of this question is desirable and I suggest the Minister should ask the E.S.B. to consider the advisability of leasing out these fisheries, subject, of course, to certain control which it would be necessary for them to retain.</P>
+      <P>I feel the fisheries can best be organised and developed&mdash;and I would say, more successfully developed&mdash;by private interests and I suggest the E.S.B. could come to some arrangement with the interests to which I have referred.  Sooner or later, some steps will have to be taken to rectify this position.  Those of us who live in areas where the fisheries are the property of the E.S.B. know that these fisheries are not worked to the best possible advantage.  Considerably greater revenue could be obtained from these fisheries, if they were operated by private enterprise.  I hope the Minister will be successful in getting the E.S.B. to see that point so that some arrangement may be entered into under which the fisheries in question will be made available to private interests for operation.</P>
+    </Speaker>
+    <Speaker pid="TadhgManley" hpid="Mr. Manley Mr. Manley">
+      <NameTxt>Mr. Manley</NameTxt>
+      <P>I agree with the Minister that this Bill does not envisage any major changes.  Nevertheless, it provides for very important obligations and the public mind will be a little disturbed by the revelations made by the Minister this morning. We all appreciate that the provision of electricity is of permanent importance. The E.S.B. is one of our greatest national undertakings.  Were it not for the provision of electricity on a national basis, our chances of survival economically would be very meagre.  But the public mind will be somewhat disturbed to learn that at this stage of development the expenditure of the E.S.B. is outpacing its revenue.</P>
+    </Speaker>
+    <P>We all thought that, by 1958 at least, the E.S.B. would be in a position financially to stand on its own feet.  We are disappointed to find that is not the case.  It is perturbing to discover that, despite its multitudinous charges and rentals, it is not able to amass sufficient revenue in any one year to meet its expenditure.  I <Col N="530" /> hope this will be the last provision this House will be called on to make in relation to subsidising the E.S.B. The board has gone into the open market to get capital.  Despite that, it has to come back again to the national purse to get further provision for some of its undertakings.</P>
+    <P>I should like to join with others in the appeal for the provision of current to holdings which are regarded as uneconomic from the point of view of the board.  This is a contentious question.  It is difficulty to reconcile further penalising of these unfortunate people living in remote areas.  They have to suffer many drawbacks.  They have the worst roads.  They pay their rates and they honour their other obligations.  It is too bad that they should be further penalised. Surely under a national undertaking like the E.S.B., it should be possible to supply them with current in fair competition with their more fortunate neighbours.  The fixed charge is harsh. There should be some easement and a fairer appraisal of their position.  A more sympathetic effort should be made to provide them with current.</P>
+    <P>Another problem which arises is the fact that since areas have been developed, new houses have been erected.  The occupants of these now find, when they apply for current, that they will have to meet an extra fixed charge.  That is inequitable.  I trust the Minister will use his influence to ensure that the people concerned will get this amenity to which they are entitled and which they all assumed they would get, on the same basis as their neighbours. There should be no differentiation.</P>
+    <P>The Minister and Deputy Norton referred to Fitzgibbon bridge in the course of the debate.  I am still doubt full that the right action has been taken in connection with this bridge.  It is not a case of compensating people for loss of property; it is a case of compensating them for inconvenience caused through the policy of the E.S.B.  It is difficult to assess adequate compensation for those disturbed and inconvenienced. These people will be cut off entirely from their traditional access to the main Cork road.  That <Col N="531" /> entails great hardship, so far as they are concerned.</P>
+    <P>I know that the previous Minister was badgered about this matter for a long time and I know that he went very far to try to meet the demands of the people concerned.  No one would condone extravagant expenditure on the erection of a bridge to be utilised by comparatively few people, but these people had a traditional right of access.  I wonder does this Bill override their rights to a further appeal to the courts of this country?  This matter has been the subject of litigation before now.  Perhaps it will go into abeyance now that agreement has been obtained from 13 of the 16 people affected by the submerging of this bridge.</P>
+    <P>Independent engineers held the view that it was possible to construct a bridge which would not cost anything like the sum appearing on the files of the E.S.B.  Were all avenues explored before the board finally decided to submerge the bridge?  I wonder is the county council entitled to any consideration in this matter?  Their property was submerged.  Are they included in the 16 to whom the Minister referred this morning?</P>
+    <Speaker pid="FrancisLoughman" hpid="Mr. Loughman Mr. Loughman">
+      <NameTxt>Mr. Loughman</NameTxt>
+      <P>I wish to support Deputy Moloney and Deputy Manley in their plea for consideration for those resident in areas which are regarded by the E.S.B. as uneconomic from the point of view of rural electrification. Remote areas were referred to.  I have in mind a somewhat peculiar case that I came across recently.  A certain cottier occupies a cottage situated between two areas which have been completed. The normal charge to this cottier should be 13/8 for two months, but the E.S.B. are looking for a two-monthly charge of over £4.  If another cottier adjoining were to take current, the charge would be reduced to something over £2.  It seems extraordinary that one cottier prepared to take current should have to pay £4 odd, which is two or three times more than the rent he has to pay for his cottage, situated about 200 yards from the end of one rural electrification scheme and about <Col N="532" /> 300 to 400 yards from the end of another, at the foot of Slievenamon.</P>
+      <P>There should be some special method of dealing with cases of that description. These people have to meet whatever subvention the Government makes to the E.S.B.  They get no return even thought they are compelled to pay so that others may benefit.  The people who share this benefit should be made pay some little extra, so that people who are situated as the cottier I have in mind is situated will at least get that amenity.</P>
+      <P>I should like to ask the Minister to consider very seriously the suggestion made by Deputy Norton in connection with using the organisation of the E.S.B. for the purpose of enabling people in rural Ireland to put in their own water supply.  The suggestion is well worthy of consideration.  Electricity is a tremendous amenity to people in rural areas.  The next best thing, or even a better thing, is the provision of a water supply.  If there were any possibility of the suggestion made by Deputy Norton being adopted, it would provide a wonderful service to the people in rural Ireland.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>In connection with the observations by Deputy Cosgrave and others regarding the rural electrification scheme, it is necessary to remind the House that it was never contemplated that that scheme would be economic, in the sense that it could produce revenues sufficient to remunerate the capital investment in it and the operating charges of the E.S.B. When the scheme was originally submitted to the Dáil it was calculated that, on the basis of the charges at that time, a capital subsidy of 50 per cent. would be sufficient to enable the E.S.B. to break even on the scheme, that is to say, they would avoid losses, if they got half the cost of erecting the network free of cost.</P>
+    </Speaker>
+    <P>That assumption was also based upon an obligation on the board to supply current under the scheme only to householders where the cost of providing the supply did not amount to more than 16 times the fixed charge revenue from the house.  Costs changed and the operation of the scheme became uneconomic to the <Col N="533" /> board in a financial sense, even with the 50 per cent. capital subsidy, and also by reason of the fact that the obligation to provide supply at the standard charge was extended from cases where the capital cost was not more than 16 times the fixed charge revenue to cases where the capital charge was 24 times the fixed charge revenue.</P>
+    <P>In the sense, therefore, that Deputies have used the term, practically every area developed under the rural electrification scheme, and certainly every area left to be developed, is uneconomic. Indeed, even with the restored capital subsidy for which this Bill provides, the board estimate that they will still lose about £1,600 per year on every area to be developed&mdash;the whole of the 184 areas which are still outstanding. It is, therefore, clear that each of these areas is uneconomic in a financial sense, but some are, of course, more uneconomic than others.</P>
+    <P>The intention is that the board will complete the rural electrification scheme&mdash;provide supply in all the 184 areas still outstanding&mdash;and it is contemplated that by the time it has done so, it will still have, even with this subsidy, quite a substantial deficit on its rural revenue account.  That is something that we have accepted here as desirable in the interests of the residents of these rural areas, that there should be arrangements to brings supply to them, even though it was likely to be unremunerative to the board and even though it was inevitable that it would involve some addition to the charges upon other electricity consumers to enable them to get that supply.</P>
+    <P>My position in this regard is that I am a strong believe in the theory of minimising ministerial interference with the administration of State bodies like the E.S.B.  The E.S.B., being perturbed about the mounting deficit on the rural electrification account, suggested to me that they should suspend further rural electrical development, pointing out that the areas left outstanding are the most uneconomic areas and that the deficit was bound to increase year after year.  I expressed the view that the intention of the Oireachtas when the <Col N="534" /> rural electrification scheme was approved here in 1942 was that it should be completed and that we could not at this stage accept the suggestion of the board that we should suspend operations on it.</P>
+    <P>The position, therefore, that has resulted is that the board are now going ahead with the completion of the scheme.  They have accepted my proposal that their arrangements should bring it to an end by 1962.  The capital subsidy has been restored in respect of the areas still outstanding and the whole operation which began immediately after the war will then be at an end.  When I say it will be at an end, I understand that there may be some question of going back over the areas to connect up houses that refused to take the supply when the area was being developed and some redevelopment work of that kind will be involved, but, when that has been completed, selling electricity in rural areas will be just an ordinary routine operation of the E.S.B., the same as it now is in urban areas.</P>
+    <P>With regard to the special service charges to which Deputies have referred, again I want to emphasise that there never was in the scheme an intention that electricity should be supplied under it to persons whose residences were so isolated that it would bring them outside the 16 to one ratio I have mentioned.  The scheme as outlined in the Dáil contemplated giving supply only to persons whose fixed charge contribution would be 1/16th of the capital cost of the network and that was extended up to a one to 24 ratio later.  In the case of persons who could not get within that ratio where the capital cost of supply to the house was away and beyond what that ratio would permit the E.S.B. to do, the additional cost had to be borne by the householder.</P>
+    <P>It is true that I advocated revision of that special service charge here some years ago, under the impression at the time, which I mentioned, that the amount involved was a mere bagatelle in relation to the board's total rural receipts.  I found on examination of the matter that that was not the case at all, that the cost of abolishing the special service charges was quite considerable <Col N="535" /> and would necessitate a very heavy increase in the cost of electricity to all other rural consumers.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>It would cost millions.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I do not feel that we would be justified in imposing that very heavy increase in the cost of current to other consumers for the purpose of making that change.  It is, of course, entirely a matter for the board and I am merely expressing a view now upon the board's decision in that connection.</P>
+      <P>Deputy Cosgrave asked about the report of the Commission on Atomic Energy.  I should imagine that this report will be published fairly soon.  It has been presented, certainly.  I as Minister for Industry and Commerce, was asked for my observations on the contents and recommendations of the report and I have given them.  Presumably, the observations of other Departments are being collected also and some finalisation of the process must be due soon.  I do not think, however, it bears very much on this question of future electricity generating policy.  It is true that all native sources of power will have been fully developed in about ten years or so, and that further development beyond that stage must imply utilisation of imported fuels or resorting to nuclear energy. All indications are that the most expensive way of producing electricity at the moment is through the utilisation of nuclear power and, therefore, as far as we are concerned, it is out of the question until the technique of using it has been so improved that the costs have come down to an economic level.</P>
+    </Speaker>
+    <P>We are not interested in utilising nuclear energy for power purposes, unless it is more economic than any other process.  In Britain and elsewhere they may have the desire to build up their technique in that field, to become established as suppliers of equipment for that purpose and, therefore, they are willing to undertake the establishment of nuclear plants now, even though the cost of power from these plants is higher than <Col N="536" /> from conventional power plants.  We have not got that interest, so we will turn over to nuclear power plants only when it is established that it is cheaper to generate power from them than in and other way.  It is to be assumed, and I personally believe, that by the time it becomes a live issue for us, the technique will have so developed that costs will have come down to a point which will make it a more economic process to employ.</P>
+    <P>Deputy Cosgrave asked about the transfer of employees of undertakings acquired by the board.  I think I am correct in saying, from my recollection of legislation passed previously, that all these employees have pension rights now in respect of their prior services with the various undertakings.  Some came over with established pension rights and others without them.</P>
+    <P>With regard to the Fitzgibbon Bridge, the bridge over the Dripsey River, to which some sections of this Bill refer, I took the view, and I think it is the sensible view, that if a very substantial amount of money had to be paid out in any way, it was far better to pay it out to the farmers in that stretch of land rather than to use it in building a very expensive bridge, because the cost of providing a bridge would, for technical reasons, be very considerable.  It seemed to me a reasonable proposition to put to the farmers that instead of spending money on the bridge, and accepting that in the absence of a bridge, they may have to travel a couple of miles further to reach the main road, it would be better to pay money out to themselves, and the majority of the people concerned accepted that point of view.  Indeed, I think they were very wise to do so.  It will represent, for many of them, quite substantial sums of money.</P>
+    <P>It is true that an action was taken in the courts against the E.S.B.  The Minister for Industry and Commerce is not a party to that action, but this Bill does not, in any way, interfere with any rights that may be before the courts.  All we are doing here is to empower the E.S.B. to pay compensation. It is a power which, in this particular case, they have not got at this time.  There is no provision under existing laws by which compensation <Col N="537" /> can be paid because of the removal of a public bridge or public road.  There is power to pay compensation where a private bridge, or a private road, is interfered with, but, in the case of a public bridge or public road, there is none.  All we are doing is enabling the E.S.B. to pay compensation in such a case.  If the courts should decide, however, that the E.S.B. must build a bridge, then, of course, the Bill will not interfere with the decision of the courts.</P>
+    <P>Deputy Norton inquired about provisions in the Bill relating to membership of the Oireachtas.  For a long time past, I have had the feeling that the E.S.B. was in a unique and undesirable position in that regard.  Of course, it was the first of these State organisations to be set up here.  At the time the legislation establishing it was being framed, not much thought had been given to these matters and, because of certain pressures exercised in the Dáil, the then Government inserted this provision in the Bill, precluding members and employees of the E.S.B. from seeking election to the Oireachtas.</P>
+    <P>As Deputies know, the desirability of that provision was questioned in connection with later organisations.  At least, it was believed that it was wrong to prevent anybody by law seeking election to the Dáil, while it might be reasonable to prevent a member of the Dáil belonging to such organisations.  In most other cases, the law has been changed around to prevent members of the Dáil being employed by these bodies, and we are now putting the E.S.B. in the same position in that regard, that is in the same position as other State organisations. As Deputies know, there is no similar prohibition on C.I.E. employees and employees of other organisations of that kind, and I have felt that the C.I.E. practice was the desirable one, and it is the C.I.E. practice I am trying to get established in the case of the E.S.B.</P>
+    <P>That practice means that if a C.I.E. employee is elected to either House of the Oireachtas, he gets leave of absence from his employment during the period he acts as a member of the Oireachtas, and he will be entitled to go back to <Col N="538" /> his employment if he ceases to be a member of the Oireachtas.  I have mentioned an amendment which I am prepared to introduce on Committee Stage, an amendment which will deal with the question of pensions.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>The amendment will preserve existing pension rights?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Yes.  I did mention in that regard that certain complications would arise in the case of a member of the Oireachtas who qualified for a pension by holding a Parliamentary Secretaryship, or a ministerial post, which will also have to be dealt with.</P>
+      <P>With regard to E.S.B. fisheries, I have a personal point of view on this matter which, perhaps, is not fully shared by my colleagues.  I think it is wrong that the Minister for Industry and Commerce should, directly or indirectly, have responsibility for fishery policy.  As matters stand, the E.S.B., being entirely responsible to the Minister for Industry and Commerce for the discharge of its obligations under the Acts, and having fisheries under its control, deals with the Minister for Industry and Commerce in connection with these fisheries.  The management of these fisheries should be a matter for discussion and arrangement between the E.S.B. and the Minister for Lands, rather than the Minister for Industry and Commerce.</P>
+      <P>Deputy Russell says that fisheries should be taken away from the E.S.B. altogether.  I would personally not see very strong objection to that from my point of view as Minister for Industry and Commerce, but I would have, I think, to insist, if such a policy were adopted, that the electricity interests were superior, and that if plans for the development of fisheries were likely to interfere with the generation of electricity, they would have to be modified so as not to interfere in that way.</P>
+    </Speaker>
+    <P>However, I do not think the Department of Fisheries want to go as far as that.  I think they will be satisfied with an arrangement under which the management of the fisheries by the E.S.B. can be brought into conformity <Col N="539" /> with general fishery management practice. There is a certain amount of argumentation going on in that regard, and if the results of that argumentation are not ready for this Bill, I will have them in another Bill, which will be coming along very soon, dealing with the provision of capital for the purposes of the E.S.B.</P>
+    <P>Deputy Cosgrave paid well deserved tribute to the two whole-time members of the E.S.B. who retired last year, Dr. McLaughlin and Mr. J.M. Fay.  I should like to join in that tribute.  Both members spent a very long number of years as whole-time executives of the E.S.B. and they contributed greatly to its successful development.  There is now a problem obviously arising in connection with the future form of the E.S.B.  The chairman, Dr. Browne, will be retiring, on grounds of age, in a couple of years' time, and clearly we have to consider not merely the question of personnel of the board, but also the future form of the board.  That is a matter which is having attention at present.</P>
+    <P>It is true that while the E.S.B. is a very large undertaking, calculated in terms of capital investment and scale of operations, it is not as complicated an undertaking to manage as one with a greater diversification of interests. Nevertheless, it is obvious that we must have some system of control which will ensure that the organisation is properly directed and that the interests of public policy are served throughout in its operations.  These are matters which are under consideration at present and in connection with which it will be necessary to take decisions, say, within a year or so.</P>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>It is not proposed to do away with part-time membership?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No.  I would not contemplate that at all.  It may be that some development of that system might be decided upon.  The board is not at full strength at present and that will be the position until these issues of policy are resolved.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Would the Minister care to express an opinion in regard to piped water supplies?</P>
+    </Speaker>
+    <Col N="540" />
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I am quite prepared to agree with Deputy Norton and Deputy Loughman that one of the most useful services that could be provided for rural dwellers is a piped water supply.  I should not like to express, off the cuff, an opinion as to whether the E.S.B. organisation is the best means by which that service could be provided.  I have not given any thought whatever as yet to the financial problems in connection with it.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee Stage ordered for Wednesday, 19th November, 1958.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I have some amendments. I am not quite sure if they will be completed by then.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Customs-free Airport (Amendment)" RHead="Bill, 1958&mdash;Second Stage">
+    <Title>Customs-free Airport (Amendment) Bill, 1958&mdash;Second Stage.</Title>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. S. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. S. Lemass)</NameTxt>
+      <P>I move that the Bill be now read a Second Time.  I understand it is agreed that we might take Nos. 7 and 8 on the Order Paper together so far as the Second Reading discussion is concerned.  Both deal with Shannon Airport.  Separate Committee Stages will be necessary.  Therefore, I will make the one statement covering the two Bills, if that is agreeable to the Chair.</P>
+    </Speaker>
+    <Speaker pid="WilliamAlexanderShel" hpid="Acting-Chairman (Mr. Sheldon) Acting-Chairman (Mr. Sheldon)">
+      <NameTxt>Acting-Chairman (Mr. Sheldon)</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>The Customs-free Airport Act, 1947, became law on 18th March, 1947.  The establishment of a customs-free airport was a natural development of the Government's policy of providing for international airlines using Shannon Airport the best possible facilities for every form of air transport with a minimum of formalities and impediments. It was then visualised that the bulk of traffic through Shannon Airport would consist of passengers and freight in transit to other destinations and it was desired to encourage this traffic by permitting the greatest possible freedom of movement for transit aircraft, their passengers and cargoes.  The primary object of <Col N="541" /> the Customs-free Airport Act, 1947, was, therefore, to facilitate transit traffic, and in this respect I think we can conclude that the measure has been justified.  Between 1947 and 1957, the number of passengers in transit through the airport increased by about 200 per cent. and there has been an even greater increase in the volume of transit freight moving through the airport.  There is no doubt that the freedom from customs formalities provided for under the 1947 Act has been a source of encouragement to air transport at the airport.</P>
+      <P>It was hoped also that the establishment of a customs-free airport and particularly the elimination of formalities in the case of goods in transit, would encourage the development of processing and <i>entrepôt</i> trades and businesses within the airport.  The fact that the 1947 Act did not produce this result suggests that something more than freedom from formalities is required if we are to promote business activity at Shannon.  It is to this end that the Government decided last year to assign special responsibilities relating to the promotion of transit and tourist traffic, as well as freight traffic, to the Controller of Sales and Catering, Shannon Airport, acting for this purpose with the support of an advisory group as the &ldquo;Shannon Free Airport Development Authority.&rdquo;  The efforts of the authority to date give promise of some desirable industrial projects developing at the airport.</P>
+      <P>The Minister for Finance announced in his Budget speech this year that consideration was being given to the introduction of a special Bill to provide for exemption from taxation on profits for a period of 25 years for new <i>bona fide</i> export businesses established at the airport.  The second Bill we are dealing with on this occasion is designed for that purpose.</P>
+    </Speaker>
+    <P>The present Bill is designed to facilitate the control of businesses to be established at the airport.  In this respect, it may be regarded as being complementary to the Finance (Miscellaneous Provisions) Bill, 1958, which is expected to produce an expansion of business activity at the airport.  The <Col N="542" /> present Bill is intended also to remedy certain defects in the 1947 Act relating to customs controls there.</P>
+    <P>Sub-section (13) (1) of the Customs-free Airport Act, 1947, provides for the making of regulations for the management and control of the airport and, in particular, regulations permitting the carrying on of trades, businesses and manufactures within the airport.  Experience has shown this sub-section to be unnecessarily cumbersome in that it is so phrased as to necessitate the making of Orders regulating the manner in which any trade, business or manufacture at the airport should be carried on.  I am now satisfied that such detailed regulation is unnecessary, and that the desired control can be achieved by a simple licensing system as provided for in Section 2.  Section 11 provides, therefore, for the revocation of Section 13 (1) (b) of the Act of 1947.</P>
+    <P>Sub-section (2) (2) (a) affords a safeguard for existing businesses established outside the airport by providing that in considering the grant of a licence for any particular business, regard shall be had to the extent to which that business is already carried on outside of the airport.  Sub-section (2) (2) goes on to provide that the extent to which the proposed business is likely to lead to the use of air transport, will also be a consideration in the grant of a licence.  The reason for these safeguards is that the primary purpose of this Bill, and of the complementary tax concession Bill to which I have referred, is to promote the welfare of the airport, but it is not intended that this should be done in a way which might prove harmful to existing businesses in the State outside the airport.</P>
+    <P>It is intended, under Section 7, that no trade, business or manufacture will be carried on at the airport except under licence; but the normal operations of airline companies and the activities of persons and companies already operating at the airport under a lease will be exempted from the licensing requirement.  The exemption from licensing will not extend to the supply of dutiable commodities <Col N="543" /> for sale on, or for use on, aircraft, which must remain liable to such controls as the Revenue Commissioners may think fit to impose.</P>
+    <P>Section 4 provides for the attaching of conditions to licences.  While it may possibly be found necessary from the point of view of the Department of Industry and Commerce to attach certain conditions to licences, it is contemplated that such conditions will be designed mainly to provide the Revenue Commissioners with a means to control operations involving the use of commodities liable to high rates of duty.  In particular conditions may be attached to a licence requiring the holder to commence business before a specified date, fixed only after consultation with him, or requiring him when so directed, to terminate any trade, business or manufacture being carried on by him which is not specified in the licence.</P>
+    <P>Provisions relating to the revocation and variation of licences are contained in Section 5.</P>
+    <P>In the case of the Control of Manufactures Acts, a licence may be revoked only on the application of the holder or where the holder has been convicted of a serious offence under the Acts.  In the case of certificates of exemption provided for under the Industrial Development (Encouragement of External Investment) Act, which we passed this year, there is no provision for revocation except on the application of the holder of the certificate. It was hoped that, in the interest of encouraging external promoters, the provisions in the present Bill relating to revocation would be no less attractive.  There are, however, special considerations in the case of Shannon Airport where businesses dealing in high-duty goods may enjoy immunity from customs control and the Bill necessarily provides that a licence will be liable to be revoked in the event of a breach of the conditions attached thereto or in the event of a conviction for an offence by the licensee against the customs laws relating to goods brought into the airport under the licence.</P>
+    <P>As district from revocation, it is <Col N="544" /> proposed that a licence may be varied only with the consent of the holder.</P>
+    <P>As an encouragement to external concerns, there are no conditions attaching to a transfer of a licence other than a simple obligation on the transferee to notify the Minister of the transfer.</P>
+    <P>The Control of Manufactures Acts provide for the keeping of registers of new manufacture licences and certificates of exemption and for their being made available for inspection by the public on the payment of a nominal fee.  It is considered that there should be a similar provision in respect of licences issued under this Bill, and Section 6 provides accordingly.</P>
+    <P>Section 6 of the Customs-free Airport Act, 1947, which requires that goods intended for personal use or consumption within the airport or for retail sale therein shall be brought into the airport only from another part of the State, has been found to be defective in two respects.  First, while it is an offence, under sub-section (3) of the section, to bring or to be concerned in bringing or to assist any person concerned in bringing, such goods into the airport in contravention of the section, it is not an offence for a person to use personally or to consume goods so brought into the airport by another person; nor is it an offence to dispose irregularly of goods so brought into the airport for personal use or consumption. It is proposed to remedy these defects by means of Section 10.</P>
+    <P>A second defect of Section 6 of the 1947 Act is that it prohibits the bringing of goods directly into the airport from a place abroad for retail sale therein.  It is proposed to provide in Section 9 for the grant of permission, subject to such necessary conditions as may be imposed, for the bringing into the airport from a place, other than another part of the State, of goods for retail sale in the airport for exportation&mdash;for example, to transit or embarking passengers&mdash;or for retail sale for shipment as aircraft stores.</P>
+    <P>Having regard to the provisions in this Bill for the issue of licences and to the measure of control thereby afforded, it is felt that the Control of <Col N="545" /> Manufactures Acts need not apply to the airport and it is proposed to provide accordingly in Section 8.</P>
+    <P>The Finance (Miscellaneous Provisions) Bill, 1958, taken in conjunction with the Customs-free Airport (Amendment) Bill, 1958, is designed to implement the proposal, referred to in the financial statement last April, to grant a 25-year tax exemption of profits of <i>bona fide</i> export businesses at Shannon Airport.  The Customs-free Airport (Amendment) Bill provides for the licensing of businesses to be carried on in the airport area; the Finance (Miscellaneous Provisions) Bill deals with the granting of the actual tax concession to companies operating at the airport.  It also deals with certain customs and excise matters relating to the airport with which I shall deal later.</P>
+    <P>The way the tax concession will be applied is as follows: companies carrying on a trade at the airport may be given a certificate to the effect that their trading operations constitute what is described in the Bill as &ldquo;exempted trading operations&rdquo; and where such a certificate is given, the company will qualify for full relief from income-tax and corporation profits tax in respect of those trading operations during a period of 25 years from the date of the passing of the Bill.</P>
+    <P>The trading operations which may be certified as exempt are set out at sub-section (5) of Section 3 of the Bill. They fall within one or more of the following six categories:&mdash;</P>
+    <P>(1)  the sale for export of goods produced, manufactured or processed in the airport;</P>
+    <P>(2)  the sale for export of imported goods;</P>
+    <P>(3)  the repair or maintenance of aircraft;</P>
+    <P>(4)  the provision, within the airport or outside the State, of services entailing the use of aircraft or air transport;</P>
+    <P>(5)  other trading operations which contribute to the use or development of the airport;</P>
+    <P>
+      <Col N="546" /> (6)  trading operations ancillary to trading operations qualifying under any of the previous heads.</P>
+    <P>Certain trading operations are not to be certified as exempt and these are described at sub-section (6) of Section 3.  The broad effect of the exclusions is to secure that tax exemption will not extend to profits attributable to trading operations carried on in the State outside the airport or to profits from the sale of goods, or the rendering of services, to persons resident in the State, even if the relevant sales, etc., are made in the airport.  Profits arising from trading in, as distinct from trading with, Britain and the Six Counties are also excluded from exemption; the necessity for this exclusion arises from the basis of the double taxation agreement with Britain.</P>
+    <P>Sections 4 to 10 contain the technical tax provisions to give effect to the proposed exemptions.  It will be noted that the effect of Section 7 is to substitute, in the case of exempted trading operations, the new 25 years' tax exemption for the exports tax concession available under the Finance (Miscellaneous Provisions) Act, 1956. The latter concession is retained, however, for any export business in the airport that might fail to secure the 25 years' exemption.</P>
+    <P>Part III of the Bill deals with customs and excise matters.  Under the Customs-free Airport Act, 1947, goods imported from the airport into the State are treated as imported from abroad and are liable to customs duty accordingly.  While the provisions of this Bill will not change the customs status of the goods, which will still be imported goods, Section 11 will, in the case of products manufactured in the airport, substitute for the ordinary customs duties, if any, applicable to the finished products a duty equivalent to the sum of the duties on the materials used in their manufacture.  Such goods, therefore, will be placed as far as possible in a position of equality with goods made elsewhere in the State.</P>
+    <P>It is necessary, however, to make an exception as regards goods made from materials subject to import restrictions in the State.  Airport manufacturers of <Col N="547" /> such goods have an advantage over manufacturers elsewhere in the State in that they can freely obtain the restricted materials.  These goods will remain liable to the duties applicable to finished products, but, under Section 12, they will be eligible for the most favourable preferential rates of such duties granted to like goods originating in any part of the British Commonwealth.</P>
+    <P>Because of the danger of diversion to dutiable purposes of high duty goods brought free of duty into the airport for further manufacture or for export, the Bill provides, in Section 13, that duty will be payable on such goods where they are subsequently reported missing and there is no satisfactory explanation therefor.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The principle of a customs-free airport at Shannon is one that has already been accepted in earlier legislation and therefore the principle of these two Bills&mdash;which of course are complementary&mdash;is one we need not discuss this morning.  That being so, it seems to me that both these Bills are Bills more for discussion on Committee Stage than on the Second Stage.  However, I want to make two general comments.</P>
+      <P>I do not like the system of licensing in relation to any type of operation, but I can appreciate and understand the necessity for having a control in the vicinity of an airport in a different manner from that in which control is necessary outside, but it does seem to me that there is no advantage in having an industry inside the airport, unless placing it there means that it will bring traffic to the airport itself.</P>
+    </Speaker>
+    <P>I cannot understand the justification for suggesting that an industry should go to the airport, if it does not, by doing so, bring additional traffic.  I do not want to refer to any particular firm, but we have all seen the advertisements of one firm.  For the life of me, I cannot understand what benefit that firm will bring to the airport traffic.  I cannot see at all why special facilities should be given, merely because an industry plants itself at Shannon, if the industry can function just as adequately in any other part of the country.  Of course, if the <Col N="548" /> effect of putting it there means that there will be greater utilisation of the airport, I can understand that, having regard to the principle already accepted in earlier legislation, but I do not think that the licensing facilities here should be used in such a way that they can possibly under any circumstances enable a licensce to compete with industry in the remainder of the country, unless there is to be some very distinct advantage for the air traffic as such.</P>
+    <P>Secondly, I want to say this.  No type of Bill such as this, no type of attempt to popularise Shannon and to attract people to make greater use of Shannon will make up for civility and cleanliness. If we do not maintain in the airport itself for the people who pass through it as passengers the highest possible standards, the airport will very soon get a name that will prevent traffic coming near it.  It is common case with all of us&mdash;certainly as between the Tánaiste and myself&mdash;that in relation to the tourist business, cleanliness and courtesy are the first qualifications.  That is even more necessary at Shannon Airport and the type of measure envisaged here will not make up for those two essentials.</P>
+    <P>As far as the Finance (Miscellaneous Provisions) Bill is concerned, this was foreshadowed by the Minister in his Budget.  I can see that it will be difficult to administer and I can certainly see the necessity to provide that there can be a revocation of a licence in the event of a serious breach of customs formalities, laws or regulations. Candidly, I am in some doubt as to whether the manner in which this is being done is the best way, but, as I said at the beginning, that is more a question for the Committee Stage than for the Second Reading, and no doubt we shall have adequate opportunity to discuss it then.  It does seem to me that the justification for this must be the bringing of more traffic to the airport and not merely that there is a greater benefit for a licensee in operating at Shannon than in any other part of the country.</P>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I should like to say that, in principle, I certainly welcome anything that will, not alone, as Deputy Sweetman said, encourage <Col N="549" /> greater passenger traffic through the airport, but make use of the facilities at Shannon which cost this country something like £3,000,000.  Even if there were no questions at all of encouraging passenger traffic, it would be very good to develop and utilise the equipment, runways and buildings there in any possible way we can to provide employment at Shannon, with consequent benefit to the areas outside the airport.  So that, even if the question of passenger traffic did not arise at all, I still think we should do everything possible to utilise the very useful and expensive national asset we have down at Shannon.</P>
+      <P>We should not lose sight of the fact that the main income for Shannon and it main opportunity for expansion is through passenger traffic. Every encouragement must continue to be given not only to our own airline, Aerlinte, but to aircraft of every other airline that lands at Shannon Airport.  That is an important development which, I am sure, is very close to the Minister's mind at all times.  The first consideration is to encourage as many aeroplanes as possible to land at Shannon Airport because the passengers flying on those planes want to land there.</P>
+      <P>I welcome these two Bills, but I am just wondering if they do not leave a possible loophole.  As I understand the Minister's introductory remarks, the reason for providing these tax-free and other facilities is to encourage people to bring in raw materials that would normally be subject to heavy duty and to re-export them from Shannon Airport, or to process or repack them in some shape or form and to export them from the airport again, primarily using air traffic.</P>
+    </Speaker>
+    <P>There has been, as Deputy Sweetman points out, a recent development which seems to indicate that raw material manufactured&mdash;I do not know whether &ldquo;manufactured&rdquo; is the correct expression, but certainly produced &mdash;within the State can be brought into Shannon Airport and there further processed.  Would it be possible for any Irish company to set up a subsidiary in Shannon Airport in order to get the benefit of those 25 years tax free, to <Col N="550" /> send in raw materials at a nominal price and, with the very substantial tax-free concession, to make a profit very much in excess of what it would normally make through its trading activities?  I do not know whether that is a figment of my imagination, but it seems to me there is a possibility that Shannon could be used as a means of evading State taxes.</P>
+    <P>There is no doubt that the type of industry that would be set up there would be for the production of goods of which the value would be very high indeed and to some extent I presume that would limit the type of industry there.  However, it should also be visualised&mdash;I think the Minister has made provision for this, but whether sufficient provision I do not know&mdash;that an industry might be established for the manufacture of aircraft, not the heavy type of aircraft but the light aircraft used for civil or private flying.  Such an industry could be established there and planes flown to various parts of the world.  I wonder if the relevant paragraphs of Section 3 are sufficiently clear to cover the establishment of such an industry.</P>
+    <P>I welcome any effort to utilise or expand the facilities of Shannon Airport, whether through the encouragement of passenger or commercial traffic.  The Minister did make one reference to the Shannon free airport development authority, but I do not see any reference in either of these Bills to that authority.  I think it is desirable that the Minister should refer to this authority from time to time in the granting of licences or, more important still, before he revokes a licence.  I do believe that something more than seven days' notice might be given when the Minister intends to revoke a licence.  There may be very good reasons for a licensee transgressing the regulations, and it seems to me that something more than a week would be necessary to consider representations. I am sure other points will arise on the Committee Stage, and I have nothing further to say now, except that I welcome the Bill in principle and hope it will lead to further development and employment at Shannon Airport.</P>
+    <Col N="551" />
+    <Speaker pid="PatrickJBurke" hpid="Mr. P.J. Burke Mr. P.J. Burke">
+      <NameTxt>Mr. P.J. Burke</NameTxt>
+      <P>I welcome the Bill also as another national advance.  The advances that have been made over a number of years as far as our airport traffic is concerned are very encouraging and these two Bills will assist further development.  I hope everything the Minister desires will be achieved when these Bills are enacted.  Having said that, I want to strike another note.  I am surprised that some of the bureaucrats that control Air Lingus should have to come to this House at all because some of those people put there by this House&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Surely that does not arise on this Bill under any circumstances?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Aer Lingus has nothing to do with it.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcAuliffe" hpid="Acting-Chairman (Mr. McAuliffe) Acting-Chairman (Mr. McAuliffe)">
+      <NameTxt>Acting-Chairman (Mr. McAuliffe)</NameTxt>
+      <P>The Deputy should keep to the Bills before the House.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. P.J. Burke Mr. P.J. Burke">
+      <NameTxt>Mr. P.J. Burke</NameTxt>
+      <P>I am merely using them as an excuse to deal with problems very near my heart for some time.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The Deputy would need a better excuse than this.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. P.J. Burke Mr. P.J. Burke">
+      <NameTxt>Mr. P.J. Burke</NameTxt>
+      <P>Deputy Sweetman knows well what I am going to say and he would be well advised to give me an opportunity of saying it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting-Chairman Acting-Chairman">
+      <NameTxt>Acting-Chairman</NameTxt>
+      <P>In fairness to the House, the Deputy should keep to the Bills under discussion.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. P.J. Burke Mr. P.J. Burke">
+      <NameTxt>Mr. P.J. Burke</NameTxt>
+      <P>I shall have an opportunity of discussing some of the bureaucrats on another occasion and I shall avail of it.  As public men, we do not want anything from anybody. We just want co-operation and understanding. We do not want any public officials to do anything dishonourable. We want them to carry out their duties in an honourable way.  However, on another occasion, I shall refer to the people I have in mind who have not treated public men as they should be treated.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I hope to have the opportunity then also of defending <Col N="552" /> them and putting them on a higher plane than that on which Deputy Burke put them after that remark of his&mdash; not that they need any defence from a person like Deputy Burke.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. P.J. Burke Mr. P.J. Burke">
+      <NameTxt>Mr. P.J. Burke</NameTxt>
+      <P>I resent that.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>And I resent what the Deputy has just said.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Deputy Sweetman questioned whether there was any national advantage in having an industry established at Shannon Airport rather that elsewhere, unless it brought traffic to the airport.</P>
+      <P>I would not altogether disagree with him in that point of view, except for other considerations of which we must not lose sight.  There is the need for some development work in connection with Shannon.  The question of action to expand traffic, passengers and freight, at the airport, arose out of the consideration of the possible consequences for the airport of the development of jet aircraft on the transatlantic routes.  It is by no means certain yet what that effect will be, but it is not unreasonable to assume that, in the course of time, transit stops at Shannon for operational reasons will become less frequent and consequently that the revenues of the airport may diminish and that employment at the airport may contract.  It was against that possibility that we thought it necessary to plan for the development of the traffic at the airport on the one hand and for the extension, on the other hand, of activities in the airport area capable of maintaining the employment level there.</P>
+    </Speaker>
+    <P>Apart altogether from the need to build up the trade of the airport and to maintain the airport as a commercial operation, there is also the possible social consequences for that part of the country if there should be, at any time in the future, a substantial deterioration in the employment position.  Therefore while it is true, from the point of view of the country as a whole, that a good industry is a good industry no matter where it operates, there are reasons which justify channelling to the Shannon Airport industries of a special character, <Col N="553" /> particularly industries which are likely to use air transportation in the course of their operations.  May I say, however, that what the advantages of location at the airport may be for a particular industry will have to be determined by those who are going to operate it?  Already there has been one case of a company which proposed to put up a manufacturing operation at the airport and had almost decided to do so and had come here to make its plans but decided that it would be just as well off in another location and decided to go to the other location for some special reasons of its own.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>In such circumstances, it would get exactly the same licensing treatment&mdash;of course, not the financial treatment?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>As any other firm in the country.  In the case of the airport, there is the possibility of attracting there operations&mdash;not necessarily industrial operations&mdash;of an important kind where air transportation would be a great facility; and Shannon is, of course, a great air transport centre with connections all over the world.  There are also possibilities in the direction of which Deputy Russell spoke, in connection with the provision of equipment for air operations or required by air operators.</P>
+    </Speaker>
+    <P>The intention is to confine operations at Shannon so far as possible to the type of industry which will normally use air transportation in the supply of materials or the distribution of its products and for businesses of a processing or commercial kind for which Shannon is particularly suitable. Deputy Russell, for instance, asked would it be possible for an Irish company to set up a subsidiary undertaking at Shannon and thus evade State taxation or in some other way get an advantage over other Irish concerns. The licensing system is intended to take care of that.  One could not give a complete answer to the Deputy's hypothetical question without knowing whether the subsidiary company at Shannon merely represented the transfer of operations from some other part <Col N="554" /> of the country&mdash;which would certainly be discouraged&mdash;or a new development in the operations of that company.</P>
+    <P>Specifically I should make it clear that there is certainly no requirement that operations at Shannon Airport should be confined to external companies. Indeed, I should hope that Irish companies would in the course of the development of their activities find it advantageous to them to do at Shannon the type of operations we have in mind.  As I mentioned, there are some proposals for industrial operations at Shannon which appear likely to proceed and which represent the type of development desired.</P>
+    <P>In that connection, I should mention the position of the Shannon Airport Authority.  It is in an undefined position at the moment and clearly something has to be done about it.  There is no legal personage with whom contracts can be made and forthwith arrangements will be completed to establish the authority as a company registered under the Companies Acts, so that it will be a legal person.  Clearly, we will have to provide by legislation for the future status of that company and also for the provision of capital for its operations.</P>
+    <P>Amongst the operations which we contemplate it will undertake will be the construction of factory premises for letting.  It should be clearly appreciated that the Shannon Airport Development Authority, as it is now, is not confined solely to the promotion of industrial activities at Shannon.  It has the very special duty of developing the freight traffic and passenger traffic of the airport.  It is recognised that the potentialities in the freight field are very considerable indeed.</P>
+    <P>In the case of passengers, obviously we must contemplate development there becoming increasingly of the character of terminal operations, that is to say, of passengers coming to Shannon for the purpose of disembarking at Shannon or of spending a holiday in this country before re-embarking somewhere else.  It is inevitable that over the next ten years or so, the volume of pure transit traffic will diminish whether or not it becomes operationally necessary for jet aircraft <Col N="555" /> to land there.  We know that many of the flights of jet aircraft which have taken place already over the Atlantic have in fact used Shannon; but there are circumstances which make it difficult to effect the normal type of operation there which other aircraft do. These are very large aircraft and there is a very large number of passengers on them.  Getting those passengers off the aircraft and back on to it again would in itself involve a great deal of time.  The practice appears more likely to develop that the passengers will be kept on the aircraft while they are on the ground at Shannon.  That is something we may have to think about, since clearly one of the great assets of the Shannon airport is the shop and the access of passengers to the shop is important from our point of view. Indeed, the evidence available to us is that an increased number of transatlantic passengers are asking their travel agents to route them on flights passing through Shannon; and, of course, that is the type of development which the airport authority is specially designed to encourage.</P>
+    <P>As Deputy Sweetman said, the Bills are agreed in principle and they are mainly for consideration in committee. Therefore, I do not propose to say anything further at this stage, as, of course, each section of the Bill will be subject to meticulous examination in the House on Committee Stage.</P>
+    <P>Question put and agreed to.</P>
+    <P>Committee Stage ordered for Wednesday, 12th November, 1958.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Finance (Miscellaneous Provisions)" RHead="Bill, 1958&mdash;Second Stage">
+    <Title>Finance (Miscellaneous Provisions) Bill, 1958&mdash;Second Stage.</Title>
+    <P>Question&mdash;&ldquo;That the Bill be now read a Second Time&rdquo;&mdash;put and agreed to.</P>
+    <P>Committee Stage ordered for Wednesday, 12th November, 1958.</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Amendments to Constitution">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Amendments to Constitution.</Title>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan (for Mr. Sherwin) Mr. McQuillan (for Mr. Sherwin)">
+      <NameTxt>Mr. McQuillan (for Mr. Sherwin)</NameTxt>
+      <P>asked the Taoiseach if he will introduce <Col N="556" /> legislation towards the amendment of Article 12 of the Constitution so as to reduce the number of nominators required for a citizen to stand for the office of President of Ireland.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste (thar cheann an Taoisigh) Seán F. Lemass">
+      <NameTxt>An Tánaiste (thar cheann an Taoisigh)</NameTxt>
+      <P>The answer is in the negative.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Who asked Question No. 1?  Did any Deputy rise?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy McQuillan.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>The answer is still in the negative.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan (for Mr. Sherwin) Mr. McQuillan (for Mr. Sherwin)">
+      <NameTxt>Mr. McQuillan (for Mr. Sherwin)</NameTxt>
+      <P>asked the Taoiseach if he will introduce legislation towards the amendment of Article 16 of the Constitution so as to allow citizens of 18 years the right to vote, in view of the fact that such persons are held responsible in law for their actions and may be subject to conscription and the death penalty.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste (thar cheann an Taoisigh) Seán F. Lemass">
+      <NameTxt>An Tánaiste (thar cheann an Taoisigh)</NameTxt>
+      <P>The answer is in the negative.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Really negative government, this!</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Limerick Unemployment">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Limerick Unemployment.</Title>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>asked the Minister for Industry and Commerce if, in view of the high rate of unemployment in Limerick City and County, he will give favourable consideration to including both in the undeveloped areas.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. S. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. S. Lemass)</NameTxt>
+      <P>In the case of West Limerick and certain other areas similar in economic conditions to adjoining areas set out in the Undeveloped Areas Act, 1952, I indicated during the passage of the Act that if a concrete proposal were submitted for the establishment of an industry it would be referred to An Foras Tionscal for consideration.  I also said that I would be prepared to give sympathetic consideration to the making of an Order bringing the area within the scope of <Col N="557" /> the Act if An Foras Tionscal indicated that the project was of a kind for which the making of a grant would be favourably considered if it were located in an undeveloped area.  That is still the position.</P>
+      <P>It would not, however, be appropriate to extend the scope of the Act to include Limerick City and the remainder of County Limerick.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>Is the Minister aware that Limerick City is now in the invidious position of having to compete, on the one hand, with the attractions and inducements of the undeveloped areas which come within ten miles of it, and on the other hand the attractions of Dublin to which most industries wish to come?  Having regard to that would the Minister not consider, if he received a firm proposal, including Limerick City and County in the undeveloped areas?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>It would obviously be impracticable to deal with this matter by extending the scope of the Act.  Perhaps Limerick City might advertise its attractions.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Machine-won Turf">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Machine-won Turf.</Title>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he is aware of the shortage of machine-won turf in the Midlands and in the West for home consumption; and if he will state (a) what new machinery for the production of machine-won turf has been purchased since the 15th December, 1954, and (b) whether any of the machinery sold to firms in 1953 has been repurchased and, if so, the names of such firms.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>It is a matter of common knowledge that production of machine-won turf in 1958 was hampered by the abnormally bad weather, but I have not received any representations regarding the shortage referred to by the Deputy.  As stated in reply to a question on 29th October, supplies of machine-won turf are at present freely available for general sale from Bord na Móna's works in the Lanesboro' area, County Longford, and from Glenties, County Donegal.</P>
+    </Speaker>
+    <P>
+      <Col N="558" /> The latter part of the Deputy's question relates to the board's day-to-day administration and is, therefore, a matter in which I have no function.</P>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>Is the Minister aware that 31 new turf-cutting machines which never left the packing cases and which cost the taxpayers £55,361, have been sold for £900, a loss of £54,461?  Would the Minister explain why the machines were not even put into production?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Personally I do not know to what the Deputy is referring. I have not heard of the operation he referred to and in any event the difficulty about machine-won turf this year was not due to any lack of machines.  It was due to the weather.</P>
+    </Speaker>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>I would point out to the Minister that 31 new machines were sold for scrap.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>By whom?</P>
+    </Speaker>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>By Bord na Móna.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>When?</P>
+    </Speaker>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>During the Minister's period of office.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Not during my time.</P>
+    </Speaker>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>In 1953.  You had to give your <i>imprimatur</i> to it, too.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Rural Electrification in Wexford">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Rural Electrification in Wexford.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he will state the approximate date of the extension of E.S.B. power to the Gorey Hill area, County Wexford.</P>
+    </Speaker>
+    <Speaker pid="MichaelHilliard" hpid="Parliamentary Secretary to the Minister for Industry and Commerce (Mr. Hilliard) Michael Hilliard">
+      <NameTxt>Parliamentary Secretary to the Minister for Industry and Commerce (Mr. Hilliard)</NameTxt>
+      <P>I am informed by the E.S.B. that there has been no change in the position regarding the extension of rural electrification to the Gorey Hill area, County Wexford, since I replied to a similar question by the Deputy on the 23rd April, 1958.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="Closing of Bray-Harcourt Street Rail Service">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Closing of Bray-Harcourt Street Rail Service.</Title>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>asked the Minister for Industry and Commerce whether he is aware of the fact that C.I.E. have <Col N="559" /> given notice of their intention to close the Bray-Harcourt Street railway line, and of the serious inconvenience which such closing will cause to residents in Bray and to the tourist industry in that town; and whether in the circumstances he will consult with C.I.E. with a view to the continuance of the railway service.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he is aware of the apprehension among users of the Greystones to Harcourt Street train service at its proposed discontinuance; and if he is satisfied that the proposed alternative bus service will be adequate to cater for the needs of the people who use the train service, especially persons in hospitals and institutions who would have no shelter if obliged to use a bus service, taking into account the facilities available at railway stations.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I propose, with the permission of the Ceann Comhairle, to take Questions Nos. 6 and 7 together.</P>
+      <P>The Transport Act, 1958 empowers C.I.E. to terminate any particular train service provided the board is satisfied that its operation is uneconomic and that there is no prospect of its continued operation being economic within a reasonable period.  The Act also imposes on the board of C.I.E. the general obligation to conduct the undertaking so as to eliminate losses by 31-3-64.  This means, in effect, that the fate of any particular line or station must depend on whether sufficient public support is given to it to justify its retention.</P>
+      <P>It is open to Deputies and other persons or bodies concerned to make representations to C.I.E. during the two months' period of notice which C.I.E. is required to give under the Act.  I should make it clear that under the Transport Act I have no function in the matter.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>While I appreciate the terms of the Act, is the Minister aware that in the public notice concerning this matter which appeared in <i>Iris Oifigiúil</i> reference was made to the fact that C.I.E. proposed to apply for permission to run a bus service on the <Col N="560" /> Leopardstown Road?  Is he aware that in the past that road was not sanctioned as a road suitable for public service vehicles and in the circumstances will the Minister ensure that until that road is sanctioned the existing service will be maintained?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That application would not be made to me.  Surely it would be made to the county council?</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>The county council and the Department of Local Government. Representations were made to C.I.E. some time ago to run a bus service but the county council and the Department of Local Government refused to sanction it unless alterations were made to the road.  The road is still in the same condition.  Notice was given that the service would run through to sanction it unless alterations were made to the road.  The road is still in the same condition.  Notice was given that the service would run through Sandyford village, but it did not say where it would run after that.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>In view of the congestion, particularly in the summer time, on the Dublin-Bray road, and the further congestion which will be caused if C.I.E. have to provide buses to carry the traffic now carried by the railway system from Harcourt Street to Bray, would the Minister, in order not to add to the traffic congestion problems, suggest to C.I.E. that, instead of closing this line, it should try some imaginative propaganda in order to popularise the line to keep it open and provide employment, and generally not to scrap an obviously useful line of transportation between the city and one of its most popular and populous seaside resorts?  Something should be done to save the line.  It is one of the most popular railway lines in the country.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Not popular enough, I would say.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>The Minister does not travel on that line.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I see the empty trains often enough.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I can see coffins on the Bray road in the future to a greater extent than before.</P>
+    </Speaker>
+    <Col N="561" />
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Order! Question No. 8.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. - Disabled" RHead="Persons' Maintenance Allowance: Wexford Expenditure">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Disabled Persons' Maintenance  Allowance: Wexford Expenditure.</Title>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>asked the Minister for Health if he will state how much money was unspent of the £25,000 provided by the Wexford County Council for disabled persons' maintenance allowance for the year ended 31st March, 1958.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Health (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Health (Mr. MacEntee)</NameTxt>
+      <P>Of the sum of £25,000 provided by the Wexford County Council for disabled persons' maintenance allowances in respect of the year ended 31st March, 1958, £903 was unspent at the end of the year.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>And they were crying out for more help from you!</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Waterford Hospital: Attendants' Wages">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Waterford Hospital: Attendants' Wages.</Title>
+    <Speaker pid="ThomasAnthonyKyne" hpid="Mr. Kyne Mr. Kyne">
+      <NameTxt>Mr. Kyne</NameTxt>
+      <P>asked the Minister for Health why female employees of the Waterford Board of Assistance engaged as hospital attendants on the same type and amount of work have received increases of 7/6 per week if over 21 years and of only 5/- per week if under 21 years.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Increases of 7/6 and 5/- a week, respectively, for female adult and juvenile employees were part of the agreed recommendations made under the arrangements for conciliation and arbitration for the Civil Service.  The agreed recommendations were adopted in relation to State employees generally and have been applied to local authority staffs, for whom I am the appropriate Minister and who are not covered by specific decisions arrived at as a result of negotiation under other established procedures.</P>
+    </Speaker>
+    <Speaker pid="ThomasAnthonyKyne" hpid="Mr. Kyne Mr. Kyne">
+      <NameTxt>Mr. Kyne</NameTxt>
+      <P>Does the Minister not consider that when the same conditions apply to, and the same work is carried out by people under 21 and people over 21, that decision to reduce the amount payable as a cost-of-living bonus is unfair?</P>
+    </Speaker>
+    <Col N="562" />
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I do not think so.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Ardkeen Chest Hospital: Wage Deductions">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Ardkeen Chest Hospital: Wage Deductions.</Title>
+    <Speaker pid="ThomasAnthonyKyne" hpid="Mr. Kyne Mr. Kyne">
+      <NameTxt>Mr. Kyne</NameTxt>
+      <P>asked the Minister for Health whether he is aware that a deduction of an extra 9d. per day has been made on the instructions of his Department from the wages of the female domestic and laundry staff employed at Ardkeen Chest Hospital following a pay increase of 5/- per week to females under 21 years; and if he will state the justification for this deduction as it has resulted in a reduction in actual wages of 3d. per week.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I have been informed by the Waterford County Council that all the laundry staff at Ardkeen hospital are over 21 years of age and are non-resident and, consequently, the matters mentioned in the question could not arise in regard to them.</P>
+      <P>In regard to female domestic staff, I understand that it is only within the last few days that the necessary order was made by the local authority, authorising the grant of bonus in their case, at the rate of 5/- per week in the case of such staff under 21 years of age and that the increased deduction which will be made in respect of the value of emoluments in kind will be at the rate of 6d. per day, with effect from the date from which the bonus award has effect.</P>
+    </Speaker>
+    <P>Some confusion may have arisen locally from the fact that it was intimated by the Department in July last that pending a final decision on the increased valuation to be placed on emoluments for resident staffs, the deductions to be made in the case of staffs to whom a bonus had been granted should be increased by 9d. per day, subject to adjustment later, if necessary, when the valuation was finally fixed.  This interim intimation was given so that health authorities which had then decided to make bonus awards&mdash;Waterford County Council was not one of them at that stage&mdash;could make interim payments to the resident staffs.  My decision that the increased deduction, at the discretion of the health authority, should be a minimum of 6d. a day was taken, however, in the latter part of September <Col N="563" /> and was notified by my Department to the appropriate managers on 26th of that month.</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Old Age and Blind Pensions">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Old Age and Blind Pensions.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Social Welfare whether in view of the rise in the cost of living by 11 points he will consider increasing old age and blind pensions, as the people concerned are the section of the community least able to bear such rise.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKennedy" hpid="Parliamentary Secretary to the Minister for Social Welfare (Mr. Kennedy) Michael Joseph Kennedy">
+      <NameTxt>Parliamentary Secretary to the Minister for Social Welfare (Mr. Kennedy)</NameTxt>
+      <P>The rates of old age pension were increased as from the 17th May, 1957, by the Social Welfare Act, 1957, and no further general increase is at present contemplated.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>Does the Parliamentary Secretary consider that the rate of increase was adequate in view of the increase in the cost of living?</P>
+    </Speaker>
+    <Speaker pid="MichaelJKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>All social welfare payments are a Grant-in-Aid and since 1947 there has been an increase of 46 per cent.  The pensions were 15/- at that time and they have since been increased by 66? per cent.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>That was a great consolation !</P>
+    </Speaker>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>Was any increase given in 1947?</P>
+    </Speaker>
+    <Speaker pid="MichaelJKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>I would need to look into that.  That is a separate question.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>There was not.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>There was.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Tax Revenue on Ground Rents">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Tax Revenue on Ground Rents.</Title>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>asked the Minister for Finance if he will state the total amount of tax collected in respect of ground rents in each year since 1953, and the approximate total amount of ground rents concerned.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Minister for Finance (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Finance (Dr. Ryan)</NameTxt>
+      <P>I regret that the information for which the Deputy asks is not available.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Income-Tax Arrears: Revenue Losses">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Income-Tax Arrears: Revenue Losses.</Title>
+    <Col N="564" />
+    <Speaker pid="FrankSherwin" hpid="Mr. Sherwin Mr. Sherwin">
+      <NameTxt>Mr. Sherwin</NameTxt>
+      <P>asked the Minister for Finance if he will state the loss to the revenue during the last five years as a result of persons leaving the State who were in arrears of income-tax.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I regret that the information asked for by the Deputy is not available.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Christmas Unemployed Grants">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Christmas Unemployed Grants.</Title>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>asked the Minister for Finance if he will state (a) what grants will be made available to local authorities to provide employment for unemployed workers prior to Christmas, (b) the estimated number of workers who will be employed under the grants and (c) the average duration of their employment.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Grants amounting to £270,000 have been allocated for special employment schemes in the county boroughs, boroughs and urban districts, and £35,000 for some of the smaller towns.  It is expected that the bulk of the schemes will be in operation before Christmas and that at the peak period about 1,700 men will be employed.  The period of employment allowed to each worker varies from 12 weeks in Dublin County Borough, to eight weeks in the other county boroughs, boroughs and urban areas and six weeks in the smaller towns.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Could the Minister say how much of that sum will be available for employment in rural areas and what is the employment content there?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I did not give any figure for rural areas.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>What does that mean? Does that mean there are none for rural areas?  My question is not limited to cities and towns; it covers the whole lot.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Villages and towns are in it also.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>They are included?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes.  There is a sum of £35,000 for some of the smaller towns and villages.</P>
+    </Speaker>
+    <Col N="565" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>That will not go very far.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Expenditure on Development of Exports">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Expenditure on Development of Exports.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Agriculture if he will state the amount of the special sum of £250,000 set aside for development of exports which has been spent, and the specific purposes to which it has been devoted.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan (for the Minister for Agriculture) Dr. Ryan (for the Minister for Agriculture)">
+      <NameTxt>Dr. Ryan (for the Minister for Agriculture)</NameTxt>
+      <P>The amount that has been spent so far out of the sum of £250,000 set aside for the general purpose of improving the marketing of agricultural produce is £4,039.  This amount comprises £2,670 in respect of travelling and subsistence expenses of the Advisory Committee on the Marketing of Agricultural Produce, including expenses incurred on market investigations outside the State, and £1,369 in respect of staff and office expenses of the committee.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>Do I take from the Minister's reply that from the sum of £250,000 voted for the purpose of developing agricultural exports, the Government to date, that is, after nearly two years, have spent only £4,000?  If that is the case, does the Minister not consider that there is very wide scope for increasing the export market by advertising and so on?  Does he not think it would be a good idea for the Government to do something about spending this money for the purpose of increasing agricultural export markets, something which is so necessary to-day not only here but in every country in the world?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>What the Deputy suggests may arise all right.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>Can the Minister not indicate some prospect of this money being spent in the future or used in some way?  What is the sense in voting £250,000 for development of our export markets, if the Government are prepared to do nothing at all about it?</P>
+    </Speaker>
+    <Col N="566" />
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>The committee has not made any proposal for the expenditure of that sum and I do not think the Dáil would agree that I should force them to spend the money in ways which they believe would be foolish&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>I fully appreciate that, but surely the Minister for Agriculture must have some suggestions to make to this committee for the purpose of increasing exports? This business does not make any sense to me.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Home-Grown Wheat and Wheat Imports">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Home-Grown Wheat and Wheat Imports.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Agriculture if he will give an estimate of (a) the return of homegrown wheat from this year's harvest fit for milling, and (b) the amount of wheat it may be necessary to import.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>On the basis of the information at present available, the estimates are (a) 25,000 tons and (b) 375,000 tons.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Independent Grain Dealers' Transactions">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Independent Grain Dealers' Transactions.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Agriculture if independent grain dealers are permitted to transact business direct with An Bord Gráin, or whether they must transact all dealing through the millers' association.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Final arrangements have not as yet been made in respect of the disposal of wheat held by licensed wheat dealers.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>Am I to take it from the reply that independent grain dealers cannot deal direct with An Bord Gráin?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>No; no such ruling has been made.  The matter has not been decided yet.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>I would like to get it clarified so that we can find out if they can deal with An Bord Gráin.  There seems to be a complete and absolute monopoly for the millers here, as the Minister's reply seems to indicate.  Can the Minister give me any <Col N="567" /> hope for the future as to when this matter will be considered and when a decision will be reached?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>No decision has been reached in regard to this question and there is no reason, as far as I can see, for any apprehension such as the Deputy has that independent dealers will be ruled out.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>Independent dealers have told me that they have tried to deal with An Bord Gráin and they are not allowed to do so.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Nobody is dealing with An Bord Gráin yet.  Even the millers are not dealing with them.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>The millers are dealing with An Bord Gráin every day.  They are the only people allowed to deal with them.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="Determination of Compensation for Cattle Reactors">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Determination of Compensation for Cattle Reactors.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Agriculture if he will state how the value of reactors is to be determined for payment of compensation to famers on removal of such cattle from herds.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>The Diseases of Animals (Bovine Tuberculosis) Act, 1957, provides that the compensation payable for reactors shall be the market value of the animal as defined in the Act.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>Could be Minister indicate who fixes the market price and, the market price being fixed, is there any appeal?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>There is.  An officer of the Minister for Agriculture fixes the price.  He is instructed to fix the price on the basis of the animal being sold without any knowledge, as it were, of the beast being a reactor.  If the owner is dissatisfied he can appeal to an independent arbitrator and have the price fixed by that independent arbitrator.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Cattle Export Agreement">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Cattle Export Agreement.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Agriculture if in view of the heavy cost to the country of the <Col N="568" /> attesting of herds he will secure, or negotiate to secure, a long term agreement with the United Kingdom for a minimum of ten years so that this country and the farmers may be assured of a stable market for exports for an extended period.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I do not consider the negotiation of an agreement of the nature suggested by the Deputy to be necessary at present.  The overall trade position with Britain is kept under constant review.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>Could the Minister indicate how long this present agreement will stand?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I think it is due for revision in 1959, but I am not exactly sure about that.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>That is not very long, is it, if we are going to spend £10,000,000 on the eradication of bovine T.B.?</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="Allocation of Smallholdings on Long Leases">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Allocation of Smallholdings on Long Leases.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Lands if he has considered the problem of landless men who, though they take out land annually on conacre and rear live stock, are prevented from securing the benefits of land division; and if he will consider rewarding their enterprise by enabling them, if necessary by the introduction of legislation, to be allocated smallholdings on long leases.</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Minister for Lands (Mr. Childers) Erskine Hamilton Childers">
+      <NameTxt>Minister for Lands (Mr. Childers)</NameTxt>
+      <P>I made it clear during the Estimate speech that the relief of congestion would continue to be the main objective of the Land Commission.  In addition, I announced that the Government had agreed to permit lettings of land by private persons for periods of five to ten years, in order to provide a farming ladder for young men, suitable safeguards to ensure the continuation of the relief of extreme congestion to be taken.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Brittas (Dublin) Estate">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Brittas (Dublin) Estate.</Title>
+    <Speaker pid="EamonnRooney" hpid="Mr. Rooney Mr. Rooney">
+      <NameTxt>Mr. Rooney</NameTxt>
+      <P>asked the Minister for Lands if he will state (a) the acreage <Col N="569" /> of the Dowd estate near Tinode, Brittas, which was acquired by the Irish Land Commission, (b) the price paid, and (c) why arable land suitable for cultivation is being reserved for forestry purposes, and the acreage concerned.</P>
+    </Speaker>
+    <Speaker pid="ErskineHamiltonChild" hpid="Mr. Childers Mr. Childers">
+      <NameTxt>Mr. Childers</NameTxt>
+      <P>Following are replies to the various parts of the question:&mdash;</P>
+      <P>(a) The total area purchased was 116 acres.</P>
+      <P>(b) The sale was a voluntary transaction and it has not been the practice to publish the purchase price in such a case.</P>
+      <P>(c) Of the total of 80 acres reserved for afforestation, less than four statute acres could be classed as arable.  The configuration of the lands would not justify segregation of such a small segment from the forestry block.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Protection of Fishing Grounds">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Protection of Fishing Grounds.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>asked the Minister for Defence if it is proposed to take special steps to protect the herring fishing grounds off the coasts of the south east of Ireland against poaching from foreign trawlers; and, if so, what form of special protection is being taken.</P>
+    </Speaker>
+    <Speaker pid="KevinBoland" hpid="Minister for Defence (Mr. K. Boland) Kevin Boland">
+      <NameTxt>Minister for Defence (Mr. K. Boland)</NameTxt>
+      <P>It would not be in the public interest to disclose any steps being taken in connection with fishery protection work in any part of our territorial waters.</P>
+      <P>I may say, however, that my Department is mindful of the needs in this respect, of the various fishing areas around our coast and that all receive appropriate attention commensurate with our resources.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>The Minister is no doubt aware of the fact that <Col N="570" /> trawlers from practically every nation in Europe are fishing off the south west coast at the moment.  The herring fishing is very promising down there and, if what happened last year is repeated this year, there will probably be a considerable amount of poaching. Does the Minister not think that this indicates that special steps should be taken to deal with the situation?</P>
+    </Speaker>
+    <Speaker pid="KevinBoland" hpid="Mr. K. Boland Mr. K. Boland">
+      <NameTxt>Mr. K. Boland</NameTxt>
+      <P>My information is that at the moment there are not trawlers of every nation in Europe lying off that particular area.  It is appreciated that there may be an influx of such trawlers towards the end of the month.  We are aware of the position in that regard but I do not think it desirable to publish any steps that may be taken to deal with the situation.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Sir Anthony Esmonde Sir Anthony Esmonde">
+      <NameTxt>Sir Anthony Esmonde</NameTxt>
+      <P>I think the Minister is misinformed about the trawlers off the coast.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="WA" LHead="Written Answer." RHead="- Pram Imports">
+    <Title>Written Answer. - Pram Imports.</Title>
+    <Speaker pid="ThomasAnthonyKyne" hpid="Mr. Kyne Mr. Kyne">
+      <NameTxt>Mr. Kyne</NameTxt>
+      <P>asked the Minister for Finance if he will state in respect of October, 1957 and 1958, the quantity and value of prams (including go-cars) imported, and the amount of duty received.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>The information requested in respect of October, 1958, is not yet available.  It is suggested that the Deputy repeat his question in a fortnight's time when it is expected the information can be furnished.</P>
+      <P>The Dáil adjourned at 1.30 p.m. until 3 p.m. on Wednesday, 12th November, 1958.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

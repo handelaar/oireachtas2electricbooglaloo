@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Wed" Date="6" Month="Jul" Year="1977" Vol="300" No="2" DateIrish="Dé Céadaoin, 6 Iúil 1977" DateEnglish="Wednesday, 6 July 1977" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="47" /> Chuaigh an Ceann Comhairle i gceannas ar 3 p.m.</P>
+    <P Just="Center">
+      <i>Paidir</i>.</P>
+    <P Just="Center">
+      <i>Prayer</i>.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>It is proposed to take business in the following order: Nos. 2, 3, 4, 4 (a), 4 (b), 5 and 6.  By agreement, all the main Estimates and Supplementary Estimates for introduction under No. 2 will be passed without debate.  The Supplementary Local Government Estimate for introduction under No. 3 will then be taken with a time limit of 20 minutes applying to each speaker and any division challenged shall be taken immediately on conclusion of the debate.  The Dáil, on its rising today, will adjourn until Wednesday, 12th October, 1977.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Can the Taoiseach say whether item No. 1 might be given some consideration at this time particularly in view of the fact that the House is adjourning until October, something I had not anticipated as I understand there is much business which might usefully be dealt with before we adjourned?  However, that is the decision of the Government.</P>
+      <P>Regarding No. 1 on the Order Paper I am aware of the Government's total opposition to the measure as it stands. For that reason I am of the opinion that the matter is one for the convenience of the House rather than a question of the permission of the Government.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I have not heard everything the Deputy said but regarding his question as to when the Bill might be taken, I must inform him that there is no intention of taking it at the present time anyway.  If the <Col N="48" /> Deputy would speak a little louder, we might hear him.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The fault is not on my part.  For the past four years I have been complaining that those of us up here can neither hear properly nor be heard.  Perhaps during the long adjournment some steps will be taken technically to deal with the situation. I regret that I am not being heard from here.</P>
+      <P>I take it from what the Taoiseach has said that there is no intention of considering this Bill at this time.  I know that with a Seanad majority which is anti-Government there would not be much point in taking the Bill but I should like to know whether in view of the Government's total opposition to the relevant measure in September last, we can anticipate their tabling a Bill of their own to repeal the legislation as soon as we return in October.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The Government have not yet considered that matter.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Having regard to how strenuously they objected to it in September last, they have had ample time since then to consider it.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Supplementary Estimates, 1977:" RHead="Leave to Introduce">
+    <Title>Supplementary Estimates, 1977: Leave to Introduce.</Title>
+    <P>Leave granted to introduce the following Supplementary Estimates for the service of the year ending 31st December, 1977:</P>
+    <P>Votes Nos.:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="90*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">2</entry>
+            <entry rowsep="1">(Houses of the Oireachtas),</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>5</entry>
+            <entry>(An Chomhairle Ealaíon),</entry>
+          </row>
+          <row>
+            <entry>28</entry>
+            <entry>(Local Government),</entry>
+          </row>
+          <row>
+            <entry>29</entry>
+            <entry>(Office of the Minister for Education),</entry>
+          </row>
+          <row>
+            <entry>39</entry>
+            <entry>(Agriculture),</entry>
+          </row>
+          <row>
+            <entry>42</entry>
+            <entry>(Industry and Commerce).</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>&mdash;(Minister for Finance.)</P>
+    <P>Leave granted to introduce the following Supplementary Estimates for the service of the year ending 31st December, 1977.</P>
+    <P>Vote No.:&mdash;</P>
+    <P>28 (Local Government).</P>
+    <P>&mdash;(Minister for Finance.)</P>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>May we have an explanation, please?</P>
+    </Speaker>
+    <Col N="49" />
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>This is only leave to introduce: the Supplementery Estimate will be taken later as was announced on the Order of Business.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>Later today.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>What exactly is being proposed?  I have not been able to hear.</P>
+    </Speaker>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Supplementary Estimates must be introduced. Then they will be taken together.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I announced on the Order of Business and you repeated, Sir, that No. 3 will be taken after the Supplementary Estimates have been passed.  We are now discussing leave to introduce No. 3.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I understood from the Taoiseach that there was something special about No. 3 and that this item will be discussed.</P>
+    </Speaker>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Order.  Item No. 3 is now being introduced and will be debated later.</P>
+    </Speaker>
+    <Col N="50" />
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Does that mean later today and immediately after No. 4?</P>
+    </Speaker>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election of Leas-Cheann" RHead="Comhairle">
+    <Title>Election of Leas-Cheann Comhairle.</Title>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I propose that Deputy Seán Browne be nominated and elected as Leas-Cheann Comhairle of Dáil Éireann.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I second the motion.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>I propose that Deputy Michael Begley be chosen as Leas-Cheann Comhairle.</P>
+    </Speaker>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>I second that motion.</P>
+    </Speaker>
+    <Speaker pid="JosephBermingham" hpid="Mr. Bermingham Mr. Bermingham">
+      <NameTxt>Mr. Bermingham</NameTxt>
+      <P>I propose that Deputy Seán Treacy be appointed Leas-Cheann Comhairle.</P>
+    </Speaker>
+    <Speaker pid="BarryDesmond" hpid="Mr. B. Desmond Mr. B. Desmond">
+      <NameTxt>Mr. B. Desmond</NameTxt>
+      <P>I second that motion.</P>
+      <P>Question put: &ldquo;That Deputy Seán Browne be elected Leas-Cheann Comhairle.&rdquo;</P>
+      <P Just="Center">The Dáil divided: Tá, 83; Níl, 56.</P>
+      <P Just="Center">Tá.</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Ahern, Bertie.<br />Ahern, Kit.<br />Allen, Lorcan.<br />Andrews, David.<br />Andrews, Niall.<br />Aylward, Liam.<br />Barrett, Sylvester.<br />Blaney, Niall T.<br />Brady, Gerard.<br />Brady, Vincent.<br />Briscoe, Ben.<br />Brosnan, Seán.<br />Browne, Seán.<br />Burke, Raphael, P.<br />Callanan, John.<br />Calleary, Seán.<br />Cogan, Barry.<br />Colley, George.<br />Collins, Gerard.<br />Conaghan, Hugh.<br />Connolly, Gerard.<br />Cowen, Bernard.<br />Crinion, Brendan.<br />Cronin, Jerry.<br />Daly, Brendan.<br />Davern, Noel.<br />de Valera, Síle.<br />de Valera, Vivion.<br />Doherty, Seán.<br />Fahey, Jackie.<br />Farrell, Joe.<br />Faulkner, Pádraig.<br />Filgate, Eddie.
+<Col N="51" /> Murphy, Ciarán P.<br />Nolan, Tom.<br />Noonan, Michael.<br />O'Connor, Timothy C.<br />O'Donoghue, Martin.<br />O'Hanlon, Rory.<br />O'Kennedy, Michael.<br />O'Leary, John.<br />O'Malley, Desmond.</entry>
+            <entry rowsep="1">Fitzgerald, Gene.<br />Fitzpatrick, Tom. (Dublin South-Central).<br />Fitzsimons, James N.<br />Flynn, Pádraig.<br />Fox, Christopher J.<br />French, Seán.<br />Gallagher, Dennis.<br />Geoghegan-Quinn, Máire.<br />Gibbons, Jim.<br />Haughey, Charles J.<br />Herbert, Michael.<br />Hussey, Thomas.<br />Keegan, Seán.<br />Kenneally, William.<br />Killeen, Tim.<br />Killilea, Mark.<br />Lalor, Patrick J.<br />Lawlor, Liam.<br />Lemass, Eileen.<br />Lenihan, Brian.<br />Leonard, Jimmy.<br />Leonard, Tom.<br />Leyden, Terry.<br />Loughnane, William.<br />Lynch, Jack.<br />McCreevy, Charlie.<br />McEllistrim, Thomas.<br />MacSharry, Ray.<br />Meaney, Tom.<br />Molloy, Robert.<br />Moore, Seán.<br />Morley, P.J.
+<Col N="52" /> Power, Paddy.<br />Reynolds, Albert.<br />Smith, Michael.<br />Tunney, Jim.<br />Walsh, Joe.<br />Walsh, Seán.<br />Wilson, John P.<br />Woods, Michael, J.<br />Wyse, Pearse.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Barry, Peter.<br />Barry, Richard.<br />Begley, Michael.<br />Belton, Luke.<br />Birmingham, Joseph.<br />Boland, John.<br />Bruton, John.<br />Burke, Joan.<br />Byrne, Hugh.<br />Clinton, Mark.<br />Cluskey, Frank.<br />Collins, Edward.<br />Conlan, John F.<br />Corish, Brendan.<br />Cosgrave, Liam.<br />Cosgrave, Michael J.<br />Creed, Donal.<br />Crotty, Kieran.<br />D'Arcy, Michael J.<br />Deasy, Martin A.<br />Desmond, Barry.<br />Desmond, Eileen.<br />Donegan, Patrick S.<br />Donnellan, John F.<br />Enright, Thomas W.<br />FitzGerald, Garret.<br />Fitzpatrick, Tom. (Cavan-Monaghan).<br />Flanagan, Oliver J.</entry>
+            <entry rowsep="1">Gilhawley, Eugene.<br />Griffin, Brendan.<br />Hegarty, Paddy.<br />Horgan, John.<br />Keating, Michael.<br />Kelly, John.<br />Kenny, Enda.<br />Kerrigan, Pat.<br />L'Estrange, Gerry.<br />Lipper, Mick.<br />Mannion, John M.<br />Mitchell, Jim.<br />Murphy, Michael P.<br />O'Brien, Fergus.<br />O'Brien, William.<br />O'Donnell, Tom.<br />O'Keeffe, Jim.<br />O'Leary, Michael.<br />O'Toole, Paddy.<br />Quinn, Ruairí.<br />Ryan, John J.<br />Ryan, Richie.<br />Spring, Dan.<br />Taylor, Frank.<br />Timmins, Godfrey.<br />Treacy, Seán.<br />Tully, James.<br />White, James.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá, Deputies P. Lalor and Power; Níl, Deputies Begley and B. Desmond.</P>
+    <P>Question declared carried.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>May I offer my congratulations to Deputy Browne on his election as Leas-Cheann Comhairle and, belatedly, to you, Sir, on your election yesterday, and say that we know on this side of the House that both of you will fill these posts with impartiality and courtesy.  In voting against this motion today we were concerned only to indicate our disapproval of a situation in which, contrary to precedent, the majority party sought and secured both of these posts.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Would the Deputy mind quoting what precedent he has in mind?</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>The absence of precedent.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The nearest precedent he can think of, perhaps.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>My point is that I am not aware of any precedent in recent times, and I would be interested to hear of one.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>1973, for example.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>In 1973 we did not seek the post.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>You gobbled up the lot.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>Fianna Fáil did not want the post and we were put in the position, therefore, of nominating somebody for it, which had not been our intention or wish.</P>
+    </Speaker>
+    <Speaker pid="GerardCollins" hpid="Mr. G. Collins Mr. G. Collins">
+      <NameTxt>Mr. G. Collins</NameTxt>
+      <P>Tell us about the Leas-Cheann Comhairle.</P>
+    </Speaker>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>We shall not have a debate on this.  I thank the Deputy for his remarks.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Ceapachain mar Airí" RHead="agus Rúnaí Parlaiminte">
+    <Title>Ceapachain mar Airí agus Rúnaí Parlaiminte.</Title>
+    <Col N="53" />
+    <Speaker pid="JackLynch" hpid="An Taoiseach Jack Lynch">
+      <NameTxt>An Taoiseach</NameTxt>
+      <P>B'áil liom cead a chur in iúl, mar eolas don Dáil: (1) gur chuireas in iúl don Uachtarán go raibh Dáil Éireann tar éis comhaontú le mé d'ainmniú na dTeachtaí mar chomhaltaí den Rialtas agus gur cheap sé iad inné dá réir sin; (2) go bhfuilim tar éis Seoirse Ó Colla d'ainmniú an lá céanna chun bheith ina Thánaiste; (3) go bhfuilim tar éis na Ranna Stáit a shannadh an lá céanna do na comhaltaí den Rialtas mar leanas:&mdash;</P>
+      <P>An Roinn Airgeadais agus Roinn na Seirbhíse Poiblí&mdash;Seorise Ó Colla.</P>
+      <P>An Roinn Sláinte agus an Roinn Leasa Shóisialaigh&mdash;Cathal Ó hEochaidh.</P>
+      <P>An Roinn Iascaigh&mdash;Brian Ó Luineacháin.</P>
+      <P>An Roinn Iompair agus Cumhachta agus An Roinn Poist agus Telegrafa&mdash;Pádraig Ó Fachtna.</P>
+      <P>An Roinn Talmhaíochta&mdash;Séamus Mac Giobúin.</P>
+      <P>An Roinn Tionscail agus Tráchtála -Deasún Ó Máille.</P>
+      <P>An Roinn Cosanta&mdash;Roibeárd Ó Maoildhia.</P>
+      <P>An Roinn Dlí agus Cirt&mdash;Gearóid Ó Coileáin.</P>
+      <P>An Roinn Gnóthaí Eachtracha&mdash; Micheál Ó Cinnéide.</P>
+      <P>An Roinn Rialtais Áitiúil&mdash;Salbhastar Bairéad.</P>
+      <P>An Roinn Saothair&mdash;Eoghan Mac Gearailt.</P>
+      <P>Roinn na Gaeltachta&mdash;Donncha Ó Gallchobhair agus</P>
+      <P>An Roinn Oideachais&mdash;Seán P. Mac Uilliam; </P>
+      <P>(4)  go bhfuil an Rialtas tar éis na Teachtaí seo a leanas a cheapadh an lá céanna mar Rúnaithe Parlaiminte mar leanas:&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="54" /> Rúnaí Parlaiminte an Taoisigh agus an Aire Cosanta&mdash;Pádraig Ó Leathlobhair.</P>
+    <P>Rúnaí Parlaiminte an Aire Gnóthaí Eachtracha&mdash;Dáithí Mac Aindriú.</P>
+    <P>Rúnaí Parlaiminte an Aire Oideachais&mdash;Séamus Ó Tonnaí.</P>
+    <P>Rúnaí Parlaiminte an Aire Iompair agus Cumhachta agus an Aire Poist agus Telegrafa&mdash;Tomás Mac Giolla Phádraig.</P>
+    <P>Rúnaí Parlaiminte an Aire Airgeadais&mdash;Piaras de Uidheas.</P>
+    <P>Rúnaí Parlaiminte an Aire Talmhaíochta&mdash;Tomás Ó hEodhusa agus</P>
+    <P>Rúnaí Parlaiminte an Aire Tionscail agus Tráchtála&mdash;Máire Nic Eochagáin Uí Chuinn; agus </P>
+    <P>(5)  gur cheap an tUachtarán an lá céanna Antoine Ó hÉadramáin mar Ard Aighne.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Estimates for Public" RHead="Services, 1977">
+    <Title>Estimates for Public Services, 1977.</Title>
+    <P>The Dáil, according to order, considered Estimates for Public Services for the year ending 31st December, 1977.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 1:" RHead="President's Establishment">
+    <Title>Vote 1: President's Establishment.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £58,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Secretary to the President, and for certain other expenses of the President's Establishment. </P>
+    </Speaker>
+    <P>The main Estimates and six of the Supplementary Estimates which are being introduced today were prepared by the previous Government.  I am advised it is necessary that the main Estimates for all Votes should be passed before the Dáil adjourns for the summer recess, as the amounts authorised to be spent under the Central <Col N="55" /> Fund (permanent Provisions) Act, 1965, will not be adequate to maintain services until after the Dáil resumes in the autumn.  The Government have not had time to examine the Estimates in detail, but we assume that the amounts set out in them are necessary to meet ongoing commitments.  Six of the seven Supplementary Estimates which I earlier asked for leave to introduce were approved by my predecessor.  I am advised they are necessary mainly to enable expenditure on new services to be met or to provide urgent financial assistance for certain grant-aided bodies.  In this instance, also, the Government have not had time to consider the Supplementary Estimates in detail and are taking them on trust as being essential.</P>
+    <P>I understand the Whips have agreed that the main Estimates and six Supplementary Estimates will be passed without debate.  I am prepared to introduce token Supplementary Estimates in the autumn to enable Deputies to discuss any of the services.  The exception is the second Supplementary Estimate for Local Government which will be moved by the Minister.  That Supplementary Estimate represents the first step the Government are taking towards carrying out their programme as put before the people in the general election.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>In the light of the Minister's agreement to introduce token Estimates later on we will accept what he has suggested.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>If the House would be agreeable, and as there are 50 Estimates, through which technically we would have to go one by one, we could take them as set out on the Order Paper without moving them individually.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>We agree.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I have a question to ask the Minister for Finance.  Is there anything among these Estimates which we are passing without debate to make provisions for financial assistance to <Col N="56" /> non-party members such as is given to the parties in respect of clerical assistance?</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>The answer is in the negative.  It does not come into these Estimates.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Will there be an opportunity next autumn for discussion on the Estimates?</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>As I have indicated, we will be prepared to agree in particular cases where the House wishes us to do so to introduce token Estimates to enable a debate to take place.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 2:" RHead="Houses of the Oireachtas">
+    <Title>Vote 2: Houses of the Oireachtas.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £2,488,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Houses of the Oireachtas, including certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 2: Houses of the" RHead="Oireachtas (Supplementary)">
+    <Title>Vote 2: Houses of the Oireachtas (Supplementary).</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a supplementary sum not exceeding £43,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Houses of the Oireachtas including certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 3:" RHead="Department of the Taoiseach">
+    <Title>Vote 3: Department of the Taoiseach.</Title>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a sum not exceeding £322,000 be granted to defray the charge which will come in course of payment during the year ending 31st day of December, 1977, for the <Col N="57" /> salaries and expenses of the Department of the Taoiseach. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 4:" RHead="Central Statistics Office">
+    <Title>Vote 4: Central Statistics Office.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £2,203,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Central Statistic Office. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 5:" RHead="An Chomhairle Ealaíon">
+    <Title>Vote 5: An Chomhairle Ealaíon.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £1,112,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for a grant (grant-in-aid) to An Chomhairle Ealaíon. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 5:" RHead="An Chomhairle Ealaíon (Supplementary)">
+    <Title>Vote 5: An Chomhairle Ealaíon (Supplementary).</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a supplementary sum not exceeding £88,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for a grant (grant-in-aid) to an Chomhairle Ealaíon. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 6:" RHead="Office of the Minister for Finance">
+    <Title>Vote 6: Office of the Minister for Finance.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a sum not exceeding £4,291,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the <Col N="58" /> Office of the Minister for Finance, including the Paymaster-General's Office and for payment of certain grants-in-aid. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 7:" RHead="Comptroller and Auditor General">
+    <Title>Vote 7: Comptroller and Auditor General.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £345,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977 for the salaries and expenses of the Office of the Comptroller and Auditor General. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 8:" RHead="Office of the Revenue Commissioners">
+    <Title>Vote 8: Office of the Revenue Commissioners.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £25,657,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Revenue Commissioners, including certain other services administered by that Office. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 9:" RHead="Public Works and Buildings">
+    <Title>Vote 9: Public Works and Buildings.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £25,868,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of Public Works; for expenditure in respect of public buildings; for the maintenance of certain parks and public works; for the execution and maintenance of drainage and other engineering works; for expenditure arising from damage to the property of External Governments; and for payment of a grant-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 10:" RHead="State Laboratory">
+    <Title>Vote 10: State Laboratory.</Title>
+    <Col N="59" />
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £293,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the State Laboratory. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 11:" RHead="Secret Service">
+    <Title>Vote 11: Secret Service.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £25,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for Secret Service. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 12:" RHead="Office of the Attorney General">
+    <Title>Vote 12: Office of the Attorney General.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £1,051,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Attorney General. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £298,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Director of Public Prosecutions. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 14:" RHead="Miscellaneous Expenses">
+    <Title>Vote 14: Miscellaneous Expenses.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>
+      <Col N="60" /> That a sum not exceeding £196,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for certain Miscellaneous Expenses, and for payment of grant-in-aid. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 15:" RHead="Stationery Office">
+    <Title>Vote 15: Stationery Office.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £4,252,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Stationary Office; for printing and binding, paper, publications, office machinery and other office supplies for Public Services; and for sundry miscellaneous purposes. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 16:" RHead="Valuation and Ordnance Survey">
+    <Title>Vote 16: Valuation and Ordnance Survey.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £2,121,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Valuation Office, the Ordnance Survey and certain minor services. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 17:" RHead="Rates on Government Property">
+    <Title>Vote 17: Rates on Government Property.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £3,855,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for rates and contributions in lieu of rates, etc., in respect of Government property, and for contributions towards rates on premises occupied by Representatives of External Governments. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 18: Office of the Minister" RHead="for the Public Service">
+    <Title>Vote 18: Office of the Minister for the Public Service.</Title>
+    <Col N="61" />
+    <Speaker pid="GeorgeColley" hpid="Minister for the Public Service (Mr. Colley) Minister for the Public Service (Mr. Colley)">
+      <NameTxt>Minister for the Public Service (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £2,490,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for the Public Service and for payment of a grant-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 19:" RHead="Civil Service Commission">
+    <Title>Vote 19: Civil Service Commission.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for the Public Service (Mr. Colley) Minister for the Public Service (Mr. Colley)">
+      <NameTxt>Minister for the Public Service (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £416,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Civil Service Commission and of the Local Appointments Commission. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 20:" RHead="Superannuation and Retired Allowances">
+    <Title>Vote 20: Superannuation and Retired Allowances.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £11,685,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for pensions, superannuation, compensation (including workmen's compensation), and additional and other allowances and gratuities under the Superannuation Acts, 1834 to 1963, and the Superannuation Act, 1976, and sundry other statutes; extra-statutory pensions, allowances and gratuities awarded by the Minister for the Public Service; fees to medical referees and occasional fees to doctors; compensation and other payments in respect of personal injuries; etc. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 21:" RHead="Agricultural Grants">
+    <Title>Vote 21: Agricultural Grants.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a sum not exceeding £41,200,000 be granted to defray <Col N="62" /> the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for grants to Local Authorities in relief of rates on agricultural land. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 22:" RHead="Office of the Minister for Justice">
+    <Title>Vote 22: Office of the Minister for Justice.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £2,492,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Justice, and of certain other services administered by that Office, and of the Public Record Office, and of the Keeper of State Papers and for the purchase of historical documents, etc. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 23:" RHead="Garda Siochána">
+    <Title>Vote 23: Garda Siochána.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £60,180,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Garda Siochána, including pensions, etc.; for payments of compensation and other expenses arising out of service in the Local Security Force; for the payment of certain witnesses' expenses; and for payment of a grant-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 24:" RHead="Prisons">
+    <Title>Vote 24: Prisons.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £7,749,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for expenses in connection with prisons, including centres of detention for juveniles; and for welfare services. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 25:" RHead="Courts">
+    <Title>Vote 25: Courts.</Title>
+    <Col N="63" />
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £2,757,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for such of the salaries and expenses of the Supreme Court, the High Court, the Special Criminal Court, the Circuit Court and the District Court, as are not charged on the Central Fund. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 26:" RHead="Land Registry and Registry of Deeds">
+    <Title>Vote 26: Land Registry and Registry of Deeds.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £1,605,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Land Registry and of the Registry of Deeds. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 27:" RHead="Charitable Donations and Bequests">
+    <Title>Vote 27: Charitable Donations and Bequests.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £42,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Charitable Donations and Bequests Office. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 28:" RHead="Local Government (Supplementary)">
+    <Title>Vote 28: Local Government (Supplementary).</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a supplementary sum not exceeding £19,500,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st December, 1977, for the salaries and expenses <Col N="64" /> of the Office of the Minister for Local Government, including grants to Local Authorities, grants and other expenses in connection with housing, and miscellaneous schemes and grants including a grant-in-aid. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 28:" RHead="Local Government">
+    <Title>Vote 28: Local Government.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £64,615,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Local Government, including grants to Local Authorities, grants and other expenses in connection with housing, and miscellaneous schemes and grants including a grant-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 29: Office of the Minister" RHead="for Education (Supplementary)">
+    <Title>Vote 29: Office of the Minister for Education (Supplementary).</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a supplementary sum not exceeding £270,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Education (including Institutions of Science and Art), for certain miscellaneous educational and cultural services and for payment of sundry grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 29:" RHead="Office of the Minister for Education">
+    <Title>Vote 29: Office of the Minister for Education.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a sum not exceeding £21,785,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Education (including Institutions of Science <Col N="65" /> and Art), for certain miscellaneous educational and cultural services and for payment of sundry grants-in-aid. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 30:" RHead="Primary Education">
+    <Title>Vote 30: Primary Education.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £110,353,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for Primary Education, including National School Teachers' Superannuation etc. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 31:" RHead="Secondary Education">
+    <Title>Vote 31: Secondary Education.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £78,608,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for Secondary Education. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 32:" RHead="Vocational Education">
+    <Title>Vote 32: Vocational Education.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £47,666,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for Vocational Education including a grant-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 33:" RHead="Residential Homes and Special Schools">
+    <Title>Vote 33: Residential Homes and Special Schools.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £1,157,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for expenses in connection with Residential Homes and Special Schools. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 34:" RHead="Higher Education">
+    <Title>Vote 34: Higher Education.</Title>
+    <Col N="66" />
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £31,710,000 be granted to defray the charge which will come in course of payment during the year ending on 31st day of December, 1977, for grants-in-aid of an tÚdarás um Árd-Oideachas, certain Higher Education Institutions and Services and the Dublin Institute for Advanced Studies. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 35:" RHead="National Gallery">
+    <Title>Vote 35: National Gallery.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £231,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the National Gallery including certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 36:" RHead="Lands">
+    <Title>Vote 36: Lands.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £8,269,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Offices of the Minister for Lands and of the Irish Land Commission, including certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote" RHead="37&mdash;Forestry">
+    <Title>Vote 37&mdash;Forestry.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £13,470,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for salaries and expenses in connection with Forestry and for the payment of certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 38:" RHead="Roinn na Gaeltachta">
+    <Title>Vote 38: Roinn na Gaeltachta.</Title>
+    <Col N="67" />
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £8,299,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Department of the Gaeltacht, together with housing grants and sundry grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 39:" RHead="Agriculture (Supplementary)">
+    <Title>Vote 39: Agriculture (Supplementary).</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a supplementary sum not exceeding £11,300,010 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Agriculture and Fisheries, including certain services administered by that Office, and for payment of certain subsidies and sundry grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 39:" RHead="Agriculture">
+    <Title>Vote 39: Agriculture.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £124,000,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Agriculture and Fisheries, including certain services administered by that Office, and for payment of certain subsidies and sundry grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 40:" RHead="Fisheries">
+    <Title>Vote 40: Fisheries.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a sum not exceeding £8,141,000 be granted to defray the charge which will come in course of <Col N="68" /> payment during the year ending on the 31st day of December, 1977, for salaries and expenses in connection with Sea and Inland Fisheries, including sundry grants-in-aid. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 41:" RHead="Labour">
+    <Title>Vote 41: Labour.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £14,529,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Labour including certain services administered by that Office, and for payment of certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 41:" RHead="Labour (Supplementary)">
+    <Title>Vote 41: Labour (Supplementary).</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a supplementary sum not exceeding £3,780,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Labour, including certain services administered by that Office, and for payment of certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 42:" RHead="Industry and Commerce">
+    <Title>Vote 42: Industry and Commerce.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £94,477,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Industry and Commerce, including certain services administered by that Office, and for payment of certain subsidies, grants and sundry grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 42:" RHead="Industry and Commerce (Supplementary)">
+    <Title>Vote 42: Industry and Commerce (Supplementary).</Title>
+    <Col N="69" />
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a supplementary sum not exceeding £10 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Industry and Commerce, including certain services administered by that Office, and for payment of certain subsidies, grants and sundry grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 43:" RHead="Transport and Power">
+    <Title>Vote 43: Transport and Power.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £53,973,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Transport and Power, including certain services administered by that Office, and for payment of certain subsidies and sundry grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 44:" RHead="Posts and Telegraphs">
+    <Title>Vote 44: Posts and Telegraphs.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £125,374,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for salaries and expenses of the Office of the Minister for Posts and Telegraphs and of certain other services administered by the Office, and for payment of certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 45:" RHead="Defence">
+    <Title>Vote 45: Defence.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>
+      <Col N="70" /> That a sum not exceeding £85,223,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st Day of December, 1977, for the salaries and expenses of the Office of the Minister for Defence, including certain services administered by that Office; for the pay and expenses of the Defence forces; and for payment of certain grants-in-aid. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 46:" RHead="Army Pensions">
+    <Title>Vote 46: Army Pensions.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £13,020,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for retired pay, pensions, compensation, allowances and gratuities payable under sundry statutes to or in respect of members of the Defence Forces and certain other Military Organisations, etc., and for sundry contributions and expenses in connection therewith; for certain extra-statutory children's allowances and for sundry grants. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 47:" RHead="Foreign Affairs">
+    <Title>Vote 47: Foreign Affairs.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £6,904,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Foreign Affairs, and of certain services administered by that Office, including certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 48:" RHead="International Co-operation">
+    <Title>Vote 48: International Co-operation.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a sum not exceeding £4,462,000 be granted to defray the charge which will come in course of <Col N="71" /> payment during the year ending on the 31st day of December, 1977, for contributions to International Organisations and for Official Development Assistance, including certain grants-in-aid. </P>
+    <P>Vote put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 49:" RHead="Social Welfare">
+    <Title>Vote 49: Social Welfare.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £257,758,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Social Welfare, for certain services administered by that Office, for payments to the Social Insurance Fund, and for sundry grants. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vote 50:" RHead="Health">
+    <Title>Vote 50: Health.</Title>
+    <Speaker pid="GeorgeColley" hpid="Minister for Finance (Mr. Colley) George Colley">
+      <NameTxt>Minister for Finance (Mr. Colley)</NameTxt>
+      <P>I move:</P>
+      <P>That a sum not exceeding £298,400,000 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Health (including Oifig na hArd-Chláraitheora), and certain services administered by that Office, including grants to Health Boards, miscellaneous grants, and certain grants-in-aid. </P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Supplementary Estimate, 1977. - Vote 28:" RHead="Local Government">
+    <Title>Supplementary Estimate, 1977. - Vote 28: Local Government.</Title>
+    <Speaker pid="SylvesterBarrett" hpid="Minister for Local Government (Mr. Barrett) Sylvester Barrett">
+      <NameTxt>Minister for Local Government (Mr. Barrett)</NameTxt>
+      <P>I move:</P>
+    </Speaker>
+    <P>That a supplementary sum not exceeding £20 be granted to defray the charge which will come in course of payment during the year ending on the 31st day of December, 1977, for the salaries and expenses of the Office of the Minister for Local Government, including grants to Local Authorities, grants <Col N="72" /> and other expenses in connection with housing, and miscellaneous schemes and grants including a grant-in-aid. </P>
+    <P>The purpose of subhead R of this Supplementary Estimate is to enable the implementation of a scheme of £1,000 grants for persons becoming owner-occupiers of new houses or flats who have not previously purchased or built dwellings for themselves. The new scheme will be administered by the Department of Local Government, to be renamed the Department of the Environment, and will replace from today the existing schemes of new house grants paid by the Department and local authorities.  Existing grant requirements as regards size and construction standards shall continue to apply generally.</P>
+    <P>In order that purchasers will enjoy the full benefit of the new grant, the existing form of house price control will be maintained and extended to all houses and flats built for sale, and the grant will be paid directly to the purchaser.  The grant will be paid in one sum on completion and occupation of the dwelling.  The new grant will be payable where purchasers entered into contracts after 26th May, 1977.  In the case of persons building their own houses, grants will be payable for houses which were commenced after that date.  Further details will be set out in a public notice to appear in the newspapers later this week.</P>
+    <P>The second item in this Supplementary Estimate arises from the Government's undertaking to abolish annual road tax on all cars up to and including 16 horse power from August, 1977. Effect will be given to this undertaking by an Emergency Imposition of Duties Order, to be made by the Government, which will abolish motor taxation on such vehicles and on motor cycles from 1st August, 1977.  Examination is proceeding of the question of what arrangements will apply to the registration of vehicles affected and an announcement will be made shortly in that regard.</P>
+    <P>A consequence of the order will be a <Col N="73" /> reduction in the flow of money from motor taxation to the Road Fund, which receives approximately one-half of the proceeds of that taxation.  A substantive Supplementary Estimate will be introduced later in the year when the effect on Road Fund income can be more accurately measured.  In the meantime there will be sufficient funds available to meet current demands on the Road Fund, taking due account of the moneys otherwise voted this year by way of grants to the fund, but it is desirable to make this token provision at this stage to indicate that the fund will be suitably recompensed for the loss of income from motor taxation.</P>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The House will be aware that Deputies are limited to 20 minutes each.</P>
+    </Speaker>
+    <Speaker pid="FrankCluskey" hpid="Mr. Cluskey Mr. Cluskey">
+      <NameTxt>Mr. Cluskey</NameTxt>
+      <P>I understood the practice to have been that Ministers' speeches were circulated to Deputies. Is there to be a departure from that procedure?</P>
+    </Speaker>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It is being circulated now.  It has not been circulated already because of an oversight.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>The Deputy will be aware of certain precedents for the absence of such&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankCluskey" hpid="Mr. Cluskey Mr. Cluskey">
+      <NameTxt>Mr. Cluskey</NameTxt>
+      <P>I am aware of the possibility now of the absence of normal courtesy.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>The Deputy will not find an absence in that respect.</P>
+    </Speaker>
+    <Speaker pid="MichaelKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>Will the car tax come off all cars?  Will it be abolished in respect of business firms?  Will it come off all hire purchase cars and lease fleet owners?</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>I will deal with that in my reply.</P>
+    </Speaker>
+    <Speaker pid="MichaelKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>Should we not have that information now or do the Government not know?</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="The Taoiseach Jack Lynch">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The answer is yes, but this is a rather unusual procedure. This is a debate.</P>
+    </Speaker>
+    <Col N="74" />
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>This is a disgrace. Dáil Éireann is being asked to write a blank cheque for slush money.  We had an exhibition during the last month of people saying they knew what the programme would cost and that it could be carried out without any more borrowing than £250 million.  Then, the first time they come to the Dáil to ask for authority to spend slush money they cannot answer simple questions.</P>
+      <P>With due respect to the Minister, who had a limited time to present this Supplementary Estimate, his explanation to the House is totally inadequate. How can we have a sensible, worthwhile debate on such a totally inadequate introduction?  We are told that as long as they are given the authority to do what they propose an advertisement will appear later in the week giving further information.  Never has a Parliament in any country been treated with such contempt.  It is a very bad start indeed for the Minister and his colleagues in Government to come to the Dáil on such an important issue and not be able to give the people the crucial information to which they are certainly entitled and we will have to ask questions and wait until the end to get the answers and, if we are not satisfied with the answers, then there is nothing we can do until the Dáil resumes on 12th October next.  This is a discourtesy, to say the least of it, and it is not a proper or a sensible way in which to vote public moneys.</P>
+    </Speaker>
+    <P>From what we hear today in the Minister's scanty introduction it would appear that the £1,000 grant will be paid to owner occupiers of new houses or flats, owner occupiers who have not previously purchased or built a dwelling for themselves.  This appears to cut out persons who would very sensibly be purchasing for the first time an older house.  We are also told it is proposed that the new scheme will replace the existing scheme of new house grants paid by the Department and local authorities.  At present these grants are paid to persons who may be purchasers of a second home, moving from a smaller home to a larger one.  Such people will no longer qualify.  We are not getting the <Col N="75" /> bonanza the people were promised in the recent manifesto.  Some of the benefits people can at present obtain are being taken away from them.</P>
+    <P>Again, this bringing in of a token Estimate is treating the House and the country with contempt.  This is being done by the great know-alls who argued that our costings were unrealistic and the only thing they can bring in today is a token Estimate for £10. Do they not know the number of houses likely to be built this year? Have they no opportunties of knowing available to them?  Have they not studied the statistics available.  They know the number of new house purchasers is likely to be about 17,000 annually.  They can quickly obtain the number that are built and the number that will be built this year.  Have they any conception of the damage they have done already to the house building industry since they first made their promise?</P>
+    <P>In many places the industry has practically ground to a halt because people have been unwilling to sign contracts for the purchase of new houses.  Instead of helping the industry at a time of considerable need they have given it a second setback this year.  The first setback occurred during the winter and early spring.  Because of adverse weather conditions there was a decline in the construction industry, but that situation was picking up in May.  In May we had a bigger consumption of cement than there had been in May of last year and May of last year was up on the previous year.  Just as the industry was getting into its stride again we have this promise made, a promise which is now clearly misleading because people were not told they would be deprived of the existing grants if they were moving from one house to another.  I would urge that this sleight of hand be rectified and that the Minister, when he comes to reply, would undertake not to withdraw, as is apparently proposed, grants from people moving from one house to another house.  Would the Minister say whether this £1,000 grant will be paid to tenant purchasers of local authority houses and, if not, why <Col N="76" /> is he discriminating in favour of the better off and against the less well off?</P>
+    <P>On the abolition of motor taxation, this is one of the most irresponsible actions any Government could engage in.  It is of course very popular.  No one will complain about getting relief from taxation but, because it is popular, it is not necessarily good.  Because it is popular it is not necessarily sensible. This is one of the most ludicrous ideas ever foisted on a Parliament.  There is no country in the EEC that has no motor taxation.  In fact, EEC Governments are at the moment engaged in dialogue to consider the introduction of a uniform system of motor taxation and petrol taxation in Europe.  In the knowledge that this is taking place the Fianna Fáil Government have gone before the people and made a promise they well know the EEC may require them to renege on in the foreseeable future.  Then, of course, their argument will undoubtedly be that they would have left the tax off but EEC obligations require them to re-impose it.  That is not good enough.  They know as much about the doings of the EEC as anybody else.  They have representatives in the European Parliaments. They have a fair idea also of what appears in the Council of Ministers and the Commission because of all the documentation available to them.  In the light of the knowledge that the EEC is moving towards uniformity of motor and petrol taxation they brought forward this proposal simply to purchase votes with borrowed money.</P>
+    <P>Over the last few years we heard a great deal from the people who are now in Government about the reasons why they opposed the borrowing done by the National Coalition Government. Mark you, when they opposed the extent of our borrowing originally they opposed it because they said borrowing was all wrong.  Later on, when they saw the necessity for it and accepted that our difficulties would be much worse if borrowing had not taken place, they changed their tune and said borrowing in certain circumstances was all right.  It was the way in which the borrowed money was applied that mattered.  Has there ever <Col N="77" /> been such a reckless proposal than to suggest that one should borrow money in order to allow Government to fulfil a reckless election promise so that they can replace the revenue lost from motor taxation, revenue which has to be spent on roads and other services? That expenditure will now be met out of borrowed money.</P>
+    <P>I am not too certain what welcome will await Fianna Fáil Ministers when they go out and meet their colleagues in Brussels but I can reasonably anticipate what reception will await the Minister for Finance because we have an international commitment into which we freely and openly entered. It was a condition of the loan we obtained from the EEC, a condition we said we would, in fact, pursue as a matter of domestic policy long before the particular condition was inserted in the particulars attaching to the EEC loan of 150 million units of account, that our borrowings as a percentage of GNP would decline.  Ireland will now be in the disgraceful situation of breaching that condition, and for the worst of all possible reasons, breaching it because of the proposal to abolish motor taxation.  Roadways have to be paid for.  Something like one-third of the Garda Síochána manpower is applied in the general management of traffic on the roads. They have to be paid.  There are many other factors that have to be paid for, things that are necessary so that people may drive the roads in safety.  It is not inappropriate that people who avail of these services should contribute towards the cost of them and do it in a way that can be clearly identified.  That was the merit in motor taxation and that is the reason why motor taxation should be maintained.  If this were income tax relief it would be more justifiable because it would be spread over a large number of people, including those on the smallest incomes, many of whom are not in a position to run motor cars.  They will not get any benefit from this relief in motor taxation.</P>
+    <P>There is no economic value what-ever in this proposal.  It will not operate as an economic stimulus.  It <Col N="78" /> will not get more people into jobs.  It will not help our balance of payments. Its effect will be to damage the economy.  It has no social merit whatsoever. Like the remarks the Minister made in relation to housing, remarks totally inadequate from the point of view of the seriousness and scope of the proposal, the remarks in relation to motor taxation were also quite inadequate. If their policy was carefully thought out then they should certainly have thought of the very serious legal snags likely to arise because of this alteration in motor taxation.</P>
+    <P>If there is any area where you need the certainty of the law it is in relation to the use of lethal weapons like mechanically propelled vehicles on the road.  It is absolutely essential that there should be an up-to-date register of car ownership to which every user of the road would have free access because of the need in certain cases where the right to compensation may arise out of an accident.  If there is no obligation to pay motor taxation and to exhibit on the windscreen of a motor car the certificate certifying that the car has been registered and taxed what is the third party to do if injured by a car which is not displaying road tax? Very clearly, there will be need to continue some form of registration of ownership.  Are the Government proposing that that register should be kept at the expense of all taxpayers?  Or, would they see merit in confining the cost of keeping that register to users of cars?  I believe this is a cost that should lie on users of cars and not on the general public, many of whom are not in a position to run cars.</P>
+    <P>If there is need to assist transportation, the area of greatest need is the area of public transport which has to be provided at an annual cost, by way of subsidy, in excess of what is to be abolished by this relief of motor taxation. The assistance should be given in the area of public transport rather than in that of private transportation which by reason of its volume is, in fact, inhibiting public transport and bringing our whole transportation system, both public and private, particularly in built-up areas into very serious trouble.</P>
+    <P>
+      <Col N="79" /> The most important question from the point of view of car owners is in relation to those who have already paid their motor tax beyond 1st August next.  The Fianna Fáil promise does not leave any room for ambiguity. I understand some Fianna Fáil spokesmen, since the election, have been saying that they did not promise to make a refund of motor taxation to any person who might have paid tax beyond 1st August next.  That is not so.  I quote from &ldquo;Action Plan&rdquo; which was published on the day after the dissolution of the Dáil.  That undertook to abolish &ldquo;annual road tax on all cars up to and including 16 horse power from August, 1977.&rdquo; There are cars with from 11 months' to one month's taxation paid after 1st August next and the specific undertaking given by Fianna Fáil, which was probably the undertaking, above all else, that got them where they are today&mdash;they used motor taxation to buy their way back to power&mdash;was one leaving no room for doubt or ambiguity, that there would be no tax on motor cars after 1st August.  That means that they must make a refund to any person who has paid motor taxation for any period after 1st August next.</P>
+    <P>That is another area where there should have been a very specific commitment made by the Minister in introducing this Estimate.  Perhaps we are wrong in assuming that whatever people were saying after the election was not the authoritative word of Fianna Fáil and that they were not speaking for the Government.  The Government are now in power and I hope by the end of our debate the Minister will take care to spell out precisely how he proposes to make a refund to all motorists who have paid tax for any period after 1st August.  It is very difficult to say any more on this because of the totally inadequate form of introduction of this Estimate but I should like to recall that Deputy de Valera, who has served this Dáil well over a number of decades and who was a highly esteemed chairman of the Committee of Public Accounts in the last Dáil, has often complained about the manner in which public moneys are sometimes spent without <Col N="80" /> there being an adequate airing in Dáil Éireann of the purpose for and the ways in which they are to be spent.</P>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There are two minutes remaining to the Deputy.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>I thank you.  In the April report of the Committee of Public Accounts there was a specific statement to the effect that public money should not be spent in any circumstances where such public moneys exceed existing statutory authority.  The two expenditures proposed today exceed existing statutory authority and we cannot seriously consider that the Supplementary Estimates as introduced to-day are an adequate fulfilment of the obligation that certainly lies on all Ministers and on all Governments when seeking public moneys, the obligation to supply the fullest possible information to the House so that when the House is voting it will know exactly what it is voting on.</P>
+    </Speaker>
+    <Speaker pid="BarryDesmond" hpid="Mr. B. Desmond Mr. B. Desmond">
+      <NameTxt>Mr. B. Desmond</NameTxt>
+      <P>If the introduction of this Estimate is any indication of the manner in which the Government intend to proceed to the fulfilment of their promises during the general election all one can say is that it bodes very ill for their prospects in the next general election.  One must first express shock at the indications from Fianna Fáil that as from today&mdash;big news to the new backbenchers elected at the tail end of the swing; they did not know it and apparently nobody knew it until today&mdash;existing new house grant schemes are being abolished and we are getting £1,000 to replace them. There is the fulfilment of the promise. I hope Deputies will go back and tell this to the people in their constituencies. I say this with no sense of sniping and I will read out clearly what the new Minister, Deputy Barrett, said.  I congratulate him on his appointment; he has my sympathy in facing into an Estimate of this nature with such scanty decision making behind it on the part of his party.  He said:</P>
+      <P>The new scheme .... will replace from today the existing schemes of new house grants paid by the Department and local authorities.</P>
+    </Speaker>
+    <P>Knock off the £400 and supplementary grants and we will give you £1,000 <Col N="81" /> instead.  Is that what was meant by the Fianna Fáil Party when they issued their manifesto&mdash;several hundred thousand manifestoes with uniform presentation throughout the country&mdash; when they said &ldquo;all new purchasers of new houses will receive a grant of £1,000.&rdquo; I quote that because I remember it vividly from meeting young people.  There was no reference in that promise and no explanation from the academics who backed up the &ldquo;think-tank&rdquo; of the party to the effect that simultaneously with the giving of the £1,000 there would be the abolition of new house grants and supplementary grants.  In other words, a &ldquo;con&rdquo; job is perpetrated on those who want to buy their new houses and who are making out that they will get £1,000 and will have existing grants and with these together they will be able to bridge the gap between what they want and what they have.  I think, judging from the Minister's introductory speech, that gap is yawning badly.</P>
+    <P>As I say, I congratulate the Minister on his appointment.  I certainly would not wish to be in his seat when he tries to divine what exactly Fianna Fáil meant by that global promise. It was so ill-conceived and badly thought out that, when the staff of the Department of Local Government saw the full implications of what is contained in it, I am quite sure it got some jaundiced reactions from public servants who see birds of passage come and go, as we politicians are, while they have to stay on and pick up the tab at the end of the day and point out to politicians what exactly they are promising.  I am sure the Minister got a few words in his ear this morning when he tried to write a one-page introduction to this proposition.</P>
+    <P>To the chagrin of some of the construction industry gurus who heavily backed Fianna Fáil with from a few thousand pounds for local candidates to a few cars on polling day, the existing form of price control is to be extended to all houses.  This will send a bit of a shiver through some individuals in the construction <Col N="82" /> industry federation who over the past four-and-a-half years violently opposed any effort by the former Minister to have any coherent system of price control.  In the past three or four weeks, construction companies particularly in the greater Dublin area&mdash;and I speak as a member of Dublin County Council and as chairman of the South County Dublin Committee of Dublin County Council&mdash; knowing they were to get £1,000 handed into their pockets by the Fianna Fáil Party, jacked up their prices.  They could not care less about certificates of reasonable valuation.</P>
+    <P>The Fianna Fáil Party spent four-and-a-half years in this House denouncing the concept of certificates of reasonable valuation and assuring everybody from building speculators to the most reputable builders one could find: &ldquo;Not to worry.  When we get back the system will be changed.&rdquo; Assurance after assurance was given in this regard.  Deputy Faulkner repeatedly criticised that system on behalf of the construction industry.  Lo and behold, we come in here today and we find the Fianna Fáil Party, the party who are to take the brakes off the construction industry and build a mountain of new houses, saying existing forms of price control will be maintained and extended to all houses and flats built for sale so that this grant can be paid to the purchaser.</P>
+    <P>Young couples in Dublin who looked for a price for their houses about seven or eight weeks ago were told: &ldquo;Wait, we cannot quote you a price now.&rdquo; I know of some instances where in the past three or four weeks £500 or £600 has been added to the price of the house.  The builder told house purchasers: &ldquo;The Government will give me £1,000 and I am putting up the price of the house.&rdquo; Therefore, this scheme is a farce.  It was thought up on a superficial basis to impress the unfortunate and tragic young people who are trying desperately to get a new home of their own.  They will not get a new home of their own under this scheme.  I could have thought of&mdash;and I hope any sensible politician would have thought of&mdash;half a dozen ways in which to spend that £10 million without <Col N="83" /> having at least 60 per cent of it syphoned off on a speculative basis into the hands of certain construction companies who could not care less about what they charge.</P>
+    <P>If one had £10 million to spend one could consider the current low rise mortgage scheme, the £7,500 scheme, an excellent scheme, a sensible scheme, a scheme introduced by the former Minister.  One could have revamped that scheme and increased the £7,500 mortgage to £8,500 or £9,000 with stringent conditions applying.  One could think of innumerable ways in which one could more sensibly spend £10 million on the construction industry without descending to this level.</P>
+    <P>We have the magnificent situation that, in their election address, the Fianna Fáil Party said all purchasers would receive £1,000 grant for all new houses purchased.  There was no stipulation in that election promise that it would apply to a certain size of construction. It is interesting to note that the party are using the plural in relation to those who will be entitled to this grant.  What about a single person? Will a widow who never owned a house in her life get £1,000?  We will have to wait to see the details set out in a public notice in the newspapers this week.  Will an income limit be applied? May I ask the Minister what income limit will be applied to such grants?</P>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>None.</P>
+    </Speaker>
+    <Speaker pid="BarryDesmond" hpid="Mr. B. Desmond Mr. B. Desmond">
+      <NameTxt>Mr. B. Desmond</NameTxt>
+      <P>No income limit. I am glad to hear that.  It is interesting to note that an Irish millionaire living abroad who never bought a house here can now come back to Ireland, buy a house and say: &ldquo;I want my £1,000.&rdquo; Talk about egalitarianism and equality of opportunity for house purchasers.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>His house would be too large.</P>
+    </Speaker>
+    <Speaker pid="BarryDesmond" hpid="Mr. B. Desmond Mr. B. Desmond">
+      <NameTxt>Mr. B. Desmond</NameTxt>
+      <P>It will be very interesting to find out the precise details which are due to appear in the newspapers this week as we were assured by the Fianna Fáil Party.</P>
+    </Speaker>
+    <P>A very sensible point was raised by the former Minister for Finance, Deputy Ryan, who asked does the scheme apply to tenant purchasers <Col N="84" /> under local authority housing schemes. One must ask the Minister will it apply to them.  One suspects it will not.  That is a fair assumption.</P>
+    <P>I tremble to think of the problem which will be raised in trying to prove a person never purchased a house before, in terms of the Land Registry and people chasing after folio numbers around the place for the next 20 years.  I could say I never bought a house before and sign the document. Where is the proof?  Do I swear an affidavit?  The local authorities and the Department must administer the scheme.  A person can move from one county to another and say he wants his £1,000.  He can say it was his father who bought the house, or his wife. Who will qualify?  It is very easy to make a global election promise but I would think that, when the Fianna Fáil Party meet their constituents at local cumann meetings, a few faces will be slightly red by the time all the details are set out in a public notice.</P>
+    <P>The Minister has my sympathy.  The Minister for Finance, Deputy Colley, ran out of the House like a scalded cat when the Minister tried to find out what exactly he meant.  He will have to have consultations with the staff of the Department of Local Government if any coherent scheme is to be applied.  This is a very far cry from the Fianna Fáil promise that all purchasers of new houses would get £1,000.  Apparently that is not the case now.  Less than half a promise is being fulfilled.</P>
+    <P>If we had £10 million to spend I know many local authorities who would wish to get an allocation to build local authority houses.  For example, the best cost/benefit productivity net gain to the country has been local authority housing tenders.  By and large they are most efficient and best value for taxpayers' money spent. I am sure every Member who is also a member of a local authority will accept that.  However, £10 million is to be splashed up in the air for anybody who can get hold of it even though there are many people in real need of housing, people who are living in overcrowded accommodation and who have been assessed by medical officers as being in dire need of better <Col N="85" /> housing.  The position now is that anybody who wants to buy a house will get £1,000.  For instance, an Irish emigrant can return from Britain with £50,000 in his pocket, walk into a local authority and seek this £1,000 because, according to the Minister, there is to be no income limit.</P>
+    <P>I am sure that staff in some agencies, such as the National Building Agency, are looking aghast at this proposal.  I know the National Building Agency could spend that £10 million with greater long-term benefit and in cases where there is real need.</P>
+    <P>In relation to the second part of the proposal I should like to state that again one is faced with the inherent contradictions of the Fianna Fáil Party.  During the course of the election campaign a Fianna Fáil candidate in my constituency wrote a long lugubrious letter to <i>The Irish Times</i> in which he stated that as and from the return to office of his party there would be no tax on motor cycles and scooters would be exempt.  It reaches the borders of farce when even elementary things like motor bicycles are mentioned.  Most motor cars, motor bikes and every moped would be exempt. On an environmental safety basis we should be in a position to say to a person of 17 years of age who is buying his first motor bicycle that the State expects a few pounds to show some sense of social consciousness.  The firm promise in relation to motor bicycles was given by one of the Fianna Fáil airlifted academics, the head of the think-tank&mdash;not the current Minister who represents the constituency which I also represent but his colleague who set up this proposition.</P>
+    <P>I understand from authoritative Fianna Fáil sources that on the first draft of the election manifesto there was no reference whatever to car tax.  I gather that the rural Front Bench members did not see a lot in it.  Since farmers do not pay much tax there were only a few votes to be gained on that, apart from slagging Fine Gael, so the party had to think up something which would have a direct appeal in <Col N="86" /> rural Ireland.  I understand from Fianna Fáil sources&mdash;&mdash;</P>
+    <Speaker pid="PatrickDHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>I did not know the Deputy was on personal terms with Deputy Calleary.</P>
+    </Speaker>
+    <Speaker pid="BarryDesmond" hpid="Mr. B. Desmond Mr. B. Desmond">
+      <NameTxt>Mr. B. Desmond</NameTxt>
+      <P>We are very good friends.  I believe the package on road tax was added in against the opposition of some members of the Front Bench who felt it was going too far and bordering on a total piece of Dutch auction.  It was added on to win over the young fellow in rural Ireland who does not pay income tax or social welfare.  The only tax he is likely to pay is car tax.  The party felt they would get those people to vote for them if they abolished car tax. In Roscommon and Leitrim and other parts of the country one will find that that proposal had a great attraction.  I will benefit from this proposal and indeed my party will not oppose the Supplementary Estimate. It is the job of the Government to implement some coherent scheme, but every garda superintendent and garda inspector in charge of traffic sections are aghast at this proposal. I drive a 1500 cc Volkswagen car and I should like to know from the Minister if I will have to register my car. If I must register it will I have to pay a nominal fee of say £5?  The Minister has given no indication. Garda superintendents have asked what will happen if cars are imported from Northern Ireland?  We all know that there has been massive false importation and fraud in this regard. Will the Government maintain a system of registration?  I hope there will be.</P>
+    </Speaker>
+    <P>The proposal was put forward in desperation at a time when Fianna Fáil were confident they would not win the election but as the result went the other way they must implement their promise.  I am sure this must represent a substantial degree of personal embarrassment for the Minister who waxed eloquently in the House about the need to conserve energy.  He told us on many occasions that our petrol stocks were depleted. I expect that the implementation of this proposal will give rise to the importation of more cars and a greater <Col N="87" /> consumption of petrol because people will have more to spend on a most expensive form of energy consumption. The illogicality of the proposition is mind-boggling.  Anyone with £20 million to spend could have thought up, without much in-depth think-tank back-up or anything else, worthwhile social and economic schemes which would have led to a redistribution of wealth here to people in dire need without frittering it away on people like myself.  I can afford to pay car tax and I have no desire not to pay it.  I have lived solely on a Member's salary and I get a bonanza from Fianna Fáil who were so busy giving bonanzas that they spread the cream all over the place and did not know what they were doing.  We do not propose to oppose this Supplementary Estimate but we believe that the people will take a very jaundiced view of the proposal and the massive qualifications, restrictions and caveats which the Minister must enter into in implementing these schemes.  It ill becomes an alleged people's party to come to the House expecting credibility from proposals of this nature.</P>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I regret that the time allotted to Members for this debate is so short because so much could be discussed usefully with the new Minister not just in connection with the housing industry but in connection with the need to revitalise the whole construction industry.  Regardless of how any of us look at promises made in manifestos issued by political parties, it is refreshing to see a party when returned to power announcing that they are going to implement some of those promises, whether they are daft, right, wrong or constructive. To that degree the proposals announced today are worth the £20 million spoken of because they restore credibility to the outpourings made during the auction that took place between the major parties bidding for votes with the people's money.  However, there is a lot wrong with the proposals as they stand and that is why I deplore the fact that we find it necessary to adjourn the House to <Col N="88" /> 12th October.  It is a scandal and a waste of money and time.  We should be back here next week teasing out at greater length the expenditure of the money.  The £1,000 proposed will go to first purchasers and occupiers of new houses but is in replacement of all other grants from the Department of Local Government and local authorities.  In effect this means that the highest grant which could have been obtained in the past for a new house, which was £900 between supplementary and Local Government grants is being increased by a measly £100.  I say that with no reflection on the haste with which this has been brought in.</P>
+      <P>The grants being paid at present were introduced 11 years ago and have never been revised upwards.  The only thing that happened was that they became more restrictive in their application.  I advocated during the election&mdash;and do so again here today with no apologies to anybody&mdash;that the entire grant system operated under and through the Department of Local Government and the local authorities should be revised and multiplied by three at least and the restrictions which applied during the last ten years should be revised and removed in most cases.  That should be done if we are serious about housing our people and helping them to house themselves.</P>
+    </Speaker>
+    <P>In addition, we want a complete and rapid review of the loan system which is now almost as much out-of-date from the value point of view as the grants.  The income limits which apply at the moment are so ludicrous in relation to today's money values that they do not help to operate the scheme.  In other words, we do not have a significant loan or grant scheme for house building.  I want to say to the Minister that this £1,000 is just a start.  Let us go from there and at least double that figure.  People who qualified for the £900 grant would need a grant of from £2,000 to £2,400 to bring it up to the 1966 level.  That may appear to be a great deal of money but it must be remembered that the people who would qualify under the means test&mdash;and this should be revised <Col N="89" /> also&mdash;would be regarded as being incapable of providing their own houses without aid.  They would be a charge on the local authority and the general taxpayer.  If, by giving a grant of £2,000 or £3,000, we could encourage these people to build their own houses, would that not be better than spending £8,000 to £10,000 building houses for them which many of them will never own, or want to own because they did not like the way they were designed?</P>
+    <P>I am not criticising the Minister or the Fianna Fáil Government for putting this matter together too hastily. The intention behind the promise in the manifesto was good.  Certain speakers said it was to buy votes.  If this did buy votes for Fianna Fáil, good luck to them.  In ten years we have not done anything to improve the situation or to meet the spiralling costs in the building industry which fell on every prospective house purchaser. Instead, we put on restrictions. We closed the door on many people who would have been encouraged by the miserly grants which then existed.</P>
+    <P>The rather generous grants provided in the mid-sixties were made in the belief that every house built, whether it was large or small, goldplated or utilitarian, provided it was up to a minimum standard, was another dwelling.  Therefore, whoever moved into it had obviously moved out of another dwelling and that in turn provided a place for somebody else.  I still think that that is a good concept and is badly wanted at this time.  If we brought it up-to-date and released the millions of pounds worth of tenders sitting in various Departments today, the building industry could really take off before we come back in October.  We cannot afford to wait until then to have these matters thrashed out.  In my view we should have given more time, even an adjournment debate if necessary, to this debate because the building industry is in such a bad state that we do not have three months to spare.</P>
+    <P>I appeal to the Government, the Minister and all his advisers to get <Col N="90" /> down to the task of comprehensively reviewing the entire situation as administered and controlled by the Department. Let us stop fiddling around. As I said, in certain cases this £1,000 grant means a miserly increase of £100. I know that is not what the present Government intended when they gave this such publicity.  They had the right idea then and I hope they have not lost it since.  Whoever got the idea of the £1,000 grant was thinking in the right direction but he has not gone far enough.  Fianna Fáil seem to be looking on this as fulfilling an election promise which is a good thing because it restores credibility in the various bargain offers made at election time by political parties.</P>
+    <P>I believe it is in the construction industry that we can really fire the economy again.  There will not be any confidence in the private sector unless we fuel the public sector.  Since the change of Government there has been an expectation by speculators on the stock exchange that there will be a take-off in the construction industry I hope they are right but if this is the only kind of effort this Government intend to make, they will be sadly disappointed.  I am not worried if they are disappointed but what I am worried about is this: unless we revise the loan and grant system in a comprehensive manner, we will be &ldquo;fiddling while Rome burns&rdquo;.</P>
+    <P>I want to say to the Minister and to all Departments responsible for the building and construction industry who are holding up sanctions, to get every last one of them out.  Could we have a review of the loan and income limit system?  Could we have a total review of the grant system, not just the £1,000 once-off job but of the whole spread including reconstruction and water and sewerage grants, all of which come within the same ambit?  Unless this is dealt with comprehensively, I can assure the Minister that he will get a short run of popularity from those who are entitled to £1,000 now but who were not entitled to it last month. The number of people who would benefit from this grant is so small that the benefit to the industry will be minimal.</P>
+    <P>
+      <Col N="91" /> The Minister and his colleagues should get down to a serious and proper review so as not to be seen to be just jumping in before an election saying that they will do what they are now proposing to do.  All credit is due to them for doing this, but it is not enough and it should not be regarded as being enough or regarded as being a substitute for a proper comprehensive look at the entire situation.  It has been established and accepted in this country that when the construction industry is in the doldrums the entire economy is likewise.  That is the way we have been for the last three or four years.  Unless the Minister does a lot more than he is proposing to do now we will be in the doldrums 12 months from now.  Our newly emerging unemployed, the people coming from our schools, will not tolerate an evergrowing unemployment situation about which nobody is really doing anything except talking about it.</P>
+    <P>Could we have a real go at this from this new young and energetic Minister who has the knowledge required to go with the advice which he will receive from his departmental advisers?  This industry must be fuelled if we are to achieve anything other than a miserly scratching at the edges of the unemployed queues of today which will grow tomorrow and the day after, because we do not emigrate any more, because there is no work available across the water.  That is the real answer; it is not that people are being kept home by the attractions of the Government's policies.  The rising population, added to that, together with the greater educational opportunities for the new generations, have created a new public who will not be satisfied with the mediocre performances in Government that we have witnessed in recent years.</P>
+    <P>In relation to the road tax, one of the first questions that arises is: what does 16 horse power mean?  Will it be measured in cc's or will it be measured in brake horse power?  Who is the 16 horse power, by whatever measure, supposed to accommodate?  Who will be left out, and in a sense, be penalised?  There is no doubt that <Col N="92" /> those who need and use cars of a greater capacity than those rated as 16 horse power use them because they have to use them in relation to their business.  Are those people to be penalised because their jobs require, over sustained journeys, higher horse power ratings than are accounted for here?  Are we going overboard in pandering to those who shine the car for six days a week, who would not spend 50p for petrol, who take it out on Sunday, and who for those few hours become menaces on the roads? The Minister and his Government should think about that aspect.  Good though the thought may have been, are we not penalising people who require heavy horse power vehicles because of the nature of their jobs, while at the same time, pandering to pleasure motorists who would not spend 2p so far as the tax income to the Government on petrol is concerned?</P>
+    <P>Some speakers in the Opposition spoke about registration and so on as being difficult to achieve.  That is just sour grapes.  There must be registration. I have no doubt that there will be number plates in the future.  A visible insurance disc is far more important than a visible tax disc. The people who evade insurance are far more dangerous than the tax evaders.  I hope the opportunity will be taken to provide a new identification system for the tax-free motorist of the future, so that the insurance will become part and parcel of what is clearly visible.  It should be visible not only to the Garda but to the general public as well.  Some of the greatest tragedies and losses have occurred due to non-insurance, not to non-taxation of a car.</P>
+    <P>In relation to the Garda, is it not time that we had the 500 or so gardaí who are pushing pens, out on the streets looking after road insurance and so on, and stopped this talk that we heard from some ex-Ministers today decrying the idea that we are taking away the Road Fund money that would have gone to pay more gardaí.  Five hundred trained gardaí are doing clerical work at the moment, when 500 school leavers could be <Col N="93" /> employed to do this work, and the 500 trained men could get out in the cities and give the people more protection.</P>
+    <Speaker pid="SeanBrowne" hpid="An Leas-Cheann Comhairle Sean Browne">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy has less than ten minutes left.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Thank you.  I congratulate the Leas-Cheann Comhairle on the first utterance since he took up office.  I am sorry we have not more time.  The Government were unwise not to have given the House more time for general discussion between now and the adjournment of the House until next October.  As well as talking about these vital things, we could have done with the repeal of the Emergency Powers Act, more gardaí for the cities and elsewhere, and in addition to that, we could have had a general talk which might have been of benefit to some of the incoming Ministers, as to their approach not only to their jobs but to their Departments and staffs.</P>
+      <P>Although some holes may be found in the fulfilment of the promises, it is refreshing to find&mdash;and it will be appreciated outside by critics of the Government&mdash;that we have got at least some indication that there is still credibility so far as political parties, politics and politicians are concerned, in this country.  I thank the present Minister and his Government for that, because it is badly needed in these times of cynicism and in view of the apathy that has been building up.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>It is a great pleasure to be the first speaker in this House to rise to his feet under your Chairmanship. It is a personal pleasure, because I am delighted that your service to your party and to your country has been rewarded by this high office.  You will know that my words are spoken in sincerity and not merely as a courtesy.  I also congratulate the Ceann Comhairle, and the new Minister opposite me.  I am glad the Minister has been given a chance to show what he can do with the ball.  He was a hard working spokesman in Opposition.  I am sure he will not be any less conscientious in his new job.</P>
+    </Speaker>
+    <P>
+      <Col N="94" /> Before I get on to the subject of the motion&mdash;I hope it will not be taken as impertinence&mdash;I should like also to say that I admire the very courteous behaviour Government Deputies have shown today and yesterday in having resisted what must have been a strong temptation to gloat over or jeer at the Deputies here whom they have just defeated. In that regard I do not say they excelled our behaviour four years ago but they certainly got this Dáil off to a good start.  I, for one, am grateful for it.</P>
+    <Speaker pid="SeanBrowne" hpid="An Leas-Cheann Comhairle Sean Browne">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Thank you, Deputy.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>Let me come to the matter before the House.  I am a bit surprised that we have had a succession of Opposition speakers, that the new Minister for Local Government was allowed to make a case here for these two measures and that the man who is just as new to ministership as himself but who is much more responsible for the production of these measures, who presumably thought them up or vetted them, namely, the Minister without portfolio who is to be given responsibility for long-term economic planning, the man who will have charge of our long-term economic destiny, who will be the guardian of our economic soul, discreetly left the House and did not choose or was not allowed to say what he felt about the long term effects of what is being done here today.</P>
+    </Speaker>
+    <P>I have every objection to the broad, overall effect of these two measures.  I have said in public already that there is a good deal to be said for the £1,000 grant to first home buyers if, but only if, it has the effect of encouraging people to consider more lengthily and seriously whether they can afford to buy their own houses rather than leaving themselves on the waiting list of a local authority.  If it has that effect, I would think there is a lot to be said for it.  Having made that concession, I dislike this whole package and much more of what we will be seeing because neither today nor yesterday in any of the speeches so far made in this House have I heard one word about what is really needed if we are to haul ourselves <Col N="95" /> clear of the pendulum of recession and boom, of elation and despair that has plagued us for the last 55 years.  If we are ever to get ourselves into a situation in which we will be reasonably independent of what goes on in the outside world, we will have to mobilise more than Fianna Fáil, or Fine Gael, or Fine Gael plus Labour. We will have to mobilise every man, family and community.  We will have to thrust upon these people and make them see that they, individually, and as families and communities, carry a responsibility for their welfare and future and that they cannot expect political parties to do the job for them in return for votes.  That way destruction of this State lies; that way revolution lies.</P>
+    <P>No number of Fianna Fáil Deputies or of my party had we a majority that large will stand in the way of that when the day comes that this country, burdened by impossible promises, its currency torn away from sterling and floating into the clouds of inflation, by printing money in order to meet them day by day, finally finds itself unable to pay its bills and is dragged to its knees by a revolution.  That is what is ahead of us if we continue politics in the way we have seen over the last years.  I do not especially blame Fianna Fáil for that.  We must bear some of the blame too.  The most recent example&mdash;and I do not want to fight the election all over again; the people have given their judgment and I do not whinge about it&mdash;&mdash;</P>
+    <Speaker pid="SeanBrowne" hpid="An Leas-Cheann Comhairle Sean Browne">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>We are dealing now with Local Government.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>I am sorry the Chair had to blow his whistle on me.  I will come back to illustrate my general thesis by reference to these two measures. It is a sad thing that these two measures should be the first substantial business put before the House without a word or even so much as a hint or indication that any capacity for directing this country's economic future or prosperity lay on anybody or that any ability to do so rested with anybody except the Government or except on those who plan to be the <Col N="96" /> Government.  That is false and wrong. We are not doing our job as TDs, and anybody in the Seanad is not doing his job as a Senator if he goes quietly along with that and allows his constituency organisation and supporters to believe it.</P>
+    </Speaker>
+    <P>In regard to the house proposal I have said that I can see some merit in it.  As was said by Deputy Ryan a while ago I cannot understand the reason that it should not apply to a first purchase by a young married couple of an old house.  I appreciate the anxiety to encourage building but we should have an anxiety also to encourage the retention of existing housing which is being torn down at a desperate speed.  Otherwise I do see that it has a certain merit but it should have been accompanied by&mdash;and had I been directing affairs in Fianna Fáil or even in my own party&mdash;it would have been accompanied by some attractive scheme to induce people to save for the buying of their own houses.  In my constituency clinic every week I meet young couples sometimes with two children, perhaps, a third on the way, not beyond 22 or 23 years of age.  Their youth is still ahead of them but in one very important respect it is behind them because at that age they have already saddled themselves with the most serious responsibilities a man and woman can take on and have done so not knowing where they were going to get a roof to put over their heads.  Nobody, their parents, clergy and above all their politicians ever warned them that from the first day they started earning money &mdash;even if it was as a shop assistant at the age of 16&mdash;they should have put money by for that eventuality.  A scheme such as this is only spoon-feeding the people.  If they are spoon-fed, equally they should be told that it is up to themselves to do something for themselves, look out for themselves and not merely be hoping that if they come often enough to enough clinics of enough politicians something will be done for them.  That is my basic objection to this scheme.  As a particular idea I can see some merit in it but, as part of a package of giveaways, of gifts and handouts, I detest it.  I detest it as <Col N="97" /> part of an attitude to politics and to public life of which the party opposite has given the most gross examples even though the people on this side of the House are not entirely blameless either.</P>
+    <P>I cannot speak with restraint at all about the other measure proposed.  I can see absolutely nothing to be said for it and I have tried to make the best concession I can for the proposal about the £1,000 grant for new house buyers.  I can see absolutely nothing to be said for the proposal to abolish road tax.  I know that Deputy Blaney described this&mdash;when it was adverted to by Deputy Desmond&mdash;as sour grapes.  Leaving aside the question of the administrative problems it will create, there is the probable removal, unless the whole administrative structure is maintained with no money being taken in, of the only effective check we had on car insurance which Deputy Blaney mentioned.  As everybody knows, in order to get one's tax disc one had to submit a current, valid insurance certificate.</P>
+    <P>Then there is the question of number plates for cars for registration.  All that administrative problem I would have thought might have been settled fairly quickly, a decision might have been made about, let us say, maintaining the whole thing exactly as it was except that no fee would be paid. Instead we find that the geniuses in the think-tank opposite had not time to work that out.  Examination is proceeding of the question of what arrangements will apply to the registration of vehicles affected. Evidently that has not yet been done. I do not blame the Minister.  He has not been a Minister 24 hours yet.  He probably did not know until a short time before that which Ministry he would get.  But I do blame the geniuses in the think-tank who said this to our people&mdash;although I do not want to whinge about it&mdash;without an idea of what they were going to do by way of an administrative measure to replace it, without as far as I can see either an idea of how they would defend the proposal not to refund tax to the people who have already paid <Col N="98" /> it in respect of the period or periods after 1st August.</P>
+    <P>I do not like giving legal opinions off the cuff even on matters in my field of interest.  I do not say this as a definite opinion I would stand over had I a lot of time to think about it.  But I do think it is an arguable point of view that we make a law whereby road taxation is not necessary after 1st August but that money paid in respect of road taxation for the period after that date is not refundable may be illegal under Article 40 of the Constitution.  It may be.  I do not say it is.  I do not want to be positive about it but the prohibition on discriminatory law which Article 40 contains and which has been explored, although not completely, in several cases over the last five or six years very arguably will prevent a Government from getting away with this.</P>
+    <P>Arguably, a man who has eight or nine months motor tax still due to him on 1st August will be able to compel the Government to repay it by saying that he is being treated in a discriminatory fashion because money has been taken from him on a representation that is no longer true and that as between himself and his neighbour no relevant criterion justifies the State holding his money while not taking from his neighbour.</P>
+    <Speaker pid="GeneFitzgerald" hpid="Minister for Labour (Mr. G. Fitzgerald) Eugene (Gene) Fitzgerald">
+      <NameTxt>Minister for Labour (Mr. G. Fitzgerald)</NameTxt>
+      <P>Would the Deputy explain&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>The Minister has the distinction of making the first interruption in the 21st Dáil.  However, I will give way.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. G. FitzGerald Mr. G. FitzGerald">
+      <NameTxt>Mr. G. FitzGerald</NameTxt>
+      <P>In the last year of office of the previous Government the owner of a 13 h.p. car found that his tax increased from £42 to £78. Would the Deputy care to explain that?</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>That is a quite separate question.  The Minister intervened when I was making my speech but I will not go back over it again.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Mr. G. FitzGerald Mr. G. FitzGerald">
+      <NameTxt>Mr. G. FitzGerald</NameTxt>
+      <P>I thought the <Col N="99" /> Deputy would like to explain the situation that existed.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>The Minister intervened when I was making my contribution but I will not go back over what I said.  I was not asserting but was suggesting&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. G. Fitzgerald Mr. G. Fitzgerald">
+      <NameTxt>Mr. G. Fitzgerald</NameTxt>
+      <P>I thought the Deputy was confused.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>The Minister would be well advised to be sure that he has heard all of an argument before he interrupts.  I suggested that it may be illegal for the Government to refuse to refund money paid in respect of motor taxation for periods subsequent to 1st August.  If I were connected with a motoring organisation I would not mind putting a few hundred or a few thousand pounds into taking a test case about this matter.</P>
+      <P>My main objection is that it is the sheerest of handouts.  It is the greatest political gobstopper that I can recall in my years of observing politics. There was no audible public demand for it.  It was quite seperate from the rates.  I know there was a universal demand to abolish rates.  I met it on the doorsteps at this election campaign, as I did during the campaigns of 1969 and 1973.  There was an audible public demand for the abolition of rates.</P>
+      <P>Although I do not think the ground rents problem can be constitutionally solved by the Government as simply as they think, at least that problem corresponds to an audible public demand.  However, there was no audible public demand for the abolition of motor tax and that is why I call it a political gobstopper. It is rather like a granny or a great-aunt who has no responsibility for the upbringing of children but who seeks to ingratiate herself while she is in the house for a few hours by bringing along a bag of lollipops and sticking them into the children's mouths.  By the time she leaves the house the damage will be done to the children's teeth.  Effectively, that is what this car tax proposal represents.</P>
+    </Speaker>
+    <P>It is commonplace in taxation that various indices of affluence&mdash;they may <Col N="100" /> be only rough criteria of affluence or consumption; the two things go together usually&mdash;are taken as items to hit in taxation in order to keep the State afloat.  Nearly everything we use is subject to taxation in some form. Even without the road tax motoring is subject to taxation because of the tax on petrol, VAT on the car and so on.  Everything is potentially subject to taxation and there is nothing sacred about a motor car.  It is arguable that the necessities of life such as food and medicine should be free of VAT. Fianna Fáil did not think so before the 1973 election; they derided our promise to get rid of VAT on food and medicine.  We took off that tax as promptly as Fianna Fáil are now removing motor tax.  There was something to be said for removing VAT from the necessities of life but that argument cannot be made in respect of the motor car.  There is no reason logically why a car should not be taxed.  This is the purest of handouts. It is as though each member of the electorate were offered a £50 note, as though his ballot paper came to him wrapped in that note.  It is the purest of bribes.</P>
+    <P>I do not make that criticism of all items.  I have not described the £1,000 house grant in that way because I agree there is something to be said for that but what has been done with regard to motor tax is total bribery. When we calculated that in order to replace the lost revenue it would take an amount of money which if raised in petrol tax would amount to another 19p per gallon, Fianna Fáil told us they were not going to do it that way. We have not been told how they are going to do it.</P>
+    <P>I do not expect an Opposition party suddenly caught up in a general election to produce chapter and verse in every minor respect for their programme but it will have to be done here.  The roads and the various facilities connected with them must be maintained and the money will have to be got from the people in some way.  I want to warn the motoring public about this.  I know that elderly widows driving 15-year old Morris Minors will not fit into the following rough definition but generally 90 per <Col N="101" /> cent of the motoring public are people who are able to afford to put petrol into their cars, who are able to afford not only the necessities of life but even a few luxuries.  These are the people who will be hit by whatever revenue raising device is resorted to by the Government in order to replace road tax.  My solemn advice to every car owner whose vehicle is 16 h.p. or under is to calculate what the motor tax would have been and to put it into a Post Office savings account because as sure as eggs are eggs that amount and probably even more will be demanded from him in some way or other.</P>
+    <Speaker pid="" hpid="Mr. G. Fitzgerald Mr. G. Fitzgerald">
+      <NameTxt>Mr. G. Fitzgerald</NameTxt>
+      <P>The Deputy is being malicious.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Mr. Kelly Mr. Kelly">
+      <NameTxt>Mr. Kelly</NameTxt>
+      <P>I should like to congratulate the new Minister who has just come into the House.  He worked extremely hard in Opposition and I hope he will have a happy, though not necessarily a long, time in office.</P>
+    </Speaker>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>As congratulations seem to be the order of the day I should like to join with the previous speaker in congratulating the new Leas-Cheann Comhairle.  I should like also to congratulate the two Ministers present; first, my neighbour from Cork, Deputy Fitzgerald, and, secondly, Deputy Barrett, the Minister responsible for this Estimate.  I wish both of them well.</P>
+    </Speaker>
+    <P>My reason for intervening in the debate is because the Minister's statement was exceptionally skimpy even though it dealt with two important items.  I am sure the Minister in his reply will answer our questions and give us the information we seek.  Both measures had priority in the election programme of the Government and I share Deputy Kelly's view that someone in the Government should explain these measures and tell us the provisional cost and how it will be met. This is particularly important when we realise that the House is likely to adjourn this week for some months and that we will not in the meantime have an opportunity of raising those matters either by questions or expression of views in debates on Estimates. <Col N="102" /> The £1,000 grant for people who become owner occupiers of new houses or flats, who have not previously purchased or built a dwelling for themselves, is a commendable scheme.  I would like to see £2,000 being provided if the money were available because I have often expressed the view that so far as possible people should try to provide their own houses.  It is very desirable that instead of applying to the local authorities for housing people should have an opportunity of providing their own homes through some State subsidy if their financial resources warrant a State subsidy.</P>
+    <P>I believe that this scheme commended itself to the public.  I am sure it helped to change the Government. Was it, as has been alleged, a con trick?  Did Fianna Fáil in their election manifesto do what a three card trick man would do at a fair or a race meeting? That question does not reflect on anybody.  The Minister in his speech said:</P>
+    <P>The new scheme will be administered by the Department of Local Government...and will replace from today the existing schemes of new house grants paid by the Departmen and local authorities. </P>
+    <P>I have a few questions to ask the Minister about that.  I hope when he is replying he will give me the information I require.  A farmer with a £25 valuation is entitled to £900 if he requires a new home on his holding. If his existing home is in such a state that it cannot be reconstructed he automatically qualifies for £900.  A farmer with a valuation of between £25 to £37.50 qualifies for a grant of £800. A small farmer who buys a holding with a house in poor condition on it decides that the first priority is to erect a new house.  Will that person be deprived of a grant?  The only interpretation one can put on the Minister's statement is that such a person will not qualify for any grant.</P>
+    <P>The same applies to wage earners who come within the limit of the grants available at the moment.  If that is correct it should be changed.  Many people felt that this scheme, which was <Col N="103" /> in the Government's election manifesto, applied to all people who were erecting new homes but that it did not interfere with the existing grants available from the Department.  It now appears that this is not correct.  The Minister said that all grants at present provided by the Department are scrapped and are replaced by this one.  I am sure he will correct me if I am wrong in my interpretation of what he said.</P>
+    <P>The second matter referred to in the Minister's speech is the abolition of motor tax.  It is true, as stated by Deputy Kelly, that there was no demand for this.  However, young people like this scheme because it means a lot to them not to have to pay £40, £50, £60 or even £70 road tax for their cars.  This was put up as a vote catching stunt.  It was one of the main items in the auction rooms of Fianna Fáil.  During the 16 years from 1957 to 1973 and also between 1951 and 1954, when Fianna Fáil were in office, we often pleaded for improvements in existing legislation.  We could only get very slight improvements in many schemes.  We were told that the cost was prohibitive.  I remember when our late President was Minister for Health he could not abolish the household means test for disablement allowance because it would cost £4 million and the money was not available.  We abolished that as soon as we took office in 1973.  During the term of office of Fianna Fáil we were often told that so far as the qualifying age for old age pensions, which was set down in 1908 by the British Government, was concerned it would cost too much to reduce it.  I can recall numerous schemes of general public advantage where we sought relief when in Opposition which were rejected.</P>
+    <P>Shortly before the 1973 election there was a general feeling that rates were a great burden on many of our people, particularly those in the lower income group and that some relief should be given.  In the National Coalition proposals of 1973 we referred to relief of rates.  This was under discussion on many occasions in the Dáil particularly between 1969 to 1973.  The Fianna Fáil Government vehemently opposed this on the <Col N="104" /> grounds that if relief were given to ratepayers the money would have to be found elsewhere.  They accepted that it was only right that local revenue should be collected by rates and that people should make their contribution to enable the local authorities to carry out their works. That was the position up to the 21st or 22nd February, 1973.  On one of those dates the Government party changed their programme concerning rates and said that they were prepared to provide some reliefs.  This was a swing about because the election campaign was going against them at that time, but unfortunately it did not come early enough for Deputy Collins.  He had already sent his election statement to the newspapers and he set down that rates would not be abolished, that the proposal was a Coalition gimmick and that it could not be done.</P>
+    <Speaker pid="SeanBrowne" hpid="An Leas-Cheann Comhairle Sean Browne">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I am sorry, Deputy.  We are not dealing with rates on this Supplementary Estimate.</P>
+    </Speaker>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>The fact is that we have been given a brief statement and we were expecting an elaboration on the Minister's statement by other Government speakers. We had in mind, as mentioned by Deputy Kelly, that the new Minister who is supposed to be responsible for such measures as these would enlighten us and give us the benefit of his views and the costings of such schemes and relieve us of the doubts I have mentioned relating to who may or may not qualify for these grants and doubts as to how the money is to be found for the implementation of these schemes.  Road tax may be abolished on cars of less than 16 horse power and the revenue could be raised by way of additional taxation on the price of new cars.  The lifetime of a car is about four or five years and the money could be recovered by adding £200 or £300 to the price of the car.  A man purchasing a car would pay tax for the lifetime of the car at the time of purchase.</P>
+    </Speaker>
+    <P>We all like to see car tax being abolished and new house grants being <Col N="105" /> increased, rates being abolished and income tax being reduced but as Members of this House elected by the people we are asked the question: &ldquo;Where will the money come from?&rdquo; It will not fall from Heaven.  I do not think any manna has fallen from Heaven since the time of Moses and it it unlikely that we will have a recurrence in 1977.  I believe there was an obligation on the Minister and on one of the other members of the Cabinet to give an idea of the costings of these measures.  These questions are being asked.  I am making the assertion that these measures were introduced solely for the purpose of buying votes and I must say that it worked.  There was never any agitation in the House for the abolition of car tax.  I do not think there was a single question addressed to the former Minister setting out the burden of car tax and the desirability of abolishing it.  We all know that a percentage of people find car tax a burden.  It would be hard to put a figure on that percentage.  We also know that there are people who are, to use an old term, reasonably well heeled and well off and do not find it a burden and who have never made any representations that car tax should be abolished and that they should be relieved of the obligation to pay it.  I am asserting that the car tax measure was simply a measure thought up by the party at a time when things were not going too well in their efforts to get from this side of the House to the opposite side.</P>
+    <P>As Opposition Members, we are quite entitled on an occasion such as this when the Estimate is introduced to ask for information regarding, first of all, the probable cost of the schemes and, secondly, how the schemes are to be funded.  We have been told that there will be no additional taxation in the price of petrol to raise the extra revenue but we have not been told whether there will be an increase in the cost of new cars by way of additional taxation.  I should like the Minister to clarify this point.  A number of questions arise and it is desirable that the Minister should dispel the doubts and rumours as to, for instance, whether a car will qualify if it is used <Col N="106" /> for taking milk to a creamery or if a car has a hitch for drawing a trailer. I should like the Minister to tell us whether the owners of such cars may find themselves in conflict with the regulations being implemented.</P>
+    <Speaker pid="SeanBrowne" hpid="An Leas-Cheann Comhairle Sean Browne">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy has just one minute left.</P>
+    </Speaker>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>My intervention was mainly to get some information. Will the farmer who bought a house and holding qualify for the £900 when this is approved?  Will cars with hitches for drawing trailers be excluded and where will the money come from?</P>
+      <P>In conclusion, I should like to say that I welcome any scheme to help young people getting married to buy their own houses.  It is beneficial to the State.  I like to see young people buying their own houses rather than applying for local authority houses and I commend that part of the scheme. However, I should like the Minister to answer the questions I have raised.</P>
+    </Speaker>
+    <Speaker pid="MichaelKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>I know it is the practice for a new Member to wait a little longer before making an intervention but there are a number of issues on which I should like to comment.  I understand that one may speak for 20 minutes but I understand further that one does not actually have to and I do not intend to&mdash;on this occasion, at least.</P>
+      <P>I think it would be very helpful in future, whatever about the practice in the past, if this type of proposal were accompanied not merely by 16½ lines of data.  Most of the speeches have been taken up with questions and unfortunately some of my comments are also in the form of questions.  It would save much time and be much more productive if the information were supplied initially.  Personally, I do not think there is any excuse for this type of move on grants, for example, with 16½ lines of information.</P>
+    </Speaker>
+    <P>As a member of the city council I know that these standards are not used in our lowest committees and they are not appropriate for this Assembly. My major worry in connection with the proposal is the social implications <Col N="107" /> for the city.  What is being said is that the inner cities of Dublin, Cork, Limerick and Galway are going to be deprived of the benefits which could come from a scheme such as this one.  This means that the superficial tinsel of this package which was hawked around the country some weeks ago will not have any effect in, for example, the constituency of Dublin North Central and that houses which are still available to young couples for £6,000 or £7,000 will not benefit from the scheme.  That is serious because it flies in the face of the previous Government's commitment to establish the concept of a living city. We are asking young couples and others interested in purchasing houses to leave the city.  This is a formula for inner city decay.  I find it most unacceptable but I hope my interpretation is wrong and that I will be corrected. The young people who come to see me would resent being sent to dormitory towns in the suburbs, towns which have few facilities at present.</P>
+    <P>I heard Deputy Blaney express the hope that the promises made to the electorate would be fulfilled.  I am as idealistic as most young people but I do not believe that the promises will be fulfilled.  I am appalled to learn that the net grant will be between £300 and £400 once the existing grants have been removed.  That minus factor was not spelled out during the election campaign. It is a shoddy confidence trick which I resent and reject.  Those who made it are confidence tricksters.  To take back this amount of money, up to £900 in certain areas, and to give £1,000 when the promise was interpreted as a bonus is nothing but a confidence trick.  The Minister would be fulfilling the promise if he agreed to give £1,000 in addition to what is being given.  I appeal to the new Members of the House to set decent standards and not to give in too easily.</P>
+    <Speaker pid="JamesNFitzsimons" hpid="Mr. Fitzsimons Mr. Fitzsimons">
+      <NameTxt>Mr. Fitzsimons</NameTxt>
+      <P>The electorate asked that question.</P>
+    </Speaker>
+    <Speaker pid="MichaelKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>The electorate were told that they would be given £1,000. They are being given £100 to £400 and that is a confidence trick.  When the <Col N="108" /> young people who attend our advice centres hear this they will be very dismayed. The Government should consider the implications which the removal of motor tax will have on car insurance.  Although motor taxation did not guarantee that a car was insured, it was a good indicator.  Many people who have large old-type cars will now consider having their car engines converted.  Has any thought been given to the effect of this measure on car assembly workers and garages? I know a few places in the city which will be dealt a severe blow because people will turn away from cars in excess of 16 h.p.</P>
+      <P>I appeal to those in power to consider the tragic effect of the flow of young people from the inner city to the suburbs which lack amenities.  The Minister for Finance knows that north central Dublin could suffer badly if this scheme is not altered.  He should also consider the sleight-of-hand involved in offering £1,000 but delivering only a few hundred pounds.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>A Leas-Cheann Comhairle, I should like to follow other speakers in welcoming your election before turning to the business in hand. Many speakers have complained that, because of the paucity of information in the Minister's speech, we have to spend most of our time asking questions.  I believe that, although the questions have to be answered and no doubt will be answered, many of the implications of these two tawdry gestures can be teased out even on the basis of this more tawdry piece of paper.  Mr. Jack McQuillan, who was a member of this party, once had a very good description of the late Mr. de Valera's economic policy.  It was, he said, a policy of taking money out of one of your pockets and putting it back into another one and charging you for the privilege.  This is as true today as it was then.  The fundamental political question in relation to decisions like these is whose pocket is the money coming out of and whose pocket is the money going into.  One does not have to be a socialist to conclude that this is the fundamental political equation.  Most capitalists understand it very well.  In fact, most successful <Col N="109" /> capitalists are largely successful because they understand it better than anyone else and because they have devoted a lifetime of effort to ensuring that the maximum possible amount of money is transferred by legal means, if at all possible, from other people's pockets to theirs.</P>
+      <P>The two measures before us would be pathetic if they were not so insidious in terms of the equation I have just described.  In one sense they are, as has been said already, a hand-out but I am sure that the gloss will wear off before long.  These measures are an example of the politics of the pork barrel.  I am confident that an electorate who have tasted these politics for the coming four years will find the taste exceedingly rancid.  On the other hand, it is not entirely accurate to see these measures merely as a hand-out because if the money is being put into your pocket or mine&mdash;in my case the amount involved is £78&mdash;it is coming out of somebody else's pocket.  We must ask and continue to ask not merely into whose pocket the money is going but from whose pocket it is being taken. On these measures and on all similar measures that may come before the House I, together with other Members of the Labour Party, will ask this question.</P>
+    </Speaker>
+    <P>It is not my intention to deal at length with the question of car tax but even before we know the details the fundamental issues are clear.  What we need and what was promised and would have been delivered by a Government composed other than the present composition is a fully coordinated transport policy and not the kind of instant solution that is before us today.  What we need is a transport policy that would at least reduce the inequalities that exist in relation to the supply of transport in our society.  Where motor cars are concerned these inequalities are huge. The poor, the elderly and the infirm&mdash; the people one would like to think would have the major claim on individual transport in any fair-minded society&mdash;are precisely the ones who are least likely to have access to it in the kind of society that we have <Col N="110" /> today.  Again, one must ask into whose pocket the money is going and from whose pocket it is being taken.  This measure is putting money into the pockets of people who own motor cars but will it have the effect of taking money from the pockets of people who do not own cars or, alternatively, will it have the effect of taking the money in another way from the pockets of car owners?  This is the question that must be asked and answered because if it is true that the money involved will be coming from the pockets of people who are not already owners of motor cars, we can safely say that motor car owners are receiving a net subsidy from the State and from public revenue.  This is a matter we should question seriously. The present situation is that motorists pay rather more annually in taxation to the State than is spent on roads. But that is a very acceptable equation because the environmental, the pollution aspects of the car are such that any decent society must accept a tax on car use.  The tragedy is that that tax is not put to better use in an attempt to solve some of the problems that have been created by car use and abuse.</P>
+    <P>I should like to turn now to the question of the housing grant for people becoming owner-occupiers for the first time of houses or flats.  Here, again, the fundamental issue does not depend on asking questions about the precise type of person who is to become entitled to the benefits of this measure.  Rather, the fundamental question is whether we are yet today at a point in time at which the fairest, the most equitable and the most socially progressive way of controlling the price of houses is by providing a subsidy at the point of sale.  For years this has been the policy not only in Ireland but in many other countries. If anything, the Irish policy has been on the generous side compared with other countries.  In the publication <i>Housing in Ireland</i>, Mr. Meegan of the Institute of Public Administration quotes an article by P. Ó hUiginn in which Mr. Ó hUiginn concluded that residential construction here since the war has had a better social context, a <Col N="111" /> wider scope and a higher rate of public subsidy than in most other western European countries, including richer countries, that it has been financed from public funds to a greater extent than in any other western European country.  This was an initial, administrative and political response to the need to control house prices. More and more we are realising that the least efficient but the most expensive form of State intervention in controlling house prices is intervention at the point of consumption, at the point of sale.  If one considers the matter logically, one realises that the further back the State intervenes in the supply and the construction of houses to control prices the more effective that policy will be and the cheaper it will be to the general tax-paying public.</P>
+    <P>The basic point at which intervention can be most effective is in relation to the control of the price of building land and to its supply and not, as this simple measure indicates, by making available slightly additional subsidies to first-time purchasers of houses.</P>
+    <P>In 1969 a member of the Government of the day laid a White Paper before the House entitled <i>Housing in the Seventies</i>.  Luckily as it happened, most of the housing in the Seventies to date has been carried out by another administration.  In that White Paper the then Government talked about the problem of finding ways of controlling the price of building land and rejected the concept of public ownership stating that such concept would entail the most serious constitutional, legal, financial and administrative problems. They went on to say that the level of building land prices would be stabilised as far as practicable by increasing the supply of serviced land to such an extent that it would lose much, if not all, its scarcity value.  But these are hollow words from eight years ago. Not only are they hollow but they add to the lexicon of argument against a sane approach to the price of houses &mdash;the classical administrative and political over-kill&mdash;that we cannot expropriate private land-owners and, therefore, cannot do anything about the profits they make.</P>
+    <P>
+      <Col N="112" /> There are multitudinous devices short of expropriation for controlling the sale, the profits and the speculation in respect of building land.  The Kenny Report listed large numbers of such measures.  I would have hoped that a future Government of which the Labour Party formed part would have taken that report seriously.  I doubt that the present Government will do so.  Again, we come back to the question of the basic subsidy.  Who is it paid by and to whom is it paid? With due respect to my parliamentary and, indeed, constituency colleague, Deputy Kelly, I must raise a query about the specific value of the approach he urges in our present situation.</P>
+    <P>Deputy Kelly talked about the need to save.  In itself such need is good. But how can we in conscience encourage people to save in order to buy with the proceeds of their savings the houses the prices of which are determined solely by speculation? This is why people do not save.  They realise they are on a loser from the beginning.  What do they do?  They speculate in their own way in their own misery and hardship and they go on having more children and living in less and less satisfactory conditions, hoping that at some point the curve of their need and their misery will intersect with the curve of housing that the local authority will give them. They are speculating and they have seen from the way the rest of society runs that speculation is the only thing that works.  Whereas the speculators we describe as such speculate with money, other people's money at that, we are encouraging these people to speculate with their own lives and welfare and the welfare of their children.</P>
+    <P>We are now dealing with the Supplementary Estimate which without a means test promises a grant of £1,000 to first-time owner-occupiers. The mathematics of the £1,000 have already been sufficiently teased out, but to show what a change there has been over the years I quote from the introductory speech to the Housing (Amendment) Bill, 1947, Second Stage on 26th November, 1947, by the <Col N="113" /> Fianna Fáil Minister for Local Government, Mr. MacEntee, as reported in the Official Report, Volume 109, column 79.  That Bill also promised new grants for certain types of houses.  I quote:</P>
+    <P>The grants under the new scheme will be considerably larger than under the old, and they will be payable in respect of houses built in both urban and rural areas.  But, perhaps, the first thing to be emphasised in regard to them is that no grants will be made to purely speculative builder, i.e., the man who builds houses for sale to purely chance customers.  To qualify for grants under the scheme, the houses must be built by a public utility society for its members for letting, or to the specific orders of individuals for their own occupation. With the present acute and widespread housing shortage the speculative builder <i>per se</i> requires no encouragement, for he is operating in a seller's market where he can very largely demand his own price. </P>
+    <P>That was Mr. MacEntee in 1947, years ago.  Here is his Fianna Fáil successor today.  I leave him to tease out the problem.</P>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>I congratulate the Minister on his appointment.  I wish him well and I hope that in the baptism of fire he has had this evening his reply will allay some of the misgivings that we have on this side of the House.</P>
+    </Speaker>
+    <P>Can the Minister state the number of people who qualified for grants last year because they built houses of their own?  Even if they had previous housing accommodation they may have sold their own house, and they qualified for a grant.  Can the Minister tell me the numbers involved?  He must have those figures at hand.  My second point is that I am worried about the phraseology of the Minister's statement. He says that the scheme will be administered by the Department of Local Government, to be renamed the Department of the Environment, and will replace from today the existing scheme of new house grants paid by the Department and the local authorities. <Col N="114" /> I am worried about the local authorities in this context and perhaps the Minister in his reply will remove my misgivings.  Roinn na Gaeltachta give a grant of £750 plus £750 from local authority.  Is the Minister now with a wave of his hand abolishing completely the supplementary grants when a person qualifies for a Gaeltacht grant?  If that is so I will make my case.  If it is not, I will not continue any further on that point.  Perhaps the Minister would reply to me on that now.</P>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>It does not affect the Gaeltacht grants.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>Regarding the tax on cars and motor cycles, the Minister in his statement says that examination is proceeding on what arrangements would apply to the registration of vehicles and that an announcement will be made shortly in that regard. Can the Minister assure me and the House that when that registration takes place there will not be a fee of one kind or another for it?  Can I have a straight answer?</P>
+    </Speaker>
+    <Speaker pid="SeanBrowne" hpid="An Leas-Cheann Comhairle Sean Browne">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I think it would be wise&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>I will be only five minutes, if the Minister will answer me.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>Would the Deputy repeat his question?</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>On the question of the registration, will there be a fee for the registration of the vehicle, whether it be a motor cycle or a private motor car?</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>There is no decision on that yet.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>We are told that tax has been abolished but we are not being told that when the vehicle is being registered there will not be a registration fee.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>They do not know yet.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>Surely if they are going to abolish the tax there will be no fee.  With a registered horse it is &ldquo;No foal, no fee&rdquo; but everybody in <Col N="115" /> the Fianna Fáil Party is concerned that whether there is a foal or not you will pay the fee.  If the Minister cannot tell me that&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>If I could come in for a moment, there is at present a fee of £5 for registration.  The new scheme will be announced in a matter of days.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>Will the Minister assure me that in the new scheme there will be no increase in the registration fee on cars up to 16 h.p.? Will he give me the assurance tonight that he is not robbing Peter to pay Paul?  Seeing that the Minister is not prepared to give way on that point, we can assume as far as car registration is concerned that there is going to be a substantial fee to make up the deficiency arising by virtue of the fact that no road tax is to be paid. If that is so, it is a disgraceful trick of the lowest type to play on the public.  I am not going to say any more than that because the people will give their verdicts on those who made these promises.</P>
+      <P>My last point concerns a private car with a hitch on it.  Take the farmer with his big old Morris car towing milk to the creamery.  Can we take it that if he has a hitch on the car towing those tanks and sometimes towing a bullock to the mart, or if an urban dweller tows his caravan to the seaside or a small contractor has a hitch on his car to take a load of blocks or sand to the site, that these men will not pay a penalty for having a hitch on their cars?  I hope the Minister will clear away any misunderstanding I may have.  If the Minister is going to regard the vehicle, by virtue of the fact that it has a hitch on it, as liable for a fee that is one big hitch as far as the motorists are concerned and as far as car tax is concerned.</P>
+    </Speaker>
+    <P>The Minister has a big job before him.  Let him start it on the right foot.  He must not play tricks on us. He is only 24 hours on the job. However, as regards those who designed the car tax policy and those who designed the scheme to give <Col N="116" /> £1,000 to people looking for a new house, if what the people were led to believe were facts are not facts, then the Fianna Fáil Party have done a great disservice to Irish politics and to any man or woman who is a politician.</P>
+    <Speaker pid="RuairiQuinn" hpid="Mr. Quinn Mr. Quinn">
+      <NameTxt>Mr. Quinn</NameTxt>
+      <P>I rise to speak for the first time in this House, and I would like to congratulate Deputy Barrett on becoming Minister for the Environment. This is, in fact, the last time there will be an Estimate for the Department of Local Government so named.  I welcome the decision that that Department has been changed to the Department of the Environment. It is not so long ago when politicians did not know what the word &ldquo;environment&rdquo; meant, and it has over the last four or five years become somewhat fashionable.  <i>A propos</i> of the comments made by Deputy Begley on the car tax, I would point to a great tragedy in what was announced by the Taoiseach yesterday in regard to the renaming of Local Government and in regard to the change in Deputy Barrett's appointment from Transport and Power to Local Government.  To think seriously of having a Department of the Environment in which transport and transportation is not a part is to continue to use the word purely in its cosmetic sense and not in its realistic sense at all.  The farce of it all is that we are concerned to-day with road tax and road policy, all of which are intrinsically bound up with any form of transportation policy; yet Deputy Barrett will not be the Minister who will have the responsibility, as we understand it now, of bringing in a transportation policy. Therefore, as regards car tax and the whole question of the connection between car tax and the rest of transportation policy, the Minister ought between now and October go to his colleague, Deputy Faulkner, who seems to be fairly well burdened anyway with Posts and Telegraphs&mdash;the last incumbent of that office found the task fairly heavy&mdash;and consider in general terms how Transport and Power is going to be reallocated: certainly if energy is to be taken out of it, the whole question of Transport <Col N="117" /> and Power should be examined and whether it would be possible to bring transportation and the environment into the Minister's bailiwick.  Otherwise, for the Minister to call his Department the Department of the Environment is a nonsense.</P>
+      <P>On the implications of the car tax, if Fianna Fáil are concerned with improving mobility and accessibility of transport to people, then surely they will, in the abolition of tax on vehicles, abolish taxation on public transport vehicles to reduce the cost of public transport.  Could the Minister indicate whether this will happen as well?  If this is not the case, we are again seeing the evidence, not in the rhetoric but in the deliverance, that Fianna Fáil are concerned with the &ldquo;haves&rdquo; and not with the &ldquo;have nots&rdquo;.  I accept that in rural Ireland the problem of car tax is a very real one where there is not an adequate rural bus service.  In Britain, in regard to the question of petrol tax, we saw a similar kind of lobby arguing for support for the private motorist in rural areas because of the run-down in transportation services there.  However, in the urban areas and in the field of transportation generally, in so far as the Minister for the Environment has responsibility for it, and his responsibility is split, if he is concerned with improving mobility and transportation for people as distinct from giving another few &ldquo;bob&rdquo; to the people who already have it, then he should consider exempting public transport vehicles from taxation as well.</P>
+    </Speaker>
+    <P>I do not propose to speak for long because many of the questions have been teased out already.  It would be unfair of us to expect anything other than minimal answers at this stage, and I certainly do not expect them.  It is enough for us on this side of the House to put on record our reservations and the obvious questions that must be asked and no doubt will be or have been asked by the Minister's officials. However, it does raise one point and I would like to refer to a comment made by the Taoiseach yesterday and the task that now lies ahead of the incoming Minister for the Public Service. If there are to be such things <Col N="118" /> as support groups for political parties and if there is to be funding for support groups either in office or in Opposition, their credibility has taken a hell of a knocking today if the support group who thought up this proposal have not even got beyond first base in providing an answer as to how it would be implemented.</P>
+    <P>I do not believe any political party, the Minister's no more than ours, should be dependent on the administrative expertise of the civil service in the initial stages.  There should be a phased form of transition between having a fully fledged civil service, and a good one, which is what we have, and trying to adopt the election policies.  In regard to both of the policies under discussion I do not see any difficulties.  The money to do it will be raised because it is an election pledge.  There may be some way in which, as has been seen already with the house grant, the car tax cost can be marginally reduced.  However, basically the sums involved are not excessive and can be funded out of overall taxation.  But if the other policies on which the electorate decided last June cannot be realistically implemented and if the support groups of any political party do not have the facility to assess, not their popularity but whether they can be implemented without disruption or without repercussions which are unforeseen or do more harm than good, then the question of efficient, effective democracy working in our society is called into question.  Therefore, between now and October when the Minister as a member of the Government is considering these matters, I would respectfully suggest to him that these two issues would be raised by him in Cabinet.</P>
+    <P>Finally, on the question of house purchase, I am not in the least surprised by the offer of the £1,000 for first-time buyers of new houses.  Again it seems to be consistent with the approach Fianna Fáil have always had; they are more concerned with the house-building industry than they are with the house purchasers.  The people who whooped most for joy in regard to this are those in the stock exchange where it affected the share prices of those <Col N="119" /> companies who have large interests in house building.  If the replies to the questions raised by Deputy Desmond, Deputy Begley and others in regard to the net grant to the first-time house buyer indicate that, in fact, it is not an additional £1,000 but something less than that, then it is up to the public to decide.  But in all cases what is being proposed is not a direct subsidy to people seeking a home but a direct subsidy to people to build houses for sale, and that is the difference.</P>
+    <P>I would like the Minister to answer the following questions if he has worked out the administrative implications of them.  It is quite possible he has not, but I would like to enquire whether the wife of a husband, that husband being a first-time purchaser before, is eligible for this £1,000 grant if they decide to change house and the house is bought in her name?  Under the Family Home Protection Act, does the reality that the wife legally is the owner of the existing house prevent them from availing of a house the second time round?  In essence, can a husband and wife, where the husband is the owner, buy a second house in the wife's name and apply for the grant?  What is the Minister's approach to that?</P>
+    <P>I realise this is not for existing houses, that it is as much a sop to the building industry as to potential house purchasers, and while appreciating what Deputy Keating said in regard to the inner city in Dublin, I would be surprised if anything beneficial will happen in that respect under the present Government.  This is designed to boost housing in the private sector.</P>
+    <P>I will ask the Minister a few questions for clarification.  Will this be limited simply to married couples or will it apply to single and married people?  Will the certificate of reasonable valuation be maintained in its present form or is it likely to be changed, and, if so, what will be the process&mdash;will it be brought before the House?</P>
+    <P>
+      <Col N="120" /> Many of the points which have been raised were ones I had thought of raising.  I sympathise with the Minister in having to come in here to answer some of the questions asked, which were frankly political.  Some of them were attempts to fight the election all over again.  We lost the election.  Why we lost it I do not know any more than I know why the Government won it.  The Minister has had a massive endorsement from the public to do these two things.  My concern is for people who need housing rather than for the private house building industry which has responded with great delight to this news.</P>
+    <P>With regard to transport, I hope the Minister will take seriously the question about his Department's involvement with transport&mdash;that transport should become an integral part of his responsibilities. If that does not happen, the problems we have had in the last few years will continue.  I earnestly hope that in the coming weeks the Minister will have regard to expertise in the field of transport and that he will agree that transport should be associated with the environment.</P>
+    <P>In regard to car taxation, will some kind of removal of taxation on public passenger vehicles be undertaken and, if so, will the Minister consider making some gesture towards subsidising transport by having this provision applied to CIE buses?</P>
+    <Speaker pid="SylvesterBarrett" hpid="Minister for Local Government (Mr. Barrett) Sylvester Barrett">
+      <NameTxt>Minister for Local Government (Mr. Barrett)</NameTxt>
+      <P>First of all, I thank those who extended congratulations to me. I trust we will be able to do a lot of useful work in the coming years. During the debate many Deputies ranged over every detail concerning both issues before the House&mdash;housing grants and motor taxation&mdash;the details of which will be published fully in each case.  Therefore, I do not intend to deal with every point made, much as I should like to.  An opportunity will be afforded on another occasion to debate this more fully.</P>
+    </Speaker>
+    <P>Everyone will realise that the purpose of these two policy statements or promises, whichever one likes to call them, was to generate more activity, to create more employment and to give a very necessary fillip to the building <Col N="121" /> industry.  This, we are certain, is already happening and we have no doubt it will continue to grow.  A number of Deputies expressed concern at or criticism of the intention to let the old grants system go by the board as from today.  Even Deputy Begley asked the number of grants paid out last year and so far this year.  Comparisons were made between this £1,000 grant and the old grants and some Deputies claimed there was only a difference of about £100 between the two, if the supplementary grants for small farmers are added to the local government grants.</P>
+    <P>In 1974, 16,516 grants were allocated by the Department.  This year, the grants allocated amounted to 1,241&mdash; that is for the first quarter of this year. If we multiply that by four we will find that the figure is less than 5,000.  In other words, four times as many grants were allocated in 1974 as would have been this year, and we know the reason for it.  Since January, 1976, my predecessor imposed certain restrictions, a means test, in regard to qualification for housing grants.  An income limit of £2,350 per year was imposed for qualification for a local government grant.  We are all aware that only a minority in the community would earn as little as that, about £40 per week and it is, therefore, easy to see the effect of my predecessor's decision to bring in a means test on the building industry and on young single people intending to get married.</P>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>Is the means test being abolished?</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>There is no means test for the £1,000 grant.  Deputy Barry Desmond said that very wealthy people would be coming back to the country to get this £1,000.  This is most unlikely to happen because of the ground measurement which will apply.  It is unlikely that any of these returning millionaires would build a house of such dimensions.</P>
+    </Speaker>
+    <P>The new housing grants will cost roughly £3 million extra in 1977 and £7 million in a full year.  When we get an accurate estimate a further Supplementary Estimate will be introduced to give a further opportunity to Deputies <Col N="122" /> to discuss the matter.  The estimated cost of the motor tax proposals is £3 million in 1977.  These are the present estimated costs.</P>
+    <P>There should be no confusion&mdash; there seemed to be some confusion&mdash; between new house grants and reconstruction grants.  Deputy Keating raised the matter of existing houses in inner Dublin.  He argued that these would not benefit.  I presume he was speaking about reconstruction grants. Now we will be revising the existing reconstruction grant scheme in the not too distant future and any changes we make will be duly announced.</P>
+    <P>We brought in this Estimate to show that we are absolutely serious in honouring the commitments we gave in our manifesto.  It so happens that there is urgency about meeting these two particular commitments.  Since the time is limited I am sure Deputies will appreciate that I did not have much time to get a longer brief prepared. I am not looking for sympathy. I am just stating a fact.  I tried to set out briefly what would be involved. With regard to housing grants, a statement will be issued to the Press not later than Friday which will set out what is proposed in more detail for the benefit of the public so that people will know who qualifies and where and how to apply.</P>
+    <P>Deputy Quinn raised the question of the position of a spouse and how one would differentiate.  If an applicant's spouse has already purchased or built a dwelling a grant will not be allowed.</P>
+    <Speaker pid="RuairiQuinn" hpid="Mr. Quinn Mr. Quinn">
+      <NameTxt>Mr. Quinn</NameTxt>
+      <P>Will the Minister answer one question?  I have come across genuine cases where couples have separated and where there is difficulty in getting adequate recognition of such separations because of our totally inadequate marriage laws.  In the case of buying a new house some provision should be made whereby such separations would be recognised.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>I appreciate the Deputy's concern.  All I can recommend at this stage is that he should notify me of the specific details of such hardship cases and I will definitely look at them.  I cannot give any definite commitment at this stage.  I want to <Col N="123" /> correct the figure I gave with regard to the net cost to the Road Fund in 1977.  It will be roughly £7 million.</P>
+      <P>With regard to the abolition of motor taxation, Deputy R. Ryan does not believe in it at all.  That was quite obvious.  The abolition of this tax has two very important purposes. It is designed to compensate motorists for the way in which they were mulcted by the taxes they were compelled to pay on petrol over the last four years.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>Is the Minister saying there will be no further increase in petrol?</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>There will be no further increase in petrol taxation.  In the past four years my predecessor imposed 35p extra taxation on a gallon of petrol.  This hit those motorists about whom we are now concerned and it is to help these we are introducing this Estimate.  I think the reason is a valid one when one considers that the motorist who will benefit is the man who lives in rural Ireland, the man who is obliged to have a car to get to work because public transport is not convenient or cannot cater for him.  Surely it is only right to alleviate costs for such people. When my predecessor imposed 15p extra on petrol he said it would lead to a further conservation in petrol.  As he knows from experience, it did not. Encouraging people to use small cars will mean that less petrol will be used.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>The Minister's argument is not well founded because 98.7 per cent of the cars in the country are 16 h.p. or under.  The only saving would be on 1.3 per cent, or hearses or limousines.  Let the Minister not talk about saving petrol.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>This will compensate motorists for what has happened to them in the last four years and it will lead to less petrol being consumed. With regard to the concern expressed about registration, perhaps Deputy Begley did not read all my speech.</P>
+    </Speaker>
+    <Col N="124" />
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>I read it all.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>I said in my opening statement that examination is proceeding on the question of what arrangements will apply to the registration of vehicles affected and an announcement will be made shortly in that regard.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>That is the assurance I was looking for from the Minister.  I wanted an assurance that there would be no increase in registration.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>Some Deputies expressed concern about insurance. There will be no question of encouraging anyone to go without insurance. That aspect will get full consideration.</P>
+      <P>The question of a refund of tax was raised.  There will be no refund. I want to make that quite clear.  We gave no such undertaking in our manifesto.  Deputy Kelly expressed some concern about the legal position. He feels people may have a case against the Government.  We do not accept that point of view.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>The manifesto said that taxation would go from 1st August.  If a car is taxed beyond the 1st August then a refund must be made.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>We did not mention a refund.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>Now the Minister is reneging.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>It is the second renege.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>One by one.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>As I said, all these matters will be spelled out in greater detail.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>There will be a lot of spelling, I am afraid.</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>It is the small print that is coming out now.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>What about the hitch?</P>
+    </Speaker>
+    <Col N="125" />
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister is entitled to reply without interruption.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>What is needling people is the fact that we are now implementing two of the promises we made.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>The Minister is not. Fianna Fáil conned the people.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>We are showing our intent&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>Intent to defraud.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>&mdash;&mdash;to the people who elected us by such a large majority to this House, to do what we said we would do in every sphere.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>You are welching on them.</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>These are the first two instances where we have had an opportunity to come before the House as proof of what we intend to do.  We are doing it, and it is needling some of the Opposition that we are now achieving what we set out to do.  These are only two things: there will be many more.</P>
+    </Speaker>
+    <Speaker pid="MichaelBegley" hpid="Mr. Begley Mr. Begley">
+      <NameTxt>Mr. Begley</NameTxt>
+      <P>What about the towbar, the hitch?</P>
+    </Speaker>
+    <Speaker pid="SylvesterBarrett" hpid="Mr. Barrett Mr. Barrett">
+      <NameTxt>Mr. Barrett</NameTxt>
+      <P>If the vehicle is registered as a private car and under 16 horse power it qualifies&mdash;16 horse power or under.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>It is not an Irish Government but a &ldquo;welch&rdquo; Government.</P>
+    </Speaker>
+    <Speaker pid="RuairiQuinn" hpid="Mr. Quinn Mr. Quinn">
+      <NameTxt>Mr. Quinn</NameTxt>
+      <P>Would the Minister perhaps make some comment on the question of the inclusion of responsibility for transportation in his portfolio?</P>
+    </Speaker>
+    <Speaker pid="JosephBrennan" hpid="An Ceann Comhairle Joseph Brennan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That does not come under the matter we are discussing.  We are discussing a Supplementary Estimate.  I take it the motion is agreed to.</P>
+    </Speaker>
+    <Col N="126" />
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>With very strong reservations.</P>
+    </Speaker>
+    <Speaker pid="RichieRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>Because we do not know what we are agreeing to.  We have to wait for the papers.</P>
+      <P>Vote put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Supplementary Estimate, 1977. -" RHead="Cyprus Peace-Keeping Force: Motion">
+    <Title>Supplementary Estimate, 1977. - Cyprus Peace-Keeping Force: Motion.</Title>
+    <Speaker pid="MichaelOKennedy" hpid="Minister for Foreign Affairs (Mr. O'Kennedy) Michael O'Kennedy">
+      <NameTxt>Minister for Foreign Affairs (Mr. O'Kennedy)</NameTxt>
+      <P>I move:</P>
+      <P>That, pursuant to section 2 of the Defence (Amendment) (No. 2) Act, 1960 (No. 44 of 1960) Dáil Éireann approves of the despatch of a contingent of the Permanent Defence Force for service outside the State as part of the United Nations Force in Cyprus which pursuant to a Resolution on Cyprus adopted by the Security Council of the United Nations on the 4th day of March, 1964, reaffirmed by subsequent Resolutions of the Security Council, has been established by that Council for the performance of duties of a police character.</P>
+      <P>The purpose of this resolution is to enable the Government to give a positive response to an approach made to us by the United Nations Secretariat regarding the provision of an Irish contingent for service with the United Nations Force in Cyprus.</P>
+      <P>As Deputies are aware, Irish contingents served with the UN Force in Cyprus (UNFICYP) from 1964 until October, 1973 when the contingent then serving was transferred to the Middle East at the request of the Secretary General and with the approval of the Dáil.  The contingent serving in the Middle East was subsequently withdrawn in May, 1974, owing to the requirements of the domestic security situation.  A small number of men have continued to serve with UNFICYP since October, 1973.</P>
+    </Speaker>
+    <P>The Dáil originally approved the despatch of a contingent for service with UNFICYP on 7th April, 1964. Under the terms of the Defence (Amendment) No. 2, Act 1960, further <Col N="127" /> Dáil authority was not required for the replacement and rotation of these troops in succeeding years.  However, as the number of Irish troops serving with UNFICYP has fallen below 12 since 1973, doubt has arisen as to whether the Dáil resolution of 1964 provides authority for the despatch of a full contingent at this stage.  The Government have therefore thought it desirable to table this resolution before the Dáil today.</P>
+    <P>As Deputies will we aware, UNFICYP was created in 1964 by the United Nations Security Council in order to help maintain peace between the Greek Cypriot and Turkish Cypriot communities, following the breakdown of the constitutional arrangements made at the time Cyprus achieved independence in 1960.  Since the Turkish invasion in 1974, following a <i>coup</i> by Greek Cypriot elements favouring union with Greece, and the occupation by Turkey of over one-third of the island, the functions of UNFICYP have been modified in some areas and expanded in others. They now include supervision of the cease-fire line between the Cypriot National Guard and the Turkish force, provision of security for members of either community working between the cease-fire lines, humanitarian aid to Greek Cypriots in the part of the island controlled by Turkey, and assistance to other UN agencies and humanitarian organisations.</P>
+    <P>I think it is hardly necessary to go into detail about the political situation in Cyprus; the political difficulties remain unresolved.  Talks have recently been held by representatives of the two communities under the aegis of the Secretary General of the United Nations, but no agreement has yet been reached on future political arrangements for the island.  In these circumstances the Secretary General, on 7th June last, expressed the view that &ldquo;in existing circumstances the continued presence of UNFICYP remains essential.  The Force is an indespensable factor in keeping the potentially explosive situation in the island under control, supervising the <Col N="128" /> cease-fire, maintaining the <i>status quo</i> in the area between the lines and helping to defuse incidents and other problems arising between the parties. In helping to maintain quiet in the island the Force also facilitates the continued search for a peaceful settlement&rdquo;.</P>
+    <P>In the circumstances the Government have decided that they should respond favourably to the UN approach.  I am sure that all Deputies will agree with me in the view that service with the United Nations has been of benefit to the Defence Forces and has contributed substantially to the essential peacekeeping functions of the United Nations.  The Government are satisfied that a contingent can be made available without prejudice to the ability of the Defence Forces to carry out their other tasks, given the increase in their strength in recent years.</P>
+    <P>Should the Dáil approve the present motion, the Government would intend to make available to the United Nations a contingent of some 300 men for service in Cyprus.  The practical arrangements would of course be a matter for discussion with the United Nations.  On present indications an advance party of 60-80 would be required in late July or early August with the balance of the contingent in October next.</P>
+    <P>Recruitment for service with the United Nations forces is, of course, on a voluntary basis.  I am quite sure that, as in the past, there will be no shortage of volunteers for such service, and that any contingent will as in the past do credit to the Army and the nation.  The continued desire of the United Nations to have Irish participation is a tribute to the excellence and effectiveness of past Irish contingents.</P>
+    <P>I should like to acknowledge that the decision that I am now proposing to the House was, I understand, taken by the former Administration and the Minister.  The fact that it was perhaps the first formal decision taken by the incoming Government is merely confirmation of the fact that we intend to follow what would have been the response of the previous Administration <Col N="129" /> in this matter.  I am sure the Leader of the Opposition will respond on this basis and that the House will adopt the resolution.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>First, I should like to offer my personal congratulations to the Minister whose appointment I think will be widely welcomed and to offer him any help or assistance within my power.  The area of Foreign Affairs is, to a very large extent, bipartisan and I shall be happy to provide any information or knowledge that I have acquired during my period in office to assist him in what is certainly, from my own experience of it, a very onerous task.</P>
+      <P>The previous Government deeply regretted the need for the decision to withdraw our forces from Cyprus several years ago.  It was at a time when our own armed forces were not at sufficient strength here with a sufficient number of trained personnel to enable us to provide adequately for our own security in a situation of considerable danger to our people in this part of the island.  This decision was forced on us by those facts but the intensive recruitment pursued by the previous Government and the training of these recruits to a high level of attainment and efficiency made it possible for the previous Government last year to offer to the United Nations a small contingent or partial contingent if the UN felt that such a contingent would be useful to them but the UN feeling was that a full contingent was necessary and that a partial contingent might not be as useful to them.  We, therefore, waited until the position of our own forces here was such that we could offer a full contingent certain that this would not in any way weaken the security of this State.</P>
+    </Speaker>
+    <P>I think it was in March last year this offer was made.  Recently a positive response has come from the United Nations.  It was at this point just before the Government changed that a question arose as to whether we would be legally entitled to dispatch <Col N="130" /> such a contingent without a Dáil resolution.  Therefore, I got in touch with the then Leader of the Opposition, who was about to become Taoiseach, to point out to him this difficulty and to suggest to him that he might wish to bring this motion in here today to clarify this matter and to make sure that the fact that the Dáil was in recess would not stand in the way of this force being sent. Therefore, naturally I am very glad to support this resolution.</P>
+    <P>Our troops have been popular in Cyprus and in the Middle East, the Congo, and elsewhere.  Indeed, in my contacts with the Greek and Turkish Governments I found on both sides a strong desire that our troops should play their full part, a desire, may I say, shared also by the Governments of the Middle East who would also like to see an Irish contingent of the UN force there.</P>
+    <P>The Cyprus problem remains a very difficult one.  I believe the broad lines of the ultimate solution have become clearer in the past year or two.  The difficulty lies rather in the diplomatic process of bringing the two sides to agree on a solution, the character of which, I think, is broadly evident at this point.  This, of course, has not been made easier by the uncertain results of the Turkish election and the difficulty of forming a Government in Turkey.  If I may say so, it might have been to the benefit of both our countries, Turkey and Ireland, if their Government had a larger majority and ours had a smaller one.  That is a matter which our two respective electorates have decided in the particular way they have.</P>
+    <P>I have pleasure in welcoming this motion and I hope the force in question will be able to get to Cyprus and get down to the job as soon as the Minister indicated in his opening statement.</P>
+    <P>Question put and agreed to.</P>
+    <P>The Dáil adjourned at 6.35 p.m. until 3 p.m. on Wednesday 12th October, 1977.</P>
+  </MainHeading>
+</Debate>

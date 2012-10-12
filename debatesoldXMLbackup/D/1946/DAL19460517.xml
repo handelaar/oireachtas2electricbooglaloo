@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="17" Month="May" Year="1946" Vol="101" No="3" DateIrish="Dé hAoine, 17 Bealtaine 1946" DateEnglish="Friday, 17 May 1946" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="291" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>The Order of Business will be: No. 2 (67, 70).  If that business should finish, Item 4 will be taken.  It is proposed to take Private Deputies' Business at 12.30 and to resume the debate on Motion No. 30.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Can the Government ever see its way to give us an indication on the last day of the sitting week of what business will be taken the following week?  It is extremely difficult to make up business if one is told at 3 o'clock on Tuesday afternoon that the Government propose to take such and such a Bill.  On the other hand, the Government's difficulty must be realised in determining what business will be ready.  If they could give a general indication of what Bills would be dealt with next week, it would be possible to come here in a better state of preparation.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It must be assumed that business ordered for next week will be taken next week.  That may not be possible.  There are circumstances which determine the order of business, including the order of business in the Seanad, which requires the attendance of Ministers there.  It may be assumed that, with the exception of the Public Health Bill, all the business on the paper for next week will be taken.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Would the Tánaiste repeat the last sentence?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>With the exception of the Public Health Bill, which will not be taken until the following week, all the business on the paper for next week will be taken.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>This matter will have to be gone into in a little more <Col N="292" /> detail because it is most unsatisfactory if the House cannot learn whether the Local Government Bill, Fifth Stage, will be taken on Tuesday or Thursday of next week.  The same applies to Estimates.  Take the Estimate for Primary Education.  Nobody knows whether the series of Estimates will not be changed out of the order in which they appear on the paper on Tuesday.  It is not unreasonable to ask that we be told the Estimates to be taken next week and whether the understanding is that they be taken on Tuesday, Wednesday or Thursday.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It would be much more practicable to arrange business in that way if a time-table could be arranged.  It is impossible, for instance, to determine whether the Public Works Estimates will conclude to-day or go over the whole day on Tuesday and into Wednesday.  If some arrangement could be come to by the Whips regarding the time to be taken on Estimates, it would be possible to give a far more precise indication of the business to be dealt with.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>It may not be possible to follow a precise time-table, but it should be possible to follow a precise order and not to have matters of major importance changed from the day on which they would ordinarily be taken because minor Estimates took up more time than had been expected.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is not so easy to arrange matters in that way.  For instance, I have two Bills for next week. I propose to take them on Tuesday if the Public Works Estimates are finished.  If they are not taken on Tuesday, I could not undertake to take them on Wednesday because I shall have to be in the Seanad on that day.  Considerations of that kind will always influence the order of business.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Nobody coming up to Dublin to attend a week's sitting of the Dáil knows what type of business he is to be confronted with, and that is most unsatisfactory for Deputies from the country.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That is because the Opposition do not know when to stop talking.</P>
+    </Speaker>
+    <Col N="293" />
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>If the solution of the problem is, according to the Minister for Local Government, that Opposition Deputies should stop talking, then some of us do not believe in that solution.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. D. Morrissey Mr. D. Morrissey">
+      <NameTxt>Mr. D. Morrissey</NameTxt>
+      <P>May I suggest that there might be less talk from the Opposition if the Minister for Local Government would himself stop talking?</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Or if he would read the measures he puts before the House.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Estimates for" RHead="Public Services">
+    <Title>Estimates for Public Services.</Title>
+    <P>The Dáil, according to Order, went into Committee on Finance and resumed consideration of the Estimates for Public Services for the year ending 31st March, 1947.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Vote 67&mdash;Employment" RHead="and Emergency Schemes (Resumed)">
+    <Title>Committee on Finance. - Vote 67&mdash;Employment and Emergency Schemes (Resumed).</Title>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>At the closing stages of the debate last night, I was pointing out that, in the Midlands, we have many hundreds of acres of bog and that those of us who reside in those districts were aware that those bogs could not be developed up to ten or 12 years ago.  For instance, the bogs in Turraun and Clonsast were completely covered by water. There are several other huge tracts of bogland where good turf is being produced at the present time and we must give the Office of Public Works credit that good roads have been made through the majority of those bogs.  I believe that the sums the Parliamentary Secretary is estimating for such services during the coming year are altogether insufficient to carry on the development which, I am sure, the Office of Public Works would like to see undertaken and completed.</P>
+    </Speaker>
+    <P>I am in entire agreement with the manner in which consideration is given to the representations made to the Office of Public Works in connection with any of these schemes.  As I said here in this House about two years ago, I am absolutely satisfied that as far as allegations have been made by members of the Opposition&mdash;and I think an <Col N="294" /> allegation was made here yesterday by a member of the Opposition&mdash;that political influence was used in the type of schemes sponsored by the Office of Public Works, those allegations are unfounded.  I am sure there is no Deputy who has had as much recourse to that Office as I had and I am quite satisfied from my experience and knowledge of work they have undertaken in the last five or six years, that there is no question of political interference there.  I challenge any Deputy, no matter what statement may have been made from this side of the House, to prove that political influence has been used by the Office in the selection of any schemes.  It is about one of the very few offices in this State that has been completely clear of political influence.  I believe that the Parliamentary Secretary is mainly responsible for the very capable and efficient manner in which the duties of that Department have been carried out.  I may go further and say that if his colleagues in the Government carried out their duties in half as conscientious a manner as he, little difficulty would be experienced by members on this side of the House.</P>
+    <P>Deputy McMenamin made reference last night to our country being completely undeveloped.  I am inclined to agree with him to a certain extent but he must give credit for the amount of development that has been carried out. Whilst there are many bogs in my constituency and in others that need bog roads and while, as I have pointed out to the Board of Works on numerous occasions, there is very little use in spending money on making such roads unless a sum is set aside at the same time for making bog drains, I have known cases where good roads were made but during the winter months the floods were responsible for removing the surface and at the end of 12 months further grants had to be secured.  It is penny wise, pound foolish, to spend money on bog roads unless proper drainage is made also, so that the surface water will not lie in the centre of those roads with disastrous effects to turf cutters in the following year.  It would be advisable in future to give instruction to the county surveyors to see that the drains <Col N="295" /> are made at the same time, so that the job will be a lasting one.</P>
+    <P>Deputies have criticised very bitterly the system of employment on such schemes and I am inclined to agree with them.  I am sure the Parliamentary Secretary could have some improvements carried out in that respect.  I disagree completely with the system whereby there must be a certain number of registered unemployed in order that the money provided under this Vote may be spent in the area.  In the case of electoral divisions where the unemployed never neglect to register, the grants are always secured and the money is spent, yet there are other areas where they do not register but where there are turf cutters and users of bogs appealing to the Government for grants for the repair of the roads and they do not qualify for those grants because the unemployed in the district did not register.  The allocation should be made on some other basis.  I have known cases in my constituency&mdash; and I am sure other Deputies have had similar experiences&mdash;where we knew that most essential works should be carried out by the Department but they could not be put into operation because sufficient unemployed had not registered in the district.  There were hundreds and hundreds of unemployed who did not register&mdash;farmers' sons, whose season on the land was completed and who, though unemployed, did not desire to register&mdash;who would make themselves available for work on such schemes.  There were also groups of small farmers, a little better than agricultural labourers, who would be prepared to take on carting work under those schemes, but who did not wish to register as unemployed.  The Parliamentary Secretary would be wise to examine this matter and make some arrangements whereby the allocation of this money will not have to be based on the number of registered unemployed in a district.</P>
+    <P>In the Midlands, advantage has been taken of the rural improvements scheme, and rightly so.  That scheme was a very good one, one at which very little criticism can be hurled.  If we had more of such schemes it would be of <Col N="296" /> some practical help from the Government towards the further development of the country.  While a lot of good work has been done under the rural improvements scheme, there are still many areas where it could be applied, but on account of the regulations the local people are unable to reap the benefit of the scheme.  There are laneways which could not be maintained in accordance with local government regulations by the county council.  If we have a group of cottages where there are poor agricultural labourers living, it cannot be expected that they could subscribe in the same manner as a group of very big farmers.</P>
+    <P>I realise the difficulties that would arise, but I think some provision should be made in such cases where, in the opinion of the Office of Public Works, such schemes should be put into operation but cannot, through lack of the capital required under the rural improvements scheme.  I do believe that some further help and assistance should be given in cases of that nature where real hardships are pointed out to the Office of Public Works.  Those people may be anxious to have the work done but circumstances may not permit them to contribute the proportion of the cost upon which the Department insists.  In such cases, the Parliamentary Secretary and the Office of Public Works should be prepared to accept a sum which they consider reasonable and which will not impose too great a hardship on the local people.</P>
+    <P>I am very anxious to see the system of rotational employment on such schemes completely abolished because I believe that whatever good results accrue from such schemes are largely nullified by this system of rotational employment and by the conditions the workers have to endure under such schemes.  In the big towns, there are a number of decent citizens who are registered as unemployed with the result that, as Deputy McMenamin pointed out, these men are compelled even under the most appalling weather conditions to cycle perhaps four or five miles in the depth of winter to work on those schemes.  In many cases which I have known, married <Col N="297" /> men were allowed to work only four days per week and single men only three days per week simply because, in the opinion of the county surveyor, if full-time employment were given on the scheme the jobs would have to be closed down in a short time. I think whether a man is married or single, he is entitled to fair treatment. Whether a man is married or single, he should not be denied a decent week's work and I think the Office of Public Works should make very strong recommendation to the county surveyors who are in charge of these schemes, to see that no question of completely breaking up the week in this way arises, and that single men will be treated in the very same way as married men.  I believe, of course, that a preference should be given to married men with families but at the same time the present system is such, that when a man is employed for three or four days a week, the remainder of the week is completely useless to him. These workers would much prefer to be working.</P>
+    <P>I also desire to condemn in the strongest possible terms the low rate of wages paid on those schemes.  I believe that much more valuable work would be carried out under the minor relief schemes and the rural employment schemes if the workers were contented. I say that the rate of wages paid to such workers is a downright disgrace to civilisation when one considers the hard work they have to put into such schemes.  As a Deputy pointed out last night, they are compelled to work under the most severe weather conditions. Most of these schemes are carried out during the winter months. I realise that such schemes cannot be operated during the summer months when turf cutting is in progress and, looking at the matter from the point of view of obtaining the best results, I think that the best time to carry out drainage is when the drains are full. Better results can be expected by carrying out these schemes in winter time.  Therefore, whilst we may sympathise with the workers who have to work on schemes during the winter, we admit that such schemes cannot be economically carried out in the summer months.  I think a great deal <Col N="298" /> of the uneasiness that exists amongst workers on such schemes would be allayed if a decent wage were offered to them.  I am sure the Parliamentary Secretary realises that the wages paid can only be looked upon as outrageous, an insult to any human being.  Many good schemes are completely held up because the workers refuse point blank to work under such horrible conditions.</P>
+    <P>If we are really sincere and in earnest about solving the unemployment problem, I believe that we could find many useful schemes which could provide almost constant work for those who need it.  We have huge drainage schemes which are absolutely essential.  We have the agricultural community loudly appealing for such drainage schemes.  Most of the roads throughout the country are in a deplorable condition, more especially roads over which the county councils have no jurisdiction, roads which should receive attention from the Office of Public Works.  I say it is a downright disgrace that while there is such an abundance of potential work in the country, anybody should be unemployed. The only thing which prevents us putting men to work is this question of giving them proper conditions and proper rates of wages.</P>
+    <P>In the Office of Public Works, there must be huge files of communications signed by ratepayers from my constituency who are anxious to have schemes of outstanding importance put into operation whilst, on the other hand, a large number of our citizens are unemployed. It is a disgraceful state of affairs to say that 185,000 of our able-bodied men were compelled to emigrate simply because they could not eke out an existence here on the wages offered to them and because they could get work abroad on much more attractive conditions and at much better rates of pay than are offered at home.</P>
+    <P>I say that considerably more work could be carried out by the Office of Public Works if they altered the conditions of employment and improved the wages paid on these schemes.  The rates of pay, as I have pointed out, are a complete disgrace and no citizen could be expected to work under such <Col N="299" /> deplorable conditions.  The Parliamentary Secretary must be aware that strong representations have been made by county councils in regard to the wages offered on these schemes.  If the wages were increased, it would mean that workers would have a greater interest in their work, that better work would be carried out and that you would have more applications for such schemes.  The workers would then look forward to those schemes during the winter months as a means of securing employment at decent rates of wages which would enable them to live and carry out their obligations to their families in a proper manner.  I have known workers to say that they would be much better off walking the streets, begging from door to door than to go out and work on those schemes for the low rates of pay offered.  If they carried out any sort of a decent begging campaign they would have a much better income than working under the conditions which obtain under schemes carried out by the Office of Public Works.  While I have every respect for the Parliamentary Secretary and the Department of which he is in charge, I am sorry to have to admit that I believe the Department has given very little consideration to hungry men and half-clad men, and that these are deserving of much more sympathetic consideration from the State and the Department than they are getting.  It is a disgraceful state of affairs, I think, to compel men who have reached the age of 65 or 70 to labour on these schemes.  No man over these ages is able to work on relief schemes.</P>
+    <P>I know that men who have almost reached the age of 70 were sent out to work on them, and that, if it were not for the support they had from the shovels in their hands, they would have dropped dead from weakness and hunger. Men between the ages of 65 and 70 are beyond their labour and it is a crying shame, I think, to compel them to work on these schemes or to deny them State assistance if, on receipt of a communication from the local employment exchange, they refuse to take up work on them.  The alternative offer <Col N="300" /> to them is that they either take the work or remain at home and die from hunger.</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>That is not so.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>I have known it to be so.  I have known cases in my constituency where the employment exchanges at Tullamore, Portlaoighise, Portarlington and Birr, gave instructions to a certain number of workers to report for work on certain schemes sponsored by the Office of Public Works.  They were informed that if they did not report for work they would be debarred from receiving any State assistance from the Department of Industry and Commerce.  When appeals were made to give sympathetic consideration in those cases, the manager of the local employment exchange and the authorities always made a report against the worker, stating that he had refused work.  That is a state of affairs that should not be allowed to exist.  Men who have reached the ages that I have mentioned are not able to compete against young men of 25 and 30 years of age.  Some steps should be taken to see that provision is made for those that I refer to, and that they will not be called out to work on schemes such as we are discussing.</P>
+      <P>I want to conclude by complimenting the Office of Public Works on the good work that it has done.  I believe it will be able to continue that good work, and to put more efficiency into it, if it alters the system of employment to which I have referred and increases the wages of the workers.  The work provided should be made more attractive for the workers.  The fact that supplies of fuel could be made available for the cities during the emergency was largely due to the wise expenditure of money by the Office of Public Works in the making of bog roads and the carrying out of drainage works.  I think that the people would have a better appreciation of the schemes carried out by the Department if something were done by it now to make them more attractive for the workers by giving better employment conditions and an increase in wages.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>It was not my <Col N="301" /> intention to intervene in this debate, but a thought has struck me about Dublin which I should like to bring to the Parliamentary Secretary's notice. These schemes which have been so valuable to the country in providing employment, on the one hand, and development on the other, have a certain application to the city and could, I think, with proper forethought be planned with a view to permanent development.  In making these remarks I have in mind the situation that obtains on the outskirts of the city where virtually new towns have grown up.  For instance, on the north side, you have Cabra and areas like it which are virtually new towns.  The later ones were developed rapidly under emergency conditions, so that many of the amenities which are desirable at these locations are, as yet, absent.  It might be possible to adapt some of the schemes administered by the Department to provide for the development of these areas in which there has been a considerable increase in population, giving rise to many local problems. Workers, for example, have to travel into the city to their work.  That means a considerable outlay on their part for transport.  If a worker is employed in a factory on the south side, he may have to go right around from, say, Cabra into the centre of the city and out again.  Inquiries, I understand, were made about the possibility of direct transport, but it was mentioned that the roads and arteries were not suitable and that further development would be necessary before anything of that nature could be done.  Schemes to cater for that kind of thing would be useful, apart from the development of the area itself.  If possible, these outlying areas should be developed with a view to the location in them of industries so that workers would be spared the cost of having to travel long distances. The development of industries is, of course, as Deputies know, part of the general policy of the Government.</P>
+    </Speaker>
+    <P>It is to be hoped that, following the reduction in the price of petrol announced in this year's Budget, relief in regard to transport charges will follow for the people living in the areas to which I have referred.  Although the matter is not quite relevant to this <Col N="302" /> Vote, I should like to put in a plea that that should be done.</P>
+    <P>That in itself, of course, would not solve the problem that I speak of, so that I think something in the nature of development schemes would be highly desirable, that is to say, looking at them from the point of view of internal development rather than from the point of view that they should be merely outgrown suburbs of the city. I rose merely for the purpose of drawing the attention of the Parliamentary Secretary to these areas for consideration in the location of the schemes which the House has been discussing.</P>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>I listened to Deputy Flanagan suggesting to the Parliamentary Secretary that the carrying out of drainage work in winter time would be more effective than at any other period of the year.  That statement indicates, of course, that the Deputy does not know anything about drainage.  If he did, he would know that it is almost impossible to drain or develop a bog in the winter time.  If a drain is filled with water or sludge, how could drainage work be carried out?  Obviously, Deputy Flanagan thought that the higher the water was the better he would know which way it was flowing.  He never thought of taking levels.  So far as Deputy Flanagan is concerned, whether the water was flowing up hill or down it did not matter, so long as it was flowing.</P>
+    </Speaker>
+    <P>There are three schemes here, the minor, the rural and the farm improvements schemes.  There is a difference of opinion among Deputies with regard to some of these schemes.  I have already informed the Parliamentary Secretary that I never believed that the rural improvements scheme would be a success, particularly among the small farmers.  My reason for so thinking is that people in congested areas feel they are paying sufficient in the form of local and general taxation, and when they are asked to contribute to another form of taxation, they consider it is very unfair.  In addition to that, it is almost impossible to get the necessary co-operation in order to make the rural improvements scheme effective.  I pointed out here on one <Col N="303" /> or two occasions that it might be possible among the larger, well-to-do farmers. You will find that type of farmer in nearly every county.  You will find him in the Killala area and in the Ballinrobe, Claremorris and Castlebar areas; but you will not find him in the Swinford, Belmullet, Achill or Tourmakeady areas.</P>
+    <P>There are many of these areas in South and North Mayo where there is considerable congestion.  In these areas there are very small farmers who will definitely refuse to have anything to do with the rural improvements scheme and, therefore, that scheme will not be of much benefit to these small tenants.  They simply laugh at the idea.  I have made sincere efforts, and so has my colleague, Deputy Commons, and, I assume, Deputy Blowick, to try to get them to adopt that scheme, but if you were to persist in your efforts they would simply think you were mad.  They would ask you what would you expect them to do; was it not sufficient to pay high rates and taxes and pay for the necessaries of life without being called upon to contribute towards the repair of the roads? They told me to ask the Parliamentary Secretary to request Córas Iompair Éireann to make a contribution, notwithstanding that they are paying high taxes for the vehicles they run along the roads.  They say: &ldquo;Will you ask Córas Iompair Éireann to pay some extra allowance for the construction of the highways along which they travel?&rdquo;</P>
+    <P>Some of these people may be poor and simple, but they are not quite so simple as to adopt the method which the Parliamentary Secretary has in view, under the rural improvements scheme.  I would like if we could make it a success.  I acknowledge that there are many roads of the type that could be repaired under a rural improvements scheme in Mayo, parts of Galway, West Roscommon, Sligo, Donegal and elsewhere wherever you have congestion such as exists more especially in the West of Ireland.  A road may lie there for years without receiving any consideration and the only way in which it could be reconstructed or repaired would be under a rural improvements <Col N="304" /> scheme.  Deputy Blowick suggested to the Parliamentary Secretary that if he could increase the grant it would help considerably those who now refuse to co-operate and they might be enticed to adopt the scheme.  It might be desirable also if the percentage asked was small.  There might be something in that, but I am convinced that this scheme will not meet with the success which the Parliamentary Secretary thought it would meet with when he introduced it.  That is my candid opinion.  I regret that it is not a successful scheme, but it cannot be with the position as I have indicated.</P>
+    <P>We have a sum of £400,000 for the farm improvements scheme.  That is a totally different scheme.  On a number of occasions I have asked that that scheme should be made a permanent one.  I do not think it is permanent now; I understand it is an emergency scheme.  I will say it has helped to brighten up small country holdings.  It is decidedly an asset to the small farmers and they have availed of it to the full.  They desire to be in a position to do a lot more on their holdings, such as the erection of out-offices, pigsties, hen-houses and granaries for threshing and holding corn.  Those things are very necessary on large or small holdings.  The farm improvements scheme is quite different from the rural improvements scheme.  There is no co-operation required; it all centres on the individual.  You are not asking two, three or four farmers to co-operate.  The benefits which accrue from the farm improvements scheme fall upon individuals and not on groups.</P>
+    <P>With regard to seed distribution, in Mayo there have been general complaints, particularly in the congested areas, that there is not sufficient seed for distribution.  In fact, we had almost a kind of riot in the town of Charlestown early last spring because the young man responsible there for seed distribution had not sufficient to go around.  He made every effort to distribute it as evenly as he could, but there were people who were not satisfied.  It is very hard for a young man in a large area, consisting of three or four parishes, to know who <Col N="305" /> is a small farmer and who is a large farmer.  There are some very poor farmers with valuations of 50/-, £4 10s. 0d., £5 and £6, and there are others with much larger valuations. That young man has at least 1,000 people within his area and if he could have before him a list of the people in the two or three villages, with their valuations, he would be in a better position to know the small farmers and the large farmers and he could divide the seed in a more equitable manner. He would know that Thomas Byrne had a certain valuation and James Faulkner had, perhaps, a slightly higher valuation. With such a list before him there would be a more equitable division of the seed.  By doing that it would not be necessary for 200 or 300 people to stand outside the door or window waiting for the seed.  Sometimes it might happen that the better-off farmer would get the seed and the poor man would get little or none.</P>
+    <P>No blame can be attached to the young man responsible for the distribution of the seed.  It is the plan of distribution that is wrong.  He had not the necessary information to guide him. The unfair system of distribution cannot be blamed on the agricultural instructor or overseer, or whatever you may call him.  It is all due to the lack of a distribution plan.  If I were there I could not do it any better, unless I had some knowledge of the various valuations.</P>
+    <P>As the Parliamentary Secretary is, no doubt, aware, in my constituency and, indeed, in the whole of the county, there is a large number of unemployed who never register at the labour exchange and who never will register for reasons best known to themselves, and yet they would be prepared, as Deputy Flanagan says, to take work on the roads. The peculiar point about it is that these minor relief schemes can only be started in an area in which there is a certain number of registered unemployed. I feel that that is unfair.  I have time and again made application to the Board of Works and have always got reasonable consideration, but have been told that their hands are tied&mdash; that I can well understand&mdash;and that the work in which I was interested <Col N="306" /> could only be considered in the light of the number of unemployed in the area. As I say, that is unfair.  The Parliamentary Secretary, coming from Donegal&mdash;&mdash;</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Not so far down.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>The Parliamentary Secretary comes from a congested area, at any rate.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I am an Ulsterman.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>That being so, he is well aware of congested conditions and of what I am trying to point out.  It has often been said that those who get employment on rural improvement schemes are not inclined to work.  Can you blame them?  First, the scheme is looked on as a relief scheme, and, secondly, those working on it know full well that they are not getting a return for the labour they are putting into it. They feel that they earn the few &ldquo;bob&rdquo; they get by getting up early in the morning and walking to the job and walking back in the evening, without doing anything more.  They feel that, if they never dirtied a shovel, they have done sufficient in having to get out of bed in the depths of winter, walking to the job and then walking back to earn the 5/- or 6/- they receive, although they must wait a fortnight before getting their first week's pay. No consideration is given to how they are to live in the meantime, or how they are to get food to keep themselves alive.  The Parliamentary Secretary must admit that that policy is completely out of step with the times.</P>
+    </Speaker>
+    <P>It has often been said from the opposite benches that our propaganda is the cause of people emigrating. It is not.  No propaganda could force anybody to emigrate.  It is the system under which we live that forces them to leave.  Is there anything worse than a system under which a man must go to work on a bog road or drain and must wait a fortnight for his money and then find that what he gets is not sufficient to keep tobacco in his pocket not to speak of enabling him to provide for those for whom he has responsibility?  Is it any wonder that these young men are anxious to get away?  A man may go to the job on a rainy morning and find that there <Col N="307" /> is nothing doing.  I suggest that these works should be carried out in springtime. We have 70,000 unemployed.</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Not so much.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>The Minister for Finance gave us to understand that that was the number.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>It is only 13,000 less.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>That makes the figure 57,000.  I think that would be a sufficient number of men to put on these jobs at a more suitable time of the year than the middle of winter.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>What would the Mayo farmer say if we did that?</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>In Mayo, it is customary to have large families and this is the cause of congestion.  There are always one or two sons in a family who are available for work on this type of scheme and these young men will tell you that it is unfair to ask them out in the middle of winter to work in a drain which is half filled with water and slush, or to make a road in places where a horse cannot walk.  A road was made in my village this year and if the weather had been more suitable, a better job could have been done&mdash;not that a good job was not done&mdash;and in less time.  Every second day it rained, and it was impossible for a man, not to speak of a horse, to work on the job. The horses got bogged down and endangered the men.  Commonsense should have suggested that it was almost impossible to do the job they were asked to do, but they did it eventually, but I suggest they could have done twice the amount of work in half the time if the job had been carried out in the early part of the year, instead of around the Christmas period or the month of February.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Surely there are some bachelor farmers in Mayo who would object to that?  They are not all people with large families, I suspect.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>The bachelor farmers are in a minority in Mayo, and, not only in Mayo, but in every county, even the Parliamentary Secretary's county.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I doubt it.</P>
+    </Speaker>
+    <Col N="308" />
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>I am speaking on behalf of the unemployed man, and if I tread on large farmers' corns, I am not at all afraid because they are a very small minority.  I am interested in the unemployed man who must go out in such circumstances and make that sacrifice for a few shillings to enable him to keep body and soul together.</P>
+      <P>I want the Parliamentary Secretary to take into consideration the number of young men who come home from England in November and December, and who are unemployed, although not registered at the labour exchange.  I have often put their case to the Board of Works and have been told that it is no use, that there must be such and such a percentage of unemployed in the area.  I have pointed out that 50, 60 or 70 men had come home in the previous month and had nothing to do, and that, if they go down to register, the investigation officer comes along and humiliates them and their parents by seeking to find out everything about their lives and what they have.  It is a deplorable state of affairs that men should be paid £6 and £7 a week for the job of investigating old age pensioners' means and the means of those who seek to register as unemployed.  It is disgraceful and insulting and completely out of step with the times.</P>
+      <P>There is a lot of credit due to these young men who go to England for five or six months to earn sufficient to keep them for the other half of the year, and, in addition, they are saving taxation for this country.  If the Minister for Finance had to provide for these men over the whole year, instead of introducing a Budget of £57,000,000, he would have to introduce a Budget of £107,000,000.  These men are making the position easier for the Minister, and yet, when we make a reasonable case on their behalf, we are turned down because of red tape in the Board of Works.</P>
+    </Speaker>
+    <P>Then, as Deputy Flanagan pointed out, men who are in receipt of unemployment benefit get a card to go to such-and-such a job which may be four or five miles away.  They may have a very genuine excuse.  They may not have a bicycle, or they may not be able to cycle, and the distance is too far <Col N="309" /> for them to walk.  I do not suggest that the Parliamentary Secretary would stand over a man being victimised or that the officials of the Board of Works would stand over it.  The manager in the labour exchange is the culprit; he is the gentleman who is at fault.  When a report comes before the Department of Industry and Commerce as to a man not taking up employment when requested to do so, the Department will accept what is put before them by the manager of the local labour exchange. In many instances the manager is prejudiced. I know that, otherwise I would not state it.</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>The man can appeal to the court of referees.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>I had the pleasure of going before courts of referees as an ordinary working man and I know the procedure and it is pure humbug.  You find four men sitting there; three of them are against you and one is with you.  That is the position and the Parliamentary Secretary knows it.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I do not.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>That is the procedure not only in this country but in Great Britain.  The procedure in connection with the court of referees is copied from Great Britain.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>It is fair, no matter where it is copied from.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>From my personal experience I maintain that it is not fair. I have had personal experience of it and I am assuming the Parliamentary Secretary had not.  He had not to go on trial and be convicted, although innocent.  I maintain that some of these managers or assistant managers in the labour exchanges should be more considerate. After all, they are living amongst the people and they know the position very well.  Going into a labour exchange is like going into the Department of External Affairs.  You must be &ldquo;a person&rdquo; or otherwise, in many instances, they treat you in a most rude manner.  Poor working men going into a labour exchange get no consideration. I know that, otherwise I would not say it.  The way they are treated is deplorable. These minor officials down the <Col N="310" /> country suffer from swelled head.  When a poor man goes into one of these exchanges he may not be able to write or to explain his case properly and, instead of trying to understand him and to help him, they will tell him to get out.  If he loses his temper, woe betide him.  It is all right for the official to lose his temper.  That is what is happening down the country at present.  I am in agreement with the policy of bog development.  But, to be frank about it, in Mayo we have been disappointed about bog development, especially under the turf development legislation passed through this House.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I have nothing to do with that.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>Taking into consideration what the people of Mayo have done and the contribution they have made towards supplying fuel, they feel that they have been very much neglected in connection with bog development.  It is no use developing a bog and spending money on drainage if there is no way by which the water can flow from the bog.  I have brought before the Board of Works one instance where a bog has been divided and developed and drained and where the water was held up and could not get away.  The reply I got was that the scheme would be too costly, that it would not pay to clean up the river in question.  The water there went perhaps 200 or 300 yards and was then held up.  I venture to say that in four or five years from now that drain will be closed up by dirt and weeds.  It is a waste of money doing work like that&mdash;going to the trouble of making very good drains and developing bogs when there is no way out for the water.  I admit that the Parliamentary Secretary is a very reasonable man and that the officials of the Board of Works are very reasonable men.  But they can only go a certain distance; their hands are tied.  They are always obliging, willing to help you in every possible way and to consider suggestions or plans put before them.</P>
+    </Speaker>
+    <P>So far as minor employment schemes are concerned, the system by which the number of unemployed in a district is taken into consideration before a scheme can be started is wrong, particularly  <Col N="311" /> in congested areas such as we have in the county I come from.  I am afraid the rural improvements scheme will not be a success there.  I support Deputy Blowick's idea of having the contribution from the Board of Works increased from 75 to 87½ per cent.  That may encourage people to co-operate who otherwise would not be anxious to co-operate.  I wish the farm improvements scheme every success and I would ask the Parliamentary Secretary to keep on agitating until he succeeds in making it a permanent scheme because it has done a tremendous lot of good in my county and, I suppose, in other counties as well.  It is the best scheme ever introduced by any Government in this House.</P>
+    <P>I have not criticised this Estimate very much.  I am only saying what I feel to be the truth and trying to help. I meet these young men who work on the roads and the bogs and they tell me their tale.  It is not necessary for them to tell me because I know it too well from bitter experience.  I think it is the view of Mayo Deputies that in districts like Belmullet, Achill, Tourmakeady and Swinford, where you have congestion and thickly populated areas some consideration should be given to the people.  In Ballinrobe, Killala, Balla and Castlebar districts, where the land is better and the valuations are higher, the rural improvements scheme might be effective.  But I think Deputy Kilroy, Deputy Browne and myself, who come from the worse-off areas of Mayo, are agreed that we have got very little out of the rural improvements scheme.  When we put minor employment schemes before the Board of Works, I think we should get a little more consideration than the Deputies who come from the more prosperous areas where the valuations are higher and the farmers are better off.</P>
+    <Speaker pid="PatrickJBurke" hpid="Mr. P. Burke (County Dublin) Mr. P. Burke (County Dublin)">
+      <NameTxt>Mr. P. Burke (County Dublin)</NameTxt>
+      <P>I wish to say just a few words on some points which I have already brought to the attention of the Parliamentary Secretary in relation to County Dublin. We are faced with coast erosion around the coast of Dublin at the present time. The county council will not take any responsibility in that matter and so far <Col N="312" /> the Board of Works has done nothing. The situation is getting more serious every day, especially in Skerries, Balbriggan and Donabate.  I understand the position is somewhat similar in south County Dublin.  I would like the Parliamentary Secretary to look into this matter in his own time and see what can be done.  It is possible that if the Office of Public Works took the matter in hand employment could be provided in these areas.  We have an unemployment problem in Balbriggan. We have also got quite serious coast erosion there.  In north County Dublin too there are inlets, especially at Malahide and at Rogerstown, and at Donabate.  Successful reclamation work could be done in these areas and I am sure that any work done in that respect would in time prove beneficial.</P>
+      <P>There would seem to be some difficulty at present in relation to rural improvement schemes.  In some cases you may have four, five, or six families using a Land Commission road.  This road was constructed by the Land Commission and left in good order by them.  In course of time that road falls into disrepair and requires some further work to be done on it.  What happens?  An application is made under the road improvements schemes to have the road put into proper repair.  One man will refuse to contribute his share towards improving the road.  The result is that this road then becomes impassable and it is very hard for the other people using it to carry on.  I am sorry, too, that the farmers in County Dublin are not taking advantage of the rural improvements schemes to the same extent as in other counties.</P>
+    </Speaker>
+    <P>My suggestion to the Parliamentary Secretary is that where disagreement takes place amongst the people themselves would it be possible to make the grant 80 per cent. instead of 75 per cent. in order to encourage the people to make their contribution? That might encourage some of the people to whom I refer.  Moreover, now that we are starting to develop our tourist industry and various other things, I would suggest that an inspector from the Office of Public Works should co-operate with the Tourist <Col N="313" /> Board and the county council in order to discover what useful work can be done to improve our seaside resorts and the laneways leading to them.  The county council has no power to take over these.  They seem to be culs-de-sac, but if they were improved it would enhance the beauty of the country for our visitors and for our own people.</P>
+    <P>Now there is another matter that arises&mdash;drainage.  We have no major flooding in County Dublin but we have what I would describe as semi-major flooding in some areas during the winter months.  I know a lot of land which could be made much more valuable than it is at the present time if the rivers were properly cleaned.  I know one man who has about 20 acres of land marching with a river.  If the season is wet that man loses all the hay on that land and all the grazing.  If the river were cleaned, not alone could that land be used for hay and grazing but it could also be used for tillage.  I know this drainage problem is a big one particularly as the Parliamentary Secretary's first concern is the major drainage schemes in other parts of the country to prevent major flooding.  I do not say that there is any danger of anybody in County Dublin being flooded out.  But I would like the Parliamentary Secretary to keep that in mind.  I must say here that I have always found him very sympathetic and courteous in any representations I have had to make to him; I have heard others pay him the same compliment. So much for drainage.</P>
+    <P>We have now another problem and that is the harbours which come under the Board of Works in County Dublin. I have had numerous complaints, especially about Howth harbour.  That is directly under the Board of Works. The fishermen there and the residents say that the harbour is really too wide. When stormy weather comes&mdash;from the east especially&mdash;the boats are battered against the west pier.  They advocate the building of a wall down the middle of the harbour in order to provide some shelter for the boats on the west side. That might be a costly operation.  They also ask for the dredging and deepening of the harbour, and the provision of proper boat slips.  I would like the <Col N="314" /> Parliamentary Secretary to consider all these things&mdash;&mdash;</P>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The matters to which you refer now would hardly come under this Vote.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. P. Burke (County Dublin) Mr. P. Burke (County Dublin)">
+      <NameTxt>Mr. P. Burke (County Dublin)</NameTxt>
+      <P>I will withdraw then.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I merely want to point that out to you.  They come under the Office of Public Works, but in another form.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. P. Burke (County Dublin) Mr. P. Burke (County Dublin)">
+      <NameTxt>Mr. P. Burke (County Dublin)</NameTxt>
+      <P>I do not want to take up the time of the House unduly, but I would like to stress the matter of the roads and drainage in County Dublin and coast erosion. Coast erosion is a particularly serious matter at Skerries.  House property has been completely undermined there as a result of such erosion during the last winter.</P>
+    </Speaker>
+    <Speaker pid="WilliamAlexanderShel" hpid="Mr. Sheldon Mr. Sheldon">
+      <NameTxt>Mr. Sheldon</NameTxt>
+      <P>Sir, listening to some of the criticisms here I certainly do not envy the Parliamentary Secretary when he comes to reply.  In regard to minor employment schemes particularly there seems to be a great deal of confusion as to what the schemes are for and what they are supposed to do.  I think it is quite bad enough to find the people down in the country not appreciating the position, but a good many of the Deputies seem to be rather hazy on the subject also.  It is not my job to answer for the Parliamentary Secretary, but there are times when one is almost tempted.  I understand that the difficulty arises in relation to the minor improvements schemes because of a statutory regulation that these schemes must be provided to relieve unemployment.  They are not provided for the purpose of doing certain works, but to provide work.</P>
+    </Speaker>
+    <P>Except in so far as bog roads are concerned, I think priority can be given there, even when the percentage of registered unemployed is not sufficiently high.  Certainly in the country there is a very widespread belief that the necessity for that work is the important thing.  If the Department could manage in some way to stress the fact that the necessity for the work is not the important thing, but the actual giving of the <Col N="315" /> work, it might help to allay some uneasiness in certain districts.  As to the criticism in regard to giving the work in the depths of winter, under the dreadful conditions that we have heard described, I wonder what Deputies would say if the Department were to give the work in summer, when other employment can possibly be obtained, and to leave these unfortunate men without any employment in the winter time.  I have a firm belief that the criticism would be even more bitter.  I am not suggesting that everything in connection with the minor employment scheme is as good as one would like it to be but, as far as I can see, the real difficulties concerning it would require new legislation and are not a matter of administration.</P>
+    <P>With regard to the rural improvement schemes, the only criticism I have to make is that it has been suggested to me that in several cases the estimate made of the cost is too high. The result is, of course, that the people concerned are scared of going any further with the work.  In connection with one scheme in particular, I have been told that the official estimate was about four times an unofficial estimate made by a qualified man.  The effect of that was that the people concerned felt that they were going to pay for the whole job because their 25 per cent. contribution really represented the amount involved, according to the unofficial estimate. The Parliamentary Secretary should look into that and check up as to the accuracy of some of the estimates.  I am not prepared to make a complete allegation that that is a policy in order to put some schemes on the long finger, but in some cases that has occurred.  The cases brought to my notice were the drainage and cleaning of small streams and open drains. Otherwise, the scheme seems to be admirable.</P>
+    <P>I do not see much point in suggesting that the solution of difficulties is to increase the State grant because, if the State grant were made 80 per cent. or 85 per cent., it would be suggested that it should be 90 or 95 per cent.  I would <Col N="316" /> not agree with Deputy Cafferky's criticism that it ought to be done free, gratis and for nothing.  In my opinion there is too much spoon-feeding as it is.  The people are rapidly getting to the point when they are not willing to do anything for themselves.  My own farm road has been maintained for the last 100 years without any grant, by keeping it in repair and not allowing it to get into too bad a condition.  The Deputy who last spoke referred to Land Commission roads falling into disrepair and now needing a grant under the rural improvement schemes.  Any cases of that kind that have come to my notice are cases where the new tenants did not bother about it for the first two or three years, when all it needed was a few barrow-loads of stones in the bad spots to keep it in repair.  Criticism is all very well but a little self help now and again does no harm.</P>
+    <P>So many bouquets have been thrown at the farm improvement scheme that there is no need for me to throw any. It is undoubtedly a very good scheme and the only criticism I have in regard to it is that in some parts the estimate of labour cost is rather low particularly in connection with work which involves the use of concrete, such as the building of new stalls and byres.  That work requires fairly skilled labour because very exact specifications have to be kept to.  If they are not kept to the job is ruined.  I have personal experience that the actual labour cost was so far removed from the estimated labour cost that there was no relationship between them whatsoever.  That matter should be considered.  I suggest that some discretion might be left to the inspectors.  That also applies to work where clay banks have to be moved to improve the shape or size of fields. There is a fixed rate per perch.  Clay banks differ very widely.  In the case of a bank that is not too old and in which there are no hedges growing it is a mere matter of tumbling down very loose soil and, in fact, the soil is a great asset to the surrounding parts of the field but, where hedges have grown for a long number of years, especially in wet soil, the only thing that would move it in an efficient and quick way is a bulldozer.</P>
+    <P>
+      <Col N="317" /> The rate per perch is absolutely out of proportion with actual costs.  The only way in which that could be dealt with would be to leave some discretion to the inspectors.  The inspectors that I know are highly efficient men whose services the State does not recognise quite as well as it should but that is a matter that arises, I think, on the Vote for Agriculture, not on this Vote.</P>
+    <P>The same criticism applies to the improvement of farm roads.  All sorts of difficulties may be discovered in connection with a particular road which mean the estimated labour cost at a fixed rate per perch is altogether out of proportion with the real cost.  As far as I can discover, the estimated labour cost seems to cover only the actual filling in on the road and nothing is allowed for providing the material. In some cases, that may involve a fairly high labour cost.  I know of one particular case where the work was finished to the farmer's satisfaction but when the inspector saw it he said it would require a topping of gravel.  To provide the gravel would cost more than the whole grant so, of course, he did not top it with gravel.</P>
+    <P>I think that most of these schemes are on the whole working fairly well. Everything is not just as well as it should be but there seems to be, in all of them, progressive improvement from year to year.  I do not want to follow Deputy Flanagan too far in casting bouquets at the Parliamentary Secretary because that is a dangerous procedure.  A little candid criticism would probably produce better results. I admit that Deputy Flanagan did intersperse his bouquets with some candid criticism in the latter stages of his remarks.  Is there any provision in this Vote for arterial drainage?</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>No.  That is Vote 10.</P>
+    </Speaker>
+    <Speaker pid="WilliamAlexanderShel" hpid="Mr. Sheldon Mr. Sheldon">
+      <NameTxt>Mr. Sheldon</NameTxt>
+      <P>It does not arise on this Vote.</P>
+    </Speaker>
+    <Speaker pid="JamesKilroy" hpid="Mr. Kilroy Mr. Kilroy">
+      <NameTxt>Mr. Kilroy</NameTxt>
+      <P>I am in agreement with Deputy Cafferky in regard to minor employment schemes.  I believe that is one of the best schemes ever put into operation and that it will be of great benefit to the country.</P>
+    </Speaker>
+    <P>
+      <Col N="318" /> As regards Erris, the minor employment schemes there are more suitable than the special employment schemes, which, I am afraid, would not be effective in that area.  It would not be possible to get the necessary co-operation in some districts there.  Another question to which I desire to refer is the removal of the pier at Belmullet. That pier was built about 40 years ago by the British Government, and now it is to be dismantled by our Government. I think that that is wrong. The harbour should be dredged from there to Belmullet.  When that is not done, it is a big loss to the country. The pier would be of great benefit to the country if it were kept in repair. It would be particularly helpful in connection with the turf schemes and its repair would be to the benefit of every shop and farm.  I should like to get an assurance from the Parliamentary Secretary that if the pier is removed, alternative accommodation will be provided and that the harbour will be dredged up to Belmullet.</P>
+    <P>As regards the turf scheme in that area, I am afraid that we were let down badly.  A generating station should be erected there and the turf produced there utilised.  In Erris and Achill mineral deposits were worked for years by the British Government. If the Parliamentary Secretary would spend some money and see that these were operated again, it would be of great benefit to the locality.  The rivers in that area overflow nearly every year and I think that the Parliamentary Secretary should take steps to see that the flooding will not continue. In conclusion, I ask the Parliamentary Secretary to give this area the full benefit of the schemes being operated by his Department.</P>
+    <Speaker pid="JamesCoburn" hpid="Mr. Coburn Mr. Coburn">
+      <NameTxt>Mr. Coburn</NameTxt>
+      <P>As far as I can understand, this is more or less a token vote to provide employment at certain periods of the year for those who cannot otherwise obtain employment. If my memory serves me, the Minister for Industry and Commerce said, on one occasion, when twitted by members of this House as to the large number of unemployed, that these grants were only being given until such time as the Government would be able to industrialise <Col N="319" /> the country to such an extent that unemployment would cease.</P>
+      <P>I am sorry that the hopes expressed by the Minister have not materialised. I do not say that by way of criticism. I am afraid that, in the years to come, the Parliamentary Secretary who may be sitting in the seat now occupied by the present Parliamentary Secretary will have to ask for a bigger Vote to meet the demands of the people out of work.  This is not a healthy sign so far as the future of the country is concerned. Side by side with the increased grants for minor improvement schemes and rural improvement schemes, there must be less employment in the farming industry.  That is one of the causes, I think, why so many men are looking for work on schemes of this type. Instead of this Vote of £1,250,000, a sum of about £10,000,000 would be required to meet the demands put forward by Deputies in respect of drainage, coast erosion and the giving of constant employment to men seeking such employment.</P>
+      <P>I am not one who is out to exaggerate the difficulties confronting the Parliamentary Secretary.  Neither do I want to minimise them.  I do not agree with Deputies who talk about men going out to work in the cold and rain.  I may remind Deputies that I belong to a trade the members of which have to face those conditions year in and year out.  Workmen realise that they cannot have carpets under their feet while working.  There will be a hardship so long as the world exists, because it has been decreed that man shall earn his bread by the sweat of his brow.  Men cannot always work under ideal conditions.  There is no use in engaging in exaggeration as regards the lot of these men.  We all know that it is not a happy one.  We should like to see them enjoying better conditions. We all realise that men who have endured long spells of idleness are not physically fit to engage in hard work in inclement weather.</P>
+    </Speaker>
+    <P>Going through this Estimate, I notice that about 500 minor schemes of drainage were carried out at an approximate cost of £32,000.  That would work out at about £60 per scheme on the average.  I do not know what type <Col N="320" /> of drainage scheme could be carried out for £60.  Perhaps the Parliamentary Secretary would let us know.  According to the speech delivered by the Parliamentary Secretary, the number of applications in connection with rural improvement schemes was 4,306 of which 3,000 had been reported on up to 31st March.  Do I understand that there were 4,000 applications in one year, 3,000 of which had been reported upon at that date?  The number accepted in the year was only 906.  That is only about one in every six, for which grants totalling £108,270 were sanctioned, towards a total estimated expenditure of £138,205, the balance being contributed by the applicants. That 900 cost £108,270, or an average of £100 to £110 per scheme.  I suppose they would be schemes initiated by the Board of Works by means of a contribution of 75 per cent., plus the 25 per cent. from those benefiting.  There again, I suppose the Parliamentary Secretary is satisfied that the value has been as good as possible for the money expended.  This country is too small to be paying out money for the sake of paying it out, or to be giving work for the sake of giving work.  Work should be done which will be productive and of lasting benefit to the people concerned and to the country as a whole.</P>
+    <P>In regard to rural improvement schemes and minor employment schemes&mdash;it is a bit bewildering, as there are so many schemes, but we must try to segregate them&mdash;it has been suggested to increase the grant to 80 per cent.  I do not think there is much use in niggling or hobbling over 5 per cent.  You might as well go the whole hog and give the full 100 per cent., as the man who is not prepared to do any work under the 25 per cent. system will not do any work under the 20 per cent. system.  It depends on the individual and, unless the Government goes the whole way and gives 100 per cent., there is not much use in making an increase from 75 to 80 per cent.  It has been suggested here that the contributors, for whose benefit the scheme is put into operation, should pay the difference of from 15 to 20 per cent.</P>
+    <P>
+      <Col N="321" /> In regard to minor schemes, I suppose the purpose for which they were initiated is to give work.  That work is governed by the number of men registered in the area as unemployed and that has been a crux ever since the scheme was started.  I suppose there had to be some conditions, some rules and regulations governing the initiation of these minor schemes, but I respectfully suggest that they do not always work out as well as the Parliamentary Secretary would like.  I know of cases in my county where, if that rule were adhered to rigidly, no work would have been carried out.  In tribute to the people of the county, I must say I get very little annoyance in regard to rural improvement schemes or minor employment schemes.  I do not think I have been concerned with two in my 20 years there.</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>They are very well off.</P>
+    </Speaker>
+    <Speaker pid="JamesCoburn" hpid="Mr. Coburn Mr. Coburn">
+      <NameTxt>Mr. Coburn</NameTxt>
+      <P>Whether it is that they are very well off or that they work hard and do the job themselves without talking about it, I must admit that my sojourns to the Board of Works have been very rare.  That is why I should like to bring this case and ask the Parliamentary Secretary to give it all the sympathetic consideration he can give it, within the rules.  I know it is a case which is not entitled to come under the heading of minor relief schemes unless this little balance the Minister shows could be devoted to schemes such as this.  Deputy Walsh knows the position and, perhaps, the two of us will make a raid on the Board of Works.  He can bear me out in regard to the facts.  There is a place outside Drogheda, on the road between Drogheda and Baltray, called Banktown.  It is a little place, at the end of which there are six or seven nice little cottages, built on rising ground, with a very steep incline to the houses.  They come down to a little basin, where there is a grassy patch which gets soft and flooded when there are high tides in the River Boyne at certain times of the year. These people are not in danger of being flooded, but have to get from their houses to the main road and when they come from the very high <Col N="322" /> place to the little place they cannot get on the road except by means of a boat.</P>
+      <P>Deputy Walsh knows more than I do about this place and will bear me out.  I say that this is a case which requires special consideration.  I happened to be there one day and examined it and, only for the action of a certain lady, who took sympathy on the people and erected a little foot bridge three or four feet wide, the plight of those people would be deplorable.  Knowing a bit about the job, I almost wished I had half-a-dozen hardy men there who would get into the job and throw a raft of concrete across the place, with a parapet wall to continue the level of the road to the steep gradient and allow the people to have a clear road instead of having to go through the soft, mucky, marshy spot where the stream runs.  I would ask the Parliamentary Secretary to treat that matter sympathetically, if and when Deputy Walsh and myself bring it before him.</P>
+      <P>As regards the whole question of rotational work on these schemes, giving men three or four days' work in the week, I expressed my opinion at the start that that was not the right way to do it.  I quite appreciate the idea which the then Parliamentary Secretary had in view, that is, that &ldquo;half a loaf is better than no bread&rdquo;; but if I had to choose between giving 50 men constant employment for a full week, or giving 100 men part-employment, I would prefer to satisfy the 50 than have 100 dissatisfied.  Besides, there is not the same incentive to men to give of their best if they are getting only a few days' work in the week.  It would be better to give them the full week's work and have some men kept on the same job.  I would be prepared to put that position even to a meeting of workingmen, as I have had the experience myself and have gone through the mill.  The Parliamentary Secretary would get better results and feel more satisfied and the people in general would feel more satisfied.</P>
+    </Speaker>
+    <P>In regard to the part of the scheme which goes towards developing urban districts and boroughs, I again respectfully suggest that the best <Col N="323" /> return has not been got for the money expended in the past.  In so far as is possible with the materials available at the moment, most if not all of the grants allocated to urban councils should be expended on developing housing sites.  The prevailing high cost of building houses for the working class&mdash;somewhere in the region of £800 a house&mdash;even working it out at the very satisfactory rates of interest outlined by the Minister for Finance in his Budget statement, that is, 2½ per cent., or an inclusive rate of 3½ per cent., shows that it would take something like £24 or £25 a year to pay the loan charges, making allowance for the first £300.  Part of that big increase is occasioned by the cost of development. Prior to the last two years, most of the building schemes included development and the development was carried out before the actual building of the houses took place.  If a grant is given by the Board of Works for the development of the site, naturally that must reduce the capital cost of the house, if and when materials are available to erect them.</P>
+    <P>I would respectfully suggest that the Parliamentary Secretary and his officials would do well to see that, so far as urban areas are concerned, most, if not all, of the money should be spent on the development of sites that would eventually be utilised for the building of houses.  It was suggested here yesterday by some Deputies that that could apply to housing sites in rural areas, but I think it could not apply there quite so effectively.  The Parliamentary Secretary would not get such a good return for the expenditure, because while houses in urban areas are built in groups of 60,100 or 150, in the rural areas you might have to hop every couple of yards and, of course, the more changes you make in that way the less return you will get in the way of development of sites. There are occasions, of course, in the rural areas where it is also possible to develop sites for a group of cottages close together.</P>
+    <P>In regard to the farm improvement schemes in general, on which it is stated that some 10,000 or 8,000 people <Col N="324" /> were employed, I do not know whether the Parliamentary Secretary would be in a position to indicate what percentage of the number of employed was represented by the farmers themselves and their families.  I believe that the labour content must be specified in applications for such schemes and before a grant is made available. It might be difficult to segregate those employed on the schemes in order to ascertain the percentage of the total number employed represented by farmers themselves, but if it is possible to do so I should be glad if the Parliamentary Secretary would supply us with those particulars.  Fortunately or unfortunately, I have not much experience as regards drainage in my constituency and, therefore, I feel that I cannot follow the charges made by certain Deputies that political influences have been allowed to operate in the giving of grants or in regard to the allocation of work.  Personally, I have never heard any complaint of that kind and I am always willing and prepared to leave these questions to people who are placed in charge of the work.  No serious complaint has come my way in regard to the question of who was or who was not to be employed.</P>
+    <P>I should like to correct a very wrong impression that seems to have been created in the minds of certain Deputies that men in receipt of unemployment assistance have to go to jobs irrespective of their age and condition when requested to do so.  I do not think that is so.  I think there is a provision which enables people to be excused from going to such work on account of physical disability, age or lack of suitable transport, and they do not lose the unemployment benefit that they had been enjoying before being summoned to take up such work.  Of course, it is only right and proper that where people are offered suitable work they should avail of it and, in order to operate that scheme, the labour exchanges have to notify these people to attend the labour exchanges for the purpose of signing on for such work.  There may be cases of hardship but I do not think that the complaint is general.  I should like to correct <Col N="325" /> the wrong impression that, irrespective of age or other conditions, these men have to go to work.  I do not think that is so.</P>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>I desire to endorse the statement of Deputy Coburn that, so far as our experience in Louth is concerned, no question of political bias arises either in regard to applications for grants or in the selection of those employed to carry out the work entailed.  I should like to draw the Parliamentary Secretary's attention to one anomaly which exists in regard to rural improvement schemes.  I have a few of these schemes in mind at the moment.  One is a road about one-quarter of a mile long, or, rather, a cul-de-sac.  Originally it was a county road, but it fell into disuse and, of course, the lordly bullock roamed over this road as well as over the sites of the homes the people once occupied. In this particular case there are six land holders living along that road. Four of them are quite prepared to avail of the conditions offered under the rural improvements scheme to have necessary improvements carried out, but, unfortunately, there are two dogs in the manger.  There are two parties who stand aloof.  I suggest to the Parliamentary Secretary that some compulsory powers should be taken to compel these people in the interests of the general good to carry out such improvements, both as regards roads and drainage.</P>
+    </Speaker>
+    <P>I have another case in mind where a grant was applied for by a number of holders to carry out repairs to a laneway.  The grant was given and they carried out the work.  I happen to be acquainted with the methods employed there, and I suggest to the Parliamentary Secretary that he would do well to call the attention of the county engineers to the methods employed to execute such works.  I know it is difficult enough to carry out such works economically, but when you find four horses and carts drawing stones for two men who spread the stones it leads to a great deal of expense.  It is not an economic way of doing the job.  There should be some better method of carrying out <Col N="326" /> these improvement schemes, and it should not be left to just a few people to decide in their own way how they are going to do the job.  In that particular case, when the job was supposed to be completed, it was even more difficult than ever to get a load of turnips across that passage, due to the fact that the large stones which had been put on it had sunken into it.</P>
+    <P>I have no hesitation in supporting the recommendation of Deputy Coburn regarding the work at Baltray.  There are nine families living in the district known as Banktown but the provision of suitable accommodation for these people is not the responsibility of the county council.  Unfortunately, or perhaps thanks largely to the Fianna Fáil policy, there is no unemployment in the district so that there is great difficulty about getting work done under a minor relief scheme.  I wonder would the Parliamentary Secretary inquire into that particular case?  The area is affected by the tide and when stormy weather with heavy rains occurs, it is simply impossible to get out from these houses.  Old ladies are compelled to get into horses and carts to cross the stream in order to attend Mass on Sundays.  Surely, having regard to the large amount provided under this Vote, there should be some means of relieving that situation?  It has been suggested that a certain portion of this money should be utilised for the development of housing sites. I move to report progress.</P>
+    <P>Progress reported.</P>
+    <P>Committee to sit again.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Motion for Select" RHead="Committee&mdash;Question of Member's Conduct (Resumed)">
+    <Title>Committee on Finance. - Motion for Select Committee&mdash;Question of Member's Conduct (Resumed).</Title>
+    <P>Debate resumed on the following motion:&mdash;</P>
+    <P>That a Select Committee consisting of seven members, to be nominated by the Committee of Selection, be appointed to investigate the facts in the case of a certain member of the Dáil who, as appears from Press reports of evidence given in court recently, received financial accommodation <Col N="327" /> from a company, in furtherance of whose business interests he made representations in his capacity as a member of the Dáil to the Department of Finance; to report on this matter and to consider and report if the member's conduct, as found by them, is inconsistent with the standards of conduct which should be expected from members;</P>
+    <P>That the Committee have power to send for persons, papers and records;</P>
+    <P>That the quorum be four.&mdash;(Deputy Dillon.)</P>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Before the debate is resumed, the Taoiseach has asked to intervene on a point of personal explanation.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I said on Wednesday night that I was satisfied that there was evidence that money had been repaid.  Deputy Dillon suggested that I might have that evidence, but that others had not.  I have tried to have the evidence in a form in which it would be available, and I would be prepared to let Deputy Dillon see it or the Leaders of the various Parties. That is all I have to say.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Deputy Fogarty to resume.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>He has been warned off.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>He has been ordered out.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Is this Deputy Dillon's motion?</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I notice from the newspaper reports of the debate on the motion that an attempt was made by the Taoiseach to put this on a footing with the practice which, apparently, is common among certain Deputies of haunting Government Buildings in an effort to get things done for their constituents.  That is a matter on which I certainly, and a lot of people in this House, would agree with what the Taoiseach said.  It seems to me that the functions of a Deputy in this House are gravely distorted and warped by this proceeding.  Viewed from another angle, the matter is <Col N="328" /> highly objectionable.  It means that people who, apparently, have rights cannot get those rights from a Government Department unless a Deputy, and particularly a Deputy of a particular political Party, intervenes on their behalf.  It is highly degrading to the whole House, even to the people who have made it the practice to haunt Government Buildings in this way, that conduct of that type should be compared with the conduct of the Deputy to which the notice of the House has been drawn by Deputy Dillon's motion.</P>
+      <P>As regards what I know of that conduct, I am relying entirely on what took place in the court.  I am not relying entirely on the newspaper accounts. I was in touch with a considerable number of people associated with that case. Surely, the Taoiseach must admit that there is a very distinct point about Deputy Briscoe's conduct which completely segregates it from the general type of conduct to which he referred, because, I understand, it was only a matter of tactics, attempting to cloak Deputy Briscoe by alleging that there was a whole lot of funny things and funny practices in connection with Deputies going to Government Buildings.</P>
+    </Speaker>
+    <P>The one thing that stands out in this case of Deputy Briscoe's is this, that Deputy Briscoe was brought into a case to give evidence, and that he was cross-examined on the point which Deputy Dillon's motion is aimed at by counsel for the State.  There was counsel briefed by the Attorney-General, and it must be presumed that the authority of the Attorney-General was behind the cross-examination of the matters that were suggested to Deputy Briscoe.  What was suggested to Deputy Briscoe by counsel appearing for the State, briefed by the Attorney-General, was that it was a significant thing that he had emerged as getting some financial betterment from the people&mdash;the accused&mdash;before the court, and that he got that benefit at a time when he was engaged in haunting Government Buildings for their benefit. The time limit is accurately fixed.  As I remember the case&mdash;and I challenge contradiction on this&mdash;the books were <Col N="329" /> produced in court and counsel for the State brought Deputy Briscoe through certain pages.  He tied him up to a particular date, which was the date upon which he began to intrigue with Government Buildings in connection with one of these two gentlemen.</P>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Intrigue is a nice word.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Intrigue is the word I use.  Intrigue was completely before the Special Criminal Court, and that suggestion of intrigue was made by counsel for the State.  I am not getting away from that point: that this intrigue started at a particular date. Immediately on that intrigue starting accommodation bills were given to Deputy Briscoe, and Deputy Briscoe was asked to go through the pages of the books.  Transaction after transaction was referred to, and then it came to the point when apparently the Deputy's persuasion of Government Buildings had taken effect and after that the accommodation bills dropped.</P>
+      <P>Let me confine the matter to these two points.  There is the period as exposed by counsel for the State in regard to the criminal case.  There is the period in which it is suggested that the Deputy was engaged on work that certainly was not his duty as a Deputy, work which, I suggest, was unworthy of him as a Deputy.  At the time he started, he also begins to get moneys from these two gentlemen. Now the dates are of some significance in this matter, and I suggest that that alone marks out this case from the case of any other Deputy.  If not, can I ask for some enlightenment?  Is there any case known to the Taoiseach where a Deputy of this House has engaged in attempting to persuade some Department of Government to do something for a client, and that over the period in which he is trying to persuade Government Buildings to do something for a client, he is getting money on loan from that client?  I suggest there is not a case of that except. Deputy Briscoe's.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>How could I know that?  Ask Deputy Dillon or Deputy Dockrell, or other Deputies who are business people, whether at one time <Col N="330" /> or another, when they were making representations about their businesses, they were benefiting at the time that thing was happening.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>When the Taoiseach mentions business men, he might have also mentioned Senator Quirke.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>And others, too.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>There is a well-known tactic on the part of a marine animal, the squid, which throws out a lot of inky substance when it wants to get away.  That is the Taoiseach's squid ink.  That is the tactic at the moment. The suggestion has been made here that what is being alleged against Deputy Briscoe is in some way analogous to something that has taken place in the case of other Deputies.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Analogous to the extent that he is supposed to have benefited by his representations.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I want the Taoiseach to tell me one case.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I am sure there are several cases that could be brought. There are business people who have made representations.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>The Taoiseach is throwing out this flood of inky comment to defend Deputy Briscoe.  If the squid wants to eject his stuff, let him do it at the proper time.  The other day Deputy Dillon was charged with hypocrisy by the Taoiseach's son.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh O Briain Donnchadh O Briain">
+      <NameTxt>Donnchadh O Briain</NameTxt>
+      <P>He is Deputy Major Vivion de Valera, as well as being the Taoiseach's son.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>He may be that, but he has very high ranking title when it comes to hypocrisy.  He knows it through his family circle.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>If the Deputy wants to bring in my family circle, he will get it back.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I am open to a charge about my family circle.  Make it now.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>It is what we would expect from the Deputy.</P>
+    </Speaker>
+    <Col N="331" />
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Oh, keep quiet.  I will get back to the motion before the House.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>And get away from personalities.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Is it personalities for Deputy de Valera to talk about hypocrisy on Deputy Dillon's part?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I do not think there was a charge made.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>The charge of hypocrisy was made against Deputy Dillon, as far as the newspapers are concerned.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I do not know.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>The Taoiseach does not know.  Does he know if there is any example in the political history of this country of a Deputy trying to get something for a constituent, and, at the same time, receiving money?  I am awaiting the challenge on that. There have been no instances.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Am I to be asked questions and then to be told if I do answer to keep quiet?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Give an example.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I am not going to interrupt any more now.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I bet you are not.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The Deputy can put any question to me that he pleases, but he will get no answer.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I thought I would not.  The Taoiseach is not very easy to get on detail.  All the tactics he used were used for the purpose of evasion&mdash;the Taoiseach used what, in the recent war, were described as evasive tactics.  If there is any case, and I suggest there is, surely it is a scandal to the House and an insult to the members of the House that when one case is raised the answer should be: &ldquo;Oh, well, what is the difference between that and the conduct of other Deputies?  We know that Deputies hunt through Government Buildings for this, that and the other.&rdquo;</P>
+    </Speaker>
+    <P>I suggest this is a unique business. A Deputy is brought up by the court <Col N="332" /> to give evidence.  He is cross-examined by those appearing for the State. Under their cross-examination it appears that inside a limited period he is doing two things: (a) going to Government Buildings to get some favour for particular clients, and (b) taking money from these clients.  That is a single instance that certainly deserves some inquiry.  May I say further, though perhaps I cannot say it with the same assurance, that the case in which a Deputy was brought as a witness went to the Court of Criminal Appeal and, in the Court of Criminal Appeal, Counsel for the State asserted to the members of the court that Deputy Briscoe's evidence had not been believed by the Special Criminal Court.  I suggest that is so, that he made that statement.  I will bring it a bit further.  What he swore, according to counsel appearing in the case, was not believed by the members of the court.  That is a further addition to this particular matter and, surely, it ought to be inquired into.</P>
+    <P>Surely this case ought to be segregated from the general conduct of Deputies, whatever criticism there may be of the conduct of these Deputies.  I suggest that this is a case with a certain amount of bad atmosphere about it, until it is dissipated, as it may be, by an inquiry.  We should not have the whole House slandered in the way in which it was slandered by the general statements that fell so easily from the Taoiseach.</P>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>Unfortunately, there is a section of our people outside this House who believe that Deputies are a low lot, who believe in what Deputy Flanagan said the other night when he challenged the Taoiseach to point out one honest man in the House.  It is an unfortunate thing that there is a large section of our people who have that opinion of the national legislative Assembly and it should be the duty of this Assembly to remove that opinion for all time and to raise the status of the House in the eyes of our people. Our independence here, and the fact that we have a Parliament of our own, are not the result of a few days' work and are not the result even of a few <Col N="333" /> years' work: they are the result of 700 years of a grim and bitter struggle, of enormous sacrifice and suffering, and, with that record behind the establishment of our freedom, it is surely essential that nothing should be allowed to happen which would drag this House into the mud.</P>
+      <P>The reports of the legal proceedings which appeared in the public Press cast a grave reflection on one Deputy and, indirectly, on every Deputy in the House.  Many people reading the report and, perhaps, reading it with a little prejudice against this Assembly, said: &ldquo;This is the way Deputies live; this is one of the sources of income of politicians in this country.  They carry out services for their constituents and they get substantial financial rewards for those services.&rdquo;  That is the conclusion that many citizens have drawn from the reports of the proceedings in which Deputy Briscoe was involved.</P>
+      <P>A proposal is put before the House to clear that matter in the interest of the House, in the interest of democracy, in the interest of every Deputy and in the interest of the nation.  The proposal is simply that an inquiry should be held into this whole matter to find out if Deputy Briscoe received financial benefit as a result of the services which he gave to a business firm.</P>
+    </Speaker>
+    <P>When a proposal of this kind comes before the House affecting Deputies very intimately, affecting the House intimately and affecting the privileges of the House, we always hear some very foolish speeches.  There have been foolish speeches delivered in this debate.  A foolish speech was delivered by Deputy Major de Valera, which added some heat to the debate but no weight to the arguments against the motion.  A very foolish speech was delivered by Deputy Flanagan and also by Deputy Fogarty.  The speech delivered by the Taoiseach was not a foolish speech.  I admire the Taoiseach as a Parliamentarian.  I was deeply impressed by the manner in which he faced this motion.  He proceeded immediately to divert attention from the direct matter which was raised in the motion by referring to the more general question of the manner in which <Col N="334" /> Deputies make representations to Government Departments.</P>
+    <P>I have great sympathy with the views of the Taoiseach in regard to the percentage of Deputies' time taken up by making representations to Government Departments, appealing to officials on behalf of constituents.  I think in the House there is considerable agreement on that matter.  It is a difficult problem.  It was a wise, shrewd move on the Taoiseach's part to divert attention to a complicated problem in order to avoid meeting a clear-cut, direct issue such as is raised in this motion.  We might be able, if we sat down and thought over it, to devise some set of rules governing a Deputy's conduct in the making of representations. We are a very good, a very efficient people at laying down high-sounding rules and principles.  The Constitution is an example of such skill on our part.  But we are not so good at seeing that deviations from the standard which is expected and violations of ordinary rules of good conduct are dealt with.  That is what this motion proposes to do, to find out if there has been a direct breach of ordinary standards of honesty and integrity on the part of Deputies and, if there has been a violation of those standards, to see that action will be taken to prevent it happening again.</P>
+    <P>The Taoiseach, in meeting this motion, produced some fairly strong arguments.  He suggested that he had some very good evidence which would effectively clear Deputy Briscoe of any serious charge.  If there is good documentary evidence which can be produced, surely a Committee of Inquiry is the proper body to deal with such evidence.  Surely a Committee of Inquiry can be relied upon to deal fairly, justly and impartially with any documentary or other evidence produced before it, and to produce a verdict which will be absolutely fair, a verdict which, if there is no ground for any charge against Deputy Briscoe, will clear him for all time in the eyes of this House and in the eyes of the nation, and remove a slur which has been cast upon our Parliamentary institutions by these Press reports, and, by removing that slur, raise the <Col N="335" /> dignity of this House.  That is all that is asked for in this motion, and I think it is a demand which should be acceded to by the Government.</P>
+    <Speaker pid="RichardWalsh" hpid="Mr. R. Walsh Mr. R. Walsh">
+      <NameTxt>Mr. R. Walsh</NameTxt>
+      <P>This motion is in line with a definite policy started a good many years ago by the Opposition, that policy being to create the impression that there is tremendous corruption and rottenness in the public life of this country, and especially in Government circles.  We had that exemplified in a motion a few years ago in relation to the proposed transport merger, and we know how it turned out.  We know what a damp squib it turned out to be.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Do you think so?</P>
+    </Speaker>
+    <Speaker pid="RichardWalsh" hpid="Mr. R. Walsh Mr. R. Walsh">
+      <NameTxt>Mr. R. Walsh</NameTxt>
+      <P>I am sure of it.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Do you remember that they reported against the Minister?</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy must be allowed to make his speech.</P>
+    </Speaker>
+    <Speaker pid="RichardWalsh" hpid="Mr. R. Walsh Mr. R. Walsh">
+      <NameTxt>Mr. R. Walsh</NameTxt>
+      <P>I did not interrupt the Deputy, nor am I in the habit of interrupting. It is innocently suggested that the putting down of a motion for an inquiry into the conduct of one Deputy is not going to do that Deputy any harm or damage whatever.  We must all be very innocent if we accept that.  Anybody who accepts it or honestly believes it must be a very innocent person.  No matter who is the member of the House who is the subject of such an inquiry, in the eyes of a great number of the public, he will come out of it smeared.  There is no shadow of doubt about that, because there will remain in the back of the minds of certain people the old saying that there is no smoke without fire.</P>
+      <P>We have this class of thing being suggested here.  We have Deputy Dillon, the proposer of the motion, saying, in the most pious way, that he would not be guilty of anything in the nature of anti-Semitism.  In my opinion, this motion stinks of it, and this is not the first occasion on which Deputy McGilligan got up to make a personal attack on the Deputy concerned. To my knowledge, he has done it on several occasions.</P>
+    </Speaker>
+    <Col N="336" />
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>When now?</P>
+    </Speaker>
+    <Speaker pid="RichardWalsh" hpid="Mr. R. Walsh Mr. R. Walsh">
+      <NameTxt>Mr. R. Walsh</NameTxt>
+      <P>I have not got the Official Debates with me, but the Deputy has only to read back through the reports.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I will give you one&mdash; the gold inquiry.  Maybe you would like to refer to that?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>What came out of it?</P>
+    </Speaker>
+    <Speaker pid="RichardWalsh" hpid="Mr. R. Walsh Mr. R. Walsh">
+      <NameTxt>Mr. R. Walsh</NameTxt>
+      <P>He talked about the Deputy haunting Government Buildings. The people expect us to do certain things when we are elected members of this Assembly.  Our constituents write to us and expect us to interview different public Departments.  I do not think there is anything wrong in it, and, what is more, I think it would be wrong to deprive Deputies of that right.  It would not improve public life in any way to deprive Deputies of that right.</P>
+      <P>This much has come out of this matter, that Deputy Briscoe was not guilty of any irregularity or dishonesty. He had a long personal connection with the man who made this request to him to get particular facilities for him.  It was a common transaction between them, of a business nature, to lend money and because, in the course of their discussion, this man asked him, as he might have asked any other Deputy, if he would go to the Department of Finance and make this request for facilities for him, he is now guilty of corruption.  We had it here in the House quite recently regarding myself, when I was accused of corruption because I did exactly what every other Deputy is doing every day.  I recommended a man for an appointment and was attacked for doing so.  It subsequently came out that the very Deputy who attacked me had recommended another person for the same appointment.  Yet I was dishonest and guilty of corruption, but the other Deputy was quite upright, honest and consistent.</P>
+    </Speaker>
+    <P>This is part of the general policy to try to create the impression that there is tremendous corruption and rottenness in public life.  I think we can safely say, without boasting at all, that the standard of conduct of public representatives, both in Parliament and <Col N="337" /> in local bodies throughout the country, is at least as high as it is in any country in the world, if it is not higher than in a great many countries.  I have been in Irish public life for at least 30 years.  I have been a member of public bodies and I have been a member of this Assembly for about 20 years, and I have yet to see any definite proof of corruption.  I have seen bitter political feeling, if that can be called corruption.  Probably men will do things through bitter political feeling which they might not do, if they did not feel bitter, but if, by corruption, is meant that things are done for a cash consideration, I have never seen it.</P>
+    <P>I ask the House, in all common sense and reason, not to be carried away by this pretence of innocence and this suggestion that such an inquiry as is proposed will not do harm to an innocent person.  It is intended to do harm and that is the reason for which it is asked.  As I say, this motion is in the pattern of the mean attacks made by members of the Opposition not alone on Deputy Briscoe but on other members of the Government Party.</P>
+    <Speaker pid="HarryColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>As a junior member of the House, I must say that I was deeply grieved by the attitude of some of the members of the Opposition on this question.  It seems to me that when Deputy Dillon put down this motion, which amounts to a charge of corruption against Deputy Briscoe, it was bad enough that he should do so simply on newspaper reports, that he should have taken no steps to verify these reports or to find the full facts, but, since then, he has had the opportunity of hearing the statement of the Taoiseach that he went fully into the case and that the documents, the bills and cheques were all produced in court, backed up by the statement of Deputy Ruttledge who was the solicitor in the case.  That, to my mind, wiped out completely the <i>prima facie</i> case he said he had made.  But in spite of that he is still persisting.  As a lawyer he should know that if any question of corruption had arisen in that case it would have been the duty of that court to order the papers to be <Col N="338" /> sent to the Attorney-General.  Deputy Dillon, apparently, is trying to make us believe that he is zealous for the reputation of Deputies.  I did believe that at first when he put down the motion, but by persisting in this when his case has collapsed, I am afraid that he is not zealous for the reputation of Deputies, but wishes to throw further mud.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>I do not like to think that the mover of this motion was in any way prejudiced against Deputy Briscoe.  I rather give him the credit of having in mind the clearing up of the general reputation of Deputies and providing a means by which the conduct of Deputies may be investigated and of desiring that, if found guilty, due punishment should be meted out to them, or, alternatively, that they should be vindicated.  As to improving the standard of Deputies' conduct, that would be an ideal thing. I am sure that nobody in this House will hesitate to say that the greatest care should be taken to provide that the conduct of Deputies should be an example to the general public.  Knowing Deputy Briscoe, I do not believe for one moment that he has been guilty of any irregularity in the way of receiving money in compensation for services rendered in his position as a Deputy.  From my knowledge of him, I have no reason to believe that that would be true.  Nevertheless, the Taoiseach in his reply the other evening, implied that while the Deputy borrowed money in the ordinary way of borrowing&mdash;perhaps if he was not interested on behalf of these people he might have borrowed money from them &mdash;the fact of having borrowed it at a time when he was trying to assist them through the Department was injudicious.</P>
+    </Speaker>
+    <P>I have been looking for some time for a medium through which I could air very serious charges made against me, but not made specifically. I have been deprived of every means of private inquiry.  I asked the Taoiseach to facilitate me by affording me means which would enable me to bring my case into court so as not to be lying under those charges.  I welcome every suggestion made by Deputy <Col N="339" /> Dillon for the setting up by this House of some medium by which people suffering injustice and wrong could have their grievances brought to light and investigated.</P>
+    <P>In his reply the other evening the Taoiseach said that he had in mind the setting up of some select committee of the House.  If that committee is merely to set up standards to which Deputies should conform, perhaps it would be a good and necessary thing.  It would be a guide to everybody.  But, from my experience of life, the only standards that should guide any man are his own standards.  If these standards are not inherent and lived up to by the individual, it might be a good thing to set up a precautionary code of laws.</P>
+    <P>If the Taoiseach had in mind merely the setting up of a committee for the purpose of laying down standards by which Deputies might be guided in making representations to Departments, or depriving them entirely of that right, which I consider would be a retrograde step as far as the public interest is concerned, I would say that the purpose to be served would be slight and the gain would be very small.  Would such a committee as he visualises be empowered to safeguard the reputation of Deputies who have been slandered by a whispering campaign or suggestions such as have been made in this House?  I remember that some years ago a very responsible Minister of the Government was the victim of a campaign of suggestion that was most damaging.  Fortunately for the Minister he had the goodwill of the Taoiseach who stood by him and made a pronouncement, or at least his next in command did, vindicating the character of that man and repudiating these charges which were widespread. Unfortunately, in my case, I had none of these.  Instead, the Taoiseach went down to the constituency of Leitrim-Sligo during a general election and made a charge against me there, but not in a way which would enable me to bring him into court.</P>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I should like to point out that I made no charge.  I was asked at a meeting why a Deputy had not been selected and I said that <Col N="340" /> there must be some good reason from the point of view of the body making the selection&mdash;that they expect to have candidates they can put through.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>What is the reason? Were you afraid that I would not succeed?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I made no charge against the Deputy.  I was asked why a certain Deputy was not selected by us and I said that there must be some good reason for not doing it.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>What were the good reasons?  Until I get that made clear, I say you are using a subtle way of destroying my character.  I will take you into court if you make the charge.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I made no charge whatever.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>Here is your statement, ultimately used by the Fianna Fáil Party in the form of a leaflet to destroy my character.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I do not wish to destroy the Deputy's character.  It is a lie to state that I wish to destroy the Deputy's character.  It is untrue.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>The word &ldquo;lie&rdquo; has been used.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I withdraw the word &ldquo;lie&rdquo;.  I say it is untrue.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is one motion before the House and another motion may not be raised in the middle of the debate.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. D. Morrissey Mr. D. Morrissey">
+      <NameTxt>Mr. D. Morrissey</NameTxt>
+      <P>The Taoiseach did so in his speech.  He raised three or four hares.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>At your request, Sir, on another occasion I withdrew the word &ldquo;untruth&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Taoiseach has withdrawn the word &ldquo;lie&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>He substituted &ldquo;untruth&rdquo;. I withdrew the word &ldquo;untruth&rdquo; in response to your appeal that that was a word that should disappear from the Parliamentary records.  It is now being reintroduced.  I do not mind; I am only pointing out the different rulings.</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>Will the Taoiseach withdraw the word &ldquo;untrue&rdquo;?</P>
+    </Speaker>
+    <Col N="341" />
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I regard the word &ldquo;untrue&rdquo; as being quite Parliamentary. If I believe a thing is untrue, I have the right to say it.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That is the same argument.  I am pointing out to the Chair that we had a discussion&mdash;I do not think the Taoiseach was here&mdash; over a phrase used by the Tánaiste. Eventually, in response to the request of the Chair, it was agreed that these words should not be used in this House.  Apparently they are being reintroduced. I do not mind, but I want to mark the new point.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The trouble is in distinguishing between subjective and objective truth.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>The day I was pulled up for using this word I referred you to an old debate in which the Taoiseach had very correctly stated that the words &ldquo;falsehood&rdquo; and &ldquo;untruth&rdquo; were perfectly correct terms.  Notwithstanding that, better judgment prevailed here and the words were withdrawn.  But, apparently, the Taoiseach must have improved his vocabulary.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>I refer to a statement made the other evening by the Taoiseach in which he said he would welcome a proposal to set up a committee of inquiry to deal with the conduct of Deputies generally.  He states that he examined in full the case and that there was nothing in the form of a criminal nature involved in it.  Money was borrowed in the ordinary way and the loans were repaid.  I seriously suggest to the Taoiseach that if he proposes to set up a committee of investigation that he would give that committee power to examine into charges made against Deputies so that the Deputies will not be pilloried by public misrepresentation or insinuations made against them which could not be substantiated in the courts of this country.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The Deputy suggests that I have made some charge against him.  I have made no charge at any time against the Deputy.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>He was going to <Col N="342" /> read the statement when he was interrupted.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy is debating another matter and not the one that is before the House.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I understand the Taoiseach more or less welcomed this.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I would welcome it.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I understand you were welcoming it now.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I welcome this&mdash;the clarification of it.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Now?</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. D. Morrissey Mr. D. Morrissey">
+      <NameTxt>Mr. D. Morrissey</NameTxt>
+      <P>Will the Taoiseach clarify his own statement?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>What statement?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Let the debate proceed.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>Am I to understand that the Taoiseach is agreeable to setting up a committee of investigation in this House to investigate charges made against Deputies here when those Deputies are deprived of any facilities for justifying themselves before this House or justifying themselves before the courts of justice?  Is the Taoiseach prepared to set up such a committee?  If he is, then I shall welcome the setting up of such a committee. I think, in fairness, such a committee should be established.  I have suffered more serious wrong and injustice and mental torture, as a result of the implications made and the insinuations, beyond what any man should be made to suffer by another. I think the Taoiseach should take all steps to enable any man in that position to justify himself&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I think that is a most serious allegation to make against me and I think I should be given some opportunity of replying to it.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. D. Morrissey Mr. D. Morrissey">
+      <NameTxt>Mr. D. Morrissey</NameTxt>
+      <P>When?</P>
+    </Speaker>
+    <Speaker pid="DominickCafferky" hpid="Mr. Cafferky Mr. Cafferky">
+      <NameTxt>Mr. Cafferky</NameTxt>
+      <P>On condition that the Deputy is permitted to read his statement.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. D. Morrissey Mr. D. Morrissey">
+      <NameTxt>Mr. D. Morrissey</NameTxt>
+      <P>On no condition at all.  There are rules of order laid down <Col N="343" /> in this House and they must be adhered to, even by the Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I am charged with deliberately inflicting torture on a man.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>I say that you as head of the State are responsible.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I was not acting in my capacity as head of the State.  I was acting as chairman of a political Party in the selection of its candidates.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>We are not selecting candidates now.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>But the Deputy was prevented from reading his statement.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>I do not know why.</P>
+    </Speaker>
+    <Speaker pid="BernardButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>I think it is a very sad thing that this motion was ever set down at all on the basis of incomplete newspaper reports.  These Press reports were made at a time when there was a grave shortage of newsprint and all reports had of necessity to be condensed and were, therefore, to some extent incomplete.  Certain facts, which would have cleared Deputy Briscoe of even a shadow of suspicion, did not appear in those condensed reports. We have been told here that the whole matter has been inquired into and investigated, and that the facts, which did not appear in the newspaper reports, have been brought to light and would clear the Deputy of any blame in this matter.  We have these assurances now from what I can only regard as an unimpeachable authority.</P>
+    </Speaker>
+    <P>The only shadow of suspicion which might arise in connection with Deputy Briscoe comes from the mention of these accommodation bills.  Most of us here know that such bills are an everyday occurrence among business people. There is no shadow of proof to support the belief that Deputy Briscoe received one single penny for his work as a Deputy of this House.  All Deputies here or practically all are I am sure sorry that these charges were, in effect, made against Deputy Briscoe.  I feel this whole matter more deeply than most Deputies in this House because I was reared in the town of Arklow and I was almost a next-door neighbour <Col N="344" /> to very near relatives of Deputy Briscoe.  These relatives of the Deputy's were the only Jewish family in that large town, and they were the most respected, or among the most respected, people in the town or surrounding neighbourhood.</P>
+    <P>That was only as it should be, because in kindliness, helpfulness and upright dealing and conduct they had few equals.  Those of us who know Deputy Briscoe know that he possesses these same good qualities.  We know that he would be incapable of a dishonourable act or of the corrupt practices implied in this motion now before the House.  I do not think that Deputy Briscoe did anything that any one of us, no matter to what Party he belongs, might not do.  There is no proof of any kind that he received any money for discharging his duty as a Deputy&mdash; not the slightest proof.  Any proof we have now lies rather in the other direction.  The word &ldquo;hypocrisy&rdquo; has been used here to-day.  I think it is most regrettable that it should have been used in the context in which it was used.  The nearest approach to hypocrisy that we have here to-day is Deputy McGilligan's harping on the statement that here was a Deputy, carrying out the duties of any ordinary Deputy, and receiving money from the person for whom he was acting at the same time.</P>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>&ldquo;Contemptible&rdquo; was the word.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>If it is a fact.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>It is worse than hypocrisy.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>It is not a fact.  In any ordinary meaning of the word it is not a fact.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>It is a fact now.</P>
+    </Speaker>
+    <Speaker pid="BernardButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>I know that Deputy Dillon, in spite of the fact that he differs very widely from the majority of us in his viewpoint and in spite of the fact that he makes some of us very angry on occasion, has excellent qualities and virtues.  From yesterday's proceedings in the House.  I had hoped that to-day he would stand up and make all the amends possible for the <Col N="345" /> pain caused to Deputy Briscoe through this motion being set down at all.  Is it too much to ask him now, at this point, as a gentleman, to make the <i>amende honorable</i> to Deputy Briscoe?</P>
+      <P>
+        <i>Deputy Dillon rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>I have very little to say on this motion&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Dillon will get half an hour.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>&mdash;&mdash;except that I am not in favour of it.  I am prepared to accept Deputy Dillon's statement that it was not from the point of view of anti-Semitism that he tabled the motion.  There is no denying the fact that it is from the point of view of anti-Fianna Fáilism that Deputy Dillon tabled this motion for discussion here. Deputy Dillon's record, so far as Fianna Fáil and its administration are concerned, is very well known, not only in this House but throughout the country.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>So is the Deputy's.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>I am satisfied that Deputy Dillon is the one safeguard, the sheet anchor, of Fianna Fáil and their public administration of this country because he has proved conclusively over the years that his policy and the policy of Fianna Fáil, even with regard to the control of the various Departments and officials, are as far apart as the Poles.  That is one of the reasons, in my opinion, why this motion has been tabled by Deputy Dillon, not so much to cast a reflection upon Deputy Briscoe, but rather to cast reflections upon Fianna Fáil administration, which he has always done his damnedest to belittle and to affect.  I have heard charges made in this House against members of this House and made by one, in particular, Deputy Cogan, with regard to Deputy Dillon himself.  I wonder what has come about that Deputy Cogan has changed his mind so rapidly?</P>
+    </Speaker>
+    <Speaker pid="EamonnCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>Is it &ldquo;Coogan&rdquo; or &ldquo;Cogan&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>It is Cogan.</P>
+    </Speaker>
+    <Col N="346" />
+    <Speaker pid="EamonnCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>I have made no charges.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>Deputy Cogan, not &ldquo;Coogan&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="EamonnCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>There is only one &ldquo;O&rdquo;.  You had better be clear about it.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>There is very little between you politically, although you sit on separate benches.  Deputy Cogan made a charge against a Deputy.  He made a charge against Deputy Dillon which was infinitely more serious than the charge which Deputy Dillon has made against Deputy Briscoe, and that was made only last year.  We could go back to other years and find various Deputies making charges against Deputy Dillon and no one tabled a motion for their investigation.  There is another aspect to this public representation. I do know that there are very prominent members of the Opposition Party, legal men, who have been briefed by trades unions and by other organisations.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy should deal with the motion before the House.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>It is analogous to the motion, I submit, Sir.  I am setting out my reasons why I am not going to support this motion&mdash;that certain incidents occurred here and the Deputies involved themselves in certain actions and no motion was tabled to investigate these things.  It is for those reasons that I am not going to support this motion for an investigation at the behest of Deputy Dillon.  I recollect discussion on the Industrial Insurance Bill and it is a well-known fact, it is common property throughout the land, that there were three or four prominent legal men, who are members of this House&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>A Chinn Comhairle&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>&mdash;&mdash;and they were briefed&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>May I protest that this is not in order?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>As stated by <Col N="347" /> the Chair, bringing charges against other Deputies is not in order now.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>They are not charges even.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>General aspersions on the legal profession.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. D. Morrissey Mr. D. Morrissey">
+      <NameTxt>Mr. D. Morrissey</NameTxt>
+      <P>It is not true, which is even more important.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>It is true, and can be proved by investigation.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Dillon.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I find it very hard to believe my ears when I hear Deputies attemping to justify the proposition that if a Deputy of Dáil Eireann is approached by a constituent to ask his help to get him what is his legal right, it is proper and fitting conduct on the part of that Deputy, having heard his constituent's request, to say: &ldquo;Will you lend me £50?&rdquo;  I ask Deputy Butler, who has intervened in moderate terms, can he conceive himself, in the event of any constituent of his, rich or poor, coming to him to ask him to move on his behalf with a Government Department in order to get for his constituent what his constituent believed himself to be legally entitled to, winding up the conversation by saying: &ldquo;Yes, I will be glad to help you, sir, and will you lend me £50?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>That is not the fact.</P>
+    </Speaker>
+    <Speaker pid="BernardButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>That is an assumption on the Deputy's part.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I think I can claim that throughout the whole of these proceedings I have done my best to keep the tenor of our discussion on a basis of judicial calm.  I have been even criticised for that.  I insisted on reading out coldly and without comment the entire newspaper report because I feared, were I to attempt to take from it what seemed to me to be relevant extracts, I might do injustice to the man who gave the evidence.  I put it to the House that that is the net question: Is it proper conduct when your constituent approaches you to bespeak your assistance, to hear his grievance, to declare your readiness to do what you can, and then to say: &ldquo;Will you <Col N="348" /> lend me £50?&rdquo;  If a Deputy does that, his conduct may be due to imprudence &mdash;and that is the interpretation the Taoiseach puts upon it&mdash;his conduct may be due to malice of a corrupt person, his conduct may be due to whatever motives moved him but, objectively, it is for this House to determine shall that course of conduct be passed over by the 137 elected representatives of the Irish people as the normal, as something that should excite no comment, as something that we think all of us on all sides of the House might do, as something that anybody might do anywhere.  Or does it behove us, without regard to Party, without regard to anything but the fact that we hold what appears to me to be the most honoured position a man can aspire to in this country&mdash;that is, the position of elected Deputy of Dáil Éireann&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="BernardButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>There is no connection&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&mdash;&mdash;to say that we do not approve of the procedure of a Deputy, when consenting to act with a view to securing the legal rights of a constituent, simultaneously inviting that constituent to lend him £50?  If I wanted to injure the Fianna Fáil Party, if I wanted to make this an occasion for political propaganda, will Deputies consider for a moment why I should have gone to the Ceann Comhairle, in the privacy of his room, laid the evidence before him and said: &ldquo;This, Sir, is, in my opinion, a matter to which the attention of the leader of the House should be directed so that he may devise a procedure which will provide an effective remedy without acrimonious controversy on the floor of Dáil Eireann.&rdquo;  I think that the Ceann Comhairle will confirm me when I say that I indicated to him that my hope would be that the leader of the House would take the initiative in the matter and that all Parties, without discussion, would consent to the establishment of a suitable committee to examine the facts, as reported in the public Press, to determine whether the proprieties had been observed, to report to the House and either admonish the Deputy who had done wrong or inform the <Col N="349" /> public that, realising the possible misunderstanding that could have arisen from the Press report, they had taken the matter under consideration, investigated it exhaustively and, as representatives of all sides of the House, now certify to the public at large that, the Press report notwithstanding, a full examination of all relevant facts had satisfied the entire membership of Dáil Éireann that the Deputy referred to was blameless.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Was that communicated to me?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>All I can say is that I do not know.  I do not think that I am guilty of any impropriety in describing my conduct.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It would be very difficult for me to recollect all the circumstances of the case.  The Deputy did make some such representations to me.  I do not know whether or not I put them in those exact words to the Taoiseach.  May I say now that it was only after considerable thought, indeed, I decided that this motion was one which should go down, not having any precedent to guide me and its being beyond my power to judge whether there was a <i>prima facie</i> case or not?  That is the difficulty of the Chair with reference to any such motion.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Deputy Dillon has clearly stated that he suggested that another course of procedure might be adopted&mdash;that I might examine into the matter and take action so that we should not have acrimonious discussion in the House.  I have no recollection that the Chair communicated any such suggestion to me.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I recited the circumstances attending this matter when introducing the motion.  I referred to my call on the Ceann Comhairle.  The Ceann Comhairle requested me to call on a later date.  He deemed it inexpedient to say whether he had mentioned the matter to the leader of the House or not; other matters had been engaging his consideration.  What I want to impress on the benches opposite is that it is not the interest of their Party or the conduct of the <Col N="350" /> Deputy in question which is the important issue in this case.  The important thing is to reassure the people down the country that all members of the House are satisfied that the Press report which appeared created a false impression, or, if the Press report was accurate, that the House dissociates itself from the course of conduct pursued; after examining all the circumstances, if they think that it was due to imprudence, the rebuke will be only light, but, if it was due to malice, the rebuke will be heavy.  That is all I am concerned to secure.</P>
+      <P>I am rebuked by Deputy de Valera, junior, and his colleague, Deputy P.J. Fogarty, in two speeches which I shall not say more of than that they contributed very little of value to the discussion. They said that I did not make charges.  I did not want to make charges.  I wanted to put before the House the newspaper report which was perused by our people and, with that report facing the House, to ask them to consider that an impression was being created abroad which called for inquiry.</P>
+      <P>I envisaged the possibility of Deputy Briscoe's honourable vindication.  I suggested the possibility that, when a committee of this House had summoned all the papers and all the witnesses who were in a position to assist, they might determine that Deputy Briscoe had acted improperly.  But the important thing was that that inquiry, whatever its conclusions, should be conducted in a calm and judicial atmosphere, not for the purpose of dragooning any individual member of this House, not for the purpose of achieving any punitive end, but solely for the purpose of reassuring the people that the 137 men and women who sit here are proud of the positions they hold and are determined to safeguard the standards of conduct that our people are entitled to expect of those to whom they entrust the very sacred duty which all of us have.</P>
+    </Speaker>
+    <P>The Taoiseach says: &ldquo;I have studied the reports; I have seen the receipts; I am satisfied that the money was repaid&rdquo;. Suppose all that were true, suppose all the debts were repaid, will any Deputy on any side of the House <Col N="351" /> get up and say that he believes it is conduct becoming a Deputy of Dáil Éireann to ask his constituent for a loan of £50 at a time when his constituent is seeking his suffrages with a Department of State?  If the Taoiseach desires to say that his examination has satisfied his mind, I am not concerned to conduct the trial of any member of this House on the floor of this House.</P>
+    <P>But if the Taoiseach chooses to put the matter on issue, I mention two points on which, I think, the people who read that newspaper report are entitled to demand reassurance.  Mr. Samuels, the lender of this money, was asked why he lent it and his answer was that he knew the man was short and was running into debt.  He was referring to Deputy Briscoe.  This was Deputy Briscoe's old and confidential friend, the son of his father's friend, the man with whom he had grown up. He knew Deputy Briscoe was short and was running into debt.  Deputy Briscoe was subsequently asked: &ldquo;Why did you seek the loan?&rdquo;  The man who granted the loan did so because he believed that Deputy Briscoe was short and was running into debt. Deputy Briscoe was asked: &ldquo;Why did you seek the loan?&rdquo; and he said that he, Deputy Briscoe, was a man with a very large income but that he engaged in various business enterprises and frequently borrowed money.  On the face of that, either the lender was a perjurer or the borrower was a perjurer, or Deputy Briscoe got the money from that person under false pretences.</P>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Is it not a fact that a great deal of business is carried on on borrowed money?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>This is the sworn testimoney that I took from the paper and I am quoting the very words: &ldquo;He was short and running into debt.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>A person may be short for immediate transactions.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&ldquo;And running into debt.&rdquo;  Counsel for the State produced the books and every loan to Deputy Briscoe was entered on the debit side. Has the Taoiseach seen the books of <Col N="352" /> this company, showing every loan being repaid to the company?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I have the bills.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>No, no.  The books of the company were laid on the table of the court and when they were opened, entered on one side were ten items of loans of £50 to Deputy Briscoe.  Now, that was the money of the watch company. These moneys were repaid.  Has the Taoiseach called for the book where the debit entry was made and sought there a corresponding entry as these loans were being repaid and if it is not there, where did the payments go?  I want all that matter to be considered calmly and judicially upstairs in a committee room, where all these questions can be answered exhaustively and where anybody can ask for the information he requires.  I want to be able to say that it does not matter to what Party a Deputy belongs, that we all will combine to defend him against those who would traduce him and that we will combine to defend ourselves against any individual amongst us who would betray the standard we ought to maintain.</P>
+      <P>Here, then, is the net issue.  Is it becoming conduct in a Deputy of Dáil Éireann, when approached by his constituent for assistance to secure his legal rights, having heard his constituent's representations and having indicated his readiness to serve him, to say: &ldquo;Will you lend me £50?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>If that were so, it was not proper conduct.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>And to say it ten times.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I say that that is not becoming conduct.</P>
+    </Speaker>
+    <Speaker pid="BernardButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>That is begging the question.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I do not believe there are five Deputies here who in their hearts believe that that is becoming conduct.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Nobody admits it.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I regret that the Taoiseach has deemed it expedient to meet this situation by raising a fog of <Col N="353" /> irrelevance and manoeuvre.  I think it was disreputable&mdash;I use that word advisedly&mdash;for the Taoiseach to say that Deputy Dillon and Deputy Dockrell frequently make representations to Government Departments, representations of a general character, which carried with them advantages for their own business.  That is a dirty, disreputable and false innuendo.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Is it not a fact that these things have happened?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Lest the simplest creature in the country should be deluded into giving credence to that contemptible aspersion, I desire to place it on record that there is no scintilla of truth in it.  As a private citizen, whenever I have had occasion to approach a Government Department, where my own personal affairs were concerned, I have always introduced my observations by saying: &ldquo;On this occasion, the matter on which I wish to make representations relates to my private business and I am not to be addressed as a Deputy.&rdquo;  I am perfectly certain, of course, that all of us who know him know that the same careful circumspection has always characterised the conduct of Deputy Dockrell.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Why not suggest that the same would be true of Deputy Briscoe?</P>
+    </Speaker>
+    <Col N="354" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>It is contemptible to throw in a dirty innuendo of that kind.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Leave it to the public.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I exhausted every possibility, before bringing this motion before the House, to secure that this business might be transacted away from the forum of open controversy and in the calm judicial atmosphere of a committee room.  It was when it became clear to me that I could not secure that and when, as it seemed to me, the Leader of the House was not prepared to take the steps that I conceived it to be his duty to take, that as a last resort I had recourse to this procedure.  I believe the procedure adopted by me in the circumstances is the right procedure.  Had I to undertake it again, knowing all I know, I would do precisely what I did.  I believe that the conduct revealed is not becoming in a Deputy of Dáil Eireann. I believe it calls for explanation&mdash; satisfactory explanation&mdash;or condemnation by this House.  Accordingly, if the Taoiseach adheres to his resolution and refuses Deputies an opportunity to get to the bottom of this matter and dispose of it satisfactorily by way of the Committee I have suggested, I shall challenge a division and let the country decide whether those who vote &ldquo;yea&rdquo; or &ldquo;nay&rdquo; are in the right.</P>
+      <P>Question put.</P>
+      <P Just="Center">The Dáil divided: Tá, 26: Níl, 42.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Beirne, John.<br />Blowick, Joseph.<br />Browne, Patrick.<br />Coburn, James.<br />Cogan, Patrick.<br />Coogan, Eamonn.<br />Corish, Brendan.<br />Cosgrave, Liam.<br />Davin, William.<br />Dillon, James M.<br />Dockrell, Henry M.<br />Dockrell, Maurice E.<br />Doyle, Peadar S.</entry>
+            <entry rowsep="1">Giles, Patrick.<br />Halliden, Patrick J.<br />Hughes, James.<br />MacEoin, Seán.<br />McFadden, Michael Og.<br />McGilligan, Patrick.<br />McMenamin, Daniel.<br />Morrissey, Daniel.<br />Mulcahy, Richard.<br />O'Donnell, William F.<br />O'Leary, John.<br />O'Reilly, Thomas.<br />Sheldon, William A.W.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Aiken, Frank.<br />Blaney, Neal.<br />Boland, Gerald.<br />Bourke, Dan.<br />Breathnach, Cormac.<br />Burke, Patrick (Co. Dublin).<br />Butler, Bernard.
+<Col N="355" />Fogarty, Andrew.<br />Fogarty, Patrick J.<br />Gorry, Patrick J.<br />Kilroy, James.<br />Kissane, Eamon.<br />Lemass, Seán F.<br />Little, Patrick J.<br />Loughman, Frank.<br />McCann, John.<br />McCarthy, Seán.<br />MacEntee, Seán.<br />Moran, Michael.<br />Moylan, Seán.<br />O Briain, Donnchadh.</entry>
+            <entry rowsep="1">Childers, Erskine H.<br />Colbert, Michael.<br />Colley, Harry.<br />Crowley, Honor Mary.<br />Derrig, Thomas.<br />De Valera, Eamon.<br />De Valera, Vivion.
+<Col N="356" />O'Grady, Seán.<br />O'Rourke, Daniel.<br />Rice, Bridget M.<br />Ruttledge, Patrick J.<br />Ryan, James.<br />Ryan, Mary B.<br />Ryan, Robert.<br />Skinner, Leo B.<br />Smith, Patrick.<br />Traynor, Oscar.<br />Ua Donnchadha, Dómhnall.<br />Walsh, Laurence.<br />Walsh, Richard.<br />Ward, Conn.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash;Tá: Deputies Dillon and McMenamin; Níl: Deputies Kissane and O Briain.</P>
+    <P>Motion declared negatived.</P>
+    <P>The Dáil adjourned at 2 p.m. until Tuesday, 21st May, 1946, at 3 p.m.</P>
+  </MainHeading>
+</Debate>

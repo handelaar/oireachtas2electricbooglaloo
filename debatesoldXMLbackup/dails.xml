@@ -1,0 +1,189 @@
+<dails>
+  <dail dailid="1">
+    <dailth>1st</dailth>
+    <dname>First Dáil</dname>
+    <sdate>1919-01-21</sdate>
+    <edate>1921-05-01</edate>
+  </dail>
+  <dail dailid="2">
+    <dailth>2nd</dailth>
+    <dname>Second Dáil</dname>
+    <sdate>1921-08-16</sdate>
+    <edate>1922-06-08</edate>
+  </dail>
+  <dail dailid="3">
+    <dailth>3rd</dailth>
+    <dname>Third Dáil</dname>
+    <sdate>1922-09-09</sdate>
+    <edate>1923-08-09</edate>
+  </dail>
+  <dail dailid="4">
+    <dailth>4th</dailth>
+    <dname>Fourth Dáil</dname>
+    <sdate>1923-09-19</sdate>
+    <edate>1927-05-20</edate>
+  </dail>
+  <dail dailid="5">
+    <dailth>5th</dailth>
+    <dname>Fifth Dáil</dname>
+    <sdate>1927-06-23</sdate>
+    <edate>1927-08-16</edate>
+  </dail>
+  <dail dailid="6">
+    <dailth>6th</dailth>
+    <dname>Sixth Dáil</dname>
+    <sdate>1927-10-11</sdate>
+    <edate>1931-12-17</edate>
+  </dail>
+  <dail dailid="7">
+    <dailth>7th</dailth>
+    <dname>Seventh Dáil</dname>
+    <sdate>1932-03-09</sdate>
+    <edate>1932-12-22</edate>
+  </dail>
+  <dail dailid="8">
+    <dailth>8th</dailth>
+    <dname>Eighth Dáil</dname>
+    <sdate>1933-02-08</sdate>
+    <edate>1937-06-14</edate>
+  </dail>
+  <dail dailid="9">
+    <dailth>9th</dailth>
+    <dname>Ninth Dáil</dname>
+    <sdate>1937-07-21</sdate>
+    <edate>1938-05-25</edate>
+  </dail>
+  <dail dailid="10">
+    <dailth>10th</dailth>
+    <dname>Tenth Dáil</dname>
+    <sdate>1938-06-30</sdate>
+    <edate>1943-05-26</edate>
+  </dail>
+  <dail dailid="11">
+    <dailth>11th</dailth>
+    <dname>Eleventh Dáil</dname>
+    <sdate>1943-07-01</sdate>
+    <edate>1944-05-10</edate>
+  </dail>
+  <dail dailid="12">
+    <dailth>12th</dailth>
+    <dname>Twelfth Dáil</dname>
+    <sdate>1944-06-09</sdate>
+    <edate>1947-12-11</edate>
+  </dail>
+  <dail dailid="13">
+    <dailth>13th</dailth>
+    <dname>Thirteenth Dáil</dname>
+    <sdate>1948-02-18</sdate>
+    <edate>1951-05-02</edate>
+  </dail>
+  <dail dailid="14">
+    <dailth>14th</dailth>
+    <dname>Fourteenth Dáil</dname>
+    <sdate>1951-06-13</sdate>
+    <edate>1954-04-23</edate>
+  </dail>
+  <dail dailid="15">
+    <dailth>15th</dailth>
+    <dname>Fifteenth Dáil</dname>
+    <sdate>1954-06-02</sdate>
+    <edate>1956-12-13</edate>
+  </dail>
+  <dail dailid="16">
+    <dailth>16th</dailth>
+    <dname>Sixteenth Dáil</dname>
+    <sdate>1957-03-20</sdate>
+    <edate>1961-09-01</edate>
+  </dail>
+  <dail dailid="17">
+    <dailth>17th</dailth>
+    <dname>Seventeenth Dáil</dname>
+    <sdate>1961-10-11</sdate>
+    <edate>1965-03-18</edate>
+  </dail>
+  <dail dailid="18">
+    <dailth>18th</dailth>
+    <dname>Eighteenth Dáil</dname>
+    <sdate>1965-04-21</sdate>
+    <edate>1969-05-21</edate>
+  </dail>
+  <dail dailid="19">
+    <dailth>19th</dailth>
+    <dname>Nineteenth Dáil</dname>
+    <sdate>1969-07-02</sdate>
+    <edate>1973-02-05</edate>
+  </dail>
+  <dail dailid="20">
+    <dailth>20th</dailth>
+    <dname>Twentieth Dáil</dname>
+    <sdate>1973-03-14</sdate>
+    <edate>1977-05-25</edate>
+  </dail>
+  <dail dailid="21">
+    <dailth>21st</dailth>
+    <dname>Twenty First Dáil</dname>
+    <sdate>1977-07-05</sdate>
+    <edate>1981-05-21</edate>
+  </dail>
+  <dail dailid="22">
+    <dailth>22nd</dailth>
+    <dname>Twenty Second Dáil</dname>
+    <sdate>1981-06-30</sdate>
+    <edate>1982-01-22</edate>
+  </dail>
+  <dail dailid="23">
+    <dailth>23rd</dailth>
+    <dname>Twenty Third Dáil</dname>
+    <sdate>1982-03-09</sdate>
+    <edate>1982-11-04</edate>
+  </dail>
+  <dail dailid="24">
+    <dailth>24th</dailth>
+    <dname>Twenty Fourth Dáil</dname>
+    <sdate>1982-12-14</sdate>
+    <edate>1986-12-19</edate>
+  </dail>
+  <dail dailid="25">
+    <dailth>25th</dailth>
+    <dname>Twenty Fifth Dáil</dname>
+    <sdate>1987-03-10</sdate>
+    <edate>1989-05-21</edate>
+  </dail>
+  <dail dailid="26">
+    <dailth>26th</dailth>
+    <dname>Twenty Sixth Dáil</dname>
+    <sdate>1989-06-29</sdate>
+    <edate>1992-11-05</edate>
+  </dail>
+  <dail dailid="27">
+    <dailth>27th</dailth>
+    <dname>Twenty Seventh Dáil</dname>
+    <sdate>1992-11-25</sdate>
+    <edate>1997-05-15</edate>
+  </dail>
+  <dail dailid="28">
+    <dailth>28th</dailth>
+    <dname>Twenty Eighth Dáil</dname>
+    <sdate>1997-06-06</sdate>
+    <edate>2002-04-25</edate>
+  </dail>
+  <dail dailid="29">
+    <dailth>29th</dailth>
+    <dname>Twenty Ninth Dáil</dname>
+    <sdate>2002-06-06</sdate>
+    <edate>2007-05-24</edate>
+  </dail>
+  <dail dailid="30">
+    <dailth>30th</dailth>
+    <dname>Thirtieth Dáil</dname>
+    <sdate>2007-05-25</sdate>
+    <edate>2011-03-08</edate>
+  </dail>
+  <dail dailid="31">
+    <dailth>31st</dailth>
+    <dname>Thirty First Dáil</dname>
+    <sdate>2011-03-09</sdate>
+    <edate>
+    </edate>
+  </dail>
+</dails>

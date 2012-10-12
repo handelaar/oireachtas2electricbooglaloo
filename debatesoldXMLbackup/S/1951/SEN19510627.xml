@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="27" Month="Jun" Year="1951" Vol="39" No="14" DateIrish="Dé Céadaoin, 27 Meitheamh 1951" DateEnglish="Wednesday, 27 June 1951" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1117">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1117" /> Do chuaigh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Announcements by" RHead="Cathaoirleach">
+    <Title>Announcements by Cathaoirleach.</Title>
+    <Speaker pid="TimothyJosephODonova" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Before entering on the Orders of the Day, I have to make announcements as follows:&mdash;</P>
+    </Speaker>
+    <P>I have received letters dated 14th June and 19th June, respectively, from the Secretary to the Government informing me of the nomination and appointment of the Taoiseach and Members of the Government and of <Col N="1118" /> the appointment of Parliamentary Secretaries.</P>
+    <P>I have given directions to have copies of the letters referred to set out <i>in extenso</i> in the usual manner in the Journal of the House. Consequent on this announcement, they will also be printed in the Official Report of the Debates.</P>
+    <P>I have to acquaint the House that I have received a letter from Deputy J. Finan informing me that he has been elected a member of Dáil Éireann.</P>
+    <P>I have also received a letter from the Department of External Affairs expressing the gratitude of the Portuguese Chargé d'Affaires to Seanad Éireann for their resolution of sympathy on the occasion of the death of President Carmona.</P>
+    <P>Following are the letters from the Department of the Taoiseach:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="35*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="65*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Ref. No.</entry>
+            <entry rowsep="1">DEPARTMENT OF THE TAOISEACH,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>S. 15020.</entry>
+            <entry>DUBLIN.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>14 Meitheamh, 1951.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>CLÉIREACH AN TSEANAID.</P>
+    <P>Tá orm a chur in iúl duit go bhfuil</P>
+    <P>(1)  an tUachtarán, ar ainmniú Dháil Éireann, tar éis Éamon de Valéra a cheapadh inné, de bhun Airteagail 13.1.1º den Bhunreacht, chun bheith ina Thaoiseach;</P>
+    <P>(2)  an tUachtarán, ar ainmniú an Taoisigh, le comhaontadh Dháil Éireann roimh ré, tar éis na daoine seo a leanas a cheapadh inniu de bhun Airteagail 13.1.2º den Bhunreacht, chun bheith ina gcomhaltaí den Rialtas agus chun bheith, i dteannta an Taoisigh, ina Rialtas:&mdash;</P>
+    <P>Seán F. Lemass,</P>
+    <P>Seán Mac An tSaoi,</P>
+    <P>Séamas Ó Riain,</P>
+    <P>Proinsias Mac Aogáin,</P>
+    <P>Tomás Ó Deirg,</P>
+    <P>Gearóid Ó Beoláin,</P>
+    <P>Oscar Mac Tréinfhir,</P>
+    <P>Seán Ó Maoláin,</P>
+    <P>Pádraig Mac Gabhann,</P>
+    <P>Erskine Childers</P>
+    <P Just="Center">agus</P>
+    <P>Tomás Breathnach;</P>
+    <P>(3)  an Taoiseach tar éis Seán F. Lemass d'ainmniú inniu, de bhun Airteagail 26.6.1º den Bhunreacht, chun bheith ina Thánaiste; agus</P>
+    <P>(4)  an Taoiseach, i bhfeidhmiú na cumhachta a bheirtear dó le halt 4 (1) den Acht Airí agus Rúnaithe (Leasú), 1946, tar éis na Ranna Stáit seo a leanas a shannadh inniu do na comhaltaí faoi seach den Rialtas a luaitear a n-ainmneacha os coinne ainmneacha na Rann:</P>
+    <table pgwide="1">
+      <tgroup cols="3">
+        <colspec colname="1" colnum="1" colwidth="15*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="55*" align="center">
+        </colspec>
+        <colspec colname="3" colnum="3" colwidth="30*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+            </entry>
+            <entry rowsep="1">An Roinn Tionscail agus Tráchtála</entry>
+            <entry rowsep="1">Seán F. Lemass,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Airgeadais</entry>
+            <entry>Seán Mac An tSaoi,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Sláinte agus an Roinn Leasa Shóisialaigh</entry>
+            <entry>Séamas Ó Riain,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Gnóthaí Eachtracha</entry>
+            <entry>Proinsias Mac Aogáin,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Tailte</entry>
+            <entry>Tomás Ó Deirg,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Dlí agus Cirt</entry>
+            <entry>Gearóid Ó Beoláin,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Cosanta</entry>
+            <entry>Oscar Mac Tréinfhir,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Oideachais</entry>
+            <entry>Seán Ó Maoláin,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>
+              <Col N="1119" />An Roinn Rialtais Áitiúil</entry>
+            <entry>
+              <Col N="1120" />Pádraig Mac Gabhann,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Poist agus Telegrafa</entry>
+            <entry>Erskine Childers</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry namest="2" nameend="3">agus</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>An Roinn Talmhaíochta</entry>
+            <entry>Tomás Breathnach.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry namest="2" nameend="3">(Sínithe) N.S.Ó NUALLÁIN,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>Rúnaí.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+            </entry>
+            <entry rowsep="1">ROINN AN TAOISIGH,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+            </entry>
+            <entry>(Department of the Taoiseach)</entry>
+          </row>
+          <row>
+            <entry>S. 15021</entry>
+            <entry>BAILE ATHA CLIATH,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>(Dublin)</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>19 Meitheamh, 1951.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>CLÉIREACH AN TSEANAID.</P>
+    <P>Tá orm a chur in iúl duit go bhtuil an Rialtas, ar ainmniú an Taoisigh, tar éis gach duine faoi leith acu seo a leanas a cheapadh inniu chun oifig an Rúnaí Parlaiminte a luaitear os coinne a ainme:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Seán Ó Loingsigh, T.D.</entry>
+            <entry rowsep="1">Rúnaí Parlaiminte an Rialtais;</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Donnchadh Ó Briain, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Taoisigh agus Aire Cosanta;</entry>
+          </row>
+          <row>
+            <entry>Pádraig Ó Beacháin, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Airgeadais;</entry>
+          </row>
+          <row>
+            <entry>Micheál Seosamh Ó Cinnéide, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Leasa Shóisialaigh;</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>Gearóid Mac Pharthaláin, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Talmhaíochta.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>(Sgd.) M. Ó MUIMHNEACHAIN,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Rúnaí an Rialtais.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Collection of Taxes (Confirmation) Bill, 1951 (" RHead="Certified Money Bill ) Second and Subsequent Stages">
+    <Title>Collection of Taxes (Confirmation) Bill, 1951 (  Certified Money Bill ) Second and Subsequent Stages.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Finance (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Finance (Mr. MacEntee)</NameTxt>
+      <P>The need for this Bill arises from the occurrence of a general election in the period between the Budget and the passing of the original Financial Resolutions and the passing of the Finance Bill.  The House will understand that it is not part of the ordinary procedure of the Oireachtas in regard to Finance Bills that we should have a Bill of this sort, but certain of the resolution to which I have referred were given effect for a limited period under the Collection of Taxes Act, 1927, which Act provides that, in the event of a dissolution, certain of these resolutions would cease to have statutory effect.  It is necessary, therefore, to have a measure of this sort enacted by the Oireachtas in order to give continuing effect to the resolutions, to revive them and also to regularise and make legal everything which was done under the Resolutions during the period between the dissolution of one Dáil and the meeting of the next.  It is desirable that the Bill should be enacted at the earliest possible moment and I ask the Seanad to give me not only the Second Reading but all Stages to-day.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes</NameTxt>
+      <P>I think it is reasonable that the Minister should get all stages to-day.  The Bill merely puts the Budget Resolutions back in the position they were in before the dissolution. I do not know whether the particular section of the 1927 Act was inserted to keep Governments from dissolving in the period between the Resolutions and the passing of the Finance Bill, but it has occurred on more than one occasion.  This is, in effect, a machinery Bill to enable taxes to be collected and the Dáil to get on to the Finance Bill which will be open for discussion when it comes up.  I agree with the Minister that we should pass all stages of the Bill to-day.</P>
+      <P>Question put and agreed to.</P>
+      <P>Agreed to take the remaining stages to-day.</P>
+      <P>Bill passed through Committee, and reported without recommendation.</P>
+      <P>Bill received for final consideration.</P>
+      <P>Question proposed: &ldquo;That the Bill be returned to the Dáil.&rdquo;</P>
+    </Speaker>
+    <Col N="1121" />
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>May I make an inquiry at this stage?  Must we always have legislation <i>ad hoc</i> on a matter of this kind?  Would it not be better to have some kind of legislation which would always cope with a situation like this&mdash;I am not quite clear as to whether that would be feasible&mdash;and save us from bringing in more Bills of this nature at a later period when the same situation arises?  Can I have the Minister's views on that?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am not certain that I made it quite clear to the Seanad that the need for this Bill arises out of a provision of the Provisional Collection of Taxes Act, 1927&mdash;Senator Hayes also dwelt on that fact&mdash;and in order to obviate the need for a measure of this sort it would be necessary for us to amend the original Act, that Collection of Taxes Act, by deleting the proviso that the Financial Resolutions would cease to have statutory effect in the event of a dissolution occurring before they had been reported and embodied in the Finance Act.  As the Senator will see, there may be objections to that course and, while it would have the advantage of relieving both Houses of the Oireachtas of the need to pass a Confirmation Bill, in the circumstances in which we are dealing with this measure there would be, I think, on the other hand, rather more serious objection to deleting the provision from the Act of 1927, that is, from a constitutional point of view.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>Thank you, Sir.</P>
+      <P>Question put and agreed to.</P>
+      <P>Ordered: That the Bill be returned to the Dáil.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Government Loans (Conversion) Bill, 1951 ( Certified" RHead="Money Bill )&mdash; Second and Subsequent Stages">
+    <Title>Government Loans (Conversion) Bill, 1951  (  Certified Money Bill )&mdash;  Second and Subsequent Stages.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>This Bill is necessitated by the fact that our predecessors in government decided to convert four national loans which may <Col N="1122" /> be redeemed at the option of the Government some time in the year 1950. The decision to carry through this conversion operation was taken by our predecessors, the conversion offer was made on the 8th June and the time for making decisions as between redemption and conversion will formally end on the 7th of next month.  The principal object of the Bill is to clear the way for trustees, executors and administrators to accept the conversion offer.  Certain of the stocks are of course, an authorised trustee investment under the Adaptation of Enactments Act, 1922, but in case a trustee should be in any doubt as to his right to accept this stock rather than accept cash and then look around for a more acceptable investment, the Act will provide that these trustees and others, acting in a fiduciary capacity, shall have express authority to accept the conversion.</P>
+      <P>That is the principal purpose of the Bill and I shall be very grateful again if the House would be good enough to give me, not only the Second Reading to-day, but all stages.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes</NameTxt>
+      <P>This is a Bill which the previous Government would have introduced if it had been in office and it illustrates the principle that in connection with people who loan money to the State there can be continuity of Government policy.  For this reason, I again agree with the Minister&mdash;we are having a marvellous time in agreeing to-day&mdash;not only about the Second Stage, but the other stages.</P>
+      <P>Question put and agreed to.</P>
+      <P>Agreed, to take the remaining stages now.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>On the Committee Stage, I shall naturally be glad to deal, if necessary, with any points Senators wish to raise on the several provisions of the Bill.</P>
+      <P>Bill passed through Committee, reported without recommendation, received for final consideration, and ordered to be returned to the Dáil.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Imposition of Duties (Confirmation of Order) (No. 2) Bill, 1951" RHead="( Certified Money Bill )&mdash; Second and Subsequent Stages">
+    <Title>Imposition of Duties (Confirmation of Order) (No. 2) Bill, 1951  (  Certified Money Bill )&mdash;  Second and Subsequent Stages.</Title>
+    <P>
+      <Col N="1123" /> Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The purpose of this Bill is to confirm an order under the Emergency (Imposition of Duties) Act which was made by our predecessors, enlarging and expanding the scope of an originally protective duty on electrical storage water heaters.  These electrical water heaters are manufactured by the A.E.T. in Dunleer, County Louth.  That firm has enjoyed protection for electrical water heaters and electrical storage heaters up to a capacity of 28 gallons.  They have recently enlarged their activities and are now in a position to produce these storage heaters in sizes up to 100 gallons capacity and we are informed that they are in a position to meet the full requirements of the market for these sizes.  Accordingly, it has been decided that the scope of the duty should be extended now to cover the range of sizes which the company is in a position to produce.</P>
+      <P>Question put and agreed to.</P>
+      <P>Agreed to take the remaining Stages now.</P>
+      <P>Bill passed through Committee, reported without recommendation, and received for final consideration.</P>
+      <P>Question proposed: &ldquo;That the Bill be returned to the Dáil.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Farrell Mr. O'Farrell">
+      <NameTxt>Mr. O'Farrell</NameTxt>
+      <P>Is it too late to ask the Minister whether he has any assurance that, if this duty is imposed on imported water heaters, the home-manufactured articles will be sold at competitive prices?  Have we any guarantee that when the firm has got this monopoly the prices to the consumer will not become prohibitive?  I am in favour of protection wherever it can reasonably be given, but I should like an assurance that when you do give protection you will get an efficient article at a reasonable price.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>May I ask if only one firm is concerned in the manufacture <Col N="1124" /> of these articles?  Is one firm getting the virtual monopoly in Ireland?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I hope that I have not put the Seanad under a misapprehension as to the actual position of the firm to which I referred as the manufacturer of these articles.  At the moment only one firm manufactures electric storage water heaters up to a capacity of 100 gallons, but that firm has no monopoly except such as arises from the fact that no other firm had the enterprise to go into production and compete for the Irish market.</P>
+      <P>On the point about which Senator O'Farrell asked for some information, I should like to say that in consequence of the expansion of its activities as a result of this additional protection, this firm actually reduced its prices in May last so that they compare very favourably with the prices charged in February, 1950.  It has been able to do that, notwithstanding the fact of which the House is, no doubt, aware, that there have been considerable increases in the prices of copper and other raw materials which this firm requires for its products.  The present position, I understand, is that the home-manufactured article compares very favourably indeed in price with the imported article.  In fact, the larger-sized storage heater which the firm is selling here is being sold at two-thirds of the price at which a corresponding article was listed in the catalogue of outside manufacturers.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Farrell Mr. O'Farrell">
+      <NameTxt>Mr. O'Farrell</NameTxt>
+      <P>I am very thankful to the Minister for his explanation. The reason I asked the question was, first of all, to get the information I have got and, secondly, to anticipate any adverse comment that might be made.  The tendency sometimes exists to say of protection that, sheltered behind that protection, one finds inefficiency and over-charging.  I do not share that view, and I wanted to give the Minister the opportunity of saying that this state of affairs does not exist in this case.</P>
+      <P>Question put and agreed to.</P>
+      <P>Ordered: That the Bill be returned to the Dáil.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Col N="1125" />
+    <Speaker pid="WilliamQuirke" hpid="Mr. Quirke Mr. Quirke">
+      <NameTxt>Mr. Quirke</NameTxt>
+      <P>The next sitting should be to-morrow as the Trade Union Bill, which is going through the Dáil, is expected to get all stages to-day and it is necessary that it should be dealt with here to-morrow because it has to come round before the 8th July.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes</NameTxt>
+      <P>Then the only business before the House to-morrow will <Col N="1126" /> be the Trade Union Bill.  It is a machinery Bill, altering dates, is it not?</P>
+    </Speaker>
+    <Speaker pid="WilliamQuirke" hpid="Mr. Quirke Mr. Quirke">
+      <NameTxt>Mr. Quirke</NameTxt>
+      <P>There is a possibility, but not a certainty, that we may have the Finance Bill.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Mr. M. Hayes Mr. M. Hayes">
+      <NameTxt>Mr. M. Hayes</NameTxt>
+      <P>Hope springs eternal.</P>
+      <P>The Seanad adjourned at 3.30 p.m. until 3 p.m. on Thursday, 28th June.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

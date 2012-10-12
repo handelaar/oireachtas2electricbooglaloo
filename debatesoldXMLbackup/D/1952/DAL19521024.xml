@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="24" Month="Oct" Year="1952" Vol="134" No="3" DateIrish="Dé hAoine, 24 Deireadh Fómhair 1952" DateEnglish="Friday, 24 October 1952" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="415" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Is it proposed to take No. 13 on the Order Paper.  Private Deputies' Business will be taken at 12 o'clock.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>May I ask has the Tánaiste yet had an opportunity of considering my request that time should be made available for the consideration of a number of motions which stand in my name on the Private Members' Order Paper requesting the annulment of Orders made in regard to the price of bread and flour?  The motions I refer to are Nos. 23, 24, 25 and 26.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>No.  I have not had time to consider it.  It is, of course, the normal practice to provide an opportunity for the Dáil to consider the annulment of statutory Orders.  I should hope, in the interests of saving time, that some arrangement might be made to combine the discussions on these motions with the Supplies and Services Bill, which has to be passed through this session anyway.  The matter will be considered within the statutory period.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. O. Flanagan Mr. O. Flanagan">
+      <NameTxt>Mr. O. Flanagan</NameTxt>
+      <P>May I ask when it is proposed to introduce the Supplementary Estimate for Córas Iompair Éireann so that Deputies may have notice of it in view of the closing of branch lines and the general dissatisfaction there is?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I could not say.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Will the Tánaiste say if a date has yet been fixed for the Second Reading of the Restrictive Trade Practices Bill?</P>
+    </Speaker>
+    <Col N="416" />
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>No.  It will be the earliest date possible.  It depends on the progress of business.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Is it the intention to order it after the conclusion of the Financial Resolutions moved by the Minister for Local Government?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Yes, I should hope we would be able to order it next week. The House will appreciate that there is an amount of business for this session which has to be done in this session and that that business must, of course, get priority over other business which, however important, is not subject to a time limit.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Can the Tánaiste say when the Supplies and Services Bill will be set down?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It has not been introduced yet.  It will be introduced next week.  It will, of course, be a simple Bill dealing with an extension of the Supplies and Services Act for another year.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>That is the danger&mdash;its simplicity.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I understand it has been arranged that on Wednesday next from 7.30 p.m. to 10.30 p.m. the matter of the Small Dwellings (Aquisition) Act will be discussed.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>That is right.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Deputy's Personal" RHead="Explanation">
+    <Title>Deputy's Personal Explanation.</Title>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Davin on a matter of personal explanation.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>At Question Time yesterday, in answer to what I am sure you, Sir, would regard as a relevant supplementary question addressed to the Leader of the House, the Tánaiste and Minister for Industry and Commerce surprised me when he said &ldquo;I want to take up Deputy Davin&rdquo;.  Deputy Davin was not in the business at the time at all, and he then went on to say that Deputy Davin had informed him that the Lower Prices Council wished him, the Minister, to receive a deputation with regard to egg prices and that the secretary of the council had <Col N="417" /> denied having made any representations to Deputy Davin.  I want, Sir, with your permission, very briefly to put the facts on record and to refute what I regard as an unfounded, unfair and untrue statement.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>A factual statement is all that can be made.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>On the 22nd August, at the request of the secretary of the Lower Prices Council, Mrs. Maureen O'Carroll, who is a cultured highlyeducated lady, a graduate of the university&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That is not denied.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>&mdash;&mdash;I met her at Leinster House.  She put before me the big file of correspondence which had been going on between the Lower Prices Council and the Minister for Agriculture in which it was finally stated that the Minister for Agriculture had no jurisdiction to deal with the request made by the council that there should be an investigation by the Prices Advisory Body into what was regarded as the excessive price of eggs.  I indicated to Mrs. O'Carroll at the end of the interview that, if she would confirm what she had said to me in the dining room of Leinster House, I would make representations to the Minister for Industry and Commerce. A few days afterwards I left for the conference at Berne and was absent for almost three weeks.  When I came back I received the following letter, which was subsequently sent to the Tánaiste, from Mrs. O'Carroll:</P>
+      <P>&ldquo;Dear Deputy Davin,</P>
+      <P>Further to our conversation on August 22nd, I am enclosing copies of the relevant correspondence between the Minister for Agriculture and the Lower Prices Council re the unjustifiably high prices prevailing for eggs in late 1951 and early 1952.</P>
+    </Speaker>
+    <P>As I pointed out at our interview, eggs have risen steeply in price since the middle of August.  For the week ending September 12th the price to the producer was 3/3 per dozen, the <Col N="418" /> dealer received 3/4½ and the consumer paid 5/3 to 5/6 per dozen.  In view of the foregoing you will, I am sure, agree with me that expeditious action is necessary in order to prevent a recurrence of the vicious exploitation of consumer and producer when the seasonal scarcity occurs.</P>
+    <P>You have seen the documentary proof regarding the prevailing prices at the time covered by the enclosed correspondence.  I also enclose some newspaper cuttings which show the amount of interest aroused at that time.  Yet, there was nothing done by either the Departments of Industry and Commerce or Agriculture.</P>
+    <P>I trust you will put the matter before the Parliamentary Party and that immediate action will be taken either to have a deputation from the Lower Prices Council received by the Minister or to have a public investigation.</P>
+    <P>Allow me to thank you on my own behalf and on behalf of the council for your interest and for the courtesy afforded me at our interview.</P>
+    <P Just="Right">Yours sincerely,</P>
+    <P Just="Right">Maureen O'Carroll.&rdquo;</P>
+    <P>A few days after I returned from the Berne Conference, I met the Minister for Industry and Commerce at his own request on the morning of 19th September, in connection with another matter. At the end of our discussion, which was a short one, I mentioned this case to the Minister and I gave him briefly an outline of the position as I saw it and suggested to him that, as Acting-Taoiseach, if this was not, in his opinion, a matter for further inquiry of action by the Minister for Agriculture he, as Acting-Taoiseach, should take the necessary steps to deal with this reasonable request.  At the end of that interview I walked across the road to the Labour Party offices and I dictated and sent by hand the following letter to the Minister:&mdash;</P>
+    <P>&ldquo;Dear Minister,</P>
+    <P>Confirming conversation of to-day concerning the contents of the attached communication and enclosures <Col N="419" /> from Mrs. M. O'Carroll, secretary of the Lower Prices Council, I should be obliged if you would, as promised, consider&mdash;</P>
+    <P>(1)  the question of receiving a deputation from the Lower Prices Council, or</P>
+    <P>(2)  referring the whole matter to the Prices Advisory Body for early investigation and report.</P>
+    <P Just="Right">Yours sincerely,</P>
+    <P Just="Right">W. Davin.&rdquo;</P>
+    <P>Mrs. O'Carroll was advised of what had been done in that regard on 30th September.  On 3rd October, presumably after investigation, the Minister addressed the following letter to me:&mdash;</P>
+    <P>&ldquo;Dear Deputy Davin,</P>
+    <P>With reference to your letter of the 19th September, 1952, with which was enclosed a letter from the secretary of the Lower Prices Council concerning egg prices, I fear no useful purpose would be served by an interview with the deputation from the council, as suggested.  You will probably be aware that, in the main, eggs are handled by dealers and wholesalers who must be registered, and it is incumbent on the wholesalers to grade and stamp all eggs handled by them.&rdquo;</P>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It is matter prior to the interview that is in question and not matter after the interview.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>When I challenged the accuracy of the Minister's statement that I had no authority to submit that matter to him he said: &ldquo;Check up with the secretary of the council.&rdquo;  I have done so.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I understood the matter was that Deputy Davin was asked by the association to which reference has been made to seek an interview with the Minister in regard to that association.  It is upon that I allowed Deputy Davin to make a personal statement.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>But after I denied this <Col N="420" /> the Minister proceeded to challenge the accuracy of my statement.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I will not allow any discussion on the price of eggs.  I will only allow Deputy Davin to put himself right with the House in showing that he was authorised by this lady to seek an interview with the Minister.  That is the only matter upon which I will allow him to make a personal statement.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>On a point of order.  Does it not arise that what the Minister raised here was matter subsequent to the interview and that the Minister introduced into the situation here a challenge that Deputy Davin was not authorised to act at all?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>What the Minister questioned was Deputy Davin's authorisation to make an appointment in respect of the particular association.  That is the only matter upon which I will allow Deputy Davin to put himself right with the House.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I bow to your ruling in that, and&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is no &ldquo;and&rdquo;.  It is straight-cut there.  The Deputy may put himself right with the House in respect of his authority by that association to make an appointment with the Minister.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>The Minister refused to accept my word on this matter yesterday and suggested that I should check up with the secretary of the Lower Prices Council.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I am allowing the Deputy to put himself right with the House in showing that he was authorised by the association.  Beyond that the Deputy cannot go.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I have checked up with the secretary of the Lower Prices Council.  She came to Leinster House last night to see me and repudiated in the most emphatic language the unfair, untrue and unfounded statement of the Minister that I had no authority to raise the matter with him.  I have <Col N="421" /> given sufficient information to the House to prove that I made representations to the Minister at the written request of the secretary of the Lower Prices Council.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>It appears from the letter which Deputy Davin has just read&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>And which you got.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>&mdash;&mdash;which was addressed to him by the secretary of the Lower Prices Council that I have unintentionally done him an injustice, an injustice which I am now anxious to rectify.  In explanation of my remark yesterday, however, I would like to say that&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>Why not leave it at that?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>&mdash;&mdash;following the letter which I sent to Deputy Davin on October 3rd, stating I understood that the Prices Advisory Body had been approached by the Lower Prices Council on the subject of a public inquiry into the price of eggs and that no doubt the body would consider whether a public inquiry was warranted, I received a memorandum of an interview between the vice-chairman of the Prices Advisory Body and the secretary of the Lower Prices Council and in that memorandum it was stated that the vice-chairman of the Prices Advisory Body understood that the Lower Prices Council&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>On a point of order. I understood the Chair to rule that the only matter relevant for discussion at this stage was the veracity, or otherwise, of the allegation made by the Minister in connection with Deputy Davin's authority to raise the matter. The Minister is now going into subsequent matter.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister is entitled to say what induced him to make the statement.  The Minister is entitled to put himself right with the House, too.</P>
+    </Speaker>
+    <Col N="422" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I will only take two minutes to do it.  The vice-chairman of the Prices Advisory Body said that the body understood that the Lower Prices Council had, through the medium of Deputy Davin, requested an interview with the Prices Advisory Body.  The secretary of the Lower Prices Council interjected that the council had made no such request to the Minister.  Later the secretary of the Lower Prices Council said that she was completely unaware that Deputy Davin had written to the Minister asking for an interview for the Lower Prices Council or for an investigation by the Prices Advisory Body.</P>
+      <P>It is clear now from the letter Deputy Davin read here that she had so requested Deputy Davin.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>Will the Minister take my assurance that that was so?  I do not go around talking to Ministers. That letter was sent to the secretary of the Lower Prices Council and at the last meeting it was approved and I was requested to press for an interview. That is why my colleague, Deputy Kyne, put down the question.  Does the Minister accept my word now?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I understood Deputy Davin to say that he received the letter that he read out here but I am drawing his attention to the fact that on 4th October, when the secretary of the Lower Prices Council was interviewed by the vice-chairman of the Prices Advisory Body, these statements to which I have referred, were made.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>But I sent the Minister the letter which I read.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Defence Bill," RHead="1951&mdash;Report Stage">
+    <Title>Defence Bill, 1951&mdash;Report Stage.</Title>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I move amendment No. 1:&mdash;</P>
+      <P>In page 13, to delete section 1 (2), lines 14 and 15,</P>
+      <P>Section 1 of this Bill provides that &ldquo;This Act may be cited as the Defence Act, 1951.&rdquo;  Subsection (2) which I propose to delete provides that:&mdash;</P>
+      <P>&ldquo;This Act shall come into operation on such day as may be fixed therefor by order of the Minister for Defence.&rdquo;</P>
+    </Speaker>
+    <P>
+      <Col N="423" /> I object to that provision in this Bill on a number of grounds.  First and foremost, under the constitutional requirements governing Bills and Acts, a Bill passed by the Dáil, and passed by the Seanad shall become law as and from the day on which it is signed by the President under the Constitution. That is the fundamental law dealing with Bills.  That particular article of the Constitution says that it shall, unless the contrary intention appears, come into operation on that day.  It further says in the same article&mdash; Article 25&mdash;that every Bill signed by the President under the Constitution shall be promulgated by the President as a law by the publication by his direction of a notice in <i>Iris Oifigiúil</i> stating that the Bill has become law. The ordinary requirements are passing by the Dáil, passing by the Seanad, signing by the President and promulgation by the President, and then the Bill becomes law.</P>
+    <P>I am aware that in complicated Acts dealing with many different matters a practice has developed of providing that a particular section of an Act may come into operation on a date to be fixed by the Government or fixed by resolution, or to be decided by the Minister or in some other way.  One can understand that practice in a complicated Act dealing with many things&mdash;insurance, for example&mdash;where it would be impossible to bring particular sections into operation until other sections had, in fact, been in operation.</P>
+    <P>I know&mdash;and I would like the Minister to deal with this point&mdash;of no simple Act which has been passed by this House leaving its operation to take effect on a decision of a Minister. I know of no precedent for it.  There may be a precedent but I am not aware of it.  If there is a precedent, it is a bad precedent.</P>
+    <P>After something over 25 years we are endeavouring now in this Bill to provide a new Defence Act, and when this is passed by the Dáil and by the Seanad and signed by the President it ought to become law.  I think this is important because there has been, for <Col N="424" /> some reason that I cannot understand, a nibbling into what one might term constitutional practice and constitutional usage, and that nibbling has gone on apparently without any sound reason.  I am taking the opportunity now&mdash;the first time I have got it&mdash;to object to it and to say that this Bill should become law, like any other Bill, when it is passed by the Dáil and the Seanad and signed and promulgated by the President.  If we leave that provision there a Bill that we might want to operate might not be brought into operation for one, two or three years, or more.</P>
+    <P>The Minister will indicate, of course, that he is anxious, and the Defence Forces are anxious, to have this Bill brought into operation as quickly as possible.  However, there are many slips between the cup and the lip; the very best intentions may become impossible of fulfilment, and we could be in the position that this House and the Seanad and the President all having carried out their constitutional functions, we could be still left without the operation of this particular Bill.</P>
+    <P>I raised this point and we discussed it on the Committee Stage and the Minister indicated a reason then for this particular provision.  He said:&mdash;</P>
+    <P>&ldquo;The Deputy will realise that regulations have to be made, and it is necessary to have a definite time for that.  They cannot be made until the Bill has been passed by the Oireachtas.  If the Bill came into operation on the day on which it was signed by the President, which would be the effect of the proposed amendment, there would be absolute chaos.&rdquo;</P>
+    <P>The Minister went on to say that the Army would require some time to study the Bill and to make regulations under it and that without these regulations the Bill could not be put effectively into operation.  The Minister obviously was advised that that was the position.</P>
+    <P>In studying the Bill more closely, I found that the draftsmen had made every provision for the coming into <Col N="425" /> operation of this Bill on the day on which it becomes law on promulgation by the President.  There are several sections specifically providing that every regulation in existence at the date of the passing of the Bill will carry on until such time as that regulation is suspended by new regulations. Every conceivable transitory provision has been provided.  Section 296 provides that all these regulations will continue in full force.  It says:&mdash;</P>
+    <P>&ldquo;Every existing statutory instrument shall be deemed to have been made under this Act and may be revoked or amended accordingly and, until so revoked and subject to any such amendment, shall continue in force.&rdquo;</P>
+    <P>There is no point in saying that time is required for the purpose of making new regulations.  The old regulations carry on and have full statutory effect.  There is provision in Section 295 dealing with existing Reservists. There is provision in Section 294 dealing with existing Regulars and that particular section covers almost four pages of provisions for the operation of the section.  Section 293 deals with existing Regular officers and existing Reserve officers, who are deemed to be commissioned under the Act.  Section 292 says that the existing permanent force and the existing nursing service shall, on the operative date, become and be the permanent Defence Force. The operative date for the purpose of the Bill is defined in the definition section as the date on which the Bill becomes law.</P>
+    <P>I would ask the House not to agree to this form of legislation, where a simple Bill&mdash;and I describe this as a simple Bill, a forthright Bill&mdash;dealing with the Defence Forces is in question. I ask the House to decide that there is no necessity for this nibbling into our constitutional procedure.</P>
+    <P>I have watched over a number of years and I see that once a nibble is made, whether it is successful or not, that nibbling is continued in subsequent Acts.  As I have said, here every conceivable provision for bringing this Act into operation on the day it is signed by the President is provided in the Act. <Col N="426" /> Consequently, there are no grounds for providing that it is not to come into operation until the Minister decides, by Order, to bring it into operation.</P>
+    <P>I think it is unwise to have legislation brought into effect that way.  I think it is bad.  It is a very bad precedent. I certainly object to it as strongly as I can.</P>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>I do not know if I am quite in order in adverting to this point but it strikes me that it is one we should consider.  This Bill was referred to a committee and a number of these points were dealt with in considerable detail.  I am in a certain amount of difficulty about how far one should go on the Report Stage of this Bill.  There is the possibility that the Report Stage can develop into simply a Committee Stage of the Bill.  If that happens there seems to me to be no justification for having had this prior committee to determine it.  I would like to have some idea as to what are the limits to which I am constrained in talking to this Bill and how far one can go on these amendments.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputies are entitled to express their opinions and indicate their attitude towards the amendment as far as they desire.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>In effect, we have the Bill recommitted again.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Oh, no.  The number of times a Deputy may speak is limited to one.  I will not say that the Chair will rule rigidly on that, but with that exception the Deputies are perfectly free to discuss the amendment so long as it is relevant.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>I have a great deal of sympathy with regard to this amendment. The more one sees of modern trends the more one is inclined to have sympathy with Deputy Cowan's general approach to this.  It is inevitable, under the conditions of modern organisation, I am afraid, that more and more discretion and more and more unfettered power tends to go into the hands of the executive.  So for that very reason it is more than ever necessary that the House should be jealous <Col N="427" /> of its ultimate prerogative to control the law in conjunction with the other House of the Oireachtas.</P>
+      <P>While admitting all that, one can see that there will be cases&mdash;I believe there always have been cases&mdash;where it will be necessary to postpone the coming into operation of legislation and where some provision will have to be made, some way or another, to effect that.  I have not looked up the precedents but I have a vague recollection at the back of my mind of having met them frequently.  I could, I think, mention statutes in the local government code and even certain provisions in the landlord and tenant codes and in other codes where the Act was not to come into operation until a subsequent date.  The date was sometimes specified but other times it was left flexible.</P>
+      <P>In this particular case it is perfectly obvious that the date upon which an Act of this nature should come into operation is a matter for consideration. First, there are certain preliminary steps necessary for the implementation of such an Act that cannot actually be taken no matter how they are planned until one knows for certain that they are needed.  To make these changes prematurely would involve a great deal of administrative inconvenience and, perhaps, expense.  Therefore, it seems reasonable enough to allow that the coming into operation of the Act should be postponed to some date after the date upon which the enactment of the Act is completed by the passage through both Houses of the Oireachtas and the necessary assent of the President. I would certainly go that far.</P>
+    </Speaker>
+    <P>The question is what is the way to do it after that.  There are several possible ways of doing it.  One is to bring it back for the passing of a motion in the House or something of that nature.  The other is to do what the Minister proposes to do in the Bill. The third possibility that I can see is to fix a date.  There is very little difference between the alternative I suggest, namely, bringing it back to the House in a formal way for a resolution or bringing it back to both Houses, which might involve some delay, and <Col N="428" /> the method that the Minister should do it by order.  The question of deciding the time for bringing in the Order and so forth will rest on the Minister while the House has some control over Ministerial Orders which are delegated legislation.  So that there is not an awful lot to choose between what one might call on-thesurface more correct procedure and the more direct procedure adopted by the Minister.</P>
+    <P>It remains to fix a date.  I can see a great deal of difficulty in the fixed date.  It will be either too soon or too late, one or the other is the inevitable result of fixing dates in a case like that. Perhaps Deputy Cowan's point might be met by something like this: &ldquo;This Act shall come into operation on such date as may be fixed therefor by Order of the Minister for Defence not later than one year after the passing of this Act.&rdquo;  That might possibly meet Deputy Cowan's difficulty in this matter.  Quite frankly, I do not think this is by any means one of the most arguable or objectionable provisions in this Act.</P>
+    <Speaker pid="OscarTraynor" hpid="Minister for Defence (Mr. Traynor) Oscar Traynor">
+      <NameTxt>Minister for Defence (Mr. Traynor)</NameTxt>
+      <P>I think the nibbling to which Deputy Cowan referred began a considerable time before the suggestion contained in this Bill was introduced.  If the Deputy did a little research&mdash;he is pretty expert at that&mdash;I think he would find that there were quite a number of Bills which did not come into operation until a particular date fixed by the Minister and that, of course, depended on the circumstances which confronted the Minister.  The circumstances which confront me in this case are such that I find this provision necessary.  My predecessor, who was responsible for and actually introduced this Bill himself, was similarly convinced and I can only reiterate what I said in Special Committee.</P>
+    </Speaker>
+    <P>When Section I was being debated in Committee, I gave two reasons why the operative date of the Act will have to be deferred for some time. The first was that the Army will have to be given a period to acquaint itself with the terms of the Act before it is brought into operation.  As I said, there will be absolute chaos if this is <Col N="429" /> not done, and I think nobody will dispute that.  My second point was that many new regulations will have to be made.  We have at present a considerable body of regulations and Orders of various kinds.  Many of these are capable of being maintained in existence under this new Bill, and they will be as far as possible.  Others are so tied up with the old Acts that it would only lead to confusion if they were retained in their present form when the old Acts disappear.  These regulations are actually being re-written at the moment, but they cannot be put into final form until we know what the final form of the Bill will be.  Then, like the Act itself, they will have to be circulated some time before they come into force, so that the Army can become acquainted with them.  They can be made and promulgated in advance of the operative date of the Act under Section 10 of the Interpretation Act, 1937.</P>
+    <P>Therefore, as I said in Committee, I envisage that the Act cannot be brought into operation for at least six months after it is passed.  The main reason for that is that all the administrative officers in the Army will need to acquaint themselves with the terms of the Act.  It must be agreed that while the Act is, as Deputy Cowan has said, a simple Act, it is an Act, nevertheless, to enforce a considerable number of rules and regulations which will be made under it.  Therefore, it is highly desirable to have this period. I am suggesting a period of six months. It may, perhaps, be longer or it may be less than that, because actually at the moment a considerable number of these regulations have been prepared as far as it is possible to prepare them and as this Bill progresses that type of work will continue.  But the final form in which these regulations will appear cannot in any circumstances be decided upon until such time as the Bill has become an Act.  So far as I can see, there are no grounds for the fears which Deputy Cowan appears to have in mind.</P>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I take it I am concluding?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I hope so.</P>
+    </Speaker>
+    <Col N="430" />
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I am sorry that a number of Deputies who are interested in army matters have not found it convenient to be here this morning.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>On a point of order. I would have spoken&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy McQuillan can intervene if Deputy Cowan gives way.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I have no objection.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Does Deputy McQuillan wish to speak now?</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Deputy Cowan suggested that other Deputies were not interested in this.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I did not.  I knew that Deputy McQuillan was here.  I said that I regretted that other Deputies had not found it convenient to be here this morning.  In the Committee Stage of the Bill Deputy McQuillan gave, as the records show, a great lot of time to the Bill, and I am sure he will give his considered views on quite a number of the sections which have to be discussed. I have approached this problem, first and foremost, as a matter of what I consider to be an important principle in relation to parliamentary procedure. It did not matter by whom this Bill was introduced or any similar Bill; I would object to such a provision. That is on the matter of principle. Perhaps some time somebody will consider the question of principle in relation to matters such as this and in relation to what I term nibbling at the Constitutional procedure and nibbling unnecessarily.</P>
+    </Speaker>
+    <P>The Minister said that this Bill was prepared by his predecessor, at least substantially, and that this particular provision was in it and was, in fact, introduced by his predecessor.  That does not give it any extra validity. The Minister and Deputy de Valera put forward a practical proposition. The Minister says that we must give the Army a chance of studying the Bill and a chance of preparing the regulations so that the new regulations will come into effect on the operative <Col N="431" /> date or immediately thereafter.  I think the Minister will find that in practice that will not and cannot happen.  No regulations can be made under the Act until it comes into operation. Between the date on which the President signs it and the date on which the Minister decides to bring it in, no regulation can be made under it by anybody.  It can be drafted, but the Minister could not sign the regulation or the Minister for Finance could not sign the regulation under that Act until it comes into operation on the operative date.</P>
+    <P>The Bill, as I say, provides a transitory provision whereby every regulation at present in force carries over and continues in force until new regulations are enacted under the Bill. Supposing all the regulations that are to come into operation under this Bill were all nicely prepared and ready to be released like a flood on the officers and soldiers of the Army on the date the Act came into operation or a couple of days afterwards, they would never flounder out of the weight of paper which would descend on them. That cannot be done, it is not sensible. Whether we let the Minister think over this Bill for three months or six months, it is only after he brings it into operation by an Order that, month by month, perhaps three months by three months, new regulations will be issued and it will, perhaps, be a period of three, four or five years before all the regulations that can be made under the Act are made&mdash;perhaps longer.</P>
+    <P>Obviously what the Minister will do if any gap has to be filled is, he will issue something like what is in the Act itself&mdash;that all regulations, unless certain specific ones, that are to be eliminated or left out will continue in full force and effect.  I know a case has been made on behalf of that particular sub-section.  It is not a strong case and I do not know at what date the Minister may decide to bring in the Act, but he will have the same difficulty the day he decides to bring it in as he would have if it became law in accordance with the constitutional provisions on the day the President signs it.</P>
+    <P>
+      <Col N="432" /> I say there is no reason advanced by the Minister that justifies a departure in this instance from what is the correct constitutional procedure.  As I said at the beginning, I am not aware of any precedent for a straightforward simple Bill like this to have a clause such as that in it.  I have been told if I carry out a research I will find it. Perhaps I will, but I cannot think of any precedent for it at the moment.</P>
+    <P>I do agree that in regard to landlord and tenant, where there are many different matters dealt with in a Bill, certain sections or provisions of that legislation take effect on a particular date or under certain machinery; and certainly in regard to some of the very big Bills that were introduced by the Minister for Industry and Commerce where certain sections of the Bill were left to come into operation sometime subsequent to other sections, that is perfectly all right, but I object on principle, as I say, to this nibbling.  All I can do as an ordinary Deputy is object to it and draw attention to it. If the House thinks it is of no importance that is a matter that the House may, perhaps, have to deal with at some time in the future when the nibbling has become bites, large bites.</P>
+    <P>Amendment put and declared lost.</P>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I move amendment No. 2&mdash;</P>
+      <P>In page 14, Section 2 (1), between lines eight and nine to insert the following:&mdash;</P>
+      <P>The expression &ldquo;civil offence&rdquo; has the meaning assigned to it by Section 168.</P>
+      <P>The purpose of the amendment is to define the expression &ldquo;civil offence&rdquo; for the purposes of Section 168 which relates to the trial of civil offences by courts martial.  The definition is considered necessary by the legal advisers.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I move amendment No. 3:&mdash;</P>
+      <P>&ldquo;In page 15, Section No. 2 (1) between lines 49 and 50, to insert the following:&mdash;</P>
+      <P>The word &ldquo;property&rdquo; includes money.</P>
+    </Speaker>
+    <P>
+      <Col N="433" /> The purpose of this amendment is to define the word &ldquo;property&rdquo; for the purposes of the revised Sections Nos. 154, 155 and 156 which it is proposed to insert in lieu of the existing ones.</P>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>There is only one point I wish to raise in regard to that. There are certain adaptations of existing definitions in other Acts which presumably we will agree to here.  Has the Minister examined this question as to whether this particular definition of the word &ldquo;property&rdquo; in any way raises possible ambiguity in the application of some of these later sections. This is simply a definition of the word &ldquo;property&rdquo; but when you turn to the provisions dealing with the actual cases where property comes in&mdash;and it particularly applies, I should imagine, where a question of larceny comes in&mdash; I take it that the Minister is satisfied all these things are consistent.  I myself have not examined whether they are or not and I presume they are, but if the point has not been specifically examined it will be as well to have it done.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I must of course presume it has been carefully examined because it has been in the hands of our legal authorities for some time and this is the only addition that was regarded as being necessary.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I move amendment No. 4:&mdash;</P>
+      <P>In page 16, Section 2 (1), line 20, to substitute &ldquo;books or property&rdquo; for &ldquo;or books&rdquo;.</P>
+      <P>The purpose of the amendment is to extend the definition of the word &ldquo;service&rdquo; in relation to service property. This amendment also arises from the proposed new sections I have mentioned.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I move amendment No. 5:&mdash;</P>
+      <P>In page 16, Section 2 (1), between lines 30 and 31, to insert the following:&mdash;</P>
+    </Speaker>
+    <P>The word &ldquo;steal&rdquo; has the same <Col N="434" /> meaning as it has for the purpose of the Larceny Act, 1916, and cognate words shall be construed accordingly.</P>
+    <P>The purpose of the amendment is to define the word &ldquo;steal&rdquo; as having the same meaning as for the purposes of the Larceny Act, 1916.  This definition arises from the proposed new Sections 154 and 155 and is in accordance with an undertaking which I gave the Special Committee.</P>
+    <P>Amendment agreed to.</P>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I move amendment No. 6:&mdash;</P>
+      <P>In page 16, Section 2 (1), to delete lines 33 to 37 and substitute the following:&mdash;</P>
+      <P>The expression &ldquo;the term of his original enlistment&rdquo;&mdash;</P>
+      <P>(a) in relation to a man of the permanent Defence Force who is enlisted under Section 53, has, subject to paragraph (d) of sub-section (1) of Section 63, the meaning assigned to it by section 53;</P>
+      <P>(b) in relation to a reservist who, having been enlisted in the permanent Defence Force under Section 53, has been transferred to the Reserve Defence Force under Section 70, has, subject to paragraph (c) of sub-section (2) of Section 63, a meaning assigned to it by Section 53;</P>
+      <P>(c) in relation to a reservist who is enlisted under Section 55, has, subject to sub-section (3) of Section 66, the meaning assigned to it by Section 55.</P>
+      <P>The purpose of the amendment is to include a revised definition of the expression &ldquo;term of original enlistment&rdquo; in connection with subsequent amendment which I am proposing for Section 63 and other sections.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 7 not moved.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I move amendment No. 8:&mdash;</P>
+      <P>In page 16 to delete Section 4 (1), lines 47 to 49, and substitute:&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="435" /> (1)  The Government, a motion specifically authorising them to do so having first been passed by Dáil Éireann, may by Order under this sub-section declare that a state of emergency exists for the period mentioned in the motion authorising the declaration.</P>
+    <P>This amendment provides an amendment of Section 4 and is in my view a very important amendment.  Under Section 4 the Government may, when they consider the circumstances are of such a nature to warrant their doing so, by Order under this sub-section, declare that a state of emergency exists.  I propose to delete that sub-section and to provide:&mdash;</P>
+    <P>&ldquo;The Government, a motion specifically authorising them to do so having first been passed by Dáil Éireann, may, by Order, under this sub-section declare that a state of emergency exists for the period mentioned in the motion authorising a declaration.&rdquo;</P>
+    <P>The Constitution makes provision for emergency situations and this section. as provided under the Bill, goes further than the constitutional powers of the Government in regard to an emergency.  The constitutional article is Article 28, which provides that each House of the Oireachtas, in the event of an armed conflict in which we are not engaged shall declare or resolve that&mdash;</P>
+    <P>&ldquo;arising out of such armed conflict a national emergency exists affecting the vital interests of the State and &lsquo;time of war or armed rebellion&rsquo; includes such time after the termination of any war, or of any such armed conflict as aforesaid, or of an armed rebellion, as may elapse until each of the Houses of the Oireachtas shall have resolved that the national emergency occasioned by such war, armed conflict or armed rebellion has ceased to exist.&rdquo;</P>
+    <P>That is the constitutional provision in the case of an invasion.  The Constitution provides the Government shall take such steps as may be necessary, and in the event of an armed conflict in which we are not engaged each <Col N="436" /> House of the Oireachtas may resolve that a state of emergency exists and, consequently, the Government are thus armed with very extensive powers.</P>
+    <P>This section of the Defence Bill goes much further than the constitutional provision and gives the Government power, whenever they consider the circumstances are of such a nature as to warrant them in doing so, by Order, to declare that a state of emergency exists.  There is, of course, the saving provision, if one may so term it, in the section subsequently, that every Order made under the section shall as soon as may be after it is made be laid before each House of the Oireachtas and be published in <i>Iris Oifigiúil.</i>  I think that democratic States, States existing under a democratic form of Government, should be very slow to invest the Government with power to declare a state of emergency, because when they do so declare a state of emergency, they become possessed legally of very extensive powers affecting the individual citizen.</P>
+    <P>If one studies the history of democratic countries which have become dictator countries, one sees how easily, when you have a powerful Minister in a Government who can influence the others, step by step, from a declaration of emergency, arrest of members of Parliament and deposition of lawful rulers that nation may be deprived of its democratic form of government.  It will be said to me that there is no danger in this country, that we are unlikely to have anybody in the country who would have ambitions to become a dictator.  That may be so, but I think it is wise not to make the path of such a person, if there ever should be such a person, too easy, and this is a section which concerns every citizen so vitally that it ought not be passed in its present form.</P>
+    <P>We can visualise the type of emergency the Constitution deals with. There is, first, the case of actual invasion in which the Government may do anything they think necessary, and even if there were no such constitutional provisions, the old principle of the safety of the people being the supreme law would apply.  In the second case, each House of the <Col N="437" /> Oireachtas may consider it reasonable, in the event of armed conflict near us, that the Government should be invested with these extensive powers, and they are very extensive, because the Constitution specifically provides that the Government shall be invested with these powers during a state of emergency.</P>
+    <P>What other situation could arise?  If there is a state of armed rebellion in the State, the Government are invested with powers to deal with it.  What other conceivable situation could arise whereby the Government would want to act before they had got the authority of Dáil Eireann so to act? It is not very difficult to call this House together.  It can be called together by radio and it can be called together by telephone, and there is a precedent for the calling together of this House in urgent circumstances in the past when Deputies were assembled by means of telegram.  I can visualise no situation in which the Government, as a Government would require powers to act beyond the powers given in the Constitution without the authority of this House.  I think it would be a grave surrender of the powers of the House to give the Government the power to declare an emergency and, having done so, simply to publish it in <i>Iris Oifigiúil</i> and then lay the Order on the table of each House.</P>
+    <P>This is a grave matter, a matter which, in my view, the House should consider very seriously.  When a state of emergency is declared, this House surrenders certain of its powers and hands them over to the Government for the time being.  They may be a good Government or a bad Government and it is generally the bad Government which will want to get this type of power and not the good Government; but, if we pass this section as it stands, we are giving a bad Government power to declare a state of emergency and invest themselves thereby with all the powers which a state of emergency means to them.  The Constitution, which is the fundamental law of the country, which was very seriously considered and which was passed into law by the people, provides certain powers for the Government, but even in the <Col N="438" /> event of an armed conflict adjoining us, the Constitution provides that a state of emergency cannot be declared unless the Dáil and Seanad by resolution decide that a state of emergency exists.</P>
+    <P>By the amendment which I propose. I want to provide that the Government may declare a state of national emergency, but only after a motion specifically authorising them to do so has first been passed by Dáil Éireann.  That is a constitutional protection and a necessary protection for the citizen. If we pass this section in the terms in which it is, without providing an amendment somewhat on the lines of my amendment, we are surrendering to a Government in the future vital powers, and we may be making it very easy for a bad Government&mdash;we cannot always have a guarantee of good Governments&mdash;to deprive the people of all the democratic rights guaranteed to them by the Constitution.</P>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>There is a lot to be said for this amendment, especially when we consider what a state of emergency might have been like 30 or 40 years ago.  I think that at present, however, it would not be practicable for a Government to call the Dáil and Seanad together in order to give the Government power to declare a state of emergency.  I know well that Deputy Cowan is anxious to safeguard the rights of this House and to see that the Constitution is properly interpreted, but it should also be one of the most important functions of the House to safeguard and protect, so far as possible, the lives of our people.</P>
+      <P>In peace times, having regard to the fact that the speed of sound has been exceeded, it is essential that a Government should be in a position to act at a moment's notice.  It may be necessary for a Government to declare a state of emergency overnight.  In modern warfare no warning is given. Deputy Cowan's argument would have applied when horses were used by infantry instead of tanks and when the only type of invasion envisaged would be swallows at a certain time of the year.</P>
+    </Speaker>
+    <P>I have great sympathy with Deputy <Col N="439" /> Cowan in his aim to protect constitutional Government.  I realise that it is giving great powers to whatever Government is in office.  If we weigh in the balance, on the one hand the necessity to give the Government a right to protect the people and on the other hand the possibility of there being a bad Government, we will have to take the chance and give the powers to the Government, whether it be good or bad at the time, to safeguard the country.</P>
+    <P>In Section 4 as it stands, power is given to the Government to declare a state of emergency and sub-section (4) states that every order made under this section shall as soon as may be after it is made be laid before each House of the Oireachtas and be published.</P>
+    <P>Having given the power to the Government to declare a state of emergency, if this House meets afterwards, there is no reason why an order that has been made cannot be revoked.  A day may be too long for the Government to wait in order to get power to declare an emergency. If the section is left as it is, the Government has power to declare a state of emergency immediately if it considers that desirable and the Dáil has power to revoke that order at a later stage.</P>
+    <P>There is a safeguard there for the constitutional Government and at the same time full power is given to the Government to take every possible step to protect the welfare of the citizens.</P>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>Perhaps it would be as well to see on what basic principle we have to approach this amendment. It seems to me to be this&mdash;we more or less agreed on this in Committee&mdash; that where it is a question of peace-time and the maintenance of the Defence Forces in peace, every effort should be made to the point of strain to maintain the civil law and the civil position and that either special penalties or special privileges or special provisions of any nature should be avoided as far as possible so that the one law will run throughout the whole land whether in respect of the Defence Forces or not.  That is during peace-time. <Col N="440" /> In short, the principle is to try to maintain the sovereignty, if you like, of the civil power to the greatest extent possible.  There is a whole history behind that.</P>
+      <P>On the other hand, when it comes actually to a state of emergency or a state of war, we have to realise that war is a savage, bloody, ruthless business, with no holds barred, a ruthless physical invasion on rights and everything else and, in that animal situation, the demands for self-preservation both for the individual and the community immediately become paramount.</P>
+      <P>Broadly speaking, in so far as any such general statements can be construed literally or accurately at all, these are the general principles upon which a Bill such as this must be faced. I realise that such general enunciations, by their generality, have defects but, putting it as I want to put it, in the broadest way, such was the policy in approaching the provisions of this Bill.</P>
+      <P>Where we are looking at it from the point of view of peace-time, the view which has twice been expressed by Deputy Cowan to-day in regard to other amendments is a very important one&mdash;and one, in fact, that cannot be lost sight of at any stage.  On the other hand, the view expressed by Deputy McQuillan which refers to the opposite of what is in Deputy Cowan's view at the moment, also has its value in its own perspective.</P>
+      <P>Let us see what this section and this Bill has to meet.  It has to meet the kind of in-between ground.  As Deputy McQuillan says, you have to visualise that dangerous borderland between allout emergency, or war and peace-time conditions, where the Executive must be free to take the necessary steps in what is actually emergency in the colloquial sense of the word.  Then you have to consider the point made by Deputy Cowan: in doing that you must be careful that you are not going to give the excuse or insert the thin end of the wedge that will enable somebody to invade completely on the civil authority and on the situation as it should be in time of peace.</P>
+    </Speaker>
+    <P>
+      <Col N="441" /> The practical problem is how you are going to achieve the balance between these conflicting requirements and I think the best way to do it is to try to visualise what is the situation.</P>
+    <P>In normal peace-time there is no case for giving power to a Government to declare an emergency.  If we are going on normally, without any immediate threat of physical force, I would completely subscribe to the view that such declarations should be confined to normal enactments of this Oireachtas. However, there may be a very severe threat.  There may, for instance, be a situation such as existed in August, 1939.  There may be a situation where the security of the State is actually threatened by a parade of Fascist Blueshirts in O'Connell Street as happened some years ago&mdash;I forget the actual year.</P>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>That was not the first threat.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>What are we discussing?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>The Defence Bill and the question of emergency.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>We are discussing the Defence Bill, 1952.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>Let us get back to the point I was making.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I think the Blueshirts were the best servants this State ever had.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That question does not arise under this Bill.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I took the opportunity of paying them a tribute when their name was mentioned.  Thanks be to God for the Blueshirts.  They saved the life of this country.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Deputy de Valera on the Bill.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>It is rather interesting to contrast Deputy Dillon's present statement with his attitude towards the Fascists during the war.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>The Deputy is being very helpful.</P>
+    </Speaker>
+    <Col N="442" />
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>The Deputy is being provoked.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Deputy de Valera got out at the wrong side of the bed this morning.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>Deputy de Valera made an unfortunate observation.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>The Deputy is choosing to pick it up.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>Let us get back to the Bill.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>There may be either an internal threat or an external threat not amounting to an all out national emergency.  A difficult problem arises.  The Government in office &mdash;whatever Government it may be&mdash; will not declare a general emergency or would not be justified in declaring a general emergency which would affect not only the Defence Forces as a whole but the entire community.  At the same time, the Government should take certain precautions such, for instance, as the Gárdai would take in local cases if they knew there would be a riot in some district or other.  In other words, there is no justification for a general emergency, but there is justification for alerting the Defence Forces.  One will agree that in such a situation it is right and proper the country should be safeguarded but under Article 28 of the Constitution, there cannot be a general emergency unless war is declared with the assent of the Oireachtas or unless there is actual invasion.  A general emergency can only then be declared through the proper action of the Oireachtas as provided for in the article we are discussing. On the other hand, there may be innumerable alarms before such a state of emergency arises requiring that each element of the State's forces be ready to deal with an emergency if it should arise.  That is all the more necessary in modern times as Deputy McQuillan has pointed out.  That is what this Bill attempts to do.  I think the justification for this section is that it should be possible and allowable for the Minister for Defence to alert the Defence Forces. In fact, we might go so far as to say that he should be able to alert his <Col N="443" /> Reserves in anticipation of a general emergency, either as a precautionary measure or as a measure to deal with something that has happened before the routine of the more general procedure could be put into effect.  I feel that that is what is intended.  In my opinion, anybody looking at the matter reasonably would agree that some such provisions should be necessary.</P>
+      <P>I have a feeling that some of the Deputies who objected to section 4 in Committee felt that it is going beyond the situation.  Section 4, sub-section (1) reads as follows:&mdash;</P>
+      <P>&ldquo;The Government may, whenever they consider the circumstances are of such a nature as to warrant their so doing, by Order under this sub-section declare that a state of emergency exists.&rdquo;</P>
+      <P>Such a state of emergency can only be a state of emergency for the purposes of this Act.  In any event, Article 28 of the Constitution is paramount and, no matter what we put into any Act, it cannot have any force or effect beyond that permitted by this Article of the Constitution.  After that, as a general principle of interpretation, the provisions for a state of emergency contained in this Act will not extend further than the scope of the Act. Generally they confer no greater or wider emergency powers on the Executive than those which it is intended to confer in relation to the Defence Forces.  They cannot imply general emergency powers for the community such as the application of martial law, mobilisation of industry or food production, wartime restrictions on trade or any of these national emergency measures which are regulated under Article 28 of the Constitution and derivative legislation.</P>
+    </Speaker>
+    <P>I agree there is danger in another sense.  Lawyers may later use this type of definition for argument in the courts in regard to the interpretation of similar provisions in cognate types of legislation or even in unrelated legislation. The courts may also look to such definitions, if relevant, in questions of interpretation, even where the subject matter differs radically from that of this Bill.  There may be a danger here, <Col N="444" /> but having regard to the force of Deputy McQuillan's point, this danger cannot weigh against the need for adequate provision for emergencies.</P>
+    <P>Broadly speaking, this state of emergency simply means a state of emergency for this Act or for people who are subject to it.  That justifies me in saying that this section simply provides for putting the Defence Forces into a state of emergency and that it has no broad powers of the kind which Deputy Cowan gives the impression he is visualising.  I admit that there is some force in the argument that Section 37 does extend the scope.  From that point of view we must say that the provisions of the Bill do encroach on the civilian population&mdash;persons not subject to military law.  The provisions in regard to billeting, for instance, may have the effect, and probably in one case at least will have the effect, if a state of emergency is declared under this section, of encroaching on the rights of those who are not subject either actually or potentially to military law.  There must, however, only be encroachment which is necessary and justifiable in the type of emergency that may have to be faced.</P>
+    <P>I would like to make another small point.  It is essential to realise in dealing with this section that we are dealing with a state of emergency for the purpose of this Bill&mdash;that it relates broadly, with relatively minor exceptions, to the Defence Forces and to people who are either actually or potentially subject to military law, that there is necessity for enabling the Government to prepare for a broader and more general emergency by alerting the forces and powers at its own disposal.</P>
+    <P>I move the adjournment of the debate.</P>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>Before the debate is adjourned, I should like to indicate to the Minister that I am thinking along the lines that this section is unconstitutional. I think it is only right that I should mention that now so that the Minister will have an opportunity of considering it.</P>
+      <P>Debate adjourned.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies' Business. - Public Authorities (Judicial" RHead="Proceedings) Bill, 1952&mdash;Second Stage (Resumed)">
+    <Title>Private Deputies' Business. - Public Authorities (Judicial Proceedings) Bill, 1952&mdash;Second Stage (Resumed).</Title>
+    <P>
+      <Col N="445" /> Question again proposed: &ldquo;That the Bill be now read a second time&rdquo;.</P>
+    <Speaker pid="GeraldBoland" hpid="Minister for Justice (Mr. Boland) Gerald Boland">
+      <NameTxt>Minister for Justice (Mr. Boland)</NameTxt>
+      <P>Before I intervene, I should like to hear a little more from some members of public authorities in relation to this matter.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Major de Valera Major de Valera">
+      <NameTxt>Major de Valera</NameTxt>
+      <P>There is nothing to be said for the Act as it stands.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That is Deputy de Valera's opinion in regard to the Act, not the Bill.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I do not like to raise the question of a quorum but there are very few here and I should like to hear some further views before intervening.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>We shall give them a call.</P>
+      <P>
+        <i>Notice taken that 20 Deputies were not present; House counted and 20 Deputies being present,</i>
+      </P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I should like, first of all, to congratulate Deputies who have spoken on this Bill on having approached the question objectively and in a constructive manner.  I think Deputy Dillon has rendered a service in bringing the Bill forward.  There is no doubt that everybody, who has any connection with the law courts or litigation, realises the hardships that the present position imposes in a great many cases.  Luckily, we do not have a great many cases of people injured by public authorities, but nevertheless, though the number of persons affected may not be very great, I think we should approach this question in the same way as most other questions relating to legal procedure would be approached&mdash;on the basis of what it is right to provide.</P>
+    </Speaker>
+    <P>There does not seem to be any reason why a public authority should be placed in a more favourable position before the law than any ordinary citizen.  The feeling I have always had in appearing for an ordinary citizen in <Col N="446" /> the courts as against a public authority is that the ordinary citizen is always handicapped, quite apart from the provisions of the Act.  The public authority has at its disposal a much better organisation and considerably more funds than the ordinary citizen. In a great many cases, the plaintiff in an action is a person of little or no means.  Litigation is quite expensive and the ordinary plaintiff is always in a more difficult position than the public authority who is resisting a claim.</P>
+    <P>To give an illustration of the point, take an ordinary motor-car accident&mdash; a running down case in which a citizen is injured.  The plaintiff must first of all have maps made of the scene of the accident.  If he has been injured he has to have medical evidence, not merely from his own local doctor but also from specialists to establish the degree of injuries which he has sustained. In other cases even more complicated and more expensive technical reports are required.  The onus of proof is always on the plaintiff, and thus the plaintiff has to obtain all this technical evidence and these reports before he can go into court.  All these things cost money.  A public authority going into court to defend a case of this nature has unlimited funds at its disposal to fight the case and is always able to get the best possible technical evidence that can be obtained, so that I think, quite apart from the provisions of the Public Authorities Protection Act, the ordinary litigant is already in a position of inequality before the law when he starts unless he happens to be a very wealthy private citizen or a corporation. I think it is, therefore completely unreasonable that, in addition to this handicap, the ordinary litigant will have to face the difficulties that are imposed upon him by the Public Authorities Protection Act.</P>
+    <P>I was very glad of the approach to this Bill shown by Deputy de Valera, who indicated that he realised the injustice of the present position.  I know that the Minister must also feel that the position should be remedied.  I feel that he readily realises that there is no reason why public authorities should be placed in a position where the public authority is above the law <Col N="447" /> as against the ordinary citizen.  I felt, however, from what Deputy de Valera said, that the Minister had some difficulties&mdash;difficulties that were probably raised by officials of his Department or possibly by the officials of the Department of Finance.</P>
+    <P>I should like to make this point to the Minister and ask him to consider it very seriously.  The case no doubt to be made by the Department of Finance or by the officials will be that if this Bill is passed it will result in higher expenses for public authorities, that a number of cases may be brought in the course of a year against the public authority that would not be brought if the plaintiff were deprived of his right of action at the end of a six months' period and by the repeal of this provision the State might find itself with an additional financial burden to meet in the course of the year.</P>
+    <P>That argument, I know, will be the argument which will appeal to the Department of Finance and naturally to a number of Government Departments but I would ask the Minister to examine that argument realistically.  I think that in the long run the Government and State Departments and public authorities would actually save money if this limitation were removed, if the Public Authorities (Protection) Act were repealed, because in practice any cautious solicitor or counsel will automatically advise the issue of proceedings immediately if he is consulted regarding a case against a public authority.  I know from my own experience that whenever I am consulted by a solicitor regarding an intended action against a local authority my first advice to the solicitor is: &ldquo;Issue your proceedings immediately.  We will examine the position in greater detail afterwards so as to ensure that the litigant, the plaintiff, will not be deprived of his right of action.&rdquo;</P>
+    <P>As a result a great many proceedings are instituted that otherwise would not be instituted.  Some of these are pursued to their logical conclusion. Others are not.  In most cases the litigant, the intended plaintiff, is a <Col N="448" /> person without means or without sufficient means to enable the public authority to recover costs subsequently. Therefore the fact that proceedings are instituted involves the public authority in expense that would not otherwise be incurred.  If this Act did not exist a great many cases in which proceedings are instituted would not arise.  Very often they might be settled by correspondence, correspondence lasting a few months or a few weeks.  In that way the institution of proceedings would not arise and costs would be saved to the public authorities that are incurred at present, solely by reason of the fact that the only way a solicitor can safeguard the interests of his client where public authorities are involved is to issue proceedings immediately.  I know that that has been my experience in a great many cases: to issue proceedings immediately solely by reason of the fact that the time limit was running against the litigant, and the litigant would be deprived of his right of action unless proceedings were issued immediately.</P>
+    <P>I would ask the Minister to take that into consideration if it is urged on him by the officials of his Department or of the Department of Finance that the repeal of this Act would involve additional liabilities on the part of the State or of public authorities generally. I think that in the long run it would actually result in economy from the point of view of the State and public authorities.  However, I mention that because I feel that that can be the only basis upon which there could be any departmental objection to the repeal of this Act.  I do not think that that is a consideration which should weigh with the House and with the Minister. The consideration which should weigh with the Minister and the House is that the Act, in fact, enables an injustice to be done to the ordinary citizen, and in most cases to the citizen who is not in a position to fight a case properly.</P>
+    <P>I have come across a great many cases in which litigants were deprived of their rights.  I remember one particular case of a young girl who had, in hospital where she was undergoing treatment, received an injury to her <Col N="449" /> eye through the negligence of some of the hospital authorities.  She remained in the hospital where she was undergoing other treatment for seven or eight months after she had received the injury to the eye.  She did not institute proceedings.  She lost the sight of her eye completely.  Naturally, at the time when she was in hospital, she was not considering the necessity of starting proceedings against the hospital and even if she had thought of it she would not have felt very much like starting an action against the hospital authorities while she was still a patient in the hospital.  This girl lost the sight of her eye and lost her right to any kind of action as a result.  The most common case, of course, is the case relating to a motor accident.  Is there any reason why if a child is knocked down by, say, a police car or a car under the control of a public authority that that child should be deprived of his right of action at the end of six months?  Very often the injuries sustained by a child or an adult do not become manifest or apparent for some months or even years after the injury has been received.  As Deputy de Valera said, we have yet to learn of any reason, any concrete reason, why a public authority should be placed in a position of inequality before the law in order to be able to deprive the ordinary citizen of his ordinary rights.</P>
+    <P>I would, therefore, ask the Minister to consider this thing very sympathetically and agree to the repeal of the Public Authorities (Protection) Act.  I know that the Minister may say, if he is influenced, if pressure is brought to bear upon him from his Department or other Departments, that there does not seem to be a tremendous public outcry about this or public demand.</P>
+    <P>Of course there is not.  The number of people injured in motor accidents by motor-cars belonging to the State or public authorities is small and is not an organised body of opinion.  But nevertheless I am sure that if the Minister inquires from anybody in the legal profession&mdash;a solicitor, a member of the Bar or a judge&mdash;he will find that there is a unanimous view that this <Col N="450" /> piece of legislation with the strange history which attaches to it, and which Deputy Dillon recited the other day, does perpetrate an injustice on people who are not in a position to fight back, and, therefore, I would ask the Minister to take this step and rectify the position.</P>
+    <Speaker pid="SeanFlanagan" hpid="Mr. S. Flanagan Mr. S. Flanagan">
+      <NameTxt>Mr. S. Flanagan</NameTxt>
+      <P>I should be very glad to be a member of the House which was responsible for repealing the Public Authorities (Protection) Act, 1893.  I can only hope that the Minister will agree to repeal that Act in full. If he cannot see his way to do so, then, of course, I will vote for any change in favour of the ordinary citizen in my desire to remove an iniquitous privilege of public authorities.</P>
+      <P>I have listened most carefully to every word uttered during this debate, which began the other evening.  The Minister must be convinced that grave injustice has very often been done to private citizens as a result of the operation of this Act.  I listened carefully to Deputy Major de Valera the other evening.  I think that he could not find any concrete reason why the protection, or any protection other than that accorded to the ordinary citizen, should be accorded to a public authority.  I cannot find any such reason either.</P>
+      <P>I wish to endorse what previous speakers have said and urge the Minister to go as far as he possibly can in the direction in which this Bill aims.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>The Bill, which was introduced by Deputy Dillon, seems to be understood by those Deputies who are members of the legal profession. All those who have spoken on it so far are legal luminaries.  It will be interesting to hear the Minister's views, as a layman, on the matter.</P>
+    </Speaker>
+    <P>I am a member of a local authority and I think it would be no harm if, to some extent, a different view point were put forward from that which so far has been indicated.  I wonder if, before he introduced this Bill, Deputy Dillon had any consultation with the chief executive officers who administer the affairs of local authorities in this <Col N="451" /> country.  I wonder if he had any consultation with county managers, secretaries of county councils or other such important persons who fully understand the necessity for the protection that is afforded by this Act.  It is possible that the six months set out is too short a period and that, if the Minister is considering amending the Bill in any way in the future, he should extend the period to a limited period of a year or 18 months.</P>
+    <P>Without some such protection as is afforded by the existing Act, local authorities would find themselves in the courts, day in and day out.  Their work would be seriously restricted from day to day if they had not some protection.  Unfortunately, very many members of the public consider local authorities fair game for legal actions if there is an easy way of bringing these actions.  They are considered a body without a soul.  The local authority and the ratepayers will have to foot the bill if actions are brought successfully against them.  All that must be borne in mind.  Those who are members of a local authority and who have had some experience of the types of actions which were brought against local authorities&mdash;and of the many hundreds of others that would be brought against them if the protection in question were not there&mdash;have a duty to consider this matter very carefully.  We know that there are people who would be willing to take action against a local authority if they were not liable for the costs and if they thought there was any easy way of sustaining their action against the local authority.  It would, therefore, from the local authority point of view, be very dangerous if they had not some protection.</P>
+    <P>Deputy Dillon has probably given some consideration to this matter but I doubt if he has consulted those people who have more experience than he has in this connection.  I doubt, also, if he has consulted people who are close to the everyday working of a local authority and who fully appreciate the possible repercussions of this Bill.</P>
+    <P>While Deputy Dillon was Minister <Col N="452" /> for Agriculture in the inter-Party Government he was responsible for the Local Authorities (Works) Act.  The Local Authorities (Works) Act left the local authority more vulnerable to action than probably any piece of legislation that existed before it came into operation.  Under that Act, a county council is empowered to go in on anybody's land and to drain it without the authority of the owner. The county council may ride roughshod over the objections of the owner and, as has happened in many cases after draining land, they may deprive the owner of water on his land.  Unfortunately, many farmers have been deprived of water on their land and, as a result, some actions have been taken against local authorities while many others have been threatened.</P>
+    <P>If there were a big time lag such as that which Deputy Dillon desires&mdash; a time lag with no limit&mdash;it is not unlikely that, after ten years, persons could take action against a local authority and fully satisfy the court as to their complaint.</P>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Deputy has not read the Bill.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>I have, of course.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Section 1 very specifically provides a limit.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>A saving limit.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>It does, expressly.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>I do not want to pursue the matter further.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>But I do.  The Deputy says no limitation is proposed in the Bill.  I tell him that there is.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>There are very many instances in which local authorities need protection.  During my time as a member of a local authority I have known 300 or 400 instances where, but for the present Act, action would have been taken&mdash;unjustifiable action in many cases.</P>
+    </Speaker>
+    <P>Deputy Costello mentioned that he was very interested in a particular case where, he thought, a big injustice was done.  A building was damaged as a <Col N="453" /> result of the use of heavy machinery in its vicinity by a local authority. Another thing that could happen just occurs to me now.  Suppose a local authority repairs a road without machinery and that, as a result of the repair of the road, very heavy lorries carrying, say, up to 30 tons proceed over that particular roadway which they have never used before.  As a result of the heavy traffic on that roadway, the foundations of a building in the immediate vicinity may be shaken or damaged.  The local authority repaired the road without the use of heavy machinery and thereby made it possible for a lorry carrying, say, 30 tons to pass over it.  The heavy traffic, as I have said, may shake or damage the foundations of a nearby building. Does Deputy Dillon consider that it would be fair that a local authority should be liable for damages in such a case?</P>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>An action there would lie against the owner of the lorry.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>Then there is the matter of water rights.  This year we had a very dry summer.  Fifteen years ago a local authority took water from a rather large stream and, because of the dry summer which we have had this year, the level of the water in that particular stream fell so low that the riparian owners or the people living along the stream had little or no water for their stock.  They were contemplating taking an action against the local authority&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That was done 15 years ago?  There is nothing in this Bill empowering them to do that.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>One hundred and one cases could be quoted to justify the absolute necessity for some protection for local authorities and also for some very reasonable limit.  Those Deputies who are lawyers and solicitors have had experience of many such cases in the courts.</P>
+    </Speaker>
+    <P>We all appreciate that, from the point of view of the members of the legal profession, they are interested in the opening up of new fields such, <Col N="454" /> for example, as we have in the case of running-down actions.  I believe that if this were opened wide it would do serious damage to local authorities.</P>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I do not want to interrupt the Deputy but may I say that I think a great many actions are started now against local authorities that would not otherwise be started if it were not for the fact that every legal practitioner, the minute he sees a possible claim against a local authority, says: &ldquo;Institute proceedings at once.&rdquo;  These proceedings would not be instituted if there was more time to negotiate and settle.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>The legal profession will always institute proceedings against a local authority if they get any opportunity at all because the local authority is regarded as a good mark. That is a well-known fact.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I think it works the other way.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>There is nothing wrong about that.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I think there would be everything wrong about it if it were true, but it is not.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>I would ask the Minister, before he agrees to anything, to consider very carefully the interests of local authorities.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>The interpretation of this Bill may be misunderstood by certain members of local authorities. Anyone who is a member of a local authority realises that, in the main, he, as a member of the local authority, has absolutely nothing to say as to what litigation is to be defended by that local authority.  The matter is dealt with by the legal advisers and officials of the local authority.  I think that very great hardships are inflicted on the public as a result of such litigation. I have found in very many instances that the legal advisers of county councils and urban councils can educate town clerks and other officials in the art of procrastination in order to get over this limitation.  I have <Col N="455" /> found, in several instances, cases in which people have been ridden out of their justifiable actions against local authorities by those people who are astute enough to get them beyond the six months' limitation.</P>
+      <P>I do not see why a local authority, if some of its servants have done wrong or have been negligent in the performance of their statutory duties, should not be liable for the acts of its servants in the same way as any other corporation or firm would be.  It may be suggested that the ordinary limitation of six years is too long.  I do not think so.  There have, of course, been precedents established in this House as regards litigation by local authorities. You have, for instance, the Local Authorities (Works) Act and other statutes which lay down a much shorter period of limitation than that obtaining in the case of an ordinary individual or corporation.  Taking the picture generally, I do not see why local authorities, as far as actions of this type are concerned, should be put in any special position.  As I have said, hardships have been occurring as a result of this limitation.  There is no justification for that these days.</P>
+      <P>Some Deputies have said that, possibly, this Bill would lead to further litigation as far as local authorities are concerned.  It has been my experience, and also, I am sure, of many other people, that the public, in general, are afraid to commence litigation where local authorities are concerned because they know that if they do they are up against the might and power of the local authority with unlimited money at their disposal and of their legal advisers.  They have that money evidently for the purpose of fighting litigation, and have at their service hosts of engineers and experts.  You invariably find, in cases of this kind, that a poor countryman, who is not in a financial position to fight a local authority in the courts, will be very chary of taking an action against it.  He knows that if he does he is going to be up against the might and power of the local authority.</P>
+    </Speaker>
+    <P>It has been my experience that I <Col N="456" /> have seen a local authority pursue absurd litigation to the bitter end. That has been done by its legal advisers.  The local authority, itself, had no say at all in the matter.  I have seen cases in which a local authority concerned litigated all the way up to the Supreme Court.  Such a case would not be litigated to that extent at all if it was a private individual was concerned.  The same thing occurs in the case of State Departments which also, of course, have unlimited wealth and power at their disposal.  It is my opinion that these expensive trips to the Supreme Court would never have been taken if they were concerned with the affairs of an ordinary citizen with his limited resources.  I thought, from time to time, when this matter was raised that local authorities would not plead the statute just as certain people will not, in conscience, plead the Gaming Act or the statue of limitations, I think that, in every case in which a local authority is concerned, if it can take advantage of the Public Authority Protection Act it will do so, irrespective of what injustice is done to the unfortunate man concerned, or what loss he suffers.  It does that because it is in a position to plead that Act and because the unfortunate man concerned had not, perhaps, seen his legal adviser in time.  It will bluff him out of his claim by correspondence through its legal adviser or officials.</P>
+    <P>I have been considering whether some special limitation should be imposed in this matter.  I do not see why any special limitation should be imposed outside the ordinary limitations that exist in connection with these matters generally.  The way that I look at the matter is that, even though a local authority may suffer some hardship in some case, it is far better able to bear that hardship than an ordinary member of the public.  It may be suggested that there should be a special limitation for local authorities in order to give them an opportunity of budgeting for possible claims or of striking a rate to enable them to cover claims envisaged over a particular period.  We all know that, where a local authority is concerned, in matters of this kind it is covered by <Col N="457" /> insurance companies.  Therefore I do not see why it should be put in any special position.  I think that the six years should apply to it as well as everybody else.  In view of the fact that insurance companies will be concerned in the case of local authorities I think the ratepayers will not stand to suffer any hardship as a result of this Bill going through.  I suggest, therefore, that when the Minister is considering this matter he should wipe out this particular protection given by this Act and leave local authorities in the same position as the ordinary citizen.  There is no reason why a local authority, with all its officials and servants in these days, should not be sufficiently diligent in looking after any matter that might occur, and there is no reason why they should be put in a special category in relation to matters of negligence, and so forth, which every other company, corporation and individual has to meet.  I support in general the principles outlined in this Bill.</P>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>Does the Minister want to say something about the Bill to-day?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>Not particularly.  Naturally I am anxious to hear what the Deputies have to say first.  That has always been my attitude.  The Government, of course, has its point of view.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I was about to suggest that possibly the Minister might like more time to think the matter over.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I think I may as well say something now.  First of all, let me say at the outset that I have never been a member of a local authority but I have been an employee of a local authority.  If I have any bias it would be towards the employees.  I feel there must have been some reason, apart from those Deputy Dillon gave us last Wednesday, for a measure of this kind in 1893.  Deputy Dillon gave me the impression&mdash;perhaps he did not intend to give it&mdash;that he himself thought <Col N="458" /> that the 1893 Act was the first Act of the kind giving special protection to local authorities.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>No.  It repealed 108 Acts which had given special protection.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>Almost from the time local authorities started to function there was apparently a certain amount of protection in the way of limitation of time and so forth.  I am perfectly satisfied that six months is too short. If a new Bill is introduced, and I think it ought to be, I think the provision should run from the time when the damage becomes apparent or from the time when the cause of action accrues rather than from the time it actually happened.  The idea of an official being in a position to talk a man out of his rights through the medium of prolonged negotiation is preposterous and should not be allowed.  That is the way I feel about it.</P>
+      <P>In connection with costs, I do not think local authorities should be entitled to any more costs than is the ordinary citizen.  A claim should not lapse because of any disability such as in the case of a person of feeble mind or in the case of an infant.  The Government, however, is not prepared at this stage to accept a simple repeal of the 1893 Act.  I am prepared, on the other hand, to bring in as soon as possible an amending Bill.  I think that should be satisfactory.  I have dealt with the outstanding points about which there is complaint.  I agree the time limit of six months is too short. Deputy Dillon holds that the limit should be the same as that governing the case of an ordinary individual.  I do not agree with that because a local authority is not quite like an individual. A local authority acts in the public interest.  There is no question about that.  Possibly pre-1898, when grand juries ran the country, things may have been done in the interests of the landlord class and so on but I do not think that argument holds good any longer.  There is full franchise now.</P>
+    </Speaker>
+    <P>It is only right to say that local authorities act in the public interest, generally speaking.  As a rule individuals <Col N="459" /> act only in their own interests. We all have to surrender some of our rights to the public good at certain times.  The average man or woman feels that he or she should go after their own specific rights all the time whereas a public authority is acting in the interests of the community as a whole.  I think local authorities are in a special position.</P>
+    <P>I agree that the Act as it stands is indefensible.  I do not know how it has lasted so long.  It must have been because no complaints were ever made. Certainly there were no complaints to the Government of which I was a member from 1932 onwards.  There may have been complaints to the last Government.  That may be the position. Obviously the reason why there was no question of amendment up to the present time is because there was no volume of complaint.</P>
+    <P>When we first came into Government in 1932 an action could not be taken against the State if an individual was run down by a State car.  I am not sure when we passed the particular Act governing that circumstance, but we made the State liable for the first time, for injury done to private citizens by State cars.</P>
+    <P>There is need for drastic amendment in the present instance but not, I think, for outright repeal.  If Deputy Dillon is willing to withdraw his Bill and wait until I, or some other Minister, brings in a proposal for substantially amending the 1893 Act I think that would be the most satisfactory way to deal with the position.  We can then have a full debate on the matter.</P>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I do not like that &ldquo;some other Minister&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I think it is a matter for Local Government.  This Act deals mainly with local authorities.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>If it comes within my purview I will certainly introduce the Bill.  I feel, however, that it should be the prerogative of the Minister for <Col N="460" /> Local Government.  Some Minister will have to bring in a Bill as soon as possible. I think that ought to satisfy Deputy Dillon.  It is quite clear that there is agreement on both sides of the House in connection with this matter, but I do not think a simple repeal is the proper way to deal with the position. Deputy Dillon, as usual, amused me because of his rather exaggerated way of making a case.  When he started off with all that detail about Westminster&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That is the history of the passage of this Act.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>&mdash;&mdash;it was done in such a dramatic and humorous way it amused us all.  I think it was exaggerated.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That is the literal truth of the passage of the Bill.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I was never an admirer of the Mother of Parliaments but, if they did things in the way Deputy Dillon described them, I wonder how the old Irish Party stuck it so long.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>They had to stick more than that.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>If that is the way they did business I do not know what sort of parliament it was.  It would not happen here.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Since no other Deputy wishes to speak I will now call on Deputy Dillon to conclude.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I certainly do not withdraw the Bill.  The Minister expressed surprise that this matter was never dealt with in the 30 years' existence of our own Parliament and feels that, if such urgent need existed, steps would have been taken sooner.</P>
+    </Speaker>
+    <P>The reason steps were not taken sooner was that people give up trying to take steps, because when you do, the very considerable labour which the preparation of a Bill of that kind involves in research and reading blue books and looking up the history of the legislation which it is sought to <Col N="461" /> amend or repeal and present the measure to Parliament, you are met by the obfuscated and exasperating attitude of the Civil Service, whose advice always is &ldquo;do nothing&rdquo;. There is one certain safeguard that they have: it is to do nothing; that things have been as they are for the past 50 years.  Now, a lot of little people have been ground under the wheels of this Moloch.</P>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>That is not fair.  It has not been my experience.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I know perfectly well what will happen.  We will be told that as soon as may be a Bill will be introduced.  Look at the legislative programme of the Government and tell me at what stage is the Government Chief Whip going to provide time to discuss a Bill to amend the Public Authorities (Protection) Act with the Minister for Industry and Commerce roaring for time, the Minister for Local Government roaring for time, and the Minister for Defence with a Bill with 208 amendments in front of him.  At what stage do you imagine the Government will apportion Government time to deal with a Public Authorities Protection Act (Amendment) Bill?</P>
+      <P>I was not a member of the Government for very long, but I know perfectly that the prospect of any such Bill getting within shouting distance of the agenda of this House is as contemplable as that of a snowball long surviving in hell.  It is just for that reason that, probably foolishly, I devoted a great deal of time and worry to trying to get the background in history of this Bill and arranging for the submission to the House in Private Deputies' time of a simple measure which would remove that injustice to a great many small people who have not anyone to talk for them.</P>
+    </Speaker>
+    <P>I got a letter this morning and let me read it for the House.  There is nothing very dramatic in it, but it will give the House an illustration of the fact that the public authority under the Public Authorities Protection Act is <Col N="462" /> not necessarily a county council or a board of health or anything of that kind.  It can be any Department of State, any Department of the Government. Let me read the story of this simple citizen:&mdash;</P>
+    <P>&ldquo;A man owns and operates two lorries for the purpose of dealing in turf and coal.  On the 8th December, 1951, he was coming up the Quays loaded with coal and when passing Butt Bridge a car driven by a Garda officer approached at right-angles and collided with him.  The Garda officer admitted that he was at fault and the fact that the man was not prosecuted in relation to the incident is proof that such was the case.  His insurance bore a £5 excess and it earned a 30 per cent, no claim bonus. He wrote to the Garda authorities and the papers in connection with the claim were sent up and reported upon by the Gardai of the district where the man resided.</P>
+    <P>It never occurred to the man or to ourselves here that the matter was going to be questioned and anyhow we never thought of the Public Authorities Protection Act, and in the circumstances we assumed that it was a question of great bodies moving slowly.  When the Gardai were finally asked to settle, they repudiated liability and the claimant's solicitor was subsequently informed that the Public Authorities Protection Act applied and that as more than six months had elapsed no action could be brought.</P>
+    <P>The insurance company which covered the man pointed out that it was admitted that it was not he who was responsible for the accident and that they would not pay, but they would note the fact that he had had an accident and would he please send them a cheque for the 30 per cent, no claim bonus which he had hitherto enjoyed.&rdquo;</P>
+    <P>The net result of that man's collision with the public authority was that the public authority paid nothing and his own insurance company increased his premium by 30 per cent.</P>
+    <P>I am told that I should drop this matter and let it ride.  Why should Oireachtas Eireann drop something <Col N="463" /> when it is possible to do justice, to effect a necessary reform?  what hardship can possibly accrue to any local authority from its being placed in exactly the same position as everyone of us stands in here, no more than that, no less?  If any one of us wanted to claim a special exemption from the ordinary Statute of Limitations which governs relations between all citizens of this State, would not we be expected to come to the Oireachtas and make a case why we should be exempted, individually or as a class?  All I am suggesting is that we should put local authorities in the same position as every other legal person in the State, with no restraint upon the local authority to come to this or any subsequent Government and make a case why they should be taken out of the condition which obtains in respect of everybody else and given a privileged position.  If they can make that case, then let the responsible Minister introduce a Bill giving them a limitation of one year, two years, four years, or whatever period he thinks well.</P>
+    <P>I want to warn the Minister for Justice against this danger.  It is a very understandable thing, from a cursory survey of the cases, to say that we think that the Statute of Limitations in respect of public authorities should not be allowed to run except as from the date on which the damage manifests itself.  Does the Minister realise that if that provision were inserted categorically it might mean to abolish the Statute of Limitations altogether?  A man might come along with &ldquo;rheumatics&rdquo; in his sixty-fifth year and say that this was the direct result of a blow received from a watering cart when he was playing on the street 47 years ago&mdash;and a very strong case might be made for that thesis.</P>
+    <P>I beg of the Minister for Justice not to rush lightly into the arena of legislation but rather to seek to place the public authority in the same case as the ordinary citizen, leaving it to the acccumulated wisdom of the case law of the courts to determine in each specific case what justice requires to be done.  It is an extremely dangerous <Col N="464" /> thing by statute to seek to rectify specific anomalies as they present themselves to the Legislature, because the Legislature may go in quite the wrong way about devising a remedy and when they have devised the remedy the courts interpret what the Legislature meant to do and very frequently come to the conclusion that the Legislature meant to do the exact opposite to what the Legislature was trying to do.</P>
+    <P>I am asking him, without going into details of that character, simply to take the public authority and say that it is the same&mdash;the county concil or the Government Department&mdash;as the Imperial Tobacco Company, the Imperial Chemical Company, Pat McNulty, William Taylor, McBirney and Company or any other legal person in this State.</P>
+    <P>I want him to say simply that all are equal before the law, that all have equal access to the courts, that all are assured of the same protection, that none bears greater liability than the other, and all should benefit by the accumulated wisdom of case law of the years of various kinds of action from time to time being brought to the court for adjudication.</P>
+    <P>Is there any means of persuading the Minister that, in fact, what his advisers are doing is this.  They know, when the British Parliament set its hand to the amendment of this Act, instead of substituting uniformity of the Statute of Limitations for all parties it substituted, I think, a twoyear period for the six months' period in the Public Authorities (Protection) Act.  I think the Minister's advisers have substantially said to him what he said here to-day: &ldquo;When this Public Authorities (Protection) Act was first passed there must have been a reason for it.  You want to know what that was before you go to seek the way.&rdquo;</P>
+    <P>The reason alleged for it was to produce uniformity in respect of the various Statutes of Limitations that had been created by Parliament since Magna Carta, and, therefore, the Public Authorities (Protection) Act of 1893 repealed 108 old statutes and for <Col N="465" /> the various limitations substituted six months for two years.  The alleged justification was that it was codification of the law and no more than that.</P>
+    <P>If you examine the history of the legislation you will know that Parliament was misled.  The Bill was never debated.  The courts, by their own interpretations, debarred themselves from inquiring, by reference to the debates of the Legislature, what the Legislature was trying to do.  They must simply take the text of the statutes, and in accordance with the established rules of interpretation, determine what they meant.  Having determined, in accordance with the rules of interpretation, what the statute means they apply it. The courts have taken the Public Authorities Protection Act and, on the assumption, which their own rules of interpretation compel them to accept, that the Legislature knew what it was doing and meant to do what it said it was doing, they applied the Public Authorities Protection Act.</P>
+    <P>It is perfectly certain that the Legislature never meant to do any such thing, but we are not bound to legislate by the rules of interpretation which bind the courts.  It has ever been the remedy, where the courts have gone wrong in their interpretation of the Legislature's intention, to take seisin of the matter again and to pass a definitive Act, an explanatory Act. There are several such Acts on the Statute Book, which set out that, &ldquo;notwithstanding the decision in such and such a set of circumstances, the Legislature now declares,&rdquo; and they proceed to correct the interpretation which the Judiciary have given to previous legislation.</P>
+    <P>What I am asking the House to do now is to sweep away this whole mountain of unjust law that is being built up on Carey's Case by this old puddin' head Lord Halsbury who understood neither the Public Authorities Protection Act nor anything else. He was responsible for the Act himself and is on record as saying that the meaning of this section is perfectly clear but every other judge that ever considered the matter said that the section is wholly incomprehensible.  But they have followed, as is the practice <Col N="466" /> of the courts, the decision in Carey's Case and that is the accepted interpretation put upon the Statute by Lord Halsbury who himself introduced the Statute, misrepresented its contents and who manifestly did not know what it was all about.</P>
+    <P>Those are the facts.  There is no escaping them.  Surely to God we are not so hide-bound in this country that simply because wrong has been done for 50 years we quake at the idea of putting it right?  The Minister speaks contemptuously of the Mother of Parliaments.  She has been functioning for seven centuries but she shows more enterprise and courage in dealing with this matter than our young institution. She has grappled with it but we have to contend with the influence of obscurantist interests such as Deputy Allen represents, although Deputy Allen did not know what he was talking about.  He wanted to take a feather out of my tail.  I know that but he had not the faintest notion of what was in the Bill or of anything about it.</P>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>Lord Halsbury!</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Himself and Lord Halsbury would make very nice bed fellows in respect of this measure.  The fact is that when an effort is made to do what everybody on every side of the House agrees ought to be done, this young and energetic Parliament, for which the Minister has such veneration and respect, proves itself to be a great deal less effective than the venerable cripple at Westminster, which at least has done something.</P>
+      <P>I suppose, when parliamentarians have been in public life for a long time, they get a bit cynical.  The Minister for Justice knows just as well as I do that he has as much chance of getting the Public Authorities Protection Act amended by legislation introduced by the Government as he has of leaping over the steeple of Findlater's Church in a standing jump.</P>
+    </Speaker>
+    <P>To begin with, he will have to get the Bill through the Department of Finance.  There would be a fight that 40 could join in because every public vehicle for which the Department of Finance is responsible would now cease to have the protection of this <Col N="467" /> Act and would become liable to the liability of the ordinary citizen.</P>
+    <P>Do not imagine that the Minister for Justice would be confronted with an opposition with which he could grapple and seek to overthrow.  Not at all. I will tell you what would happen.  A memorandum would be prepared in the Minister's office recommending the adoption of legislation.  It would be circulated to any Department which would have an interest therein.  One of those Departments is always the Department of Finance.  The other Departments will return a rejoinder saying that they do not give a damn but if the Department of Justice wanted it it was all right.</P>
+    <P>Does the Minister for Finance return a rejoinder that he objects on the following grounds?  He does not.  He sits still and says nothing.  After a protracted wait you give an energetic reminder.  Is there at once an energetic reply?  There is not.  He sits still and says nothing.</P>
+    <P>After a further lapse of months, you set the appropriate Government machinery in motion to extract from the Minister for Finance a negative reply or a positive reply or some sort of a reply, whereupon, you get a memorandum, running into 15 pages, asking for further and better particulars of the proposals contained in your original paper, with special reference to the following 132 heads.  You send that out to the Department, whereupon the whole Department is dislocated accumulating information which runs into 346 pages of replies to questions about the answers to which nobody gives a damn.  That goes to the Department of Finance.  During this period 18 months has passed.  That document lies in the Department of Finance and after nine months' struggling to get an answer, the Government machinery is again put into action, whereupon the Minister for Finance requires his Department to give full and measured consideration to a folio of 346 pages received from the Minister for Justice about this important piece of legislation.</P>
+    <P>After three and a half years you may get a decision and put it on the Government agenda.  It may be on <Col N="468" /> the Government agenda for six months. Finally it is perhaps consented to and then you apply to have it sent to the Government's draftsman to be put in the form of a Bill, upon which you hear a hoarse laugh from the Government draftsman who says: &ldquo;There are 47 Bills to be drafted, some of them running to 390 sections.  We may reach this Bill in four years' time, but it is unlikely.&rdquo;  Then you go back to the Government again whereupon every other member of the Government says: &ldquo;Look at my Bill&rdquo; and right enough, they all have Bills which appear to be more important.  If the draftsman does draft a Bill, there are plenty of resources in the Department of Finance to block, harry and stay a Bill of this kind indefinitely.  I ask the Minister for Justice does he ever expect to get through the Department of Finance with a Bill designed to involve the Department of Finance and every Department of State in a substantial potential liability they have never borne before?</P>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>We have decided to amend this Act.  The Deputy makes a good case but he spoils everything by exaggerating it.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Does not the Minister agree that he has now to argue it out?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>It appears to me that Deputy Dillon is objecting to a Bill of this kind getting proper consideration. I agree that the procedure is as he outlined it, but he is exaggerating it. Naturally, every Department is entitled to see how it affects them.  As a former Minister, the Deputy knows that he is exaggerating it in his own picturesque way.  The fact is that the Bill can go through in a reasonable time&mdash;probably before this time 12 months.  Even if it takes that time, after 30 years it would not be such a long time.  The Deputy wants to take it without any consideration at all.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>My Bill has been here for six months.  I have no complaint as to that.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>It was not a Government Bill.</P>
+    </Speaker>
+    <Col N="469" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Surely it could be sent to the Department of Finance.  Supposing the Minister said to-day: &ldquo;Whatever I feel about it, the best I can get is two years or three years,&rdquo; I would feel that some progress was being made.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>It will not take that long.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If the Minister said to the House: &ldquo;I have argued this out with the Department of Finance and the Government and the best we can do is to extend the period of the public authorities liability to two years,&rdquo; I would feel that some progress was being made.  I think it would be wrong to establish any new Statute of Limitation for public authorities, because it will create a new volume of litigation. If you put the public authorities in the same position as everybody else, there is no new growth of case law.  The existing case law relating to actions of tort under that would apply to the local authorities' and people could go into court with the certainty of what the law is.  If there is a new statute and a new time limit and a new arrangement running until the damage becomes manifest, you are liable to get a whole quarter of a century of uncertainty in which people will be going to the Supreme Court to make laws for their neighbours.</P>
+      <P>If this Bill which I have brought before the House were passed, no public authority would suffer any material loss, because all it does is to provide that the right of action survives for six years.  If the public authorities wanted that six years to be changed in their regard, what is to stop them from coming to the Minister for Local Government and making a case and asking him to approach the Minister for Justice?  All I am trying to do is to establish uniformity.  Surely the burden of proof is on the party who seeks an exceptional position.</P>
+      <P>I did not tell the story of this legislation for fun.  I did not go to the trouble of finding out how this legislation was passed for fun.  I do not enjoy spending late hours in the King's Inns library when I might be in the cinema.  I much prefer the cinema.</P>
+    </Speaker>
+    <Col N="470" />
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I doubt that very much.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If the Minister frequents that library he will find it is not a very jolly place to work, although it is a very good library and there is a very co-operative and helpful staff.  It is just a dry-as-dust place.  I told the story of the origin of this Act in order to show the House that no case for it had ever been made.  No local authority ever attempted to make a case for the special terms accorded to them in this Act.  The astonishing thing is that nobody knew when the Public Authorities (Protection) Act was passed into law to whom it applied, and ever since it became law new categories of persons have gone to the court with hope and trepidation seeking to be brought within it, and in many cases, to their amazement, have been brought within it.</P>
+      <P>Whoever thought when that Act was passed without debate in the British Parliament 50 years ago that it would one day operate to exempt a dispenser in a rural dispensary in Ireland who carelessly makes up a wrong prescription? Whoever thought when that Act was passed that if, in a public hospital attached to a local authority, an unconscious person was burned by a hot water bottle the merits of his case could never be tried unless he started the action within six months from the date on which he was burned?  In the case mentioned by Deputy MacBride the people injured might still be in the hospital and in the circumstances be required to sue the very hospital in which they are patients.  If they do not sue while they are still patients, even though the case is unanswerable, the courts are stopped from considering its merits.  What is wrong with abolishing all that and putting the local authority in the same position as other people without stopping them from making a case that they ought to have special privileges?  We will meet that case and debate it if and when it is brought forward.  Is it not true that the Minister's opposition to this Bill is founded on no better grounds than that his advisers said to him: &ldquo;You do not want to go about a matter such as this like a bull in a china shop.  You must take time to consider it.&rdquo;</P>
+    </Speaker>
+    <Col N="471" />
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>The problem is that you are trying to take something from them which they already have.  This question must be considered from all aspects and thought given to all the repercussions involved.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Is that not why I told the story?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>What the Deputy wants to do is to take away from them what they have now and let them make their case anew.  They are entitled to certain protection and he is suggesting that we should take that away and oblige them to make a new case.  They are entitled to protection and before we take it away the matter must be carefully examined having regard to all the repercussions it may entail.  That cannot be done by way of a simple repeal.  When the amending Bill comes, then we can hear all that.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>This Bill has been six months in the Minister's office.  I am not complaining&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>It may be unfair but I am afraid that not being a Government measure it did not get all the consideration it would have got.  I must confess that, and I think that would be the case with any Government, that where a private motion is down, during the interval until it comes up you do not give it the same consideration as you would give a Government measure.  I can certainly say that I have not considered it for the last six months, whereas if it were my own Bill I would have done so.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Yet the Minister expresses amazement that somebody has not taken steps to remedy the situation over the 30 years that we have been a free parliament.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>If the Government brought it in it might be a different matter.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Picture now what the prospect is.  The Bill designed to deal with this matter, before it embarks on the Government procedure I described to the House, is now going out to the county councils to get their agreement. It is going to all the dispensary doctors and it must go to all the county <Col N="472" /> surgeons and to the representatives of the Local Authority Officials' Association for them to give their opinion. Bear this in mind.  What official in Ireland who is in the glorious position that he has the protection of the Public Authorities Protection Act is going to advise the Minister that he ought to be deprived of that protection?  How can he expect him to do it?  I quite agree he has got something very precious but is it just, is it right, that he should have it?  Remember this, the Public Authorities Protection Act applies to every sheriff's bailiff.  If the bailiff comes and wrongfully seizes your dining-room furniture and you try to get it back by negotiation because you do not want the news spread through the whole country that the sheriff's bailiff was in and took your dining-room furniture, he can stave you off for six months and tell you he is going to talk to the sheriff to-morrow.  One day after the six months he can tell you to go to hell.  He took your dining-room furniture and the next time he will come in and take your bed.  You have no remedy.  It does not matter how wrongfully he acted when he is a public authority official under the Public Authorities Protection Act.  It does not matter what injury you suffered in a public hospital or how manifest the carelessness or recklessness was.  If they can hold you off for six months you are sunk.  You can never take the case to court.</P>
+    </Speaker>
+    <P>Does anyone suggest to me that if you go and ask the people who enjoy that benefit whether they think that legislative protection should be taken away from them, they will say: &ldquo;Yes, we are living on velvet and we ought not to live on it any longer?&rdquo;  They will put out memoranda a mile long to say that public administration could become impossible if such steps were taken.  That will take anything up to five years.  Every sheriff concerned for public authorities will be in the thick of the battle and it is only after the Minister has persuaded his colleagues that it would be good tactics to embroil themselves with every vested interest enjoying the Public Authorities Protection Act advantage, at nobody's request, that the Minister for Justice could hope to get started on the Bill he <Col N="473" /> has in mind.  What is he going to say to his colleagues if they say to him: &ldquo;You said yourself nobody ever asked for this amendment.  The only man who ever said &lsquo;hum&rsquo; or &lsquo;haw&rsquo; was Deputy Dillon and God knows we ought not to be persuaded as to what is best to do for Fianna Fáil by Deputy Dillon.&rdquo; The Minister will have to say: &ldquo;Nobody asked except Deputy Dillon&rdquo; and they will say to him: &ldquo;And are you going to quarrel with every dispensary doctor, with every rate collector, every public official in Ireland and vex them in order to please Deputy Dillon?  Go away out of that.&rdquo; He will twiddle his thumbs and say: &ldquo;I never looked at it that way.  How will we stave him off now?&rdquo;&ldquo;Well, send out a memorandum to all the local councils in Ireland and ask them would they like us to repeal the Public Authorities Protection Act and get the boys in the Custom House to tip them the wink that there is no great hurry and that they should take the precaution of consulting every public servant, every county councillor, every ex-county councillor and every potential county councillor before answering.&rdquo; If that does not consume five years they are Dutchmen.</P>
+    <P>Does anyone imagine that a Bill such as my Bill will ever see the light of day as it is, brought forward by an Independent Deputy outside the Government?  Does the Minister for Justice honestly tell this House that he believes he will ever get his Government or any Government to initiate legislation of this kind?  Why should they?  Does not the Government have enough trouble on its hands getting through the essential, urgent legislation? Can you imagine this Government, bloody and battered after the Minister for Finance's Budget, lifting its bloody head and asking for another blow?</P>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>We are hale and hearty.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister for Justice does not believe, nobody believes, in the introduction of a Bill of this kind. Why do we, to this day and age, prove ourselves such admirable copyists of the worst feature of an old and archaic statute?  It could be exciting and it could be inspiring if a young Parliament <Col N="474" /> were prepared, when it encountered injustice, to put it right, to cut itself through red tape in order to do it.  There is nothing more deadening or sickening than to realise that the obstructive tactics of a welltrained bureaucracy can paralyse Parliament as it paralyses everything else. I do not blame bureaucracy.  It is their job to paralyse if they are allowed to paralyse.  My experience is that no one is more delightfully astonished than bureaucracy when it discovers that Parliament has suddenly wakened up and will not suffer paralysis at their hands any longer. But they will nobly do their duty and try to paralyse whenever anybody wants to do anything.  It depresses me to see the Minister for Justice softly subsiding into the comfortable condition of peaceful paralysis in the arms of his own civil servants, sustained and encouraged by the tireless watchdogs of the Department of Finance. I want this Bill to pass.  This is the right Bill to pass.  Not a single word against the merits of this Bill has been spoken from any side of the House. Poor Deputy Allen rambled in and talked about everthing except this Bill, because he found himself unable to talk about things in this Bill which are good with any pretence of coherence.  What kind of daftness has come over us that a Bill supported on every side of the House should be defeated and that this is now a Parliament in which legislation is passed only when an unwilling majority is flogged by Party disciplinarians into the wrong lobby?</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>Might I make a suggestion? There is a good deal undoubtedly in the difficulties which Deputy Dillon has pointed out.  Would it be convenient for the Minister, instead of introducing legislation of his own, to avail of this Bill and to amend it in Private Members' time to meet his views?  It would save the introduction of a fresh Bill and it would mean that it could be dealt with in Private Members' time and that results could be obtained within a few months instead of probably a couple of years.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Pass the Second Stage of this Bill and then amend it any way <Col N="475" /> you like.  The Minister could then bring in amendments to meet his viewpoint.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I do not think I could.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Why?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I think I have met the Deputy very reasonably in this matter and he ought not to persist in his attitude now.  I have listened to all sides. I admit that amendment is necessary, but when it comes to a question of simple repeal like this, it requires far more consideration than it has got. We must get the whole thing considered&mdash;but not in the tortuous way which Deputy Dillon has suggested. That is a gross exaggeration.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Pass the Second Stage and let the Minister then appoint a day for the Committee Stage.  Let the Bill lie as long as may be necessary.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>That is not the way these things are done.  A measure dealing with this matter ought to be a Government measure.  I do not think the Deputy ought to persist.  I do not want to divide on it because I am more or less in agreement in principle. I know that amendment is necessary.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Pass this stage and fix the Committee Stage yourself, or produce a Government Bill&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>That is not the way to do it.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If you pass the Second Stage, you can fix a date for the Committee Stage, or produce a Government Bill, in which event I will cooperate in any steps requisite to get this Bill discharged.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>There was a somewhat similar measure, the Adoption Bill, which was a Private Member's Bill, before the House some time ago.  I was prepared to do something about adoption, but was not prepared to accept that Bill.  What was done in that case was that the Adoption Bill was left on the Order Paper until I produced my own Bill and then it was withdrawn.  Perhaps that might be a way out, if it could be done under <Col N="476" /> the Standing Orders.  The Deputy could wait until I produced a Bill, but I am not going to take this Bill as it stands. That is the best offer I can make.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>
+        <i>Ad interim,</i> would it be acceptable if I moved that the debate on the Second Stage of this Bill be adjourned?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That is the procedure.  The Bill will remain on the Order Paper.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>The Minister has been reasonable and I think we should say so.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>At this stage, we have found a <i>modus vivendi.</i></P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I am not so paralysed as the Deputy thinks and if I had been as interested in the Bill as the Deputy, I would have taken good care to get it passed.  Several Bills in the past were not passed, although we spent hours debating them, and the Deputy might be better employed in getting the Bill passed, if it is so important.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Parliamentary Secretary to the Taoiseach (Donnchadh O Briain) Donnchadh Ó Briain">
+      <NameTxt>Parliamentary Secretary to the Taoiseach (Donnchadh O Briain)</NameTxt>
+      <P>Why did the Deputy not deal with this matter when he was Minister?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Perhaps the Parliamentary Secretary overlooks the fact that I was Minister for Agriculture.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh O Briain Donnchadh O Briain">
+      <NameTxt>Donnchadh O Briain</NameTxt>
+      <P>The Deputy was a Minister in the Government.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I brought a good deal within the ambit of the Department of Agriculture, but I am damned if I could bring the Public Authorities (Protection) Act within it.</P>
+      <P>Debate adjourned.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies' Business. - Land" RHead="Bill, 1952&mdash;Second Stage">
+    <Title>Private Deputies' Business. - Land Bill, 1952&mdash;Second Stage.</Title>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>I move that the Bill be now read a Second Time.  My reason for introducing this Bill last June was a section of the 1950 Act which was passed during the period of office of the inter-Party Government. For the benefit of Deputies who may not grasp the full meaning of it I should say that sub-section (2) of <Col N="477" /> Section 5 of that Act was an amendment which I introduced while the Bill was going through the House in order to enable land which was being taken over by the Land Commission during the course of the passing of the Bill to have the benefit of sub-section (1) of Section 5.  Land Commission work was proceeding as usual when the Bill was going through and it meant that a certain number of cases &mdash;approximately 93&mdash;of the acquisition of vested land were in the Land Commission machine during the debate. Section 5 was introduced in order to repeal sub-section (2) of Section 25 of the 1923 Act.  That sub-section enabled the Land Commission to acquire unvested land, or untenanted land, as the technical term is, and to fix the price of such land in a way which was considered unjust and inequitable for a long time.  The sub-section operated in my opinion, and in the opinion of many others, against those whose land was acquired in a very harsh way in some cases.</P>
+      <P>Up to the passing of the 1950 Act, in the case of unvested land which was being resumed by the Land Commission the owners were paid full market price, even though they did not own it, while in a similar case in the same townland or area, and perhaps by the same owner, tenanted land was paid for at a much reduced price. Coupled with that, the 1923 Act, and later the 1936 Act, provided that the redemption money outstanding at the time of acquisition should be redeemed out of the purchase money by the owner.  Section 5 of the 1950 Act repealed all that and compelled the Land Commission, or enabled the Land Commission, according to the view one takes, to pay full market value for vested land without the redemption of the outstanding annuity, as in the case of unvested land.</P>
+    </Speaker>
+    <P>That brings me to sub-section (2) of Section 5.  Many Deputies during my period as Minister pointed out that the price of land which was being acquired during the passing of the 1950 Act had to be arrived at under the terms of the 1923 Act, and a number of people whose land was being acquired at the <Col N="478" /> time would not benefit by the 1950 Act. For that reason I introduced an amendment which later became sub-section (2) of Section 5 of the 1950 Act. It runs thus:</P>
+    <P>&ldquo;Where&mdash;</P>
+    <P>(a)  the price of untenanted land acquired or purchased by the Land Commission was determined before the passing of this Act whether by agreement or by the fixing thereof under sub-section (2) of Section 25 of the Land Act, 1923, and</P>
+    <P>(b)  the Land Commission took possession of the land on or after the first day of December, 1949, and before the passing of this Act or take possession of the land after the passing of this Act,</P>
+    <P>the following provisions shall have effect:&mdash;</P>
+    <P>(i)  application may be made to the Land Commission within six months after the passing of this Act for redetermination of the price of the land.&rdquo;</P>
+    <P>The reason I introduced the Bill was that some time after the change of government last summer twelve-months there were a few cases where owners of land should have benefited and ought to have taken advantage of sub-section (2) of Section 5 of the 1950 Act and did not do so.  I had in mind one case, but when five or six others were brought to my notice, it occurred to me then that quite a number of people did not take advantage of it for the simple reason that they did not know that subsection would be an advantage to them.</P>
+    <P>That led me on the 28th February last to ask the Minister for Lands the following question:&mdash;</P>
+    <P>&ldquo;if he will state (a) the number of acquired estates possession of which was taken by the Land Commission between 1st December, 1949, and a date six months after the passing of the Land Act, 1950; (b) in how many cases application was made to have the price redetermined, and (c) if he will introduce proposals for amending legislation.&rdquo;</P>
+    <P>The answer the Minister gave was:</P>
+    <P>
+      <Col N="479" />&ldquo;The particulars are (a) 93 estates, (b) 23 cases.&rdquo;</P>
+    <P>That meant that out of 93 acquisition cases which were under way during the passing of the 1950 Act only 23 took advantage of this section.</P>
+    <P>The reason I introduced this Bill&mdash; all that is contained in it is an extension of the time&mdash;is that the sub-section which was designed expressly to benefit that type of case which was caught in the Land Commission machine during the passing of the Act stated definitely that application for redetermination of the price would have to be made within six months after the passing of the Act.</P>
+    <P>This Act became law on the 19th June, 1950, and a date six months after that brought us to the 19th December, 1950.  The fact remains that approximately 70 cases failed to take advantage of it and the reason I introduce this Bill is that the Minister stated at the time that it was not proposed to introduce legislation on the lines suggested in part (c) of my question to him.</P>
+    <P>I want to admit that, strictly speaking, people should take advantage of the law when the law is passed through the House expressly for their benefit; but we must also admit that people down the country who are not members of the legal profession do not follow up and appreciate fully the niceties of the law or the benefits they may obtain, for some time afterwards.  I now realise that the time limit which was embodied in this Bill&mdash;six months after the passing of the Act&mdash;was not sufficiently long.</P>
+    <P>A Land Act is a very complicated thing and the average man cannot reasonably be expected to follow it in full.  Secondly, this particular section or advantage, I may say, now that I think of it, did not get a lot of publicity at the time and it is quite understandable that those who would benefit did not take advantage of it.  One strange case was brought to my notice where the solicitors of the owner of the land were actually informed by a Deputy of the advantage of this Act and they were instructed to take advantage of it but did not do so.  That was the only one of that kind.  The others <Col N="480" /> brought to my notice told me personally that they were not aware of the advantage that would accrue to them from this sub-section (2).</P>
+    <P>I hope I have made the position clear.  The reason I introduce this is to extend the time from the 1st June, 1950, to 1st June, 1953, in order to give these people, these 70 cases, if they desire to take it, the chance to have the price of their land redetermined, where the land was acquired between 1st December, 1949, and 19th June, 1950.  That will have an added benefit, as I have no doubt that where they do that the judicial commissioner to whom such appeals may come will have due regard to the redemption price of these estates at that time and will judge the cases accordingly.  I ask the Minister to accept this Bill.  It is a simple one, and I think it covers the cases fully without any amendment or anything else being necessary.</P>
+    <Speaker pid="JohnFinan" hpid="Mr. Finan Mr. Finan">
+      <NameTxt>Mr. Finan</NameTxt>
+      <P>I do not need to add anything to what Deputy Blowick has said.  This is merely a belated attempt to do justice to a very limited number of people who were obviously not in a position to make themselves fully acquainted with the law as it stood. I think the Minister must admit, and perhaps the ex-Minister, too, that six months is a very short period to allow to people to consider what action they will take on a certain line of legislation. It may easily happen, unless the Press interest themselves in the legislation passed through this House, that many people would be totally unaware for a long period of Acts of the Legislature here.  They may, of course, become acquainted with the salient or more important part of legislation which has got an appeal to the public but where a private individual's interests are affected it is too much to expect that the Press would give much publicity to it.</P>
+    </Speaker>
+    <P>I am not acquainted with any cases affected by this legislation, but I do say in all reason that if there are about 70 people who failed, probably through no fault of their own, to take advantage of the permission given under this Act, it is not asking much to extend the period now, so that, now <Col N="481" /> that they have become aware of it or will become aware of the advanced date, they may be recompensed for the losses which they undoubtedly must have sustained.</P>
+    <Speaker pid="JohnFanning" hpid="Mr. Fanning Mr. Fanning">
+      <NameTxt>Mr. Fanning</NameTxt>
+      <P>I would like time to support this Bill and the principle in it.  I have known cases in my own area in North Tipperary where small people had not known of this advantage and so became deprived of their rights.  This Bill may be of help to them and I am glad that other Deputies seem to take the same view. I will not delay the House and will conclude by saying I would like to support the Bill.</P>
+    </Speaker>
+    <Speaker pid="ThomasDerrig" hpid="Minister for Lands (Mr. Derrig) Thomas Derrig">
+      <NameTxt>Minister for Lands (Mr. Derrig)</NameTxt>
+      <P>The case to which Deputy Fanning has referred is fairly well known. There were two cases in which applications were received late and therefore were not accepted&mdash;but with regard to the other cases, the possible 70, I have no information.  I dislike retrospective legislation because there is always the question of how far back you will go.  Will you go back six months or 12 months or how far?  Once you open the door, there are always some people who will have a grievance that even under amending legislation they just missed the tide and their cases were not covered.</P>
+    </Speaker>
+    <P>In general, I think that retrospective legislation is not to be commended. There will always be cases of persons whose rights may have been affected or who, for some reason or another, find that they did not get the benefits that would seem to accrue to them.  I do not know whether failure to make applications is due to remissness or to some other causes.  As Deputy Finan has pointed out, it is certainly extraordinary if it can be alleged that the members of the legal profession who are supposed to look after their clients have not made themselves aware of legislation actually going through.  The fact that legislation is going through would seem to mean that attention would be directed to it.  Even though a particular clause might not have received a great deal of publicity, it was known that the general object of the Land Act, 1950, was to give the market value of land.  It must have been <Col N="482" /> known to those people whose land was taken over since a date in 1949 that they became eligible for this market value which was newly fixed under the Act.  However, I recognise that there are cases of hardship as, for example, the case to which Deputy Fanning has referred.  I am not familiar with some of the other cases.</P>
+    <P>I would like to point out, as an additional reason why we ought to be careful in amending legislation of this kind and why we should make it as narrow as possible if we have to amend it, that, even in that particular case, land was allotted and the necessary financial losses which accrued to the State as a result were registered.  Of course, the effect of the Bill is to impose further losses which might be regarded as substantial.  If we have regard for the Land Commission finances as a whole they may be said not to be very great, but, nevertheless, they are substantial.</P>
+    <P>Moved by the fact that there will be other cases of hardship in which persons, through no fault of their own, who would have been entitled to the benefit of the clause in the 1950 Land Act, did not receive these benefits, I am prepared to accept the principle of the Bill which Deputy Blowick has placed before the House, and to ask the Government to give effect to it.</P>
+    <P>I feel, as has been said during the last discussion, that it would be more appropriate to deal with this Bill as a Government measure.  It would have to be taken over by the Government, in any event.  It may be that the draftsman will draft it, as often happens, in a rather different manner from the one which the private Deputy adopted in bringing his Bill before the House.  I am generally in favour of the principle just enunciated by the Minister for Justice that, if possible, while the general feeling of the House must be considered by the Government and the Government must carry out the verdict of the House, it is better, in general, that such amending legislation should be brought in as a Government measure.  Therefore, if the Deputy is agreeable to it, I would be prepared, as soon as possible, to introduce an amending measure covering <Col N="483" /> the cases he has outlined and covering the grants that he mentioned.</P>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>I am asking the Minister what is wrong with this Bill.  He mentioned that retrospective legislation is not good, and I quite agree, because it raises a lot of false hopes that never materialise.  Then, again, if we adopt the principle of going back on one case numbers of people will argue that their cases should be reexamined. Therefore, I am in agreement with the Minister in his point, but I do not think it is correct to call this Bill a retrospective measure; it is merely extending the time for a very limited number&mdash;70 people&mdash;who were not aware of the existence of this sub-section. The fault really lies more with myself and, perhaps, with the draftsman and others than with the people concerned.  We did not realise that the time limit given under this sub-section&mdash;six months from the passing of the Act&mdash;was really too short. The sub-section, because of its nature, did not get as much publicity as did other parts of the Act.  Would the Minister say if it is his intention to bring in a short Bill dealing with this matter, or is it his intention to incorporate this principle in a larger Bill?</P>
+    </Speaker>
+    <Speaker pid="ThomasDerrig" hpid="Mr. Derrig Mr. Derrig">
+      <NameTxt>Mr. Derrig</NameTxt>
+      <P>My present intention would be to introduce a Bill to deal specifically with this matter.  As the Deputy knows, there is no trouble in bringing in a Land Bill, because there are always legal adjustments and amendments that we would like.  I would not agree with the introduction of a Bill solely for the purpose of bringing in technical or legal amendments which might be in the offing.  I do not think this opportune.  My present feeling would be to go ahead and simply introduce a measure on the lines advocated by the Deputy&mdash;not dealing with other points.  If I departed from that idea in any way I <Col N="484" /> would let the Deputy know.  I do not intend to depart from it.</P>
+    </Speaker>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>Very good.  The Minister stated that in one place in North Tipperary the land is already allotted. I can easily see that there the greatest difficulty would lie with the vendor of the land in having an appropriate valuation of the land now assessed.  As I see it, the difficulty would lie more with the vendor of the land than with the Department.  When does the Minister think he will introduce the Bill?</P>
+    </Speaker>
+    <Speaker pid="ThomasDerrig" hpid="Mr. Derrig Mr. Derrig">
+      <NameTxt>Mr. Derrig</NameTxt>
+      <P>As soon as possible.</P>
+    </Speaker>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>Could you not give a definite date?  Do you think it will be introduced before the end of this session?</P>
+    </Speaker>
+    <Speaker pid="ThomasDerrig" hpid="Mr. Derrig Mr. Derrig">
+      <NameTxt>Mr. Derrig</NameTxt>
+      <P>I will do my best to introduce it.</P>
+    </Speaker>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>It is only a simple measure.</P>
+    </Speaker>
+    <Speaker pid="ThomasDerrig" hpid="Mr. Derrig Mr. Derrig">
+      <NameTxt>Mr. Derrig</NameTxt>
+      <P>I am only one of the Ministers forming a Government trying to get legislation passed, but I will do my best to get this measure through.</P>
+    </Speaker>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>I do not think there is a single colleague of yours who will put forward an argument similar to the one we heard a short time ago during the discussion on the other Bill: &ldquo;Is the Minister going to take his direction from Deputy Blowick?&rdquo;  There are only 70 people involved.  While I admit that their legal advisers may have been a bit careless I feel it would be unjust not to bring in a measure such as this so as to give them a further chance. Then, if they do not avail of the opportunity, it will be their own kettle of fish.</P>
+      <P>Bill, by leave, withdrawn.</P>
+      <P>The Dáil adjourned at 2 p.m., until 3 p.m., on Wednesday, 29th October, 1952.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

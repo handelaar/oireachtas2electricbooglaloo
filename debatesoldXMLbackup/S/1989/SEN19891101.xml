@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="1" Month="Nov" Year="1989" Vol="123" No="1" DateIrish="Dé Céadaoin, 1 Samhain 1989" DateEnglish="Wednesday, 1 November 1989" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1" />
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Tháinig an Seanad le chéile ar 2.30 p.m.  Bhí an Cléireach, Ciarán Ó Cochláin agus an Leas-Chléireach Ghníomhach Padraigín Uí Grádaigh, i láthair.</entry>
+            <entry rowsep="1">
+              <Col N="2" /> The Seanad assembled at 2.30 p.m., the Clerk, Kieran Coughlan and the Acting Clerk Assistant, Ms. Patricia O'Grady, attending.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Léigh an Cléireach Forógra Uachtarán na hÉireann ag comóradh Sheanad Éireann.<br />Seo a leanas an Forógra:</entry>
+            <entry rowsep="1">The Clerk read the Proclamation of the President of Ireland convening Seanad Éireann.<br />The Proclamation was as follows:</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">FORÓGRA AG COMÓRADH SHEANAD ÉIREANN.</P>
+    <P Just="Center">PROCLAMATION SUMMONING SEANAD ÉIREANN.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">
+De bhun comhairle a thairg an Taoiseach dom faoi alt 8 d'Airteagal 18 den Bhunreacht déanaimse, PÁDRAIG Ó hIRIGHILE, Uachtarán na hÉireann, a shocrú leis seo gur Dé Céadaoin, an lú lá de Shamhain, 1989, an lá a thiocfaidh <Col N="3" /> Seanad Éireann le chéile ar chéadtionól tar éis an Olltoghcháin a bhí ann le déanaí.<br />ARNA THABHAIRT faoi mo láimh agus faoi mo Shéala an 24ú lá seo de Dheireadh Fómhair, 1989.</entry>
+            <entry rowsep="1">
+Pursuant to an advice tendered to me by the Taoiseach under section 8 of Article 18 of the Constitution, I, PATRICK J. HILLERY, President of Ireland, hereby fix Wednesday, the 1st day of November, 1989 for the first meeting of <Col N="4" /> Seanad Éireann after the General Election lately held.<br />GIVEN under my hand and Seal this 24th day of October, 1989.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">PÁDRAIG Ó hIRIGHILE, UACHTARÁN NA hÉIREANN (PRESIDENT OF IRELAND)</P>
+    <P>CATHAL Ó hEOCHAIDH,</P>
+    <P>TAOISEACH.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">AINMNEACHA NA gCOMHALTAÍ A AINMNÍODH AGUS NA gCOMHÁLTAÍ A TOGHADH.</entry>
+            <entry rowsep="1">NAMES OF THE MEMBERS NOMINATED AND OF THE MEMBERS ELECTED.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <Speaker pid="" hpid="An Cléireach An Cléireach">
+      <NameTxt>An Cléireach</NameTxt>
+      <P>Is iad seo a leanas ainmneacha na gcomhaltaí a ainmníodh agus na gcomhaltaí a toghadh:</P>
+    </Speaker>
+    <Speaker pid="" hpid="The Clerk The Clerk">
+      <NameTxt>The Clerk</NameTxt>
+      <P>The following are the names of the members nominated and of the members elected:</P>
+      <P>NOMINATED MEMBERS</P>
+      <P>OLGA BENNETT</P>
+      <P>HUGH BYRNE</P>
+      <P>MARTIN CULLEN</P>
+      <P>JOHN DARDIS</P>
+      <P>HELEN KEOGH</P>
+      <P>MICHAEL LANIGAN</P>
+      <P>TONY McKENNA</P>
+      <P>DENIS A. O'DONOVAN</P>
+      <P>DONAL ORMONDE</P>
+      <P>EOIN DAVID RYAN</P>
+      <P>and</P>
+      <P>G.V. WRIGHT</P>
+    </Speaker>
+    <P>
+      <Col N="5" />
+      <Col N="6" /> UNIVERSITY MEMBERS</P>
+    <P>
+      <i>National University of Ireland</i>
+    </P>
+    <P>BRENDAN RYAN</P>
+    <P>JOHN A. MURPHY</P>
+    <P>JOE O'TOOLE</P>
+    <P>
+      <i>University of Dublin</i>
+    </P>
+    <P>SHANE P.N. ROSS</P>
+    <P>DAVID P.B. NORRIS</P>
+    <P>CARMENCITA HEDERMAN</P>
+    <P>PANEL MEMBEERS</P>
+    <P>
+      <i>Cultural and Educational Panel</i>
+    </P>
+    <P>Nominating Bodies Sub-Panel</P>
+    <P>PASCHAL MOONEY</P>
+    <P>ÉAMON Ó CÚIV</P>
+    <P>JOE O'REILLY</P>
+    <P>Oireachtas Sub-Panel</P>
+    <P>SEÁN BYRNE</P>
+    <P>MAURICE MANNING</P>
+    <P>
+      <i>Agricultural Panel</i>
+    </P>
+    <P>Nominating Bodies Sub-Panel</P>
+    <P>AVRIL DOYLE</P>
+    <P>TOM FITZGERALD</P>
+    <P>RICHARD V. HOURIGAN</P>
+    <P>THOMAS HUSSEY</P>
+    <P>RORY KIELY</P>
+    <P>SEÁN McCARTHY</P>
+    <P>FRANCIS O'BRIEN</P>
+    <P>Oireachtas Sub-Panel</P>
+    <P>CHARLIE McDONALD</P>
+    <P>PADDY McGOWAN</P>
+    <P>LIAM NAUGHTEN</P>
+    <P>PAT UPTON</P>
+    <P>
+      <i>Labour Panel</i>
+    </P>
+    <P>Nominating Bodies Sub-Panel</P>
+    <P>JOHN HARTE</P>
+    <P>MARY JACKMAN</P>
+    <P>BRIAN MULLOOLY</P>
+    <P>DANIEL NEVILLE</P>
+    <P>
+      <Col N="7" />
+      <Col N="8" /> Oireachtas Sub-Panel</P>
+    <P>DONIE CASSIDY</P>
+    <P>DES HANAFIN</P>
+    <P>DAN KIELY</P>
+    <P>DON LYDON</P>
+    <P>LARRY McMAHON</P>
+    <P>PÓL Ó FOIGHIL</P>
+    <P>BATT O'KEEFFE</P>
+    <P>
+      <i>Industrial and Commercial Panel</i>
+    </P>
+    <P>Nominating Bodies Sub-Panel</P>
+    <P>EDDIE BOHAN</P>
+    <P>RICHARD CONROY</P>
+    <P>SEÁN FALLON</P>
+    <P>WILLIE FARRELL</P>
+    <P>DENIS FOLEY</P>
+    <P>MICHAEL HOWARD</P>
+    <P>Oireachtas Sub-Panel</P>
+    <P>LIAM COSGRAVE</P>
+    <P>JOHN RYAN</P>
+    <P>MYLES STAUNTON</P>
+    <P>
+      <i>Administrative Panel</i>
+    </P>
+    <P>Nominating Bodies Sub-Panel</P>
+    <P>MICHAEL FINNERAN</P>
+    <P>SEÁN F. HAUGHEY</P>
+    <P>TRAS HONAN</P>
+    <P>PATRICK KENNEDY</P>
+    <P>Oireachtas Sub-Panel</P>
+    <P>JOE COSTELLO</P>
+    <P>SEÁN DOHERTY</P>
+    <P>TOM RAFTERY</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">I gcomhlíonadh Buan-Ordú 3 táim tar éis cóip de gach ceann de na deimhnithe ar thorthaí na vótaíochta do na comhaltaí a toghadh agus cóip den scéala ón Taoiseach ag lua ainmneacha na gcomhaltaí ainmnithe a leagan faoi bhráid an Tí.</entry>
+            <entry rowsep="1">In compliance with Standing Order 3 I have laid before the House a copy of each of the certificates of the results of the polls for elected Members and a copy of the communication from the Taoiseach stating the names of the nominated Members.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election of" RHead="Cathaoirleach">
+    <Title>Election of Cathaoirleach.</Title>
+    <Speaker pid="" hpid="Clerk of Seanad Clerk of Seanad">
+      <NameTxt>Clerk of Seanad</NameTxt>
+      <P>Is é an chéad ghnó eile ná Cathaoirleach a thoghadh.</P>
+      <P>The next business is the election of a Cathaoirleach.</P>
+      <P>Glacfaidh mé le tairiscintí anois.</P>
+      <P>In compliance with Standing Order 3 I have laid before the House a copy of each of the certificates of the results of the polls for elected Members and a copy of the communication from the Taoiseach stating the names of the nominated Members.</P>
+      <P>I will now receive motions.</P>
+    </Speaker>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>Is mó an onóir domsa ainm an Seanadóir Seán Ó Dochartaigh a chur os comhair an tSeanaid chun é a bheith tofa mar Chathaoirleach an tSeanaid.</P>
+    </Speaker>
+    <Col N="9" />
+    <Speaker pid="PaddyMcGowan" hpid="Mr. McGowan Mr. McGowan">
+      <NameTxt>Mr. McGowan</NameTxt>
+      <P>I have pleasure in seconding the name of Seán Doherty.  I think he is a very suitable and qualified person to be Chairman of this House because he has long experience as a public representative.  He has experience in chairing the tourism organisation, the health board and many other organisations. He is the second generation of Dohertys, very distnguished in Ireland, who have represented the public.  Therefore, I have great pleasure in seconding the name of Seán Doherty to be considered for Cathaoirleach of this House.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I would like to propose the name of Senator Avril Doyle as Cathaoirleach.  Before doing that and before speaking about the reasons why Senator Doyle should be Cathaoirleach, I would like to revert to two other items.</P>
+      <P>First, I would like to pay tribute to the outgoing Cathaoirleach.  Those of us who had the honour of being in the last House will know that Senator Tras Honan was a very fine Cathaoirleach who sought to be fair to all sides.  She was at all times conscious of the dignity of the House and of maintaining the highest standards.  She was an excellent ambassador for this House especially on major State occasions, but she also had a great sense of protecting the rights of all Members and of all groups in this House.  She was a very high profile Cathaoirleach and one whose performance will be very hard to follow indeed.  On behalf of my group I would like to thank her and pay tribute for her time in the Chair.</P>
+      <P>Before commenting on the choice before us I think it is imperative that we place on record the circumstances in which we are meeting today.  It is the firm contention of myself and this group that had the Taoiseach set out over the past few months to deliberately undermine and devalue the role of this House he could not have done so more effectively than as has happened.</P>
+    </Speaker>
+    <P>Effectively the rot started before the end of the last Seanad.  After the last Dáil election, at a time when we had only a caretaker Government &mdash; that was in the happy pre-coalition days &mdash; when the <Col N="10" /> then Government had lost seven of its members, when the Labour group was down to one Member in this House, when we had a caretaker Government with no direct mandate, at that point the Government in one day tried to streamroll through two major pieces of legislation. I believe it was the most flagrant act of contempt for this House in the 60 year history of the Seanad.  It led to the only walk out of all Opposition members in the history of the Seanad, when we had the spectacle of two important but not urgent pieces of legislation, legislation which could well have waited until September, being jack-booted through in one day and confirming the impression that this House was here largely to rubber-stamp legislation.</P>
+    <P>There then followed the saga over the Taoiseach's eleven.  Normally, in the history of this House these nominations are made within a matter of days of the election taking place.  This time the election took place in August.  August passed, September passed, and, finally, on a wet, stormy weekend at the end of October the names of the eleven were sneaked out as if they were something to be ashamed of.  Again, this is something which has never happened before.  The reason, however, has nothing to do with the dignity, the standing or the effectiveness of this House.  What we saw over the previous weeks was a saga in which the Taoiseach traded-off, bought off dissident groups in his own party simply by keeping the Taoiseach's eleven in abeyance. But, more than that, what we saw in the Taoiseach's eleven was for the first time in recent years the absence of any name from Northern Ireland, the absence of any significant name from the world of education, of culture, of business, from any of the disadvantaged groups, from any of the minority groups. Not one of these names appeared.  It was an entirely political list, for the first time in recent years.</P>
+    <P>Those of us who had the privilege to be in this House with Senator John Robb will know exactly how important it is to have a voice from the majority in Northern Ireland.  We know the quality and the <Col N="11" /> depth of his contributions over the past number of years from which not just this House but Irish public life benefited.  We also can recall the contributions of Senators Bríd Rogers, Séamus Mallon and others who were part of the Taoiseach's eleven.  The Taoiseach has jettisoned one of the finest traditions of this House and a tradition which has done honour up to now to Irish public life.</P>
+    <P>Now I return to the question of the 11 nominees.  Many of them are friends of mine and most of them, perhaps all of them, will be good Senators but the back-ground against which they were chosen was one of continuing rows between Fianna Fáil and the Progressive Democrats. These rows are none of our business.</P>
+    <Speaker pid="RoryKiely" hpid="Mr. R. Kiely Mr. R. Kiely">
+      <NameTxt>Mr. R. Kiely</NameTxt>
+      <P>Are we electing the Cathaoirleach?.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I think the Seanad should hear me without interruption.  I am almost to the point of shouting that what I am saying is relevant to the back-ground in which we are meeting today.</P>
+      <P>Now, even good coalitions have rows, and these rows are none of our business, but the loud and public wrangle, the bartering of places to quieten dissent, has done enormous harm to the image, the reputation and the effectiveness of this House and its role in Irish politics.  We are seen &mdash; and one has only to read the editorials in all of today's papers &mdash; not as a respected second House of the Oireachtas but as a House which is there to solve party political problems.  That has happened over the past number of months and it is going to make the task of this Seanad all the more difficult as we fight to win back a proper role in Irish politics and the status and dignity which this House should have.  All of this could have been avoided had the Taoiseach moved decisively, heeded his own instincts and his own mind rather than do what he did.  He should have chosen those whom he wanted, not those who were eventually foisted upon him.</P>
+    </Speaker>
+    <P>To continue this saga, we had to wait <Col N="12" /> until half an hour ago to know who will be Leader of the House.  I congratulate Senator Lanigan.  I am very pleased to see him back as Leader of the House, but it is absolutely outrageous that no Leader of this House was available until half an hour ago.  That has meant that it has not been possible to plan business.  It has meant that there was nobody for the Opposition groups to talk to.  There was no forward planning.  It means that the real work of this House probably will not start in earnest for another two or three weeks, three and a half months after the election.  This is a scandalous waste of public time and money.</P>
+    <P>
+      <i>(Interruptions.)</i>
+    </P>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I am sorry, I am not going to be heckled or cat-called from the other side.  This House has waited long enough to have our first meeting. What has happened has been a scandalous waste of public time and public money.  The membership of the Seanad should have been completed within one week of the election.  We should have been back here working in early September; God knows there is enough work to be done.  But, for whatever reason &mdash; and they were party reasons, not national reasons &mdash; this House is now close to becoming an object of ricicule, and this has happened over the past number of months.</P>
+      <P>In many respects this a very different House to the last one.  Almost half the Members here were not Members of the last House.  It is different in that we have the presence of the Progressive Democrats &mdash; not for the first time, because in the Seanad before last there were two very fine Members of the Progressive Democrats in this House.  However, since then the Progressive Democrats, as we know, have developed a deep-rooted, highly-principled and loudly articulated objection to the very existence of this House, so I think we can all appreciate the soul searching and the sense of sacrifice which has enabled them to take their seats here today.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Col N="13" />
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>However, we can be comforted by the sure knowledge that it was done in the higher national interest.  I welcome the presence of the Progressive Democrats in this House today.  I hope they will be a spur to their coalition partners into taking a serious look at the procedures and the functioning of this House.</P>
+      <P>I want to say here and now that we in Fine Gael will be making reform of this House our main priority for the coming session.  We want to see a deep-seated, wide-ranging root and branch reform of the Seanad.  Nothing else will satisfy us at this point.  Unless we do that now the choice may be taken out of our hands at some future time.  I welcome the Progressive Democrats.  I welcome what will be, I am sure, their certain support for wide-ranging reforms, and I welcome the leavening presence they will have on their coalition partners in this regard.</P>
+      <P>I want formally to propose the name of Senator Avril Doyle as Cathaoirleach. Senator Doyle is a strong, distinguished politician of great flair and style.  She has proven qualities of leadership, wide political experience in a number of Government Departments&mdash;&mdash;</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>Obviously what I am saying is touching some raw nerves on the far side.  In Senator Doyle we are putting before the Seanad today a person with wide political experience and political courage, and a person with flair.  I believe this House needs a strong Cathaoirleach, a strong woman politician, a politician with a proven track record and, therefore, it gives me great pleasure to propose the name of Senator Avril Doyle today.</P>
+    </Speaker>
+    <P>However, the reality of numbers today is that the voting figures are such that Senator Seán Doherty is likely to be elected Cathaoirleach.  If he is, he will have the full co-operation of this group in the House.  We will judge him on his performance as Cathaoirleach and how he performs in his capacity as a fair, open and innovative Cathaoirleach.  I believe <Col N="14" /> that whoever becomes Cathaoirleach is entitled to cothrom na féinne and fair play and we in this group certainly will accord those in full measure to the person who is elected today; it will then be up to him or her to prove themselves worthy of that sense of trust.</P>
+    <P>There is, however, one final point about the election of Cathaoirleach. There is one tradition to which I would like to see the Cathaoirleach, whoever he or she is, revert.  I believe the practice, so long the norm here and always the norm in the Dáil, that the Cathaoirleach or the Ceann Comhairle should absent himself or herself from parliamentary party meetings is one that should be restored in its entirety to this House.</P>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I believe it is a matter of the utmost importance that the Cathaoirleach should be seen to be above party politics; nothing less will satisfy the requirements of fair play and the requirements of all sides of this House.  We are saying today to the new Cathaoirleach that we will expect the Cathaoirleach, once elected, to absent himself or herself from meetings of his or her parliamentary party.  It was the old tradition and it is one, I think, which is vitally important to this House.</P>
+      <P>I am putting forward the name of Senator Avril Doyle and I call upon those in smaller groups, those who are not yet committed, to consider her candidacy very seriously indeed.  I think she would be a splendid Cathaoirleach, but I can assure whoever is elected that he or she will have the full support of this group.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>I second the proposal that Senator Avril Doyle be elected Cathaoirleach of Seanad Éireann.  In doing so I am very conscious of the fact that Senator Doyle has wide vocational experience, she has considerable political experience in another place and, in addition, she has served as a member of local government since 1974.  She has served as a Front Bench spokesperson in the Dáil on matters such as the Marine <Col N="15" /> and Agriculture and the House will agree that she was a distinguished junior Minister in the Department of Finance for a period.  In Senator Doyle we would have a candidate for this very important post who has wide and considerable political experience and one from whom we could expect a measure of fair play and innovation. In addition, there is a long political tradition in her family.  I had the honour of serving for many years here with her late father.  I commend her name to our colleagues in the Seanad for this important position.</P>
+      <P>I join with Senator Manning in paying tribute to the outgoing Cathaoirleach, Senator Tras Honan.  I had the pleasure of working very closely with Senator Honan during her period as Cathaoirleach and I must say she certainly left her own stamp and imprimatur on the office and on the work of the House over the past number of years.  I want to thank her for her kindness and co-operation and may I wish the new Cathaoirleach &mdash; whoever he or she may be &mdash; success in the role.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>Ba maith liom an tOllamh Seán Ó Murchú a mholadh mar Chathaoirleach.  Fear cróga, oilte, ciallmhar, léanta agus fear a bhfuil an Ghaeilge go maith aige agus blas álainn dílis ar fad.</P>
+      <P>It is my great honour to propose my colleague, Senator John A. Murphy, for the role of Cathaoirleach of Seanad Éireann.  I did so in my somewhat halting Irish because I am aware of the fact that Senator Murphy is one of the regrettably small number of Members of this House who is extraordinarily proficient in what is constitutionally regarded as the first national tongue.  I feel it is a very good thing that a distinguished scholar, a man of learning, courage and conviction should be nominated from the Independent benches to fill this very important role.</P>
+    </Speaker>
+    <P>This is not the moment to cast aspersions on the reputation of any person in this House.  I would, however, make a general point that we feel it is <Col N="16" /> important that the function of Cathaoirleach should be, and should be clearly seen to be totally, entirely and absolutely non-political and non-partisan.  Therefore, it is particularly fitting that there should be a serious and dignified nomination from this side of the House of a senior Member of the House who is independent in mind and independent also of any suggestion of party affiliation and one who also clearly represents that principal aspect of Irish public life for which the Seanad was crated.  I speak of the vocational aspect, for Senator Murphy, as you know, has a distinguished record not only as a maker of history but also as a recorder and an analyst of history as a professional historian.</P>
+    <P>The confidence of the people of Ireland in Senator Murphy has been plainly evinced in five elections.  He was elected in 1977, 1981, 1982, 1987 and 1989.  The six Independent Members of this side of the House are perfectly serious.  We are not making an empty symbolic gesture.  We are offering to people of goodwill from all parties the opportunity to make good for once the empty rhetoric about the rspect in which the Seanad is held and the respect in which they would like to see it held in Irish political life.</P>
+    <P>At elections it is normal for candidates who present themselves for election to speak and I understand and I very much hope that my distinguished colleague will speak this afternoon in this debate, and I invite the other candidates to speak also for we are entitled to know what the qualificatins are on which they presume to put themselves before this august House.  I believe it is inappropriate, if what I read in the newspapers is true, that this job should be selected out of a hat.  I have heard of Pat &ldquo;The Cope&rdquo; Gallagher.  I wonder is Senator Doherty about to acquire the soubriquet Seán &ldquo;The Hat&rdquo; Doherty.  It is very important that we hear from the candidates involved what are the qualities they possess. I, in particular, would like to know, because it is important in the election of a Cathaoirleach, what their views are so that we can judge the suitability.</P>
+    <P>It is almost possible that I will vote with <Col N="17" /> the Government if I can be convinced, because I am a man of open mind.  It is highly unlikely but perhaps Senator Doherty, who is a man of immense charm and considerable intellegence and wit, might just about do so.  But he would, first of all, have to do one thing which is unusual in this House: he would have to tell me what his future political intentions and ambitions are, because I have referred to this House previously as being regarded as a kind of a convalescent home for politicians.  I would hate to think that it was becoming an intensive care unit for political reputations so that they can be resuscitated.  I wonder if Senator Doherty would answer hypothetical questions about, for example, what might occur if there was a by-election in the Roscommon constituency? We are entitled to know whether we have a Cathaoirleach for the entire life of this Seanad.</P>
+    <P>I would like also, without being churlish, to say that I view with a certain sense of irony the entry of Fianna Fáil's partners in coalition into this House because I heard this morning a Senator from Waterford saying that he intended to enter this House with a view to securing its extinction.  I have heard of a trojan horse and this sounds to me like a trojan ass.  I think, in fact, it is rather insulting to those of us who take the Seanad seriously for people to come in with the commitment to the destruction of an Upper Chamber that is, can be and has shown itself to be an effective instrument in the refinement of legislation.</P>
+    <P>I listened with great attention to what my distinguished colleague, Senator Maurice Manning, had to say and I applaud the fact that Fine Gael are going to again push for reform of the Seanad. I know there are many people of goodwill on the Government side who also would like to see substantial reform of the Seanad.  I believe that my colleagues on the Independent benches will certainly actively promote this.  In fact, I believe it was my colleague, Senator Shane Ross from Trinity, who actually placed this as a matter on the Order Paper in the last <Col N="18" /> session of the Seanad and led the discussion on it.  We will certainly participate in it and we will have more suggestions to make.</P>
+    <P>We are a legislative Chamber.  I see that it has been announced or leaked &mdash; one is never quite sure of the fine distinctions between these phrases &mdash; but it has made its appearance in the media that it is the intention of the Government to introduce legislation through this House.  It is also the intention of the Independent Members to introduce legislation in areas where the Government are deficient, but one area in which the machinery of State itself is deficient is the fact that Opposition Members and, particularly Independents, are not granted the facilities to frame legislation properly.  It is difficult to acquire the services of a parliamentary draftsman, and I believe this is one of the reforms that should be made.  These services should be made available easily to the legislators of this country.</P>
+    <P>I also welcome the fact that spokes-persons on both sides of the House acknowledged the existence of the Foreign Affairs Committee and I hope the Government will formally recognise this. I would like to take this opportunity to advertise the fact that on 9 November at 3 p.m. there will be a meeting of the Foreign Affairs Committee and I would like to extend an invitation to all Members to attend.  I hope the reappointed Leader of the House will rescind the instruction to the Fianna Fáil members of that committee that they should not join this committee and I hope some of them will have the courage to join with us in the Foreign Affairs Committee of both Houses of the Oireachtas.</P>
+    <P>There is no question that we will have an election to the position of Cathaoirleach today.  I would recommend the new Cathaoirleach to study the records of the last several Seanaid, because there is a wide margin of appreciation allowed to the Cathaoirleach of the Seanad in making decisions with regard to matters to be taken on the Adjournment, with regard to when to put votes and so on, <Col N="19" /> and this margin of appreciation is so wide that in the hands of a political appointee it can sometimes be suspected that there may be just a hint of party bias which we would blush to mention from these benches.  I think the incoming Cathaoirleach would do very well to read the lessons of history.  Of course, in the case of the gentleman and scholar whom I have the honour to propose this will not be necessary but should it turn out that Senator Murphy is not elected to this high office, then I would strongly recommend to the incoming officeholder that he or she should study the past in order to learn both from the excellent decisions and also from those decisions which raise a certain element of doubt.</P>
+    <P>I would like to place on record my thanks to the outgoing Cathaoirleach, Senator Honan, for the dignity and the courtesy with which she always entertained my complaints and my various ideas with regard to the Seanad and to say that I look forward to her contributions from the benches of the Government party.</P>
+    <P>I would like to conclude by extending a very warm welcome to a very distinguished citizen of Dublin, Alderman Carmencita Hederman, who has joined Senator Ross and myself on the Independent benches as a representative of the University of Dublin, Trinity College.</P>
+    <Speaker pid="BrendanRyan" hpid="Mr. B. Ryan Mr. B. Ryan">
+      <NameTxt>Mr. B. Ryan</NameTxt>
+      <P>Is mór an onóir dom tacú le hainmniú an Seanadóir John A. Murphy mar Chathaoirleach den Seanad.  Tá trí nó ceithre fáthanna agam gur féidir liom a leagadh os bhur gcomhair chun a chur in iúl díobh cé chomh oiriúnach is atá sé don phost atá le líonadh againn inniu. Glacaim féin go bhfuil cúpla rudaí tábhachtacha a bhaineann le post an Chathaoirligh.  The first and primary one is a belief in the importance of Seanad Éireann as a House of the Oireachtas. The second is a belief in the importance of the Oireachtas as a part of our democratic process.  In both of these, Senator Murphy has an unparalleled record.</P>
+    </Speaker>
+    <P>He believes in the work of this House. <Col N="20" /> His eminence in Irish life on a variety of issues, on some of which I do not agree with him at all, his ability to make use of his position in this House, to use the processes of this House to extend the debate in Irish life in many areas is an indication of his commitment to this House and to this House as a partner and a part of the legislative process.  Equally, his work in this House on legislation, on items of Government legislation, on items of Private Members' legislation and on the various issues that come before us indicates again that he believes, as we on the Independent benches here believe, that the real lifeblood of democracy is not Government but Parliament, and the real creative kind of democracy can only operate in a country where there is a healthy tension between Parliament and the Executive.</P>
+    <P>What we have got and got used to in this country is a subservient parliament and an almost automatic Executive which is answerable only once in every four and a half years to the electorate and which does not believe in any way in the need to actually justify itself or explain itself to the Houses of the Oireachtas.  I, and I am sure all my colleagues on the Independent benches, reject that.  That is why we use, as well as we can and with the abilities that we have, the opportunities that are presented by the somewhat stifling Standing Orders of this House and the somewhat stifling method of election, to advance the position that Parliament is important and that, in fact, Parliament rules in this country, not the Government.</P>
+    <P>Let it be said and put on the record that this is a country of a parliamentary democracy in which it is Parliament which decides and the Government can do no more than propose, and it is time that we moved back to that.  In order to insist and ensure that that sort of position is both advocated and defended on behalf of this House so that we do not have the spectacle of the Chief Whip of the major Government party from another House pronouncing on what should happen in this House &mdash; it is a gross offence and a gross breach of privilege to hear the <Col N="21" /> Government Chief Whip from the other House give us a lecture how people should behave in this House &mdash; so that we do not have that and so that the rights, the privileges and the dignity of this House are defended, we need somebody with the qualities of Senator Murphy.  We do not happen to need somebody just because we agree with his or her political views.  It is the quality of the individual that matters in the position of Cathaoirleach and that is why I happily and enthusiastically endorse Senator Murphy.</P>
+    <P>Unfortunately, by contrast, the two other nominees are people who have not shown in their history any particular commitment to this House, and cannot, I believe, give us any commitment for the future to this House.  As with Senator Norris's question to Senator Doherty about Roscommon, I would invite Senator Doyle to clarify for us what would happen if there was a by-election in Wexford next week.</P>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>Hugh Byrne.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. B. Ryan Mr. B. Ryan">
+      <NameTxt>Mr. B. Ryan</NameTxt>
+      <P>One of Senator Cassidy's great qualities is his inability to understand anything serious.</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>Repeat that remark.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. B. Ryan Mr. B. Ryan">
+      <NameTxt>Mr. B. Ryan</NameTxt>
+      <P>I will repeat it anywhere. The difference between myself and Senator Cassidy is that I can remember what I say.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>If Senator Cassidy put all his comments together he might get a speech out of it.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. B. Ryan Mr. B. Ryan">
+      <NameTxt>Mr. B. Ryan</NameTxt>
+      <P>As I was saying before Senator Cassidy interrupted me, I think if is a matter of regret that two of the major parties in this House have chosen as their candidates for Cathaoirleach people who cannot give us any assurance that they actually take this House seriously or believe in the role of this House or see it indeed as anything separate or different from a place that you can get stuck in for a few years until you <Col N="22" /> can get back to where the real action is taking place.  That is most regrettable and offensive to those of us who actually believe that both Houses of the Oireachtas have an important job to do.</P>
+      <P>I agree with Senator Manning that the way this House was treated in the past number of months was a complete and utter disgrace.  I live with the realities of people's political pressures.  I understand after eight years &mdash; perhaps in a way I did not when I was elected first &mdash; the pressures that exist on people in political parties but nothing can justify what was done in the past three months.  There are two parties over there.  The smaller party in the coalition in particular have struck poses about their concern about Northern Ireland.  The party came into existence because of a superior view about Northern Ireland but they insisted on grabbing their three seats in the Seanad for themselves and did not have the generosity to share one of them with those people in the North about whom they profess so much concern and about which they display an extraordinary level of superiority towards the rest of us. Fianna Fáil I have got used to but I expected somewhat better from the Progressive Democrats.</P>
+      <P>I reiterate my view that I am not just happy but extremely proud to support the nomination of Senator John A. Murphy for the position of Cathaoirleach.</P>
+    </Speaker>
+    <Speaker pid="PatUpton" hpid="Dr. Upton Dr. Upton">
+      <NameTxt>Dr. Upton</NameTxt>
+      <P>The post of the Cathaoirleach of this House is an important one. The holder will become a member of the Council of State.  The election of Cathaoirleach is taking place at a time and in an environment when the role and future of the Seanad is being questioned. The Labour Party believe that as far as possible the holder of the office of Cathaoirleach of Seanad Éireann should not be directly or overtly involved in party politics.  We believe there should be an element of continuity between being a Member of this House and becoming its Cathaoirleach.  Both the Fianna Fáil and the Fine Gael nominees are directly involved in party politics.  Like myself, <Col N="23" /> they were candidates in the recent elections for Dáil Éireann.  It is on this basis that our party, the Labour Party, will not be supporting either of those candidates.</P>
+      <P>Senator John A. Murphy has been a distinguished Member of this House for a number of years.  He is a man with a national reputation.  He has made a major contribution to debates on the Constitution and to debates on education. We believe him to be a fair minded and honourable man.  However, the political realities are that it is unlikely Senator Murphy will be elected.  Whoever is elected, we will co-operate fully with them in their work as Cathaoirleach of this House and it is on how they conduct themselves in that office that we will judge them.</P>
+    </Speaker>
+    <Speaker pid="JohnMurphy2" hpid="Professor Murphy Professor Murphy">
+      <NameTxt>Professor Murphy</NameTxt>
+      <P>I do not propose to get involved in the debate about my own nomination.  I want to thank very much my proposer and seconder.  There is very much more to be said on my behalf but a natural delicacy and good breeding for-bids me to say it.  Rather do I want to add my voice to the concerned voice of others on this occasion about the present state of this House, about the considerable disrepute into which this House has further fallen in the past few months.</P>
+      <P>In a way the trouble is very deep-rooted indeed and it is written into the Constitution itself.  I believe that the holy founder of the Constitution knew very well that his seemingly grand structure of a vocational assembly would, in fact, lend itself to party prostitution which is what has happened from the beginning.  Compounding that is media indifference and in this House we have drawn attention to the sections of the media which have reported our proceedings and those which have totally ignored it.  It is not surprising, I suppose, that the picture which the media should have of this House is of a House devoted to pursuing its own political self-interest.</P>
+    </Speaker>
+    <P>I was glad that Senator Manning from the Fine Gael benches has announced his intention of supporting a root and branch reform of Seanad Éireann.  I take that to <Col N="24" /> mean, among other things, that Fine Gael candidates for Dáil Éireann will in future be precluded from standing for Seanad Éireann, that they will have to declare their interest and to facilitate that reform that elections for Dáil Éireann and Seanad Éireann will be held on the same day.  If Senator Manning's intentions to reform mean anything they certainly must mean that.</P>
+    <P>During the summer months, as Senator Manning and others have said, the Taoiseach delayed the nomination of his 11 Members; in fact he neglected his constitutional duty until the 11th hour and in so doing showed a contempt for this House which, for those of us who were concerned to watch closely, was always there.  The Taoiseach has noticed the existence of this House only when it suited him, and particularly when he wanted to act the cultural showman as on the occasion of the Blasket Islands Bill.</P>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>Shame.</P>
+    </Speaker>
+    <Speaker pid="JohnMurphy2" hpid="Professor Murphy Professor Murphy">
+      <NameTxt>Professor Murphy</NameTxt>
+      <P>In this respect and in the final nomination of his selection he plumbed new depths of cynicism, no mean achievement for the gentleman in question, I may say, and when he did nominate his 11 Members the betrayal of the North was manifest and revealed at once the real interest of the Fianna Fáil Party as regards the North of Ireland, so much wind rhetoric.  We always knew that but did we know that the political purity league of the Progressive Democrats would collapse so fast on this issue? I suppose the coalition works both ways, that the core values of each component is being corrupted at the same time.</P>
+    </Speaker>
+    <P>What I resent most of all on behalf of this House is the fact that the Leader of the Progressive Democrats has never said a word about the <i>volte face</i> involved in having members of his party in this House.  Devoted to the abolition of Seanad Éireann he yet permits the selection of three members of his party to work in this House.  There was a press interview which took place during that period and he never adverted to that fact. Rather he has let the Minister of State <Col N="25" /> at the Department of the Environment brazenly and unconvincingly defend this move.</P>
+    <P>I echo what Senator Norris said, they are indeed a Trojan horse.  We could think of other perhaps more endearing phrases like cuckoos in our nest or vipers in our bosom but it is the first time that any party sat in this House who are professedly devoted to the destruction of this House.  I think that is tantamount to a constitutional crisis.  As far as I am concerned, they are not welcome here.</P>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="JohnMurphy2" hpid="Professor Murphy Professor Murphy">
+      <NameTxt>Professor Murphy</NameTxt>
+      <P>Let us hope at least that they have the decency to put down a motion as soon as possible.  I will suggest the phrasing of the motion for them, free, gratis and for nothing: &ldquo;That Seanad Éireann calls on the Government to initiate the necessary constitutional measures to abolish Seanad Éireann&rdquo;. Let them put down that motion and let us have a discussion on it.  I think maybe their presence has one good effect and that is that it will encourage elements in the Fianna Fáil Party and in the other parties who believe in this House and who want it reformed to save it from the disreputable state in which it now exists. I must say I would prefer the Seanad to be abolished than to remain in its present degenerated and unreformed state.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>At a time like this when we are making the decision which is going in a sense to flavour the remainder of this session, it is very important that we examine how we came to be in this position.  Let us get the personalities out of the way very early on.  Seán Doherty is a charming, intelligent and very able politician.  As has been said by a number of speakers from this side of the House, as far as we are concerned when he takes the Chair, as would now appear to be inevitable, he will have the support we always give the Cathaoirleach of the Seanad.  That is the way that we would want it to be.  Let history sort out its own problems.</P>
+    </Speaker>
+    <P>What has happened over the past <Col N="26" /> number of months has been totally unacceptable to any fair-minded person.  I take issue with Senator Manning on one point.  He talked about the Opposition walking out.  The Opposition did walk out.  The Independents also walked out in June.  I would like to make it quite clear that we speak from an independent position.  That has been well established right down through the years.  We speak from an independent point of view.</P>
+    <P>
+      <i>(Interruptions.)</i>
+    </P>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>As I said, if you write them all down you could read them off and get a full speech.  One thing is for sure, nobody from Fianna Fáil will get up and speak today.  The traditions of the House demand it.  The Whip is out, stay where you are.  We are used to it at this stage.  We are surprised when we hear a speech from the Fianna Fáil side.  I continue to learn.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Farrell Mr. Farrell">
+      <NameTxt>Mr. Farrell</NameTxt>
+      <P>You do not, you are still a scholar.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>It is the university of life speaking.  The Cathaoirleach would want to have a look at the kind of House where he or she will be Cathaoirleach.  It is now quite clear that what has happened over the past number of months has pointed up the need for a real debate on reform of the Seanad.  Every Member on the Independent benches has said at some time over the past six months that the Seanad would be better abolished than to continue in its present form.  It is only being used not for a blind for the people. It is being fettered and stopped at every hands turn and it is a reflection on those of us in it that it continues to be like that.  It is certainly our intention from the Independent benches to work precisely along the lines as outlined by Senator Manning, at every point to push for change and reform.</P>
+    </Speaker>
+    <P>I would certainly welcome, from the potential Cathaoirleach, a view on how this House might be changed because it just cannot continue in the way it has operated over the past three or four <Col N="27" /> months.  We have seen a House that was abused in June with the mid-election sitting pushing through two of the most major pieces of legislation that had to be dealt with in the final period of Government. That legislation was pushed through in one day.  As far as I am concerned that was unconstitutional but that was never challenged.  For any serious politician with an interest in legislation it was unacceptable and nauseating.  It continues to be the case that month by month, week by week, day by day, what is reflected in the attitude of Government to the Seanad is certainly something which is unacceptable.</P>
+    <P>The delay in nominating the Taoiseach's nominees is inexplicable in any terms except that of <i>realpolitik,</i> the <i>realpolitik</i> being the row between the Taoiseach and the grassroots of Fianna Fáil, the so-called grassroots of Fianna Fáil wherever they are.</P>
+    <P>
+      <i>(Interruptions.)</i>
+    </P>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>I am wondering how you are to deal with the revolt over the weekend.  The delay in the nominees was one thing but the unacceptable nature of the nominees was another.  It is disgraceful that the Taoiseach has chosen to ignore those areas which had become traditional to be included among the Taoiseach's nominees.  The fact that there was no person nominated to represent the other state on this island is totally objectionable.  It is as objectionable from the point of view of the Progressive Democrats as it is from the point of view of the Taoiseach.</P>
+    </Speaker>
+    <P>It is a fair reflection of the disdain and the contempt with which this House is being treated by Government, that we had to wait until two minutes before the House met to know who was the new Leader of the House.  It is disgraceful that we are sitting here, supposed to be beginning the business of legislation and the business of the Oireachtas, and we still have not before us one item of legislation from the Government.  It is disgraceful that the only items of legislation <Col N="28" /> which are on the Order Paper today have come from the Independent benches.  It is disgraceful but not surprising because that is a reflection of the way this House has been operating for quite some time.</P>
+    <P>It may be said we are blowing our own trumpet here.  What we are really trying to do is prod the Government into some way of responding, to have a look at the realiy,.  If this House is going to be treated as a waiting place for greater things or as a convalescence home after other things, that is not good enough.  It is wasting the taxpayers' money and we should have a look at what we are about.  It is absolutely critical that the first reform of the Seanad would be that the nomination day for Dáil and Seanad elections should coincide, that people should commit themselves to one House or the other and let it operate on that basis.  It is also clear, of course, that the cynicism of Government fuels the cynicism with which people view this House.  It is also the reason why people are now so utterly confused between the arguments for reform of the Seanad and the arguments for abolition of the Seanad.</P>
+    <P>That takes us to the participation of the Progressive Democrats in this House. I have long had the impression that the philosophy of the Progressive Democrats is about as stable and consistent as the weather.  It is absolutely clear that principle does not enter into it, that they have moved in their attitude to this House, left, right, centre, back, forward and that do not know where they are.  It would be a decent thing for people to say: &ldquo;We are in here for the salary&rdquo; or &ldquo;We are in here to see what we can screw out of the State in terms of salaries for the next couple of years in order to keep ourselves occupied until we can stand for the Dáil the next time&rdquo;.  At least people would understand what they are about but to pretend that they are, on the one hand, opposed to the Seanad and, on the other hand, that they will participate in the Seanad and that they will in a sense give something by their presence here is totally inexplicable. There is a story about the winky wanky bird which it is not possible to tell in this polite company.  I must read it into the <Col N="29" /> record at some time when I can get it into more polite phraseology but it is what runs through my head at the moment.</P>
+    <P>Not alone were the Progressive Democrats making demands on the Taoiseach for Cabinet seats, for junior Ministeries and everything else but when it came to it they were able to bury their whole philosophy and views and all their statements about participation in this, the Upper House of the Oireachtas, and to reach over into the sweet bag and grab Charlie's last three rolos.  That was just totally unacceptable.  I do not welcome the involvement in this House of people whose objective it is to abolish the House. I think they have no place here and I do not think they have anything to offer here, if I may say so.  Every time they stand up to speak they will be seen as people who are not committed to the workings of the House and, therefore, cannot be committed to the business of the House.  They have nothing to offer in terms of progressing the work of the House.  It does not make any sense at all. I think the Progressive Democrats should clear up their philosophy, establish a new position and tell us precisely where they stand.</P>
+    <P>In our proposal to the House that Senator John A. Murphy should assume the Chair we have offered at least an alternative.  I would ask those members of Fianna Fáil who are committed to this House, who are committed to being Members of the House, who have shown commitment over the years, that they also take an interest in this discussion and what is being said here today.  It is also significant, incidentally, an answer to a question asked earlier as to how relevant this is to the election of the Cathaoirleach, that the only way we can get a discussion on the structures of the House is when a major structural fundamental matter is before us.  The Government side have refused time and time again over the past two years to discuss these matters openly.</P>
+    <P>I would ask the Cathaoirleach of the House how far indeed he intends to take the business of the House.  I would ask of <Col N="30" /> the Cathaoirleach that he would be fair-minded and open.  I would ask of the Cathaoirleach of the House that he would be able and experienced.  I would ask of the Cathaoirleach of the House that he would be tolerant and sensitive.  Above all other things, I would ask of the Cathaoirleach that he would push out the parameters of the work and of the influence of this House.</P>
+    <P>Everything we have seen over the last number of months leads me to believe that the opposite is about to happen. The fact that there is no programme of legislation for this House is disgraceful. I certainly want to hear from Senator Doherty who is being proposed for Cathaoirleach, what his view is on the breakdown of work in this House; how much legislation will be initiated here; how many motions will be taken, the attitude towards sitting days.  Are we going to have the same position as we have had here in the corresponding term for the past three years where we started late, finished early and found ourselves in the weeks before Christmas trying to get through an extraordinary volume of legislation although we were working only one day or two days a week early in the term?  We are starting that again today.</P>
+    <P>Of course, for those people in Fianna Fáil and in other parties whose only interest in this House is to give themselves a launching pad to a constituency for the Dáil, this suits very well because they can go away and start writing letters looking for medical cards and lights outside back doors and a bit of tarmac up to a front door.  If that is the business of the people in this House, then as I said at the beginning, we have no business being here.  I am not denigrating that work by the way.  I would discuss that in another way.  I hope we will not find ourselves in the position in future that the Fianna Fáil whip will be searching around for Senators to speak on important legislation or motions and finding no one on the Government side of the House interested enough to speak.  I hope we will not have a repetition of the nauseating spectacle on at least three <Col N="31" /> occasions in the last Seanad where Fianna Fáil were not able to put forward even a single speaker.  This is why we respond so vehemently and so emotionally on this point.</P>
+    <P>There are some of us committed to the working of this House.  Let me say again that they are not confined to this bench here.  There are many people on both sides of the House who are committed to it.  They know who they are themselves but they have been whipped into silence and submission.  Time and time again they have refused to speak out, even at parliamentary parties.  It is important that it should be pointed up here as being important.  We have appealed time and time again that if there is something wrong then let us face it, let us deal with and let us discuss it.</P>
+    <P>It is an indication of the sort of paranoia Fianna Fáil and the Government have had about the media that they have arranged things today in such a way that the proceedings of the House cannot be broadcast or recorded, as is normally the case.  Of course, this makes a lot of sense from a Fianna Fáil point of view, and indeed from the Progressive Democrats point of view, because the <i>realpolitik</i> is that the stuff we are saying today would be damaging to you people were it to get out.</P>
+    <P>
+      <i>(Interruptions.)</i>
+    </P>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>We will surely get a speech eventually from the other side of the House.  If they think about it long enough they will get a few sentences together.  Maybe there is a view over there that needs articulation.  I doubt it but let us try it.  It seems the summer holidays have done the Government side a lot of good in the sense that they seem to be overly tolerant and are not prepared to respond to any amount of pressing and prodding and pushing on an issue.</P>
+    </Speaker>
+    <P>I ask particularly that the Government side and the Cathaoirleach would look on the proposals for change that have been put forward time and time again, would look particularly at three items which were the cause of discussion and <Col N="32" /> caused a problem in the last Seanad.  One was an agreement on a programme of legislation; an agreement on sitting days; regular meetings of the Whips in order to agree business and procedure.  That is not a lot to ask.  That is the way the House can move forward.  If the Cathaoirleach and the Leader of the House do not bring before us a programme of legislation and of work worthy of the House then we have to question what it is we are about, what kind of House the Cathaoirleach will preside over.</P>
+    <P>I urge the House, particularly those Senators who are committed to what the Seanad might do, to support the candidature of Professor Murphy.  He will see to it that this House works in the direction in which a second chamber in a bicameral Parliament should operate, that is, that it would examine the legislation that is there; that it would propose modification of that legislation; that it would initiate discussion on new topics; that it would initiate new legislation and, more important than all that, that it would reflect the topical considerations and views of people outside.  I am not talking about a reactive House.  I am talking about a responsive House and responsive needs a responsive Cathaoirleach.  Whoever is proposed, voted on and accepted as the Cathaoirleach here today will be assured of the support of the Independent group in the impartial carrying out of the business of the House.  I wish that person well.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Could I be bold enough in rising to thank my proposer and seconder for the nomination for the position of Cathaoirleach, to commence by correcting Professor John A. Murphy on an historical fact &mdash; some cheek indeed.  He made the statement that the three Progressive Democrats who are among us now were the first group of Senators or the first Senators to be in this Seanad plotting its downfall.  We have only to cast our minds back to 1934 &mdash;</P>
+    </Speaker>
+    <Speaker pid="JohnMurphy2" hpid="Professor Murphy Professor Murphy">
+      <NameTxt>Professor Murphy</NameTxt>
+      <P>The Seanad!</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>Yes, the Seanad.  I am <Col N="33" /> referring to the Seanad.  We have only to cast our minds back to 1934 when the Fianna Fáil Senators at the time voted for the abolition of the Seanad which subsequently came to pass a couple of years later.  How and ever, that is an aside and Professor Murphy and I can follow that argument another time.</P>
+      <P>I would like to join those who have expressed thanks and congratulations to the outgoing Cathaoirleach, Senator Tras Honan, for the dignified and able way she carried out her job.  She was an example to us all and I only hope that if I was lucky enough to be her successor I could emulate the same dignity and bring the same experience to the office as she did.  I would like to congratulate Senator Mick Lanigan on being reappointed Leader of the House.  I have known Senator Lanigan for many years.  We may have been political adversaries but I recognise his commitment to the Seanad and to the Irish parliamentary system.</P>
+      <P>May I also, amusing myself perhaps, in thinking back to the days of the Club of 22 congratulate my constituency colleague and my former parliamentary colleague from the Lower House, Deputy Hugh Byrne on his nomination by the Taoiseach&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="HughByrne" hpid="Mr. H. Byrne Mr. H. Byrne">
+      <NameTxt>Mr. H. Byrne</NameTxt>
+      <P>Thank you.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>&mdash;&mdash;by the same Taoiseach who, when you think of the Club of 22, was on the other side of the road from him at that stage but it is nice to see Senator Byrne in the Seanad also.</P>
+    </Speaker>
+    <P>May I make the point that political allegiance alone in itself does not disqualify myself, or indeed any other Member of this House, from holding the position of Cathaoirleach or for being a Member of the Seanad.  The impression has been given here that if we happen to have political allegiances of one type or another we just should not be in this House.  That is, in fact, not so, providing we also bring to this House a vocational experience as wide-ranging as possible. In itself, political allegiance does not dis-qualify any of us.  If that is all we bring to this House, yes, the questions that <Col N="34" /> have been posed by many members on the Independent side here are fairly valid.</P>
+    <P>For my own part, I would just like briefly to mention different ranges of experiences I have had &mdash; some of it very limited but I think it makes the point.  My political allegiance is well known.  I would never deny it, as I am sure others on different sides of the House would not deny theirs, but why am I not qualified to speak on a wide range of vocational issues on the different subjects that will come up here.  I leave you to judge that. When this Seanad runs its full term I will then accept criticisms, if they are deserved, of my contribution.</P>
+    <P>
+      <i>(Interruptions.)</i>
+    </P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. Doyle Mrs. Doyle">
+      <NameTxt>Mrs. Doyle</NameTxt>
+      <P>For however long I am a Member of this Seanad I hope to be able to draw on my wide range of experience in the various debates in this House.  If I let you down on those subjects and topics if I do not have the experience I should on what I am talking about, then your criticisms will be valid.  I suggest you hold your tongue to me and to other members of political parties until that time.</P>
+      <P>For my own part, I have a scientific background.  I have taught at second level schools.  I have limited experience in the educational field.  I have experience in commerce, agriculture, marine affairs.  I have been a member of local government and national and local administration for years.  I have, indeed, been fortunate to serve Wexford as mayor for a full term. I was the first Minister of State with responsibility for environmental protection &mdash; a point that seems to have been lost and forgotten &mdash; thanks to my appointment by the then Taoiseach, Deputy Garret FitzGerald, whose commitment to environmental protection is well known.  I was Minister of State at the Department of Finance with responsibility for the Office of Public Works and as junior Minister, I initiated the wonderful work here in this beautiful Seanad Chamber.</P>
+    </Speaker>
+    <P>Please, do not think I come into this House with a very narrow view of what we should or should not be doing.  No <Col N="35" /> one in Fine Gael has a narrow view of what the Seanad should be doing.  We are committed to reform of the Seanad, not to its abolition.  For those who are confused about the debate between reform and abolition, Fine Gael are committed to reform, and reform only.  May I also make the point that the Fine Gael agenda for reform of the Seanad will be an open agenda.  Nothing will be precluded, including the dates of Seanad and Dáil elections.  It will all be on the table for discussion and discuss it we will, and, I hope, we will come back to this House and have an open, frank debate between all of us here and an honest exchange of views in relation to it.</P>
+    <P>I support strongly the point made by my colleague, Senator Maurice Manning, in his kind proposal of me for the position of Cathaoirleach, that whoever is lucky enough to end up today as Cathaoirleach of Seanad Éireann, whoever is honoured enough to be given this post by this honourable House, should not belong to any parliamentary party or attend at any parliamentary party meeting.  That tradition was broken in recent years and we should revert to the previous situation. The reasons have been well amplified and documented and I will not go through that here again today.</P>
+    <P>We only have to cast our mind back to the formation of the Houses of Parliament here not so many years ago and the thinking behind the bicameral system of parliament that was established and the meaning behind the establishment of that system so that we could allow the different traditions in Ireland, the Nationalists, the Unionists, other differing views, to sit in this House and have a frank and fair exchange of the problems and difficulties, and indeed of their differences, in a non-confrontational way if at all possible.  Why could this House not be brought back to that point again? Why, for example, could our Members of the European Parliament not be brought into the Seanad and be given the right of audience, not only for us to know what they are about in Brussels and Luxembourg <Col N="36" /> but for their constituents here in Ireland to have the right of answering or listening to what they are about?  We could open this Chamber to our Euro MEPs and give them that right of audience so that we could have a cross-fertilisation of what is going on in the EC at the moment and we would all benefit. Could we not, for example, consider using this Chamber for what, indeed, it was intended many years ago?  Could we not use it for a more open, honest and non-confrontational exchange of the Nationalist, and indeed the Unionist views the majority and minority views, in Northern Ireland in Anglo-Irish relationship? Could we not work in the Anglo-Irish Agreement and the whole all-Ireland issue by opening our doors here so that we could truly listen to what is needed in the North rather than be speaking in a vacum down here and mouthing off about what we think should happen in the North?  Let us listen to all sides of the debate and all sides of the argument. Let us use this Chamber for some of the many things it was intended.</P>
+    <P>When Fine Gael debate the reform of the Seanad these and indeed many other issues will be on our agenda.  We are committed to its reform.  I am committed to using this Chamber for however long I may be a Member of it.  I will try to bring to it what limited experience I have on a wide variety of vocational areas in the various debates.  I think my record as a contributor in the other House is testimony to the fact that I take my parliamentary commitment seriously.</P>
+    <P>I thank my proposer and seconder and I hope, if indeed I was in a position to serve as Cathaoirleach, that I could do it with some of the honour and dignity the predecessors of that position have shown. Whoever is Cathaoirleach of the Seanad at the end of the day will have my full support, and indeed that of Fine Gael.</P>
+    <Speaker pid="JohnHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>May I take this opportunity to say a few words.  It is not so much that I am going to talk about the qualities or otherwise of the Cathaoirleach but I suppose when you are a long time in the <Col N="37" /> Seanad most people expect you to say something.  When I heard some of the contributions I was beginning to wonder whether an honours list had been introduced; if so, I want to get in on it.  I am very pleased that the attacks did not come down to personalities.  I am glad we did not go down that road.</P>
+      <P>I am delighted to have the opportunity to thank the outgoing Cathaoirleach, Senator Tras Honan.  I have been working with Senator Honan indirectly in that I was on the panel of chairmen and had the opportunity of working with her on a number of occasions over the years.  I have always found her to be very courteous and understanding.  I always liked the way she stood up to people, when she showed the human side of herself.</P>
+      <P>I would like to congratulate Senator Michael Lanigan on being re-elected to the position of Leader of the House.  I say with the greatest respect, after all my years in this House I realise the only way you get respect from Ministers and others so that they will come in and give the House time to deal with motions and Bills is by fighting for that respect.  In that sense I appeal to all Fianna Fáil Senators to row in behind the Cathaoirleach and fight for that respect so that we can get a Minister when we need him, who will organise his schedule to facilitate the House in taking serious legislation.  It was done before and it can be done again.  I make that appeal.</P>
+    </Speaker>
+    <P>I cannot judge any of the new people so the only thing left for me is to welcome them all.  As time goes on we will see how things go.  I wish them the best of luck in their roles.  I hope they will realise that the Seanad can do a great deal and that much more can be done by the type of contributions they are prepared to make.  We should not overlook the fact that while Fianna Fáil have their own system of nominating a person for the post of Cathaoirleach &mdash; that is not our business, it is their business &mdash; there were actually four persons in the race and not just Senator Doherty.  They were four suitable persons.  I would like to pay tribute to Senators Tom Hussey, Brian Mullooly and Des Hanafin.  I do not think the <Col N="38" /> others will mind too much if I just put a little emphasis on Senator Hanafin's contribution during the years here, and the loyalty.  I am not a Fianna Fáil man but I like loyalty to one's organisation and I pay tribute to him in that sense and also for his courteous behaviour when making contributions here.</P>
+    <P>I would support the people who were disappointed about the fact that nobody from the North was appointed.  It is unfortunate because, as somebody said here, Senator John Robb was a great example of what you can get as a contribution from Northern Ireland.  His was an outstanding contribution.  Brid Rodgers and Séamus Mallon were very good also but in my view Senator John Robb was something else.  He was outstanding and made a great contribution to the Northern debate.  He also took a serious interest in the workings of the Seanad.  I would like to pay that tribute to him.</P>
+    <P>A point made here was that the Independents were the only Members who had business down on the Order Paper.</P>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>No legislation.</P>
+    </Speaker>
+    <Speaker pid="JohnHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>Sorry.  I took that up wrongly.  I would like to say, for the benefit of the public, that the Labour Party have 20 motions down.  We are ready for business.  There are only four of us but we are ready for business and will play our role and make our contributions.</P>
+    </Speaker>
+    <P>I will conclude by saying that when the Cathaoirleach is elected &mdash; and, as has been said, it appears it will be the Government nominee &mdash; he will get the same understanding and courtesy from us as we have given down through the years.  When we feel we have reason to have a go at the Chair or anyone else, we will do that, but we will do it in a constructive and helpful way.  I want to emphasise that respect can only be got by fighting for it.  We should all fight for respect for this House.  If we do that we will get more work in this House which we need and which we will be well capable of dealing with.  That will not impede in any way the question of the reform of the Seanad.  That can run alongside.  You <Col N="39" /> cannot wait forever for reform.  You cannot let the hungry wait until everyone is rich before you start giving something to them.  We can go ahead with the reform.  There is nothing to stop us but we can also in tandem with that fight for the respect which will result in getting more legislation in this House.</P>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>First, I would like to state quite categorically that there is no spancel put on any Members on the Fianna Fáil side as regards the introduction of any motion here today.  They can speak if they wish to speak.  The reason I speak is just to point out that it is not alone on the Opposition benches that there is the feeling that, at times, there is a need for a review of the workings of this House. Everybody in this House is committed to ensuring that it works to the best of its ability as a House of the Oireachtas.  Over the years, Members on this side of the House, and Members on the far side, have dealt with reform of the Seanad at many meetings of the Committee on Procedure and Privileges.  One would think, judging by the contributions of certain people from the Independent side, that they had never attended meetings of the Committee on Procedure and Privileges at which major changes have taken place over the past number of years.  Major changes have taken place and they will continue to take place.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>The report was not accepted by the Government side.</P>
+    </Speaker>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>The Seanad is committed to the continuing working of Seanad Éireann and on this side we are no less committed than the people who have spoken on the other side.  There will be plenty of work for us to deal with over the next couple of months.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>It is the same old song.</P>
+    </Speaker>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>I have been listening to Senator O'Toole's song without interruption for quite a long time.</P>
+    </Speaker>
+    <Col N="40" />
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>The Senator can feel free to interrupt me at any time.</P>
+    </Speaker>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>I would at least have thought that the Senator would give me the courtesy of allowing me to address some of the points which are of relevance to today's debate.  The Government side are committed to ensuring that this Seanad will work to the best of its ability but it can only do so with the co-operation of the people on the far side and I am glad that that co-operation has been offered by most of the speakers over there.  I do not feel that we should get up here today and have a diatribe about what has happened here in the past.  What has happened in the past here has been generally good.  There have been minor upsets but I do not think we should allow this House to be used today to give an impression that it does not do its job. There were good comments made by various people on the far side but in general I have to say that there were contributions from people who should know better on the back benches.  They continue to call themselves Independent and we will remember that in the future as well.  Independent they may remain.  As I say, we are committed to ensuring that legislation will be introduced here, that the business of this House will be dealt with in an orderly manner.  I am delighted to be able to stand here today and to have nominated Senator Seán Doherty as Cathaoirleach.</P>
+      <P>I would not like to let the opportunity pass &mdash; and it is one of the main reasons why I rise &mdash; without paying a specific tribute to Senator Tras Honan.  She was an excellent Cathaoirleach.  I had a lot of work to do with her over the past number of years and she conducted the business of this House with decorum and dignity. What she has done for this House will not be forgotten.  I sincerely wish her a continued long life in politics.  I know that here on the front bench she will contribute very well to the working of Seanad Éireann in the future.</P>
+    </Speaker>
+    <P>I would like to thank those who commented on my role.  I sincerely hope that with the co-operation of the <Col N="41" /> leaders of the other groups we can have a Seanad which works and that will not be misused by anybody in the future.</P>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I rise because I would like to speak on a number of points.  First, I would like to say I am pleased to be here today supporting Seán Doherty as Cathaoirleach of the Seanad.  I believe he is a very good man.  I believe he will carry his position with dignity, that he will be impartial at all times and I am sure everybody in this House will be very happy with his performance over the next few years.  I personally would like to wish him well.</P>
+      <P>Secondly, I find it disturbing that Senator Manning has proposed a candidate from the Fine Gael benches.  The reason I find it disturbing is that I am very conscious of the tradition of this House.  I am here 20 years and I never remember it happening before.  The Government always proposed a candidate and it was accepted and the main Opposition party&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>It is a democratic right.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>Of course it is a democratic right.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>It is something that is clearly provided for in the Constitution.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I am not speaking about democratic rights; I am speaking about tradition and I thought I made that clear. I think the Senator would agree that that has been the tradition of the House.  I can only recall one instance of the tradition being broken here and that was in 1973 when Fine Gael supported a member of the Labour Party for Leas-Chathaoirleach rather than let the main Opposition Party have that position.</P>
+      <P>The Fine Gael Party are wrong in opposing Senator Seán Doherty for election as Cathaoirleach today. I would have to say to them that when they break a tradition of this House they should remember that other traditions can be broken also.  I regret to have to say that.</P>
+    </Speaker>
+    <P>
+      <Col N="42" /> Recently I was approached by a person who is writing a book on the Seanad.  She asked me about Senator Honan who was Cathaoirleach at the time.  I found myself using words like: she was unusual, different, an achiever, very effective.  In the end I said: &ldquo;You had better go and see her for yourself because you will certainly have great material for your book&rdquo;.  I have known Senator Tras Honan a long time, longer than any other Member of this House.  She was great, indeed excellent, as Cathaoirleach.  If there was any great day in her career it was the day these Houses were visited by President Mitterrand.  On that day she did us all proud and I should like to place on record that we are proud of what she did.  By way of an aside, the same woman writer asked me: &ldquo;Did you do anything in the last 20 years?&rdquo;  and I had difficulty thinking of anything.</P>
+    <Speaker pid="JohnMurphy2" hpid="Professor Murphy Professor Murphy">
+      <NameTxt>Professor Murphy</NameTxt>
+      <P>The Senator survived.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>Eventually I said to her: &ldquo;In all the 20 years I never told a lie or broke my word to a colleague&rdquo;.  She did not make any note of that comment. Obviously she did not think it was very important but it was very important.</P>
+      <P>I revert to that very good man and excellent parliamentarian, Senator Norris, when he described Senator Doherty as Seán &ldquo;The Hat&rdquo; Doherty.  I am rather sensitive about that description because if anyone is entitled to that description it is I: my name was longer in the hat than was Seán Doherty's.</P>
+    </Speaker>
+    <Speaker pid="CarmencitaHederman" hpid="Mrs. Hederman Mrs. Hederman">
+      <NameTxt>Mrs. Hederman</NameTxt>
+      <P>My contribution today will be very brief.  First, I should like to say how proud I am to have been elected a Member of this House.  I thought long and hard about where I might make a contribution following 16 long, hard years on the city council. There were various possibilities open to me.  I decided to stand for the Seanad and I am proud to be here today.  I did so because I believe this House can and should make an important contribution to the betterment of this country.</P>
+    </Speaker>
+    <P>
+      <Col N="43" /> I believe there are very serious issues and challenges out there in the real world but from what I have heard today it appears that this Chamber seems to be somewhat removed from them.  There are serious challenges of an economic, social, environmental character and a whole range of issues, particularly as we advance into the stimulating years ahead, particularly 1992.  I believe this will be a forum for reasoned and serious reflection, where these issues can be thrashed out in a thoughtful way while I am somewhat disappointed by what I heard today, I am heartened to know that there is the possibility of reform of this House in such a way that would render it what I had hoped it might have been.</P>
+    <P>I do hope there will be a non-confrontational approach, a cross-party approach to many of the important issues.  If this House is to be meaningful it has to mean something to the people out there.  Otherwise what are we doing unless we are contributing to the betterment of this country?  I know I echo the sentiments of those other Independent Members when I say that any moves to reform along these lines will have our total support.</P>
+    <P>I am particularly proud today to be a member of the Independent group.  I had always heard there were Independents in the Seanad who kept the debates stimulating and interesting.  I am glad to say that from what I heard today I have no reason to disbelieve that view.  I am extremely proud to be on this side of the House.</P>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="CarmencitaHederman" hpid="Mrs. Hederman Mrs. Hederman">
+      <NameTxt>Mrs. Hederman</NameTxt>
+      <P>I thank Senator Norris for his kind comments about me personally.  Finally, I should like to make one comment in relation to what Senator Doyle said.  She said there was nothing wrong with party political allegiance.  I fully endorse that.  The problem arises when party takes precedence over everything else, when narrow party considerations are kept uppermost at any <Col N="44" /> given time.  Senator Manning made various remarks along these lines.  He spoke about the undermining and devaluing of this House.  He spoke about contempt for the House.  I do not propose on this occasion to say any more other than express the view that, sadly, a lot of what he said is true.</P>
+      <P>My purpose in rising today is to support the candidature of Senator Murphy for the position of Cathaoirleach.  Senator Murphy is a most eminent man in many fields.  I know he has been a forceful contributor in this House.  I believe, above all, he would have one great asset or attribute among many others, that is, he would be independent.  That would mean the House would have a genuinely independent Chair and that is something I would greatly value.  Whoever is elected will have my full co-operation.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>As a newly elected Senator it is imperative that I record my regret at the manner in which I consider this House to have been treated since 18 August last.  Two months and two weeks have elapsed since we were elected as representatives to this House.  Yet only today, 1 November, have we begun our business.  Perhaps there is something symbolic about 1 November, All Saints' Day.  In any case it has taken us that length of time to get the show on the road.  That conflicts with the statements I have read &mdash; attributed to the Taoiseach &mdash; in which he stated that he considered this House had much business with which to deal.  He foresaw the House dealing with much new legislation.  There is a direct conflict there in that the Taoiseach has been so tardy in making his nominations and allowing this House to get on with its business.</P>
+    </Speaker>
+    <P>Secondly, in relation to his nominations, I want to record my support for those views expressed at the lack of nomination of somebody from Northern Ireland.  That has been a dreadful shame. We talk so much of our concern for Northern Ireland.  Yet, we have not seen fit to have somebody from the north represented in this House, whose membership has been graced by <Col N="45" /> representatives from the North since 1982.  I know outgoing Senator John Robb in another capacity than as a Member of this House.  I regard him as a very fine man, one who must have made a tremendous contribution to the House.</P>
+    <P>Primarily my regret is in the area of work that has not been done, work that remains and should be done at this time. Our present unemployment rate is in the region of a quarter of a million.  It is not decreasing.  It is undermining the entire <i>Programme for National Recovery.</i>  Emigration figures have reverted to the levels of the fifties, with 40,000 plus emigrating annually.  Our local authorities are deprived of funding.  There are no new houses being built, with 20,000 to 30,000 names on the public housing lists.  Our inner cities are falling apart.  For example, there are public flats without bathroom or washing facilities.  Our public services, particularly in education and health have been devastated over the past couple of years.  There is urgent work to be done here.  It is in these areas that legislation and the work of both Houses of the Oireachtas are absolutely essential to get things moving in the overall interests of the country.  The position obtaining is that it is generally perceived that party politics have been put before the interests of the country generally. That is not good for this House, its authority or reputation.</P>
+    <P>We have before us nominations of three Members for the position of Cathaoirleach.  It would seem most appropriate that the person who is most neutral, who has not shown a prior commitment to another House would be the most appropriate candidate for that neutral and impartial role.  But be that as it may, what is important is that we get the show on the road, that we order the business of the House, that we get the legislative programme together immediately so that we can begin working on the very important issues facing our country. I am certain that whoever is chosen as Cathaoirleach will have the full support of the Labour Party here.</P>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>I am very proud to support <Col N="46" /> the nomination of Senator Murphy but before speaking on that nomination I would like to make a few comments, as briefly as Senator Lanigan did and as humbly as Senator Doyle did earlier. When Senator Lanigan spoke just now he asked for the co-operation of the Independents in this House.  I do not offer the same co-operation to Senator Lanigan as the other Independents did.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>Shame.</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>It is all right; Senator Fallon will not be expected to speak again.  It is quite simple.  Co-operation in the last Seanad meant one thing and one thing only: it was that we got business through as quickly as possible, we offered as little opposition as possible, we said as little as possible and we behaved somewhat like stuffed dummies.  The Independents have no intention of co-operating with the Leader of the House if that is his intention again this time.  I say to those Members on the Fianna Fáil benches &mdash; they may not have had this instruction &mdash; they will not be encouraged to speak.  This is a unique occasion.  They should take a good look at each other because they will not see each other again for dust until they are re-elected next time because they are here only as lobby-fodder.  During the last Seanad Fianna Fáil speakers were asked on frequent occasions not to offer in order to get legislation through quickly&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>On a point of fact, that is utter nonsense.</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>Let me say&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>It is true.</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>Let me say &mdash; and I think the Leader of the House is probably out of order now &mdash; as well as that: let there be no doubt why the 11 people were appointed.  They were appointed for one reason and one reason only: that was as a reward as compensation or to win a Dáil seat next time.  That applies equally to the Progressive Democrats as it does <Col N="47" /> to the other eight who were nominated. They should not expect to be asked to speak: they will not.  They are going to be asked not to speak because that is what co-operation with the Leader of the House means in this House.  The Independents have absolutely no intention of co-operating in that way.</P>
+      <P>I have dealt with the Taoiseach's 11 nominees.  I am sure they are all very able people.  I am sure many of them will find themselves in the Dáil by coincidence at the next election if, God willing, Fianna Fáil do a little better than they did in the recent election.</P>
+      <P>The election of Senator Doherty as Cathaoirleach is one of the matters we are here to discuss.  In typical Fianna Fáil manner they have made a cock-up of this. What they ought to have done was this. They have appointed Senator Lanigan as Leader of the House, they have nominated Senator Doherty for the Chair and have appointed Senator McGowan as Chief Whip.  Senator Doherty is a man of many words who is going to be muzzled. Senator Lanigan is a man of few words who is going to have to talk and Senator McGowan &mdash; whose only contribution I remember was about the humble potato in the last Seanad &mdash; is going to have to keep discipline in the party.  It would seem to me that people are in the most inappropriate jobs because Fianna Fáil cannot put their house properly in order.</P>
+      <P>In supporting Senator Murphy I will add very little to what has already been said, but I will say this: Senator Murphy would not be open to the accusation which has been levelled at past Cathaoirligh of the Seanad, that they were manipulated by powers outside the House.  It is something we should look at, not as an accusation or a criticism of any particular person, but rather at the whole role of the Cathaoirleach of this House.  I sympathise with the Cathaoirleach whoever it may be.</P>
+    </Speaker>
+    <P>If Senator Doherty is elected today either he intends to be elected to the Dáil next time round or he is to be elected to the Seanad next time round.  It is very difficult to hold a position of that sort &mdash;<Col N="48" /> which is meant to be above party &mdash; when one will then have to offer oneself as a party candidate at the next election. Were Senator Murphy to hold that position no such difficulty or conflict of interest would arise.  I put it to the House that Senator Murphy's total independence, his scruplous and determined courage, his willingness to attack the consensus and not to take dictation from anybody else is his greatest qualification to hold this job.</P>
+    <P>Senator Murphy has a record in this House which does not necessarily endear him to everybody.  I am sure his opinions have crossed all possible party political lines at various times but nobody has ever questioned his integrity or courage.  The fact that we have proposed Senator Murphy in this House today is symptomatic of the need to re-examine the role of the Cathaoirleach.  It might be that the Cathaoirleach of the Seanad in future should not be a party politician, who is inevitably subject to party pressures, but rather should be a civil servant, somebody totally independent, or even a High Court Judge but someone who does not and will not lend themselves to accusations which are almost inevitable in this House.  I support the nomination of Senator Murphy.</P>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>I rise to speak on the motion we are discussing, that of the appointment of a Cathaoirleach.  Three names have been proposed &mdash; those of Senators Avril Doyle, Seán Doherty and John A. Murphy.  What I find alarming is that it is being suggested by certain people in the House that it is almost a sin to be part of the process of this House. The fact of life is that Senator Doyle is a member of the Fine Gael Party of which I am sure she is proud.  Equally, I am sure Senator Seán Doherty is proud of the fact that he is a member of the Fianna Fáil Party.  What I found extraordinary, to be almost the joke of the century was for Senator Norris to stand up and say that Senator Murphy was non-political&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>I said non-party.</P>
+    </Speaker>
+    <Col N="49" />
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>&mdash;&mdash;non-political; I wrote it down.  I find it extraordinary that people do not want to realise that we are in a political House, that the majority of Members here were elected by political groupings, county councillors, the outgoing Seanad and the Deputies of the new Dáil, all political people.  We are a political House.  We cannot forget that; it is a fact of life.</P>
+      <P>Another thing I find extraordinary is that it is being contended that some people on this side of the House and a few on the other side perhaps are not committed.  Of course, everybody is committed although some may be more committed than others.  That is understandable.  In the main they are deeply committed people who understand the purpose of their membership to be the improvement of legislation, the passing of legislation and generally to improve the lot of our people.</P>
+      <P>There seems to be some massive crib, from what are now known as the Independents, that our party should not have selected Seán Doherty as a candidate for Cathaoirleach.  That appears to be their attitude.  The fact is that four excellent members sought the nomination in what was a tense but absolutely and totally democratic meeting from which the name of Senator Seán Doherty emerged in a photo finish.</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>&mdash;&mdash;in a hat.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>The name of Senator Seán Doherty emerged in a photo finish.  That does not matter.  Any one of the four would have done; they were all excellent people.  We are proud of the fact that such fine people in this group put their names forward for election as Cathaoirleach. We are all deeply committed.</P>
+      <P>Senator Manning referred to reform. Naturally we would like reform.  I could suggest immediately &mdash; looking at the numbers game: how about five NUI and one Trinity?  That would be a start.</P>
+    </Speaker>
+    <Col N="50" />
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>It is clear what Senator Fallon is most threatened by&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>I did not hear the Senator.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>I said: it is clear what Senator Fallon is most threatened by&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>I can assure Senator Norris it is not by him.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>In that case, perhaps Senator Fallon would cease flattering me by continually referring to me.  I find it very flattering.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>What we have done, we have done proudly, in the knowledge that we have put forward an excellent person, Senator Doherty.  I know he will be elected.  I know he will prove to be an excellent Cathaoirleach.  I have to say that I am disappointed &mdash; here I support the view of Senator Hanafin that Senator Manning put forward a nominee on behalf of his party.  As I understand it he is breaking with tradition and I have been a Member of this House for the past nine or ten years.  It is unfortunate.  I regret it and I am disappointed.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>Let us have a Presidential election as well.  Fianna Fáil are not too keen on elections.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="Mr. Fallon Mr. Fallon">
+      <NameTxt>Mr. Fallon</NameTxt>
+      <P>I am disappointed at that Fine Gael nomination.  I would have preferred that they had continued the tradition in my time in this House and Senator Hanafin has been a Member for much longer than I.</P>
+    </Speaker>
+    <P>I support the nomination of Senator Séan Doherty.  Naturally, he will have my full support.  I am delighted that other groups have indicated their full support for him.  I would ask the Independents &mdash; as they now describe themselves &mdash; to examine their role in this House.  I would have to say that I have not been impressed with it.  Were I one of the electors of the Independent Panel sometimes I would have felt embarrassed at their childish attitude.  They should examine their position.  As I understand it, the <Col N="51" /> Progressive Democrats have indicated they wish to abolish the Seanad.  I would contend that Independent Members are giving them a lot of ammunition.</P>
+    <Speaker pid="JohnMurphy2" hpid="Professor Murphy Professor Murphy">
+      <NameTxt>Professor Murphy</NameTxt>
+      <P>On a point of information, the University Senators who put themselves forward for re-election &mdash; five of the existing six &mdash; were all massively endorsed by the electorate.</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>I should like to support Senator Fallon in what he has said.  I regret the tone of Senator Manning's opening address&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>The Senator was only nominated to the House by the Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>&mdash;&mdash;particularly in relation to the 11 nominees.  As Senator Ross has said I was nominated by the Taoiseach and I am extremely proud of that nomination.  I speak as one who has no aspirations to any other office.  I am totally committed to the workings of the Seanad.  I would ask Independent Senators, as they call themselves &mdash; I often wonder of what they are independent&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>All others.</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>They are definitely independent of Fianna Fáil; that is certain. I would ask them to look into their hearts in particular one of them who &mdash; from my reading of Press comment &mdash; has aspirations to a much higher office. In the event of that election taking place I wonder what would be their contribution? If they want to cast stones I say to them: let them look into their hearts and first put their own house in order.</P>
+      <P>We appear to commence this new session as we finished the last, with Independent Senators <i>ad nauseam</i> standing up here on the Order of Business&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>Speaking; yes.</P>
+    </Speaker>
+    <Col N="52" />
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>&mdash;&mdash;to use whatever radio time is available to get their names on the radio.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. B. Ryan Mr. B. Ryan">
+      <NameTxt>Mr. B. Ryan</NameTxt>
+      <P>Do we have to apologise for that too?</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>There are considerable periods of time when certain members of the Independent group are far away from this House.  At no stage are they available to vote on every issue.  They are not even in the country or anywhere near it.  Therefore, while such Senators voice pious aspirations, beat their breasts and congratulate themselves on being individuals and protecting this House, they might remember that if there is need to reform the procedures of the House that is caused by them.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>Surely not.</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>They are the people who are bringing this House into disrepute by endeavouring to claim the headlines at every opportunity and thereafter do not give a damn.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>We do our work on legislation.</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>I regret very much the cynical and unwarranted comment of Senator Murphy in relation to the Taoiseach and the Blasket Islands Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMurphy2" hpid="Professor Murphy Professor Murphy">
+      <NameTxt>Professor Murphy</NameTxt>
+      <P>I will repeat it, if necessary.</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>Senator Murphy knows full well that of all the politicians in the history of this State the one man who has shown fantastic interest in the development of our culture and heritage has been the Taoiseach.  He has shown that on umpteen occasions both as Minister for Finance and as Taoiseach.  Rather than people in this House being personal and abusive about him they should give credit where it is due and compliment the Taoiseach.</P>
+    </Speaker>
+    <Col N="53" />
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>The Taoiseach nominated the Senator.</P>
+    </Speaker>
+    <Speaker pid="TonyMcKenna" hpid="Mr. McKenna Mr. McKenna">
+      <NameTxt>Mr. McKenna</NameTxt>
+      <P>I endorse everything Senator Fallon said in relation to Senator Doherty.  He will make a fantastic Cathaoirleach and I look forward to working with him.  I can guarantee him that he will have my full support in any reform proposed and in rendering the House a better place.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>On a point of order, as the Senator who co-ordinated the contribution of the Independent group over the past two and a half years I should like to place on record that what Senator McKenna has just said is absolutely incorrect. Any examination &mdash; and I have had such examination carried out &mdash; will show that the contribution percentagewise, <i>pro rata, per capita,</i> any way one wants to calculate it from the Independent group on motions, legislation or any other business of the House is way above that of any other group.</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="JohnHarte" hpid="Mr. Harte Mr. Harte">
+      <NameTxt>Mr. Harte</NameTxt>
+      <P>I do not know what is the <Col N="54" /> procedure before the election of Cathaoirleach.  Quite frankly, we have reached the stage at which the question should be put.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Clerk of Seanad Clerk of Seanad">
+      <NameTxt>Clerk of Seanad</NameTxt>
+      <P>I was just about to put the question.</P>
+      <P>Tá trí thairiscintí faoi bhráid an Tí.  De réir na mBuan-Orduithe, tógfar iad san ord ina tairgeadh iad.  Ar dtús, an tairiscint in ainm an Seanadóir Seán Ó Dochartaigh.</P>
+      <P>There are three motions before the House.  In accordance with Standing Orders they will be taken in the order in which they were proposed.  First, the motion in the name of Senator Seán Doherty.  Is the motion agreed?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>No.</P>
+      <P>Cuireadh an cheist: &ldquo;Go dtoghfar an Seanadóir Seán Ó Dochartaigh agus go rachaidh sé i gceannas an tSeanaid anois mar Chathaoirleach&rdquo;.</P>
+      <P>Question put: &ldquo;That Senator Seán Doherty be elected and do now take the Chair of the Seanad as Cathaoirleach&rdquo;.</P>
+      <P Just="Center">The Seanad divided: Tá, 32; Níl, 25.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Bennett, Olga.<br />Bohan, Eddie.<br />Byrne, Hugh.<br />Byrne, Sean.<br />Cassidy, Donie.<br />Conroy, Richard.<br />Doherty, Sean.<br />Fallon, Sean.<br />Farrell, Willie.<br />Finneran, Michael.<br />Fitzgerald, Tom.<br />Foley, Denis.<br />Hanafin, Des.<br />Haughey, Seán F.<br />Honan, Tras.<br />Hussey, Thomas.</entry>
+            <entry rowsep="1">Kiely, Dan.<br />Kiely, Rory.<br />Lanigan, Michael.<br />Lydon, Don.<br />McCarthy, Seán.<br />McGowan, Paddy.<br />McKenna, Tony.<br />Mooney, Paschal.<br />Mullooly, Brian.<br />O'Brien, Francis.<br />Ó Cuív, Éamon.<br />O'Donovan, Denis A.<br />O'Keeffe, Batt.<br />Ormonde, Donal.<br />Ryan, Eoin David.<br />Wright, G.V.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Cosgrave, Liam.<br />Costello, Joe.<br />Doyle, Avril.<br />Harte, John.<br />Hederman, Carmencita.
+<Col N="55" />McMahon, Larry.<br />Manning, Maurice.<br />Murphy, John A.<br />Naughten, Liam.<br />Neville, Daniel.<br />Norris, David.<br />Ó Foighil, Pol.<br /></entry>
+            <entry rowsep="1">Hourigan, Richard V.<br />Howard, Michael.<br />Jackman, Mary.<br />Kennedy, Patrick.<br />McDonald, Charlie.
+<Col N="56" />O'Reilly, Joe.<br />O'Toole, Joe.<br />Raftery, Tom.<br />Ross, Shane P.N.<br />Ryan, Brendan.<br />Ryan, John.<br />Staunton, Myles.<br />Upton, Pat.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá, Senators McGowan and Wright; Níl, Senators Howard and J. O'Toole.</P>
+    <P>Question declared carried.</P>
+    <P>
+      <i>Whereupon Senators rose in their places and remained standing while the Cathaoirleach proceeded to the Dais.</i>
+    </P>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Ar an gcéad dul síos ba mhaith liom fíor-bhuíochas a ghabháil libh go léir mar gheall ar an onóir mhór a bhronn sibh orm inniu.</P>
+      <P>I would like to take this opportunity in the first instance to say a very special thanks to all of you for the honour you have conferred on me this afternoon in the Upper House.  I am profoundly grateful and acknowledge all your contributions. Indeed, I am conscious of the sincerity evident in all of the addresses made of your desire and wish to have this House a place that is meaningful, a place that is relevant, a place that is democratic and a place where there is total impartiality by the Chair.  That, I think, was the general tenor of all the contributions here this evening.</P>
+      <P>I take the opportunity to thank my proposer, the Leader of the House, Senator Lanigan, and my seconder, and Fianna Fáil Party Whip, Senator McGowan.</P>
+      <P>It would be absolutely remiss of me if I were to go any further without paying a special tribute to our former Cathaoirleach, Senator Tras Honan.  I have had the pleasure of knowing her for many years, but most particularly in recent years as Cathaoirleach.  She is lady who at all times has given a style, a very special dignity that only she could give to the affairs of this House and, indeed, on all occasions she has had reason to represent the House in any area, nationally or internationally. I think the fact that she was a woman Cathaoirleach must have given a great sense of pride and joy to many women in this country, that a woman could reach such high office and carry out the duties of that office with a very particular distinction.  I would like to take this opportunity to pay special tribute to Senator Tras Honan and to say that all who have spoken here this afternoon have clearly recognised her contribution.</P>
+      <P>I think it is at this time well confirmed that there it is goodwill evident on all sides, that the leaders of the various groupings and the individuals who are non-party are all committed to a new effort and a new emphasis on the importance of this House, on a desire to make it meaningful and make it a place where real contributions can be made on behalf of all of the Irish people and indeed others whose interests may well be served and protected by interventions in this House.</P>
+      <P>I will certainly wish to do my best to ensure, first of all, impartiality; secondly, to ensure fairness; and, thirdly, to guarantee firmness.  I believe it is in the best interests of everything we seek to pursue that I approach the function of Cathaoirleach in that way.  I feel I owe it to all the Members of the House to do the job as you would wish me to, in an impartial way but in a way that does not allow for any loss of time or any delays for purely political purposes by any individual at the expenses of the business and working of the House.</P>
+    </Speaker>
+    <P>I take it that this inaugural meeting of the House is one where we are all making a resolve to work in co-operation and to work for the greatest possible communication and contact.  I mention with particular satisfaction Senator Maurice Manning's indication in the first instance, <Col N="57" /> followed by other speakers, that he would wish to see change, improvement and development occurring in the whole procedures of this House.  As Cathaoirleach I would gladly subscribe to that.  I think a lot of that can be achieved from day one by all of us acknowledging that only together can we achieve much of what we wish.  I thank you all.</P>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>On my own behalf and on behalf of the Fine Gael group may I be the first to congratulate you on your very clear election here today as Cathaoirleach.  May I wish you well in the very onerous task you have undertaken.  I know from what you have said that you will give it your full and total commitment. I was encouraged to hear you approach the new task with an open mind and a desire to bring about whatever changes are needed in this House.  I can assure you of the full co-operation of all those in my group in our common desire to see this House work effectively and efficiently.</P>
+      <P>In conclusion, may I say that the life of this Seanad begins today and it begins I know on a note of co-operation and goodwill and of common endeavour on all sides.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>On behalf of the Independent group, ba mhaith liom a chur leis na focail atá ráite ag an Seanadóir Manning agus a rá go bhfuilimid tosnaithe anois ar jab nua agus go bhfuilimid ag dul ar aghaidh ón bpointe seo.</P>
+      <P>We have gone through the process of the election of the Cathaoirleach and we would like to congratulate you on attaining such high office.  I welcome the words with which you started your career in this job and again assure you of our co-operation. We have made clear the kind of reforms and changes we would like. We have been pleased to hear your response is a positive one on this matter. We look forward to a fruitful, long session.</P>
+    </Speaker>
+    <Speaker pid="PatUpton" hpid="Dr. Upton Dr. Upton">
+      <NameTxt>Dr. Upton</NameTxt>
+      <P>Ar son Pháirtí an Lucht Oibre ba mhaith liom comhghairdeas a <Col N="58" /> ghabháil leat mar gheall ar do thoghchán mar Chathaoirleach.</P>
+      <P>On behalf of the Labour Party, I wish to extend to you my warmest congratulations on this the occasion of your election as Cathaoirleach of this House. You can be assured of our full support. The democratic processes have been observed.  We congratulate you.</P>
+    </Speaker>
+    <Speaker pid="MartinCullen" hpid="Mr. Cullen Mr. Cullen">
+      <NameTxt>Mr. Cullen</NameTxt>
+      <P>On behalf of the Progressive Democrats may I congratulate you on your election to the office of Cathaoirleach.  We look forward to working with you in the months and years ahead and indeed to the Progressive Democrats making a full and honest contribution to the procedures of this House.</P>
+      <P>I would like to join with others, if I may, in congratulating Senator Tras Honan who was a great ambassador for this House as the former Cathaoirleach of the Seanad.  Although I was not a Member I had a lot of contact with her and she was a splended ambassador and a credit to this country.  I would like to wish her well for the future.</P>
+      <P>I will not delay the House in commenting on many of the various references that preceded your elevation to the Chair this afternoon.  However, in a general sense it strikes me, as a person who is young &mdash; I consider myself young, I will be 35 years of age tomorrow &mdash; that in this country if you are in some way seen as being opposed to what is part of the establishment that somehow or other you do not fit in or, indeed, that it is not legitimate to be so.  I would take issue on that.  To me the main element of democracy is the right to free speech.</P>
+    </Speaker>
+    <P>I have many beliefs.  A lot of people in this House know me and I think they know that I am nothing if I do not remain and stand over what I always believe in. It would be remiss of me if I did not refer to the eloquence, which I would not dare to match, of Senator Norris here this afternoon in referring to us &mdash; myself and others &mdash; as some form of trojan horse, indeed in the guise of a trojan ass.  It was delivered with great aplomb and great eloquence by Senator Norris.  I would <Col N="59" /> remind him, of course, that, if my biblical recollection is correct, it was with the bone of an ass that David slew Goliath. I think that should be borne in mind.</P>
+    <P>A Chathaoirligh, as a party we wish you well.  We look forward to participating in the fullest manner in this House.</P>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>Before I call item No. 4, may I join with the contributors in wishing you every success in the job of Cathaoirleach: I know from long experience that you will fulfil the duty which has been bestowed upon you with aplomb and will continue the great work that has been carried on here by previous Cathaoirligh.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Date of Election of" RHead="Leas-Chathaoirleach">
+    <Title>Date of Election of Leas-Chathaoirleach.</Title>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>It is intended that we sit on Wednesday of next week for the election of the Leas-Chathaoirleach and for other business.  I propose the adjournment of the House until 2.30 p.m. on Wednesday of next week.</P>
+    </Speaker>
+    <Col N="60" />
+    <Speaker pid="PatUpton" hpid="Dr. Upton Dr. Upton">
+      <NameTxt>Dr. Upton</NameTxt>
+      <P>Before we adjourn I would like to let the House know that our party, the Labour Party, will be putting forward the name of Senator Jack Harte as a candidate for Leas-Chathaoirleach.  I am doing that because it appears there have been rumours to the effect that this was not so.  Senator Jack Harte will be a candidate for Leas-Chathaoirleach.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. J. O'Toole Mr. J. O'Toole">
+      <NameTxt>Mr. J. O'Toole</NameTxt>
+      <P>I would like to say that this is the beginning of the rot.  We are losing this week and we are on to next week without taking any business.  There is a full Order Paper in front of us and I would appeal to the Leader of the House that we should not delay until next week before starting on business.  There is legislation and there are motions and it is just not acceptable that we waste another week in view of the time that has gone so far.</P>
+    </Speaker>
+    <Speaker pid="SeanDoherty" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The proposal is that the House adjourn until Wednesday next.  Is that agreed?  Agreed.</P>
+      <P>The Seanad adjourned at 5 p.m. until 2.30 p.m. on Wednesday, 8 November 1989.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

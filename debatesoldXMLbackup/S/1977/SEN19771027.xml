@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="27" Month="Oct" Year="1977" Vol="87" No="1" DateIrish="Déardaoin, 27 Deireadh Fómhair 1977" DateEnglish="Thursday, 27 October 1977" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P Just="Center">
+      <Col N="1" />
+      <Col N="2" />
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Tháinig an Seanad le céile ar 3 p.m.  Bhí an Cléireach, Seán Toíbin, agus an Leas-Chléireach, Proinsias Mac Eochagáin i láthair.</entry>
+            <entry rowsep="1">The Seanad assembled at 3 p.m., the Clerk, Mr. John R. Tobin, and the Clerk Assistant, Mr. F. Geoghegan attending.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Léigh an Cléireach Forógra Uachtarán na hÉireann ag comóradh Sheanad Éireann.</entry>
+            <entry>The Clerk read the Proclamation of the President of Ireland convening Seanad Éireann.</entry>
+          </row>
+          <row>
+            <entry>Seo a leanas an Forógra:&mdash;</entry>
+            <entry>The Proclamation was as follows:&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">FÓROGRA AG COMÓRADH SHEANAD ÉIREANN.</P>
+    <P Just="Center">PROCLAMATION SUMMONING SEANAD ÉIREANN.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">De bhun comhairle a thairg an Taoiseach dom faoi alt 8 d'Airteagal 18 den Bhunreacht, déanaimse, PÁDRAIG Ó hIRIGHILE, Uachtarán na hÉireann Déardaoin, an 27ú lá de Dheireadh Fómhair, 1977, a shocrú leis seo mar an lá a thiocfas Seanad Éireann le chéile ar chéadtionól tar éis an Olltoghcháin a bhí ann le déanaí.</entry>
+            <entry rowsep="1">Pursuant to an advice tendered to me by the Taoiseach under section 8 of Article 18 of the Constitution, I, PATRICK J. HILLERY, President of Ireland, hereby fix Thursday, the 27th day of October, 1977, as the day on which the first meeting of Seanad Éireann after the General Election lately held shall take place.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>ARNA THABHAIRT faoi mo Láimh agus faoi mo Shéala an 11ú lá seo de Dheireadh Fómhair, 1977.</entry>
+            <entry>GIVEN under my Hand and Seal this 11th day of October, 1977.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">
+    </P>
+    <P Just="Center">PÁDRAIG Ó hIRIGHILE</P>
+    <P Just="Center">UACHTARÁN NA hÉIREANN</P>
+    <P Just="Center">(PRESIDENT OF IRELAND)</P>
+    <P>SEÁN Ó LOINSIGH</P>
+    <P>TAOISEACH</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">
+              <Col N="3" />AINMNEACHA NA gCOMHALTAÍ A AINMNÍODH AGUS NA gCOMHALTAÍ A TOGHADH CHUN FÓNAMH I SEANAD ÉIREANN.</entry>
+            <entry rowsep="1">
+              <Col N="4" />NAMES OF MEMBERS NOMINATED AND OF MEMBERS ELECTED TO SERVE IN SEANAD ÉIREANN.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">An Cléireach: Is iad seo leanas ainmneacha na gcomhaltaí a ainmníodh agus na gcomhaltaí a toghadh chun fónamh sa Seanad.</entry>
+            <entry rowsep="1">The Clerk: The following are the names of members nominated and of members elected to serve in the Seanad:&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">NOMINATED MEMBERS.</P>
+    <P>SÉAMUS Ó BRAONÁIN</P>
+    <P>(SÉAMUS BRENNAN)</P>
+    <P>SÉAMUS DE BRÚN</P>
+    <P>EIBHLÍN BEAN UÍ CHASAIDE</P>
+    <P>(MRS. EILEEN CASSIDY)</P>
+    <P>THE HONOURABLE LADY GOULDING</P>
+    <P>MÁIRE NÍ AIRNE</P>
+    <P>(MISS MARY HARNEY)</P>
+    <P>R. VALENTINE JACO</P>
+    <P>SÉARLAS GORDON LAIMBEART</P>
+    <P>(C. GORDON LAMBERT)</P>
+    <P>BEARNÁRD MAG LOINSIGH</P>
+    <P>(BERNARD MCGLINCHEY)</P>
+    <P>NOLLAIG Ó MAOLCHATHA</P>
+    <P>(NOEL WILLIAM MULCAHY)</P>
+    <P>TOMÁS WHITAKER</P>
+    <P>(THOMAS KENNETH WHITAKER)</P>
+    <P Just="Center">and</P>
+    <P>MÍCHEÁL YEATS</P>
+    <P>(MICHAEL B. YEATS)</P>
+    <P Just="Center">UNIVERSITY MEMBERS</P>
+    <P Just="Center">
+      <i>National University of Ireland</i>
+    </P>
+    <P>GEMMA HUSSEY</P>
+    <P>JOHN A. MURPHY</P>
+    <P>THOMAS AUGUSTINE MARTIN</P>
+    <P Just="Center">
+      <i>University of Dublin</i>
+    </P>
+    <P>DONAL CONOR CRUISE-O'BRIEN</P>
+    <P>TIMOTHY TREVOR WEST</P>
+    <P>MARY THERESE WINIFRED ROBINSON</P>
+    <P Just="Center">PANEL MEMBERS</P>
+    <P Just="Center">
+      <i>Cultural and Educational Panel</i>
+    </P>
+    <P Just="Center">
+      <i>(a)</i> Nominating Bodies Sub-Panel</P>
+    <P>PATRICK MARK COONEY</P>
+    <P>FLOR CROWLEY</P>
+    <P Just="Center">
+      <i>(b)</i> Oireachtas Sub-Panel</P>
+    <P>RICHARD CONROY</P>
+    <P>TIMOTHY MCAULIFFE</P>
+    <P>DAVID MOLONY</P>
+    <P Just="Center">
+      <Col N="5" />
+      <Col N="6" />
+      <i>Agricultural Panel</i>
+    </P>
+    <P Just="Center">
+      <i>(a)</i> Nominating Bodies Sub-Panel</P>
+    <P>PIERCE BUTLER</P>
+    <P>PAUL CONNAUGHTON</P>
+    <P>RORY KIELY</P>
+    <P>WILLIAM RYAN</P>
+    <P Just="Center">
+      <i>(b)</i> Oireachtas Sub-Panel</P>
+    <P>JOHN ELLIS</P>
+    <P>JUSTIN KEATING</P>
+    <P>GERARD LYNCH</P>
+    <P>JOHN JOSEPH MCCARTIN</P>
+    <P>CHARLES MCDONALD</P>
+    <P>PATRICK MCGOWAN</P>
+    <P>MARTIN J. O'TOOLE</P>
+    <P Just="Center">
+      <i>Labour Panel</i>
+    </P>
+    <P Just="Center">
+      <i>(a)</i> Nominating Bodies Sub-Panel</P>
+    <P>JOHN HARTF</P>
+    <P>ANTHONY HERBERT</P>
+    <P>BRIAN HILLERY</P>
+    <P>FINTAN KENNEDY</P>
+    <P Just="Center">
+      <i>(b)</i> Oireachtas Sub-Panel</P>
+    <P>JOHN BLENNERHASSETT</P>
+    <P>SÉAMUS DOLAN</P>
+    <P>JOSEPH DOWLING</P>
+    <P>DES HANAFIN</P>
+    <P>MICHAEL DALGAN LYONS</P>
+    <P>BERNARD MARKEY</P>
+    <P>ANDY O'BRIEN</P>
+    <P Just="Center">
+      <i>Industrial and Commercial Panel</i>
+    </P>
+    <P Just="Center">
+      <i>(a)</i> Nominating Bodies Sub-Panel</P>
+    <P>ALEXIS FITZGERALD</P>
+    <P>MICHAEL HOWARD</P>
+    <P>LIAM HYLAND</P>
+    <P Just="Center">
+      <i>(b)</i> Oireachtas Sub-Panel</P>
+    <P>RUAIRÍ BRUGHA</P>
+    <P>DESMOND GOVERNEY</P>
+    <P>MICHAEL LANIGAN</P>
+    <P>MICHAEL MOYNIHAN</P>
+    <P>PATRICK JOSEPH REYNOLDS</P>
+    <P>EOIN RYAN</P>
+    <P Just="Center">
+      <i>Administrative Panel</i>
+    </P>
+    <P Just="Center">
+      <i>(a)</i> Nominating Bodies Sub-Panel</P>
+    <P>MICHEÁL CRANITCH</P>
+    <P>TRAS HONAN</P>
+    <P>THOMAS KILBRIDE</P>
+    <P Just="Center">
+      <i>(b)</i> Oireachtas Sub-Panel</P>
+    <P>LIAM BURKE</P>
+    <P>JACK GARRETT</P>
+    <P>MICHAEL KITT</P>
+    <P>MYLES STAUNTON</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">
+              <Col N="7" />I gcomhlíonadh Buan-Ordú a trí de na Buan-Orduithe i dtaobh Gnó Phoiblí táim tar éis cóipeanna de na deimhnithe ar thorthaí na votaíochta do chomhaltaí tofa a leagan faoi bhráid an Tí.</entry>
+            <entry rowsep="1">
+              <Col N="8" />In compliance with Standing Order No. 3 of the Standing Orders relative to Public Business I have laid before the House copies of the certificates of the results of the polls for elected members.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election of" RHead="Cathaoirleach">
+    <Title>Election of Cathaoirleach.</Title>
+    <Speaker pid="" hpid="Clerk of Seanad Clerk of Seanad">
+      <NameTxt>Clerk of Seanad</NameTxt>
+      <P>Sé an chéad ghnó eile ná Cathaoirleach a thoghadh.</P>
+      <P>The next business is the election of a Cathaoirleach.</P>
+      <P>Glacfaidh mé le tairiscintí anois.</P>
+      <P>I will now receive motions.</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I move:</P>
+      <P>That Senator Séamus Dolan be elected and do now take the Chair of the Seanad as Cathaoirleach.</P>
+      <P>Senator Dolan was a Member of the Dáil from 1961 to 1965, was a Member of this House from 1965 to 1969 and again from 1973 to 1977.  In addition to that, he, of course, for many years has been a member of local authorities, and because of his membership of this House and the Dáil and the various other public bodies he has wide experience of public affairs.  Again because of his membership of the Houses of the Oireachtas he has a deep knowledge of parliamentary procedure. Accordingly, I suggest and recommend him to you as a person who would be eminently suitable for the position of Cathaoirleach.</P>
+      <P>Those who served with Senator Dolan in previous Seanaid will know that he was a frequent speaker and a very dedicated Member of this House. In fact his dedication on occasions and his enthusiasm for certain subjects were such that from time to time the Chair found it necessary to intervene to point out that he was not being strictly relevant.  Senator Dolan always bowed to the ruling of the Chair, was always meticulous in doing so and because of that he received the indulgence of the Chair in a way unequalled by any other Member of the House.  We are entitled to expect that if he is elected today he will show the same indulgence particularly to the newer Members of the House as he received in the past.</P>
+      <P>The incoming Cathaoirleach of this House will have very high standards to live up to.  We have been fortunate over the years to have had a succession of outstanding men as Cathaoirligh of this House, men who not only displayed dignity and ability in administering and presiding over the sessions of the House but who played a part in the evolution of the Seanad and helped to mould this House into the very important institution it is today. In mentioning previous Cathaoirligh I would like to pay tribute to the outgoing Cathaoirleach, ex-Senator James Dooge, who presided here for the last four-and-a-half years and who because of firmness in his rulings and his impartiality in dealing with the Members of the House earned the respect and the confidence of all sections of the House.  He has decided not to become a Member of this House again and to devote himself to academic affairs.  I think his going is a loss to this House but I am sure all the Members of this House will wish him well in his decision.</P>
+      <P>In proposing Senator Dolan for the position of Cathaoirleach I am confident that he will not only live up to the very high standards of the past but that in his own way he will add a new and unique dimension to the position of Cathaoirleach.  I have great pleasure in recommending his name to the House.</P>
+    </Speaker>
+    <Speaker pid="MichaelYeats" hpid="Mr. Yeats Mr. Yeats">
+      <NameTxt>Mr. Yeats</NameTxt>
+      <P>Ba mhaith liom cuidiú leis an rún go dtoghfar Séamus Ó Doláin mar Chathaoirleach ar Sheanad Éireann.</P>
+    </Speaker>
+    <Speaker pid="PatrickMarkCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>At the outset I should like to echo the tribute of Senator Ryan to the outgoing Cathaoirleach Professor James Dooge.  On occasions like this the people who are outside may regard tributes of this kind as being somewhat of a ritual.  But I think those who had the privilege of serving in this House under the chairmanship <Col N="9" /> of Professor Dooge will know that his ability as a chairman was quite outstanding.  His knowledge of Standing Orders and procedures of the House was voluminous, and that knowledge was always applied with firmness and with fairness.  I think the proof is that when a ruling came down from the Chair it was always totally acquiesced in, but more important, it was acquiesced in in a quiet way, with the result that the proceedings of this House were at all times carried out with decorum and without abrasiveness between the parties herein. I think that was due mainly to the conduct of the debates by the outgoing Chairman.  I am very glad to have the opportunity of putting on record his outstanding services to this Upper House of Parliament and to the way in which he has moulded it into the House that it is.</P>
+      <P>My party are not making any nomination for the office of Chairman and we are prepared to accept the nomination of Senator Séamus Dolan.  I am aware of his long service in both Houses, and I can assure him on behalf of the Fine Gael Party that he will have our co-operation in continuing to have the business of this House done with decorum and with efficiency.  I am quite certain that the people in my party will not seek any indulgence from him as the Leader of Fianna Fáil seems to think that some of his people might get.</P>
+      <P>The office of chairman of any House of Parliament is important because the way in which the office is conducted affects the personality of the House to some extent.  It is not exclusively so, because the input from the Members is important.  I want to assure the incoming Chairman that he will have our co-operation in conducting the business of the House efficiently. Ar mo shon féin agus ar son Pháirtí Fhine Gael, cuirim fáilte roimh an Chathaoirleach nua san ard-oifig tábhachtach seo.</P>
+    </Speaker>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>I want to add my voice to that of Senator Cooney in indicating to the Seanad that we in the Labour Party are not proposing any candidate against the candidacy for <Col N="10" /> Cathaoirleach of Senator Séamus Dolan, and that we will accord to him the same sort of co-operation other sections of the House have pledged to him.</P>
+      <P>I was interested in what Senator Eoin Ryan said.  There is a famous dictum about the best gamekeepers being reformed poachers, and as a very new poacher in this House who does not know its atmosphere and does not know its proceedings, I for my part will be trying to learn the different attitudes and the valuable things that the Seanad can give to parliamentary debate that are not always found in the other House, and for myself and the Labour Party we will be sustaining the Cathaoirleach in the work he has to do.</P>
+      <P>I am happy to have the opportunity also of adding my voice to those who have spoken in praise of ex-Senator Jim Dooge.  He seems to me to exemplify more than anybody I can think of the living proof that it is possible to be an extremely brilliant academic, an extremely brilliant scientist, and simultaneously to be a practical, efficient and wise person.  I think by doing the two things simultaneously as he did with such distinction, he brought enormous value to this Chamber and enormous skill.  Indeed he took time off clearly to master procedure with great incisiveness and command.  I can only say to the new Cathaoirleach that ex-Senator Jim Dooge will be a hard man to follow, and if he does as well he will be doing very well indeed.  I am happy to add my voice of tribute to Professor Dooge and to wish him health and long life in his chosen academic career.  I regret that he has not found it possible to continue both his academic work and his work in the Oireachtas simultaneously.</P>
+    </Speaker>
+    <Speaker pid="TimothyWest" hpid="Dr. West Dr. West">
+      <NameTxt>Dr. West</NameTxt>
+      <P>I would like to pay tribute to Senator Dooge on behalf of the Independent Members and to say that we always found him a straight and fair Chairman, and to wish him well in his academic career now that he has decided not to seek re-election to this House.  I am pleased that the motion proposed by Senator Eoin Ryan has not been opposed and that the Government's nominee for the post of <Col N="11" /> Cathaoirleach will not be opposed.  I believe that if the Government have a majority in this House they are entitled to nominate the Cathaoirleach.  I would hope that the civilised and democratic tradition of allowing the post of Leas-Cathaoirleach to be filled by the Opposition, which was regrettably breached in the previous session, will be returned to.  I hope and wish Senator Dolan every success in his period of office as Cathaoirleach.</P>
+    </Speaker>
+    <Speaker pid="AndyOBrien" hpid="Mr. A. O'Brien Mr. A. O'Brien">
+      <NameTxt>Mr. A. O'Brien</NameTxt>
+      <P>Tá aithne agam ar an Seanadóir Ó Dóláin leis na blianta fada.  Tá an bheirt againn in ár mbaill de Chomhairle Chontae an Chabháin le breis is fiche bliain, agus cé nach minic a bhímid ar aon intinn, tá meas agam ar a dhúrachtaí agus a thugann sé faoi aon obair a bhíonn idir lámha aige ó am go ham.  Tá meas agam freisin ar na hiarrachtaí a dheincann sé ar leas na ndaoine, de réir mar a chíonn sé é a bhaint amach.</P>
+      <P>Tá sé de bhua ag an Seanadóir Ó Dóláin go n-éisteann sé go foighdeach le tuairimí daoine eile, agus tá sé mór go leor chun athchomhairle a dhéanamh nuair is léair dó gur fearr smaointe an duine eile ná a thuairimí féin.</P>
+      <P>Tá meas agam freisin agus ag a lán daoine eile chomh maith ar an obair atá déanta aige ar son na Gaeilge leis na blianta, obair atá á déanamh aige go dtí an lá inniu.  Creidim go mbainfidh sé feidhm as gradam an phoist seó chun cúrsaí na Gaeilge a chur chun cinn.  Rugadh agus tógadh é ar imeall na Teorainn, agus tá sé eolach ar a dheacrachtaí is atá an fhadhb sin dúinn uile.</P>
+      <P>Tá cleachtadh maith aige freisin ar obair chathaoirleach Choistde Gairm Oideachais Chontae an Chabháin, agus is eol domsa go dtugann sé cothrom na Féinne do gach duine ansin.  Tá mé cinnte go gcaemhnóidh sé an caighdeán árd atá leagtha amach ag na Cathaoirligh Sheanaid a chuaigh reimhe.</P>
+    </Speaker>
+    <P>Ba mhaith liom freisin aontú leis an meid a dúbhradh faoin obair a dhein an t-iar-Chathaoirleach, Professor James Dooge agus a rá gur chaomhnaigh sé caighdeán árd mar Chathaoirleach, agus ní lú an moladh atá tuillte <Col N="12" /> ag an Leas-Chathaoirleach, an t-iar Seanadóir Evelyn Owens.  Táimid buíoch díobh mar gheall ar an obair a dhein siad, agus táimid ag súil go n-éireoidh chomh geal leis an Chathaoirleach nua.</P>
+    <P>Question put and declared carried.</P>
+    <P>
+      <i>Whereupon Senators rose in their places and remained standing while the Cathaoirleach proceeded to the Dais.</i>
+    </P>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Gabhaim mo bhuíochas libh, a Sheanadóirí, as ucht mé a thoghadh mar Chathaoirleach. Is maith is eol dom dúracht agus éirim aigne an té a chuaigh romham san oifig sco agus fosta sár-obair na gCathaoirleacha a bhí anseo agus a d'imigh romhan.  Tá sean eolas agam ar obair an tSeanad ó tháinig mé féin anseo don chéad uair dhá bhliain déag ó shin.  Tuigim go raibh gach Cathaoirleach a chuaigh romham go h-íontach ar fad.</P>
+      <P>Déanfaidh mise mo shár-dhícheall aithris a dhéanamh ar an dea-obair a rinne siad mar Chathaoirligh.  Chomh fada agus is féidir liom déanfaidh mé iarracht an treoir a thug siad sin dom a leanúint.</P>
+      <P>I am deeply grateful for the honour you have bestowed on me.  I trust that, with your help and co-operation, I shall be able to continue in the tradition set by my predecessors in this high office.  In the Chair I shall do my best to be just and impartial; and, as I come to terms with the duties of the office, I would hope that Senators would feel free to approach me&mdash;and, of course, the officers of the Seanad &mdash;on procedural matters of any kind Thank you all very much.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. -" RHead="Expression of Sympathy">
+    <Title>Death of Member. - Expression of Sympathy.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>My first duty as Cathaoirleach is a sad one.  I have to announce the death of Senator Jack Garrett who lost his life so tragically and before he could take his seat with us today at this first meeting of the new Seanad.</P>
+    </Speaker>
+    <P>Jack Garrett was elected to Seanad Éireann in 1969, re-elected in 1973 and <Col N="13" /> once again was returned at the recent Seanad general election.  On each occasion he was elected on the Administrative Panel for which his career in public administration so fully qualified him.  He was identified as a man who had devoted his life to the community he represented and his career in local government administration is evidence of his deep sense of commitment to and involvement in local affairs.</P>
+    <P>He was a member of Mayo County Council since 1950 and had the distinction of serving as its chairman from 1967 to 1973&mdash;an office to which he was unanimously elected.  He also served on the Mayo Old Age Pension Committee, the Housing Committee, the Agricultural Committee, the Health Committee and the Itinerant Housing Committee.</P>
+    <P>The late Senator's contributions to the debates in this House were forthright and uncompromising and they reflected the sturdy independence of his rural background.  He was a popular man, generous and good humoured and his passing is our loss.</P>
+    <P>On your behalf and my own I shall express to Mrs. Garrett and the family our heartfelt sympathy and our appreciation of his services to this House.</P>
+    <P>I bhFlaitheas Dé go raibh a anam.</P>
+    <P>
+      <i>Senators rose in their places.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Date for" RHead="Election of Leas-Chathaoirleach">
+    <Title>Death of Member. - Date for Election of Leas-Chathaoirleach.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The first item on the agenda is the fixing of a date for the election of Leas-Chathaoirleach.</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I propose that that business be taken next-Wednesday, 2nd November.</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>On the Order of Business on which the first item is the fixing of the date for the election of the Leas-Chathaoirleach, I should like to ask the Leader of the House what approach he intends to adopt towards the full use of this House, in particular for discussing matters of significant concern by debating substantial motions.  This would normally arise <Col N="14" /> on the Order of Business when it was being fixed and it is never too soon&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Would the Senator mind waiting until the Order of Business is being discussed?  We are now at item No. 4 which is the fixing of a date for the election of the Leas-Chathaoirleach.  Wednesday, 2nd November is the date fixed for the election of the Leas-Chathaoirleach.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. -" RHead="Message from Dáil">
+    <Title>Death of Member. - Message from Dáil.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Before I call the Order of Business, I have some announcements to make.  The following message has been received from the Dáil:</P>
+      <P>Dáil Éireann has made the following Order:&mdash;</P>
+      <P>That, in pursuance of Standing Order No. 56 of the Standing Orders relative to Private Business a Select Committee be appointed to be joined with a Select Committee of Seanad Éireann to constitute the Joint Committee on Standing Orders.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Appointment of" RHead="Taoiseach, Members of Government, etc">
+    <Title>Death of Member. - Appointment of Taoiseach, Members of Government, etc.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I also have to inform the House that letters were received on 6th and 8th July last from the Secretary to the Department of the Taoiseach regarding (a) the appointment of the Taoiseach and the Members of the Government. the nomination as Tánaiste and the allocation of Government Departments to members of the Government; (b) the appointment of Parliamentary Secretaries; (c) the assignment to the Minister without portfolio of the title of Minister for Economic Planning and Development; and (d) the allocation to the Parliamentary Secretary to the Minister for Finance of the duties connected with the administration of the Office of Public Works.</P>
+      <P>These letters will be set out in the usual manner in the Journal of the House and, consequent on this announcement, they will also be printed in the Official Report of Debates.</P>
+      <P>Following are the letters:&mdash;</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+              <Col N="15" />Uimhir Thagartha</entry>
+            <entry rowsep="1">
+              <Col N="16" />ROINN AN TAOISIGH</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Ref. No.</entry>
+            <entry>Department of the Taoiseach</entry>
+          </row>
+          <row>
+            <entry>S.20143</entry>
+            <entry>Baile Átha Cliath, 2.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Dublin, 2.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>6 Iúil, 1977</P>
+    <P>Cléireach an tSeanaid</P>
+    <P>Tá orm a chur in iúl duit go bhfuil</P>
+    <P>(1) an tUachtarán, ar ainmniú Dháil Éireann, tar éis Seán Ó Loinsigh a cheapadh inné, de bhun Airteagal 13.1.1º den Bhunreacht, mar Thaoiseach;</P>
+    <P>(2) an tUachtarán, ar ainmniú an Taoisigh, le comhaontú Dháil Éireann roimh ré, tar éis na daoine seo a leanas a cheapadh inné, de bhun Airteagal 13.1.2º den Bhunreacht, mar chomhaltaí den Rialtas agus bheith, i dteannta an Taoisigh, mar Rialtas:&mdash;</P>
+    <P>Seoirse Ó Colla</P>
+    <P>Cathal Ó hEochaidh</P>
+    <P>Brian Ó Luineacháin</P>
+    <P>Pádraig Ó Fachtna</P>
+    <P>Séamus Mac Giobúin</P>
+    <P>Deasún Ó Máille</P>
+    <P>Roibeárd Ó Maoildhia</P>
+    <P>Gearóid Ó Coileáin</P>
+    <P>Mícheál Ó Cinnéide</P>
+    <P>Salbhastar Bairéad</P>
+    <P>Eoghan Mac Gearailt</P>
+    <P>Donncha Ó Gallchobhair</P>
+    <P>Seán P. Mac Uilliam</P>
+    <P>agus</P>
+    <P>Máirtín Ó Donnchadha;</P>
+    <P>(3) an Taoiseach tar éis Seoirse Ó Colla a ainmniú inné, de bhun Airteagal 28.6.1º den Bhunreacht, chun bheith ina Thánaiste; agus</P>
+    <P>(4) an Taoiseach, i bhfeidhmiú na cumhachta a thugtar dó le halt 4 (1) den Acht Airí agus Rúnaithe (Leasú), 1946, tar éis na Ranna Stáit seo a leanas a shannadh inné do na comhaltaí faoi seach den Rialtas a luaitear a n-ainmneacha os cionne ainmneacha na Ranna:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">An Roinn Airgeadais agus Roinn na Seirbhíse Poiblí</entry>
+            <entry rowsep="1">Seoirse Ó Colla,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>An Roinn Sláinte agus an Roinn Leasa Shóisialaigh</entry>
+            <entry>Cathal Ó hEochaidh,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Iascaigh</entry>
+            <entry>Brian Ó Luineacháin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Iompair agus Cumhachta agus an Roinn Poist agus Telegrafa</entry>
+            <entry>Pádraig Ó Fachtna,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Talmhaíochta</entry>
+            <entry>Séamus Mac Giobúin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Tionscail agus Tráchtála</entry>
+            <entry>Deasún Ó Máille,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Cosanta</entry>
+            <entry>Roibeárd Ó Maoildhia,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Dlí agus Cirt</entry>
+            <entry>Gearóid Ó Coileáin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Gnóthaí Eachtracha</entry>
+            <entry>Mícheál Ó Cinnéide,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Rialtais Áitiúil</entry>
+            <entry>Salbhastar Bairéad,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Saothair</entry>
+            <entry>Eoghan Mac Gearailt,</entry>
+          </row>
+          <row>
+            <entry>Roinn na Gaeltachta</entry>
+            <entry>Donncha Ó Gallchobhair,</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>An Roinn Oideachais</entry>
+            <entry>Seán P. Mac Uilliam.</entry>
+          </row>
+          <row>
+            <entry>D. Ó Suilleabháin,</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Rúnaí.</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+              <Col N="17" />Uimhir Thagartha</entry>
+            <entry rowsep="1">
+              <Col N="18" />Roinn An Taoisigh</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Ref. No.</entry>
+            <entry>Department of the Taoiseach</entry>
+          </row>
+          <row>
+            <entry>S.18369</entry>
+            <entry>Baile Átha Cliath, 2</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Dublin, 2.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>6 Iúil, 1977</P>
+    <P>Cléireach an tSeanaid</P>
+    <P>Tá orm a chur in iúl duit go bhfuil an Rialtas, ar ainmniú an Taoisigh agus i bhfeidhmiú na cumhachta a thugtar dóibh le halt 7 (1) den Acht Airí agus Rúnaithe, 1924, arna oiriúnú de dhroim an Bunreacht a achtú, tar éis gach dúine faoi leith acu seo a leanas a cheapadh inné chun oifig an Rúnaí Parlaiminte a luaitear os coinne a ainm,</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Pádraig Ó Leathlobhair, T.D.</entry>
+            <entry rowsep="1">Rúnaí Parlaiminte an Taoisigh agus an Aire Cosanta,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>(Patrick Joseph Lalor, T.D.),</entry>
+          </row>
+          <row>
+            <entry>Dáithí Mac Aindriú, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Gnóthaí Eachtracha,</entry>
+          </row>
+          <row>
+            <entry>(David Andrews, T.D.),</entry>
+          </row>
+          <row>
+            <entry>Séamus Ó Tonnaí, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Oideachais,</entry>
+          </row>
+          <row>
+            <entry>(Jim Tunney, T.D.),</entry>
+          </row>
+          <row>
+            <entry>Tomás Mac Giolla Phádraig, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Iompair agus Cumhachta agus an Aire Poist agus Telegrafa,</entry>
+          </row>
+          <row>
+            <entry>(Tom Fitzpatrick, T.D.),</entry>
+          </row>
+          <row>
+            <entry>Piaras de Uidheas, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Airgeadais,</entry>
+          </row>
+          <row>
+            <entry>(Pearse Wyse, T.D.),</entry>
+          </row>
+          <row>
+            <entry>Tomás Ó hEodhusa, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Talmhaíochta</entry>
+          </row>
+          <row>
+            <entry>(Thomas Hussey, T.D.),</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>Máire Uic Eochagáin Uí Chuinn, T.D.</entry>
+            <entry>Rúnaí Parlaíminte an Aire Tionscail agus Tráchtála.</entry>
+          </row>
+          <row>
+            <entry>(Maire Geoghegan-Quinn, T.D.),</entry>
+          </row>
+          <row>
+            <entry>D. Ó Suilleabháin,</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Rúnaí an Rialtais.</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Uimhir Thagartha</entry>
+            <entry>Roinn an Taoisigh</entry>
+          </row>
+          <row>
+            <entry>Ref. No.</entry>
+            <entry>Department of the Taoiseach</entry>
+          </row>
+          <row>
+            <entry>S.20143</entry>
+            <entry>Baile Átha Cliath 2,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Dublin, 2.</entry>
+          </row>
+          <row>
+            <entry>8 Iúil, 1977</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Cléireach an tSeanaid,</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>I am to inform you that, at a meeting held today, the Government assigned to Dr. Martin O'Donoghue, Minister without portfolio, the title Minister for Economic Planning and Development.</P>
+    <P>D. Ó Suilleabháin,</P>
+    <P>Rúnaí an Rialtais.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Uimhir Thagartha</entry>
+            <entry rowsep="1">Roinn An Taoisigh</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Ref. No.</entry>
+            <entry>Department of the Taoiseach</entry>
+          </row>
+          <row>
+            <entry>S.20144</entry>
+            <entry>Baile Átha Cliath 2</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Dublin, 2.</entry>
+          </row>
+          <row>
+            <entry>8 Iúil, 1977</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Cléireach an tSeanaid,</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Tá orm a chur in iúl duit, gur tugadh toiliú an Rialtais inniu, de bhun alt 7 (7) den Acht Airí agus Rúnaithe, 1924, arna oiriúnú de dhroim an Bunreacht a achtú le tairscint an Aire Airgeadais go ndéanfadh sé na dualgais a bhaineann le riaradh Oifig na nOibreacha Poiblí a shannadh do Rúnaí Parlaiminte an Aire Airgeadais, Piaras de Uidheas, T.D.</P>
+    <P>D. Ó Suilleabháin,</P>
+    <P>Rúnaí an Rialtais.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. -" RHead="Order of Business">
+    <Title>Death of Member. - Order of Business.</Title>
+    <Col N="19" />
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>It is proposed to take items Nos. 5 to 11, inclusive.</P>
+    </Speaker>
+    <Speaker pid="MaryRobinson" hpid="Mrs. Robinson Mrs. Robinson">
+      <NameTxt>Mrs. Robinson</NameTxt>
+      <P>I would like to ask the Leader of the House what approach he intends to adopt to the debating of motions on matters of public interest in this House.  Indeed, the Leader of the House is a long serving Member and he knows that the Seanad has been under-used and underdeveloped as a House of the Oireachtas.  It is particularly important to develop it at a time when the Dáil has become more and more absorbed by the increasing complexity of Government legislation and administration. We should use the Seanad in a creative and initiatory capacity as well as to process Government business.</P>
+      <P>Ireland has a very rapidly changing society.  All the important economic and social indicators have changed since the Constitution of 1937 established the Dáil and Seanad.  But the Seanad itself and the role of the Seanad have not developed in accordance with this very dramatic change in our society.  The Labour Members have tabled three substantial motions, including a motion calling for a system of family courts in this country.  I ask the Leader of the House, who has on previous occasions expressed concern for the role of the Seanad, to guarantee time for discussion of them.  I would ask him to give an indication of whether time will be given on a regular monthly basis for discussion of motions of this sort and whether he will take a lead in ensuring full use of the Seanad.  Will there be a full opportunity to expand on its educational potential and allow this House to make a contribution to the life of the nation? It is never too soon to set the tone of a Seanad entering a new term and therefore I would welcome an indication of his attitude on this matter.</P>
+    </Speaker>
+    <Speaker pid="TimothyWest" hpid="Dr. West Dr. West">
+      <NameTxt>Dr. West</NameTxt>
+      <P>I would like to support what Senator Robinson has said and ask the Leader of the House to give us a realistic proposal, perhaps not on this occasion, but to work out a realistic proposal with the Whips consulting with the Opposition and the <Col N="20" /> Independents because we have consistently had these pious hopes about debates on motions that we were going to take at regular intervals and these hopes have not been realised.  Perhaps on this occasion, if we wish really to fulfil our duties as the Upper House of the Oireachtas the Leader of the House, in consultation with the Opposition, could work out a regular programme that we should be able to adhere to during the period of this administration.</P>
+    </Speaker>
+    <Speaker pid="BernardMcGlinchey" hpid="Mr. McGlinchey Mr. McGlinchey">
+      <NameTxt>Mr. McGlinchey</NameTxt>
+      <P>I ask the Leader of the House to tell us what will happen to all those motions tabled by Fianna Fáil Senators that lay on the Order Paper for four years and that were not debated.  We had refusals by the National Coalition Government to debate them for four years.  I ask the Leader of the House to tell us what will happen to them now.</P>
+    </Speaker>
+    <Speaker pid="ThomasAMartin" hpid="Dr. Martin Dr. Martin">
+      <NameTxt>Dr. Martin</NameTxt>
+      <P>I would like to associate myself with the remarks made by the previous three Senators on this matter.  In the past one of the scandals of this House, it seems to me, has been that there has been a continuous build-up of motions on the Order Paper.  I notice, interestingly, that they have now been abolished. Have they gone?</P>
+    </Speaker>
+    <Speaker pid="BernardMcGlinchey" hpid="Mr. McGlinchey Mr. McGlinchey">
+      <NameTxt>Mr. McGlinchey</NameTxt>
+      <P>They have gone.</P>
+    </Speaker>
+    <Speaker pid="ThomasAMartin" hpid="Dr. Martin Dr. Martin">
+      <NameTxt>Dr. Martin</NameTxt>
+      <P>They were dead anyway during the progress of the last Government.  In other words, we had down there a whole series of things. Senator Robinson has spoken quite directly in terms of the Labour interest in the matter.  I think Senator West and myself would be interested really with regard to the general structure of the Seanad itself, with regard to raising matters which are not normally raised in the Dáil and which are not necessarily involved in the current legislative process and momentum that is going through the Dáil.</P>
+    </Speaker>
+    <P>As I said, a whole series of motions are now dead.  They remained dead during the course of the last Seanad. There was a general feeling among us all that we did not meet often enough that we only met when the Dáil more or less wanted us to meet and when <Col N="21" /> the Government in power decided that we should come along here and speak. There were a great number of things that we were passionately interested in and we saw the lifetime of an entire Seanad go and none of these matters was drawn into the area of the public interest.  We have to resurrect them again.  I would like to add my voice to that of Senator Robinson, Senator West and Senator McGlinchey and ask if there is any hope that in the life of the present Seanad the Leader of the House could give us some kind of assurance that a number of these issues will be debated and that the Seanad will not always be merely something that has to dance to the tune of the Dáil and obey the special interests of the Government in power at every given moment.</P>
+    <Speaker pid="PatrickMarkCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Just to put the record straight and to ensure that a total picture emerges from this when we are debating the Order of Business, it is my understanding that the last Seanad sat on more occasions than any previous Seanad and that more important Bills were initiated in this House during the lifetime of that Seanad than in any previous Seanad.</P>
+    </Speaker>
+    <Speaker pid="PaddyMcGowan" hpid="Mr. McGowan Mr. McGowan">
+      <NameTxt>Mr. McGowan</NameTxt>
+      <P>I want to support Senator Robinson in her proposal that greater use be made of the Seanad. May I broaden it a little by saying that now is a good time to set any trend that might be of benefit to the average Member of the House?  Might I go a little further in suggesting that the House should not be completely dominated and hogged by those who are very fluent in English, in other words, that we do not come in here and have to listen day after day to people who are using the House for sensationalism? We should use the House in a more practical way and not have to spend extra days sitting because somebody has spent a long time writing a speech and wants to get publicity.  This House should be used for the purpose for which it is entitled to be used, not used as a platform for some people who want to air their views.</P>
+    </Speaker>
+    <P>I do not want to start on a note of rancour but I think that now is a good time to say this.  I hope there will be some measure of agreement <Col N="22" /> whereby contributions from any Senator, let him be in the front bench or the back bench, or wherever he sits or whatever point of view he represents, will be heard and that he will not be prevented from speaking by those who are very eloquent.</P>
+    <Speaker pid="ThomasWhitaker" hpid="Dr. Whitaker Dr. Whitaker">
+      <NameTxt>Dr. Whitaker</NameTxt>
+      <P>As the new boy equally shy in both languages for the present I would like to add my voice in support of what Senator Robinson and other Senators have suggested that, by agreement, procedure be worked out under which the Seanad could have from time to time debates on matters of public interest which do not arise immediately out of the legislation coming before us.</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I have been asked to give an assurance that this Seanad will conduct its business as far as motions are concerned more effectively than the last one.  I am happy to give that assurance.  It would be premature for me to attempt to go into any detail today in regard to how that should be done.  Initially, it is a matter for discussion by the Whips and subsequently it is probably a matter for discussion by the Committee on Procedure and Privileges.  I will ensure that these discussions take place as quickly as possible and that the Committee on Procedure and Privileges consider the position.  Those who were Members of the House before are aware that the Committee made a proposal during the last Seanad which was not very effective.  We will have to look at it again and see if we can make an arrangement which will be more effective.  I am in general agreement with the sentiments which have been expressed by Members of the House on this subject.  As I say, it is a matter for discussion by the Whips initially and then probably a matter for discussion by the Committee on Procedure and Privileges.  It is not something which I intend to put on the long finger.</P>
+      <P>Order of Business agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Social Welfare" RHead="(Consolidation) Bill, 1976: Message from Dáil">
+    <Title>Death of Member. - Social Welfare (Consolidation) Bill, 1976: Message from Dáil.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Dáil Éireann has passed the following Resolution in <Col N="23" /> which the concurrence of Seanad Éireann is desired:&mdash;</P>
+      <P>That it is expedient that the Social Welfare (Consolidation) Bill, 1976, which has lapsed and which before lapsing stood referred to the Standing Joint Committee on Consolidation Bills be revived and proceeded with at that stage.</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann concurs with Dáil Éireann in its Resolution communicated to Seanad Éireann on 12th day of October, 1977, that it is expedient that the Social Welfare (Consolidation) Bill, 1976, which has lapsed and which before lapsing stood referred to the Standing Joint Committee on Consolidation Bills be revived and proceeded with at that stage.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Oireachtas Library" RHead="Joint Committee: Message from Dáil">
+    <Title>Death of Member. - Oireachtas Library Joint Committee: Message from Dáil.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Dáil Éireann has passed the following Resolution in which the concurrence of Seanad Éireann is desired:&mdash;</P>
+      <P>That it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann be set up to assist and advise the Ceann Comhairle and the Cathaoirleach in the direction and control of the Oireachtas Library;</P>
+      <P>That the Joint Committee, previous to the commencement of business, shall elect one of its members to be Chairman, who shall have only one vote;</P>
+      <P>That all questions in the Joint Committee shall be determined by a majority of votes of the members present and voting and in the event of there being an equality of votes the question shall be decided in the negative; and</P>
+      <P>That four members of the Joint Committee shall form a quorum of whom two shall be members of Dáil Éireann and two shall be members of Seanad Éireann.</P>
+    </Speaker>
+    <Col N="24" />
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann concurs with Dáil Éireann in its Resolution communicated to Seanad Éireann on 18th day of October, 1977, that it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann be set up to assist and advise the Ceann Comhairle and the Cathaoirleach in the direction and control of the Oireachtas Library;</P>
+      <P>That the Joint Committee, previous to the commencement of business, shall elect one of its members to be Chairman, who shall have only one vote;</P>
+      <P>That all questions in the Joint Committee shall be determined by a majority of votes of the members present and voting and in the event of there being an equality of votes the question shall be decided in the negative; and</P>
+      <P>That four members of the Joint Committee shall form a quorum of whom two shall be members of Dáil Éireann and two shall be members of Seanad Éireann.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Oireachtas Restaurant" RHead="Joint Committee: Message from Dáil">
+    <Title>Death of Member. - Oireachtas Restaurant Joint Committee: Message from Dáil.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Dáil Éireann has passed the following Resolution in which the concurrence of Seanad Éireann is desired:</P>
+      <P>That it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann to be set up to direct and control the Oireachtas Restaurant;</P>
+      <P>That the Joint Committee, previous to the commencement of business, shall elect one of its members to be Chairman, who shall have only one vote;</P>
+      <P>That all questions in the Joint Committee shall be determined by a majority of votes of the members present and voting and in the event of there being an equality of votes the question shall be decided in the negative; and</P>
+    </Speaker>
+    <P>
+      <Col N="25" /> That four members of the Joint Committee shall form a quorum of whom two shall be members of Dáil Éireann and two shall be members of Seanad Éireann.</P>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann concurs Dáil Éireann in its Resolution communicated to Seanad Éireann on 18th day of October, 1977, that it is expedient that a Joint Committee consisting of seven members of Dáil Éireann and seven members of Seanad Éireann be set up to direct and control the Oireachtas Restaurant;</P>
+      <P>That the Joint Committee, previous to the commencement of business, shall elect one of its members to be Chairman, who shall have only one vote;</P>
+      <P>That all questions in the Joint Committee shall be determined by a majority of votes of the members present and voting and in the event of there being an equality of votes the question shall be decided in the negative; and</P>
+      <P>That four members of the Joint Committee shall form a quorum of whom two shall be members of Dáil Éireann and two shall be members of Seanad Éireann.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Joint Committee on" RHead="Consolidation Bills: Message from Dáil">
+    <Title>Death of Member. - Joint Committee on Consolidation Bills: Message from Dáil.</Title>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Dáil Éireann has passed the following Resolution in which the concurrence of Seanad Éireann is desired:&mdash;</P>
+      <P>That it is expedient that the Standing Joint Committee on Consolidation Bills be appointed;</P>
+      <P>That the Chairman of the Joint Committee shall have only one vote; and</P>
+      <P>That all questions in the Joint Committee shall be determined by a majority of votes of the members present and voting and in the event of there being an equality of votes the question shall be decided in the negative.</P>
+    </Speaker>
+    <Col N="26" />
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann concurs with Dáil Éireann in its Resolution communicated to Seanad Éireann on 18th day of October, 1977, that it is expedient that the Standing Joint Committee on Consolidation Bills be appointed;</P>
+      <P>That the Chairman of the Joint Committee shall have only one vote; and</P>
+      <P>That all questions in the Joint Committee shall be determined by a majority of votes of the members present and voting and in the event of there being an equality of votes the question shall be decided in the negative.</P>
+      <P>Agreed and ordered accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Sittings of Seanad:" RHead="Motion">
+    <Title>Death of Member. - Sittings of Seanad: Motion.</Title>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I move:</P>
+      <P>That, notwithstanding anything in Standing Orders and unless the Seanad shall otherwise resolve, the following provisions shall apply in respect of each week in which the Seanad sits:&mdash;</P>
+      <P>(a) on the first day of sitting the Seanad shall meet at 2.30 p.m.; and</P>
+      <P>(b) on the second and any subsequent day of sitting the Seanad shall meet at 10.30 a.m.</P>
+      <P>This motion is similar to one agreed by the Seanad on 24th March, 1976. The hours of sitting on Wednesdays and Thursdays prior to that date had been 3 p.m. to the customary hour of adjournment of 10 p.m.  In order to bring forward the customary hour of adjournment to 8.30 p.m.&mdash;with any matter for discussion on the adjournment being taken 30 minutes before the adjournment time&mdash;it was agreed that the Seanad should meet at 2.30 p.m. on the first day of sitting in any week and at 10.30 a.m. on the second and any subsequent day.</P>
+      <P>The revised pattern of sittings met with general approval and I propose, having consulted with the other groups in the Seanad, that it be reintroduced. It involves, also, suspending the sitting for lunch on days when the House sits at 10.30 a.m. but that there be no tea-break, unless, exceptionally, the state of business allows it.</P>
+    </Speaker>
+    <P>
+      <Col N="27" /> The arrangements I have mentioned do not require a formal motion except in relation to the time of sitting, which is specifically dealt with in Standing Order No. 18.  This is the motion I now recommend to the House.</P>
+    <P>Agreed and ordered accordingly.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Elections of Conservators" RHead="(Postponement) Order, 1977: Motion">
+    <Title>Death of Member. - Elections of Conservators (Postponement) Order, 1977: Motion.</Title>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann approves the following Order in draft:</P>
+      <P>Elections of Conservators (Postponement) Order, 1977,</P>
+      <P>a copy of which Order in draft was laid before Seanad Éireann on the 1st day of September, 1977.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Minister for Fisheries (Mr. Lenihan) Brian (Snr.) Lenihan">
+      <NameTxt>Minister for Fisheries (Mr. Lenihan)</NameTxt>
+      <P>Elections to boards of conservators, which under the Fisheries Acts would normally be held every five years, have been deferred by amending legislation since 1974.</P>
+      <P>Under the Fisheries (Amendment) Act, 1976, the elections were postponed to 1977 or such later year as may be fixed by order.  I now propose to make an order postponing these elections to 1978.  Before I can do so, however, a resolution approving of the draft of the order must be passed by each House of the Oireachtas.  Such a resolution was passed by Dáil Éireann last week.</P>
+      <P>This further postponement is necessary as it is still considered inappropriate to allow elections under the old system to go ahead in advance of the new legislation proposed to give effect to the main recommendations of the Inland Fisheries Commission. I expect that I will be in a position to introduce such legislation early next year.</P>
+      <P>As Senators are no doubt aware changes in the existing structure of boards of conservators are warranted having regard to the fact that the present system, which has been in existence for about 100 years, contains some of the unsatisfactory features of 19th century administrations.  Under the proposed new legislation the boards will be replaced by seven regional fishery boards and a central fishery board.</P>
+    </Speaker>
+    <P>
+      <Col N="28" /> Despite the handicap of their outdated structure the boards of conservators have carried out invaluable work in the protection and conservation of inland fisheries.  I wish to record my appreciation of the wonderful work done by the boards and by their staffs.  As we know the service rendered by the members of the boards is a voluntary one which takes up a lot of their time and energy.</P>
+    <P>It is indeed fortunate that our inland fisheries have had the benefit of the service of such dedicated people who have been willing to continue in office beyond their normal term.  I have no doubt that the boards' statutory duties will once again be in good hands with the continuance in office of the boards' members for a further year.  I hope that many of the people who have done so much for inland fisheries as members of boards of conservators will offer themselves in due course as candidates in the elections to the new boards when the proposed legislation is enacted.</P>
+    <P>I accordingly recommend to the House that a resolution be passed approving of the draft order.</P>
+    <Speaker pid="BernardMarkey" hpid="Mr. Markey Mr. Markey">
+      <NameTxt>Mr. Markey</NameTxt>
+      <P>Might I start by congratulating the Minister on his appointment? I can assure him that any contributions from this side of the House will be constructive and aimed at improving the Department over which he presides.</P>
+      <P>The necessity for this postponement for a further year of elections to the boards of conservators is regretted.  I know it is unavoidable but, notwithstanding that, we hope that when the Minister brings forward the legislation he will have in it many of the proposals which the Inland Fisheries Commission have already submitted. The problem in regard to the safeguarding of fish stocks in our inland waters is a great one.  It really boils down to the curtailment of poaching and the prevention of pollution of our waters.</P>
+    </Speaker>
+    <P>When we look at these two problems, that of poaching and pollution, and ask ourselves how successful the boards of conservators have been in the past, we must honestly say that, while tribute must be accorded to <Col N="29" /> them for the great public services they have rendered, the overall success of their work is far short of what one would desire.  They are not altogether to be blamed because they have not been given by successive Governments commensurate financial resources, equipment or even adequate advice to enable them to provide a service of the highest order.</P>
+    <P>It is alarming to discover that the staffs of the boards of conservators have had to operate under very difficult conditions.  The pay which the most important personnel, namely, the inspectorate and like, have received for their duties has not been adequate. They hold positions which carry no great fixity of tenure; they are employed on a year to year basis and at the end of their service there is no pension for them.  It is to be hoped that the new legislation will make up for all these deficiencies of the past.</P>
+    <P>The problem of poaching has existed since the first boards of conservators were established.  I suppose it was really to tackle the problem that the boards were established in the first place.  Poaching is still going on.  It is a running sore.  The boards must be provided with adequate resources to tackle this problem.  The fishermen and their associations realise that poaching is a great danger to their livelihood.  They should be very good watchdogs in the future.</P>
+    <P>The attempts by the boards of conservators to tackle the increasing problem of pollution are commendable. I wonder if their efforts have not been hampered by initially, the lack of adequate legislation to help them in this important task and also by the lack of conviction with which these legislative proposals that have come through the Dáil and Seanad in recent years have been followed up by the authorities in their enforcement.  There have been instances where boards of conservators warned, indeed, threatened, local authorities and have carried out a number of prosecutions in regard to the pollution of our waters.</P>
+    <P>In the Prevention of Water Pollution Act, 1976, which went through <Col N="30" /> this House, some reservations were voiced then regarding the powers which that legislation gave to local authorities, particularly as it has been obvious for far too long that local authorities are sometimes the worst polluters of all.  It is to be hoped that the new central board and the regional boards will be empowered to pursue this matter of water pollution to a far greater extent and with greater success than has been achieved in the past.</P>
+    <P>It is not remiss to make mention also of the effect of pollution in regard to tourism.  In the past two weeks we have seen the result of surveys carried out regarding our tourist advantages. It was somewhat disillusioning to realise that some of the great points we always had over other countries in tourism were no longer there.  We seem to be increasingly coming to the day when our advantages over other countries in tourism are shrinking to the point when we have nothing to present to the tourist but the natural beauty of our countryside.  If pollution is allowed to continue &mdash; unfortunately we can see its increase in recent years &mdash; then that great and final advantage over other countries will not be as good as we would like it to be.</P>
+    <P>It is no harm to reiterate what An Foras Forbartha and the Inland Fisheries Trust have said from time to time.  In An Foras Forbartha report of 1971 it was stated that almost 20 per cent of our rivers and lakes ranged from being of doubtful quality to being seriously polluted.  In their 1975 report the Inland Fisheries Trust referred to the growing menace that pollution presented to our inland waters.  In their 1976 report they stated that there had been a 50 per cent increase in the instances of pollution in only a two-year period between 1973 and 1975.</P>
+    <P>The Minister I know does not wish that this motion should be debated. As I said at the outset, it is regretted that there must be another postponement. I know we will have further opportunities when the Minister brings in legislation.  I hope that will be very early, perhaps in the next six months. We will have a further opportunity then of going into the matter in <Col N="31" /> greater detail.  I would not wish to conclude without paying tribute to the boards for the very good service they have rendered in very difficult circumstances. I know that if they were given the tools to do their job, they would be the first to acknowledge that by giving a service commensurate with the task which is entrusted to them.  I hope this will be the last postponement and that the Minister will come forward with his legislation.</P>
+    <P>Would the Minister like at this stage to mention if the central board which he envisages will act in an advisory or an executive capacity and if it will be responsible to him?  I feel that the existing boards in their independent nature &mdash; they operate almost independent of each other &mdash; do not operate to the best possible overall advantage for the safeguard of our waters.  There can be divergence between one board and another as regards the number of licences issued and the interpretation of the criteria which should preside over the distribution or the allocation of licences.  I ask the Minister to try to ensure that the criteria under the new structure will be such that they will not be capable of any undue divergence in interpretation between the different regional boards.  I again regret the postponement of these elections but I look forward to the restructuring of the board of conservators. I am sure in that restructuring a number of important matters, which the Commission on Inland Fisheries have submitted, will be embodied.</P>
+    <Speaker pid="BernardMcGlinchey" hpid="Mr. McGlinchey Mr. McGlinchey">
+      <NameTxt>Mr. McGlinchey</NameTxt>
+      <P>I, too, am very glad that once again the Minister is among the big fish.  Ag an am gcéanna ba mhaith liom a rá go bhfuil saráthas orm gur ceapadh Cathaoirleach as Cúige Uladh.  Tá a fhios agam go ndéanfaidh sé a chuid oibre go maith.</P>
+    </Speaker>
+    <P>Senator Markey stated that one of the primary purposes in introducing boards of conservators was to eliminate poaching.  As we all know, poaching is one of the greatest threats to our fishing stocks.  I ask the Minister to work with the Minister for Justice and, indeed, the Minister for Defence <Col N="32" /> to eliminate this threat to our fishing stocks.</P>
+    <P>A month or so ago I met licensed fishermen along the river Foyle in County Donegal.  I was appalled to learn from them that since the season closed they estimated that 15,000 salmon were poached from the river Foyle on the Donegal side and that the counter for counting fish, which at this stage should have recorded 30,000 salmon, was recording 450. This meant that in one river alone a month ago some 15,000 salmon had been taken illegally.  Their main complaint was that the gardaí were too involved in security matters, that they had not the time to devote to this problem and that, when they did, they were stoned and attacked by these poachers.  I asked a garda officer if any action could be taken in this matter.  He told me that if the men were provided with the facilities they could deal with this problem.</P>
+    <P>Not alone should the Minister ensure that the Garda be involved in this matter but he should appeal to the Minister for Defence to use the Army personnel who are stationed nearby to ensure that poaching on the scale I outlined is stopped.  There is no point introducing legislation for the election of conservators unless we take stern action, unless we declare war on poachers and people who are out to cripple our salmon and fishing industry in the years to come.</P>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>Firstly, let me add my voice to previous speakers in welcoming the Minister for Fisheries.  In regard to our present and recent jobs and the fact that I once represented the same constituency, we have reverse roles.  When I look at his travels and his travails, I allow myself to doubt as to which of us is the happier in the present situation.  He is very welcome and we wish him well.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>That is a warning.</P>
+    </Speaker>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>There would be concurrence everywhere about the value of the work done by the boards of conservators and especially the work done by their staffs for so many of whom it <Col N="33" /> is a labour of love performed in bad circumstances.  They have served the country well within a framework of completely inadequate legislation.  We understand the reason for this postponement and will not oppose it, but the problem is a very pressing one, as I am sure the Minister knows.</P>
+      <P>Poaching in Ireland is embedded psychologically in our past and our current attitudes are vastly damaging socially and are irrelevant to present reality.  It is like our attitude to trees. Trees and the fish in the rivers belong to the landlords and if one is against the landlords one feels psychologically entitled to rip off the trees and the fish.  It has enormously damaged our countryside.  We have not been able to rejig ourselves in the past 50 or 60 years to look on these as social wealth. We are a bit permissive and even softhearted about poaching.  It involves shattering violence at times and willingness to inflict injuries on people.  It involves the impoverishment, not of the landlords as such in the traditional sense, but of areas where tourism related to fishing is a vastly promising growth area.</P>
+      <P>The poaching situation is desperately serious, particularly in regard to the salmon.  It is relevant to say this to the Minister because his area of responsibility extends, as does the range of the salmon itself, down the rivers and out to sea.  The salmon is not just threatened in the rivers, it is also threatened in the seas and off the coast by drift netting and it is threatened further afield in its spawning grounds in the North Atlantic.  It is a superb species, one of the great fish of the world, and we are so lucky that our rivers are rich in this marvellous fish. If we do not look to all of the aspects in an integrated way we will be profoundly the losers, not just in tourism and in sport but in relation to a superb fish and one that is very seriously threatened by simultaneous attack in a number of places.</P>
+    </Speaker>
+    <P>In regard to pollution there are too many different hats, too many different authorities.  The Minister is perfectly entitled to ask why did we not do something about this when we had the power, and it is a valid argument. <Col N="34" /> There is pollution coming from industry, with my old Department and the HRS having a role.  A lot of pollution comes from agriculture, particularly from intensive pig breeding and the intensive uses of fertilisers near to catchment areas.  There is pollution coming from unprocessed urban sewage, which is a local authority matter.  There is a spread of powers between different Departments and a lack of cohesion, a lack of unity and, therefore, a lack of efficiency.</P>
+    <P>This is partly a matter of bringing science to bear on all of the aspects of our fresh water, mainly on the question of its purity and the preservation of the stocks that exist and also of the strengthening by biological research and applied biology of the availability of fish.  That is an almost incalculably valuable tourist attraction. The Minister said:</P>
+    <P>I expect that I will be in a position to introduce such legislation early next year.</P>
+    <P>I find that the phrase has a certain echo.  We all agree that it is urgent. We hope that it is early next year.  I know how with the best ministerial will in the world these dates can slip and the slippage may occur outside the Minister's own jurisdiction and outside his own Department.  Indeed, if he wants questions planted in the Dáil which might serve to jog certain elbows, those that he cannot directly jog himself, I am sure we know people who could arrange to do that.  We will support this motion with the proviso that, please, let us see the new legislation as quickly as possible.</P>
+    <Speaker pid="ThomasAMartin" hpid="Dr. Martin Dr. Martin">
+      <NameTxt>Dr. Martin</NameTxt>
+      <P>I support and give my full acquiescence to what the Minister proposes here but I should like to make a few points.  These are directed specifically at the Minister, who I know is a man open to ideas and who, because he has brought his not inconsiderable intelligence to bear on this many-faceted problem, will be open to the few remarks I have to make.</P>
+    </Speaker>
+    <P>In the first place we speak about poaching.  Poaching is, perhaps, a mechanical problem; one prevents people from poaching if one can <Col N="35" /> dissuade them, catch them or prosecute them.  Pollution is a different matter.  Senator West and I had on the Order Paper of the last Seanad a plaintive motion which stood there for three of the four years and which had to do with the fact that we needed a Department of the Environment.  This Department would have to do with the rivers, lakes and seas around us; it would have to do with Wood Quay and the archeological dimensions of that, with national monuments, with tourist amenities and with all kinds of things.</P>
+    <P>When the new Government came into power and created a Department of the Environment it could be reasonably said that we should have thrown up our hats and said &ldquo;We have got what we want&rdquo;.  When one looked more closely at it one saw what had happened was that the Department of Local Government was made the Department of the Environment.  One of the most disturbing aspects was that the Department of Local Government had frequently been successfully prosecuted under the last Government for sins against the environment and particularly for pollution.  A good deal of the pollution of rivers had been done by that very same Department which now has been made the Department of the Environment.  That is not a consoling development in our polity at present.  I am not making this as a polemical point.</P>
+    <P>Since the Minister is here and listening to us with that impartiality for which he has become legendary, I would like to make the point with regard to pollution that motivation is most important.  It is a fact that 50 years ago the Thames was polluted and there was no life in it.  It is now true that one can catch trout off Tower Bridge.  The reason that happened was not that a number of people in Parliament made decisions, but that an entire population was brought round to the view that our environment is crucial to our health&mdash;our social, spiritual and, indeed, mental health.  Britain has discovered that.  We have not discovered it yet, even though there is nothing like the same rape of the environment that has happened in Britain, as a <Col N="36" /> result of an Industrial Revolution, which Ireland never experienced.  In Ireland, without an industrial revolution, there is an extraordinary degree of pollution of our natural resources, something quite out of proportion to the amount of productivity on the industrial level which is responsible for it.  It is quite ludicrous.  It is disquieting that the best the Government can do is to convert the Department of Local Government, one of the great sinners against the environment, into a Department of the Environment.</P>
+    <P>One of the biggest challenges facing the Minister and several other Ministers is the problem of making everybody realise the importance of the environment, the air we breathe, the water we drink and pour into our whiskey, the water in which we wash ourselves, from which we make our minerals and in which the fish live and propagate their species.  The sense of that is lost and the real reason is that the responsibility has been divided between so many Departments in the past.  The Department of Lands are involved, together with the Department of Agriculture, the Department of Fisheries and the apparently hostile Department of Industry, Commerce and Energy and there is a feeling that only confrontation can produce results.</P>
+    <P>We know how a very important chemical industry was lost to the Waterford area because just a few conservationists stood up and fought. We know the rows about Asahi in the west and about the difficulties in Dublin Bay.  It would be marvellous if we could have a genuine Department of the Environment which would tease out all the difficulties in advance and which could advise the other Departments.</P>
+    <P>The chief point, and I end on this, is that the people have to be persuaded that, within the next ten or 15 years, unless we have a really enlightened attitude towards the environment we will have no environment towards which to have an attitude.  It is as rapid and as difficult as that.  I do not want to raise the question of plutonium and the Windscale situation. That is threatening enough. We are concerned with the motivation of our people and the leadership given <Col N="37" /> by Parliament and by the various Departments. Poaching is a matter that can be quickly controlled.  I would like to recommend those few exhortatory thoughts to the Minister as he launches himself on his very serious sea of responsibility.</P>
+    <Speaker pid="RuairiBrugha" hpid="Ruairí Brugha Ruairí Brugha">
+      <NameTxt>Ruairí Brugha</NameTxt>
+      <P>Ba mhaith liom ar dtúis cúpla focal gearra ar an moladh agus fáilte a chur roimh an Aire ar a chéad cuairt ar an dTigh seo.  I do not propose to go over the ground that has been adequately covered by other Senators.  We are all rightly concerned about the destruction of natural resources arising out of pollution and naturally we are concerned about the very broad extent of poaching.</P>
+      <P>I believe that the new Government will come to grips with the problem of the destruction of amenities and the creation of what amounts to cesspools in some of our rivers.  I would urge the Minister to tackle this problem, together with his colleagues in the Department of the Environment, adopting the approach that this should have been done yesterday.  I am glad that the Minister intends to introduce legislation early next year.  I would urge him to do so as quickly as possible. We all have a fundamental responsibility for what is happening to our environment.  We must prevent the destruction of life in our rivers.  Other Senators have covered this subject adequately. I hope the Minister has the support of all sides of this House.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Minister for Fisheries (Mr. Lenihan) Brian (Snr.) Lenihan">
+      <NameTxt>Minister for Fisheries (Mr. Lenihan)</NameTxt>
+      <P>I am heartened by the constructive level of this debate.  We have a report to hand on the whole area of inland fisheries, one which covers a wide range of viewpoints.  On the basis of that report, which a previous Fianna Fáil Government commissioned, the last Coalition Government proceeded to put the bones of legislation together. I am now completing the proposed legislation.  There are one or two problems with the Attorney General's office but most of the legislation is now in draft form.  I can guarantee the House that it will be published before the end of the year and we should have it in the first session next year.  It is a <Col N="38" /> measure which can command a wide spread of support in an area which is non-contentious but very important from the national point of view.  I propose to introduce an enabling-type Bill so that we can discuss the various forms that regulations may take to ensure that we have the best type of administration.  The enabling aspect will ensure that we can have a wide committee-type debate on this matter because there are many points of view.  It will be a major reform in regard to inland fishery administration and it is long overdue.</P>
+      <P>In my capacity as Minister for Fisheries I will not preside over the extinction of our fish stocks.  Climatically we have tremendous advantages and it would be criminal if a Minister for Fisheries were to allow our fish stocks to be eroded either by pollution or by poaching.  I am referring particularly to inland fisheries.  That is what the motion relates to.  We now have the pollution legislation to hand. I take the point that was made about the Department of Local Government, now the Department of the Environment, and hope that the poacher-turned-gamekeeper will be effective here.  They have the responsibility of dealing with the pollution problem. Unfortunately, through the local authorities and through not sanctioning proper treatment plans, the Department have been participants in much of the pollution that has taken place. Let us hope that under the legislation they will now act in an effective way as gamekeeper.</P>
+      <P>Poaching will have to stop.  I have already initiated talks with the Department of Defence and the Department of Justice with a view to mobilising the Naval Service and the Garda in an all-out sweep against illegal fishing methods of every kind, particularly in regard to salmon and sea trout.</P>
+    </Speaker>
+    <P>Salmon is a very valuable species which is now seriously threatened. There is a very serious downward trend in the graph of salmon numbers going into our rivers at present.  This is being caused by wide-scale illegal poaching off our coasts, not by legitimate salmon drift net fishermen who have traditionally fished in <Col N="39" /> certain coastal and estuarine waters but by high-powered fishing vessels without any licence, using in some cases&mdash;and this may appear to be shocking but it is factual, particularly off the north-western coasts&mdash;nets in the order of ten, 12 or 14 miles in length.  I want to serve notice now that this will stop, that such nets will be confiscated and removed from the scene of the operation.  In my view that is the way to deal with it rather than through long drawn out court proceedings. There are provisions under existing fisheries legislation whereby such nets can be confiscated and removed and this constitutes the most effective penalty of all.</P>
+    <P>Owing to the high price that salmon has been commanding in the past few years, there is a very definite policy of greed which can do serious damage to a basic resource and it is my duty to see that this will not happen again. This year will be crucial in this respect.  As far as marine and inland fisheries are concerned, I regard 1978 as conservation year.</P>
+    <Speaker pid="ThomasAMartin" hpid="Dr. Martin Dr. Martin">
+      <NameTxt>Dr. Martin</NameTxt>
+      <P>Will these nets not be bought back again by fake auction immediately afterwards?</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>I propose to move the nets to an appropriate place away from the scene.</P>
+    </Speaker>
+    <Speaker pid="RuairiBrugha" hpid="Ruairí Brugha Ruairí Brugha">
+      <NameTxt>Ruairí Brugha</NameTxt>
+      <P>Burn them.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>If necessary, that can be done as well.  It is the most effective penalty and I am serving notice on everybody concerned that this sort of operation will stop this year.  We can invoke the enforcement authority of the Naval Service and the Garda for this purpose.</P>
+    </Speaker>
+    <P>Although the legislation will have new enforcement powers and stiffer penalties, fundamentally the law as it stands is adequate if it is enforced. Enforcement is more important than new regulations or new legislation. What is required is the political will on the part of the Government to see that the job is done, that we recruit sufficient officers to do it and that we mobilise the basic enforcement <Col N="40" /> services of the Navy and the police force to back up the staffs of the boards of conservators and the Inland Fisheries Trust.  I intend also to strengthen those staffs substantially.  I have approval from the Minister for Finance for that purpose, pending the legislation.</P>
+    <P>I will not tarry or delay waiting for the legislation.  It will improve the enforcement aspects, the penalty situation and so on, but the situation is so serious that we must plan for the coming salmon season and I propose to utilise the existing law and regulations and to adopt a very strict, thorough and tough enforcement procedure. We cannot afford to await because the legislation to be introduced in the new year will not be in operation until the following year.  At the rate at which salmon stocks are diminishing, we just cannot wait until 1979.  We will have to deal with this problem in 1978.</P>
+    <P>The legislation itself will be effective in providing the long-term framework. The Inland Fisheries Trust and the existing boards of conservators will be integrated into one central fisheries authority so that the development work that is being carried out by the Inland Fisheries Trust and the protection work being carried on by the boards of conservators will be merged within a single authority.  We will have under that authority seven regional boards around the coast which will function under the Central Fisheries Board. Basically it will be a properly financed developmental board.  At present there are a number of fisheries boards around the coast, all using different systems of administration and doing excellent work within their own limited terms of reference, but not really financed and without adequate staff and a co-ordinated national policy.</P>
+    <P>I think everybody recognises the limitations of the system.  Under the new system we will have a properly financed inland fisheries board.  This is all important.  Some of that finance will be raised from the industry itself by way of a commercial levy on the sale of salmon, for instance.  That is fair enough.  I have also discussed with angling interests the bringing in of a reasonable rod licence fee as well.  The <Col N="41" /> legitimate, responsible angling interests agree with that and see that there is nothing wrong with it provided, of course, that the revenue raised from the commercial sale of salmon and by way of licences for angling rods will be devoted to the Central Fisheries Board and not become part of the general body of revenue for the State as a whole.</P>
+    <P>The other points raised by various Senators have been noted by me. Indeed, the consensus expressed here is basically my own view.  I have reiterated the points of view expressed by Senators.  Our policy will be to have an immediate clamp-down on illegal fishing of every kind by way of enforcement under existing legislation, followed by new legislation that will provide a framework under which the development of our inland fishery resources can be continued in the years ahead.  I regret having to bring this order before the House.  It is just to carry us over an interim period.  I can assure the House without equivocation that this is the last time this order will be introduced and that we will have the legislation in the new year.  Hopefully, we will have a constructive and responsible debate on this very important matter.</P>
+    <P>We have built up over the years an excellent name in respect of our inland fisheries.  We have put a lot of money into the development, rehabilitation and the promotion of inland fisheries.  We have a name and we want to live up to it, otherwise it can degenerate into a situation where, quite frankly, we are promoting something under false pretences.  We cannot have that any more.  We are in grave danger of doing so and I am thinking particularly of tourism, apart from the commercial aspects.  We must embark on a thorough policy of complete commitment to the conservation of our inland fisheries.  I have made much mention of salmon but it applies across the board to sea trout and freshwater trout, to coarse fish and all the resources within the fisheries umbrella, both marine and lake and river.  If we are to maintain our good name and reputation as a country promoting a very valuable area of tourism and not just cod people out of <Col N="42" /> what is available, then we must show that we are serious about the whole business of management and conservation of our fish stocks.</P>
+    <P>Question put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Death of Member. - Dairy Produce (Miscellaneous Provisions)" RHead="(Amendment) Bill, 1977: Second Stage">
+    <Title>Death of Member. - Dairy Produce (Miscellaneous Provisions) (Amendment) Bill, 1977  [  Certified Money Bill ]:   Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="JamesMGibbons" hpid="Minister for Agriculture (Mr. Gibbons) James Gibbons">
+      <NameTxt>Minister for Agriculture (Mr. Gibbons)</NameTxt>
+      <P>The purpose of the Bill now before this House is to extend for a further two years up to 31st December, 1979, the period of validity of the existing State guarantee of borrowings by An Bord Bainne Co-operative Ltd. This guarantee which is given by the Minister for Agriculture, with the consent of the Minister for Finance, under section 6 of the Dairy Produce (Miscellaneous Provisions) Act, 1973, is due to expire on the 31st December, 1977.</P>
+      <P>An Bord Bainne Co-operative Ltd., is a co-operative society which was with my full support, established voluntarily in 1972 under the Friendly Societies Acts by the creamery industry itself to take over from the semi-State Bord Bainne as from 1st February, 1973, the central marketing of our dairy products.</P>
+      <P>The need for borrowings by Bord Bainne &mdash; and borrowings on a large scale &mdash; arises mainly from the pattern of our milk production.  The bulk of our milk, and therefore of our milk products, is produced over a relatively short period each year from April to August while the marketing of these products by the board is conducted on a fairly even basis throughout the year.  As the board purchases the products from the creameries and other milk processing units on production, and must itself wait for payment until marketing is completed, expenditure by the board over the months of peak purchasing by far exceeds its income from sales.</P>
+    </Speaker>
+    <P>This gap between expenditure and income has to be bridged by short-term borrowings each year from banks and other lending institutions.  As the assets of the then new board were far <Col N="43" /> from being sufficient to enable it arrange borrowings on the scale needed, provision was made in the Dairy Produce (Miscellaneous Provisions) Act, 1973, to enable the Minister for Agriculture, with the consent of the Minister for Finance, to guarantee borrowings by the board for the purchase of dairy products up to a maximum of £20 million at any one time.  The guarantee given under the Act has in fact enabled the board to borrow sums vastly in excess of this amount.</P>
+    <P>By 1976, however, both milk production and the price of milk and consequently of milk products, had increased very substantially.  As a result the seasonal gap between the board's outgoings and its income had already increased substantially to an extent that the £20 million guarantee was no longer adequate.  Accordingly, my predecessor, with my full support, sought and obtained in the Dairy Produce (Miscellaneous Provisions) (Amendment) Act, 1976, power to increase the maximum amount of the guarantee to £40 million.</P>
+    <P>The guarantee provisions contained in the 1973 Act were, however, intended as a temporary measure designed to give the new board an opportunity to build up its own assets to the point at which it could operate on its own resources without the need for such State guarantee.  Accordingly it was provided in that Act that the period over which the guarantee would be available would expire on 31st December, 1977.  The board, through its capital levy on milk deliveries to creameries, has been endeavouring to build up its own resources to a level sufficient to enable it to conduct its financial affairs without the need for having recourse to a State guarantee. While the rate of the capital levy was doubled as from 1st January, 1976, it is clear that the assets of the board will not be sufficient for some time to come yet.  I am, therefore, in this Bill proposing to extend the period of the State guarantee for a further two years until 31st December, 1979.  I would hope that the extended period of the guarantee would be used by those involved <Col N="44" /> in the creamery industry to accelerate their efforts to build up the financial resources of their own central marketing agency.</P>
+    <P>I need hardly remind the House that the well-being of our dairy industry is vital not alone to our agricultural economy but to the economy of the country as a whole.  As over two-thirds of our milk production must be exported in the form of processed milk products, the marketing of these products abroad to best advantage is essential for a thriving creamery industry. Bord Bainne Co-operative Ltd. has, since it commenced the central export marketing of our dairy products in 1973, been performing its role most effectively and I trust, therefore, that the House will approve this Bill and support the Government in demonstrating their continued confidence in the work being performed by the board.</P>
+    <Speaker pid="AlexisFitzgerald" hpid="Mr. Alexis FitzGerald Mr. Alexis FitzGerald">
+      <NameTxt>Mr. Alexis FitzGerald</NameTxt>
+      <P>I should like to welcome the Minister back to the House and congratulate him on his re-appointment as Minister for Agriculture which will be, I hope, as successful as I am allowed to hope it will be short.  At any rate, in dealing with this Bill or any other measure introduced to this House by him or by any of his colleagues, I hope I will make the kind of speech I would make if I were on the other side of the House and it was his predecessor or any of his predecessors who was introducing it.</P>
+    </Speaker>
+    <P>The Bill is short but it relates to a very important matter.  The importance of the matter can be gauged by reference to a figure published by the Food, Drink and Tobacco Federation recently in the quantification of the proportion of our total exports represented by agricultural produce which, in relation to year 1975, they gave as 47 per cent.  Taking dairy produce alone including processed food it was 15 per cent.  We are talking about an industry which generated 15 per cent of our total exports in that year.  That figure and that percentage may, of course, vary one way or another but it is an immensely significant figure and additional support for the view that we are talking about <Col N="45" /> something very important is to be found in the publication the McKinsey study commissioned by the Bank of Ireland which appeared in June of this year from which to me an immensely interesting fact emerged. There are many interesting things in it, but what interested me most was that, taking the six top industrial companies in this country, if you take the six top dairy co-ops, the 12 come together in a pattern and there is no other industrial company which could replace one of the six dairy company co-ops in terms of turnover.</P>
+    <P>I do not think it is necessary for the Minister &mdash; and certainly not for the Minister's Department &mdash; to be formally told this but I should perhaps declare an interest.  At various times in the past on specific things I have advised Bord Bainne.  I do not think that is relevant to this debate but it should be recorded that I have done so.  The skill of the board to which the Minister has referred is made very clear when you realise that the vast proportion of the exports affected have been affected under the aegis of the board whose marketing skills have been immensely useful in this important area.  The board, as the Minister has indicated, is a voluntary body.  An Bord Bainne, and from the beginning it has had the difficulty of small specific assets as they were originally called. I think the figure in 1973 was £2½ million, which led on to a guarantee of £20 million which was later increased to £40 million.  Now we are talking about quantification.  We are talking about a financing requirement which runs at certain periods of the year for a board with assets which I see the McKinsey Report puts at £6 million only which indicates the small extent to which these assets have increased since 1973, a borrowing requirement of £110 million if not more.</P>
+    <P>The guarantee is left at £40 million and different views can be formed on that.  I do not have a particular view as to whether that figure should be enlarged.  I see again in the McKinsey Report there is talk about a possible financing requirement of £380 million by 1981.  This makes the whole business of the financing of Bord <Col N="46" /> Bainne, which is what we are talking about, of very great significance not merely to the board but to the farmers, manufacturers, employees and future employees.  Therefore anything which can be done to facilitate that financing and help it and make it successful in its enterprise is worth doing.  The Minister made the point in the other House that, through the marketing skills employed by this voluntary body, we have contributed nothing to the butter mountain and only minimal quantities to the skim milk powder situation.</P>
+    <P>A point which may not have been brought out is that, in doing that, considerable cost has been saved the Exchequer, apart from the substantial strength that is given to the Minister's political or shall I call it national arm in arguing for the maintenance of the Common Agricultural Policy in so far as the expansion of our dairy industry has not been costly in terms of throwing up intervention costs and throwing up marketing problems within the Community.  I think what I am now saying is in considerable sympathy with what the Minister has already said to the other House and indeed here today.</P>
+    <P>This Bill cannot be read without reference to the Principal Act, the Dairy Produce (Miscellaneous Provisions) Act, 1973.  Here I have to be boringly exact in a manner which may be distressing to those who like to hear oceans of vast generalities being debated by the Seanad from time to time.  Perhaps if we deal with care and attention with legislation which comes to us we may be making a more direct contribution to the welfare of our people than we make by debating large issues which are not capable of immediate types of solutions.  However, that is a side which can be dealt with at another time by anyone who may have listened to it.</P>
+    <P>In section 6 there are a number of deficiencies.  The first and important point to make with regard to this amending Bill is the period which, in a slightly curious manner incidentally from a drafting point of view, it is intended to change.  The period for the life of the guarantee which the <Col N="47" /> Minister is capable of giving is extended from 1977 to 1979.  In fact, the Principal Act, which created the original guarantee and which was enacted, on 4th August, 1973, provided for a period of four years.  A period of four years from now will bring us not to 1979 but to 1981.  Coincidentally that happens to be the period of expiry of the five year marketing plan of the board.</P>
+    <P>Let us be clear about this.  When we are extending the Minister's power of guarantee, the Minister knows very well that this power of the Minister to guarantee is absolutely vital to the financing of the business of Bord Bainne.  It is absolutely vital to the successful marketing of dairy produce. That guarantee, that power taken in that Principal Act, has helped the board to achieve the purposes for which it was established.  It is only a voluntary body.  May I make the point which is of considerable importance that the fact that it is a voluntary body has made more important the ministerial guarantee?  It is not taken automatically and has not been taken automatically to be a semi-State body.  It is not a semi-State body.  Therefore, it has not the ranking as such.  It has to deal with banks, many of them not domestic banks.  They can run up to 50 banks who simply see a co-operative society in Dublin but who are greatly encouraged, and understand the status of that co-operative society, when they see the ministerial guarantee of quality.</P>
+    <P>The Minister's proposal in this Bill will only deal with the financing of the board's operations for this coming year 1978 and the year 1979 because, as the year 1979 comes to an end, the board will have to start its financing for what will then be very much larger sums, very likely.  Financing for 1980 and 1981 will have to be dealt with at the end of 1979.  I argue very strongly indeed, because of the importance of the contribution of this voluntary body to the balance of payments, the importance of its function in saving the Exchequer, the costs of selling to intervention because it is so important to strengthen the Minister's political <Col N="48" /> arm in regard to the common agricultural policy, that the five year plan should be backed by ministerial power. This is all I am arguing for at the moment: ministerial power to give a guarantee expiring by December, 1981, rather than December, 1979.</P>
+    <P>The Minister will still be Minister and will be in charge of the matter of exercising this power.  He does not have to exercise it if he does not want to. The existence of the power is of considerable importance from the point of view of the injection of confidence into the members of the voluntary society and into its financiers.  That confidence being enchanced will increase the ability of the board to get that build-up of reserves which is so important.</P>
+    <P>My own judgment is that it is almost inconceivable that the kind of build-up which will be required will take place without major changes of a financial character.  However, for the moment that is my first argument.  I hope the Minister and Senators listening to me on the other side will realise that I am not, and could not conceivably be thought to be, making a party political point.  I am sure this Bill is in the form it was in when the Minister's predecessor left office.  If Deputy Clinton introduced it, I would be making this point.  That provision should be extended.</P>
+    <P>The Minister has helped me by the language of his speech to make my second point with regard to this section. The Minister referred several times to borrowings.  He said: &ldquo;This gap between expenditure and income has to be bridged by short-term borrowings each year....  As the assets of the then board were far from being sufficient to enable it arrange borrowings on the scale needed... to enable the Minister ... to guarantee borrowings.&rdquo;  But the point is the Act does not refer to borrowings and if it did many problems would be solved for the board.  The Minister is not empowered to guarantee borrowings. I refer the House to the section which is proposed to be amended by this Bill, section 6.  Subsection (2) starts: &ldquo;Whenever the Minister guarantees a loan under this section....&rdquo;  Subsection <Col N="49" /> (5) reads: &ldquo;Moneys obtained by the Society on foot of a loan guaranteed under this section shall be used solely by the Society for the acquisition in the course of its ordinary business of dairy produce.&rdquo;  It is extremely doubtful whether the Minister has power to guarantee under the existing section liabilities of the board-borrowings if you like which fall outside a strict definition of borrowings. I hoped this would be dealt with in the Bill when I heard it was coming forward and that it would contain a substitution of the word &ldquo;borrowing&rdquo; or &ldquo;indebtedness&rdquo; or &ldquo;liabilities&rdquo; for the word &ldquo;loan&rdquo;.  There are a number of different words which can be used for the word &ldquo;loan&rdquo;.</P>
+    <P>This kind of point, obviously, will have to be developed in detail on Committee Stage.  In general I will indicate the kind of thing it is thought doubtful would be covered by a &ldquo;loan&rdquo;.  It is doubtful that an overdraft facility is a loan in so far as it contains future loans which may not necessarily be within the power of the Minister's guarantee.  The finance which the board receives covers acceptance credit facilities.  Acceptance credit facilities do not necessarily fall within the ambit of the word &ldquo;loan&rdquo;. They include counter-guarantees of Irish banks who have to guarantee the board in respect of borrowings made from banks which are not domestic, where bills are discounted, for example in London. They do not necessarily include facilities provided to cover performance guarantees given to the EEC. They do not necessarily include the binding nature of the obligation to stand over a bid to supply dairy produce in a foreign country which has to be backed by a bank guarantee, which bank facility, or bank guarantee, may require the benefit of a ministerial guarantee. They do not necessarily include facilities for buying forward or selling foreign exchange.</P>
+    <P>Therefore, my first point would be that the period should be not 31st December, 1979, but 31st December, 1981.  My second point would be that the word &ldquo;loan&rdquo; should be deleted from the section and an appropriate <Col N="50" /> word substituted which would get over difficulties the Minister's advisers know perfectly well exist.  These are not difficulties created by Bord Bainne.  These are not difficulties created by the marketing body we are talking about.  These are not difficulties created by anybody other than highly cautious, sensitive financiers who, in bad times at least, are sensible enough to require full precautions and to be quite sure that the Minister's power to guarantee covers all their situations.  The Minister putting into a guarantee document a definition of a loan which would go beyond what a court might construe that word to mean will not necessarily help in a legal sense anybody who takes that guarantee from the Minister who has only got such power as the word &ldquo;loan&rdquo; is held to give him by the empowering statute.</P>
+    <P>My third point is that subsection (5) is extremely embarrassing because it is just simply not extensive enough. In fact, the subsection does not cover even a significant part of the field of the financing we are talking about, where the guarantee is of such importance because of the small reresources of the voluntary society itself.  The moneys which can be guaranteed are: &ldquo;Moneys obtained ... on foot of a loan guaranteed under this section shall be used solely by the Society for the acquisition ...&rdquo; of dairy produce.  The moneys provided by banks are used for all sorts of other purposes than the acquisition of dairy product.  They are used for the storage of dairy produce.  They are used for investment in the creation of other outlets in other countries, for the marketing of dairy produce. Money is used for expert finance of one kind or another.</P>
+    <P>A question would arise with regard to somebody receiving the benefit of the guarantee.  Maybe at the end of the day the judge would say: &ldquo;This guarantee was all right&rdquo;, but there may be people on the borderline in these matters who are not prepared to take the risk of the judge not so finding.  It may be that somebody would say: &ldquo;We may be put on proof that we should have monitored the moneys we provided to see that they were <Col N="51" /> used solely for the acquisition of dairy produce.  We might be required to secure the benefit of this ministerial guarantee to see that a separate account was created through which moneys provided by the bank, with the benefit of this guarantee, went into that account and could be traced as having been expended only for this purpose.&rdquo;</P>
+    <P>Think of the sums we are talking about, £110 million, 50 banks.  Everybody is extremely cheerful about money nowadays.  I remember days when this was not so and I could foresee days when it might not be so. We must have legislation which will deal with both kinds of days.  I asked the question as to what is the cost of putting this right.  Is it that somebody somewhere or other along the line will have to admit he was wrong at the beginning.  I am not concerned to discover who he may be.  All I want to say is that this word &ldquo;loan&rdquo; does not appear in the Industrial Credit Company's guarantee.  This word &ldquo;loan&rdquo; does not appear in the Industrial Development Authority guarantee. This restriction for any purpose other than the purpose of the corporations in question, does not appear in either of the other Acts.</P>
+    <P>I want to come back to the point that the very bodies where these restrictions do not appear are less in need of ministerial guarantees than the body which appears to anyone outside of this community to be only a voluntary body.  We all know what confidence it enjoys in the community but if you were in Chicago you might not know the same.  This is where the policy of ministerial guarantee becomes of importance.</P>
+    <P>I think &mdash; though I do not believe that in the past there has been any need for a guarantee to take in the foreign exchange obligation &mdash; there ought to be an up-to-date revised form of guarantee on this.  My own judgment is that the guarantee figure is not big enough, but I would not press any argument on that if anybody disagreed with me.  Quite a number of things with regard to this would require a <Col N="52" /> development which could only be made when you are dealing with a specific&mdash; I do not think we could call it an amendment, as it is a Certified Money Bill&mdash;recommendation which is all that this House could make, subject to correction from the Chair, on the matter.  I attach sufficient importance to these points to wish to table amendments or recommendations on Committee Stage for consideration by the Seanad.</P>
+    <Speaker pid="PierceButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>I, too, would like to wish the Minister well and I hope that what we will have to say will be well received by him even if it is not the policy of his party.  There are many things that we cannot agree with, as I am sure there are many things that his party will not agree with as far as our party is concerned.</P>
+    </Speaker>
+    <P>Having said that, I sincerely wish the Minister well in the years that are ahead of him.  We are here only to help to ensure that with our help things that might go wrong will be righted.  I am very happy to be able to contribute in some small way to this Bill because I am personally involved in the dairy industry and I know the value of the dairy industry is to this nation.  Bord Bainne, it has been said, is the exporting arm of the industry. If there is a request from the board either to increase the borrowing power of the board or to extend the term, then we should listen to that request.  I believe, having spoken to some members of the board, there is a request to extend the term from 1979 to 1981, a term of five years.  The board should not be asked to come cap in hand to the Government asking for this extension. We know what Bord Bainne has been doing over the past years, especially since 1973 when it became a co-operative.  It is selling almost all our dairy products on the open market. For a short period of time skim milk powder has gone into intervention. That is because of the milk production system.  As the Minister stated, 80 per cent or more of the milk is produced from April to September.  Because of that there is so much skim powder on the market that some of it has to go into intervention.  We cannot fault Bord Bainne for that.  We must give <Col N="53" /> credit to the board for the work they have been doing.</P>
+    <P>Having listened to Senator FitzGerald making a case for the extension and having spoken to some of the members of the board, I think this request is not unreasonable.  The Minister should take the request to heart and extend the period from 1979 to 1981.  The board is being financed by a creamery levy &mdash; 3 per cent goes to administration and 0.3 per cent goes to the export of our dairy products.</P>
+    <P>One might ask: why should not the industry itself finance the borrowings? The current borrowings of An Bord Bainne are £100 million plus £25 million supplied by the creameries.  The creameries loan £25 million to Bord Bainne at present.  When the creameries have that confidence in the board and the farmers have confidence in the board &mdash; the presidents of the IFA and the ICMSA are members of the board &mdash; then the Government should have confidence in the board and should allow this extension.  The creamery industry is a peculiar one in this country because we have a peak and a valley situation.  If we could flatten the peak somewhat and have less of a valley, then much could be done for the industry.  Then there would be no such thing as coming cap in hand to the Government looking for an extension.</P>
+    <P>The dairy industry, as has been said by many and by the previous Minister, Deputy Clinton, should finance this Bill.  The industry cannot do it; it must be done by borrowing.  Furthermore, this cheap butter scheme has an effect on the sales of butter by An Bord Bainne.  Bord Bainne will not be selling butter on the home market. Whether the price is 29p per pound, it will only mean a transfer from intervention into the deep freezers of the houses of Ireland, to benefit only those people who can afford to buy the butter.</P>
+    <P>Even though there will be some type of rationing by the shops, it is a type of rationing which can be overcome by the people who want to buy large amounts of butter.  I could see a situation where butter will be bought in 100 lbs lots, which would put about <Col N="54" /> £25 into the pockets of the purchasers. Something else should be done in this regard.  The butter should be for distribution to those people who cannot afford it and there are many people in Ireland who could do with an extra pound of butter a week.  We are talking about 230,000 lbs. of butter which really means only 1.3 lbs of butter per person.  I would ask the Minister to look further into this so that butter would be distributed to those people who could not afford it or who could probably afford it but would not be able to get it.</P>
+    <P>I do not know how it can be worked, probably by the production of the old age pension book or social welfare statements.  Something must be done before the scheme is introduced. It is being introduced at a wrong time. The first week in December is not the time to introduce butter taken out of the market.  Butter bought at that time of the year will be still in the market but butter bought before that could be put into Christmas cakes.  This is the idea of the scheme itself, to reduce the market.  The only way to reduce the market is to put the butter into something else that it has not been put into before.  I would suggest to him to have further consultation to get that butter out on the market as soon as he possibly can.  On Committee Stage when Senator Alexis FitzGerald will be proposing recommendations I will have something further to say.</P>
+    <Speaker pid="MichaelMoynihanKerry" hpid="Mr. Moynihan Mr. Moynihan">
+      <NameTxt>Mr. Moynihan</NameTxt>
+      <P>I would like to join in the welcome already extended by other Senators to the Minister, Deputy Gibbons, on his first attendance here in his responsible capacity as Minister for Agriculture.  I am quite sure that in that capacity we will have him here on very many occasions.  I would like also to assure him of our approval of this legislation.</P>
+    </Speaker>
+    <P>One thing amazes me and that is the smallness of the figure of guarantee required &mdash; £40 million &mdash; which is now being extended from only £20 million, having regard to the tremendous development, growth and image of An Bord Bainne.  Its successes over recent years in a highly competitive market, <Col N="55" /> the European market, have brought tremendous benefits not only to the dairy industry but to our whole economy.  The Government must have confidence in the company and assure us that there will be no limitation on borrowing accepted by the Minister or by the Government.  In my own county, which is not the richest county in the dairying industry, the turnover this year alone will exceed the £40 million set out by the Minister in his Bill.  This, in one county, is an indicaton of the tremendous worth and importance of An Bord Bainne to the whole economy.</P>
+    <P>Senator FitzGerald has made some valuable points in relation to the technicalities within the Act itself.  He indicated that the existing legislation would allow moneys to be used only in the purchasing of the dairy product. All of us in rural Ireland today are aware of the massive changes in marketing, transport, buildings and in facilities that are going ahead in the dairy industry.  Any restrictions that would inhibit the use of public moneys, should they so desire it in any of these fields, would be an inhibition to the development of the whole economy. The Government's and the people's first priority today is the provision of additional employment opportunities. The dairying industry, through the efforts of Bord Bainne, with its 10 per cent average growth in milk production, offers one of the greatest opportunities for the achievement of a reduction in unemployment.  I can assure the Minister that we approve of the expansion and continuation of the credit facilities for Bord Bainne.</P>
+    <Speaker pid="ThomasWhitaker" hpid="Dr. Whitaker Dr. Whitaker">
+      <NameTxt>Dr. Whitaker</NameTxt>
+      <P>It would be helpful to the Seanad if the Minister could give us some clearer idea of the <i>rationale</i> behind the financing of Bord Bainne.  It has been remarked that the guarantee covers only a small fraction of the peak borrowing requirements of Bord Bainne.  That in itself is not a great deficiency.  I feel that for Bord Bainne, this guarantee of part of the borrowing requirement takes the place of what would be the equity and reserves of any major private trading concern.  It thus provides the basis on <Col N="56" /> which it can go outside to banks or to credit suppliers of one kind or another for its peak money requirement.  It is the basic financial provision ready to hand and also sharing with equity some preferential character as regards interest.</P>
+      <P>What I am not clear about is why some Senators should think the guarantee ought to be more extensive if it serves its purpose quite well of assuring adequate total finance for the board.  It may well be that this total financial requirement will increase over the coming years and require some increase proportionately in the base of guarantee or reserve.  Which leads me to the final question, whether in regard to the building up of reserves to replace the guarantee there is any scheduled time plan or any fixed objective.  How far is this intended to go?  One Senator seemed to think that it was to reach the almost impossible requirement of covering the whole £100 million-odd, but I should imagine this is not in question at all, that it could only relate to substituting in part for the base of ready-to-hand resources which now the guarantee provides and which it is intended in the future that the reserves of the institution itself should provide.</P>
+    </Speaker>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>I can be very brief. Whether I am or not depends on what the Minister proposes to do, and I wonder if I am in order.  I would not propose to speak at all on this Stage of the Bill if we are going to get another opportunity next week, or if we are going to have a Committee Stage next week.  If the Minister wanted all Stages now, then I would wish to say something.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Are you speaking on this or can I let the Minister in now?</P>
+    </Speaker>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>If I knew that I would have another opportunity I would not speak now, but if this was to be my last one, I would want to say something.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoynihanKerry" hpid="Mr. Moynihan Mr. Moynihan">
+      <NameTxt>Mr. Moynihan</NameTxt>
+      <P>I think Senator FitzGerald has indicated that he will be putting down recommendations for <Col N="57" /> Committee Stage which would indicate to me that there will be&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>It was hoped that we would take all Stages this evening. Anything I say is subject to the ruling of the Chair, but it seems to me that some of the points made by Senator FitzGerald in regard to recommendations would be ruled out of order.  The only recommendation that could be made on this Bill is in regard to the actual dates involved.</P>
+    </Speaker>
+    <Speaker pid="AlexisFitzgerald" hpid="Mr. Alexis FitzGerald Mr. Alexis FitzGerald">
+      <NameTxt>Mr. Alexis FitzGerald</NameTxt>
+      <P>I would be satisfied to see the others ruled out of order if the extension of the date was ruled in order.  The other points are worthy of more consideration than so far any succeeding Senator has given them.</P>
+    </Speaker>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>I had indicated that I would want to say something unless I was satisfied that we would be dealing with this on another occasion and I am not so satisfied.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Does the Deputy wish to speak now?</P>
+    </Speaker>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>In the absence of an assurance of the availability of another occasion I would like to.</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>On Committee Stage, whether it is taken this evening or next Wednesday, the Senator could speak on it.</P>
+    </Speaker>
+    <Speaker pid="JustinKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>I am not procedurally clear enough in my new surroundings to know whether the matters raised by Senator FitzGerald would be ruled out of order or not.  If they were so ruled out of order, then on Committee Stage I would not have the chance to refer to them.</P>
+    </Speaker>
+    <Speaker pid="AlexisFitzgerald" hpid="Mr. Alexis FitzGerald Mr. Alexis FitzGerald">
+      <NameTxt>Mr. Alexis FitzGerald</NameTxt>
+      <P>I think the Leader of the House would not deny me sufficient time to prepare recommendations for Committee Stage so that the Cathaoirleach can consider whether he agrees with the views or whether they should be ruled out of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMGibbons" hpid="Minister for Agriculture (Mr. Gibbons) James Gibbons">
+      <NameTxt>Minister for Agriculture (Mr. Gibbons)</NameTxt>
+      <P>What we are discussing now is a Bill that was prepared by the <Col N="58" /> former Government and the provisions in the Bill are the provisions made by the former Government and agreed by the former Minister for Finance.  The defects which Senator FitzGerald deemed to be in this Bill, unless I misunderstood him, are, in his opinion, defects in the original Act of 1973.  I would think that the matter before the Seanad now is the Bill that has been prepared by the former Government and that I am now introducing. Bord Bainne have been very competent, as Senators have readily acknowledged, in performing their functions as a marketing agency for Irish dairy products.  There is no intention on the part of the Government to create a situation, by legislation, which would in any way impede or interfere with the continued praiseworthy endeavours of An Bord Bainne.  I do not think that the requests that have come from some Senators that the Bill be changed have a very sound ring in view of the fact that they themselves and the Government they supported were the people who actually drafted the Bill now before the House.  This is not to say that if the Bill was in any way inherently defective that it would not need to be revised.  I do not see that this is necessary.  If it were necessary the Government would immediately and continuously keep the requirements of Bord Bainne and the requirements of the dairy industry under review.</P>
+      <P>I do not know whether it is really necessary or relevant to refer to the observations of a highly technical kind that were made by Senator FitzGerald about the possible defects in the 1973 Act.  My own feeling is that we are not discussing the 1973 Act, but what is fact is that Bord Bainne have been availing of the 1973 Act up to this date, and I do not know of any reason in the future why they should not continue to do so.  If some untold discovery should be made, then it will have to be put right.  I am not aware that there is anything that needs to be looked at in that regard.</P>
+    </Speaker>
+    <P>I do not know whether I am in order in referring to what Senator Butler spoke about in the matter of the EEC and the possible effects of the operations of Bord Bainne in the domestic <Col N="59" /> market.  It is the implementation of Community policy.  We did not approve of it ourselves but it is inescapable. That is beyond our control and again it is not before the House at this time.</P>
+    <Speaker pid="PierceButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>May I ask the Minister about the timing of the introduction of the scheme?  Is that EEC policy?</P>
+    </Speaker>
+    <Speaker pid="JamesMGibbons" hpid="Mr. Gibbons Mr. Gibbons">
+      <NameTxt>Mr. Gibbons</NameTxt>
+      <P>I would like to help the Senator but since the matter is of a different kind unrelated to the Bill before the House, I am not equipped at the moment to inform the Senator.  I would like to inform the Senator as soon as I make the necessary inquiries.</P>
+      <P>The essential matter before the House now is the extension of the period of guarantee by a further two years.  There is no implication in this Bill that this will be the final guarantee, and I would not like anybody to think that there was.  Neither is there any implication in the Bill that the Government will not keep the situation under constant surveillance and if untold circumstances arise the Government will take the appropriate action.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Next Stage?</P>
+    </Speaker>
+    <Speaker pid="EoinRyan2" hpid="Mr. E. Ryan Mr. E. Ryan">
+      <NameTxt>Mr. E. Ryan</NameTxt>
+      <P>Could I ask for it now?</P>
+    </Speaker>
+    <Speaker pid="AlexisFitzgerald" hpid="Mr. Alexis FitzGerald Mr. Alexis FitzGerald">
+      <NameTxt>Mr. Alexis FitzGerald</NameTxt>
+      <P>I could not agree to that.  I did not get any satisfaction <Col N="60" /> from anything the Minister said.  He may have procedural reasons for not dealing with my points.  I have no intention whatever of being deprived of the right of having a Committee Stage.  Having had the opportunity of drafting such recommendations as I chose, it would be then for the Cathaoirleach to decide as to their orderliness.  I think the Leader of the House knows I am not unreasonable, but there is no attempt whatever to justify a two-year extension in what clearly ought to be a four-year extension. That is a recommendation which I will wish to press on this House and give Senators an opportunity of considering.</P>
+      <P>The Minister made some such point as, for example, that the very speakers had themselves participated in the drafting of this Bill.  Former Fianna Fáil Senators in this House know that I put down amendments to Bills introduced by my Ministers.  I was not satisfied with everything that came from them, and I am not going to be stopped by documents I never saw that were prepared by any friends of mine or criticised for having done so.  I do not want any more notice than next Wednesday, if the Minister wants to take it on that day.</P>
+      <P>Committee Stage ordered for Wednesday, 2nd November, 1977.</P>
+      <P>The Seanad adjourned at 5.30 p.m. until 2.30 p.m. on Wednesday, 2nd November, 1977.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

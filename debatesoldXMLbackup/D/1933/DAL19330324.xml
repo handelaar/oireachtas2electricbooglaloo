@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="24" Month="Mar" Year="1933" Vol="46" No="11" DateIrish="Dé hAoine, 24 Márta 1933" DateEnglish="Friday, 24 March 1933" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1389">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1389" /> Do chuaidh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Minor Relief Schemes&mdash;Agricultural" RHead="and Other Wages">
+    <Title>Minor Relief Schemes&mdash;Agricultural and Other Wages.</Title>
+    <P>
+      <Col N="1390" /> Following is the statement referred to by the Parliamentary Secretary to the Minister for Finance (Mr. Flinn) in answer to a question on Wednesday, March 22nd, as to wages rates on minor relief schemes.</P>
+    <P Just="Center">COMPARISON OF WEEKLY RATES OF WAGES PAID TO LABOURERS.</P>
+    <P Just="Center">DURING THREE YEARS, 1930-31 TO 1932-33.</P>
+    <table pgwide="1">
+      <tgroup cols="13">
+        <colspec colname="1" colnum="1" colwidth="11*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="6*" align="center">
+        </colspec>
+        <colspec colname="3" colnum="3" colwidth="6*" align="center">
+        </colspec>
+        <colspec colname="4" colnum="4" colwidth="6*" align="center">
+        </colspec>
+        <colspec colname="5" colnum="5" colwidth="6*" align="center">
+        </colspec>
+        <colspec colname="6" colnum="6" colwidth="6*" align="center">
+        </colspec>
+        <colspec colname="7" colnum="7" colwidth="6*" align="center">
+        </colspec>
+        <colspec colname="8" colnum="8" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="9" colnum="9" colwidth="7*" align="center">
+        </colspec>
+        <colspec colname="10" colnum="10" colwidth="11*" align="center">
+        </colspec>
+        <colspec colname="11" colnum="11" colwidth="7*" align="center">
+        </colspec>
+        <colspec colname="12" colnum="12" colwidth="11*" align="center">
+        </colspec>
+        <colspec colname="13" colnum="13" colwidth="7*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+            </entry>
+            <entry rowsep="1" namest="2" nameend="3">1930-31</entry>
+            <entry rowsep="1" namest="4" nameend="5">1931-32</entry>
+            <entry rowsep="1" namest="6" nameend="9">1932-33</entry>
+            <entry rowsep="1" namest="10" nameend="12">1932-33</entry>
+            <entry rowsep="1">1933-33</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>COUNTY</entry>
+            <entry>Land Com. Estate Fund</entry>
+            <entry>Land Com. Relief Works</entry>
+            <entry>Land Com. Estate Fund</entry>
+            <entry>Land Com. Relief Works</entry>
+            <entry>Land Com. Estate Fund</entry>
+            <entry>Land Com. Relief Works</entry>
+            <entry>Estimated Winter Agricultural Rate</entry>
+            <entry>Minor Relief Schemes</entry>
+            <entry>Co. Council Road Maintenance</entry>
+            <entry>Co. Council Road Fund Grants</entry>
+            <entry>Co. Council Relief Unemployment Allocation</entry>
+            <entry>Office Public Works Arterial Drainage</entry>
+          </row>
+          <row>
+            <entry>Carlow</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>20/-,<br />24/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Cavan</entry>
+            <entry>27/-</entry>
+            <entry>21/-</entry>
+            <entry>27/-</entry>
+            <entry>21/-</entry>
+            <entry>27/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>26/-,<br />28/-</entry>
+            <entry>28/-</entry>
+            <entry>26/-,<br />28/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Clare</entry>
+            <entry>27/-<br />30/-*</entry>
+            <entry>24/-</entry>
+            <entry>27/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-<br />27/-</entry>
+            <entry>24/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>35/-</entry>
+            <entry>35/-</entry>
+            <entry>35/-</entry>
+            <entry>27/-</entry>
+          </row>
+          <row>
+            <entry>Cork</entry>
+            <entry>30/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>35/-</entry>
+            <entry>29/-</entry>
+            <entry>29/-</entry>
+            <entry>28/-</entry>
+          </row>
+          <row>
+            <entry>Donegal</entry>
+            <entry>24/-,<br />30/-</entry>
+            <entry>22/-</entry>
+            <entry>24/-,<br />25/-</entry>
+            <entry>22/-</entry>
+            <entry>24/-,<br />26/-</entry>
+            <entry>22/-</entry>
+            <entry>21/-</entry>
+            <entry>22/-</entry>
+            <entry>26/-</entry>
+            <entry>26/-</entry>
+            <entry>26/-</entry>
+            <entry>25/-</entry>
+          </row>
+          <row>
+            <entry>Dublin</entry>
+            <entry>24/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>&mdash;</entry>
+            <entry>&mdash;</entry>
+            <entry>43/-</entry>
+            <entry>31/-</entry>
+            <entry>&mdash;</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Galway</entry>
+            <entry>21/-,<br />23/-,<br />24/-</entry>
+            <entry>21/-,<br />22/6</entry>
+            <entry>21/-,<br />24/-</entry>
+            <entry>21/-,<br />24/-</entry>
+            <entry>21/-,<br />24/-</entry>
+            <entry>22/6,<br />24/-</entry>
+            <entry>18/-,<br />24/-</entry>
+            <entry>24/-</entry>
+            <entry>27/-</entry>
+            <entry>27/-</entry>
+            <entry>27/-</entry>
+            <entry>26/-</entry>
+          </row>
+          <row>
+            <entry>Kerry</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>20/-,<br />25/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>26/-</entry>
+          </row>
+          <row>
+            <entry>Kildare</entry>
+            <entry>27/-,<br />28/-</entry>
+            <entry>27/-</entry>
+            <entry>27/-</entry>
+            <entry>24/-,<br />27/-</entry>
+            <entry>24/-,<br />27/-</entry>
+            <entry>27/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>29/8&Dagger;</entry>
+          </row>
+          <row>
+            <entry>Kilkenny</entry>
+            <entry>24/-,<br />27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>30/-*</entry>
+            <entry>&mdash;</entry>
+            <entry>20/-</entry>
+            <entry>22/-,&dagger;<br />24/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Laoighis</entry>
+            <entry>24/-,<br />29/-</entry>
+            <entry>24/-</entry>
+            <entry>26/-</entry>
+            <entry>24/-</entry>
+            <entry>26/-</entry>
+            <entry>&mdash;</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-</entry>
+            <entry>29/-</entry>
+            <entry>29/-</entry>
+            <entry>28/-<br />29/8f&Dagger;</entry>
+          </row>
+          <row>
+            <entry>Leitrim</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>27/-</entry>
+            <entry>26/-</entry>
+            <entry>26/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Limerick</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-*</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>29/-</entry>
+          </row>
+          <row>
+            <entry>Longford</entry>
+            <entry>24/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>20/-</entry>
+            <entry>18/-,<br />20/-</entry>
+            <entry>21/-&dagger;</entry>
+            <entry>26/-</entry>
+            <entry>26/-</entry>
+            <entry>26/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Louth</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>24/-<br />27/-<br />**</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>20/-</entry>
+            <entry>21/-&dagger;</entry>
+            <entry>28/-</entry>
+            <entry>28/-</entry>
+            <entry>28/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Mayo</entry>
+            <entry>18/-,<br />21/-</entry>
+            <entry>18/-</entry>
+            <entry>18/-,<br />21/-</entry>
+            <entry>18/-,<br />20/-</entry>
+            <entry>18/-,<br />21/-</entry>
+            <entry>18/-</entry>
+            <entry>20/-,<br />24/-</entry>
+            <entry>21/-</entry>
+            <entry>30/-,<br />35/-</entry>
+            <entry>30/-,<br />35/-</entry>
+            <entry>25/-,<br />30/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Meath</entry>
+            <entry>27/-</entry>
+            <entry>27/-</entry>
+            <entry>27/-</entry>
+            <entry>27/-<br />**</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>21/-</entry>
+            <entry>24/-</entry>
+            <entry>35/-</entry>
+            <entry>35/-</entry>
+            <entry>35/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Monaghan</entry>
+            <entry>27/-</entry>
+            <entry>21/-</entry>
+            <entry>&mdash;</entry>
+            <entry>21/-,<br />24/-</entry>
+            <entry>&mdash;</entry>
+            <entry>24/-,<br />27/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>28/-</entry>
+            <entry>28/-</entry>
+            <entry>25/4</entry>
+            <entry>27/-</entry>
+          </row>
+          <row>
+            <entry>Offaly</entry>
+            <entry>24/-,<br />29/-</entry>
+            <entry>24/-</entry>
+            <entry>27/-</entry>
+            <entry>24/-</entry>
+            <entry>27/-</entry>
+            <entry>24/-,<br />25/-</entry>
+            <entry>22/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>&mdash;</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Roscommon</entry>
+            <entry>21/-,<br />24/-</entry>
+            <entry>21/-</entry>
+            <entry>24/-</entry>
+            <entry>21/-</entry>
+            <entry>24/-</entry>
+            <entry>21/-</entry>
+            <entry>23/-</entry>
+            <entry>24/-</entry>
+            <entry>31/-</entry>
+            <entry>28/-</entry>
+            <entry>28/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Sligo</entry>
+            <entry>21/-,<br />24/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>21/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-</entry>
+            <entry>28/-</entry>
+            <entry>28/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Tipperary</entry>
+            <entry>24/-,<br />27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>26/-</entry>
+            <entry>&mdash;</entry>
+            <entry>26/-</entry>
+            <entry>&mdash;</entry>
+            <entry>21/-,<br />24/-</entry>
+            <entry>24/-,<br />30/-</entry>
+            <entry>30/-,<br />35/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>28/-</entry>
+          </row>
+          <row>
+            <entry>Waterford</entry>
+            <entry>30/-*</entry>
+            <entry>&mdash;</entry>
+            <entry>&mdash;</entry>
+            <entry>&mdash;</entry>
+            <entry>30/-*</entry>
+            <entry>&mdash;</entry>
+            <entry>20/-,<br />24/-</entry>
+            <entry>24/-</entry>
+            <entry>35/-</entry>
+            <entry>28/-</entry>
+            <entry>28/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Westmeath</entry>
+            <entry>24/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>20/-</entry>
+            <entry>20/-</entry>
+            <entry>24/-</entry>
+            <entry>32/-</entry>
+            <entry>32/-</entry>
+            <entry>32/-</entry>
+            <entry>&mdash;</entry>
+          </row>
+          <row>
+            <entry>Wexford</entry>
+            <entry>24/-,<br />27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>24/-</entry>
+            <entry>&mdash;</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>21/-</entry>
+            <entry>27/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>30/-</entry>
+            <entry>27/-</entry>
+          </row>
+          <row>
+            <entry>Wicklow</entry>
+            <entry>27/-</entry>
+            <entry>&mdash;</entry>
+            <entry>27/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-,<br />27/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>24/-</entry>
+            <entry>30/-,<br />37/6</entry>
+            <entry>30/-,<br />37/6</entry>
+            <entry>30/-,<br />37/6</entry>
+            <entry>&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="25*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="25*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">*Special Rate for Work on Embankments.</entry>
+            <entry rowsep="1">** Negligible sum expended.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>&dagger;Half Holiday on Saturdays.</entry>
+            <entry>&Dagger;Barrow Drainage.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Services (Temporary Economies)" RHead="Bill, 1933&mdash;First Stage">
+    <Title>Public Services (Temporary Economies) Bill, 1933&mdash;First Stage.</Title>
+    <P>
+      <Col N="1391" /> Leave granted to introduce a Bill entitled an Act to make or provide for the making of deductions from remuneration payable during the financial year beginning on the 1st day of April, 1933, and either payable out of public moneys (whether by statute or otherwise) or fixed by or under statute or payable by virtue of a statutory power to employ officers or servants or payable by bodies to whom grants are made out of public moneys and also to make or provide for the making of deductions from certain classes of grants payable during the said financial year out of public moneys, and to provide for other matters connected with the matters aforesaid (Minister for Finance).</P>
+    <P>Second Stage fixed for Wednesday, 29th March.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>When will the Bill be circulated?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Finance (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Finance (Mr. MacEntee)</NameTxt>
+      <P>On Monday evening.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That will not leave very much time for its consideration.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It is pressing.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Is it required to balance the Budget also?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Certainly.  The Deputy surely does not think it is vexatious.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>If we find that the time for consideration of the measure is too short, will the Minister entertain favourably an application to postpone the Second Reading?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Agreed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Dairy Produce (Price Stabilisation)" RHead="Bill, 1933&mdash;First Stage">
+    <Title>Dairy Produce (Price Stabilisation) Bill, 1933&mdash;First Stage.</Title>
+    <P>Leave granted to introduce a Bill entitled an Act to amend the Dairy Produce (Price Stabilisation) Act, 1932 (Minister for Agriculture).</P>
+    <P>Second Stage fixed for Wednesday, 29th March.</P>
+    <Col N="1392" />
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I take it the same thing applies to this measure?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Minister for Agriculture (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Agriculture (Dr. Ryan)</NameTxt>
+      <P>The Bill contains only one clause and it will be published to-morrow.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Road Traffic Bill," RHead="1933&mdash;Committee Stage (Resumed)">
+    <Title>Road Traffic Bill, 1933&mdash;Committee Stage (Resumed).</Title>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>I beg to move the following amendment (67):&mdash;</P>
+      <P>To insert at the end of the section a new sub-section as follows:&mdash;</P>
+      <P>Nothing in the foregoing sub-sections shall prevent the Minister from exercising his discretion in regard to applications that may be made to him by individuals or sporting associations to vary in any manner the period which is declared by this section to be an excessive period for the purposes of the section.</P>
+      <P>When we were discussing the section last evening the House was in favour of granting many of the proposed restrictions.  I do not know whether it occurred to Deputies that if these restrictions were granted and no power were given to the Minister to relax them on certain occasions, we would be prohibited from holding a number of interesting competitions here from time to time.  I dare say Deputies know that motor rallies are held in various places and motor races have been held here from time to time.  Some of these competitions entail continuous driving. Perhaps that is not the case, to a great extent in this country so far, but elsewhere there have been competitions entailing continuous driving&mdash;driving over a period, say, of 24 hours.  If the restrictions that were agreed to last night were to apply to motor races it would be impossible to hold these competitions here.  I do not think the interests of the country would be served by any such action, and I am sure it is not the wish of the House that these competitions should be prohibited.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>If the Deputy will withdraw his amendment, I will undertake to introduce a somewhat similar amendment on the Report Stage which will provide for the granting of exemptions <Col N="1393" /> from the provisions of this section for sporting events of the kind mentioned by the Deputy, subject to the approval in each case of an advisory committee which will be established.  I think that is a necessary precaution and it will achieve the purpose the Deputy has in mind.</P>
+      <P>Amendment 67, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>On the section, as I indicated already, I think that in its present form, it is not a good one and I suggest it would be very much improved by adopting different regulations for the different kinds of motor drivers.  I wonder if the Minister can give me any assurance that he is prepared to modify the section in this respect.  In its present form I propose to vote against the section as a whole.</P>
+    </Speaker>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>I should like to draw attention to the hardship that will arise if the section be adopted in its present form.  There are a number of chauffeurs employed by professional men and others and it is in regard to them I would like to draw attention. I do not know if it is the intention of the Minister that this section is to apply to these chauffeurs.  Their labours are not very heavy.  A good deal of their time is of necessity spent sitting in the car reading newspapers and other interesting documents.  I do not know whether it is the intention of the Minister that the limitation on the period of driving should apply to them.  The point was not discussed at any great length last night.  Is it the intention of the Minister that these regulations should apply to chauffeurs? Their services are not at all comparable to the services of bus drivers and drivers of heavy vehicles.  It would be easy for any Deputy to make a comparison between the services given during ten hours by a bus driver or lorry driver and an ordinary chauffeur.  The ordinary chauffeur would not perhaps be driving for one and a half hours out of these ten or eleven hours.  There is no comparison at all between the two types of drivers. I would like if the Minister would tell us whether it is his intention to include chauffeurs in this section.  If <Col N="1394" /> he does I am afraid it will have reactions.  It will undoubtedly throw numbers of these men out of employment. The professional man will find that if he wants to have the use of his car it will be necessary for him to employ more than one chauffeur.  The result will be that that will not be done and what will actually happen will be that the services of the one now employed will have to be dispensed with.  I would like if the Labour members would bear that aspect of the case in mind.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>This section as drafted includes chauffeurs.  I think that is correct.  It seems to me that the fatigue attaching to driving a private car is no less than the fatigue in driving a bus.  Driving includes managing and controlling.  If a chauffeur is in charge of a car in that sense that he is driving, managing and controlling the car for eleven out of the twenty four hours, then he is like a person in charge of any other type of vehicle for the same period and, if the period is too long, there is a danger to the public safety.  It seems to me in view of these considerations that this section should not be altered in that respect.</P>
+      <P>On the point made by Deputy Thrift I do not see that there is very much in it.  I think the Deputy, like some other Deputies last night, is mixing up two things in relation to the section.  This section prescribes the maximum number of hours in which any individual is to drive a car in any one day.  It does not say that this limitation should operate in the case of the omnibus or any other particular vehicle.  It merely sets out the maximum hours of driving which can be allowed having regard to safety of the public using the road.  If the Deputy votes against the section and succeeds in getting a majority of the Dáil to do the same, then there will be no control at all. The position will be the same as heretofore, that a person may employ a chauffeur to drive a car for twenty-four hours in the day without incurring any penalty.  I do not think that the Deputy will achieve his purpose by voting against this section.</P>
+    </Speaker>
+    <Col N="1395" />
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>I have hopes in that direction.  I am trying to look at this from the Minister's point of view.  I am trying to get a section which will secure the public safety on the roads but I think it is particularly absurd to say that the same regulations should apply for chauffeurs as for the drivers of omnibuses, to take two extreme cases.  The driver of an omnibus can do extensive damage, and he can be an immense danger to the public if he is suffering from fatigue, but there is nothing of that kind in the case of the ordinary chauffeur.  The ordinary chauffeurs are not an overworked body.  I think anybody will admit that.  Take for example a chauffeur driving a doctor's car.  He is driving for very short periods of the day, as a rule, but this section, if passed in its present form, would prevent the chauffeur being available to bring the doctor to a case after a certain period in the day.  A chauffeur who started at ten o'clock in the morning would not be available at all to take the doctor to a call at nine o'clock in the evening.  The doctor could not call on the chauffeur to drive the car after that hour.  I think I am right in saying that quite different regulations are required in the case of chauffeurs as compared with the omnibus drivers.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I would like to ask the Minister if he has not something to say on that point.  Even if the Minister insists on applying sub-section (1) (a) and (b) of the section to drivers of private cars as well as to drivers of omnibuses there is sub-section (1) (c) which he might consider.  Certainly there is no case for applying the section to the drivers of cars mentioned by Deputy Thrift, that is to say, drivers who have not regular hours of duty very often and who may be at any particular time in the position that the ten consecutive hours of rest may be broken in ordinary emergencies.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>What this section provides is the overriding maximum for all types of vehicles.  If there is a case for differentiation at all it is for a reduction of the hours in which the <Col N="1396" /> person should drive a particularly heavy type of vehicle.  If we have to take any precaution for safety on the roads there must be some overriding period beyond which no person can be employed to drive a car.  Driving for eleven hours is fatiguing.  After that period the driver becomes a menace not merely to himself but to other people using the highway.  I cannot see that there is anything unreasonable in the section as it stands, that there is anything unreasonable in requiring that a person engaged in continuous driving on the roadway should have these periods of rest&mdash;ten hours in every twenty-four hours.  &ldquo;Rest&rdquo; there means a period of ten hours during which he will not be in control of a car.  Although there may be very exceptional cases in which people may have to take charge of a car for a longer period than that, they would be very rare and we should definitely set out to stop them in the interest of the public safety.</P>
+    </Speaker>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>With all respect, I think the Minister is quite wrong in assuming that the duties of an ordinary chauffeur and the duties of the driver of a heavy bus are comparable.  Anybody who knows anything about the two vehicles knows that there is no comparison between them.  Go outside the Dáil and you will see three or four chauffeurs walking up and down the pathway.  Go down to the main roadway and you will find a bus driver in charge of a heavy bus containing 30 or 40 people.  If the Minister adheres to a proposal of this kind, we are going to reach absurdity in legislation.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is only an argument in favour of reduction of hours for omnibus drivers.</P>
+    </Speaker>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>I am with the Minister as regards omnibuses but I am not with the Minister as regards chauffeurs.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>You voted against it last night.</P>
+    </Speaker>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>The vote last night was on quite a different point.  The more one inquires into this matter the more absurd it becomes.  This Bill has been <Col N="1397" /> under the consideration of the House for some years and, as a result of that consideration, I should like to see an Act emerging in which we all could take a certain amount of pride.  If we are going to have absurdities of this character embodied in the Bill, the sooner they are dealt with the better.</P>
+    </Speaker>
+    <Speaker pid="AlexHaslett" hpid="Mr. Haslett Mr. Haslett">
+      <NameTxt>Mr. Haslett</NameTxt>
+      <P>Perhaps the Minister would define the position more clearly. It is the abnormal case we are talking about now.  Take the case of a man coming into business.  He parks his car until he is going home in the evening. That period might cover more than eleven hours.  Is his chauffeur regarded as on duty while the car is thus parked?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>If he is in charge of the car and responsible for its management <Col N="1398" /> and control, that period is regarded as a period of driving according to the definition in the definition section.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>Has the Minister in mind any case in which an accident arose because the chauffeur in charge of a car had been overworked or had been on duty for too long hours?  I never heard of such a case.</P>
+    </Speaker>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>Nor nobody else.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I have not examined the records.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Does the Minister know anybody who can afford to employ a chauffeur continuously for eleven hours?</P>
+      <P>Question put.</P>
+      <P Just="Center">The Committee divided: Tá, 59; Níl, 29.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Aiken, Frank.<br />Beegan, Patrick.<br />Boland, Gerald.<br />Bourke, Daniel.<br />Brady, Brian.<br />Breathnach, Cormac.<br />Briscoe, Robert.<br />Browne, William Frazer.<br />Concannon, Helena.<br />Daly, Denis.<br />Davin, William.<br />Derrig, Thomas.<br />De Valera, Eamon.<br />Doherty, Joseph.<br />Dowdall, Thomas P.<br />Flynn, John.<br />Flynn, Stephen.<br />Fogarty, Andrew.<br />Gibbons, Seán.<br />Goulding, John.<br />Hales, Thomas.<br />Harris, Thomas.<br />Hayes, Seán.<br />Hogan, Patrick (Clare).<br />Houlihan, Patrick.<br />Jordan, Stephen.<br />Keely, Séamus P.<br />Kehoe, Patrick.<br />Kelly, James Patrick.<br />Kelly, Thomas.</entry>
+            <entry rowsep="1">Kent, William Rice.<br />Keyes, Michael.<br />Killilea, Mark.<br />Kilroy, Michael.<br />Kissane, Eamonn.<br />Lemass, Seán F.<br />Little, Patrick John.<br />Lynch, James B.<br />MacDermot, Frank.<br />MacEntee, Seán.<br />Maguire, Ben.<br />Maguire, Conor Alexander.<br />Moane, Edward.<br />Norton, William.<br />O'Briain, Donnchadha.<br />O'Dowd, Patrick.<br />O'Grady, Seán.<br />O'Kelly, Seán Thomas.<br />O'Reilly, Matthew.<br />Pattison, James P.<br />Pearse, Margaret Mary.<br />Rice, Edward.<br />Ruttledge, Patrick Joseph.<br />Ryan, James.<br />Ryan, Robert.<br />Sheridan, Michael.<br />Smith, Patrick.<br />Traynor, Oscar.<br />Ward, Francis C. (Dr.).</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Belton, Patrick.<br />Bennett, George Cecil.<br />Brodrick, Seán.<br />Byrne, Alfred.<br />Cosgrave, William T.<br />Craig, Sir James.<br />Curran, Richard.<br />Dillon, James M.<br />Dockrell, Henry Morgan.<br />Doyle, Peadar S.
+<Col N="1399" />McGilligan, Patrick.<br />McGovern, Patrick.<br />McMenamin, Daniel.<br />Minch, Sydney B.<br />Mulcahy, Richard.</entry>
+            <entry rowsep="1">Esmonde, Osmond Grattan.<br />Finlay, John.<br />Fitzgerald, Desmond.<br />Fitzgerald-Kenney, James.<br />Good, John.<br />Haslett, Alexander.<br />Holohan, Richard.<br />Keating, John.<br />Lynch, Finian.<br />McFadden, Michael Og.
+<Col N="1400" />O'Sullivan, John Marcus.<br />Rice, Vincent.<br />Thrift, William Edward.<br />Wall, Nicholas.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash;Tá: Deputies Little and Traynor; Níl: Deputies Good and Thrift.</P>
+    <P Just="Center">Question declared carried.</P>
+    <P Just="Center">SECTION 168.</P>
+    <P>(1) Where injury to person or property is occasioned by the negligent driving of a mechanically propelled vehicle belonging to the State, the Minister for Finance shall be civilly liable for damages in respect of such injury.</P>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>On behalf of Deputy Costello I move amendment 68:&mdash;</P>
+      <P>In sub-section (1), line 43, after the word &ldquo;driving&rdquo; to insert the following words &ldquo;care, construction, control or management.&rdquo;</P>
+      <P>The section introduces in a positive way the liability of the Minister for Finance for the negligent driving of State-owned vehicles, but it appears to be somewhat restricted, and it is rather by reason of the fact that certain things, by omission, have made the restriction that these omissions have to be called attention to.  First (clause quoted): The amendment is to insert after the word &ldquo;driving&rdquo;&ldquo;care, construction, control or management.&rdquo; It is quite true that, as defined in Section 3, the word &ldquo;driving&rdquo; includes control or management, but the reason why the amendment has been put down in this form is to divide out the word &ldquo;driving&rdquo; even into these two terms and put by contrast against the two terms the two other terms which do not appear to be included.  I do not know whether it is wise or unwise to have this section introduced at all, but if it is there, why should the Minister for Finance assume liability for injury caused by reason of the negligent driving of State vehicles and not be subject to the same penalties and damages as might be given against an ordinary citizen for accidents occurring not through driving, but defects in the car?  That is the type of thing that is intended to be covered by care and construction.  It is a doubtful point, for instance, whether defective brakes would come even within the enlarged meaning given to driving by the definition of control or management, but I think it is pretty certain that there would not come within the definition such a thing as, say, a driver changing a wheel and not putting the nuts and bolts on properly with the result that the wheel flies off, the car overturns and causes injury to another person; or any other defect because of the fact that a person had not exercised care with regard to the construction of the car.</P>
+      <P>I say again that it is recognised that the word &ldquo;driving&rdquo; covers control or management, but the four words are put in here in order to make the contrast. Defective brakes may be a sort of line ball and might be brought under &ldquo;control or management,&rdquo; but I doubt very much if the matters I have spoken of, such as replacing an old wheel by a new one in a defective way which results in injury, are controlled. I see no logic in having the Minister for Finance simply liable for negligent driving and not having him liable, as any other citizen would be under this Bill, for, say, driving a car which is defective, and defective by reason of the driver's negligence.  I should like to have these words inserted.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>The definition of the word &ldquo;driving&rdquo; includes &ldquo;control or management.&rdquo;  Therefore, the two words the Deputy would like to have inserted would be &ldquo;care and construction.&rdquo; I think that that would have to be modified in some way, too.  I think it should be re-drafted, if it is to be re-drafted at all, by the inclusion of some words like &ldquo;negligent construction.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>&ldquo;Negligent&rdquo; governs the whole thing.  This is to insert these words after the word &ldquo;driving,&rdquo; which is governed by &ldquo;negligent.&rdquo;</P>
+    </Speaker>
+    <Col N="1401" />
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I am largely with the Deputy in that matter, but I would not like to make the thing too wide. I shall have it examined and put it up in another form on the Report Stage.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That is satisfactory, but might I ask the Minister to define his attitude this way: does he want to put in a limitation in this section at all, or does he want to make State-owned vehicles subject to action for anything for which privately-owned vehicles will be subject?  Does he want any restriction at all?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I think some kind of restriction might be necessary, because we all know that when it is a question of the State being the defendant possibly it is more open to attack and gets less sympathy even in the courts; that when it is the Exchequer that has to pay it is more vulnerable than the ordinary private citizen, or even than the ordinary insurance company. I think we should have to bear that fact in mind in drafting the section to see that the State would not be open to an attack that might not be made against a private citizen or an ordinary private company.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That seems to me an illogical stand.  The reason why State-owned vehicles were hitherto exempt was the very fact to which the Minister has alluded, that not merely here, but in any other country, the State would be regarded as a better mark and, consequently, if a claim for damages were made, probably a verdict would be found, and once found certainly the damages would be increased.  Probably the same thought was behind the practice whereby insurance had to be kept out of the consideration of a case, but that can now be brought in. Similarly, you bring in a State vehicle. It seems to be illogical to say that the State is going to be more vulnerable than a private individual, that damages will most certainly be given against the State, and that you are going to let those excessive damages be given for negligent driving, but you are not going to let any damages be given for injuries&mdash;which from the point of view of the person who suffers <Col N="1402" /> are going to be quite as serious&mdash; arising from a defect in a car due to the negligence of the person in charge. Either make a limitation for everything, or, if the State is going to be thrown open to assault in this way, let it be thrown open to liability for everything in the same way as a private person is liable.  Will the Minister bring forward an amendment himself?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Does the Minister propose to confine himself to what is called negligent construction?  It is scarcely fair, if the ordinary private person is liable for a defect in construction&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I think the Deputy is incorrect in stating that an ordinary driver is responsible for an accident caused by negligent construction, unless it can be shown that he was aware the car was defective when he took it out.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>If a person takes out a defective car, and it transpires in the course of the hearing of the case that there was a defect in the car&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Of which he was aware.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Whether he was aware or not, I believe the owner would be held responsible.  I believe if I&mdash;or anybody else&mdash;went into court with a case of that sort against me I would be held responsible, and that the point is whether or not the car was in good condition.  I have had experience of two instances, if I may say so.  In one case one of the State cars crashed into mine.  The insurance company was at a cost of something like £1,900.  I did not get a penny from the State.  There was something defective in the State car.</P>
+    </Speaker>
+    <Speaker pid="ConorAMaguire" hpid="Mr. Conor Maguire Mr. Conor Maguire">
+      <NameTxt>Mr. Conor Maguire</NameTxt>
+      <P>I think the Deputy is wrong.  I think the Deputy did get something from the State.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I can assure the Attorney-General that I got nothing. The insurance company may have got something.  That is one case where there was something apparently wrong in the machine belonging to the State. <Col N="1403" /> The second case is where a skid takes place.  Skids are a rather interesting phenomena in connection with motoring. It so happens that if the brakes are not tightened to the same extent on both sides&mdash;I hesitate to say it would be negligent&mdash;one of them may loosen, and then a skid in some cases is almost inevitable.  In that case an ordinary individual would be liable. If the Minister is not going to include in that word &ldquo;negligent&rdquo; the question of the construction of the car will the State get out?  In other words, is the State to get all the advantages and the individual all the disadvantages? I consider that that would be unfair.  If an ordinary individual is liable for certain defects in the machine and if the State is going to accept liability at all it should be on the same basis.  It is a question of knock for knock if you like.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>If an accident were caused by an ordinary private car, through defective management or defective construction, unless that were shown to be due to negligence on the part of the owner or the driver of the car I do not think there would be any liability, and the State should not be liable either.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I would not like to have a case against me on that basis.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I am instructed that there would not be liability unless negligence were shown.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That is the very point.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>The main proposition here is safety to public life.  If there is a defect in construction and the person loses his life it is no satisfaction for him to know that the law did not provide for it.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>That is correct.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Amendment withdrawn?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Yes.  It will be reconsidered, will it not?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <P>
+      <Col N="1404" /> Question proposed: &ldquo;That Section 168 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>On the section, I would like to ask what is the intention with regard to the fourth sub-section?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>There may be a responsibility on the driver, besides the responsibility that is on the State, and he will not be relieved of any responsibility that is on him.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Might I ask the Minister in a case of that kind, where a State chauffeur is engaged beyond the eleven hours prescribed in the preceding section, on whom does responsibility lie?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>The State will be prosecuted.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>For a breach of Section 167?  What about the accident that may happen later?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>If there is an accident the driver has certain responsibility too.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Although the State has kept him out of his bed longer than he should have been?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>Exactly.</P>
+    </Speaker>
+    <Speaker pid="" hpid="A Deputy A Deputy">
+      <NameTxt>A Deputy</NameTxt>
+      <P>Who will prosecute the State?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Is this going to stop electioneering.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I hope not.  A lot of the joy of life would be gone if it did.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Does sub-section (4) apply in any way to the responsibility on the part of the driver to be insured in respect of damage, or is it simply intended to apply to criminal liability in respect of his negligence?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I take it it is to apply to the criminal liability.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>How is the section improved by the insertion of the sub-section?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>It apparently does not refer to criminal liability.  There is no penalty attached.</P>
+    </Speaker>
+    <Col N="1405" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Is the Minister assured that a person, who would be the victim of an accident and cause damage, for instance, to a State car, would not be liable&mdash;although half-killed himself&mdash; to prosecution under this section as it reads at the moment?  Look at the sub-section.  It seems to me to be possible that even the victim of negligent driving might be prosecuted.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>If the whole Labour Party is blocking up the way, and the army runs them down&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Your head is very clear this morning.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>I have not the Bill before me, but I should like to ask the Minister whether the law is being changed.  If a State driver&mdash;say a soldier&mdash;knocks down and kills somebody, can the relatives get any compensation from the State.  I have in mind a case where the relatives were referred to take action against the driver.  I want to know is the law being changed.  Can the relatives of a person killed by a State car get any compensation?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>The law as it stands at present is that the aggrieved person can only get compensation by way of an ex gratia grant from the Government. He could take an action against the driver, of course, but in nine cases out of ten he would not get very much out of the driver.  The proposal here is to make the State liable to be sued in court the same as a private person.</P>
+    </Speaker>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>I had an instance brought to my mind when the State car skidded and knocked down a hoarding, and the hoarding damaged a person on the pathway, and the State would not assume any liability.  Under this Bill here what will be the difference in the case?</P>
+    </Speaker>
+    <Speaker pid="ConorAMaguire" hpid="The Attorney-General (Mr. Maguire) The Attorney-General (Mr. Maguire)">
+      <NameTxt>The Attorney-General (Mr. Maguire)</NameTxt>
+      <P>The proposal is to put the State in the same position as private owners. What usually happens is an application is made to the Minister, under whose control it is, for an ex gratia payment, and the practice has been that these applications are referred to the Attorney-General and he says whether <Col N="1406" /> in certain cases ex gratia payments may or may not be paid.  The effect of this section is to make the State liable, but it does not exonerate the driver from liability&mdash;the driver is already liable&mdash;and it does not add to the driver's liability.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>I think the case Deputy Good has cited is a good case, because there I think the builder was made pay damages, as it was his hoarding which had injured the person, and it is very appropriate to this sub-section. The effect of sub-section (4) would be to leave that liability still upon the builder, because it was his hoarding which had actually done the damage.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>I do not follow what the Deputy's trouble is.  I cannot see how this sub-section can have any influence such as the Deputy has mentioned or how it can be so suggested.  The position would be, if in the case Deputy Good mentioned an action is brought and it is shown that the hoarding was knocked down and the injury was caused through the negligence of the State vehicle, the Minister would then be liable or would henceforth be liable.</P>
+    </Speaker>
+    <Speaker pid="JohnGood" hpid="Mr. Good Mr. Good">
+      <NameTxt>Mr. Good</NameTxt>
+      <P>He was not liable in the previous case?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Sub-section (4) does not change the law by any greater liability.  That is the point I want to get at.  Nothing in the section operates to relieve from liability. Leaving out sub-section (4), what we have in the first three sub-sections is that the Minister is to be civilly liable.  We are told the intention is that he is to be liable on every occasion as a private individual would be liable.  That is what we are told is the intention, and there is to be an amendment considered with a view to seeing whether the intention is properly carried out.  In sub-section (3) &ldquo;every plea in defence which would be open to a master sued for damages in respect of the negligence of his servant (including the plea of contributory negligence and also pleas to the <Col N="1407" /> effect that the person in respect of whose negligence the damages are claimed was not acting in the course of his employment).&rdquo;  Now, where up to that point has there been any relief of liability.  I cannot see the force of putting in sub-section (4) and I think there is danger in it.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>I suggest the force of putting it there is to make it quite clear that there is no alteration in the liability.  I take it the draftsman in putting that in wanted to make it clear that the driver would not be exonerated.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Why not limit it to the driver?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>I cannot see what danger lurks in this sub-section that objection can be taken to it.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>There is no danger.  There is no doubt about it the Attorney-General will admit that if I admit negligence I am personally liable for my negligence.  That is clear already&mdash;that is the law.  Why put that in there?  What is it doing there?  It is already the law that a man is guilty for his own negligence. Is not that what the sub-section means?  What is the object of putting it in here?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>What is the harm?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>When the courts get after that, the first thing they will say is the Legislature is not putting in things as a surplus.  They will always give a ready meaning to it.  There is always that danger in putting in something for which there is no clear explanation. I can see all right if you wanted to make it for greater caution you should say the driver of such a car is not relieved if the accident is caused by reason of his own negligence.  But this is terribly wide.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Surely the sub-section was put in to correct the possibility of misunderstanding by the court.  &ldquo;Where injury to person or property is occasioned by the negligent driving of a mechanically propelled vehicle belonging to the State, the Minister for Finance shall be civilly liable.&rdquo;  Surely <Col N="1408" /> an implication could be read into that where it is specifically stated the Minister for Finance should be liable. That should be meant to read the Minister for Finance and only he should be civilly liable.  Surely it would be argued in court that you were setting up a very special law in respect of these cases and that the liability was to be exclusively for the Minister for Finance.  The moment sub-section (4) is produced where is the force of your argument?  It seems to me that is what was in the draftsman's mind.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>If that was in the draftsman's mind I doubt if instructions were properly given to him to bring the matter properly before the House.  In the present circumstances I wonder would the Attorney-General agree that a person who might argue what Deputy Dillon argued would get away with it, in the circumstances when other people are liable.  You bring in the section and say the &ldquo;Minister shall civilly be liable.&rdquo;  I know &ldquo;civilly&rdquo; is a bad word to use for the Minister for Finance but still it is there.  Why not say the Minister for Finance without prejudice to the rights arising under the law as it stands or something like, or the Minister for Finance in addition to any other person described as shall be.  It seems to me that to bring in this very wide business of &ldquo;any person&rdquo; is opening the door to all sorts of contentions hereafter and there is always the danger of the Legislature not putting in matters that are not capable of a reasoned explanation afterwards.  There is always the possibility of the courts interpreting a phrase in such a manner as would override what is the obvious intention of the House which passed that piece of legislation.</P>
+      <P>Sections 168 and 169 agreed to.</P>
+      <P>Sections 169 and 170 agreed to.</P>
+      <P Just="Center">SECTION 171.</P>
+      <P>(2) The following provisions shall have effect in relation to the measurement of the damages recoverable by the governing body of a hospital under this section, that is to say:&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="1409" /> (a) such damages shall, subject to the deduction hereinafter mentioned, consist of a reasonable sum in respect of the treatment of the injured person in such hospital;</P>
+    <Speaker pid="ProfJamesCraig" hpid="Sir James Craig Sir James Craig">
+      <NameTxt>Sir James Craig</NameTxt>
+      <P>I move amendment 69:&mdash;</P>
+      <P>In sub-section (2) (a), line 39, after the word &ldquo;sum&rdquo; to insert the words &ldquo;not exceeding twenty-five pounds in any case.&rdquo;</P>
+      <P>This is a simple amendment.  I was perfectly satisfied with the section as it stood, that a reasonable sum should be paid to hospitals in respect of injured people, but I had a visit from quite a number of insurance people who told me that it would be absolutely necessary to limit the amount. If the amount was left unlimited they stated the premium that would be charged would be extremely high, as they would not know what amount would have to be paid to the hospitals. It might amount to hundreds of pounds.  In similar Acts in England and in the North of Ireland the amount was limited to £25.  I think the hospitals will accept a reasonable sum and that it would be well to insert the words suggested in the amendment.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>Will the hospitals be satisfied with that?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I am quite prepared to accept the amendment.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Give them a draw from the Sweeps for anything in excess.</P>
+      <P>Amendment agreed to.</P>
+      <P>Section 171, as amended, agreed to.</P>
+      <P Just="Center">SECTION 172.</P>
+    </Speaker>
+    <P>Any member of the Gárda Síochána may demand of any person in charge of a pedal bicycle or a pedal tricycle his name and address and if any such person fails or refuses to give on such demand his name and address or gives a name or address which such member reasonably believes to be false or misleading, such member may take such bicycle or tricycle (as the case <Col N="1410" /> may be) by force if necessary and retain it until such time as he is satisfied as to the identity of such person.</P>
+    <Speaker pid="HenryMDockrell" hpid="Mr. Dockrell Mr. Dockrell">
+      <NameTxt>Mr. Dockrell</NameTxt>
+      <P>I move amendment 70:&mdash;</P>
+      <P>In line 14, after the word &ldquo;bicycle&rdquo; to insert the words &ldquo;who has committed an offence under this Act.&rdquo;</P>
+      <P>The amendment is moved to make it clear that a person should only be arrested for refusing to give his name and address after having committed an offence.  I do not think the Minister will see any more in the amendment than what is intended to prevent the possibility of annoyance being caused to individuals on suspicion.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I do not see anything dangerous in allowing the Gárda Síochána to ask a person to give his name and address.  There should be no objection to that.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>At any time?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>At any time.  I imagine that a person would act in a reasonable and in a commonsense way, and that unless there was some reason for it a person would hardly be stopped and asked for his name and address.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>Unless there is an accident, what is the meaning of the section?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>There might be an accident, and while the person with the bicycle may not have committed an offence, still he might be asked his name and address as a witness.  I do not see anything unreasonable in allowing the Gárda Síochána to do that.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>The section does not say that.</P>
+    </Speaker>
+    <Speaker pid="SeamusMoore" hpid="Mr. Moore Mr. Moore">
+      <NameTxt>Mr. Moore</NameTxt>
+      <P>Is there any reason for making an exception in the case of a suspected person more than in any other person?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Why not leave out &ldquo;in charge of a pedal bicycle or a pedal tricycle&rdquo; and make it the whole community?</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>That is what it is.</P>
+    </Speaker>
+    <Col N="1411" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I have a very strong feeling on the point which Deputy McGilligan has raised.  It is one of considerable importance.  I yield to no one in my respect for the Civic Guards, but I resent having to give my name at every street corner.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>There would be no necessity to do so in the Deputy's case.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister may be surprised to know that the only time I came into conflict with the R.I.C. was in the patriotic days in this country when I refused to give my name and address.  I think this is an undesirable principle to introduce, to give to the Civic Guards such wide rights as to hold a person up in regard to trivial matters, or to harry private citizens.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Was not the original intention with regard to this section to have it related in some way to an accident which had occurred somewhere within the area?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I think that was the intention.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Could it not be tied up more tightly?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I think so.  I will reconsider the matter.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>With regard to the regulations, I want to find out what the Minister has in mind with regard to the Petroleum Acts of 1871, and what type of new regulations does he think it necessary to introduce generally.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>The section referred to is a re-enactment of existing powers in the Locomotives on Highways Act. The whole of that Act is being repealed by this Bill, and this gives power to re-enact.  The regulations at present in force were issued in 1907.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Is it thought that the old position was not good enough? Are there to be drastic changes?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>Nothing drastic.  As the Act is being repealed it was thought wise to have this power.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Is there a quantity in mind?</P>
+    </Speaker>
+    <Col N="1412" />
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>As far as I know there is no change.</P>
+      <P>Sections 173 to 175 put, and agreed to.</P>
+      <P Just="Center">SCHEDULE.</P>
+      <P>No. 1 (Private) of 1925.  The Dublin United Tramways (Omnibus Services) Act, 1925.  Paragraphs (a), (b) and (c) of the proviso to section 3.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I move amendment 71:</P>
+      <P>In page 83, to delete all relating to the Dublin United Tramways (Omnibus Services) Act, 1925.</P>
+      <P>This amendment is necessary, because we have repealed Section 3 of the Act mentioned by the Road Transport Act of 1932 which was passed since this Bill was drafted.</P>
+      <P>Amendment agreed to.</P>
+      <P>Schedule, as amended, and the Title agreed to.</P>
+      <P>Bill reported with amendments.</P>
+      <P>Report Stage ordered for Wednesday, April 5th.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I will try to have the Government amendments circulated a week in advance.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>By this day week?</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="Mr. O'Kelly Mr. O'Kelly">
+      <NameTxt>Mr. O'Kelly</NameTxt>
+      <P>I will try.  There are quite a number of them.  If it is not possible to have them circulated a week in advance we can ask to have the Report Stage deferred.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="In Committee on Finance. - Road Transport" RHead="Bill, 1933.&mdash;Money Resolution">
+    <Title>In Committee on Finance. - Road Transport Bill, 1933.&mdash;Money Resolution.</Title>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That it is expedient to authorise the payment out of moneys provided by the Oireachtas of any expenses incurred under any Act of the present session to make further and better provision for the regulation and control of the carriage of passengers, merchandise and mails by road.</P>
+      <P>It is not anticipated that the operation of this Act will involve any appreciable expenditure on the public funds.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="In Committee on Finance. - Road" RHead="Transport Bill, 1933&mdash;Committee">
+    <Title>In Committee on Finance. - Road Transport Bill, 1933&mdash;Committee.</Title>
+    <P>
+      <Col N="1413" /> Section 1 agreed to.</P>
+    <P Just="Center">SECTION 2.</P>
+    <P>(1) In this Act&mdash;</P>
+    <P>the expression &ldquo;merchandise&rdquo; includes goods, wares, minerals and animals, but does not include passenger's luggage or mails;</P>
+    <P>the expression &ldquo;mechanically propelled vehicle&rdquo; does not include a railway engine or a tramcar or other vehicle running on permanent rails;</P>
+    <P>the expression &ldquo;merchandise road transport&rdquo; means the carriage for reward by road in mechanically propelled vehicles or in vehicles drawn by mechanically propelled vehicles of merchandise and includes, so far as they are carried on by means of such vehicles, the services of collection and delivery of merchandise hitherto carried on by railway, canal, and shipping companies, as ancillary or subsidiary to their main undertakings, or by agents on behalf of such companies, but does not include&mdash;</P>
+    <P>(a)  the carriage of merchandise by passenger road services licensed under the Act of 1932, or</P>
+    <P>(b)  the carriage of mails by or under contract with the Minister for Posts and Telegraphs, or</P>
+    <P>(c)  the carriage of merchandise by means of any vehicle primarily provided for the carriage of mails where and to the extent to which the carriage of merchandise by means of such vehicle is permitted under the contract made with the Minister for Posts and Telegraphs,</P>
+    <P>the expression &ldquo;authorised (merchandise carrying) company&rdquo; means a company to which Part III of the Act of 1932 applies and which is entitled by virtue of Section 28 of the Act of 1932 to engage in or carry on the business of carrying merchandise by road;</P>
+    <P>the expression &ldquo;authorised (passenger carrying) company&rdquo; means a company to which Part III of the Act of 1932 applies and which <Col N="1414" /> is entitled by virtue of Section 28 of the Act of 1932 to engage in or carry on the business of carrying passengers by road;</P>
+    <P>the expression &ldquo;shipping company&rdquo; means a person carrying on a regular steamer service to and from a port in Saorstát Eireann;</P>
+    <P>the expression &ldquo;existing carrier&rdquo; means a person, other than an authorised (merchandise carrying) company or shipping company, who carried on at some time between the 1st day of July, 1932, and the 8th day of February, 1933, a merchandise road transport business and includes a successor in title to such person in such business;</P>
+    <P>the expression &ldquo;vehicle plate&rdquo; means a plate of that name issued under Part II of this Act;</P>
+    <P>the word &ldquo;lorry&rdquo; means a mechanically propelled vehicle fitted with a body designed and constructed for the carriage of merchandise;</P>
+    <P>the word &ldquo;tractor&rdquo; means a mechanically propelled vehicle which&mdash;</P>
+    <P>(a)  is not a lorry, and</P>
+    <P>(b)  is constructed and designed for the traction of another vehicle;</P>
+    <P>the expression &ldquo;the registration book&rdquo; in relation to a mechanically propelled vehicle means the registration book for such vehicle issued under the Roads Act, 1920;</P>
+    <P>the expressions &ldquo;passenger road service,&rdquo;&ldquo;passenger licence&rdquo; and &ldquo;annual passenger licence&rdquo; have the same meanings respectively as in the Act of 1932;</P>
+    <P>the expression &ldquo;unladen weight&rdquo; in relation to a mechanically propelled vehicle means the unladen weight specified in the registration book which relates to such vehicle;</P>
+    <P>the word &ldquo;prescribed&rdquo; means prescribed by regulations made by the Minister under this Act.</P>
+    <P>(2) For the purpose of this Act the area included within a circle having radius of fifteen miles and its centre at a post office which on the appointed day is the principal post office in any of the following cities and towns, that is to say, Dublin, <Col N="1415" /> Cork, Limerick, Waterford, Ballina, Drogheda, Dundalk, Galway, Sligo, Tralee, Westport, and Wexford, shall be an exempted area.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Amendments 1, 2, 11, and 15 are related, and will, I presume, be debated together.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I move amendment 1:</P>
+      <P>In sub-section (1), page 3, between lines 26 and 27 to insert the following:&mdash;&ldquo;the expression &lsquo;carriage for reward&rsquo; does not include the carriage of merchandise supplied to a customer by the owner of the mechanically propelled vehicle in which such merchandise is being carried, if such merchandise is so carried in course of delivery to such customer.&rdquo;</P>
+      <P>Amendment 1 is to make it clear that the Act does not apply to a trader delivering goods purchased from him.  There was some doubt as to whether it would be allowable for a trader to deliver goods purchased from him without a licence, the point having been raised that the goods, after purchase, were not the property of the trader but the property of the people who had bought them and to whom they were delivered.  This is to make it clear that the trader would not require a licence under the Bill.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Will a person who is not a licensed undertaker under this Bill at all be allowed to carry merchandise around the country for sale?  You will observe that if merchandise is worth X pounds, say, in Kells, and a man carries it about six miles outside Kells and hawks it there, it is worth X pounds plus the amount he is charging for delivery.  Is he entitled to do that?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>If the goods are his own property he can take them anywhere he likes.</P>
+    </Speaker>
+    <Speaker pid="HenryMDockrell" hpid="Mr. Dockrell Mr. Dockrell">
+      <NameTxt>Mr. Dockrell</NameTxt>
+      <P>There is only one thing I should like to ask the Minister about, and that is with regard to the difference between the official amendment and the amendment standing in Deputy Good's and my own name.  I take it that there is nothing in the official amendment that would preclude the collection of the trader's own merchandise. Evidently the Minister has <Col N="1416" /> in mind the delivery from a person's own warehouse, but under modern conditions that is not always the case and there is the collection as well as the delivery.  They are still his goods, but I take it that in the official amendment there is no idea of ruling out collection?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>There is nothing whatever to prohibit a merchant from using his lorry for carrying his own goods. This amendment is put in because of the question that was raised as to whether the trader might require a licence for the delivery to customers of goods purchased from him&mdash;the point having been raised that the goods ceased to be the trader's property after their purchase.  They would be legally the property of the purchaser but, as the trader had contracted to deliver them he would be entitled to do so.  This amendment is designed to make it clear that he would not require a licence for that purpose and that he can deliver goods purchased from him without being required to obtain a licence under the Bill.</P>
+    </Speaker>
+    <Speaker pid="HenryMDockrell" hpid="Mr. Dockrell Mr. Dockrell">
+      <NameTxt>Mr. Dockrell</NameTxt>
+      <P>That is very satisfactory, except that the Minister has not answered my point about the collection of the goods.  Is the collection covered?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>If a trader collects his own goods there is no obligation for him to have a licence for that purpose.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is it accepted that No. 2 is covered by No. 1?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I am not prepared to accept that, because if the trader were allowed to hire a lorry for that purpose it would open the door very wide to means of evading the provisions.</P>
+    </Speaker>
+    <Speaker pid="SeamusMoore" hpid="Mr. Moore Mr. Moore">
+      <NameTxt>Mr. Moore</NameTxt>
+      <P>A shopkeeper who would undertake to act as a selling agent for farm produce, such as potatoes, would be debarred?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Yes, unless he was a licensed operator.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>This amendment goes to the root of the whole Bill.  The extent or limitation put on the phrase &ldquo;carriage for reward&rdquo; depends the whole measure and its effect as far as road vehicles are concerned.  Here you have it <Col N="1417" /> described as not including certain things, that is in sub-section (1) of Section 2.  Take this one to start with.  &ldquo;Carriage for reward&rdquo; is declared not to include&mdash;what? Let us divide this amendment out.  According to the amendment, when merchandise is carried by the owner of a mechanically propelled vehicle, if such merchandise is so carried in the course of delivery to such customer and is supplied to a customer then there is no &ldquo;carriage for reward.&rdquo;  What does &ldquo;a customer&rdquo; mean in that connection? Does it mean any customer?  Suppose that at the moment I own a lorry&mdash;am I entitled to come along to a shop after this, to get a list of the goods that have been ordered and bought, and load these goods up and carry them out to the customers?  Alternatively, if I take the situation envisaged by Deputy Dillon, can I, knowing that there are certain customers going into shops in various areas for goods, go in and purchase these goods, become the owner of the goods, and then go out to the customer with the goods? Is that not &ldquo;carriage for reward&rdquo; under this?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I do not think so.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>If not, where is your Bill?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It is quite clear that if a person contracts to carry goods for payment, then he comes under the Bill.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>This is not for payment. My case is that B has a shop in town.  I know that X, Y and Z are customers of B.  I find out what X, Y and Z want and I go into B's shop, buy these goods, and deliver them to X, Y and Z in my own lorry.  Is that &ldquo;carriage for reward&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The Deputy has not stated, whether, in fact, X, Y and Z have given any consideration.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>X, Y and Z say to me &ldquo;we used be able to buy these goods and have them delivered to us for such a price; will you do it?&rdquo; I say &ldquo;Yes, I will.&rdquo;  I then go to B's shop and buy the goods and deliver them to X, Y and Z.  The only satisfaction is that I buy the goods and get <Col N="1418" /> the same price from the people as they formerly paid.  Is that &ldquo;carriage for reward&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I assume that the Minister examined all these questions. Take the case of a hawker going around the country.  He goes into you and says: &ldquo;Will you be wanting anything?&rdquo; You say &ldquo;Yes&mdash;a ton of Indian meal.&rdquo;&ldquo;Very well,&rdquo; he says, &ldquo;I will send it to you here at your door for £6 5s.&rdquo;  The customer knows that the price is £6 for the Indian meal, but he is content to pay the extra 5/- to have it delivered to his door. That man comes in&mdash;an unauthorised haulage contractor&mdash;he pays £6 for the Indian meal, drives out to the customer's house with it and collects £6 5s.  He sells the meal at £6 5s. and says &ldquo;Will you be wanting anything to-morrow?&rdquo; The customer says &ldquo;Yes, there is my list of goods.&rdquo; The hawker goes in to town and buys those goods, comes out and collects his bill with a penny or twopence added on to the price of each packet.  According to this Bill that man has not committed any breach of the law.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>He is not conducting a haulage business; he is conducting a trading or shopkeeping business. Having bought the meal it is his own property and remains his property until he sells it again.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Instead of getting paid for carriage, you are taking a profit? You are simply going into the haulage business.  The profit represents your remuneration for hauling.  This seems to be extending the thing to an unlimited degree, because you can go to any headquarters base and go through the form of buying at one price and selling at another.  In fact, your profit is measured by what you normally charge for hauling.  In reality you are conducting a haulage business without any licence at all.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>And the Minister apparently, is prepared to accept that as the new situation.</P>
+    </Speaker>
+    <Speaker pid="FrankMacDermot" hpid="Mr. MacDermot Mr. MacDermot">
+      <NameTxt>Mr. MacDermot</NameTxt>
+      <P>Could the Minister do anything to secure that a man should be genuinely in the merchandise <Col N="1419" /> business and should not be merely using it as an excuse for hauling?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Possibly.  The Deputy, of course, is aware that at the moment a Commission is sitting and taking evidence on the question of retail distribution. One of the matters that the Commission have under their notice is this question of what is called a travelling shop.  Certain recommendations are likely to be made in relation to that.  The hawker is licensed already.  We know exactly where he is and what he is doing.  I gather, however, that what seems to be in the minds of Deputies is that there may be an evasion of the Bill by notional buying and notional selling.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>An evasion of the Bill?  The Minister is asking for it.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I do not think that is likely to arise or that it is going seriously to affect a genuine haulage business.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>The Minister's explanation of his own amendment seems to me to make the position a good deal more serious than I understood it was going to be.  As Deputy Dillon has pointed out, in addition to these people being able to carry on, as I am sure they will, a hawker's business, they are going to be unlicensed carriers as well according to the Minister's interpretation of his own amendment.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Might I put my point of view again?  There need not be this notional buying or selling that the Minister speaks of.  There may be an open transaction of the type Deputy Dillon first spoke of and that I referred to.  Does the Minister deem the thing that we have talked of as not to be &ldquo;carriage for reward?&rdquo; He puts the onus on certain people.  He says that &ldquo;you shall not include in the term &lsquo;carriage for reward&rsquo; certain things.&rdquo; If there is not &ldquo;carriage for reward,&rdquo; then the road vehicle can operate not merely as merrily as before but much more merrily.  There is going to be very much better trade for it and the Minister is quite happy about this new <Col N="1420" /> situation.  Up to date there have been professional road carriers operating in a particular way.  They took out goods and carried back something else.  For the future all that these people have got to do is to go to a person and say &ldquo;I am going to buy so much of your stuff.&rdquo;  At that point that person becomes the owner of merchandise.  If that person is also the owner of a mechanically propelled vehicle and carries that merchandise which is now his in his own mechanically propelled vehicle to a customer, then he does not come under this.  He has not to be licensed, and is completely and entirely outside the Bill.</P>
+      <P>That is the new situation.  I think that from the point of view of this Bill doing any good to the railway companies, which I thought was the aim and intention of it, it is going to have the opposite effect.  As to the expression in the amendment &ldquo;merchandise supplied to a customer&rdquo; I do not think one need go through the business of buying and selling to come under this.  If one is the owner of a lorry one can take merchandise of any kind.  If I have merchandise and I sell it to a customer in his shop I can take it and deliver it to that customer even though I openly charge for the delivery. That is defined here as not being &ldquo;carriage for reward.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I take it that the Minister's intention was to remove from the operation of the measure business people who sold goods or necessary commodities and included a delivery charge.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Quite.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>I think in view of the explanation we have had that the Minister is going to make these people additional unlicensed carriers.  I think it is a matter that requires to be looked into.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>I think it is clear that the Minister is not aware of a new class of traffic that has developed in the country.  Originally this thing started in this way, that we had lorries carrying goods from point A to point B.  A person say bought two tons of meal and one ton of flour from a wholesaler <Col N="1421" /> in the city.  That person delivered that and got paid for it.  He was openly and notoriously a public carrier. That has now developed into a new system where a people go round and collect orders.  They go to a shop some miles away, and get these orders filled.  They deliver the goods to those from whom they have taken the orders and collect the money.  They are going to be included in this.  That is a system that has been growing up and that, under this amendment, is going to sidetrack the effective working of this Bill.</P>
+    </Speaker>
+    <Speaker pid="ConorAMaguire" hpid="The Attorney-General (Mr. Conor Maguire) The Attorney-General (Mr. Conor Maguire)">
+      <NameTxt>The Attorney-General: (Mr. Conor Maguire)</NameTxt>
+      <P>The Deputy, I think, is quite wrong in his interpretations of the amendment which is intended to cover the cases of shopkeepers delivering in their own vehicles.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>If we are wrong the Minister has accepted our interpretation.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>As to the person who goes along the country road accepting orders we are not concerned with him. We are not dealing with him in this Bill.  So far as the road transport situation is concerned he is no problem. He may be a problem in relation to retail distribution, but certainly he is not a transport problem.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Who really makes the transport problem?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The owner of any mechanically propelled vehicle who undertakes contracts for carrying goods for reward.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Between a seller and a customer?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Between any two points.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>And under this he is deemed not to be carrying for reward.  That is what it comes to.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>If you look at the amendment it covers the case of the owner of a lorry delivering to a customer of his own.</P>
+    </Speaker>
+    <Col N="1422" />
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Where is that?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>In the amendment.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Where is the phrase &ldquo;to a customer of his own&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>The amendment reads: &ldquo;the expression &lsquo;carriage for reward&rsquo; does not include the carriage of merchandise supplied to a customer by the owner of a mechanically propelled vehicle in which such merchandise is being carried, if such merchandise is so carried in course of delivery to such customer.&rdquo;  Therefore, it contemplates a shopkeeper delivering goods to his customer.  It does not contemplate the case which the Deputy has so elaborately explained of a man who intervenes between a shopkeeper and proceeds to get a number of people whose names he is supplied with, delivers goods to them and, in some way, gets reward for the carriage.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>He is a shopkeeper.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>This particular amendment seems to be clearly designed to prevent a shopkeeper, who is delivering to his customer in his own vehicle, carrying goods for reward.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That may be the design.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>It is the form.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Let us face it as the design, but may I point out that the word &ldquo;shopkeeper&rdquo; is not mentioned. The words &ldquo;customer of such shopkeeper&rdquo; are not mentioned.  All that is mentioned is the owner of the vehicle carrying merchandise to a customer.  Even although the man has a claim to a reward for the carriage of the goods he is not deemed to be a carrier.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>What is the difference between a customer and a hawker?</P>
+    </Speaker>
+    <Speaker pid="FrankMacDermot" hpid="Mr. MacDermot Mr. MacDermot">
+      <NameTxt>Mr. MacDermot</NameTxt>
+      <P>Does not this lay open the possibility of a shopkeeper <Col N="1423" /> becoming a carrier for the purpose of getting haulage hire.  How are you to stop people doing that?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>You cannot stop a man using a motor as a travelling shop; he is the owner of the goods. I understood Deputy McGilligan's case to be the case of a man not dealing with his own customer but delivering goods to other customers.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>He is the customer by buying the goods from the shopkeeper.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The Deputy's point is that a person, because of his interest in road transport, might make himself a travelling shopkeeper but that is a separate problem.</P>
+      <P>Amendment agreed to.</P>
+      <P>The Dáil went out of Committee. Progress reported.</P>
+      <P>Committee to sit again on Wednesday, 29th March, 1932.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies' Business. - Economic" RHead="Policy of the Executive Council and Farming">
+    <Title>Private Deputies' Business. - Economic Policy of the Executive Council and Farming.</Title>
+    <P>Debate resumed on motion:&mdash;</P>
+    <P>That the Dáil is of opinion that the economic policy of the Executive Council has in its results so impoverished a majority of the farmers of this State that they do not possess the capital requisite for the carrying on of their industry and that in consequence the Executive Council should now take the necessary steps to supply to these farmers free of charge an adequate quantity of artificial manures, agricultural seeds and spraying material so as to enable them fully to utilise the resources of their farms.&mdash;(Deputy James Fitzgerald Kenney).</P>
+    <Col N="1424" />
+    <Speaker pid="JamesRyan" hpid="Minister for Agriculture (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Agriculture (Dr. Ryan)</NameTxt>
+      <P>When we adjourned, on Wednesday night, I was discussing the price of cattle in Great Britain and the Free State during 1932 and 1931.  I pointed out that according to the British returns the average price of cattle in Great Britain was £2 less per head in 1932 than in 1931.  I also mentioned that our exports, though very much down in value in 1932, as compared with 1931, were down in numbers by 120,000 head of cattle.  If you take these two matters&mdash;the fact that cattle were down £2 per head in price and that our exports were down by 120,000 in 1932 as compared with 1931&mdash;the total value of our exports in the two years might bear, perhaps, some different interpretation from what the Opposition gives it.  The price in the Free State, if you do a simple sum of dividing the amount realised on exports by the number of the exports, in the two years, would work out, in 1931 as £16 10s. 0d. and in 1932 as £13 12s. 0d. per head.  That is a reduction in the value of the cattle exported of £2 18s. 0d. per head in 1932 compared with 1931; that is according to the figures in the statistics published.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Of course the Minister is aware of the fact that it was not until the end of 1932 that the 40 per cent. duty came into being.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am aware of that.  The strange thing is that if to-day one takes the first six months of 1932 compared with 1931 he will get the same results.  Prices were cut down in the first six months of 1932 in proportion to 1931 as in the second six months of both years.  If we look at the figures in Great Britain and the Free State there would be found to be a reduction of over £2 in the economic price so that economic conditions were responsible for a reduction of £2 18s. 0d. per head or a total of about £500,000.</P>
+    </Speaker>
+    <P>Again if we look at the export of sheep and lambs there was a reduction of 124,000 and pigs 173,000.  There was a very big percentage reduction in the amount of eggs exported amounting to 800,000 eggs or 25 per cent.  Any fair-minded person, looking <Col N="1425" /> at this would come to the only conclusion he could come to, namely that the number of cattle, sheep, pigs and poultry at the beginning of 1932 was considerably down compared with the number in 1931.  But if the Government is to be held responsible for the economic conditions that prevailed, as Deputy Fitzgerald-Kenney has tried to establish, we can retort and say that the Cumann na nGaedheal Government for ten years brought this country to such a state of bankruptcy that the export of cattle, sheep, pigs and hens was killed and that we had neither cattle, sheep, and pigs to export nor hens to lay because of their action.</P>
+    <P>We are told that there has been a reduction of £9,000,000 in our live stock and live-stock products in 1932. That figure is correct.  But if the farmers of this country had been living in 1931 on their capital, and selling their cattle to pay their debts, under the Cumann na nGaedheal Government, and selling their sheep and pigs and hens to meet their liabilities, naturally the farmers had them not to export in 1932.  If our Government is to be held responsible for everything that has happened in the economic world, the former Cumann na nGaedheal Government must take their share of the blame.  If we were left a bankrupt concern when we came into power we must be allowed a little time to get things right.  There was a reduction of £9,000,000 in value in exports, but one should also turn to the imports of live stock and livestocks products.  There it will be found that the reduction is £3,000,000 as a result of our policy when we stopped the import of many things coming in.  Take for instance the year 1931.  I think you will find in that year that there were imports of £1,600,000 worth of bacon.  For the last half of 1932, at any rate, that was practically stopped.</P>
+    <P>The imports of bacon in 1932 is down considerably; it was down to £489,000 in bacon and hams as compared with £1,300,000 in 1931.  So that as a result of our protective policy we cut down the value of our imports in live stock and live-stock products by £3,000,000. If you take £3,000,000 from £9,000,000 <Col N="1426" /> you get £6,000,000, and that is the figure that had been more or less stereotyped for the last four or five years.  If you examine the export trade in live stock and live-stock products you will find that under the Cumann na nGaedheal Government, when there was no economic war, when there was the greatest friendship with Great Britain and no trouble about getting stuff into the British markets, there was a reduction of £6,000,000 per year, roughly speaking, in the last four years in our exports to other countries, chiefly, of course, to Great Britain. The year 1932 followed on like other years.  If we are expected to make things right we must be given a few years to bring about an improvement.</P>
+    <P>We are told that all this thing is due to the economic war.  There may be something to be said for that, that paying a duty on our exports to Britain must necessarily take something off the value of our exports.  One would not mind that if it were stated as an ordinary fact, that this was due to the economic war, but the implication is always there and something more than the implication&mdash;the definite assertion is there&mdash;that it is due to us that the economic war came about. There are, as everybody knows, two parties to every war.  There are two parties to the economic war.  The Government of Great Britain and the Government of the Irish Free State are involved in it, but we have the spectacle of the patriotic, good Irishmen opposite invariably laying the blame for the economic war on the Government of this country rather than on the Government of the other country.  It is rather a unique thing in the history of the world to see an Opposition, a very big and responsible Opposition&mdash;they were much bigger and more responsible formerly, but even yet they are fairly big and responsible&mdash;leaving the whole blame for the dispute between the two countries on their own country and no blame whatever on the other country. However, there is no necessity to go into that matter now.  It has been debated here before.</P>
+    <Speaker pid="FrankMacDermot" hpid="Mr. MacDermot Mr. MacDermot">
+      <NameTxt>Mr. MacDermot</NameTxt>
+      <P>Has the Minister never heard of the Boer War, and is <Col N="1427" /> he not aware that the then Opposition in Great Britain laid the entire blame for that war on the British Government?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am surprised to hear it.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>Sections of it, but not the entire Opposition.</P>
+    </Speaker>
+    <Speaker pid="FrankMacDermot" hpid="Mr. MacDermot Mr. MacDermot">
+      <NameTxt>Mr. MacDermot</NameTxt>
+      <P>The main body of the Opposition.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am surprised to hear it. We have debated that sufficiently here, and we are not getting nearer agreement on it.  We have debated it with much more satisfaction in the country, as far as we are concerned, at any rate.  It was debated before the country at the last general election to our entire satisfaction.  As I said before, we are quite prepared to discuss any matter connected with agriculture, and to admit that agriculture is in a bad way and, if we get any decent suggestion or any feasible suggestion, to deal with the problem.</P>
+      <P>Deputy Fitzgerald-Kenney when he pretends to deal with it brings in a vindictive motion trying to put everything down to the Executive Council. The Deputy knew quite well, if he wanted to get anything done for the agricultural community, he was not going to help by putting down a motion in these terms.  We have the cry of &ldquo;Give us back our markets&rdquo; and so on.  We have taken a definite stand on this matter.  We have got a mandate from the country to see this matter through and we mean to see it through.  The people had two choices put to them at the last election.  One was to return Fianna Fáil and to see this matter through.  The other was to return Cumann na nGaedheal and to have the whole matter settled in three days.  The people took the choice of seeing the thing through and we mean to see it through.</P>
+    </Speaker>
+    <P>As far as this matter of exports of live stock and live-stock products is concerned, we saw, not now, not when we came into power this time last year, but for many years, that a time would <Col N="1428" /> come when we would not be in a position to increase our exports because it would be difficult to get markets.  We have advocated all the time that we should concentrate more on cutting down imports of live stock and live-stock products and at the same time hold if possible the market we had for our live-stock exports.  No attempt was made to deal with that problem until we came into power.  We had bacon coming in from every country in the world at a rate with which the Irish farmer could not compete.  We had the same thing in regard to mutton&mdash; Canterbury lamb coming at certain times of the year.  We had Chinese eggs and Russian chickens coming in, everything conceivable coming in to compete against the products of our own farmers.  While that was going on the Government pretended not to notice it.  They had their eyes on the British market all the time, pointing out to the country what a great place the British market was and neglecting to deal with the problem of agricultural produce coming in from other countries. It is not now or this time last year, but for many years, that we have been pointing out the folly of that policy of neglecting our own market. It must be obvious to anybody that it could not go on even if Cumann na nGaedheal were in power and on the friendliest terms with Great Britain and in a position to make agreements with them under the Ottawa pacts and so on.  They could not go on existing on the British market.</P>
+    <P>I see in some English paper to-day that the Australian Government has been practically compelled to agree to a restriction of butter imports into Great Britain.  The New Zealand Government, as well, are to be compelled, and have already agreed, to restrict the imports of meat into Great Britain.  New Zealand and Australia are on friendly terms with Great Britain, as friendly as we could ever hope to be, even if a Cumann na nGaedheal Government were in power. If Cumann na nGaedheal were in power they would also have to restrict the imports of bacon and butter and these other things that have been mentioned.  There is no doubt what- <Col N="1429" /> ever that they would also have to restrict imports of live stock into that market.  I think that nobody here will deny that if the Cumann na nGaedheal Government had taken the step we took last year in protecting our own market, as they could have done four or five years ago, and at the same time tried to hold the export trade, the farmers would be in a much better position. I say at any rate that no matter who is there, I do not care what Government is in power in this country, if they must restrict their exports of live stock and live-stock products from this day forward the only hope they have, if they want to increase agricultural output, is to develop the home market.  We have tried to do all we can in that direction. I think we have gone as far as it is necessary, practically to shut out imports coming in here in the way of live stock and live-stock products. There are very few articles, if any at all, that can be produced here, coming in at the present time.  If they are coming in and if it is possible to produce them at all in this country, that matter will be looked after as soon as possible.</P>
+    <P>Taking the other side of the picture, if the agricultural community have suffered a loss in price, which I hold is not as serious or as very big as some of the people would say, because the numbers exported must be taken into account, we have, on the other hand, tried to give at least equal benefits, if not more benefits, to the agricultural community.  In the year 1932, there was an increase of £250,000 in relief of rates.  There was a moratorium of the last half year of land annuities which amounts to about £2,000,000 and if you take the increase in the value of milk and butter alone it amounts to an enormous sum.  As pointed out here already, if Cumann na nGaedheal had been here, they would have let butter go on the ordinary world price because when we brought in our Stabilisation Bill at this time last year not only did they oppose us but they obstructed us on that Bill.  They would not hear of it on any account and the ex-Minister for Agriculture pointed out that a scheme had been put up to him which he had put up to the Executive Council <Col N="1430" /> and that the Executive Council turned it down, so that definitely, their policy was not to adopt a scheme of that sort.  They wanted to have the ordinary world price ruling for butter, hold the foreign market, export all they possibly could to the foreign market, getting the world price, and to have that world price rule the price at home.  If Cumann na nGaedheal had been in here and that had been the case, the price of butter would have come from somewhere about 108/- this time last year to 74/- at present, and the average price over the whole year would have been, perhaps, about 90/-. We, on the other hand, have kept butter at 123/- from 1st April until somewhere about 21st July and, from then to the present time, at 117/-. Taking the total butter output as a rough guide, it will be found that the benefit alone was worth, in increasing the value of butter and milk, to the farmers almost £2,000,000.</P>
+    <P>Again, take such a thing as grain. By protecting the home grain market against great opposition from Cumann na nGaedheal again, we found a market for all the barley that was available for sale here last season and at a price ranging from 14/- to 15/- a barrel.  If there had been no protection, barley could have come in here, as it came in to Northern Ireland and Great Britain, at 10/6 a barrel, so that on the amount of barley our farmers had to sell there was an increase of price of at least 4/- a barrel.  The same thing, to a certain extent, would apply to the oats that was offered for sale. There was one other thing that we did which has perhaps created more controversy than anything we have done since we came into office&mdash;the giving of bounties.  I answered a question the other day and stated that the amount of bounties paid to date was within £6,000 of £1,000,000.  Up to the end of December last year, there was something like £700,000 paid in bounties. Against all that, against the £700,000 and the quarter of a million for de-rating, the postponement of the collection of £2,000,000 of annuities, the increase in the price of butter and milk and the increase in the price of barley, oats and so on, the most anybody <Col N="1431" /> can claim to have been taken from him is what Mr. J.H. Thomas announced in the House of Commons was taken up to 31st December&mdash; £1,600,000&mdash;and the benefit appears to be on the side of agriculture in the Free State.</P>
+    <P>To go back to the bounties, some will hold that the bounties have not done very much good.  So far as we are concerned in the Department of Agriculture, we have, on some occasions, taken a consignment of cattle and gone back, verifying what was paid for the cattle to the farmer.  We have traced the cattle right through until sold somewhere on the British market and verified every single figure and we have found that the average profit got by the exporter was about 3/- per head and the average bounty was about 30/- per head, so that it is rather unfair and ill-considered to say that these bounties are not going back to the farmers.  I am quite certain that the bounties paid on cattle are going back to the farmers.  I have no doubt at all about it and there is no doubt at all that the bounties paid on poultry and eggs are going back It is much more difficult to trace whether the bounties paid on bacon and pigs go back to the producer or not because it is very difficult to get a comparison on the value of pigs.  There are so many different types of pigs and prices vary so much even from day to day.  If one watches the quotations by the various bacon factories, it will be found that, one day, there is a difference of perhaps 5/- or 6/- a cwt. between the 12½ and 12 stone pig while next day there will be no difference at all.  Even on the same day it will be found that one factory has all of them in the one category and another has them divided with a difference of 5/- or 6/- so that it is very difficult to trace the bounties and to see whether the consumer is getting them or not.</P>
+    <P>There is, however, one thing to be said about these bounties.  Suppose we drop them 10/- a cwt., on bacon for instance.  Somebody may hold that they are not going back to the producer. What is to prevent the bacon factories from taking another 10/- off <Col N="1432" /> and not giving it back to the producer, and if we take the bounty off cattle what is to prevent the cattle exporters taking 30/- a head off and not giving it back to the producer?  There is only one thing, of course, that will be the cause of bringing this bounty to the producer and that is competition.  If there are four or five exporters of cattle competing for cattle at the one fair, and, if four of them see one man giving a certain price and going to put the bounty in his pocket, the second man will say: &ldquo;I will not put 30/- in my pocket but 27/-.&rdquo;  The third man, in turn, will say: &ldquo;I will take 25/-,&rdquo; while the fourth man will then say: &ldquo;20/- will do me,&rdquo; and the fifth man may then come down to 15/-.  Eventually, they will get down to the least possible profit on which they can do business.  That is the only safeguard we have in any of this business.  It is the same way with pigs and bacon.  If the factories do not compete against one another and with the exporters of live pigs, there is nothing to prevent them giving what they like.  If they are in a ring they can give what they like.  They can not only put the bounty in their pockets but half the price of the bacon also.  I do not see why the bounty should not be there.  The only thing that is going to compel them to pass the greater part of it on is competition amongst themselves or against other buyers in the market.</P>
+    <P>Deputy Haslett and other Deputies have been very definite in saying that these bounties are not going back to the farmers but I am quite certain that they are.  The matter has to come before the Executive Council again and if Deputy Haslett and the other Deputies here are able to convince a majority of the Executive Council that they are not, I have no doubt whatever as to the result.  The Executive Council will say: &ldquo;We do not see any fun in paying two million pounds to the exporters of cattle and pigs in this country.&rdquo;  I am not alone in thinking it.  The majority of the House and the majority of the people of the country think that the Executive Council has not been responsible for impoverishing the farmers.  We are quite prepared to admit there is a want of capital <Col N="1433" /> amongst the farmers; but why did not Deputy Fitzgerald-Kenney start his motion with that statement?  Why did he not indicate there is a want of capital and then let us see what we could do?  We have provided, as far as we can, the only feasible means of supplying farmers with credit for seeds and manures.</P>
+    <P>If any Deputy can put up a workable scheme to us we will consider it favourably. I do not want it to be absolutely watertight, because I know that in any scheme there is going to be a certain amount of loss, of fraud and evasion.  If anyone can put up a fairly good scheme that will provide relief for the people who need it and that is fairly watertight with regard to fraud I will guarantee there will be no red tape and that it will be put into operation within two or three days.  I have been examining this question for three or four months.  The only course I can see is that we should go back to the county councils to administer the scheme.  They have always been used for this purpose.  They know more about the people than we do.  The county council officials know the people who really want help and they know the chancers in the country who always seek help and really do not want it. Such people take seeds and manures in order to sell them again.  We thought the county councils would be prepared to administer this scheme again.  We found, however, on putting the matter to them that they were not prepared to adopt it enthusiastically this year. Then we made a second offer, that we would stand half the loss.  I do not see that we can do any more.  If a good suggestion is put forward we are prepared to put it into operation.</P>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>The Minister indicated the Government would stand half the loss up to £25,000.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes, and I am quite prepared to extend that to £50,000 if it is thought necessary, but I do not think it will be.</P>
+    </Speaker>
+    <Speaker pid="RichardCurran" hpid="Mr. Curran Mr. Curran">
+      <NameTxt>Mr. Curran</NameTxt>
+      <P>I suggest that the real difficulty in this matter is to ascertain <Col N="1434" /> the people who are most in need of assistance and who are prepared to repay.  I am anxious to be helpful to the Minister in this matter.  I will oppose any scheme submitted by the Government unless there is some type of security given by the recipients of seeds and manures.  At a county council meeting which I attended recently it was stated that the seed potatoes and seed oats that were given to certain people were sold subsequently.  I cannot verify that statement.  There should be some provision made to obtain security from people who are supplied with seeds and manures.  The Minister knows the constitution of county councils as well as I do.  Does he imagine that a county councillor will raise an objection to a neighbour getting seeds and manure?  I might object, but there are many members of the county council who would not do so and who would be prepared to facilitate anybody looking for seeds and manures.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>When I was drafting this scheme about guaranteeing half the loss, the Minister for Finance suggested that we should ask for guarantees. I said I did not think they would be necessary because if we asked the county councils to bear half the loss they naturally would arrange their own guarantees.  The county council is free to ask for any guarantees it wishes.  Some county councils may be inclined to do with a smaller guarantee than others.  If we suggested any guarantee I am quite sure it would be objected to by some county councils as being unreasonable.  In our circular we did suggest certain restrictions. For instance, we suggested that a person who got a loan for seeds and manures under a former scheme and did not repay should not be favourably considered again.  Apart from that we did not look for any guarantees. We thought the county councils would look for them.</P>
+    </Speaker>
+    <P>What Deputy Curran has pointed out is really our difficulty&mdash;finding out who requires help and who does not. The county councils are in a much better position than we are to find out <Col N="1435" /> that information.  They can consult their rate collectors and the rate collectors know every person in their areas.  The rate collectors have a good idea of the circumstances of applicants, whether a man is poor and hard up and whether he is honest or not. If a person is poor and honest, that is the sort of person we would like to help.  Some people might ask why we do not guarantee the whole loss.  We are afraid if we did that the county councils would be too generous.</P>
+    <Speaker pid="RichardCurran" hpid="Mr. Curran Mr. Curran">
+      <NameTxt>Mr. Curran</NameTxt>
+      <P>So they would.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>We are quite prepared to recognise the need for credit, and we are anxious to improve the scheme if any suggestion can be made to us. The reason I say this motion should be rejected is because it is a vindictive motion.  It was not put down for any other reason except to put the blame on the Government for everything that has happened.  It is vindictive and ill-considered. If the Deputy had considered his motion he would not have put down an adequate quantity free of charge.  That means that anybody in the country could draw away a few horse-loads of seeds and manures.  An adequate quantity might be anything, and &ldquo;free of charge&rdquo; is a great inducement to a man to get his neighbours to draw the stuff away. The motion is ill-considered, slovenly and vindictive, and it should not be accepted by the House.</P>
+    </Speaker>
+    <Speaker pid="SydneyBMinch" hpid="Mr. Minch Mr. Minch">
+      <NameTxt>Mr. Minch</NameTxt>
+      <P>The Minister said that during the progress of the Butter Stabilisation Bill this Party obstructed and opposed it tooth and nail.  I would like the Minister to have some regard for truth.  In the final stages of the Bill I, and several of my colleagues, voted with the Government Party.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>There were some on the Front Bench opposite who did so.</P>
+    </Speaker>
+    <Speaker pid="SydneyBMinch" hpid="Mr. Minch Mr. Minch">
+      <NameTxt>Mr. Minch</NameTxt>
+      <P>That does not make any difference.  We supported you and you did not make that clear.</P>
+    </Speaker>
+    <Col N="1436" />
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Why did the Deputy not protest against his Front Bench before now?</P>
+    </Speaker>
+    <Speaker pid="SydneyBMinch" hpid="Mr. Minch Mr. Minch">
+      <NameTxt>Mr. Minch</NameTxt>
+      <P>I am not protesting against the Front Bench; I am making a plain statement of the truth.</P>
+    </Speaker>
+    <Speaker pid="FrankMacDermot" hpid="Mr. MacDermot Mr. MacDermot">
+      <NameTxt>Mr. MacDermot</NameTxt>
+      <P>I feel tempted to intervene by reason of an observation by the Minister for Agriculture.  He said that in fixing the bulk of the responsibility on this Government for the impoverishment of the farmers and in blaming our own Government almost to the exclusion of the British Government, but certainly in the main blaming our own Government for the economic war, members of the Opposition Parties in this country were doing something unique.  I mentioned by way of interruption the South African War, but that is far from being an isolated case.  It is worth bearing in mind that at the time of the South African War, Sir Henry Campbell Bannerman, Leader of the Opposition and subsequently Prime Minister for England, was absolutely a wholehearted critic of his own Government as to the fundamental injustice of that war and even as to the methods by which it was carried on.</P>
+    </Speaker>
+    <P>The phrase that was long quoted against him was the use of the words &ldquo;methods of barbarism&rdquo; with regard to the methods and operations of the British Government in South Africa. That is not an isolated case.  It has constantly happened in civilised, well-educated countries that the Opposition, when called upon to choose between what it considers truth and justice on the one side, and nationalistic prejudices on the other side, chooses truth and justice.  It is a mark of the civilisation of a country that that does occur.  It is only the other day you had debates on India in the British House of Commons where the Opposition were very outspoken in their criticism of Government action there. It is only a few days ago that there was a debate on the present conditions in Kenya Colony with regard to the treatment of the natives where quite as strong terms were used by the <Col N="1437" /> Opposition with regard to the policy of the Government as there was here with regard to policy of our Government on this dispute with the British.</P>
+    <P>I think it is time that the contention was laid aside that there is something unpatriotic in attacking our own Government in an international dispute. The fact is that it may not be unpatriotic at all, always premising that the opposition is honest and that truth and justice are in question.  I therefore challenge altogether the statement of the Minister for Agriculture that that sort of attitude on the part of the Opposition is unique.  But if it were unique, if the attitude taken in this particular dispute had been unique, is there not something else unique in the situation?  I suggest that the action of the Government towards their predecessors comes very near to being unique.  Perhaps it is unique.  It is really hardly realised what an extraordinarily striking thing it is to say that the late Government&mdash;a set of men holding the highest position in this country for ten years, a Government who had been returned by the people at a number of general elections; at two general elections in 1927 after the subject matter of these financial agreements had been made well known to the electors&mdash;were swindlers; because that is what it comes to.  It is an extraordinary thing to say that they were traitors to their country and were in league with Great Britain to put over that gigantic fraud on the people of this country.  It appears to me to be the sort of thing which the country cannot do and retain the place we should have in the comity of nations, that is to say that agreements entered into by such Governments were invalid and not binding on us.  I submit to the House that that comes nearer to being a unique feature of the situation than the attitude of the Opposition in criticising the actions of the Government.</P>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Towards the close of the Minister's statement I understood him to say, in effect, that the Government, recognising that there is need for doing what is proposed in this motion, are offering £25,000, representing <Col N="1438" /> 50 per cent. of the total cost. I understood the Minister to say that he is prepared to advise the Minister for Finance to increase that sum, if necessary, to 50 per cent.  In fact his general tone indicated that he was inclined to be liberal in dealing with this matter.  He said he was not confining himself to the percentage of the costs but that he would ask his Government to go as far as possible if he could be assured that the thing would not be abused.  I agree with the Minister that no matter what it is that is attempted to be done in a public way, there will be some abuse. If the margin of percentage of abuse were not so big as to make it a real national abuse, we understood that the attitude of the Minister would be that he was prepared to be generous in dealing with this matter.  Having gone so far is there any reason why the Minister should not consider the financing of the scheme as proposed in this motion?  If a workable scheme is put up as far as can be reasonably expected it will be proof against very great abuses.  There are many ways in which it can be done.  A farmer who got a large quantity of seeds or manures last year or the year before would probably have the old invoices, or else copies of these invoices could be got from the merchants.  There are various ways through Government statistics in which it could be checked. If <i>prima facie</i> a particular case did not seem correct, then there are the agricultural statistics to check it.</P>
+    </Speaker>
+    <P>The Minister might consider for what class of lands and for what kind of crops he would finance the provision of manures.  He might say: &ldquo;We will give artificial manures for tillage crops,&rdquo; or he might advance upon that and say: &ldquo;We will give it for meadows and pastures.&rdquo;  The motion does not ask, and I do not think anybody in this House would be so foolish as to put down a motion that the Government would give out seeds and manures <i>ad lib.</i>  There must be some formula to work.  I was glad to observe the gestures the Minister has made.  It struck me that he recognises that there is need for help in this direction.  The great trouble is <Col N="1439" /> not the money nor the percentage of help that the Minister for Agriculture is prepared to ask his Government to give.  These are not the obstacles in the way.  If I can see into the Minister's mind, it struck me that perhaps he would go the whole way if this scheme is not going to be abused.  If the Minister comes down to that position I can specifically promise that he will get the collaboration and support of this Party here in helping him to suggest and formulate a workable scheme.  I am sure that every Party in the House would equally collaborate to make this a workable scheme.  If he is coming to that I welcome it.  This resolution does not ask for any more than that. I wonder would the Minister accept my view or my interpretation of what he had in mind?  If so, I would much rather not criticise what he has said round about the subject-matter of the discussion, because I hope we may come to some basis of agreement in a matter that is so useful to the country. The essence of the whole thing is the urgency and speed with which it can be put over.  For that reason it would be better for us not to go on to any criticism of what the Minister has said.  He does not expect that we will believe it all, or that we can believe it all.  If he is prepared to take up the position here and now and say, &ldquo;I will ask the Government, within reason, to supply seeds and manures to the farmers,&rdquo; then we can work out a formula by which that will not be abused.  The Minister can hold, if he likes, that his Government is not responsible for that position.  We can hold with him or against him, but will he say now whether, holding our own views about the matter, we cannot co-operate to get the job done?  If he were prepared to do that, I should have very little more to say on the matter.  I shall say nothing further for or against the motion if the Minister says that if a workable scheme is put up, he is prepared to ask his Government to provide money for seeds and manures for the farmers. They want them; the cost does not matter.  If they want seeds and <Col N="1440" /> manures, is the Minister prepared to provide the money for them?  I should like to have an answer from the Minister to that question before I proceed to answer and contradict statements he has made.  That course will not serve any useful purpose if we can get progress on the lines I suggest.</P>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I said before that if a workable scheme is put up to me at a cost even greater than I suggested, I should be prepared to use all my influence with the Government to get it put through.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>The whole of the cost?</P>
+    </Speaker>
+    <Speaker pid="RichardCurran" hpid="Mr. Curran Mr. Curran">
+      <NameTxt>Mr. Curran</NameTxt>
+      <P>By way of loan or gift?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>That depends on whether it is workable or not.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I do not want to press you to give an unequivocal answer, but are you prepared to advise your Government sympathetically to consider a proposal to bear the whole of the cost if a workable scheme can be put up?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes, but I cannot see that that can be done.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Do not spoil a good promise.  I do not want to commit you to this.  Let the onus be upon the rest of the House as well as upon you.  You have the machinery of Government behind you; we have not.  You will, I take it, lend the machinery of Government to the rest of the Parties that want to co-operate and you are prepared, I assume, to advise your Executive Council to put pressure upon the Minister for Finance to finance the whole of the scheme.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>If it is workable, yes.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Do not spoil a generous gesture.  We are all sensible men, I hope.  If we cannot get a workable scheme, we are not going to try to tie <Col N="1441" /> you to your promise because we cannot expect any responsible Minister to promise to finance a scheme that is unworkable.  With all respect, the Minister who would make a promise like that would not be fit for his job. I take it that you are satisfied to advise the financing of the whole of the scheme, provided there is reciprocity on the part of all Parties.  I can talk for two or three hours in refuting a lot of what the Minister said, but I do not want to say another word if the Minister is prepared to make that promise.  We will have achieved something.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Do not spoil your speech.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>The Minister has already made a statement as to what he is prepared to do and Deputy Belton understands how far he is prepared to go.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I cannot allow this cross-examination to go on. Deputy Belton must proceed to make his speech in the ordinary way. If the Deputy is not satisfied with that, he will have to forego his right to speak.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I do not want to keep Deputy Belton from making a speech.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>On my interpretation, the Minister has for all practical purposes accepted the responsibility of advising his Government to finance a scheme as set out in this motion and I do not want, therefore, to keep the House very long.  However, I desire to touch upon a few points mentioned by the Minister both to-day and last day.  I do not agree with the spoonfeeding of farmers.  I believe agriculture, like every other industry, must be built on sound, economic lines.  It is the duty of the Government to formulate such an economic policy as will make agriculture stand on its own legs.  In the special circumstances I support this motion, though I would not shout a lot about giving anything to anybody for nothing.  The giving of something for nothing more or less spoils the character <Col N="1442" /> of a people, and if we have not character in the people, especially in the majority of the people employed in this industry, it may have very serious after-effects not only on this industry but on the country as a whole.  The Minister told us on the last day and repeated to-day that agriculture was not in such a serious position as to warrant the attention it is getting and that, if it has suffered loss, the help the Government gave it compensated for that loss.  He pointed out how the price of butter had been maintained by his Government.  He asked us to do a simple sum in arithmetic. We all know, I hope, a little about arithmetic, but it was very difficult to follow the Minister's arithmetic. He has found a market for butter and he has shipped some butter quite recently.  He is probably in process of shipping some now.  I think I am right in stating that he is shipping cold-stored butter at a maximum price of 74/- per cwt., and big blocks at 70/- per cwt.  The British Government is taking 40 per cent. off that. That leaves about 42/- or 43/- per cwt. Take 4/6 a cwt. off that for cold storage and you have about 37/- or 38/- per cwt. net cash for butter that was bought before and up to 1st August of last year and put into cold storage at a cost to this State of 135/- a cwt.  There is also interest on the money to be considered.  It would be very easy for any farmer in any condition of depression in this or any other country to carry on if he were guaranteed a price 250 per cent. above the price in the market.  That is really what it comes to.  That is all right for dairy farmers so long as it lasts, or can last.  But I am quite sure that neither the Minister nor any other sensible man can contemplate continuing on those lines.  We cannot keep up the artificial price of butter, unfortunately.</P>
+    </Speaker>
+    <P>The Minister told us that we get 117/- for our butter.  Of course we do. Why?  Because the Minister controls it.  No box of butter will be let out at less than 117/-.  If we get potatoes selling at £3 per ton to-day, and if we got £7 or £8 per ton what a difference <Col N="1443" /> it would make.  I had 64 acres of potatoes last year.  If I got £250 above the market price see what it would have meant to me.  But if you take out one single product and subsidise it, you are levying a tax on other products to build up the price of that.  Supposing you go round all of them one after another in sequence, and say &ldquo;Now we will tax the people to raise the price of A product, B product,&rdquo; and so on, by the time you have gone round the whole gamut you are just where you started.  You have increased the price and taxed all the other commodities equally, and the tax taken from the price you will get brings you back where you started&mdash;to bedrock.  The Minister went into some arithmetic. He said that cattle in 1931 and 1932 were selling at £18 apiece in the English market.  He went into some figures that I could not follow, and told us that all we were losing was 18/- per head on the cattle.  If 18/- per head on cattle represents 40 per cent of the price, then 100 per cent. of the price will be about £2 or £2 5s. per head.</P>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Do you not get back 12½ per cent?</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>The Minister told us on the last day that the Border had to be protected in order to keep people from driving stock from the Six Counties into the fairs adjacent to the Border on the Saorstát side.  The Minister knows that the theory of foreign trade is based on this: that there must be a surplus of certain products in a certain area, and there must be a want for them in another area, which will in the natural course of events cause these products to be removed from where there is a surplus to where there is a scarcity or what might bring about that situation is that some products can, for some local or other reasons, be produced more cheaply in one area or among one community than another, and they will move there.  Consequently, no export between the Free State and England, with or without tariffs, can be promoted unless there is a demand for these products in England <Col N="1444" /> greater than there is in the Free State. If the demand in the Free State is greater, then instead of those products leaving for Great Britain similar products will move from Great Britain here.  The Minister need not attempt to tell any man with the elements of common sense that agricultural produce is going to find its way to England and pay 40 per cent. at the port of landing if the price here, without the deduction of the 40 per cent. is greater than it is in England.  The thing is absurd on the face of it, and it would only spoil the point to labour it.</P>
+    </Speaker>
+    <P>The Minister told us that last year, when his Government came into power, they gave an increased agricultural grant of £250,000.  If the Minister will throw his mind back he will find that the £750,000 for relief of agricultural rates in 1931-32 came as the result of a long campaign carried on by a few agricultural organisations in the country worked more or less through the County Councils and the General Council of County Councils. Their demand forced the Government to set up the Derating Commission at which evidence was taken.  The Cosgrave Ministry acceded to the demand to a certain extent by giving £750,000 for the relief of rates in 1931-32.  The present Government Party had nothing to do with that agitation&mdash;never helped in any shape or form and were not responsible for a penny increase in the agricultural grant.  When the matter was introduced by the previous Minister for Finance he decided that that year he would relieve agricultural rates to the extent of £750,000.  He imposed new taxation to do it.  If the Minister wants a little sum in arithmetic, if he looks up the statistics on which the Minister for Finance in 1931 based his estimate&mdash;statistics of the consumption of these commodities in the Free State the year before&mdash;he will find that the product of these taxes would come not to £750,000, but to about £1,120,000.  The Minister for Finance was asked why agriculture did not get the full benefit, and he replied that the grant would have to run for twelve months, but the taxes would be only producing for nine months or thereabouts and he could not budget <Col N="1445" /> for an expenditure of more than £750,000, although he recognised that the taxes running for twelve months would produce over £1,000,000.  The £750,000 was given, but these taxes were in continuous operation when the present Government came into office. What did they do?  They simply gave the full produce of the taxes that had been imposed by the previous Government, and which only gave the previous Government £750,000 because of the short time they were in force. These taxes gave the Fianna Fáil Government the produce of twelve months working, which is over £1,000,000.  The Fianna Fáil Government gave a quarter of a million pounds, which was there in the making for them when they came in and which they had not to budget for, and handed that over for the relief of rates.  The Minister said that that was coming off this year.  That is not what is coming off, but £250,000 of the £750,000 that was given and £200,000 of the double agricultural grant given in 1924-5. These are what are coming off.  The Minister, in dealing with a practical matter of this kind, should not forget that he is not on a political platform, and when he is put in a corner he should not say &ldquo;We won the election. That is our complete answer.&rdquo;  The Minister did not go to his constituents, nor did any of his colleagues go to their constituents, at the last election, and say: &ldquo;Return us and this economic war with England will continue indefinitely.  We will take no steps to have it ended, and in the next Budget we will reduce the agricultural grant by £450,000.&rdquo;  Did they say that, and ask the people to vote for them?  I think if they did there are many of them who would be at home now trying to get in their spring crops instead of being here. They simply say: &ldquo;Because we won, we are to be above criticism.&rdquo;  But they only got a bare 50 per cent. of the electors&mdash;&mdash;</P>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>You came to the city.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I could go to the city and county and get my place there.</P>
+    </Speaker>
+    <Col N="1446" />
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Why did you not get it before?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Let Deputy Belton make his speech.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>And in my father's county too, with the tradition of my father behind me, and it would not be against me.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>And what happened you?</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>He stood by this country when the fathers of others were spying on this country.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Is Deputy Belton making any insinuation?</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Deputy Belton is making his speech.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>If he is making any insinuation it is an untruth and he knows it.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Deputy Corry has been interrupting, and I asked him to cease interrupting.  He will have to do so now.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Deputy Hugo Flinn, the Parliamentary Secretary to the Minister for Finance, whom I do not think anybody&mdash;not even himself&mdash;will say is an authority on agriculture, took up the time of this House one day for nearly an hour and on another day a little over an hour, and his contribution was most peculiar.  He told us that the country put back his Government &ldquo;to go on doing what it did before, to wage an economic war, to keep a nation's ransom at home.&rdquo; That ransom has been going out for ten years, and for five of those years the Government which is now so anxious about the nation's ransom let everything go by default.  They blame the Opposition Party.  The Minister, when he was speaking, blamed the Opposition Party for obstruction.  Deputy Flinn blamed the Opposition Party for <Col N="1447" /> giving heart and hope to Jimmy Thomas, as he put it, to keep up the pressure.  The Cumann na nGaedheal Party was said to be playing England's game.  Why?  Simply because they were opposing the continuance of the economic war, and they blamed&mdash;and blamed rightly&mdash; the Government opposite for having started the economic war, because the Government opposite repudiated the contract entered into by their predecessors. When their predecessors were making that contract those men over there were out in arms against the Government, who were trying to do their best to make a settlement with England while one-third of the representatives of this country were in armed opposition against them.  How could any Government, in those circumstances, make a good settlement?</P>
+    </Speaker>
+    <P>It is within the knowledge of the Minister that special representations were made to his Party, before the Ultimate Financial Settlement was ratified in 1927, to come into this House and oppose its ratification, but they did not come in.  They let it be ratified. If they had come in at that time they would be quite within their rights in repudiating the settlement, because it was the first time it came before the House in any shape or form.  Instead, they let it be honoured in this House, and then they start repudiation.  We do not stand for giving the nation's ransom to England.  We stand for a revision of the Ultimate Financial Settlement, because of the best of all causes&mdash;because of causes which the Minister is trying to make political capital out of, instead of giving them in their true economic setting.  He said in effect that if agriculture is in a bad way now and was in a bad way last year they must have taken over a bankrupt concern. The Minister knows very well that agriculture the world over has been drifting steadily to bankruptcy in the last ten years.  If he does not know that, I am afraid he will make a bad doctor for the present agricultural situation.  I will give him for his information the trend of wholesale agricultural prices from 1924 onwards. <Col N="1448" /> Taking a base figure of 100, the index figure for wholesale agricultural prices in the first quarter of 1924 was 99.9; in the second quarter 98.5; and so on down the quarters to the first quarter of 1931 when it was 64.0.  From the first quarter of 1924 to the first quarter of 1931 there was a drop of 35 per cent. in wholesale agricultural prices.  How could any business in which the prices dropped to that extent, through world conditions during that time, be in any other than a bankrupt or semi-bankrupt condition?  In 1931 the drop was continued.  In 1932 I can say to the Minister that the world trend in prices did not alter very much, but if anything it declined still more.  He has accepted the position that agriculture was in a bankrupt state when they took it over and he must accept the position that it was depressed the world over; yet when agriculture was in such a depressed condition and he acknowledged it that was the time they set out to start an economic war with England. It showed that they had no sense of responsibility, and cared nothing for the sufferings that would follow in their trail.  Side by side with starting and carrying on this economic war he tries to sugar the pill by saying&mdash;and so did Deputy Flinn say&mdash;&ldquo;we stand for the development of this country as an independent economic unit.&rdquo;  They have now the result of what they stood for in the last twelve months.</P>
+    <P>The Minister said that the Cumann na nGaedheal Government was a free trade Government.  He knows well that that is not true.  He knows well that the Cumann na nGaedheal Government had started definitely on the road to protection, carrying out the economic policy of Arthur Griffith, the first President of the Free State.  Cumann na nGaedheal had started that before the present Government Party came into this House or would acknowledge the authority of this House, yet that Party wants to tell this Dáil&mdash;and, through this Dáil the people of the country&mdash;that the previous Government was a Free Trade Government, and that theirs is the only protectionist Government.  The Minister knows quite well that it is impossible to carry on a protectionist policy for <Col N="1449" /> secondary industries when the primary industry is in an undeveloped state.</P>
+    <P>When the primary industry is in a bankrupt state, he will not find any economist anywhere who will back that opinion, he will not do it himself&mdash;he cannot when he reasons for a moment &mdash;because the market for our manufactured goods must be and only is our agriculture, and our agriculture is in a bankrupt state, as the Minister has admitted, but not in that sense.  He admitted it and tried to make capital out of it when he thought he could blame his political opponents for handing over the reins of Government to himself and his colleagues with the country in a bankrupt state and then he started out to make it more bankrupt.  He started out on a vigorous protection policy&mdash;a very useful policy.  There is no policy which I would like better to see any Government proceeding with in this country than a vigorous protection policy and there is no policy I would like to support more than a vigorous protection policy.  But, as a supporter of protection and a whole-hog supporter, I am against experimenting on a policy which is only good when it is tried under favourable conditions and a policy which is good is foredoomed to failure when tried under adverse conditions.  An economic policy was tried under the worst possible conditions here last year.  It was dishonestly tried because it was not tried for success; it was tried as a smoke-screen to cover up another round with England.  We have had twelve months of the other round with England and there is not a farmer in Ireland to-day who would not admit that this cannot continue.  He knows that the industry is going down; in fact has gone down, and he knows that it cannot be carried on with prices and wages as they are at present.  Still we are told that we must carry on; we are told that the people here, and the people outside, who oppose this mad, insane, economic policy, are playing England's game.  You are the people who are playing England's game, and you have played England's game when you split the country and the Irish race during the last ten years and you are <Col N="1450" /> now running us on the rocks economically. Any man who is a bankrupt is of no use to the community and likewise any nation which is bankrupt among the nations is only an enemy to itself, not to its neighbours.  If you drive this country on the rocks of bankruptcy you are not injuring England but ruining Ireland and playing England's game.  The policy of the conqueror has always been divide and conquer.  You are the people who divided the Irish race and enabled England to get her way with this good, financial settlement.</P>
+    <P>Our Minister here told us he would come to the relief of the farmers by making it possible to increase tillage. Deputy Hugo Flinn said that the last Government, meaning Cumann na nGaedheal, wanted this country to produce only one single product, i.e. cattle, and sell them in one single market, and that the owner of that market could at any time change the prices.  Whatever the object of the previous Government was, economically the result amounted to that, but, the Minister for Agriculture knows this comparison better than I do that a patient must get the diet which he is capable of assimilating and digesting at the time.  To rush a vigorous protectionist policy when this country was not able to assimilate it was going to bring that policy to disaster.</P>
+    <P>The Minister brought out his wheat scheme, subsidised too,&mdash;everything is to be subsidised.  I do not know who is going to pay for it, somebody must, but we are to live on subsidies and bounties.  The Minister did not think or consider when he was starting his increased tillage where it would lead to, because if he did he could not as a sane man have committed himself to it.  He knows if a farmer is to put one extra acre under wheat this takes from grazing potentially six acres.  He knows that in rotation six acres of land must be broken up within six years.  He knows even if the wheat that is grown is good millable wheat for bakers' bread, that 80 per cent. of it at least will be live stock food, not human food, and he knows that 80 per cent. of the live stock food which will be produced in that tillage rotation will be greater than the amount of food <Col N="1451" /> produced by the same grass under land.  In other words, to start increased tillage, he was starting to increase live stock food in the country, and at the same time, he cut away the market for that live stock.  He wants us to accept his arithmetic which works out that the only difference between the price of live stock here and in England after 40 per cent. has been taken off our live stock and when we send it over is 18/-.  Well even 18/-, why lose it?  If we get 18/- more here than in England why not sell here and get the extra 18/-?  The Minister's figures will not stand any test and every article in the world like water will find its level.  The article able to pay for transport to the dear market will go to the dear market.  If for a bullock the price in the Dublin market is within 18/- of prices at Birkenhead or Glasgow, why should we send our cattle over there and pay 40 per cent. on them?  The proposal would not hold water.  It is worse than that.  It is not 80 per cent. of the produce of the Minister's subsidised wheat will be available for cattle food but 100 per cent.  If the Minister had only considered agricultural conditions in other countries, and wheat development in Canada, the Argentine, Russia or California he would have known that with the exception of Russia, which has been growing wheat since the dawn of history, wheat was a failure in all these countries when they started to grow it, because they had not the breed that suited them.  They set out to breed suitable seed.  The Minister knows that if he consulted the Dean of the Faculty of Agriculture in University College, Professor Drew, he would learn that we have no strain of wheat here suitable for producing ordinary baker's flour and at the same time be profitable to farmers.  The Minister's wheat scheme does not make for producing quality but makes for producing quantity.  The quantity will be for animal food but not for human food. That is the scheme that has been subsidised and bounty-fed in order to wipe the eye of the country; that the Fianna Fáil Government are going to speed the plough.</P>
+    <P>
+      <Col N="1452" /> Instead of being saved by the Parliamentary Secretary to the Minister for Finance, and by the present Minister&mdash;even granting the claim that the Minister made that agricultural produce to the value of £3,000,000 has been kept out of this country annually since the present Government came into office&mdash;there has been a ransom.  That sum would only reduce the other adverse balance of trade, namely, the export agricultural trade, by £3,000,000.  There will be still a difference of £13,000,000.  It cannot be argued that that £13,000,000 of agricultural produce, which is thrown back on the market here, does not depress prices to an equivalent of its export value.  The question is unarguable.  It is a well-established economic fact.  Who loses the exportable value?  Who, but the people who produce?  The British tariffs from the produce that is exported confiscate £5,000,000.  That brings the total up to £18,000,000, which is more than three and a half times the ransom that the people, who are alleged to have sold the country prior to the advent of the present Government, were extracting from the people.  In the last twelve months the ransom of £5,000,000 has been increased by the present Government to £18,000,000. No wonder Deputy Hugo Flinn is absent from the House when all his wild statements are under review, and when he would have to stand by them.</P>
+    <P>In conclusion, while the Minister may have his own views on the causes that led to the present situation, and, while we may have ours, we have nearly come to a common basis as to the methods necessary to relieve the position.  At all events we can hold our own views as to the causes that produced it.  I am quite sure that the Deputies on this side will be very glad to assist in formulating a scheme that would make seeds and manures available this spring for this year's crops.  The matter should be considered not so much in the interests of farmers as a class, but in the interests of the productivity of the nation as a whole.  If good seeds are not put in and if sufficient fertilisers are not used <Col N="1453" /> it will not be possible to have productivity. The Minister is probably aware that there is a shortage of farmyard manure this year, and that there is a terrible shrinkage in the volume of artificial manure being used.  In order to keep up the yield, and to keep up the fertility of arable land, it would be well to use the money for that manure.  I agree with the Minister that public money should not be wasted.  However, if he approaches the matter in this way, I can promise him that every county council will administer that money as carefully as if it was raised from the rates. Normally and on principle I agree with the Minister that there should be a contribution from each county council, so that they would have a financial interest in, and would be responsible for seeing that value was got for it. The councils should be made to realise that they are not getting something for nothing; that they will have to pay something.  While I agree with the Minister's outlook there, the only reason I would press the motion is that farmers are not really able to pay for manures or seeds this year.  That is due to the depression and to the conditions that exist, regardless of who is responsible or what caused them.  That is the only reason I would agree to give something for nothing.  I can only reiterate my promise, and I can make it on behalf of County Dublin County Council, that the money for manures and seeds if given free of charge will be as carefully administered as if the County Council bought them out of the rates.</P>
+    <Speaker pid="JamesPatrickKelly" hpid="Mr. Kelly (Meath) Mr. Kelly (Meath)">
+      <NameTxt>Mr. Kelly (Meath)</NameTxt>
+      <P>The first part of the motion seeks to shift the responsibility for the creation of the present economic position from the shoulders of the Cumann na nGaedheal Party to the present Government.  If the motion was accepted as it stands, and if it went on the records of the House, posterity would be told that Cumann na nGaedheal were free from all responsibility, and that they had not hand, act or part in putting farmers in the position in which this Government found them when they took over office.  This Government found the <Col N="1454" /> farmers impoverished from debts that had accumulated during the term of office of the Cumann na nGaedheal Government.  They were unable to pay any portion of the interest, not to mention the principal, on those debts until they became what is known as frozen debts.  We had the farmers in arrears with their annuities, and who could not set their land, even on the 11 months system, because of the fact that stock could be seized, even though that stock belonged to another person. It is too soon to forget that the system, which was put into operation and practised by the Cumann na nGaedheal Party, placed over 80,000 people on the unemployed market.  That position was brought about by the inactivity of the Cumann na nGaedheal Party in devising or bringing about schemes that would be beneficial to the farmers. The resources of this country were drained year after year by the payments made to England and by the enormous amount of money sent out of this country annually to import foreign goods and foreign foodstuffs which the farmers here at home should have had an opportunity of producing.  We heard of no free seed schemes then during the regime of the Cumann na nGaedheal Party.  Nor did we hear any cries about the impoverishment of the farmers of this country.  We know that some farmers are in need of capital.  We do not deny the fact; but we cannot accept responsibility for the position.</P>
+    </Speaker>
+    <P>A circular, issued by the Department of Agriculture, came before the County Council of Meath on Monday last, asking that a seed scheme similar to last year's would be put into operation. Last year the County Council of Meath put into operation a seed scheme whereby seeds were loaned to the farmers, and that was eagerly sought after.  On Monday last it was suggested that the need did not exist this year for instituting such a scheme.  I may tell the House at the outset that the Meath County Council has only four Fianna Fáil representatives on it, so that it cannot be suggested that it was a Fianna Fáil county council that made the proposal that the seed <Col N="1455" /> scheme was not required.  After twelve months of Fianna Fáil Government you have the Meath County Council proclaiming that a free seed scheme is not required this year.  I should like to know what construction the proposer of the resolution can put upon that motion of the Meath County Council.</P>
+    <P>Supposing you institute a free seed scheme, there are certain farmers who were impoverished, and who are impoverished probably, who have not the means, who have not the agricultural machinery, to utilise the full resources of their farms even though they were given free seeds.  They have no horses nor have they the money to buy those horses.  There is another class of farmer who may be impoverished.  I refer to the big grazier.  That gentleman would not recognise an unboiled potato if you were to give it to him. He never tilled his land and free seed would be useless to him.  Deputy Belton asked who was going to pay for the bounties and subsidies that were given to the farmers.  Might I ask him another question?  Who is going to pay for the free seed scheme which he so ably advocated here to-day? I do not know where Deputy Belton would suggest that the money was to come from for a free seed scheme when he objects to the payment of bounties and subsidies to the farmers.  We are told also that £12,000,000 has been lost to this country by the economic war this year.  But we must remember that, even if we had £12,000,000 circulating in this country, or if we had £100,000,000 circulating in this country annually, and that it was merely going into the pockets of the few, it would be useless to this country. What we require is that whatever money is in circulation will go into the pockets of as many people as possible.  Of what use was it to have our cattle trade in operation as it existed&mdash;sending stores across to Scotland to allow the Scottish farmer to reap the full benefit?  Of what use was it to the working man who was employed, or of what use was it to the small farmers who might be looking <Col N="1456" /> forward to selling some of their produce upon the large farms where the cattle trade was usually carried on?</P>
+    <P>This motion also seeks to shift the economic war, or the result of the economic war, from the grass lands to the agricultural lands.  We were told here last year that the cattle trade was being killed, and we were told that the farmers were being impoverished because that cattle trade was killed.  This motion tells us that, if we give a free seed scheme, everything will be well with the agricultural community.  I suppose it was the result of the last election, and perhaps it was the result of the Meath election that changed the policy of the Cumann na nGaedheal Party to switch on now from the grass lands to the agricultural community.  I wonder would the proposer of the resolution explain why it is that in the Belfast market, where the people of the Six Counties have all the advantages to be gained from free access to the English market, oats can be obtained at 5/6 per cwt., butter at 9d. per lb., and potatoes at 1/3 per cwt&mdash;on the Belfast market as reported in the Belfast market reports this week?</P>
+    <P>Those people are now in the same position, in regard to their markets, as we would be if we were under a Cumann na nGaedheal Government. At the present time we would be receiving 5/6 for our oats, 1/3 per cwt. for our potatoes, and 9d. for our butter.  If that is what all the noise is about, all the noise to which we have listened here for the last couple of days, I think Deputies will agree with me that it is not the economic war that has caused the depression in the agricultural industry but rather general world conditions.  In the Argentine the people there are slaughtering their young cattle because they cannot get an economic price for the finished product on the English market.  When our Government changed over to a mixed system of farming we heard cries from the Cumann na nGaedheal Party.  I think some figures should have been produced, that is if there was any sincerity behind this motion.  There is <Col N="1457" /> nothing easier than to say that a number of farmers of the country are impoverished, but we are not told how many.  I can tell the proposer of the motion about one farmer whom I know.  He bought two cattle the year before last and sold them before the economic war started.  He had an £8 profit return.  When the economic war was in existence he bought two cattle and sold them on Monday week last.  He had on these two £12 profit return.  I could quote other cases like that against the general statements made as to the impoverishment of the farmers.</P>
+    <P>I do not claim, any more than Deputy Belton does, to represent the dairy farmers of the country, but I do not object, like the Deputy, to their getting assistance.  I take it that from 70 to 75 per cent. of the farming community are engaged in the dairying business, and if they should get assistance I do not see why people who have no interest in dairy farming should object.  If the gesture that Deputy Belton made as a basis for agreement on this subject was genuine, I think that the mover of the motion might withdraw it because we could not be expected to accept it in its present form.  We know that the loss to the farming community, because of the economic war, is merely the difference between the bounties paid and the amount collected by England in tariffs. A calculation of the difference between these two figures will give one an estimate of what the real loss has been to the farming community.</P>
+    <P>It is easy for Deputies to gain cheap popularity by the introduction of motions like this which may not have sincerity behind them.  It may be, of course, that the Cumann na nGaedheal Party have been asleep during the ten years they were in office.  I really believe they were and they have come back now to find themselves out of touch with the world, at least out of touch with the farming community.</P>
+    <Speaker pid="ThomasHales" hpid="Mr. Hales Mr. Hales">
+      <NameTxt>Mr. Hales</NameTxt>
+      <P>I have just been thinking if there is any reality behind this motion at all or what evil genius drafted it&mdash;it is vindictive on one <Col N="1458" /> side.  My advice to the Minister for Agriculture is to do everything in his power to develop the resources of this nation to the full.  That is the real issue before us and it is on that posterity will judge us.  It is really what counts and what the Minister should concern himself with.  Deputies on the other side, if they are true Irishmen, should support the Minister in that policy.  If not, then in God's name they should leave the House. The fact, I think, must be admitted that there is a terrible misunderstanding on the real issue at stake. The Minister for Agriculture and everyone on this side should realise that St. George's Channel and all its pomp and glory is closed to this House. We had Deputy MacDermot speaking about the Boer War and about England and her fully fledged empire. Her cup was not full enough without going out to South Africa to look for more loot.  Ireland is now in a great fight, and she is going to win.</P>
+    </Speaker>
+    <P>It was a pity, I think, that the Cumann na nGaedheal Government was not in office for another twelve months.  I say that because never at any time in the world's history had a Government to take over at a more in opportune time than the present Government.  The whole economic structure of the world was beginning to fall to pieces and they were up against that.  That, of course, is never considered in the speeches of the Opposition.  Deputy Belton spoke for a long time on this motion.  I do not think that I have ever listened to such a long drawn-out rigmarole of confused ideas.  I used to think that he was a man of intelligence from his writings in the papers years ago, but now I discover that he is an empty shell.  The Irish people should be made aware of such speeches and what is behind them.  It must be realised once and for all that Fianna Fáil are a Republican Government, and that they are going to carry this fight through to the end and are going to win; that they are not going to let an acre of land of the country go idle, but will see that it is utilised to produce food for the people.  Everything depends on a food supply being available <Col N="1459" /> within the country during the next two years.  If we take steps to ensure that, then Ireland is going to win.</P>
+    <P>
+      <Col N="1460" /> Debate adjourned.</P>
+    <P>The Dáil adjourned at 2 p.m. to Wednesday, 29th March, 1933, at 3 p.m.</P>
+  </MainHeading>
+</Debate>

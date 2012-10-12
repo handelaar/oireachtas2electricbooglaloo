@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="31" Month="Oct" Year="1952" Vol="134" No="6" DateIrish="Dé hAoine, 31 Deireadh Fómhair 1952" DateEnglish="Friday, 31 October 1952" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="811" /> Do chuaigh an Ceann Comhairle i geeannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is proposed to take the business in the following order: Nos. 2 and 13.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Private Deputies' Business?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>At 12 o'clock.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>And at 12 o'clock No. 1 of the motions?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>As far as the Government is concerned, it is proposed to take the business in the order stipulated, not in any order the Deputy wishes.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is a Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>In view of the statement of the Minister for Local Government the other night that he wishes to have consultation with the Cabinet in connection with the Bill standing in my name&mdash;I presume that he has not yet had time to get the Government's opinion on this matter&mdash;I would prefer to postpone discussion on the Bill until such discussion has been arrived at.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Minister for Local Government (Mr. Smith) Patrick Smith">
+      <NameTxt>Minister for Local Government (Mr. Smith)</NameTxt>
+      <P>If it were up to me it could go on to-day.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The next item will be taken.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Breanndán Mac Fheórais Breanndán Mac Fheórais">
+      <NameTxt>Breanndán Mac Fheórais</NameTxt>
+      <P>What is that?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It is a Bill.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>There will not be any long discussion on that.</P>
+    </Speaker>
+    <Col N="812" />
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I think it likely that Motion No. 1 of Private Deputies' Business will be reached.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Could the Tánaiste tell us when No. 19 will be circulated and taken?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I could not say yet. I should hope that it will be available in two or three weeks.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Breanndán Mac Fheórais Breanndán Mac Fheórais">
+      <NameTxt>Breanndán Mac Fheórais</NameTxt>
+      <P>Could the Tánaiste indicate whether the Agricultural Workers (Weekly Half-Holidays) Bill will be taken next week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I do not think that it will be taken next week but I have promised the Deputy our co-operation in getting it passed this session.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Breanndán Mac Fheórais Breanndán Mac Fheórais">
+      <NameTxt>Breanndán Mac Fheórais</NameTxt>
+      <P>Before Christmas?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Before Christmas.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Ministerial and Parliamentary Offices" RHead="(Amendment) Bill, 1952&mdash;First Stage">
+    <Title>Ministerial and Parliamentary Offices (Amendment) Bill, 1952&mdash;First Stage.</Title>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Finance (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Finance (Mr. MacEntee)</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That leave be granted to introduce a Bill entitled an Act to amend the Ministerial and Parliamentary Offices Acts, 1938 to 1949.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>Will the Minister tell us what it is about?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It is to clear up certain doubts regarding service during the period 1918 to 1921 and to place the widows of some late members of Dáil Éireann who served during that period in the same position as the widow of the late Minister for Local Government.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Next stage?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>This day fortnight.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Restrictive Trade Practices" RHead="Bill, 1952&mdash;Second Stage">
+    <Title>Restrictive Trade Practices Bill, 1952&mdash;Second Stage.</Title>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>I move that the Bill be now read a Second Time. In submitting this motion to the Dáil the first point I have to establish is <Col N="813" /> that legislation to deal with restrictive trade practices is needed.  I should be surprised if that need has not long ago been recognised by most Deputies here, but since the Bill was circulated I have had representations from important and responsible trade associations which have contended otherwise.  I met the delegation from the Associated Chambers of Commerce, which urged that the Bill is unnecessary and should be withdrawn, and Deputies have, I think, received a circular from that body in which it is contended that no evidence has been produced that the proposed legislation is necessary.  I do not think I will have much difficulty in proving that legislation is necessary.</P>
+      <P>For the past few years there has been a growing uneasiness among the public because of the development and extension of restrictive practices in the supply and distribution of goods. Many Deputies have been approached by constituents who have represented that they were adversely affected in their private interests by the application of these practices, and following on these representations they tabled questions here or raised the matter in the course of debate.  Over that period there has flowed into the Department of Industry and Commerce a still larger volume of complaint about the operation of restrictive practices in trade&mdash;a volume of complaint which has shown no sign of diminution in recent months.  The reply which had to be given by Ministers questioned here regarding these practices, the reply which also had to issue from the Department of Industry and Commerce to those who made representations to it, was that there exists at present no machinery by which these complaints and allegations could be investigated, and that even if investigation were practicable there was no means of taking any effective action about practices which were shown to be contrary to the public interests in any way.</P>
+    </Speaker>
+    <P>The purpose of this Bill is to provide administrative machinery for the investigation of these trade practices and to do something about them where they are found to be inimical to the public welfare.  When I use the term &ldquo;public welfare&rdquo; in that connection I mean <Col N="814" /> practices which are designed to eliminate or restrict competition in the supply or distribution of any class of goods or which operate to deprive an individual citizen of the opportunity of engaging in legitimate trade in a particular class of goods.  The practices complained of in this House and in representations to the Department of Industry and Commerce are numerous and varied.  I do not pretend that I know all about them or that all practices which might be considered objectionable have been the subject of complaint.  I have not been able to conduct investigations to the point of establishing clearly whether or not some of the practices complained of were objectionable.  I propose, however, to tell the Dáil the nature of the practices about which complaints have been received and to give some indication of the volume of complaint in each case.</P>
+    <P>The first practice to which I intend to refer, not because I necessarily regard it as the most serious but because it is the one which has produced to date the largest volume of complaint, is that of refusing supplies of goods on trade terms to persons who are not members of an association, who were denied membership of an association or who could not get the approval of an association to engage in business in these goods.  That restrictive practice, designed to confine trade in particular goods to members of an association or persons approved by an association, is alleged to exist in respect of many commodities.  It is said to operate in respect of most building materials, motor-cars and bicycles, newspapers and periodicals, paper bags and wrapping paper, electrical goods, and many other goods of perhaps lesser importance in commercial affairs.  Complaints in respect of that practice have come, as might be expected, generally from persons who desired to enter into trade in these goods and who were refused supplies because they were not accepted or approved by an association, or from retailers in these goods, who desired to enlarge the scope of their activities and engage in wholesale trade, who were denied supplies on wholesale terms for the same reasons.</P>
+    <P>The second type of allegation which <Col N="815" /> is made, and which has produced a substantial volume of complaint, relates to the operation of what are called &ldquo;exclusive dealing arrangements,&rdquo; that is to say, the supplying of goods to a trader on condition that he does not stock similar goods supplied by a competitor.  That situation admittedly exists in respect of petrol. Petrol was one of the commodities most frequently mentioned in the Dáil when restrictive trade practices were under discussion at a time when it was the practice of the petrol suppliers to install pumps only on the premises of garages which were approved of by the Motor Traders' Association.  Since then, petrol companies have changed their practice and are now operating upon the basis of exclusive dealing arrangements under which supplies are given to an individual garage proprietor on condition that only one brand of petrol is stocked by him.  Similar complaints have been received regarding exclusive dealing arrangements in respect of cutlery and other commercial goods. There are various modifications of that arrangement and it is possible that some of these may be regarded here as objectionable and others as unobjectionable. Some may be intended to be restrictive and to operate to confine trade to a limited number of traders: others may be regarded as legitimate devices designed to protect the quality of the goods supplied and the services given to customers.  I should, perhaps, mention in that connection, without offering a personal opinion about it, that one arrangement of that kind that might be queried under this Bill is that operated by a well-known firm of brewers which permits the application of a particular label to a bottle of its product only on condition that no other bottled stout is sold on the premises.</P>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>That is not confined to one firm.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>No.  I mention that not for the purpose of expressing a personal view upon the merits of that practice but as an indication of the many variations of the practice of exclusive dealing which are possible.</P>
+    </Speaker>
+    <P>
+      <Col N="816" /> There is also a volume of complaint concerning the unreasonable limitation of wholesale channels so as to give a virtual monopoly in the supply of some goods to a limited number of firms.  That limitation of wholesale channels can be and is sometimes secured without the intervention of any trade association.  I have referred earlier to the restrictive practices applied by trade associations but it will be clear that there does not have to be an association in order to bring a restrictive practice into operation. The allegation that there is an unreasonable limitation of wholesale channels, designed to keep trade in the hands of a limited number of firms, has been made in respect of hides, rubber, footwear, sheet glass, screws, nails and tacks.  Similar to that restriction, but operating in a somewhat different way, there is the practice of excluding new entrants from a trade either by overt action, point-blank refusal of supplies, or by imposing onerous conditions either as to dimensions of the trader's premises, the technical qualifications which he should possess or the staff that he should employ, or simply by the imposition of unreasonable conditions or qualifications for trade discounts.  That practice has been alleged to exist in the case of many of the goods I have already mentioned, to petrol, batteries, radios, pottery, cutlery and so forth.  These are the restrictive practices that have been most frequently complained of in representations to the Department or by Deputies in the Dáil.</P>
+    <P>There is, however, in addition, the very important matter of resale price maintenance arrangements.  That term is applied to agreements made between manufacturers or wholesale suppliers and retailers under which the supply of goods is made conditional on the retailer charging for these goods a prescribed minimum price.  As the House is aware from Press comments on the matter in recent times, it has been alleged that these resale price maintenance arrangements are not infrequently supported by boycotts or threats of boycotts of traders who depart from the minimum price condition imposed. The boycott, or threat of the boycott is sometimes extended not merely to <Col N="817" /> the supplies of goods in respect to which the trader is alleged to have charged less than the fixed price but also to all goods manufactured by the members of some association and normally required by the trader for the conduct of his business.  The operation of a resale price arrangement has been alleged to exist in relation to many classes of grocery goods, drapery goods, agricultural machinery, veterinary preparations, radios and distempers and, of course, as the House will remember from debates a long time back, to cigarettes and tobacco.</P>
+    <P>I should, perhaps, at this stage, make it clear that the complaints which have been made to me and expressed in this House are not solely directed against manufacturers of these goods here.  In some cases manufacturers are the victims of these restrictive practices. It has been stated that some manufacturers have been forced, against their will, to confine supplies on wholesale terms to the members of some wholesalers' association or to a limited number of firms and coerced or restrained from extending their distribution arrangements.  Nor are these complaints confined to protected industries. It is, as the House knows, sometimes alleged that exclusive dealing arrangements or other restrictive practices operate in relation to imported commodities.  It was alleged, for example, in the case of timber that agreements exist between members of a trade association here and suppliers of timber in other countries, under which these suppliers undertake not to give delivery to persons who are not members of that association.  There have also been complaints of similar agreements between importers and distributors.</P>
+    <P>On the other hand, there have been complaints of restrictive practices affecting our exporters who, it is stated, have been coerced or restrained by combinations between other exporters and external importers, practices designed to channel trade through the members of some external trade association.</P>
+    <P>In view of the volume of complaint which has reached the Department of Industry and Commerce, and which has <Col N="818" /> occasionally been expressed in the Dáil, I think that the need for legislation is obvious.  It is true that it is contended that the scale and operation of restrictive practices here is not very great or, at any rate, is not as great as in some other countries.  The important fact for us to note, however, is that it is growing and it is the growth of these restrictive practices which, I think, emphasises the need for investigating the position and the taking of means to control it before it goes too far.</P>
+    <P>The Associated Chambers of Commerce in their circular to Deputies expressed the view that conditions here do not justify the introduction of drastic legislation as is proposed.  I quarrel with the adjective in that phrase.  I would not describe the Bill before the House as &ldquo;drastic&rdquo; in any way and when I bear in mind the alternative forms which the Bill might have taken, forms that we had under consideration before reaching a final decision, then I repeat that the adjective used by the Associated Chambers of Commerce is completely unjustified.  I want to make it clear that the purpose of this Bill is to provide a means of investigation and a means of action, if investigation should show that action is needed.  I do not want to prejudge the outcome of the investigation in any case.  I want to smash trade rings and I use that term in the sense in which the average man understands it&mdash;a combination of traders designed to confine trade to themselves, to eliminate competition between themselves and to exploit that position to their own benefit and the public detriment.  I am asking the Dáil to forge an instrument to smash rings.</P>
+    <P>It is argued, and I could not dispute the strength of the argument, that trade associations need not necessarily operate in a manner inimical to the public welfare.  It is stated by some of these associations in justification of their existence and of the practices which they apply, that these practices are necessary to protect the public interest and that they operate to that end, that they are designed to maintain the standard of quality of the goods supplied and the standard of <Col N="819" /> service given to customers or to reduce distribution costs.  That may be so in some cases but I was struck by the number of trade associations which, when this Bill was published, rushed to draw on the cap and found that it fitted.  If the practices which they are operating can be shown by them to be beneficial to the public, then nobody will want to interfere with these practices. If, on the other hand, they have the characteristic of a ring, if they are intended to restrict competition or to create a situation in which the public can be exploited to the particular interest of a limited number of firms or individuals, then I think we should have means to end that.  Having regard to the volume of complaints that has been flowing in for some years past and to the degree of public uneasiness which exists about this matter, I think the time is overdue when something must be done, and I hope that the Dáil will examine the Bill with the idea only of securing that what we are proposing to do is fair and reasonable and is not prompted either by prejudice or by an undue desire to interfere with trade practices which are not contrary to the public interest.</P>
+    <P>I should, perhaps, say also that I am not opposed to trade associations. I think I can say that I have personally encouraged and assisted in the formation of many.  The number of trade associations operating in this country expanded considerably during the war years because of the difficulty of arranging the distribution of scarce supplies, and the initiative in bringing about the formation of a trade organisation was often taken by me when Minister for Supplies, because it was much easier to effect regulation and distribution where there was a representative body that could speak with authority for the trade concerned. Many of these associations, which were brought into being by the requirements of the war years, continued in existence after the particular purpose which created them had ceased to operate and turned their attention, and directed their activities, to other matters designed to benefit their members.</P>
+    <P>
+      <Col N="820" /> I think it is also true to say that the number of trade associations has been increased by trade union pressure. When a trade was unorganised, it was not an unusual practice for a trade union seeking to improve the conditions of its members employed in that trade to concentrate upon individual firms in it, and that tactic produced the inevitable tendency to combine so that collective agreements, covering the whole trade, could be negotiated, and so that the employers in the trade would have equal bargaining power with the trade union representing their staffs.  These trade associations, therefore, must be recognised as being often valuable and necessary and, in fact, sometimes indispensable.  They have many legitimate fields for their activity, but the primary purpose of their existence is to protect the interests of their members, and that purpose often drives them into the operation of restrictive practices even though they were originally formed for a worthier purpose.</P>
+    <P>I am asking the House to agree that where a trade association takes power to exclude any citizen from any trade, or imposes restrictions which have the effect of excluding any citizen from any trade, then no matter what justification there may be for that course, and no matter what arguments can be advanced by the association in defence of these restrictions, that association is taking to itself functions which properly belong to the Oireachtas.</P>
+    <P>I am asking the Dáil also to accept the contention that agreements or combinations or conspiracies between producers and traders to monopolise a particular form of commerce, or to fix or maintain prices for any class of goods, because they involve the power to control a market, is clearly inimical to the public good.  I recognise that there are many such agreements, combinations and associations between traders which are not monopolistic. They may even be beneficial in their effect, if confined to the elimination of trade abuses and the prevention of the sale of goods of sub-standard quality or to elevating the standard of service given to the public or to supervise the orderly distribution of goods.  If there <Col N="821" /> are such beneficial associations and arrangements, nobody wants to interfere with them, but we are proceeding on the assumption that, where a group of traders in any goods get together and start to make regulations applying to these goods, it is not unlikely that their preoccupation with their own interests may lead them into the adoption of practices which are contrary to the public welfare, and that we should have the power of investigation in such cases.</P>
+    <P>The claim that the regulation of distribution by trade associations ensures efficiency and economy in distribution is often spurious but there may be cases&mdash;and we recognise that there may be cases&mdash;where it does good.  I have said that we are not prejudging, or asking the Dáil to prejudge, the outcome of the investigation in any case. If the claim made by some of these trade associations that the practices which they apply are designed and operate to protect the public interests can be sustained, then no action will follow on the investigation.</P>
+    <P>This Bill which I am asking the Dáil to approve is based on two principles. The first is, as a general rule and subject to public policy, to restrict imports by tariffs or quota arrangements in the interests of national economic development, with the fullest and freest competition, in any trade, is in the public interest.  Secondly, where there are special conditions which may justify some form of regulation, then neither trade associations nor combinations of traders can be allowed to arrogate to themselves the right to impose these regulations or to limit competition.  We are framing this Bill on the assumption that agreements between traders who should be in competition with one another must be treated with suspicion and that such agreements are an actual or a potential source of injury to the public as consumers.</P>
+    <P>There is, perhaps, a special need for care regarding these agreements and arrangements in this country.  The policy of industrial protection on which we embarked in our efforts to build up increased economic activity in the country has had the effect of excluding <Col N="822" /> external competition and thereby facilitating agreements between producers and distributors to limit internal competition or to facilitate price maintenance arrangements.  I have emphasised that many of the complaints about the operation of restrictive trade practices which we have received did not apply to goods produced by protected industries, or even in this country, but we have always noted that the development of the protectionist policy, by excluding external competition, created a risk of arrangements being made to eliminate internal competition amongst the protected firms.</P>
+    <P>The aim of policy must be to foster competition wherever possible and to introduce that element of risk into every trade which will force those engaged in it to strive towards maximum efficiency at all times.  If there is any evidence in regard to a protected industry that the persons engaged in it are also protecting themselves against internal competition after we have excluded external competition, then we must have power to break up that arrangement in the interests of the public and in the interests of the policy of industrial development.</P>
+    <P>If I have convinced the Dáil that legislation is necessary, the next matter we have to consider is the form that legislation should take.  If a situation has developed in our economy which threatens the public welfare, what are we to do about it?  The Federation of Irish Manufacturers summoned a conference of the various trade associations and chambers of commerce and passed a resolution at that conference in which they recognised that some legislation was required to deal with restrictive trade practices but contended that the present Bill is not satisfactory.  The Associated Chambers of Commerce, in the course of their discussion with me, indicated that they would prefer a Bill which schedules and makes illegal clearly defined practices leaving the enforcement of that legislation to the courts.</P>
+    <P>All the possible alternative methods of tackling this problem were considered before the present Bill was <Col N="823" /> approved.  No doubt, it would be possible to legislate a general prohibition of unfair competition, of restrictive practices, of resale price agreements, and leave it to the courts to decide whether a particular action was contrary to law.  In common law, agreements which are conceived to be contrary to the public interest are not enforceable in the courts, and it seems to me that the main objection to the course recommended by the Associated Chambers of Commerce is that it would not provide a much more satisfactory means of redress than exist at present.</P>
+    <P>The lawfulness of any practice could only be determined by litigation and only when some aggrieved citizen decided to put himself to the hazard of litigation in order to assert his rights. It is certain that in every case the proceedings would be long and costly, and the knowledge that they would be long and costly might easily deter many traders from asserting their rights, even though they were quite clear under the terms of the law.  The more powerful the interests involved in maintaining restrictive trade practices, and the more profitable these restrictions were, the more certain it would be that the person who initiated litigation under such a law to secure his rights would be harassed by every legal device.  A verdict in his favour would be appealed from court to court and, even if, when all legal processes had been exhausted, the individual secured a verdict, the law would be settled only in his particular case.  I do not think that would be a desirable method of tackling this problem.</P>
+    <P>There was another alternative method considered by us.  The first idea was to enact a general prohibition upon unfair trading practices and let the courts decide what practices were unfair.  The second was to schedule and declare unlawful certain specific and clearly defined practices.  I think that course would be favoured by the Associated Chambers of Commerce in preference to this Bill.  But if we were to attempt to schedule and define certain practices and declare them unlawful for all trades in all circumstances, I <Col N="824" /> think we would get ourselves into a position of danger and difficulty.</P>
+    <P>I doubt if even in this Dáil we could get agreement upon the practices that should be declared to be unlawful in all trades and in all circumstances.  If we were to declare unlawful in that sweeping way any of these practices to which I have referred, they would be debated here with reference to the circumstances of a particular trade and Deputies might be convinced that there was some special circumstance in some trade which would justify exempting that trade from the prohibition.  We would have real difficulty in getting a code of law that could safely be applied to all trades in all circumstances.</P>
+    <P>The determination of the practices to be prohibited would also offer difficulties.  It would be dangerous to rely upon the experience of other countries because our conditions and our outlook are different from theirs and we would ultimately find ourselves with a very attenuated measure limited to those practices which we could confidently say should not be permitted in any circumstances or in any trade.  That is the theoretical objection to that course.</P>
+    <P>There is another and a practical objection.  I have a very high respect for the ingenuity of our traders and for the associations into which they organise themselves.  If we confine ourselves to prohibiting certain defined practices set out in a schedule to an Act, I am quite certain that many of these traders or associations of traders would find ways of achieving the same results in a different manner and one which would evade successfully the strict application of the law.  They would always be able to devise original methods of getting round the law and we could never contemplate continuous amendments of the Statute proceeding fast enough to catch up upon the new practices designed to achieve the effect of trade restrictions which traders and combinations of traders might be able to devise.</P>
+    <P>The conclusion I reached, and I hope the Dáil will agree with me, was that the measure now before the House offers the best solution to this problem. I admit that it is experimental.  It is <Col N="825" /> the first time we in this country ever attempted legislation of this character and experience of its operation over many years probably will show that it is capable of improvement.  But it does create machinery by which conditions in individual trades can be examined and examined independently and objectively by a commission which will have no interest other than the protection of the public welfare.</P>
+    <P>It provides also that trade practices cannot be banned unless and until the Oireachtas is convinced that they are contrary to the public interest.  The Associated Chambers of Commerce in their circular to Deputies said that they object to the Fair Trade Commission having power to declare illegal practices which have been established for many years.  Deputies who have read the Bill will understand that the Fair Trade Commission will not have any power to declare any practice illegal.  It will operate in the way laid down in the Bill, carry out an investigation of any trade practice and make a report upon that practice to the Minister for Industry and Commerce with recommendations.  The Minister may or may not decide to act upon its recommendations.  If he does so decide, he has to bring the report to the Dáil with a Bill to implement the Order made by him and that Order will have no legal force until it has been confirmed by an Act of the Oireachtas.</P>
+    <P>The procedure we contemplate is that which is now used in relation to harbour works Orders.  When a harbour authority wants legal authority to extend the scope of its operations it seeks from the Minister for Industry and Commerce an Order authorising it to do so.  The Minister makes that Order and then brings to the Dáil a short Bill to confirm it.  The Order has no legal effect until that confirming Bill has been passed.  That is the procedure in respect of Orders to be made under the authority of this Bill.</P>
+    <Speaker pid="JohnFinan" hpid="Mr. Finan Mr. Finan">
+      <NameTxt>Mr. Finan</NameTxt>
+      <P>Will the Minister say if this will apply to State companies as well?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I will come to that. That is also one of the points made.</P>
+    </Speaker>
+    <P>
+      <Col N="826" /> The Bill further contemplates two lines of approach to the investigation of trade practices.  Deputies will have noticed that in Section 3 of the Bill there is a provision for the making of fair trading rules.  These are rules which may be drawn up by the Fair Trade Commission at the request of any trade association.  They will be made by the commission without reference to the Minister and will not have the force of law.  It is intended that these fair trading rules should serve as a code of conduct for any trade.  It is hoped that the trade associations which have resorted to restrictive practices in the past&mdash; practices which would be regarded as objectionable by the public and the Dáil&mdash;will avail of the opportunity given to them by the passing of this Bill to initiate action to have fair trading rules prepared, that they will decide to abandon the objectionable trade practices and secure the co-operation of the Fair Trade Commission in having rules prepared which will, if possible, continue the benefits which the practices may have secured and at the same time eliminate their objectionable features.</P>
+    <P>The expectation is that the prospect of the publicity that might be given to the operation of trade associations if an inquiry is authorised under Section 6 may induce these trade associations to act on their own initiative and to avail of the provisions of Section 3 for the preparation of fair trading rules by the commission.  It is obviously desirable that all these trade associations which may have been concerned with restrictive practices in the past will decide voluntarily to put their houses in order and either abandon these practices voluntarily or bring their problems to the Fair Trade Commission to have these voluntary fair trading rules drawn up with its co-operation.</P>
+    <P>Under Section 6, however, the commission may make inquiries.  It must do so if it is requested by the Minister for Industry and Commerce and it may do so on its own initiative.  These inquiries will be usually held in public. The commission will have full powers <Col N="827" /> to secure the attendance of witnesses and the production of information. When the inquiries are completed the commission will submit its report to the Minister for Industry and Commerce.  The matters upon which the commission may report are set out fully in Sections 7 and 8 of the Bill. When a report has been received the Minister has to decide what action he will take upon it.  The report must in any event be published to the Dáil, subject only to the deletion of references to the business of individual firms and to the attachment thereto of a note indicating the character of material deleted.</P>
+    <P>If the Minister decides not to act upon the recommendation the Dáil will, nevertheless, get the report and will be able to query his decision.  If he does decide to act on the recommendation, then he prepares an Order, schedules that Order to a Bill and brings the Bill to the Dáil.  Because of the great variety of objectionable trade practices which are in operation, or which may develop some time in the future, these sections of the Bill have been drawn up so as to indicate in a broad way the matters with which the commission will be concerned.</P>
+    <P>The Bill provides very severe penalties. I think that is unavoidable.  The Dáil will appreciate that restrictive practices may be very profitable and we may not prevent their continuance if penalties are nominal.  The penalties must be severe enough to make it unprofitable for the traders concerned to continue the practices which have been declared illegal by the Dáil.</P>
+    <P>With reference to the point raised by Deputy Finan, the Bill provides an exemption for arrangements for the regulation of prices or for the regulation of trade in any goods which is undertaken in pursuance of statutory authority.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Does that include banks?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>No.  The exemption is simply stated in Section 15:</P>
+      <P>&ldquo;This Act shall not affect the validity of anything done in the exercise of statutory duty.&rdquo;</P>
+    </Speaker>
+    <P>
+      <Col N="828" /> The best example I can give is the Electricity Supply Board charges for electricity.  The Dáil has already taken a decision in regard to the charges to be made for electricity.  Another example might be the fixation of prices by the Minister for Agriculture.  Under statutory authority the Minister for Agriculture determines the price for wheat.  That price fixing arrangement would not be questionable under this Bill.  The Associated Chambers of Commerce in their publicity refer to an exemption given to Government monopolies.  That is inaccurate.  It is only where some statutory organisation is discharging a function given to it by law that there is an exemption.</P>
+    <P>It would be absurd for the Dáil to pass legislation now to set up a commission of this kind to check or to prevent the operation of some power which the Dáil has already decided in previous Acts should be conferred upon a statutory body.  Where a Government or statutory organisation is operating without legal authority, then it will be subject to the provisions of this Bill just as a private concern is. I had representations yesterday&mdash;I might mention this by way of illustration&mdash;that Irish Steel Holdings, Ltd., had refused supplies on wholesale terms to some trader.  That trader would have the same rights vis-á-vis Irish Steel Holdings under this Bill as any other trader against a private firm or an association of private firms.</P>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>That is because Irish Steel Holdings are not set up under statute.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Precisely the point I make.  Even though it is a Government-owned undertaking its activities are not in that regard subject to any statutory powers.  It is only where the Dáil has already decided that the power to regulate trade or to control the price of any goods should be exercised by a Minister or by a statutory body that the exemption under this Bill operates.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Most of what are regarded as Government bodies are set up under statute.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Not all of them have <Col N="829" /> that statutory power, the power to regulate prices or to confine trade to particular channels.  Another point to which I would draw the attention of the House is that the Bill does not apply to services, that is to say, to such businesses as laundries or advertising agencies.  It might, I agree, be argued that they should be included. The fact is that I have received no complaints of the operation of restrictive practices in these businesses.  If such restrictive practices were later to develop in these businesses, then the Bill might be amended to include them. I was hesitant about extending the scope of this measure from trade in physical goods to trade in personal services of any kind, because I felt it might produce difficulties which could not be easily surmounted.</P>
+    </Speaker>
+    <P>One of the criticisms of the Bill expressed by the Associated Chambers of Commerce is that it ignores, in the words of the Associated Chambers of Commerce letter, &ldquo;the many practices imposed on industry by labour restrictions and Government monopolies.&rdquo; The Bill does not apply to restrictive practices in human labour relations. That, I know, may be a subject of criticism.  It has been contended by various bodies, including the Associated Chambers of Commerce, that the most widespread application of restrictive practices in trade comes from the operation of trade unions.  That is so but, in fact, the legislation of the State defines trade unions as a combination which has for its purpose, amongst other things, the imposing of restrictive conditions on the conduct of any trade or business.  The State, therefore, must be assumed to have authorised by its legislation the operation of restrictive practices in the conduct of any trade or business where the employment of workers is concerned.  If we felt that the time had come when that legislation should be reviewed or that changes in it were required, then that should be considered as an entirely separate matter.  The purposes of a trade union are not, under the law, unlawful merely because they are in restraint of trade.  The imposing of restrictive conditions is the very purpose of a trade union's existence.  Every <Col N="830" /> relevant act of a trade union is a restrictive act but the State has already decided by its legislation that such restrictive acts of trade union are not necessarily inimical to the public interest.</P>
+    <P>In any event, in the case of the operation of trade unions reasonable and unreasonable restrictions are inextricably mixed.  The best example I can give of that is in regard to the admission of apprentices.  The difference between reasonable and unreasonable actions is one of degree and not of kind.  Most of us will recognise that it is desirable that there should be some regulation of the admission of apprentices to trades.  It is undesirable that that restriction should be so operated as to deprive young people of legitimate opportunities of learning a trade or so as to prevent the development of a trade. In any event it was not considered appropriate to attempt to deal with any problems of that character in this Bill.</P>
+    <P>I should say, however, that trade unions are not exempted from this Bill if they joined in restrictive arrangements relating to the terms and conditions upon which goods are supplied. In so far as restrictive arrangements relating to the supply and distribution of goods are concerned, this Bill applies to everybody and if any group of people combine to operate these restrictive arrangements, then the arrangements can be investigated by the commission and action against them taken if they are deemed by the Oireachtas to be contrary to the public interest.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Would the Minister mind expanding that?  What has he in mind exactly?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>If a combination of traders decided they were going to supply goods only to members of their association or some association and if a trade union of workers directed its members to supply goods only to the members of that association in support of the restrictive practices of the employers, then that action by them would be open to investigation by this commission and could be made the <Col N="831" /> subject of legislation if it was decided to be contrary to the public interest.</P>
+      <P>In regard to those restrictive practices of trade unions I should like to say this.  In the matter of apprenticeship the initiative has already been taken in securing the re-examination of that position and the very active co-operation of both Trade Union Congresses has been forthcoming in securing that re-examination. I have expressed the view that it is desirable that any remedies that are required should be sought and applied voluntarily by the parties concerned in any trade.  While I did not exclude the possibility of legislation I felt that legislation should be resorted to only if it was clear that voluntary action was not likely to be effective or was likely to involve difficulties that could not be resolved without resort to legislation.</P>
+      <P>In regard to general trade union law, I think the Dáil knows it is in a somewhat complicated condition at the present time and that something will have to be done about it sooner or later. I have invited the Trade Union Congresses to express their view as to the form that new legislation should take. I have received their comments, but no decision regarding the introduction of a measure of that kind has yet been made.</P>
+      <P>I recommend this Bill, however, because it will confer advantages and powers to eliminate restrictive practices of a particular kind, restrictive practices in the supply and distribution of goods.  There may be other problems in other fields of activity which we may have to tackle yet.  Here is one problem we can deal with.  It is to deal with one specific problem that this legislation was designed and it is for that purpose I am asking the Dáil to approve of it.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>Might I ask does this Bill apply to farmers engaged in the supply of goods such as milk?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The Bill would apply to combinations designed to limit or restrict the distribution of any class of goods.</P>
+    </Speaker>
+    <Col N="832" />
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The Deputy should read the Bill.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>If the Deputy read the Bill, he would not have to ask questions at this stage.  We had better get clear on a few matters in connection with this proposed legislation. First, it is clear, and I would not be surprised if it is accepted, at least in this House, that there are practices in this country which are restrictive and which are injurious to the public welfare.  I do not think there is any question whatever about that.  There are practices, conditions, regulations, which may be described as restrictive in industry and trade which are not objectionable and are not injurious to the public interest.  We ought not to lose sight of the fact that a trade association or an association of producers have a right to lay down conditions to protect their legitimate interests&mdash;their legitimate interests&mdash; I want to emphasise that.  There are very objectionable restrictive practices in operation in this country which this Bill does not even purport to deal with and, as a matter of fact, it does not even purport to deal with the most objectionable practices that are in operation and with the practices that are impacting on the weakest and most defenceless section of the community.</P>
+      <P>The Minister claims more for this Bill than is in it.  Far from those at whom it is supposed to be aimed being afraid of it, those of them who have read it intelligently will probably welcome it.  They are not shivering before this piece of legislation.  I do not believe that there is even one of them in the gallery this morning.  That shows the interest they have in it.</P>
+      <P>This piece of legislation will not deal effectively with even those practices with which it purports to deal.  In my opinion, this machinery will be very largely, if not entirely, ineffective.  It will not have any effect on the cost of living, either now or in the immediate future.  It is better to be clear on that.</P>
+    </Speaker>
+    <P>The Minister asserted rather emphatically that he was determined to smash trade rings.  That smacked more of a slogan for the Dublin by-election than of any hope the Minister <Col N="833" /> had that this particular piece of legislation will give him power to do so.  I know that complaints have poured into the Department about trade practices. Many, perhaps the majority, of the complaints regarding restrictive practices were well-founded.  I know that a very considerable proportion of them were not well-founded.</P>
+    <P>I am in favour and I think every member of this House is in favour of at least attempting to deal effectively with practices that are objectionable and that are against the public welfare. Ineffective and all as this particular Bill is, and will be, we will support it and we hope we may be able to help the Minister to strengthen it before it finally leaves this House.</P>
+    <P>The Minister found some difficulty in making his speech and in making the case for the Bill this morning.  I am not surprised.  It is a difficult matter to deal with.  I do not want to deny that for a moment.  I do not want in any way to minimise the difficulties of dealing with it, or the difficulties of getting a Bill that will be effective in protecting the interests of the general community, while at the same time not going so far as to impose injustices or to treat unfairly those who are engaged in trade and commerce.</P>
+    <P>The Minister is well aware that in legislation of this type one could go so far as definitely to injure the prospects and the future of industry and commerce. If one were to lose one's sense of balance as between those who are engaged in trade and industry and consumers, one could go so far as to create doubts in the minds of people proposing to engage in trade or production as to whether it would be either safe or profitable to do so.</P>
+    <P>There is also, of course, the very great difficulty of determining what is or is not a trade restriction.  We know that the success, partial or otherwise, of this Bill, will depend very largely, if not entirely, on the type of commission that is set up and on the personnel of that commission.  They will have a difficult job in determining what is or is not a restrictive trade practice.</P>
+    <P>Let me ask the Minister a question. Could he answer it for me?  I wonder <Col N="834" /> would he describe this as a restrictive trade practice or not.  I, in common with my colleague, Deputy Fanning, visited the town of Templemore, in my constituency, yesterday morning, for the opening of a new factory by His Grace the Archbishop of Cashel.  That was an important factory for the people of Templemore and, perhaps, for the people of the country.  There was a very representative gathering there from over the whole of the State.  My colleague, Deputy Fanning, was given the privilege of proposing the toast of the Templemore Development Association. I was privileged to propose the toast of the company that had the enterprise and courage to start this new industry. I do not mind the <i>Irish Press</i> not reporting my speech.  I would not expect the <i>Irish Press</i> to do so.  The <i>Irish Press</i> did not mention that I had proposed the toast and it did not include my name amongst those who were also present.</P>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>That is not the first time.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>That, of course, was quite deliberate and was particularly deliberate because this function took place in my constituency.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGrath" hpid="Mr. McGrath Mr. McGrath">
+      <NameTxt>Mr. McGrath</NameTxt>
+      <P>Deputy Martin Corry opened a hospital in Cork and he was chairman of the board and there was not a word in the <i>Irish Press.</i></P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. Davin Mr. Davin">
+      <NameTxt>Mr. Davin</NameTxt>
+      <P>What about my colleague behind me?</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>The Deputy opposite should not get into waters that are too deep for him.  Would the Minister describe that as an objectionable trade practice?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>That is a conspiracy.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>It is not going to affect me, personally, in the slightest, but it is petty, it is mean and it is contemptible.  Is it to be a restrictive trade practice that one has to be a member of a particular political association to qualify for a job in certain industries in certain counties?</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>Stick to the Bill:</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>This is a Bill to deal with restrictive trade practices, objectionable <Col N="835" /> practices affecting the people's right to live.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGrath" hpid="Mr. McGrath Mr. McGrath">
+      <NameTxt>Mr. McGrath</NameTxt>
+      <P>The Deputy is fighting in Baltinglass.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>He knows&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>Deputy Cogan ought to keep out of this.  He cannot be restricted in any way from being the most abject yes-man of Fianna Fáil in this House.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>We would have some respect for Fianna Fáil but not for him.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Deputy Morrissey, on the Bill.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>On the Bill, we hope.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>I have not got one step away from restrictive practices.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The supply and distribution of goods.  The Deputy would hardly describe himself as goods.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>I have been described by the Minister and the members of his Party on more than one occasion in much more objectionable terms than that.  In the course of his statement, the Minister said he was impressed, when this measure made its appearance, by the number of people who rushed to see if the cap would fit&mdash;and found that it fitted.  Strangely enough, we on this side have been impressed by the very opposite.  This is not a serious attempt to deal with what is admitted to be an evil that must be eradicated from the lives of our people.  I doubt if the Minister or the Government really mean even to attempt to deal with it.  I am perfectly satisfied that it has been timed deliberately to coincide with a certain matter that is about to engage or is engaging a section of the people of the City of Dublin.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The Bill was circulated long before that.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>I know it was, but the timing of its Second Reading was determined by that.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It was determined by <Col N="836" /> the loquacity of Deputies on the business that is proceeding already.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>Not at all.  The only determination that arose there was whether it should be taken yesterday or to-day.  The Minister determined that he would have it either yesterday or to-day.  I know from my experience that there are organisations and associations that have not merely attempted to arrogate but have arrogated to themselves rights and powers which should only be operated by the State itself.  On more than one occasion I warned certain of those organisations that if they persisted in those objectionable practices, either I or whoever would be in my place would have to ask this House to give the necessary powers to deal with that matter.  They refused to be advised and persisted in carrying on practices which were not, to say the least of them, in the interest of the public good.</P>
+      <P>The Minister talks about dealing with producers and suppliers who refuse to supply certain traders, and he says that that will be an offence.  It is not settled as easily as the Minister would make it appear&mdash;and he knows that.  Certain business organisations withhold supplies for certain reasons from very excellent and creditworthy distributors; but I do not know that this House, the Minister or the commission can insist on a producer supplying goods to a retailer about whom he may have doubts as to his capacity to display, to sell or to pay for the goods with which he has been supplied. Is not that so?  Does that not create a very big problem?  Is it not going to be extremely difficult for any commission to do that, no matter how good it may be&mdash;and I have no doubt whatever that the commission, when appointed, will try conscientiously to give effect to the legislation which passes through this House in its final form.</P>
+    </Speaker>
+    <P>The Minister has told us about the type of restriction, or the type of understanding, which operates in certain classes of businesses.  He mentions specifically the timber business and that understandings operating in relation to the sale and distribution of <Col N="837" /> timber are not confined even within the State itself but extend out to the suppliers of timber.  That is the type of thing that has to be dealt with.  The Minister mentioned the petrol companies. He mentioned the motor trade, the restrictions on people starting service stations or garages, particularly in rural Ireland.  I think that has stopped now, not because there was any change in those who originally imposed those conditions but because circumstances have changed and the petrol companies are in a different position.</P>
+    <P>The Minister's speech was rather remarkable for one omission, in view of the fact that he has said so much about it and that the newspapers have printed so much about it&mdash;namely, the report or comments which he is supposed to have got from the American experts who were over here, on the question of restrictive practices.  Am I to assume from that, that the comments or reports he got from those United States experts did not apply to the types of practices which he is purporting to try to deal with in this Bill?  The Minister, in reply to a question here yesterday, seemed to give the impression&mdash;though he did not state it specifically&mdash;that their comments on restrictive trade practices were on those restrictive practices which affect our capacity or our output.  Is that so?  Am I to take it that none of the comments which were made were in relation to the types of restrictive practices which it is proposed to deal with in this Bill?</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>They were very much wider in their scope.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. Morrissey Mr. Morrissey">
+      <NameTxt>Mr. Morrissey</NameTxt>
+      <P>That is not an answer to my question.  I am asking were those comments directed to the practices not covered by this Bill.</P>
+      <P>Debate adjourned.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies' Business. - Local Government (Sanitary Services)" RHead="(Joint Burial Boards) Bill, 1952&mdash;Second and Subsequent Stages">
+    <Title>Private Deputies' Business. - Local Government (Sanitary Services) (Joint Burial Boards) Bill, 1952&mdash;Second and Subsequent Stages.</Title>
+    <Speaker pid="HenryPDockrell" hpid="Mr. H.P. Dockrell Mr. H.P. Dockrell">
+      <NameTxt>Mr. H.P. Dockrell</NameTxt>
+      <P>I move that the Bill be now read a Second Time.  The reason for introducing this Bill is to <Col N="838" /> give joint burial boards power to acquire land compulsorily.  The Public Health (Ireland) Act of 1878 defined the powers of a burial board which did not include the compulsory acquisition of land.  Joint burial boards were formed by provisional order pursuant to the Public Health (Ireland) Act and duly conferred by the Local Government Board (Ireland) (Provisional Order) (Confirmation) Act, 1899.  Clause 9 of this latter Act gave a joint burial board the power of a burial board.  It is now proposed to give joint burial boards the powers of a sanitary authority which will include the compulsory acquisition of land.</P>
+      <P>This Bill comes before the House as a Private Member's Bill but same has received the approval of the legal advisers to the Department of Local Government acting in conjunction with the legal advisers to the Dean's Grange Joint Burial Board.</P>
+      <P>Owing to the increase in population of the Dún Laoghaire Borough and Rathdown areas, it is now imperative that the Dean's Grange Joint Burial Board should acquire additional land in order to meet the estimated demand for some years to come.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Minister for Local Government (Mr. Smith) Patrick Smith">
+      <NameTxt>Minister for Local Government (Mr. Smith)</NameTxt>
+      <P>I am aware of the need for clarification of the law in the manner proposed in the Bill.  I am satisfied that the Bill, as drafted, gives effect to it.  As far as the Government are concerned, it is not proposed to raise any objection to its enactment.</P>
+      <P>Question agreed to.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Is it proposed to take the remaining stages now?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Normally, this Bill would go to a Special Committee.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I was not aware of that procedure.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I understand that the House can waive that.</P>
+    </Speaker>
+    <Col N="839" />
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>There is no reason that I know of why the House should not take the remaining stages now.</P>
+      <P>Agreed to take the remaining stages to-day.</P>
+      <P>Bill passed through Committee without amendment, reported, received for final consideration and passed.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>On behalf of the Dean's Grange Burial Board and of the Deputies concerned, I would like to thank the Minister for his co-operation.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Go raibh míle maith agat.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies' Business. - Equal" RHead="Pay for Equal Work&mdash;Motion">
+    <Title>Private Deputies' Business. - Equal Pay for Equal Work&mdash;Motion.</Title>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That Dáil Éireann is of opinion that the Government should take immediate steps to introduce proposals for legislation which will ensure the application to all wageearners of the principle that women shall be paid the same rates of remuneration as men for work of equal value.</P>
+      <P>This motion deals with the problem which, particularly in recent years, has engaged the attention of many Parliaments and many Governments.  It recognises that at present there is a discrimination against women in the matter of remuneration, even remuneration for work which is indistinguishable from that performed by men at a higher rate of remuneration.</P>
+      <P>The discrimination against women comes down to us from the time when women were regarded as socially, culturally and industrially inferior to men.  Because of that fact those who employed women paid them a scale of pay substantially lower than what was paid in the case of men.  In fact, any study of the introduction of women to industry in the modern sense will show that the impetus behind the introduction of women was very largely the same as the impetus behind the introduction of child labour, namely, to produce operatives, mechanics or machine minders who could be utilised to work at a rate of wages substantially lower than the rate paid to men.</P>
+    </Speaker>
+    <P>
+      <Col N="840" /> In other words, women generally were used as cheap labour to be exploited for the benefit of those who employed them.</P>
+    <P>It seems difficult to-day to imagine that these concepts operated to determine the employment of human beings but it is only necessary to reflect for a few moments to realise the restrictions which were generally imposed upon women and to reflect as well on the inferior position in which women stood in relation to the exercise of such a fundamental duty of the modern citizen as the exercise of the franchise.</P>
+    <P>It is only 34 years ago since women were permitted to vote in this country. It seems incomprehensible to-day that anybody could be found who would deny women such an elementary right of citizenship.  Concurrently with the extension of the franchise to women, notable contributions have been made by them in cultural and professional activities, and indeed in a great many other occupations which, up to relatively recent years, were the monopoly of men.</P>
+    <P>I suppose old prejudices die hard and it is not easy to overcome even the earlier prejudices in respect of the conditions under which women are employed, but it must be borne in mind that women are gradually shaking off the social, industrial and economic shackles which were the distinguishing mark of their place in society less than 50 years ago.  Women are now securing wider outlets for their talents and skill, and are seeking wider opportunities to play the part which they are fitted to play in the modern democratic State.</P>
+    <P>Side by side with that development in respect of the attitude of the State and employers towards women, there has been a general improvement in the standard of living of workers, expressed not merely in the sense of better rates of pay but in improved conditions of employment and a higher standard of social legislation, all of which have done much to provide the worker with a better position in industry and a better position as a citizen in the economic sense.  One of the features of that improving code of <Col N="841" /> legislation and of that improvement in the conditions of employment has been a widespread recognition, so far as men are concerned, and also so far as women are concerned, but each being treated separately, of the principle that there ought to be a rate of pay appropriate to a particular job.</P>
+    <P>At one time, before national wage agreements operated, it was possible to find workers employed on precisely the same class of work being paid varying rates of pay, but, with the introduction of national agreements in the matter of fixing remuneration, there is now, although perhaps on a sex basis, a recognition of the general principle that workers are entitled to be paid what is accepted as the fixed rate for the particular job.  That principle, however, does not apply to women vis-a-vis men in determining the standard of remuneration that should be paid for work which is performed equally by men and women.  To-day, women still suffer from the handicap that they are women and employers, the State and local authorities still consider it their privilege to pay women substantially less than is paid to men for work of equal value.</P>
+    <P>I am not concerned in discussing this motion with the rather barren argument that women's place is in the home.  This motion is concerned with the physical fact that women work, that they have to work for a living for themselves and to maintain others dependent on them.  The motion expresses the view that women should be paid adequately for their work; in other words, they should be paid the same rate of remuneration as men for doing work of precisely the same value.  I think it is as unreasonable to deny women the same rate of remuneration for doing work of equal value with men as it would be to suggest that they ought not to-day to exercise the franchise in the same way as men exercise that elementary right of citizenship.</P>
+    <P>This motion is not a motion which asks that men and women should be paid equally irrespective of the kind of work they do.  It simply asks that where a man and a woman do precisely the same class of work, then the <Col N="842" /> woman should be paid the same as the man.  In other words, the male rate of remuneration ought to apply to a woman, and she ought not to be paid a lesser rate for doing exactly the same work as a man does.  Many countries have already made provision for equal pay for equal work in their Constitutions; others have made provision for a recognition and application of the principle in their legislation; and still others have made provision for it in the labour codes and practices which operate in the countries concerned.</P>
+    <P>This problem of equal pay for equal work was first made the subject of discussion at the International Labour Office Conference in San Francisco in 1948 and a resolution was then passed asking the International Labour Office to study the problem of equal pay for equal work.  That problem was studied in great detail by a committee then appointed and, as a result of the study of the problem by the International Labour Office, the whole question of equal pay as between men and women for work of equal value came up for consideration at the International Labour Office Conference in 1950.  It was then decided that the question should be placed on the agenda for the 1951 conference, with a view to the adoption of either a recommendation or a convention providing for the application of the principle of equal pay for equal work.</P>
+    <P>The general question was discussed at last year's conference, and, by a majority of 109 votes to 38, the conference adopted a convention favouring the application of the principle of equal pay for equal work.  The conference felt it was desirable to supplement the convention by a recommendation to apply to those countries which were not yet ready to go ahead with the application of the principle.</P>
+    <P>It is interesting to refer to the convention which was adopted by the International Labour Office in 1951 by such a substantial majority.  Article 1 provides:&mdash;</P>
+    <P>&ldquo;For the purposes of this convention, the term &lsquo;equal remuneration for men and women workers for work of equal value&rsquo; refers to rates of <Col N="843" /> remuneration established without discrimination based on sex.&rdquo;</P>
+    <P>Article 2 provides:&mdash;</P>
+    <P>&ldquo;Each member shall, by means appropriate to the methods in operation for determining rates of remuneration, promote, and, in so far as it is consistent with such methods, ensure the application to all workers of the principle of equal remuneration for men and women workers for work of equal value.  This principle may be applied by means of national laws or regulations, legally established or recognised machinery for wage determination, collective agreements between employers and workers, or a combination of these various means.&rdquo;</P>
+    <P>Later in Article 4, the convention provides:&mdash;</P>
+    <P>&ldquo;Each member shall co-operate as appropriate with the employers' and workers' organisations concerned for the purpose of giving effect to the provisions of this convention.&rdquo;</P>
+    <P>The recommendation passed at the International Labour Office Conference was:&mdash;</P>
+    <P>&ldquo;Each member should, subject to the provisions of Article 2 of the convention, apply the following provision and report to the International Labour Office as requested by the governing body concerning the measures taken to give effect thereto: Appropriate action should be taken, after consultation with the workers' organisations concerned or, where such organisations do not exist with the workers concerned, to ensure the application of the principle of equal remuneration for men and women workers for work of equal value to all employees of central Government Departments or agencies; and to encourage the application of the principle to employees of State, or provincial or Local Government Departments or agencies, where these have jurisdiction over rates of remuneration.&rdquo;</P>
+    <P>Finally, the convention provided:&mdash;</P>
+    <P>&ldquo;Every effort should be made to promote public understanding of the <Col N="844" /> grounds on which it is considered that the principle of equal remuneration for men and women workers for work of equal value should be implemented.&rdquo;</P>
+    <P>I think it is clear from that, having regard to the substantial majority by which the convention and recommendations were passed, that the enlightened countries of the world now accept the principle that men and women should be remunerated equally for work of equal value.  The speeches made at the International Labour Office last year on the application of the principle are well worth reading as showing the enlightened outlook of many countries towards this problem I do not want to detain the House by quoting long extracts from the various speeches made by delegates from the different countries represented at last year's International Labour Office Conference but a few quotations would not be inappropriate to a discussion on this motion.</P>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>Read the speech by the Irish Government representative.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Why?  Were you going to read that?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Would the Deputy deal with the significance of the fact that there was not any?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Any what?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Speech by an Irish Government delegate.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>What has that got to do with this motion?  What I am trying to put to the House is that in the matter of this legislation we are much behind other countries and ought to step in line with other countries that have approached the problem on a broad, intelligent basis.  The French Government adviser, speaking at the International Labour Office Conference last year, said:&mdash;</P>
+    </Speaker>
+    <P>&ldquo;Ever since the end of the 1914 war there has been equal pay between the two sexes in Government Departments in France.  I am surprised that this is not the case in certain countries and I am at a loss <Col N="845" /> to find the reasons for it.  In the teaching profession, in post offices, in Government Departments, are not the services performed by women equal to those of men?  Does not the difference in devotion to duty, professional conscience, faith in their vocation always favour women?&rdquo;</P>
+    <P>The delegate from Guatemala said:&mdash;</P>
+    <P>&ldquo;The principle of equal pay is one that has been incorporated into the Constitutions of the Latin-American countries and has been developed in the labour codes of those countries.&rdquo;</P>
+    <P>The delegate from the Argentine said:&mdash;</P>
+    <P>&ldquo;In my country, men and women enjoy equal social and civil rights. In the majority of industries and commercial undertakings women receive the same wages as men.  We aspire to total equality.&rdquo;</P>
+    <P>The Canadian Government's adviser said:&mdash;</P>
+    <P>&ldquo;The Government of Canada believes in the principle of establishing a rate of pay for a job on the basis of the work to be performed without discrimination as to the sex of the worker and applies this principle fully to its own employees.&rdquo;</P>
+    <P>The Indian delegate said:&mdash;</P>
+    <P>&ldquo;The Indian Government have accorded equal pay to all women workers from a Cabinet Minister down to the humble sweeper woman. The pay of all civil servants has been equalised in recent years without any adverse effect on the economy of the country.&rdquo;</P>
+    <P>If the delegates whom the Minister picked to send to Geneva were silent, it is a matter of the Minister's own choice and a matter for his own conscience.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It is a question of who picked the delegates.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>The Minister might make an inquiry.  I tried to get enlightenment, but they were your nominees, so you find out what happened <Col N="846" /> when they went to Geneva.  Do not ask me for an explanation why they did not talk when they went to Geneva.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Why those you picked did not talk?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>You look after your own chickens.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>At that particular conference the delegates were picked by the Deputy.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>The 1951 Conference? The 1951 Conference sat while the Minister's Party were in power.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It was in session while the change of Government was taking place.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I do not care who the delegates were.  If any delegate goes out from this country and matters affecting the people of this country are on the agenda, it is a matter of ordinary intelligence and of service to the country that sent him for the delegate to express an opinion on the subject.  I do not care who the delegate was, who sent him or who picked him.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Or what instructions he got.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I have yet to know that the delegate got instructions to remain mute at the International Labour Office Conference.  You could put on the same act by staying at home here.  However, we have not to discuss what the Irish delegate said, did not say or forgot to say at this international conference last year but what delegates did say on the subject.  We have, however, another test which probably transcends all controversy which might range around what was said or was not said or why it was said.  Speaking a few years ago to an audience of women workers His Holiness the Pope said:&mdash;</P>
+    </Speaker>
+    <P>&ldquo;The Church has always held that women should receive the same pay as men for equal work and output. To exploit female labour as cheaper would injure not only the woman, but also the working man, who would <Col N="847" /> thus risk being put out of work.  Both men and women should make use of their political rights in the service of justice.&rdquo;</P>
+    <P>As far as this House is concerned that should carry more weight than what was said or was left unsaid at Geneva last year.  Having regard to our concepts of Christianity, to that declaration by His Holiness the Pope and the widespread recognition of the principle of equal pay in the Constitution, laws and labour practices of other countries, we here should apply that principle.  Even in Britain it has been accepted by the Government.  The Government there have adopted the attitude that at the moment for financial reasons and because of inflationary fears they cannot give effect to the principle but it is clear enough from what was said even recently by the British Chancellor of the Exchequer that Britain is not far away from accepting the principle of equal pay for equal work.  The moment Britain accepts it, it will operate in the six north-eastern counties of Ireland and it is quite clear that if it does there will be a general recognition of the fact that there is a more liberal attitude there towards women in that field than there is at home where the principle is not yet recognised or accepted.  For these considerations I ask the House to pass this motion to bring pressure to bear on the Government to have the matter examined with a view to the introduction of the necessary legislation.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I formally second the motion.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I am very interested in the fact that one member of the former Coalition Government has made some progress in making up his mind on this issue.  It is true, as Deputy Norton said, that this matter has been under consideration by the International Labour Organisation since the 1950 Conference.  It is the practice of the International Labour Organisation, when a new convention dealing with a matter of this kind is under consideration, to request the member Governments to submit their views in advance <Col N="848" /> and to indicate not merely the practice in their own countries but what line of action their delegation is likely to take on the proposal.  That request for information as to the attitude of the Government here in 1950 was received and, as a private Deputy, I tried on more than one occasion in that year to find out by way of parliamentary question what the attitude of the then Government was and what reply they were going to send to the International Labour Organisation but I did not succeed.  Finally, the delegation chosen by the Coalition Government went to the 1951 Conference without instructions, unable to take any part in the discussion, and obliged to abstain from voting when the convention was put to the conference.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>To which portion of the delegation does the Minister refer?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The Government delegation. The delegation was tripartite. It consisted of the Government delegation, employers' delegates and workers' delegates.  The Government delegates went without instructions and, being without them, they were unable to vote when the convention was put to the conference.</P>
+      <P>I welcome this evidence that some progress has been made by some member of that Government to reach a conclusion on this issue.  Deputy Norton's speech avoided, however, every important question arising on his motion.  None of us challenges the soundness of the principle that women should be given equal pay for work of equal quality and quantity.  For a long time, however, various international organisations and social bodies have discussed amongst themselves how that principle was to be interpreted in the everyday life of business.  The International Labour Conference spent a large amount of time before drafting its convention, discussing the interpretation of the principle and deciding how the principle was to be applied when interpreted.</P>
+    </Speaker>
+    <P>I assume Deputy Norton is aware of the fact that the main issue raised by his motion is the proposal that this principle of equal pay should be applied here by legislation.  May I say <Col N="849" /> that I should be very much surprised to discover that trade union opinion here generally favours State interference in wage determination?  I think, in view of Deputy Norton's special position, that before the Dáil is asked to vote on this motion we should know whether he has sounded trade union opinion in the matter and is authorised by any responsible trade union body to say that the idea of State interference in wage determination, through legislation, or through powers conferred by legislation, is approved.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I presume the Minister has noted that the motion is seconded by Deputy Larkin who is president of the Irish Trade Union Congress.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I should be interested to learn from Deputy Larkin if the Irish Trade Union Congress favours the principle of State interference in wage determination.  It would be a very remarkable change.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>They accept the principle of equal pay for equal work.  Does the Minister want documentary evidence of it?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>So do I accept the principle.  However, I shall resist here, at any rate until the attitude of the trade union movement is known, the proposal that that principle should be applied by legislation.  If I understand the idea behind the suggestion that this matter should be dealt with by legislation, then I am correct in interpreting it as meaning that power should be taken away from the trade unions in an important matter of wage determination and that the State should have functions in regulating and controlling the result of wage negotiations between trade unions and employers.</P>
+      <P>I think, also, we should have some explanation of the fact that the trade unions, who have power to support the principle of equal pay for women for equal work, have never sought to do so.  The obvious deduction from that fact is that there are such serious practical difficulties in the application of the principle in particular cases that they have avoided attempting it.</P>
+    </Speaker>
+    <Col N="850" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>What case has the Minister in mind, for example?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I will give the Deputy, if he likes, details of recent agreements on wage negotiations in which the idea of differential rates for men and women was accepted by the trade union concerned.  The International Labour Convention to which Deputy Norton referred is not yet in force. The Deputy should read that convention with some care because what the International Labour Organisation recommended was that this principle of equal pay for equal work for men and women should be applied by the means appropriate to the methods in operation for determining rates of remuneration and consistent with such methods.  The International Labour Organisation Conference and the International Labour Organisation Committee which prepared the convention considered the desirability of applying the principle of equal pay for equal work by legislation and rejected it. There, were the matter was fully discussed by the representatives of a large number of countries, with Governments, employers and workers separately represented, the idea of using legislation to apply the principle was rejected by a substantial majority. Yet Deputy Norton and Deputy Larkin come here and ask that this Government should seek to do what the International Labour Organisation was against, namely, apply the principle by legislation.  The method in operation for determining rates of remuneration in this country is negotiation between representative organisations of workers and employers.  If the principle of equal pay for equal work between men and women is to be applied here, if we are to apply it in accordance with the International Labour Organisation Convention, then we will do so by the method in operation for determining rates of remuneration, which, in this country, is free negotiation without Government interference.</P>
+    </Speaker>
+    <P>This motion therefore which Deputy Norton has moved is asking not merely that the principle of equal remuneration for men and women should be applied to this country, but that simultaneously <Col N="851" /> there should be a fundamental change in the whole method by which rates of remuneration are determined.</P>
+    <P>I personally would be opposed to State interference in wage negotiations. I would not even consider the idea of legislating to give the State power to intervene in wage negotiations, unless it was clear that all the trade unions desired it and the information available to me suggests that that they not desire it.  Now it is comparatively easy to state the principle. The words quoted by Deputy Norton from the Holy Father are good enough for me&mdash;&ldquo;equal pay for work of equal quality and quantity.&rdquo; That is the phrase normally used.  What it means in practice has been the subject of continuous debate.</P>
+    <P>May I express my outlook in these matters?  Because the man is the natural head of the family, a family wage is due to men only and it is due to all men, whether they be married or not, because all men are actual or potential husbands or fathers, but when men and women are engaged upon industrial work, and give an equal return, this family wage should be paid both to men and women.  Otherwise, as Deputy Norton said, women would tend to undercut men in employment and it would be better to employ women than employ men.  This matter, as I said, has been under consideration in many quarters for a long time.  After the First World War, the Catholic Hierarchy of the United States of America published, in 1919, a plan for social reconstruction and they dealt with this question of the remuneration of men and women engaged upon the same type of work.  As far back as then, they defined the principle that should operate in the words which I have quoted.  They said that those women who are engaged on the same task as men should receive equal pay for equal amounts and quality of work.</P>
+    <P>It is clear, therefore, that the principle hinges on the insistence that, when equal pay is given, women must give in return work of the same quality as men.  As I said, the main difficulty in applying that principle is in determining what is equal work.  Everybody, <Col N="852" /> not excluding the International Labour Organisation, who came to deal with this matter either evaded that question or hid their statements in clouds of vagueness.  If we were to attempt to define that principle in law, the law would certainly be vague also and it would present many difficulties in its interpretation and application.</P>
+    <P>The International Labour Organisation considered this matter and the committee which drafted the convention debated it for a long time but the result of their efforts did not relieve their convention from the charge of vagueness either.  In the discussions in the committee, in fact the term was not defined at all, but an effort was made to bring out the idea which Deputy Norton expressed here, that the wage rate should be based upon the job content without regard to sex.  If this is to be the principle, it will be clearly recognised that, even though wage rates for men and women are in line, they may, and probably will in many cases, result in unequal earnings.  It is necessary to emphasise that when there is talk of equal pay for equal work&mdash;work equal to a man's in quality and quantity&mdash;it does not necessarily mean, and it is not intended to mean, that women engaged in such work will take home at the end of each week the same amount of pay as the men.</P>
+    <P>The International Labour Organisation failed to define, in any clear way, what work of equal value was, or how work of equal value was to be determined. In fact, it made an assessment of that principle almost impossible by the terms it used.  This is a quotation from the recommendation:&mdash;</P>
+    <P>&ldquo;Differential rates between workers which correspond, without regard to sex, to differences, as determined by such objective appraisal, in the work to be performed, shall not be considered as being contrary to the principle of equal remuneration for men and women workers for work of equal value.&rdquo;</P>
+    <P>It seems to me that, in inserting that provision in the recommendation, they made it almost impossible to assess the principle or to ensure its application in any particular case.</P>
+    <P>
+      <Col N="853" /> To sum up, therefore, on the theoretical side of this question, I agree that the principle of equal remuneration for men and women for the same amount of work of equal quality is quite sound.  It is in accordance with the authorities to whom we are to look for guidance in these matters but it is particularly difficult in its practical application.  Nobody has yet attempted successfully to solve the problem of defining, in simple terms, how the quality and value of the work are to be settled.  I agree that the principle in its simplest form does not operate here.  The method of determining wage rates in operation here, that is, the settlement of wages by means of free negotiation between organisations of workers and employers, has not produced it.  In regard to industrial work, I think it is true to say that men and women are not generally employed in identical or readily comparable jobs.  In the distributive trades, it is quite correct that both men and women are employed and, so far as the average citizen can see, apparently do comparable work but, nevertheless, it is common knowledge that in these trades women are paid less than men.  There must, therefore, be some difference between the quality of the work done by men and by women, because otherwise it is impossible to see why employers would employ men at the higher rates if women could do work of equal quality.</P>
+    <P>In the Civil Service, the practice is that single men and women are paid the same.  Married men are paid higher than either of them.  The same system operates in our schools, both national schools and secondary schools, and the system is now being applied to the vocational schools.  It does not apply, and this, I think, is the only substantial departure from the principle in the public service, to the professional grades.</P>
+    <P>In commercial offices, I think it is true to say that the work done by men and women is not usually comparable, but whether or not that is so, it must be recorded that the regulations made by the joint labour committees which define minimum rates for work of that kind, authorise differences in pay between men and women.  Deputy <Col N="854" /> Larkin, in seconding the motion, implied that the Trade Union Congress of which he is president, accepts the principle.  It has not been clear up to the present that any authoritative trade union organisation has accepted the principle.  In the course of the present year, a substantial number of new trade agreements have been negotiated where this matter was relevant.  These agreements provide for different rates of pay for men and women on comparable work.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Could the Minister give an example?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Most of the distribution trades.  I think every one of the distribution trades.  As I have pointed out, it is only in the distribution trade that this problem appears to be definite.  It is only there, so far as an outsider can see, that men and women are engaged on comparable work and can be alternated between one another without any substantial reduction in the service provided.  That cannot be the explanation because there must be some reason why men continue to be employed in these trades at higher rates of pay if, in fact, the work done by women is comparable with theirs. I do not know whether the decision of these trade union executives to negotiate and sanction agreements providing for differential rates of pay was due to their belief that differential rates are justifiable, or that they recognised that there was such a substantial difference in the quality and quantity of work performed by men and women that the agreements necessarily had to allow for differential remuneration.</P>
+    </Speaker>
+    <P>In the distribution trades, where there appears to be, as I have said, comparable work done by men and women, we should at least be sure of what the effect of the application of the principle may be before we apply it.  If we, in the light of prevailing circumstances where differential rates of pay operate but where, nevertheless, men are employed at the higher rate, even though their work appears to be comparable with that of women, raise the women's rate to the male rate, is <Col N="855" /> it going to mean the continuation of women in these trades at all, or if the same rates have to be paid to men and women, will any employment be available for women?  I am quite satisfied that when the unions catering for these trades came to negotiate their new agreements they were compelled to give consideration to that question, and that in sanctioning the differential rates they did so in the belief that it was in the interests of their women members.</P>
+    <P>It is true, as Deputy Norton has said, that attempts have been made in other countries to apply this principle&mdash;in the United States and in most of the Scandinavian countries&mdash;but it must be recognised that the application of that principle was associated with the desire to retain married women in employment. Here the retention of married women in employment is not merely contrary to our way of life but there is no economic need for it. Deputy Norton talked about the barren argument that women's place is in the home.  I do not think that anyone ever made that argument, but it has been contended that the married woman's place, the mother of a family, is in the home.  Personally, I am a strong advocate of that argument, while contending also that the head of the family, the man, should receive remuneration adequate to enable him to maintain his home in reasonable comfort without his wife having to go out to work.</P>
+    <P>I suggest to Deputy Norton and Deputy Larkin that they should withdraw this motion until they have made up their minds as to whether, in fact, they want this principle applied by legislation or not.  I do not think that they have appreciated the significance of the proposal that the State should for the first time appear to intervene in wage negotiations and control the outcome of them. I doubt very much if the trade union movement desires that.  While we accept this principle, we accept it in accordance with the recommendation of the International Labour Organisation that it should be applied by the means normally in use for the determination of rates of remuneration, <Col N="856" /> and the method normally in use here is free negotiation.  If the principle is to be applied it is through that method it should be applied, and if that is agreed then the Deputies' advocacy of the principle should be directed to the trade union congresses rather than to the Dáil.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The discussions here this morning would suggest that, even if a motion of this kind were to be passed, the circumstances are such that we are not quite clear into what situation it would lead us.  There are so many factors, both from the outside and the inside, affecting our economic and employment situation that I feel a mere Act of Parliament, even if that Act were enacted to ensure the application of equal pay for men and women, might have a very disrupting effect. It would be hard to know what exactly the effect of it would be, particularly at a time when there are so many difficulties with regard to wages and employment.  I do not think that anything should be brought to bear on it by way of an Act of Parliament or by an administrative act from the top.</P>
+      <P>While matters of this kind can be assisted and directed by policy as it emanates from Parliament, they must, in fact, develop a certain amount of organic tendency on their own.  The points that have been raised on both sides indicate, first of all, that this is not the arena in which a decision can be taken, and secondly, that the information which this House would want to have put before it, if called upon to give such a decision, would have to be assembled and fully reviewed.</P>
+    </Speaker>
+    <P>We may have information as to what is happening in theory.  We may even have information as to what is happening, in fact, in the United States of America, in France or in the Argentine, but when we come to deal with a situation like this what we are primarily concerned with is our own situation and what the natural tendencies are in the circumstances of our own situation.  It would be desirable that we should have all the information before us.  In the present distress and <Col N="857" /> faced with the problems that people in political life and economic life to-day have to bear, I would hesitate to suggest that there should be set up now a body that would investigate this problem.  There are many more urgent and more vital problems affecting the continued employment of both men and women requiring all the energies of the political and administrative side.</P>
+    <P>I think the Minister's suggestion is a wise one.  He told Deputy Norton that when the various important groups involved were prepared to come together with the representatives of the various Parties in the House machinery would then be set up to enable the necessary exchange of information so that the matter might ultimately come before us in a more informed light and be considered here, and any decision the House thought it desirable to take upon it might be taken here.</P>
+    <P>In the early days of the Civil Service unmarried men and women were put on the same basis.  I think it was only comparatively recently that that principle was extended to the teaching profession. That is one aspect of equal pay for men and women that we have here. It is so well-established it must be regarded as significant.  If in the early days there had been heavy provision for family allowances, the decision might have been equal pay for men and women without reference to the position of married men at all.</P>
+    <P>We must take the facts as they are. We have not got all the information.  If we had the information and had to decide this matter to-day it would be very difficult in our present state of employment and in our present financial situation to decide that there should be equal pay to-morrow for men and women in industry here.  What the effect of that decision would be on employment in present day circumstances I do not know.</P>
+    <P>That is an important matter upon which the House should have all the information available in order to systematically approach and consider it.  Whether or not we would be usefully spending our time in discussing the principle before we are quite clear as <Col N="858" /> to the economic situation of the country I do not know.  While it is, perhaps, useful to discuss the matter as it has been discussed here this morning, I would prefer to wait until such time as the various important bodies have considered it and until such time as the Minister will co-operate in seeing that the proper machinery is set up for a full consideration of the principle involved to enable all the facts to be discovered and recommendations made. In those circumstances, the House could then debate the whole subject and take a decision on it.</P>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>I am in complete agreement with the Minister that it would be a very drastic step to enforce by legislation this principle of equal pay for equal work in industry, commerce, agriculture and so on.  That would mean the over-riding of private agreements entered into between employers and employees and private agreements entered into with the trade unions.</P>
+      <P>It is significant that everybody accepts the principle of equal pay for equal work.  I think it is no harm there is general agreement on that.  It is in the implementing of that principle that difficulty arises.</P>
+      <P>Reference has been made to the fact that in the Civil Service there is equal pay as between single men and women. That does not mean, however, that the same system could be readily applied to industry generally.  We all know that conditions of employment in the Civil Service are governed by long-established practice.  That is something it might not be possible to introduce into ordinary industry.</P>
+      <P>In the Civil Service we have not actually adopted the principle of equal pay for equal work as between men and women, because married men employed in the Civil Service are paid more than single men.  That is a very marked distinction.  Therefore, if one were to apply the conditions that prevail in the Civil Service to employment generally one would not be applying equal pay for equal work.  One would only be applying equal pay as between single men and women with additional remuneration for married men.</P>
+    </Speaker>
+    <P>
+      <Col N="859" /> The matter is extremely complicated and I do not think it would be possible for any Act of this House to implement the principle involved in this motion. All the House can do is make a recommendation.  There is hardly any need for that when one finds that every section apparently accepts the general principle.  The real difficulty arises in defining what exactly is equal work and where exactly does the equality lie. It may be easy to define it where work is done by piece rate.  I do not think that is seriously considered.  It is possible to apply it in the Civil Service because there people are classified in various grades.  In ordinary industry I think it would be very, very hard to define what constitutes equal work and equality of work.  It is very hard to draw a nice distinction as to whether a man or a woman is preferable in a certain occupation or whether certain businesses should have a certain proportion of men and a certain proportion of women.</P>
+    <P>In the medical profession, for example, one would find great difficulty in defining the exact relations of equality of work.  In matters of this kind, you have first preference for men as against women.  Some patients prefer male doctors to women doctors. In nursing probably the preference would be in favour of women.  Even though the work in some cases would be scientific and would appear to be equal, it may not be regarded as equal by those whom it affects.  That factor has always to be taken into consideration. It applies also in the distribution of goods.  There are some lines of business in which customers prefer to deal with men and others in which they prefer to deal with women.  In cases of that kind it is difficult to define where equality lies.</P>
+    <P>We know that a Royal Commission was set up in Great Britain in 1944 or 1945 to examine this whole question and I think their recommendations were far from conclusive.  There was a majority report and a minority report and, in addition to that, the majority report was not very conclusive.  It was found that the members of the commission had great difficulty in deciding <Col N="860" /> in regard particularly to equality of work.  There is no doubt that in a considerable number of occupations women by their nature are superior to men.  Even in manufacturing industries where skill with the hands is required women are very frequently far superior to men.  I suppose the same is true with regard to nursing and it is probably true of a number of other occupations.</P>
+    <P>I would be inclined to agree with Deputy Mulcahy that this is hardly an opportune time either to introduce legislation as proposed in this motion or even to go so far as to institute an investigation into this whole matter. There are other problems which are far more urgent, particularly at the present time when opportunities of making a decent living as between men and women are not so very much to the disadvantage of women.  At present we have advertisements appearing every day for women workers in factories and institutions in Great Britain, and the demand for female labour must of necessity enhance the remuneration to a considerable extent.  It certainly has had that effect.  This is one of the matters in which the House would be well advised to let well enough alone.</P>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>Listening to the speakers on this motion, I have been wondering how far we can rely on the conclusions of the people who studied this matter in the countries mentioned.  It is known to everybody that these countries are not passing through normal times.  Even the United States of America and Great Britain, and you might say practically all the other countries in the world, have their production geared to a war economy. In circumstances like that it is easy for people to prescribe inducements to get women into production in their war industries.  That has been happening in Great Britain and America and other countries, such as the U.S.S.R.</P>
+    </Speaker>
+    <P>Before we can seriously consider the conclusions they have reached on this question these countries would want to be going ahead in a normal way for a considerable period without any threat of war.  If there were peace in <Col N="861" /> the world for five or ten years these countries would be in a far better position to reach a conclusion on the matter and we would be in a far better position to consider the conclusions reached by them.  In Great Britain and the United States for some years there have been all kinds of inducements held out to married women to come into industry.  That also leads to other developments which we have not experienced here, such as baby-sitters' unions and other undesirable developments which would not suit the community we have here.</P>
+    <P>I have always felt that there are certain jobs that women can do better than men.  It is equally true to say that there are certain jobs which will always be done better by men than by women.  As the Tánaiste said, there must be some reason why there has been this differential all through the years as between the sexes.  If, for instance, you prescribed by law in the morning equal pay for both sexes, I think Deputy Norton and his colleagues would be the first people to be in trouble, because it would have the effect in some particular spheres of activity of men replacing women because possibly they would be easier to control, and that again would create a further problem.</P>
+    <P>We possibly are not yet in a position to come down firmly on one side or the other of this fence.  Women just as well as men in different spheres of activity will find their own level.  In every sphere of activity individuals, irrespective of sex, do find their own level.  In many spheres of activity women are superior to men and in some instances are getting better remuneration for their services, while in other spheres you have men leading.  But, individually, they will find their own economic level and they will do that irrespective of how we try to put through what I call theoretical legislation in this House.  That will continue for all time.</P>
+    <P>In view of the abnormal conditions which have existed for some time in international affairs, I think that this is not the time to experiment in this matter.  I think we cannot well rely on <Col N="862" /> the conclusions come to by some of these organisations in outside countries, because many of those can, undoubtedly, be influenced by political considerations, or possibly influenced by the fact that they want more labour, particularly from married women, and I prefer to see this matter studied in an impartial way.  I do not think that can be done until we have a more peaceful world than exists at the present time.</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>The Minister apparently has deliberately, in his defence against this motion, created a fog of misunderstanding as to the manner in which a convention of this kind should be operated, but the more fog he created the more he confessed inferentially that we here in this country are not able to manage our legislative or economic affairs.  The principle of equal pay for work of equal value has been enshrined in their Constitution by other countries who have no more legislative or constitutional ingenuity than we have.  It has been embodied in their laws and their trade union organisation by other countries whose standard of living has not fallen below ours; in fact, a good many nations are above ours.  In labour codes and labour practice it has been possible to introduce it with governmental assistance so that all those countries adopted the principle of equal pay for work of equal value in their Constitution, in their legislation, or in their practice, but apparently we cannot do it.  Mind you, they have done this before the convention was adopted by the International Labour Office last year.</P>
+    </Speaker>
+    <P>Let me deal with a few points made by the Minister.  He quoted paragraph (2) of Article 3 of the convention and completely misinterpreted the paragraph. If the Minister looks at the paragraph again on rates of pay he will see it has nothing whatever to do with the difference between men and women.  What is does say is if there are differential rates of pay between workers, based on differences in the work to be performed, that is not to be regarded as in conflict with the principle of equal remuneration for men <Col N="863" /> and women.  But it has nothing to do with the application of particular rates of pay for men and women.  It is referring to groups of workers without regard to sex.  The Minister tries to see the convention in its foggiest possible light.  The International Labour Office has some skill in drafting conventions and making them&mdash;&mdash;</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>As vague as possible.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Sometimes it is necessary to have a certain vagueness in a matter of this kind.  The International Labour Office Convention and Recommendation laid down certain principles and marked a pathway which ought to be followed by those who want to adopt the recommendation of the convention.  Of course, if you do not want to do that the best thing you can do is to find all the faults you can with both the convention and the recommendation and that is the typical trick.  If you do not want to do the thing, say it is impossible; it cannot be implemented.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The convention does not require us to attempt to do it by legislation.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Of course it does not. You can do it if the International Labour Office never met and was never born.  As a matter of fact, before they actually functioned, I think the French Government put it into the French legislation.  The International Labour Office did not function properly until 1920 or 1921.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The committee rejected the proposal that it should be implemented by legislation.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>It did no such thing. Where did the Minister get his copy of the convention?  Let us read some portions of this to see where that is. I do not want to tire the House by reading the entire convention or the recommendation.  The Minister apparently dislikes both.  The recommendation states:&mdash;</P>
+      <P>&ldquo;Appropriate action should be taken, after consultation with the workers' organisations concerned or, where such organisations do not exist, with the workers concerned</P>
+    </Speaker>
+    <P>
+      <Col N="864" /> (a)  to ensure the application of the principle of equal remuneration for men and women workers for work of equal value to all employees of central Government Departments or agencies; and</P>
+    <P>(b)  to encourage the application of the principle to employees of State, provincial or Local Government Departments or agencies, where these have jurisdiction over rates of remuneration.&rdquo;</P>
+    <P>The Government has jurisdiction over rates of remuneration in respect of its own employees and if the Minister is sincere when he says he is in favour of the principle, then the simple test is that he should subject himself to this. If the Minister is in favour of the principle of equal pay for work of equal value, will he undertake on behalf of the Government, that that principle will be applied in respect of those persons who are employed by the State, the central authority?  There is a simple test: if the Government will do that in respect of its own employees in the State service and in the services of semi-public and public authorities which have been created by the central Government then an example will be set.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It applies to 99 per cent. of them.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Where?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>In the public service.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Where did you get these figures?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>In or around 99 per cent.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>In the State service?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Yes, equal pay for work of equal value.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>It does not indeed.  The Minister ought to have his brief brought up-to-date.  The position of the civil servants is that married officers are paid one scale of pay; single men and women get an inferior rate of pay.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Single men and women get the same rate of pay.</P>
+    </Speaker>
+    <Col N="865" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Is there any limit to the Minister's ingenuity in the matter of misrepresentation?  Take the case of a clerical officer, for example.  If he is married he has a basic pay of £200 per annum, plus allowances.  If he is single he gets a basic pay of £150 and a woman gets £150.  The single man and the single woman do not get the same rate of pay as the married officer.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>No, but they get the same rate of pay as each other.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>What does that prove? This motion is asking that they should be paid the same rate of pay for work of equal value.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>You are against married allowances?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>No.  I am not against the married allowance but I am against single men and women being made pay for the married allowance by reducing their rate of pay to enable it to be given.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is one way of putting it.  You could say the married man gets a higher allowance.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>It is a highly disreputable procedure for remunerating people.  The State says to the married man: &ldquo;You will get no increase in pay but the single man and the single woman will be cut down in pay and what we receive for bringing them down in pay we will give to the married man in the form of allowances for the children which he creates.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>This must be a Cumann na nGaedheal admission.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>They made a pretty good convert in you, for that process is going on for a while.  You know that. There is a simple test for the Minister. If he approves the principle of equal pay for work of equal value, then the Government ought to accept the principle and apply it in respect of their own employees.  Let us take another portion of the recommendation.  The recommendation says, in paragraph 2:&mdash;</P>
+    </Speaker>
+    <P>&ldquo;Appropriate action should be taken after consultation with the <Col N="866" /> employers' and workers' organisations concerned, to ensure as rapidly as practicable the application of the principle of equal remuneration for men and women workers for work of equal value in all occupations other than those mentioned in paragraph 1 in which rates of remuneration are subject to statutory regulation or public control, particularly as regards&mdash;</P>
+    <P>(a)  the establishment of minimum or other wage rates in industries and services where such rates are determined under public authority.&rdquo;</P>
+    <P>Clearly there is an obligation imposed on the State in this recommendation to take action in the matter, but the Minister's attitude is that he is going to do nothing about the question.  He will not even accept the obligation of promoting the acceptance of the principle of equal pay for work of equal value as between workers on the one hand and employers on the other hand.</P>
+    <P>I could have understood the Minister's line to-day if he said: &ldquo;We are not prepared to go as far as the legislative stage but we are prepared to accept it in principle and apply it in respect to our own employees and, in respect of those not in our employment, we are prepared to consult the trade union movement on the one hand, the employers' organisations on the other hand, and put it to them that we are in favour of the principle of equal pay for equal work.&rdquo; I could have understood that attitude by the Minister and, if the Minister would say, even now, that the Government would do that, I would be prepared to withdraw the motion but I suspect from the Minister's line of defence to-day that he is merely picking holes in the convention and in the recommendation with a view to endeavouring to show that it is impracticable.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>What I am opposed to is taking over the functions of the trade unions.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>There is no question of taking over the functions of the trade unions.</P>
+    </Speaker>
+    <Col N="867" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is what the reference to legislation means.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>This House has passed legislation from time to time which has done a whole variety of things which might, on the same plea, be regarded as appropriate to trade unions.  For instance, we prevent night work in bakeries.  We do that because of the fact that the International Labour Office passed a convention.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Because the Bakers' Union asked us.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>You did it then, yes. The International Labour Office passed a convention.  We implemented that by legislation.  That was not interfering with trade union negotiations or collective bargaining.  Similarly, in the Conditions of Employment Act, we have done many things which, if we adopted the principle of keeping the ring, as a Parliament, should be left to the free play of collective bargaining between employers and workers. We established certain minimum rates under the Conditions of Employment Act.  I think it was desirable.  I think it would help to set a higher standard, level things up and make the backward employer come up to a tolerably decent level and would help to iron out over the whole State certain minimum conditions for all classes of workers.  I think that is all desirable and necessary in the modern State where you cannot leave things to the absolute free play of economic forces.</P>
+    </Speaker>
+    <P>Similarly, I see nothing wrong in the principle of the State saying: &ldquo;Now there shall be paid equal pay for work of equal value as a matter of national principle.  The employers are to work it out among themselves.&rdquo; It has to be determined by somebody then what is work of equal value.  You may get a situation, as you would in the printing industry where there are many women employees and men employees.  The question is, is the woman doing work of equal value to the man?  Is she doing the same class of work?  An examination would show that she was not.  The principle is quite easily determined. Take a laundry, where there are a <Col N="868" /> whole lot of women.  The men do not do the same work as the women.  There it is easy to establish that it is not work of equal value.  But, you may go into a school&mdash;&mdash;</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>A shop.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Even in a shop there is some difference.  It is not quite as easy as all that.  Men do certain laborious work.  There are certain types of work that the women do not do because they are not physically fitted for it.  There are other classes of shops in which it is difficult to see any difference between the work the woman does and the work the man does.  Very often the man is put into the particular department of the shop because of the nature of the goods sold.  Nobody wishes to see them all interchangeable.  Common sense regulates the relationship between the type of worker employed in the department and the goods sold.</P>
+      <P>There is nothing in this motion or in the convention which would require the State or an employer to pay the same amount of remuneration to men and women merely because they were men and merely because they were women.  The convention and the motion ask that where they do exactly the same work they should be paid the same rate of remuneration.  In other words, that the woman should not be differentiated against.  That is what is happening to-day.</P>
+      <P>This convention or the recommendation or the motion does not ask that women as a whole should be put on the same rate of pay as men.  It recognises that there are differences there which have to be left for settlement through collective bargaining between workers and employers, but there is nothing inconsistent in the State saying, as other States have said and as His Holiness has recommended, that men and women ought to be paid the same rate of pay for work of equal value.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Nobody is objecting to saying that.  The objection is to giving the State the job of controlling wage rates.  That is the trade unions' job.</P>
+    </Speaker>
+    <Col N="869" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Suppose we take even that, we say: &ldquo;At this stage do not go into the legislative field with this thing, but as example is much better than precept, proceed at once and pay your own employees and those for whose reemuneration you are responsible, on the principle of equal pay for work of equal value.&rdquo; If the Minister would say that, we can see where we are travelling.  First, it is an acceptance of the principle by the Government and that good example will percolate down to other economic fields.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>With no allowance for married men?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I do not know whether Deputy Cogan pays his own married employees an allowance.  I would like to have some test.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>The State does.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>In respect of married employees, it is the function of the State as the State to endow marriage if it wants to endow marriage.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>That is what it is doing.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>So far as the ordinary private employer is concerned he has no responsibility in that respect. Nobody has ever dreamt of putting this responsibility on him.  It is the function of the entire State functioning as the Central Government to endow marriage if it wants to do it, but nobody can make marriage the responsibility of an employer.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>Then they cannot have equal pay between single workmen and married men.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Will the Deputy read the convention first and try to absorb some information as to how this thing has been applied in other countries? Before we are 12 months older it will be in operation in Britain.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The British Government said: &ldquo;We do not contest the principle but we cannot afford to apply it.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>They did not say they could not afford to apply it.  What they <Col N="870" /> said was that they were afraid of injecting the cost of applying it into Britain's economy at the present moment because of the possible inflationary tendencies.  But that is as foggy an argument as the Minister was using to-day against the convention and the recommendation.  That is just a kind of diplomatic or parliamentary handoff. But before we are 12 months older this will be applied in Great Britain and in the Six Counties in respect of the services for which the British Government is responsible there, and I am quite sure it will work out all right there as it works in Canada, the Scandinavian countries, France and many other countries, and then there will not be a shred of justification for the Minister's attitude as revealed to-day that there are difficulties in applying it here.  If this works in a highly organised and highly industrialised country like France and in Canada, whose economies are mammoth compared with ours in the industrial and employment field, there is no justification for pretending&mdash;and it is only pretending&mdash;pretence <i>in excelsis</i>&mdash; that there are any difficulties in operating it here.</P>
+      <P>I think the Minister only sought to create some fog of misrepresentation of the real position so far as the International Labour Office Convention and Recommendation were concerned.  He pretended to see difficulties which do not do credit to the ingenuity for which I give him credit&mdash;and I mean that.  The Minister is only trying to find holes in the convention's recommendation which were not there, and all that was a facade for the purpose of saying &ldquo;No&rdquo; to this motion, because the Minister does not want to accept it.  That is for either of two reasons&mdash;one, that he does not want to get into this field; or, more probably, he does not want to accept the financial obligations which will flow towards the Government if this motion were accepted.</P>
+    </Speaker>
+    <P>If the Government accept this principle and apply it, and use their good offices to have it generally accepted, in accordance with the advice of His Holiness, I am prepared to withdraw <Col N="871" /> the motion.  Let us see if there is any radicalism left.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I am against legislation <Col N="872" /> giving the Government a function in the determination of trade rates.</P>
+      <P>Question put.</P>
+      <P Just="Center">The Dáil divided: Tá, 23; Níl, 56.</P>
+      <P Just="Center">Tá.</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Beirne, John.<br />Blowick, Joseph.<br />Cafferky, Dominick.<br />Cawley, Patrick.<br />Coburn, James.<br />Corish, Brendan.<br />Cowan, Peadar.<br />Davin, William.<br />Desmond, Daniel.<br />Donnellan, Michael.<br />Dunne, Seán.<br />Everett, James.</entry>
+            <entry rowsep="1">Giles, Patrick.<br />Hession, James M.<br />Keyes, Michael.<br />Kyne, Thomas A.<br />McQuillan, John.<br />Murphy, Michael P.<br />Norton, William.<br />O'Donnell, Patrick.<br />O'Hara, Thomas.<br />Rogers, Patrick J.<br />Tully, John.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Aiken, Frank.<br />Allen, Denis.<br />Bartley, Gerald.<br />Beegan, Patrick.<br />Blaney, Neil T.<br />Boland, Gerald.<br />Brady, Philip A.<br />Brady, Seán.<br />Brennan, Joseph.<br />Brennan, Thomas.<br />Breslin, Cormac.<br />Briscoe, Robert.<br />Burke, Patrick.<br />Butler, Bernard.<br />Calleary, Phelim A.<br />Carter, Frank.<br />Childers, Erskine.<br />Cogan, Patrick.<br />Colley, Harry.<br />Collins, James J.<br />Crotty, Patrick J.<br />Crowley, Honor Mary.<br />Cunningham, Liam.<br />Derrig, Thomas.<br />de Valera, Vivion.<br />Fanning, John.<br />Finan, John.<br />Flanagan, Seán.</entry>
+            <entry rowsep="1">Flynn, John.<br />Flynn, Stephen.<br />Gallagher, Colm.<br />Gilbride, Eugene.<br />Hillery, Patrick J.<br />Kenneally, William.<br />Kennedy, Michael J.<br />Killilea, Mark.<br />Lemass, Seán.<br />Little, Patrick J.<br />Lynch, Jack (Cork Borough)<br />McEllistrim, Thomas.<br />MacEntee, Seán.<br />Maher, Peadar.<br />Moran, Michael.<br />Moylan, Seán.<br />Mulcahy, Richard.<br />Ó Briain, Donnchadh.<br />O'Reilly, Matthew.<br />Ormonde, John.<br />Rice, Bridget M.<br />Ryan, James.<br />Sheridan, Michael.<br />Smith, Patrick.<br />Sweetman, Gerard.<br />Traynor, Oscar.<br />Walsh, Laurence J.<br />Walsh, Thomas.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash;Tá: Deputies Breanndán Mac Fheórais and Kyne; Níl: Deputies Donnchadh Ó Briain and Killilea.</P>
+    <P>Question declared lost.</P>
+    <P>The Dáil adjourned at 1.55 p.m. until 3 p.m. on Wednesday, 5th November, 1952.</P>
+  </MainHeading>
+</Debate>

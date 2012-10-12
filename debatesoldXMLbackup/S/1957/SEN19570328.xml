@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="28" Month="Mar" Year="1957" Vol="47" No="5" DateIrish="Déardaoin, 28 Márta 1957" DateEnglish="Thursday, 28 March 1957" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="315">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="315" /> Do chuaigh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Announcements by" RHead="Cathaoirleach">
+    <Title>Announcements by Cathaoirleach.</Title>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Before entering on the Orders of the Day, I have to make announcements as follows:&mdash;</P>
+    </Speaker>
+    <P>I have received letters dated 20th March and 21st March, respectively, from the Secretary to the Government <Col N="316" /> informing me of the nomination and appointment of the Taoiseach and members of the Government and of the appointment of Parliamentary Secretaries.</P>
+    <P>I have given directions to have copies of the letters referred to set out <i>in extenso</i> in the usual manner in the Journal of the House.  Consequent on this announcement, they will also be printed in the Official Report of the Debates.</P>
+    <P>I also have to acquaint the House that I have received a letter from Deputy Patrick Tierney informing me that he has been elected a member of Dáil Eireann.</P>
+    <P>Following are the letters from the Department of the Taoiseach:&mdash;</P>
+    <P Just="Right">ROINN AN TAOISIGH</P>
+    <P Just="Right">(Department of the Taoiseach)</P>
+    <P Just="Right">BAILE ÁTHA CLIATH</P>
+    <P Just="Right">Dublin</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">S.16176.</entry>
+            <entry rowsep="1">20 Márta, 1957.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Cléireach an tSeanaid.</P>
+    <P>Tá orm a chur in iúl duit go bhfuil</P>
+    <P>(1) an tUachtarán, ar ainmniú Dháil Éireann, tar éis Éamon de Valéra a cheapadh inniu, de bhun Airteagail 13.1.1º den Bhunreacht, chun bheith ina Thaoiseach;</P>
+    <P>(2)  an tUachtarán ar ainmniú an Taoisigh, le comhaontadh Dháil Éireann roimh ré, tar éis na daoine seo a leanas a cheapadh inniu, de bhun Airteagail 13.1.2º den Bhunreacht, chun bheith ina gcomhaltaí den Rialtas agus chun bheith, i dteannta an Taoisigh, ina Rialtas:&mdash;</P>
+    <P>Seán Lemass,</P>
+    <P>Seán Mac an tSaoi,</P>
+    <P>Séamas O Riain,</P>
+    <P>Proinsias Mac Aogáin,</P>
+    <P>Oscar Mac Tréinfhir,</P>
+    <P>Pádraig Mac Gabhann,</P>
+    <P>Erskine Childers,</P>
+    <P>Seán Ó Loingsigh,</P>
+    <P>Niall Bléine</P>
+    <P Just="Center">agus</P>
+    <P>Caoimhghin O Beoláin;</P>
+    <P>(3) an Taoiseach tar éis Seán Lemass d'ainmniú, inniú, de bhun Airteagail 28.6.1º den Bhunreacht, chun bheith ina Thánaiste; agus</P>
+    <P>(4)  an Taoiseach, i bhfeidhmiú na cumhachta a bheirtear dó le halt 4 (1) den Acht Airí agus Rúnaithe (Leasú), 1946, tar éis na Ranna Stáit seo a leanas a shannadh inniu do na comhaltaí faoi seach den Rialtas a luaitear a n-ainmneacha os coinne ainmneacha na Rann:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="60*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="40*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+              <Col N="317" />An Roinn Tionscail agus Tráchtála</entry>
+            <entry rowsep="1">
+              <Col N="318" />Seán Lemass,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>An Roinn Sláinte</entry>
+            <entry>Seán Mac an tSaoi,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Airgeadais</entry>
+            <entry>Séamas Ó Riain,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Gnóthaí Eachtracha agus an Roinn Talmhaíochta</entry>
+            <entry>Proinsias Mac Aogáin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Dlí agus Cirt</entry>
+            <entry>Oscar Mac Tréinfhir,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Rialtais Áitiúil agus an</entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Roinn Leasa Shóisialaigh</entry>
+            <entry>Pádraig Mac Gabhann,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Tailte</entry>
+            <entry>Erskine Childers,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Oideachais agus Roinn na Gaeltachta</entry>
+            <entry>Seán Ó Loingsigh,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Poist agus Telegrafa</entry>
+            <entry>Niall Bléine</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>An Roinn Cosanta</entry>
+            <entry>Caoimhghin Ó Beoláin.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Sinithe) M. Ó MUIMHNEACHÁIN,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Rúnaí.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">ROINN AN TAOISIGH</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Department of the Taoiseach)</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">BAILE ÁTHA CLIATH</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">Dublin</entry>
+          </row>
+          <row>
+            <entry>S.16177.</entry>
+            <entry>21 Márta, 1957.</entry>
+          </row>
+          <row>
+            <entry>Cléireach an tSeanaid.</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Tá orm a chur in iúl duit go bhfuil an Rialtas, ar ainmniú an Taoisigh, tar éis gach duine faoi leith acu seo a leanas a cheapadh inniu chun oifig an Rúnaí Parlaiminte a luaitear os coinne a ainme:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Donnchadh Ó Briain, T.D.</entry>
+            <entry rowsep="1">Rúnaí Parlaiminte an Taoisigh agus an Aire Cosanta;</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Pádraig O Beacháin, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire</entry>
+          </row>
+          <row>
+            <entry>(Patrick Beegan, T.D.)</entry>
+            <entry>Airgeadais;</entry>
+          </row>
+          <row>
+            <entry>Micheál Seosamh O Cinnéide, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Leasa</entry>
+          </row>
+          <row>
+            <entry>(Michael Joseph Kennedy, T.D.)</entry>
+            <entry>Shóisialaigh;</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>Gearóid Mac Pharthaláin, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire</entry>
+          </row>
+          <row>
+            <entry>(Gerald Bartley, T.D.)</entry>
+            <entry>Tionscail agus Tráchtála.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>(Sinithe) M. Ó MUIMHNEACHÁIN,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Rúnaí an Rialtais.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="EamonKissane" hpid="Mr. Kissane Mr. Kissane">
+      <NameTxt>Mr. Kissane</NameTxt>
+      <P>It is proposed to take business as on the Order Paper:&mdash; Nos. 1, 2, 3, 4 and 5.  It is not proposed to take the remaining items.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Supplies and Services (Temporary Provisions) Act, 1946" RHead="(Continuance) Bill, 1957&mdash;Second and Subsequent Stages">
+    <Title>Supplies and Services (Temporary Provisions) Act, 1946 (Continuance) Bill, 1957&mdash;Second and Subsequent Stages.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time&rdquo;.</P>
+    <Col N="319" />
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>This Bill is to continue the Supplies and Services Act, which is due to expire on 31st March, until 31st December next.  Considerable progress has been made in the enactment of permanent legislation to continue such controls as were instituted under the Supplies and Services Act, the retention of which on a permanent basis has been considered necessary. There are, however, some matters for which permanent provision has not yet been made.  I hope the process will be completed during this year so that the continuation of the Supplies and Services Act after 31st December next will be no longer necessary.</P>
+      <P>The Orders at present in force under the Act, and which may have to continue in force for some time, relate to matters which mainly concern the Department of Industry and Commerce. There are, it is true, some traffic regulations made by the Minister for Local Government still enforced under the Act.  There are also a small number of social welfare regulations enforced under it.  The more important Orders, however, dependent on it for their validity relate to the control of prices, the continued suspension of some customs duties which it is not yet desired to bring back into operation and, for the time being, petrol rationing.</P>
+      <P>To the extent that these powers will be required permanently, proposals for permanent legislation will be submitted. Others of them can, I hope, be permanently dispensed with during this year.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>This Bill is a Bill of diminishing scope and there is no reason why there should be any controversy about it and no reason why it should not get all its stages to-day.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>This is the third occasion upon which I have had the pleasure of hearing such a Bill introduced.  It gives us a good example of how little change is brought about by switching Parties into office or out of office.  It seems to be the regular practice of the Government to come before each House and say that it <Col N="320" /> regrets very much having to continue this emergency legislation for the purpose of controlling certain matters, chiefly prices, supplies and so on. Indeed, Governments usually say, as the Minister has just said, that &ldquo;considerable progress&rdquo; has been made towards drafting permanent legislation, permanent legislation which will obviate the necessity for introducing this type of Bill in future.  As a rule, the Opposition then gets up and expresses surprise that faster progress has not been made; they are very unhappy about the lack of progress, and so on, and they hope they can look forward to the time when we shall have full, permanent legislation to deal with these matters.</P>
+      <P>I remember in March, 1955, Senator Ó Buachalla speaking at column 851 of Volume 44 of the Official Report.  He said then:&mdash;</P>
+      <P>&ldquo;....I should like to say that the Bill gives us no satisfaction.  We do not receive it even with mixed feelings.  We think the Bill should not be brought in, good, bad or indifferent.&rdquo;</P>
+      <P>He goes on to say:&mdash;</P>
+      <P>&ldquo;....I think we all agree that the powers which relate to price control are the ones of outstanding interest....It is clear from discussions in the Dáil that considerable progress&mdash;&mdash;&rdquo;</P>
+      <P>he used the phrase as it is used by the Minister to-day&mdash;&mdash;</P>
+      <P>&ldquo;&mdash;&mdash;has been made in the preparation of that legislation and we on this side regret very much that, since the new Government came in, they did not push ahead with the proposed legislation and have it introduced and enacted by now.&rdquo;</P>
+      <P>Later on, at column 852, he said:&mdash;</P>
+      <P>&ldquo;...I can say that the people who occupy the benches on the other side were particularly dissatisfied and particularly vocal in expressing their dissatisfaction with the continued introduction of this temporary measure.&rdquo;</P>
+    </Speaker>
+    <P>Lewis Carroll's phrase, &ldquo;Tweedledum and Tweedledee,&rdquo; is sometimes used in relation to the political Parties in <Col N="321" /> this country, and I cannot help thinking it opposite when year after year we have this permanent &ldquo;temporary&rdquo; measure introduced, and always introduced in the same terms by a Minister &mdash;that he will do wonders in order never to have to introduce it again&mdash; and always opposed in unchanging terms by an Opposition&mdash;saying that they are &ldquo;astonished&rdquo; that more progress has not been made towards abolishing it altogether.  What astonishes me is this apparently infinite capacity for astonishment, because I do not think there is anything else astonishing about it.</P>
+    <P>It is clear to me that this kind of emergency-powers legislation will go on for many years to come.  I have no doubt we will get it next year from a Minister who will say that he has made &ldquo;considerable progress&rdquo; towards introducing permanent legislation, and that he hopes not to have to introduce it again, and that the Opposition will say that they are amazed that more progress has not been made, and so on.</P>
+    <P>Before I sit down, I should just like to say two things in relation to the specific matters with which the Supplies and Services Act is concerned &mdash;the regulation of prices and supplies. There are two official bodies dealing with these matters, the Prices Advisory Body and the Fair Trade Commission. I should like to say very emphatically that, despite its faults which I have mentioned in this House before, it would be very regrettable were the Prices Advisory Body to be abolished because, before we had the Prices Advisory Body, we had decisions as to the regulation of prices going on behind departmental doors, in the Department of Industry and Commerce Prices Section.</P>
+    <P>To my mind, the setting up of the Prices Advisory Body constituted a considerable step forward in the governmental attitude towards the regulation of prices, inasmuch as, after the setting up of that body, the justification for price-rises had to be stated right out in public, whereas previously it had been sufficient merely to convince departmental officials, or the Minister.  I am not suggesting that it was necessarily any easier to convince <Col N="322" /> them than to convince the Prices Advisory Body, but I am suggesting that from the point of view of public policy and public interest, it is far better that evidence as to any necessity for a price rise of any commodity should be given in public rather than in private, and I think it is fairer to the Department itself.</P>
+    <P>In fact, one of my criticisms of the Prices Advisory Body is that some of their sittings are held in private, and some of the evidence that is put before them about profits and prices and production costs is never made public. But, despite that fact, despite the fact that I think the Prices Advisory Body should be improved by being made even more public, I think it would be a retrograde step if it were to be abolished and if we were to go back to the methods previously applied, whereby price regulation was done by the Prices Section of the Department of Industry and Commerce.  I make this point because the possibility was freely canvassed before the last Government came in that the present Minister for Industry and Commerce was contemplating abolishing the Prices Advisory Body and replacing it by the previous and considerably less satisfactory mechanism, the Prices Section of his own Department.  For that reason I think it is necessary to make that point now.</P>
+    <P>The other point I want to make is that I think we have all become aware of the very direct effect upon the costs of many commodities, foodstuffs in particular, of the recommendations of the Fair Trade Commission.  In particular I am thinking of their recommendations on pricing and supply of goods in the grocery trade.  We have all become aware of a considerable drop in the price of many groceries, due, in my opinion, directly to the work of the Fair Trade Commission and its report. In that, I think we have an example of what can be done in practice to bring down prices.  I should like, therefore, very strongly to urge upon the Minister the necessity for maintaining both the Prices Advisory Body and the Fair Trade Commission.  The Fair Trade Commission having as its principal aim the insistence that in the trades which come under its survey real <Col N="323" /> competition, price competition, shall obtain, it will be, in my opinion, always both immediately and ultimately to the benefit of the consumer.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I am not aware that I expressed regret that this legislation has to be continued or that the spokesman of the Opposition opposed its continuance.  The Government has been in office for one week and, even though we expect to move fairly rapidly in fulfilling our ideas, I did not at any time hold out the expectation that legislation to deal with the matters covered by the Supplies and Services Act could be prepared, submitted to the Oireachtas and enacted within a week.  If the Senator thinks that there is no difference between the Government now in office and the Government that has gone out of office, we hope to disillusion him very soon.</P>
+      <P>In 1954, when I was Minister for Industry and Commerce, I stated that the Supplies and Services Act would not be continued beyond the 31st March, 1955.  I had the agreement of all my colleagues in the Government to prepare legislation where required in order to make that decision effective. What happened since then is not a matter for which I am responsible.  I think it will be possible to dispense with this Supplies and Services Act completely during this year but, of course, if some exceptional difficulty should emerge during the year or some new necessity for temporary measures to protect the national interest, then it may be continued and, indeed, I have already been urged by my predecessor in office to consider the wisdom of continuing it indefinitely.</P>
+      <P>So far as the Prices Advisory Body is concerned, I am not yet prepared to make any statement regarding its future.  If the decision to get rid of the Supplies and Services Act is implemented, then some permanent legislation relating to price control will undoubtedly be required.  We can discuss the form of that legislation when it is submitted to the Oireachtas.  In the meantime, I will go no further than saying that I do not agree at all with the views the Senator has expressed.</P>
+    </Speaker>
+    <P>
+      <Col N="324" /> The Fair Trade Commission, of course, was established under permanent legislation and hardly arises on this occasion.</P>
+    <P>Question put and agreed to.</P>
+    <P>Agreed to take remaining stages now.</P>
+    <P>Bill put through Committee, reported without amendment, received for final consideration and passed.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Supplies and Services (Temporary Provisions) Act, 1956" RHead="(Continuance) Bill, 1957&mdash;Motion for earlier signature">
+    <Title>Supplies and Services (Temporary Provisions) Act, 1956 (Continuance) Bill, 1957&mdash;Motion for earlier signature.</Title>
+    <Speaker pid="EamonKissane" hpid="Eamon Ó Cíosáin Eamon Ó Cíosáin">
+      <NameTxt>Eamon Ó Cíosáin</NameTxt>
+      <P>Tairgin:&mdash;</P>
+      <P>Go gcomhthoileoidh Seanad Eireann, de bhun fo-ailt 2º d'alt 2 d'Airteagal 25 den Bhunreacht, leis an Rialtas in achainí chun an Uachtaráin go gcuirfeadh sé a lámh leis an mBille um an Acht Soláthairtí agus Seirbhísí (Forála Sealadacha), 1946 (Buanú), 1957 níos luaithe ná an cúigiú lá tar éis an dáta a tairgfear an Bille dhó.</P>
+      <P>That pursuant to sub-section 2º of section 2 of Article 25 of the Constitution, Seanad Eireann concur with the Government in a request to the President to sign the Supplies and Services (Temporary Provisions) Act, 1946 (Continuance) Bill, 1957, on a date which is earlier than the fifth day after the date on which the Bill shall have been presented to him.</P>
+      <P>As Senators are aware the existing Supplies and Services (Temporary Provisions) Act is due to come to an end on the 31st March and it is necessary that the present Bill be enacted before that date.  That is the reason for this motion.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Imposition of Duties (Confirmation of Orders) Bill," RHead="1957 ( Certified Money Bill )&mdash; Second Stage">
+    <Title>Imposition of Duties (Confirmation of Orders) Bill, 1957  (  Certified Money Bill )&mdash;  Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>This Bill, which is in the usual form, is to confirm a number of Orders made during the course of the past eight months, imposing customs duties on certain commodities <Col N="325" /> or increasing customs duties on others. The commodities to which these Orders relate are set out in the third column of the Schedule.  I have given some examination, though not a very detailed one, to the circumstances which led to the decision to impose or increase these customs duties and in all cases it seemed to me that there was justification for the action taken. Certainly it would be undesirable to allow the Orders to lapse now as they would if this confirming Bill were not passed.  In view of the circumstances in which the Orders were imposed it is not necessary for me to say anything more on the subject, but if there is any point on which any Senator would like clarification I shall be only too glad to explain matters to him.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>This is very similar to the previous Bill which came before the House.  I do not think anybody on either side opposes imposition of duties which will give protection to our younger industries.  However, I do feel a little bit perturbed that we should continue to impose protective duties at a very high rate.  For instance, in the present Bill we are imposing duties which, in a number of cases, amount to 75 per cent., or 50 per cent. preferential.  I feel strongly that where industries have been established over a period of years they ought to be able to produce goods in sufficient quantities to enable them to compete with goods imported from abroad at a reasonable rate of protection.</P>
+    </Speaker>
+    <P>I have never felt that any industries should be established here which require permanently a protective duty of, shall I say, over 25 per cent. or 33? per cent.  In a small market such as ours, it is necessary to have a certain amount of protection, but I believe Irish labour is just as competent as that in any other country to produce goods of first class quality at a price which should be able to compete with the markets of Europe.  I hope the present Minister will give serious consideration to the protective tariffs which are at present enjoyed by many of our industries, to see whether it could not be possible to reduce that protection and still ensure that we <Col N="326" /> can produce here goods for export which are up to the quality and the standard of similar goods produced in other parts of Europe.</P>
+    <P>This question must be considered in conjunction with that of a free trade area in Europe.  If we in this country are to survive within that free trade area, it is essential we should produce goods which will compete with those produced by other countries within that area.  I am convinced we can do it, but it is well that the situation would be reviewed if we are to join with those countries in free trade conditions and if we are to continue to be a prosperous nation.</P>
+    <P>Senator Sheehy Skeffington mentioned while speaking on the previous Bill the question of prices which are, of course, tied up with this Bill.  He mentioned the price of grocery goods in Dublin.  Prices of groceries have fallen in Dublin, but I think both the present and previous Governments have been endeavouring to the best of their ability to decentralise industry from the city.  It is a policy with which I am in entire agreement.  During the past fortnight or three weeks I have visited some of the remote parts of the country and have been told that in the villages and towns prices of groceries have not fallen.  People have been grumbling that the Fair Trade Commission have been able to effect a reduction in prices for these goods in Dublin.  If we are to decentralise industry, we must also provide equal opportunities for city and country people.  I feel very strongly that we should keep prices more or less on an equal level throughout the country.  For that reason I feel these duties, while we must accept them at the present time, should be reviewed by the Minister.  I hope he will do so within the next few months, not only in the case of duties imposed under this Bill but in the case of other duties as well.</P>
+    <Speaker pid="PatrickCrowley" hpid="Mr. Crowley Mr. Crowley">
+      <NameTxt>Mr. Crowley</NameTxt>
+      <P>I have just one point to make.  It is one which I put to the Minister's predecessor during a debate on a similar Bill.  The point is that an occasion exists for the Minister to have a look into the system under which these duties were imposed.  Secondly, the Minister should see whether the <Col N="327" /> duties were imposed on the profits and not on the cost of the articles.  When that point was under review in the House previously, the reply given was that we had to take the cost of the duty as well as the cost of the article itself into consideration.  I submit that, if duties are necessary and if it is the responsibility of the Government to impose them, the Government also have a responsibility to ensure that the effect of the imposition will not result in increased profits as well as increased prices&mdash;that increased duties will not also mean increased prices for the people who can least afford to pay.  I would urge on the Minister that this is a problem which should have his careful consideration.</P>
+      <P>Another point which I think I should raise is that it would be desirable, in the interest of all concerned, to introduce a system for the display and sale of articles on which duties of this kind are imposed.  I should like to repeat the suggestion I made earlier that, apart altogether from the actual retailer's cost of the article, the Government would be wise to insist that retailers selling goods on which duties of this kind have to be paid should be compelled to show, in two separate figures, the actual cost of the article and the amount of the duties paid.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I should like very much to support some of the points made by Senator Douglas in relation to imposition of duties.  I do not support what he said about grocery prices and I do not think that would come very relevantly within the scope of this Bill.  What he said about this imposition of duties, however, about the European Common Market and about protective tariffs I would support, and I should like to hear from the Minister something, at any rate&mdash; nobody can expect him now to give a general survey&mdash;of the Government's general attitude towards the imposition in future of such protective tariffs and duties as are confirmed in this Imposition of Duties Bill.</P>
+    </Speaker>
+    <P>Senator Douglas made the point that there is such a thing as over-protection <Col N="328" /> of industries, and that once an industry has got under way it seems a bit surprising that it should require a protective duty of more than 25 per cent. I think that was the figure he mentioned, whereas some of these duties are 37½ per cent., 50 per cent. or, in the second instance here, 75 per cent.</P>
+    <P>Could the Minister say whether the Government has under consideration the possibility of having something like a descending scale of duty for the protection of a given commodity being newly manufactured in this country! It seems legitimate to me that we should give reasonably efficient new industries starting here a measure of protection in what one might call their formative years, the years when they are being set up, installed and are exploring markets and perhaps learning a little by their mistakes.  It seems quite legitimate that we should give them perhaps even a high measure of protection, but it is equally legitimate that we, as representatives of the people, should expect that, if the industry is thriving and has in fact been learning, it will improve down the years in efficiency, and, as it improves in efficiency, will require a decreasing amount of protection.</P>
+    <P>Has the Minister considered reviewing the position of some of our protected industries in the light of such a contention, which seems to me to be a valid and unanswerable one, and asked himself whether the high rate of protection given to some of them in their earlier years is not now too high, and may even be so high that it is sapping their initiative and removing from them the competitive incentive to improve their methods of production and marketing?  If the cold wind of competition is kept entirely off our industries, they may wax fat, but they become unhealthy, and perhaps be quite unprepared to enter such an adventure as the European Common Market would provide.</P>
+    <P>That is why I think Senator Douglas is right when he thinks that with the possibility at some future date&mdash; perhaps a not so very far distant one &mdash;of participating in the European Common Market, in order to do so, we shall have to have efficient industry. <Col N="329" /> Some of our industries are extremely efficient, both the old and the new, but others are, shall we say, not so efficient. I attribute at least a measure of their failure to reach high efficiency, to the fact that we have been too prone to give them over-protection and not to examine afresh after a period of years whether an industry, which at the start required a protective tariff of 50 per cent., could not after five years do with a protective tariff of 30 per cent. or 20 per cent.  I should like the Minister to shed some light on that point: whether he is prepared to state Government policy on it and whether he would in general agree with what Senator Douglas stated on that issue.</P>
+    <P>I believe it is usually held that one of the values of private enterprise as a productive machine is that it acts under certain incentives, that it must be efficient in order to survive competition, and so on.  However, if you build up a big tariff barrier around it, then the &ldquo;must&rdquo; is not so strong, and the incentive is, in a parallel way, weakened.  Therefore, we should be careful about the extent to which we give State protection to industries which do not require the extreme measure of protection which we so lavishly bestow upon them, to the extent even, in some of these cases, of 75 per cent.</P>
+    <P>If I may, I should like now to question the Minister about one or two of the items to which this Bill relates.  I realise it is not quite fair to cross-examine him, as it were, in detail upon matters that have been before him for only a very short time, and if it is not possible for him to provide an immediate answer, I do not propose to press for it.  However, there are some points upon which he might be prepared, even on such short notice, to give us an opinion.</P>
+    <P>I notice, for instance, that the first of these duties relates to &ldquo;powerdrawn agricultural machines comprising certain ploughs, disc harrows and mowers and component parts.&rdquo;  It is obvious that such a duty as this is increasing production-costs for the farmer, for the agricultural producer. This is held to be largely an agricultural country.  A great deal of lip service <Col N="330" /> is paid to the agricultural community, but I have often been disappointed on previous occasions, in particular in connection with the imposition of duties on milk cans, for instance, to find how little support is given, in practice, by votes in this House to the view that to place a duty of this kind upon a commodity that will have to be bought by the farmer is to give an advantage to the industrial community at the expense of the farmer.</P>
+    <P>Would the Minister give us his view as to what it is that prompts a Government to put so high a duty as 37½ per cent. full and 25 per cent. for the U.K. and Canada on these agricultural implements, which are a necessary part of any reasonably capitalised farm to-day?  Is he happy that he should have to sponsor this&mdash;because it was made up for him by his predecessor?  Is he happy about imposing these fresh tariffs upon agricultural implements to the detriment of the farmer?  I am aware, of course, that it could be contended that our own product in these industries is every bit as good as the foreign product, but if it is every bit as good, which I am prepared to accept, could it not be made a little cheaper?  Does it really require a protective barrier, if it is every bit as good, of 37½ per cent.?</P>
+    <P>The second point I should like to deal with is in relation to the same kind of thing.  It relates to the second of these statutory instruments, No. 229, referred to in the second paragraph of the explanatory memorandum.  It deals with the question of locks and lock fittings.  We all know that an excellent series of locks is being made in this country by a relatively new company to-day.  I have no reason to believe that their efficiency is not extremely high and that the products are not comparable with anything made abroad.  I do realise that, as a new company, they may be facing certain difficulties of installation and adaptation, and that, therefore, it may be necessary to give them temporarily a large measure of protection, say, for the next few years, and that that may be the justification for giving them under this Bill a protection of 75 per <Col N="331" /> cent. duty, with 50 per cent. for the U.K. and Canada.</P>
+    <P>I should like to ask the Minister, in relation to this specific item, is it the intention of the Government to reduce that protective tariff in respect of this commodity in a few years' time, when the industry has been given a chance to get on its feet and establish its own markets?  I am asking the specific question here&mdash;the same one as I asked in a general way just now&mdash;does he envisage a descending scale of tariffs for the protection of this commodity?</P>
+    <P>The fifth paragraph in the explanatory memorandum relates to a very common or garden item of household expenditure&mdash;wooden clothes pegs.  It is an item about which it is rather difficult to work up very much emotion. I do not think there is very much political importance to be attached to the production of wooden clothes pegs; nevertheless, I should like to ask the Minister to give us some comment on what it was that necessitated the putting of a 50 per cent. full duty upon wooden clothes pegs.  I think it should be possible for us, with our industrial processes and skilled labour, to compete fairly favourably in a field like that.  I wonder do we need so high a duty as 50 per cent.</P>
+    <P>The seventh paragraph in this explanatory memorandum relates to a customs duty of 50 per cent. <i>ad valorem</i> on card clothing for use on textile machinery.  I confess I do not really know what that means, but I should like the Minister to tell us what it means and why it has become necessary to impose this duty for the purpose of protecting industry.  Perhaps this is a raw material coming in that is used by some of our industries and not by others.  In that case, are we protecting some of our industries at the expense of others, and how does it come about that we are putting 50 per cent. duty on card clothing for use in our own textile machinery which, presumably, the Minister wants to keep turning?</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>In 1952 or 1953, I initiated a series of tariff reviews which were undertaken by the Industrial <Col N="332" /> Development Authority.  A number of these have been completed.  I have not read the report of the Authority in all cases, nor can I state what action was taken on them, but that process of reviewing the developments that have taken place in each industry under the protection which is afforded is taking place and will be continued.  I think it is desirable that it should be a continuous action of the Department of Industry and Commerce.  There have been some instances of customs duties being reduced and others of customs duties being abolished, in consequence of reviews carried out either by the Department or the Authority.</P>
+      <P>This Bill does not provide for the confirmation of any Order reducing or abolishing customs duties, but there have been Bills of that kind submitted to the Oireachtas in the past couple of years.  I mentioned in connection with the Supplies and Services Act that a number of duties which had been imposed are now suspended.  One of the reasons why the Supplies and Services Act is desirable is to permit examination of those particular duties, leading to decisions as to whether they can be dispensed with altogether or need to be re-enacted in a new form.  I do not think it is possible at the present time to give a useful statement of policy with regard to industrial development, in the context of protective duties, having regard to the position in relation to the free trade area proposals.  Any statement would have to be conditional upon the outcome of the discussions now proceeding and which have not yet reached the stage in which their probable outcome is clear enough to permit of decisions being made with regard to future policy.</P>
+    </Speaker>
+    <P>I could not attempt to give detailed reasons for the particular rates selected and imposed in the Orders scheduled to this Bill.  Obviously, circumstances will vary from case to case and from commodity to commodity, and the duties selected must be enough, and no more than enough, to give effective protection.  There certainly will be cases where a higher rate of duty at the beginning of an industry might be regarded as necessary, even <Col N="333" /> though there could be at the time a determination to reduce it later when the need to interrupt trade connections and to turn the minds of buyers to the need for securing their requirements from Irish factories has been made.</P>
+    <P>I think many Senators fully understand that the continuation of trading arrangements involving the importation of goods does not always turn on the quality or price of Irish goods which are available.  It often turns on the intimate personal contacts established over the years between buyers of Irish firms and representatives of suppliers outside.  Not infrequently, it turns upon understandings which secure for one firm goods or designs which are not available to others or which are sold under a trade name which has a commercial value.  It has been found in the past that quite substantial rates of duty are needed at some stage to break these established connections and particularly to offset the commercial advantages of a well-known trade name.</P>
+    <P>I am not quite sure what Senator Crowley was referring to but I do not think it would be at all practicable to require retailers to show on the price labels the amount represented by import duty.  With regard to specific duties mentioned by Senator Sheehy Skeffington, I can give him some information with regard to agricultural machinery.  The Order was made at a time which would have enabled it to be included in the last Imposition of Duties Bill but at the time there was considerable controversy on this very question of whether agricultural implements should be subject to protective duties or not and there was probably some reason at that time for postponing the confirmation of the Order.</P>
+    <P>In my view, it is desirable that we should avoid putting upon the agricultural community any increase in the cost of material or equipment which they use.  It is also desirable that they should use Irish equipment particularly when it can be got at prices equivalent to those at which they can be imported.  In the case of the machinery to which the Order applies, <Col N="334" /> my information is that the Irish firms can supply at or below the imported prices.  There have been assurances given that there will be no increase in prices without consultation with the Department of Industry and Commerce. The factors which might continue to induce the importation of these goods, even with protection, are numerous and complex.  It is a situation in which I think the imposition of a duty was quite justified, even though the firms making these goods could, if they got the whole of the market, be quite competitive with the firms making the same goods abroad.</P>
+    <P>In the case of the duties upon locks and lock fittings, that is one of the instances to which reference has already been made&mdash;a new industry recently established producing a variety of goods which is less than the variety previously available to buyers here from a multitude of manufacturers round the world.  In order to secure the development of that industry here, quite a substantial rate of duty is probably required in the initial stages.  As it happens, the firm, which is quite an efficient one, has already effected successive reductions in its prices as its manufacture extended and it may be that in the course of time, when the practice of using its products has been established, some review of the duty will be possible.</P>
+    <P>I am not prepared to represent the manufacture of clothes pegs as a major industrial development.  The price of the pegs here is higher than imported pegs and will always be higher, mainly because the manufacturers abroad have certain advantages, particularly in regard to timber prices.</P>
+    <P>With regard to the duty upon card clothing, that is one about which I have some doubts.  The manufacture of card clothing, which is a rather important development, was undertaken here many years ago.  When I was dealing with the matter formerly as Minister for Industry and Commerce, the firm concerned specifically asked not to be given protection by way of tariff but arrangements were made by which any firm in the textile trade desiring assistance in any form from the Government were told that they were <Col N="335" /> expected to use the products of this particular industry.</P>
+    <P>I am not quite clear about the circumstances which led the firm to accept protection, but I think it is a type of industry that we should try to develop and in so far as problems may arise, and, to my knowledge, have arisen, for some firms, where a specialised type of product is required, that will have to be dealt with by means of a duty-free licence provision.  There is a substantial quantity of these machine parts used in the textile trade here, and, as the textile industry has itself received a great deal of assistance from the community under protection, it is not unreasonable to expect them to use the products of this firm at Swords when it is practicable to do so.</P>
+    <P>For the information of the Senator, card clothing is a textile or other base on which wire is threaded and which is fixed to the frame of a combing machine and is used for the combing of wool or cotton as part of the process of manufacture.  It has nothing to do with keeping the machines warm.</P>
+    <P>Question put and agreed to.</P>
+    <P>Agreed to take remaining stages to-day.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Imposition of Duties (Confirmation of Orders)" RHead="Bill, 1957&mdash;Committee and Final Stages">
+    <Title>Imposition of Duties (Confirmation of Orders) Bill, 1957&mdash;Committee and Final Stages.</Title>
+    <P>Sections 1 and 2 agreed to.</P>
+    <P Just="Center">SCHEDULE.</P>
+    <P>Question proposed: &ldquo;That the Schedule be the Schedule to the Bill&rdquo;.</P>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I take it that I would be in order in proposing a recommendation to the Schedule? Am I in order?</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Senator should have given notice of this.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>As far as notice goes, it would not have been possible for me to give notice until I heard the Minister's last speech, in which he said that Irish manufacturers were producing these items of agricultural interest &ldquo;at or below&rdquo; the imported price.  It is only in the light <Col N="336" /> of that information that I wish to move the deletion of this first item in the Schedule, the imposition of duties on certain ploughs, harrows and mowers.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I should perhaps have modified that slightly&mdash;at or below the price at which these goods are available of British manufacture.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>That does not materially alter my view and I should, therefore, like permission to move that the item relating to Statutory Instrument, No. 227 in the Schedule, be deleted.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="Liam Ó Buachalla Liam Ó Buachalla">
+      <NameTxt>Liam Ó Buachalla</NameTxt>
+      <P>Is the Senator opposing the Schedule?</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I am opposing part of the Schedule.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>That is all the Senator can do at this stage.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>On a previous occasion, it was permitted to oppose portion of the Schedule just as it is possible to oppose portion of a section.  I am prepared to hand in the recommendation in writing now.  I have it here.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>We are in Committee on the Bill.  We are dealing with the Schedule.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I took it that this was the moment to make the proposal.  We have had the Bill in hands only since yesterday morning.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I would suggest that if the Senator had intended to move a recommendation, he should have asked that time be given after the Second Stage for a recommendation to the Schedule to be circulated, when we could have had the whole matter discussed in the ordinary way. At this stage, it is difficult both for the Chair and the House.  If the Senator wants to test the judgement of the House on this recommendation, I will not rule against him.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I submit that information was given to us which makes it apparent, to me, at any rate, <Col N="337" /> that this duty is not a necessary one and might be harmful.  That information was given to us only in the Minister's last speech.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I would suggest very seriously that the Senator ought to have indicated to the Chair his desire to move a recommendation and ask that the Committee Stage ought not be permitted to be proceeded with.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>On a point of personal explanation, at the end of the Second Stage I understood the Chair to say that the Bill was given a Second Reading, whereas in point of fact he was saying: &ldquo;Do we take the Committee Stage now?&rdquo;  I am sorry; I misheard that.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I really do not feel that the Senator has any status in this matter.  I put the Second Reading to the House and I then asked when the next Stage would be taken and the Leader of the Opposition said &ldquo;Now.&rdquo; There was no opposition to the Committee Stage being taken, either from the Senator or anybody else.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>May I submit that the point at issue is a clear one?  It will not delay the House to make up its mind on the point.  I would crave the Chair's indulgence.  I did not quite realise that we had passed so swiftly from one stage to the next.  I could not have submitted this recommendation earlier because I did not get the relevant information until five minutes ago.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Would the Senator read to the House the recommendation he proposes?</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>The recommendation is:&mdash;</P>
+      <P>That the item relating to Statutory Instrument No. 227 of 1956 be deleted.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The House has heard the Senator's recommendation. I will put it.</P>
+      <P>Recommendation put and declared lost.</P>
+    </Speaker>
+    <Col N="338" />
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Could we have a division?</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Would those desiring a division please stand in their places?</P>
+      <P>
+        <i>Senator Sheehy Skeffington rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Senator will be recorded as dissenting.</P>
+      <P>Schedule put and agreed to.</P>
+      <P>Title agreed to.</P>
+      <P>Bill reported without recommendation.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>When is it proposed to take the next stage?</P>
+    </Speaker>
+    <Speaker pid="EamonKissane" hpid="Mr. Kissane Mr. Kissane">
+      <NameTxt>Mr. Kissane</NameTxt>
+      <P>Now, if the House has no objection.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>No objection.</P>
+      <P>Bill received for final consideration and ordered to be returned to the Dáil.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Central Fund Bill, 1957 (Certified Money" RHead="Bill) &mdash; Second and Subsequent Stages">
+    <Title>Central Fund Bill, 1957    (Certified Money Bill) &mdash;  Second and Subsequent Stages.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="JamesRyan" hpid="Minister for Finance (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Finance (Dr. Ryan)</NameTxt>
+      <P>Senators are no doubt familiar with the form of the Central Fund Bill, the main function of which is to give legislative effect to the Vote on Account of £37,300,000 for 1957-58 which was passed earlier this week by Dáil Éireann.  Each year on 31st March parliamentary sanction for the issue of money from the Central Fund lapses and, accordingly, the fresh sanction which the present Bill will give is necessary in order that Government services should not come to a standstill at the end of this week.</P>
+      <P>The Vote on Account is based on the detailed estimates of expenditure on the Supply Services set out in the Volume of Estimates which was recently circulated to Senators.  It represents slightly less than one-third of the total of that volume and is required to keep the State in funds until such time as the individual Estimates have been passed and the Appropriation Bill has become law.</P>
+    </Speaker>
+    <P>
+      <Col N="339" /> I explained in the Dáil that both the Estimates Volume and the Vote on Account were already printed when the present Government took office. The Estimates Volume was in fact issued on the day on which I first saw it, the 21st March, and the Vote on Account a day later.  The House will appreciate that this immediate circulation was inevitable in view of the time-factor involved and in no way implies that the present Government accepts responsibility for the Estimates in detail.  I think I have made the position in this regard clear in the slip which I caused to be circulated with the Estimates Volume and from which it will be seen that the Estimates are at present being examined in the various Departments concerned.</P>
+    <P>In these circumstances, I shall not attempt to analyse the Volume of Estimates.  The variations in the individual Estimates as compared with the current year's provisions are, as usual, summarised in the General Abstract at the front of the Volume. Meantime, pending my examination of the general financial position, I feel that it would be premature&mdash;indeed impossible&mdash;for me to make further comment.</P>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>We have seen the Minister here before in other capacities and I suppose we ought to welcome him in his capacity as Minister for Finance.  Perhaps &ldquo;congratulations&rdquo; would not be the right word to apply; perhaps we should really commiserate with the person who becomes Minister for Finance at the present moment. At any rate, this much is true, Sir, that the Bill, as the Minister says, must be passed now.  It is not a light burden that has been imposed upon him, nor was it a light burden on his predecessor; nor should it be ignored, Sir, that this Bill imposes a burden which is not light upon the public at large.  It is a Bill for a very large sum.  Whatever his immediate responsibilities are, the Minister, in the near future, will have to face finding a solution for very difficult problems.</P>
+    </Speaker>
+    <P>The Minister's predecessor showed public spirit and showed courage and <Col N="340" /> cleared the ground for progress towards a solution of our problems and we hope very sincerely that further progress will be made.  When I say that, I think it should be added that progress on the national economic front is not something which concerns the Minister alone; it is not purely the Minister's business alone or indeed the Government's business; it concerns the whole of us, that our financial problems and our economic problems should be solved and that we should face the difficulties which arise&mdash;some of them entirely external to ourselves and some of them entirely, perhaps, if I may use the word, problems for which we have the entire responsibility ourselves.</P>
+    <P>I rise to support this Bill and to agree that it must be passed.  The Minister is right in not having made any attempt to find fault or to conduct any kind of a probe to fix blame upon anybody.  That would not do any of us good in our present position.  What we really need is a concerted effort to solve a problem which really exists, rather than conduct an inquiry as to how it arose and as to who particularly is responsible for it.</P>
+    <P>The Minister says he is going to examine the Book of Estimates.  Like myself, the Minister is old enough to have heard that phrase before and he has had many experiences of the fact that, after that phrase was used, very little happened.  Whatever efforts the Minister makes to solve our financial problems, I should like on behalf of the people on this side of the House, to express our hope that these efforts will be successful.  I hope that the Estimates will be examined, not in a Party spirit, but fairly and impartially.</P>
+    <P>I should like to promise that, as far as we are concerned, our attitude should be and will be to consider the national interest&mdash;as the Minister's predecessor considered the national interest&mdash;and to support measures which seem to us to be good.  I might conclude by saying that we should rejoice and everybody will rejoice at anything effective which is done, no matter what Government or what Party does it.</P>
+    <P>
+      <Col N="341" /> Having said so much, I should like to say that this Bill, as has been pointed out by the Minister, must be passed by 31st March.  Its details, I think, cannot be discussed in the present atmosphere or in the present circumstances.  Therefore, I agree with the Bill and think that all stages should be passed to-day.</P>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>This afternoon, we have with us a new Minister for Finance and I am sure we all welcome him.  I follow Senator Hayes in his patriotic expression of opinion, that we should all join in supporting him in his efforts to stabilise the national economy.  I also share Senator Hayes's view that we should, if possible, have a short debate on this Bill so that the new Government can get down to business as soon as possible on these lines.</P>
+      <P>I will be forgiven, perhaps, if I take this opportunity of saying to a new Minister for Finance&mdash;and through him to new Ministers for Agriculture, for Health and for Education&mdash;what I think they should keep in mind as the basic first principles of our national economy.</P>
+      <P>There is grave danger in the world to-day that even the wisest of us and the most responsible of us may be bullied by long words, words like &ldquo;technology&rdquo; and &ldquo;automation&rdquo; and the like.  Because they are long and pretentious and new, we are inclined to think that they hold the secret of our welfare and will control the future. I remember a few years ago, when I was in Liverpool, just opposite the university library there, I saw written on the wall: &ldquo;Down with the synchrocyclotron.&rdquo; It was a frightening phrase.  I am sure many citizens of Liverpool shuddered as they saw that simply because it was a new, long and impressive word and it looked as if it might hold the future in its hands.</P>
+    </Speaker>
+    <P>I want the Minister to listen to some rather simple statements&mdash;they will be quite brief and the words short&mdash; but I really believe any Government that keeps these principles in mind will not be deflected from the right path by long words or false promises.  There is a risk of confusion in our minds <Col N="342" /> amid all these conflicting new terms and new ideas.  What does the natural wealth of this country depend on? Simply this&mdash;the products of our lands and of our seas and the health, strength and intelligence of our people &mdash;in other words, the gifts that Nature has given us and how we use those gifts.  We cannot get away from it in spite of long words and new policies. Those are the essentials, and everything else&mdash;industry and commerce or whatever you like&mdash;is secondary to the lands and seas and the people.</P>
+    <P>It was very pleasing to me, when I had thought this out in terms of what I have learned and what I have seen, to find out that, in fact, this is the recognised financial policy of the country and we are on the right lines although we are not going fast enough along them.  If we look at the Estimates&mdash;and may I congratulate the unknown authors of these Estimates, because the volume is a most valuable and instructive one, and I think they deserve great credit for producing it so well and so clearly&mdash;what do we find?  What are the three largest sums of money in the whole expenditure? As I see it, they are the sums to be spent on Agriculture, Health and Education.  Agriculture now receives, counting the grants, £13,500,000 compared with £4,500,000 in 1948/49. Health now receives £8,000,000 compared with £1,500,000 in 1948/49.  (I do not include the Estimate for Social Assistance.)  But what about the Estimate which deals with our knowledge and intelligence?  What about Education?  It is a fairly high figure&mdash; £11,500,000, but in 1948/49 it was already £7,000,000.</P>
+    <P>In other words within the last eight years Agriculture has received three times its original estimate, Health approximately six times, and Education less than twice what it received in 1948/49.  Those are rough figures but I think they are approximately accurate and sufficient to give a general picture.</P>
+    <P>I suggest to the Minister&mdash;he has been Minister for Health and so he will go some way with me at least&mdash; that there is an unwise discrepancy. Why is Education being neglected in <Col N="343" /> this way?  It is neglected&mdash;the figures show it.  I think it is partly psychological; people do not want much education.  I am a teacher myself and I know that from experience. They want as much health as they can get; they want their lands to be as good as they can be, but they do not want very much education. So long as they can read, write and add up pounds, shillings and pence they are often fairly well satisfied.  I am afraid that what the people do not want&mdash;may I say it?&mdash;is not a vote-catching proposition.  Health is; Agriculture is, but, I am afraid, not Education.  Again in Education you have a diminishing scale of popularity. Primary education, everyone wants; secondary education, a certain number; but the universities fewer still.</P>
+    <P>This is reflected in the Estimates. Primary Education gets £9,000,000; Secondary Education £1,800,000, and University Education, £670,000.  Consider those figures.  It means that three-quarters of the £12,000,000 is being spent on Primary Education, roughly one-sixth on Secondary Education and one-twentieth on University Education.  In what are called democratic terms, in terms of the numbers of people involved, that is fair, but if we want quality in education in this country it is unfair and unwise.  We are spending as a nation £670,000 on five university colleges.  The Northern Ireland Government is spending, I understand, about £1,000,000 on one university college.  The Northern Ireland Government is spending approximately £1,000,000 for a population of 1,000,000 people&mdash;£1 per head, you may say.  We are spending £670,000 for a population of 3,000,000; we are spending one half per cent. of our total expenditure on the universities.</P>
+    <P>Is this a wise policy in a scientific age when the use of our lands depends more and more on scientific research and scientific knowledge?  Most Senators, I think, receive a copy of an excellently edited paper called &ldquo;Irish Industry&rdquo; and they may have read an article in the last number, I think, or perhaps the one before that, on technical research and how well it pays.  It quotes figures which are <Col N="344" /> impressive.  In 1952 the United States spent 1 per cent. of gross national income&mdash;and that is a big gross national income&mdash;on research and it is going up by 10 per cent. a year.  The United States spends 2 per cent. of the gross national income on research; the Federal Republic of Germany, 1 per cent.  I do not think we are spending anything like that and yet the prosperity of our fields and forests and our seas ultimately will depend on science as well as on the health and strength and intelligence of our people.</P>
+    <P>I suggest also there is another reason for improving and fostering university education.  Because I am not a scientific man, if I simply pleaded for science, I would not be acting as a vocational Senator should.  Now that Ireland is beginning, in Emmet's phrase, to &ldquo;take her place among the nations of the world&rdquo;, our politicians, our statesmen, and our own civil servants, will need to be able to compete with the highest intelligences of European countries and countries of the world in the international parliaments, committees and organisations, which will more and more control our destiny here.  Unless our international statesmen and representatives are superlatively well educated, this country will suffer. There is very much more that could be said on this, but I will not say it now. I have said a good deal of it before in this House and, with a bit of luck, I hope to say a good deal more again in this House.</P>
+    <P>I must return once more to those first principles.  Our national wealth and prosperity depend on our lands and on our people.  They depend partly on the high quality of what nature has given us&mdash;the fertility of our fields, the physical powers and intelligence of our people.  These are God-given gifts and no Government can control or improve them in any sense.  But what Governments can and should foster and control is the better use of these gifts&mdash;the cultivation of our lands and the cultivation of our minds.</P>
+    <P>As a practical policy, I suggest to the new Ministers for Health and Education and Agriculture&mdash;with, I hope, the active co-operation of our new Minister for Finance&mdash;that they never yield to other Departments in insisting that <Col N="345" /> the country's prosperity depends primarily on their special spheres of duty.  I will go further.  I suggest to the Ministers for Health and Agriculture that much of the success of their efforts in health and agriculture will depend on the education of the country in general and on university education and research in particular.  If this is true, it follows that to spend only about 10 per cent. of the national income on education and only 5 per cent. of that 10 per cent.&mdash;that is, ½ per cent. of the total national income&mdash;on the universities is an unwise policy.  If anything I have said can persuade the Minister to keep that in mind when he has his opportunity of preparing his own Estimates, I feel I shall have done something for the country as well as for the universities.</P>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>Like the other Senators who have spoken, I wish to join in welcoming the new Minister for Finance here in the Seanad.  I trust that whilst he is Minister for Finance the nation will go ahead in prosperity. I want to suggest that he now has an opportunity for expanding the economy of this country.</P>
+      <P>I think Senators will excuse me if I return to a theme which I have mentioned before in this House, that is, the question of the balance of payments and our outlook on the balance of payments.  I happened to look&mdash; it is always a good thing, I suppose&mdash; at what I said last year on this same Bill and I notice that at that time I was optimistic enough&mdash;some people thought it very foolish&mdash;to say that the crisis in the balance of payments was not quite as severe as was being implied.</P>
+      <P>I returned to that theme again in July and again, I think, in November. I cannot say that the figures have proved me right; the figures have not been there all the time for all of us to see.  The problem we dealt with last year&mdash;we dealt with it by imposing import levies&mdash;was a problem of a £35,000,000 deficit in the balance of payments.  I supported the imposition of the import levies as being a correct measure to deal with that problem.  I still think it was a correct measure.</P>
+    </Speaker>
+    <P>
+      <Col N="346" /> What I had to say about the matter then and what I say again now is that these figures must be looked at carefully at the earliest opportunity.  Last year, we had alarm and despondency about our balance of payments.  Not alone did we impose import levies, but other steps were taken, whether deliberate or accidental.  I refer to the general credit squeeze.  This general credit squeeze principally, with, added to it, the import levies, hire purchase restrictions and the rise in interest rates, has had a very serious effect on employment.  We knew that at the time and we warned of that result. However, it was something that had to be dealt with.  We have had the peak unemployment figure of 95,000 in February of this year.  Now, because of the usual seasonal decline, that figure is going down.  I trust, however, that we will not finish with a seasonal decline but that things will continue to improve.</P>
+    <P>I said that the problem last year was a deficit of £35,000,000 in the balance of payments.  There has been a striking change since then and all of us on all sides of the House should look at that change.  The balance of payments deficit for the year ending 31st December, 1956, will not be more than £15,000,000&mdash;in other words, an improvement of £20,000,000 over the previous year.</P>
+    <P>I criticised the former Minister for Finance and, equally, I will criticise this Minister if he adopts the same attitude in regard to quoting the calender year.  It is not a complete or true picture.  We have had comparisons made between one calendar year and another&mdash;forgetting or ignoring the fact that positive steps to deal with the balance of payments crisis were taken only in March of 1956 and that any comparison should be made with the time the import levies were imposed rather than with any calendar year.</P>
+    <P>If we compare the position from the latest date we have, namely, the year ending February, 1957, with the year ending February, 1956, we will find that the deficit on the visible balance of trade was £62,000,000, while for the year ending February, 1956, there was <Col N="347" /> a deficit of £100,000,000.  That, as Senators will readily appreciate, is an improvement of £38,000,000 in 12 months.  The crisis we were facing last year was because of a deficit of £35,000,000.  Not alone have we corrected that crisis in the past year but we have apparently gone a little too far.  We have gone further than we needed to go.  The levies operated in March, 1956, but we know well that they did not begin to have effect on imports until much later and there were, in fact, further levies in July, 1956.</P>
+    <P>It is fair and very reasonable to assume from the latest figures that we will have a surplus in our balance of payments for the year ending 31st March, 1957&mdash;an extraordinary position and not a very desirable position&mdash;and that we will have an increasing surplus every month after that.  The Minister might say&mdash;and it is a fair criticism&mdash; that some improvement must be due to the running down of stocks.  I accept that some of that improvement is necessarily due to the running down of stocks, but if we look at the volume of imports&mdash;£181,000,000 worth of goods were imported in 1956&mdash;we notice that the £38,000,000 improvement in our balance of payments cannot have been due entirely to the running down of stocks and must have been due to the running down of stocks only to a slight extent.  I do not think we have been running down our stocks of oil and petrol.  Rumour has it that all over the country tanks generally are overflowing and people are only too anxious to sell their petrol and oil coupons.</P>
+    <P>The point I want to make is that we have here an opportunity of expanding our economy.  The balance of payments problem has been largely rectified.  The crisis has been surmounted.  I would not advocate that the import levies should be swept aside immediately.  I think they have good effects other than that of simply dealing with our balance of payments.  They tend to cut down expenditure on luxury goods, make more money available for capital investment here, as well as providing a better and more protected market for Irish industries.  However, in so far <Col N="348" /> as they affect employment, such as levies on the imports of parts for further manufacture here, I suggest that they should be removed immediately.</P>
+    <P>I hope the Minister will not say to me: &ldquo;I have been only a week in office. You should have said that to the previous Minister.&rdquo;  That was said to the previous Minister and I am saying it now to stress and repeat the point that the balance of payments problem may have been and has been exaggerated too much.  We have surmounted the problem, and, in fact, I think it will be shown that we have earned a surplus.</P>
+    <P>Coupled with the steps taken to deal with the balance of payments problem, there was, as I have said, a general credit restriction in the country.  That was a climate created by our difficulties.  I think the sooner that climate is changed, the better it will be for everybody concerned.  All of us, no matter on what side we may be for any little period of time, have now an opportunity of expanding our economy.  I am told that there are capital works available and ready to start.  I think it was disclosed at a Prices Advisory Body hearing in Dublin last week that the Sugar Company, for instance, had over £2,000,000 worth of replacements, capital expansion and arrears of work ready, that they were ready, willing and desiring to get on with this work, but that they were short of the necessary finance.</P>
+    <P>It is time the climate in regard to our economic position and in regard to the credit squeeze was changed in this country.  We have surmounted the crisis and, very soon, we will be earning a surplus, if we are not actually doing it at the present time.  It is time the economy was expanded, the credit squeeze ended and the cut back in our economy halted.  Employment throughout the country should be expanded generally.  The point I am making is that there is no need for gloom in looking at our economy.  We can surmount our difficulties.  We have done so in the past 12 months.  I know it is much easier to restrict than to expand. It is easy to cut back on our economy, <Col N="349" /> but it is so much more difficult to try to get things started again, having surmounted our difficulties.</P>
+    <P>I hope&mdash;and I say this sincerely&mdash; that the Minister will now find it possible to expand our economy because, as I have said, our difficulties have been overcome.  He has now a clear field in front of him.  He can face the future with courage and we will soon find an expanding economy in this country.  In other words, I trust that the Government will have a policy of expansion and not a policy of restriction.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Notwithstanding all the previous speaker has said, I believe the Minister will not be able to do anything effective until he has at least taken over control of the credit of this country.  I will not go into the matter further.  We may have a better opportunity of discussing it in the future.  I am quite satisfied that until he deals with our financial structure, the Minister will have very little to boast about at the end of his term.  He will have our co-operation in doing so.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Before the Minister speaks, I should like to make a few comments on the Bill before us and on some of the Estimates on which, as the Minister has told us, the Bill is based.  Included in the Book of Estimates this year was a short, typewritten document, telling us that the Minister for Finance had not yet had time for a detailed examination of the Estimates and that&mdash;and here I quote &mdash;&ldquo;accordingly he cannot accept responsibility for them as regards either form or amount&rdquo;.</P>
+    </Speaker>
+    <P>I should like to associate myself with those Senators who welcomed the Minister to-day in assuming a rather onerous task.  I think we can all sympathise with the Minister because he is, as it were, defending a set of Estimates which he had no part in preparing, but I am afraid he should have used a happier phrase in this disclaimer, because, of course, not merely can he accept responsibility for these Estimates, but he must do so under the Constitution, and no one else can.  We have to have governmental responsibility for the Estimates as put before us, and although he may not <Col N="350" /> like to have to defend either the form or the amount, in point of fact, legally speaking, the Government, and he consequently as a member of the Government, is responsible for these Estimates. Quite obviously, if the Minister is not responsible for them, we should have to ask: &ldquo;Who is?&rdquo; and have that person or persons before us to defend them.  However, that is only criticism of a phrase.  I think we realise what is intended by what I think was a very unhappy phrase.  We can sympathise with the Minister on the necessity in which he finds himself of defending Estimates which he really has not had time to examine thoroughly.</P>
+    <P>Nevertheless, I cannot help feeling that since individual Estimates for individual Departments are, in the main, drawn up by departmental officials, who are still with us, I am glad to say, it will not take very long to convince the various heads of Departments, the new Ministers and Parliamentary Secretaries, of the necessity for most of these Estimates in our present economic system.  In other words, we shall find when we come to the Appropriations, upon which we shall have a fuller debate&mdash; and most of us hope that we may be privileged to be back on that occasion &mdash;that the Government will in fact be defending, item by item, the same Estimates as were prepared by their predecessors.  I attribute that to something which has become all too apparent in Government policy down through the years; that is, that the policy of all our political Parties has been growing more and more alike.  I realise that the Fianna Fáil Party invariably show irritation when that is said, and tend to declare that the reason for the similarity is that Fine Gael have stolen Fianna Fáil policy.  On the other hand, the Fine Gael reply is that Fianna Fáil are at last coming around to their point of view.</P>
+    <P>I speak as an Independent, and it seems to me, as I view Government policy, and as that policy is implied by such Estimates as we have before us and as it will be implied in the Appropriations, that there is a good deal of truth in both those points of view.  It is true that Fine Gael policy has grown <Col N="351" /> closer to Fianna Fáil.  It is also true that Fianna Fáil policy has grown closer to that of Fine Gael.  What both have in common as regards policy is enormous, and extremely conservative. What separates them is infinitesimal.  I should, therefore, like the Minister at this stage to tell us something about the kind of considerations that he will have in mind when he comes to preparing the Appropriations, the Budget and the provision of moneys in continuance of the measures inherent in this Central Fund Bill, but more in accordance with his own Party's policy.</P>
+    <P>I should like, if I can, to stimulate him into indicating to us just what sort of differences he will expect to find it necessary to introduce.  As at present advised, I venture to predict that the sort of differences that will be introduced will be for the most part imperceptible to the naked eye, in so far as they will represent any change in attitude towards our social and economic system.</P>
+    <P>Quite some time ago an Irish political leader committed himself to the proposition, and I quote:&mdash;</P>
+    <P>&ldquo;That the whole basis of production, distribution, finance and credit requires complete overhauling... If we shirk any item in this task, if we fail to make the radical changes necessary, if we fail to organise our economic life deliberately, and purposefully to provide as its first object for the fundamental needs of all our citizens so that everyone may at least be reasonably housed, clothed and fed, we shall be failing in our duty, and failing cruelly and disastrously.&rdquo;</P>
+    <P>The phrase that goes just before all that is: &ldquo;No matter what interest is crossed.&rdquo;  Now, that is the kind of adumbration of policy to which I, for one, would rally, and to which, I think, many Irish people would rally. It was an adumbration of policy vouchsafed us on September 26th, 1932, by Mr. de Valera, when he was President of the Council of the League of Nations, and was speaking in Geneva, and had, in fact, himself been in power in Ireland for a few months.</P>
+    <P>I should like to ask the Minister now if anything like that still represents <Col N="352" /> his Government's policy?  Does he feel that, unless he radically alters the whole system of production, distribution, finance and credit in order to provide as its first object for the fundamental needs of the people, he will have failed in his duty, and failed cruelly and disastrously?  Or is that just some old forgotten theory which has no longer any relevance?  Is it something to which attention need no longer be given?  I should like to feel that that is not just old, stale, past history and that this Government now, with its large majority, put in with a clear mandate, intends radically to alter our whole system of distribution, production, finance and credit so as to provide, as its first object, for the fundamental needs of our people.</P>
+    <P>It is only fair that we should wait a little longer for a full statement on policy, but I would welcome from the Minister to-day some assurance that the Government will not be satisfied merely to keep the highly defective machine ticking over.  That is all that has been done by successive Governments from the beginning, from the time when we first gained a measure of self-government.  The Minister has told us that this Central Fund Bill is based on the Estimates, and, although he legitimately disclaims personal responsibility for those Estimates, he now has ministerial responsibility for them.  From that point of view, I should like to comment on some of the items now.</P>
+    <P>I make the first comment because I feel it is a comment that should be made, but, at the outset, I should like to say that in making this comment I intend no discourtesy and I hope no one will take offence.  I would like the Minister to give us some clarification. I refer to the Estimate which allows a sum of £1,186 for &ldquo;a State gift&rdquo; to His Holiness the Pope of a set of vestments to mark the occasion of his 80th birthday.</P>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Senator must be aware that details of administration may not be discussed on this Bill.  Broad lines of Government policy may be referred to, but an examination of the Estimates may not be entered into on this measure.</P>
+    </Speaker>
+    <Col N="353" />
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>My purpose is to question the Minister on the principle involved in the application of public moneys, raised by taxation, for a gift of this nature to one whom, both as a person and a symbol, we all respect but to whom a gift of this kind seems to me to be something for which public moneys ought not to be voted.  It is not on the detail that I speak but on the principle involved in making such a State gift.  Clearly, a voluntary subscription in a matter of this kind would have an immense success, and an immense success probably amongst members of the Government, but to vote public moneys for such a purpose seems to me to be making an improper use of public funds.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>So long as the Senator remembers that he may not enter into a discussion of the working of the Departments, he may proceed.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Yes.  I refer, therefore, to this principle.  I think one does not have to be a member of his Church to recognise the saintliness, the extreme simplicity and, I think, the wisdom of the person who is at present Pope, His Holiness Pope Pius XII; and he himself, I would suggest, is the very person who might prefer it, had we decided to spend £1,100 on clothing poor children in the back streets of our towns and villages and sending a message to him that inasmuch as we had done it into the least of these, we had done it unto him.</P>
+    </Speaker>
+    <Speaker pid="TedOSullivan" hpid="Mr. T. O'Sullivan Mr. T. O'Sullivan">
+      <NameTxt>Mr. T. O'Sullivan</NameTxt>
+      <P>Is this in order, I wonder, at all or is the Senator permitted to discuss a matter of that kind at all in any public place?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>If the matter is one of general policy.</P>
+    </Speaker>
+    <Speaker pid="TedOSullivan" hpid="Mr. T. O'Sullivan Mr. T. O'Sullivan">
+      <NameTxt>Mr. T. O'Sullivan</NameTxt>
+      <P>Is it a put-up job of Trinity College, or what?</P>
+    </Speaker>
+    <Speaker pid="JaneDowdall" hpid="Mrs. Dowdall Mrs. Dowdall">
+      <NameTxt>Mrs. Dowdall</NameTxt>
+      <P>I would like to know that, too.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>That is a most ill-considered and injudicious remark. May I ask the Senator to withdraw the insinuation that he has just made against Trinity College?  On a point <Col N="354" /> of order, I think it is only reasonable that such an insinuation should be withdrawn.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Chair does not think that there was anything disorderly in the remark.  Senator Sheehy Skeffington to continue.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I am afraid that I consider that it is my right as a member of this House to ask questions and to comment on the manner in which money voted by this House is spent.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Except that the Senator may not go into detail on these matters.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I realise that, a Leas-Chathaoirligh.  I should just like to assure Senator O'Sullivan that this is not what he calls a &ldquo;put-up job&rdquo;&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="TedOSullivan" hpid="Mr. T. O'Sullivan Mr. T. O'Sullivan">
+      <NameTxt>Mr. T. O'Sullivan</NameTxt>
+      <P>It certainly is a put-up job&mdash;£1,100.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>&mdash;&mdash;and that I speak here in my personal capacity as a member of this Seanad, with, I think, a full right to put the question as to what way the money estimated for in these Estimates is to be spent.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Senator has dealt sufficiently with that question.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I will leave the question, a Leas-Chathaoirligh, if you will just permit me to repeat what I said at the beginning, that I can assure the House and Senator O'Sullivan that I intend no discourtesy either to the Seanad or to the Minister, to the Church or to His Holiness the Pope himself, but that I have felt it my right, and indeed my duty to raise the question, in no spirit at all, I can assure him, of desiring to give offence, and I think that if my remarks are examined, it will be found that I have committed no discourtesy. However, on your ruling, Sir, I should like to leave that subject and to pass to one or two other items in the Estimates.</P>
+    </Speaker>
+    <Col N="355" />
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>May I say that it should be commented that you did not rule the Senator out of order on that matter?  Is that not correct?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="PatrickFirmullaghOReilly" hpid="Mr. O'Reilly Mr. O'Reilly">
+      <NameTxt>Mr. O'Reilly</NameTxt>
+      <P>It would be a pity to rule him out of order.  It would be a pity to make martyrs out of people who are not martyrs.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I withdraw that phrase, if I said it, and I intended no discourtesy to you, a Leas-Chathaoirligh. I realise that you are keeping very strictly within the rules of order, and have been entirely fair to me in this matter.  I hope that I can leave the matter there, having said what I felt needed saying without any suggestion of my being a martyr or a victim in any way.</P>
+      <P>I should like to turn to another Supplementary Estimate, Estimate No. 22, which refers to universities and colleges, in which there is an item of £20,000 for &ldquo;site development&rdquo; at Belfield, Stillorgan.  I mention this question mainly for the purpose of seeking information.  It is said to-day in a letter to the <i>Irish Times</i> that any money that will have to be voted for building of a new university or university college or residense there, will have to be voted by the Oireachtas and will have to be debated.  I think that that is quite true and I think that this is the moment when we might have at least some indication from the Minister as to just what is the policy of the Government in relation to future building upon this site.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>I am afraid it will not be in order for the Minister to go into that matter on this Bill.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I understand that we are voting to-day £20,000 for site development.  I accept your ruling, of course, but I think it legitimate to ask the Minister what is the site for; because, obviously, we do not develop a site for no purpose.  I should like to make it quite clear, and I think I can now speak for all of Trinity College, that if moneys are to be voted for the purpose of alleviating <Col N="356" /> the present very considerable overcrowding of University College&mdash;and I take this particular Estimate as being an indication of that&mdash;then I think all of us would be in favour of that, and would be most sympathetic with any plan to give effect to the bettering of conditions, along the lines indicated, for this sister college.  I do think, however, that something should be said about the plans for future development of this site.  I should not like to feel that we vote to-day the site, to-morrow the basement, the day after that the first floor, and so on.  I should like to feel that a general policy is being evolved.  I should have liked to go into a certain amount of detail there, but I realise that I should not be in order. I prefer just to put the question as to whether the Government has yet reached the point when it could take the public into its confidence as to its policy in regard to the future of this site.</P>
+      <P>I should like to pass to just one other point.  I do not want to speak at length.  Senator Stanford has already said, far better than I can, what should be said about the importance of the granting of money for education in this country, and, rightly I think, he did not concentrate simply upon university grants, but directed his remarks to the necessity for an overall grant for education, which would be considerably increased.  I should like an assurance from the Minister that it is the intention of the present Government to implement the desire, which I think is a national desire, to improve our educational standards at all the levels.</P>
+    </Speaker>
+    <P>I find it disappointing that in Votes 40 and 41, relating to primary and secondary education, between 1948-49 and 1957-58, the amounts voted or estimated for primary education showed an increase of roughly 80 per cent., from £5,000,000 to £9,000,000, and for secondary education an increase of something over 120 per cent., from £800,000 to £1,800,000.  I am not at all suggesting that too much money is spent on secondary education.  Not nearly enough is spent, but I should like to feel that primary education is <Col N="357" /> not being forgotten even in a relative sense, because it is the only education got by the majority of our people.  I do not think we should forget that.  I think it is the one Estimate for which we can continually demand more generous treatment.</P>
+    <P>I should like the Minister to realise that the present Estimate&mdash;whether he cares to take responsibility for it or not&mdash;in relation to Vote 56 relating to Defence has been reduced by £1,000,000. I think that is an excellent thing. That Estimate has been reduced from £7,000,000 to £6,000,000.  However, in 1948-49 that Estimate was only £3,500,000.  I fail to see why our Estimate for Defence has to be anything like £6,000,000.  I am afraid a lot of that money goes for expenditure upon foolish notions of prestige.  I should like to feel that the new Government will have the courage to cut and rationalise expenditure on Defence, and will have the imagination to see that the best way in which money so saved could be spent would be upon the real defence of this country&mdash;to transfer it to the Vote for Education, because, in the final analysis, our educational standards are our deepest defence.</P>
+    <P>I believe that in this country&mdash;and I am not accustomed to indulging in superlatives&mdash;we have in our children a level of intelligence which is quite remarkable.  Those children deserve a better chance than, so far, any Government has found it possible to give them.  I should like to end on that note and ask the Minister to assure us that the new Government will have as one of its first concerns the immediate improvement of the standard of education of all our people.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>First of all, I should like to thank Senators who were so very kind to me in their remarks.  I wish them well for the future.  I hope we may be able to work together to improve conditions generally in this country.  Senator Murphy talked of the balance of payments crisis and I should like to say a few words on that. I do not think that this time last year the position was exaggerated; in fact it did take three very drastic provisions&mdash;import levies, a credit squeeze <Col N="358" /> and hire purchase restrictions&mdash;to get things into a comparatively good position again.</P>
+      <P>We may have reached that position now, but these restrictions are still there, and, while I am indeed very sympathetic with Senator Murphy's point of view that some of these things should be withdrawn as soon as possible, one is always afraid that, if they are withdrawn suddenly, we may get back into the old position again. The whole position requires very careful consideration before anything like that is done.</P>
+      <P>Senator Hickey said we should take control of our credit or something to that effect.  I do not know exactly what he means by that.  I have heard him speak on the same problem before and I should be very happy indeed to get any advice he may be able to give me on the subject.  Senator Stanford told us that our greatest assets in this country were our production from the land and from the sea.  Nobody will deny that, coupled with the health and strength and intelligence of our people, these are our greatest assets.  We should do all in our power in the way of the provision of money or in the formulation of policy to make towards further production from the land and we should, of course, at all times help our people with regard to health, strength and intelligence.</P>
+      <P>Senator Stanford remarked that the three highest Estimates in this Book were those for the Department of Health, first of all, the Department of Education and Agriculture.  That is almost true.  He overlooked one thing &mdash;the Department of Social Welfare which, unfortunately, swallows more money than any other Department.  I suppose it is not a good sign of our economy that we should have to spend so much money through that Department, but, at the same time, the conditions of the people concerned&mdash;the unemployed, the widows and orphans and the old age pensioners&mdash;demand that money be spent in this way.</P>
+    </Speaker>
+    <P>Senator Murphy seemed to think that we had gone too far in our measures to solve our balance of payments problem.  I should like to assure him we have not gone too far.  I am, <Col N="359" /> of course, speaking from the knowledge gained from an examination of the position during the past week or so.  I do sympathise with the Senator and with anybody else who wishes to see these restrictive measures removed as soon as possible.  &ldquo;As soon as possible&rdquo; is the operative phrase.  I would not like to say when that will be&mdash;certainly not the immediate future.</P>
+    <P>Senators are anxious to see our economy built on a proper basis.  All would agree on that and I should like to say that, as far as I am concerned, I will do my utmost to bring in a Budget that will be properly balanced. That will mean, possibly, that some very unpleasant actions will have to be taken.  I do not expect to get many suggestions as to how expenditure can be reduced and revenue increased. Such suggestions would be very welcome, if they could be made.  I am afraid quite a lot will have to be done either by way of increasing revenue or cutting down expenditure.  These are matters for the Government, and, when the time comes, they will have to face the Oireachtas with proposals for balancing the Budget.</P>
+    <P>As Senator Sheehy Skeffington says, it may be that year after year the Estimates appear much in the same form, whatever Government may be in power.  When I say I am not taking responsibility for the form of the Estimates now, I must point out that legally I am responsible for presenting them to the House.  What I mean is that I am not taking responsibility for the final form of the Estimates.  I am asking the House to give the Government permission to spend £37,000,000 while we are bringing the main Estimates through the Dáil and coming along to the Seanad later with the Appropriation Bill.  In regard to some of these Estimates, we may come to the conclusion that money is being spent unwisely or that sufficient money has not been estimated for certain services.  We may cut some of the Estimates and decide that enough money has not been provided in other cases.  I think that is what I had in mind when I pinned a slip to the Book of Estimates stating that I was not <Col N="360" /> taking responsibility for either the form or the volume of any of the Estimates submitted.  A new Government should not hastily make changes and indeed should not make a change at all, unless they feel it is necessary. It would be a very bad thing if Governments coming in were to make changes for the sake of making changes in the Estimates that are already presented. Therefore, if you give us a little time, we will be able to make it known what changes we do propose.</P>
+    <P>I subscribe, of course, as I suppose do all the members here, to the formula as stated by Senator Sheehy Skeffington, that we should provide for the fundamental needs of our people. I take it that everybody who goes into politics has that aim.  We may have a different way of looking at that or we may have a different way of achieving that aim, and we probably have not the same method in mind as Senator Sheehy Skeffington or other Senators here, but at least we have the same aim.  If it is necessary to make radical changes in the financial structure or in our economic system in order to achieve that end, I have no hesitation in saying that it will be done.  That question will be part of the examination we are making and intend to make of the finances that are presented so far, as covered by these Estimates.</P>
+    <P>With regard to this gift to the Pope, I do not know much about it and I do not know in what circumstances the Government decided to make this gift, although I saw a reference to it in the papers.  It is not, by the way, covered in this Book of Estimates at all.  The Seanad will not have an opportunity of discussing that point officially until the Appropriation Bill comes along at the end of the summer.  As I say, I do not know the circumstances in which the Government made this gift, but I do know that, if the Government want to, they have a perfect right to make a gift to anybody, even people much less worthy than His Holiness the Pope, provided they get the sanction of the Dáil, and that sanction will be sought in due course.</P>
+    <P>As regards the site development at University College, Dublin, negotiations have been going on between <Col N="361" /> more than one Government and U.C.D. for buildings for what would amount practically to a new university college. It will cost a lot of money and will take a long time to build, but it will not start until the Minister for Finance feels that he is in a position to provide the necessary capital.  The previous Government, I understand, were seeking means of spending money on relief.  This happened to be convenient to a very big pool of unemployment and they thought they could spend £20,000 in developing the site which will be necessary and which will be done before any building is attempted there.</P>
+    <P>With regard to giving an assurance to the Seanad that we intend to improve our educational standards, I do not think there is any difficulty about giving that assurance.  I am sure I can say that there was never a Government coming into office in this or probably any other country that had not the best intentions of improving educational standards, and we have those intentions.  We have as a Government before done what we considered to be our duty in improving educational standards by getting the best available personnel, by improving the conditions of that personnel and also by spending money on school buildings, particularly in connection with primary education. Therefore, anybody who will examine the record of the Fianna Fáil Government will have no hesitation in expecting that they will improve educational standards.  I am sure that if anybody were speaking here for a Coalition Government, he would say the same thing.  I think that would apply to all Governments.</P>
+    <P>Question put and agreed to.</P>
+    <P>Agreed to take remaining stages to-day.</P>
+    <P>
+      <Col N="362" /> Bill passed through Committee, reported without recommendation, received for final consideration and ordered to be returned to the Dáil.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Central Fund Bill, 1957&mdash;Motion" RHead="for Earlier Signature">
+    <Title>Central Fund Bill, 1957&mdash;Motion for Earlier Signature.</Title>
+    <Speaker pid="EamonKissane" hpid="Eamon Ó Cíosáin Eamon Ó Cíosáin">
+      <NameTxt>Eamon Ó Cíosáin</NameTxt>
+      <P>Tairgim:&mdash;</P>
+      <P>Go gcomhthoileoidh Seanad Éireann, de bhun fo-ailt 2º d'alt 2 d'Airteagal 25 den Bhunreacht, leis an Rialtas in achainí chun an Uachtaráin go gcuirfeadh sé a lámh leis an mBille Príomh-Chiste, 1957, níos luaithe ná an cúigiú lá tar éis an dáta a tairgfear an Bille dhó.</P>
+      <P>That, pursuant to sub-section 2º of section 2 of Article 25 of the Constitution, Seanad Eireann concur with the Government in a request to the President to sign the Central Fund Bill, 1957, on a date which is earlier than the fifth day after the date on which the Bill shall have been presented to him.</P>
+      <P>The same factor is involved here as in the case of Motion No. 2.  It will be necessary to have the Central Fund Bill enacted before 31st March which means that the usual five-day period cannot be allowed to pass before the President signs it.  The purpose of this motion is to obtain the permission of the House to give the President authority to sign the Bill forthwith.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>I second.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Ba mhaith liom, mar Leas-Chathaoirleach, gach dea mhian a ghui ar na Seanadóirí idir anois agus an céad cruinniú eile.</P>
+      <P>The Seanad adjourned at 5.20 p.m. <i>sine die.</i></P>
+    </Speaker>
+  </MainHeading>
+</Debate>

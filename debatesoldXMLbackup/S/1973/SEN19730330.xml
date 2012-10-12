@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Fri" Date="30" Month="Mar" Year="1973" Vol="74" No="6" DateIrish="Dé hAoine, 30 Márta 1973" DateEnglish="Friday, 30 March 1973" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="501">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="501" /> Chuaigh an Cathaoirleach i gceannas ar 3 p.m.</P>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Message from" RHead="Dáil Éireann">
+    <Title>Message from Dáil Éireann.</Title>
+    <Speaker pid="MichealCranitch" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Fuarthas an teachtaireacht seo a leanas ón Dáil:</P>
+      <P>Tá Dáil Éireann taréis aontú leis an leasú a rinne Seanad Éireann ar an mBille Leasa Shóisialaigh (Sochar Pá Choibhneasa), 1972.</P>
+      <P>The following message has been received from the Dáil:</P>
+      <P>Dáil Éireann has agreed to the amendment made by Seanad Éireann to the Social Welfare (Pay-Related Benefit) Bill, 1972.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Appointment of Taoiseach" RHead="and Members of Government">
+    <Title>Appointment of Taoiseach and Members of Government.</Title>
+    <Speaker pid="MichealCranitch" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Sula gcromfar ar Orduithe an Lae, tá orm na nithe seo a leanas a chraoladh:</P>
+      <P>Fuair mé litir dar dáta an 15 Márta, 1973, ó Rúnaí Roinn an Taoisigh agus litir dar dáta an 14 Márta, 1973 ó Rúnaí an Rialtais ag cur ainmniú agus ceapadh an Taoisigh agus comhaltaí an Rialtais agus ceapadh Rúnaithe Parlaiminte in iúl dom.</P>
+      <P>Tá treoracha tugtha agam cóipeanna de na litreacha a leagan amach <i>in extenso</i> ar an ngnáthmhodh i gCín Lae an Tí.  De dhroim an chraolta seo, clófar iad freisin i dTuairisc Oifigiúil na nDíospóireachtaí.</P>
+      <P>Before entering on the Orders of the Day, I have to make an announcement as follows:</P>
+    </Speaker>
+    <P>I have received a letter dated 15th March, 1973 from the Secretary to the <Col N="502" /> Department of the Taoiseach and a letter dated 14th March, 1973, from the Secretary to the Government informing me of the nomination and appointment of the Taoiseach and members of the Government and of the appointment of Parliamentary Secretaries.</P>
+    <P>I have given directions to have copies of the letters referred to set out <i>in extenso</i> in the usual manner in the Journal of the House.  Consequent on this announcement, they will also be printed in the Official Report of the Debates.</P>
+    <P>15 Márta, 1973</P>
+    <P>Cléireach an tSeanaid</P>
+    <P>Tá orm a chur in iúl duit go bhfuil</P>
+    <P>(1)  an tUachtarán, ar ainmniú Dháil Éireann, tar éis Liam Mac Cosgair a cheapadh inné, de bhun Airteagal 13.1.1º den Bhunreacht, chun bheith ina Thaoiseach;</P>
+    <P>(2)  an tUachtarán, ar ainmniú an Taoisigh, le comhaontú Dháil Éireann roimh ré, tar éis na daoine seo a leanas a cheapadh inné, de bhun Airteagal 13.1.2º den Bhunreacht, chun bheith ina gcomhaltaí den Rialtas agus chun bheith, i dteannta an Taoisigh, ina Rialtas:&mdash;</P>
+    <P>Brendán Mac Fheórais, Pádraig S. Ó Donnagáin, Séamus Ó Táithligh, Risteárd Ó Riain, Marcus Mac Giolla Fhionntáin, Micheál Ó Laoire, Tomás Ó Domhnaill, Tomás Mac Giolla Phádraig, Gearóid Mac Gearailt, Conchubhar Crús Ó Briain, Peadar de Barra, Saorbhreathach Céitinn, Risteard de Búrca agus Pádraig Ó Cuana</P>
+    <P>(3)  an Taoiseach tar éis Brendán Mac Fheórais a ainmniú inné, de bhun Airteagal 28.6.1º den Bhunreacht, chun bheith ina Thánaiste; agus</P>
+    <P>(4)  an Taoiseach, i bhfeidhmiú na cumhachta a thugtar dó le halt 4 (1) den Acht Airí agus Rúnaithe (Leasú), 1946, tar éis na Ranna Stáit seo a leanas a shannadh inné do na comhaltaí faoi seach den Rialtas a luaitear a n-ainmneacha os coinne ainmneacha na Ranna:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+              <Col N="503" />An Roinn Sláinte agus An Roinn Leasa Shóisia- laigh</entry>
+            <entry rowsep="1">
+              <Col N="504" />Brendán Mac Fheórais,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>An Roinn Cosanta</entry>
+            <entry>Pádraig S. Ó Donnagáin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Rialtais Áitiúil</entry>
+            <entry>Séamus Ó Táithligh,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Airgeadais</entry>
+            <entry>Risteárd Ó Riain,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Talmhaíochta agus Iascaigh</entry>
+            <entry>Marcus Mac Giolla Fhionntáin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Saothair</entry>
+            <entry>Micheál Ó Laoire,</entry>
+          </row>
+          <row>
+            <entry>Roinn na Gaeltachta</entry>
+            <entry>Tomás Ó Domhnaill,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Tailte</entry>
+            <entry>Tomás Mac Giolla Phádraig,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Gnóthaí Eachtracha</entry>
+            <entry>Gearóid Mac Gearailt,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Poist agus Telegrafa</entry>
+            <entry>Conchubhar Crús Ó Briain,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Iompair agus Cumhachta</entry>
+            <entry>Peadar de Barra,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Tionscail agus Tráchtála</entry>
+            <entry>Saorbhreathach Céitinn,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Oideachais</entry>
+            <entry>Risteard de Búrca,</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>An Roinn Dlí agus Cirt</entry>
+            <entry>Pádraig Ó Cuana</entry>
+          </row>
+          <row>
+            <entry>D. Ó Súilleabháin, Rúnaí an Rialtais</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>14 Márta, 1973.</P>
+    <P>Cléireach an tSeanaid.</P>
+    <P>Tá orm a chur in iúl duit go bhfuil an Rialtas, ar ainmniú an Taoisigh agus i bhfeidhmiú na cumhachta a thugtar dóibh le halt 7 (1) den Acht Airí agus Rúnaithe, 1924, arna oiriúnú de dhroim an Bunreacht a achtú, tar éis gach duine faoi leith acu seo a leanas a cheapadh inniu chun oifig an Rúnaí Parlaiminte a luaitear os coinne a ainm:</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Seán Ó Ceallaigh, T.D. (John Kelly, T.D.),</entry>
+            <entry rowsep="1">Rúnaí Parlaiminte an Taoisigh agus an Aire Cosanta,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Mícheál Pádraig Ó Murchadha, T.D.<br />(Michael Pat Murphy, T.D.),</entry>
+            <entry>Rúnaí Parlaiminte an Aire Talmhaí- ochta agus Iascaigh,</entry>
+          </row>
+          <row>
+            <entry>Risteard de Barra, T.D.<br />(Richard Barry, T.D.),</entry>
+            <entry>Rúnaí Parlaiminte an Aire Sláinte,</entry>
+          </row>
+          <row>
+            <entry>hAnnraoi Ó Cionaith, T.D.<br />(Henry Kenny, T.D.),</entry>
+            <entry>Rúnaí Parlaiminte an Aire Airgeadais,</entry>
+          </row>
+          <row>
+            <entry>Proinsias Mac Bhloscaidh, T.D.<br />(Frank Cluskey, T.D.),</entry>
+            <entry>Rúnaí Parlaiminte an Aire Leasa Shóisialaigh,</entry>
+          </row>
+          <row>
+            <entry>Mícheál Ó Beaglaoi, T.D.<br />(Michael Begley, T.D.),</entry>
+            <entry>Rúnaí Parlaiminte an Aire Rialtais Áitiúil</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>John Bruton, T.D.</entry>
+            <entry>Rúnaí Parlaiminte an Aire Oideachais.</entry>
+          </row>
+          <row>
+            <entry>(John Bruton, T.D.),</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>San am céanna, de bhun alt 7 (7) den Acht thuasluaite arna oiriúnú, tugadh toiliú an Rialtais le tairiscint an Aire Airgeadais go ndéanfadh sé na dualgais a bhaineann le riaradh Oifig na nOibreacha Poiblí a shannadh do Rúnaí Parlaiminte an Aire Airgeadais.</P>
+    <P Just="Right">D.Ó Súilleabháin,</P>
+    <P Just="Right">Rúnaí an Rialtais.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Members of Seanad Éireann" RHead="elected to Dáil Éireann">
+    <Title>Members of Seanad Éireann elected to Dáil Éireann.</Title>
+    <Col N="505" />
+    <Speaker pid="MichealCranitch" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Tá orm freisin a chur in iúl don Teach gur toghadh na Comhaltaí seo a leanas ina gComhaltaí de Dháil Éireann agus, dá réir sin tá éirithe acu as a n-ionaid i Seanad Éireann:&mdash;</P>
+      <P>Liam Ó hEachthigheirn, Ruairí Brugha, Breandán Ó Críonáin, Eibhlín Nic Dheasúnaigh, Seosamh Ó Fearghail, Seán Ó Ceallaigh, Cathal Mac Domhnaill, Pádraig Mac Raghnaill, Seán Breathnach.</P>
+      <P>I have also to acquaint the House that the following Members have been elected Members of Dáil Éireann and accordingly they vacate their seats in Seanad Éireann:&mdash;</P>
+      <P>Liam Ahern, Ruairí Brugha, Brendan Crinion, Eileen Desmond, Joseph Farrell, John Kelly, Charles B. McDonald, Patrick J. Reynolds, Seán Walsh.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Tribute to Former" RHead="Clerk of Seanad">
+    <Title>Tribute to Former Clerk of Seanad.</Title>
+    <Speaker pid="MichealCranitch" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Ón tráth deiridh a shuigh an Seanad, d'éirigh Mr. John McGowan Smyth as a phost mar Chléireach don Seanad le dul i mbun poist ar fhoireann Pharlaimint na hEorpa agus tá a fhios agam gur mhaith le Seanadóirí é a mholadh as ucht a sheirbhísí iomaí don Teach seo.</P>
+    </Speaker>
+    <P>Mr. Smyth served as Clerk of the House since 1958 and, before that, in different capacities on the staff of the Houses of the Oireachtas.  During all his service, and particularly as Clerk of this House, his deep knowledge on matters pertaining to our parliamentary procedures and his clarity of mind in expounding these procedures have been made manifest.  To me, since I became Cathaoirleach, his services have been quite invaluable.  I am sure that there are few Senators who have not had to avail themselves of his generous and courteous assistance in the discharge of their parliamentary duties.  All will have benefited from the efficiency which has marked the indispensable practical arrangements for sittings of the House.  His leaving the service of the Seanad does not deprive us of his expert knowledge since <Col N="506" /> he has made much of it available in two publications which will continue to be of great assistance to us.</P>
+    <P>Ba mhaith liom, maidir liom féin agus thar bhur gceann, ár mbuíochas a chur in iúl agus bua agus sonas a ghuí leis i mbun na bhfadhbanna a rachaidh leis an bpost ró-thabhachtach atá aige san Eoraip.</P>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Before dealing with the Order of Business, Senators on both sides of the House would like to be briefly associated with that well-deserved tribute to the former Clerk of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>On behalf of the Fianna Fáil Members of the Seanad, I should like to be associated with that tribute and to re-echo the sentiments expressed about the courtesy, kindliness and assistance which Mr. Smyth gave to all members of our party from the time they came into this House.  We wish him the best of luck in his new assignment.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>On behalf of the National University Members, I have great pleasure in being associated with this richly-deserved tribute to Mr. Smyth, who has put an indelible stamp of efficiency and courtesy on the office.  We wish him every success, which we know he will have, in his greater duties in Europe.</P>
+    </Speaker>
+    <Speaker pid="JohnFitzgerald" hpid="Mr. J. Fitzgerald Mr. J. Fitzgerald">
+      <NameTxt>Mr. J. Fitzgerald</NameTxt>
+      <P>On behalf of my party, I should like to be associated with the tributes paid to Mr. John McGowan Smyth.  I have always found him most courteous.  As one who has experienced his kindness and wisdom at all times, I should like to join with the other Senators in wishing him every success in his new sphere.</P>
+    </Speaker>
+    <Speaker pid="WilliamJessop" hpid="Professor Jessop Professor Jessop">
+      <NameTxt>Professor Jessop</NameTxt>
+      <P>On behalf of the Senators of the University of Dublin, I should like to be associated with all the sentiments expressed by other Senators.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It is proposed to take Nos. 1, 2, 3 and 4.  In connection <Col N="507" /> with Nos. 2 and 4, it is proposed to take all stages today.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>On the Order of Business, I must express disappointment that the Order Paper is so short and that it has offered so little business to us.  Having brought us here during the height of the very important all-Ireland campaign, I thought that we would have sufficient business to keep us until 10 o'clock at least. This appears to be a repeat of another occasion on which we found ourselves with about 45 minutes business.  While I do not want to be acrimonious on the first day of Senator O'Higgins's leadership of the House, I should like to recall the vociferous protests that were made from Members on this side of the House on that occasion.  They protested at the shortage of business and at the waste of public money in bringing Senators together.</P>
+      <P>I should also like to recall for Senator O'Higgins&mdash;so that he will not be disappointed tomorrow&mdash;the onslaught that was made at that time by the daily newspapers.  Already two of them have made an onslaught on the adjournment of the other House for a month.  The first reputable newspaper, <i>The Cork Examiner</i>, in an editorial today, says that it is extremely dangerous to leave the country without a Parliament during these crucial times.  With the other House out of session for the next month, I should like to know, before we leave the Order of Business, whether Senator O'Higgins could give us any indication of when the Seanad will meet again?</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I do not know if anybody else wants to speak; if not, I should just like to remark how glad I am that Senator Ó Maoláin fits so comfortably into the seat across the way.  The House will understand the necessity for having all Stages of the Broadcasting Authority (Amendment) Bill taken today.  It is needed to enable funds to be paid to RTE.  Were it not for the general election this is a matter which no doubt would have been dealt with by the previous Government; as it was not dealt with by them, it is <Col N="508" /> necessary for the new Government to deal with it.</P>
+      <P>Item No. 4 on the Order Paper is to give effect to the decision of the constitutional amendment.  We cannot do very much about it now except to remedy the position at this meeting of the Seanad.  Most of us would have preferred that this matter also should have been dealt with by the previous Government, in order that the 18-21 year old age group should have had a vote in the general election.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Senator has not answered my question.  When is it intended to hold the next meeting of the House?  I see 18 motions on the Order Paper.  I feel an awful atmosphere of deadly silence all around. Senator Mary Robinson and all the other Senators were demanding that their motions be taken.  I want to suggest now that we take a couple of motions this evening.  On every occasion when we had time to spare&mdash;and sometimes when we did not have time to spare&mdash;voices were raised asking: &ldquo;Why not take the motions?&rdquo;  We are now prepared to take any motions suggested by Senator O'Higgins.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I certainly do not want to interfere with the democratic process which I understand is going on throughout the country at the moment.  Democratic process also applies to this House.  Senator Ó Maoláin has the troops here to alter the Order of Business, if he wishes to take any motions after item No. 4 has been dealt with.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Can I inveigle the Leader of the House to give us an indication of when it is proposed that the House should meet again?</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>As soon as it is reasonable and possible to greet the new Senators.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>In other words, it is not intended that this House should meet again; this is a valedictory sitting.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>As far as business goes.</P>
+    </Speaker>
+    <Col N="509" />
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I have no objection to what the Senator proposes.  I should like to congratulate him on being elected Leader of the House and I wish him a happy term of office.  I am quite satisfied that the Senator will not occupy that nice seat as long as I did.  However, I hope that as long as he occupies it he will have a pleasant ride. I also hope that now, with the opportunity at his disposal, with the ball at his feet and with the Government behind him, which will enable him to carry out his wishes, he will make a tangible and successful effort to get business flowing from the Dáil, a wish that has been often expressed by all parties during my time as Leader of the House.  Much more use could be made of this House, which has plenty of talent and ability.  Debates here are of a very high standard.  The Senator should persuade his Party and the Government to look into the question of the flow of Bills from the Dáil, so that in the future the Seanad will play a more useful and active role than in the past.  I wish Senator O'Higgins every success in his new office.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I am grateful to Senator Ó Maoláin for his remarks, which I know are sincere.  I should like to take this opportunity, on behalf of those for whom I speak on this side of the House, to wish Senator Ó Maoláin personally every happiness and comfort in his retirement from this House, if not from politics.  We have crossed swords more than once in this House but my colleagues would wish me to acknowledge now the efforts which Senator Ó Maoláin made to live up to the picture of the Seanad which he has outlined.</P>
+    </Speaker>
+    <P>We knew that when it was not possible to take motions or to order particular business, it was not the fault of Senator Ó Maoláin.  He endeavoured to make this House a reality in the Parliamentary process and I am proud to acknowledge that to him here today.  I regard his advice as valuable and I will do all I can to keep the business of the House flowing smoothly from the Dáil to the Seanad.  The business in the Seanad should enable the public to see that the remarks which Senator Ó Maoláin made with regard to the contributions <Col N="510" /> in this House by Senators of all parties is completely justified.  I have experience of both Houses and, without wishing to appear critical, I have a very high regard for the standard of debate in Seanad Éireann.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Report of Select Committee" RHead="on Statutory Instruments">
+    <Title>Report of Select Committee on Statutory Instruments.</Title>
+    <Speaker pid="WilliamAlexanderShel" hpid="Mr. Sheldon Mr. Sheldon">
+      <NameTxt>Mr. Sheldon</NameTxt>
+      <P>I move:</P>
+      <P>(1)  That the Report of the Select Committee on Statutory Instruments be laid before the Seanad: and</P>
+      <P>(2)  that the Report, Proceedings and Appendices be printed.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Broadcasting Authority (Amendment) Bill, 1973 (" RHead="Certified Money Bill ): Second and Subsequent Stages">
+    <Title>Broadcasting Authority (Amendment) Bill, 1973  (  Certified Money Bill ):   Second and Subsequent Stages.</Title>
+    <Speaker pid="MichaelOLeary" hpid="Minister for Labour (Mr. M. O'Leary) Michael O'Leary">
+      <NameTxt>Minister for Labour (Mr. M. O'Leary)</NameTxt>
+      <P>This is a short and straightforward Bill designed as an interim measure enabling existing financial arrangements in regard to RTE to be continued for a relatively short period.</P>
+      <P>I am advised that it must be enacted by 31st March, 1973, in order to provide statutory authority for the grant already paid to RTE during 1972-73 in respect of net receipts from broadcasting licence fees.  Section 2 of the Bill provides for the continuance of the payment of grants equivalent to net licence fee receipts for a further period of two years ending on 31st March, 1974.</P>
+    </Speaker>
+    <P>This opportunity is being taken to increase from £3 million to £4 million the limit for repayable advances which the Minister for Finance may make to RTE for capital purposes. Provision for this increase is made in section 1.  The limit for advances was fixed at £2 million in the Broadcasting Authority Act, 1960, but was increased to £3 million under the Broadcasting Authority (Amendment) Act, 1964. Exchequer advances totalling £2.951 million have already been made to RTE.  As the balance of £49,000 un-drawn under existing legislation will not be sufficient to cover advances which will be required during 1973-74, an increase in the present limit is essential.  It is desirable that the new <Col N="511" /> limit should be high enough to cover any advances that are likely to be needed over the next couple of years. I cannot say at this stage how much will be required in this period but the extra £1 million now proposed compares with advances totalling £1.1 million made in the two years just ending.</P>
+    <P>The Bill was approved by the previous Government, and I understand that it was intended to introduce it much earlier&mdash;in good time to have it fully discussed by both Houses of the Oireachtas before now.  The General Election upset these plans and it was not possible to introduce the Bill until the Dáil convened.  In the circumstances, and, particularly in view of the deadline of 31st March, 1973, I hope that the House will agree to give me all stages today and that it will also support the motion which is on the Order Paper requesting the Seanad's concurrence, under Article 25.2.2º of the Constitution, in a request to the President to sign the Bill on a date which is earlier than the fifth day after the date on which the Bill shall have been presented to him.</P>
+    <P>I know the Members of this House are not concerned with the paltry business of being re-elected but it has been my unhappy experience to meet aspirants for office in this House who are not held back by any such scruples, so I hope the Seanad will give me all Stages of this Bill today.</P>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>As the Bill was prepared by the Fianna Fáil Government naturally we have no objection to it, and no objection to giving the Minister all Stages and the Early Signature Motion.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I should like to congratulate the Minister on being the first member of the National Coalition to speak in the Seanad.  We are proud he is one of our graduates from University College, Cork.  I wish him a very successful and happy tenure of office and I know he will carry out his duties in his usual efficient manner.</P>
+    </Speaker>
+    <P>I do not wish to open up a debate on this Bill but I should like to ask the Minister at the earliest possible opportunity to let us have a thorough review <Col N="512" /> of the activities of RTE.  It is now over 12 years since RTE was founded and there are many weaknesses in the legislation setting it up: the time is opportune to review this.  A type of Parliamentary Committee which would act between the Minister's office and the RTE Authority would be a welcome institution and would ensure, on the one hand, that the charge could not be levelled that the Minister or the Government were exercising undue political influence on RTE and on the other hand, it would provide the Houses of the Oireachtas with a legitimate forum to register many of the complaints which continually come from our constituents about some of the happenings in RTE.  Above all, we should like to see more regard for the sense of balance in the presentation of programmes.  I appeal for a very early review of the activities of RTE and urgent consideration for the part an Oireachtas Committee may play in that.  Perhaps the Minister might arrange for an Oireachtas Committee to share in the review so that at that stage the Oireachtas could make a positive contribution before any recommendations are made that would require subsequent legislation.</P>
+    <Speaker pid="MichaelGallanagh" hpid="Mr. Gallanagh Mr. Gallanagh">
+      <NameTxt>Mr. Gallanagh</NameTxt>
+      <P>First, I should like to welcome the Minister.  I should like to refer to something in this Bill which concerns finance.  Some of this money will be spent on capital expenditure in RTE.  At present there is much controversy about Ardmore Studios in Wicklow.  The studios have up-to-date equipment and would be ideal for use by Telefís Éireann and would save great expense in building a studio elsewhere. Some philanderers are thinking of taking the studios over for other uses, uses which will be objected to by people in the area.  Telefís Éireann should seriously consider taking over Ardmore Studios for their own use.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Minister for Labour (Mr. M. O'Leary) Michael O'Leary">
+      <NameTxt>Minister for Labour (Mr. M. O'Leary)</NameTxt>
+      <P>Senator Quinlan mentioned the necessity of an early review of the entire scale of activities of RTE.  The Senator is probably aware there is a Broadcasting Review Committee Interim Report at present under consideration.  This was presented <Col N="513" /> to both Houses of the Oireachtas on 8th March.  It is under review at present and it would be out of line for me to make any comment of a material nature at this stage on the Senator's request.</P>
+      <P>On Senator Gallanagh's remarks about Ardmore Studios, it is outside the jurisdiction of RTE as at present constituted but we will convey his wishes on the matter to the Minister.</P>
+      <P>Question put and agreed to.</P>
+      <P>Agreed to take remaining Stages today.</P>
+      <P>Bill put through Committee, reported without recommendation, received for final consideration and ordered to be returned to the Dáil.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Broadcasting Authority (Amendment) Bill," RHead="1973: Motion for Earlier Signature">
+    <Title>Broadcasting Authority (Amendment) Bill, 1973: Motion for Earlier Signature.</Title>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I move:</P>
+      <P>That pursuant to subsection 2º of section 2 of Article 25 of the Constitution, Seanad Éireann concur with the Government in a request to the President to sign the Broadcasting Authority (Amendment) Bill, 1973, on a date which is earlier than the fifth day after the date on which the Bill shall have been presented to him.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Electoral (Amendment) Bill, 1973:" RHead="Second Stage">
+    <Title>Electoral (Amendment) Bill, 1973: Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="MichaelOLeary" hpid="Minister for Labour (Mr. M. O'Leary) Michael O'Leary">
+      <NameTxt>Minister for Labour (Mr. M. O'Leary)</NameTxt>
+      <P>This is a short Bill arising directly from the decision of the people in the referendum on 7th December last when they voted by a very large majority to reduce the minimum voting age at Dáil and Presidential elections and referenda to 18 years.  The amendment of the Constitution came into effect on 5th January and this Bill will complete the procedure by making formal statutory provision for registration of persons as electors at the age of 18 years.  In fact, the names <Col N="514" /> of persons aged 18 to 21 years have been included in the new register of electors in anticipation of the provisions of this Bill.  It will be appreciated, therefore, that it is necessary to have the Bill enacted before the new register comes into force on 15th April so that the register will have a proper statutory basis.</P>
+      <P>University Senators particularly, will note that the age for registration as an elector in the Seanad University consituencies is being reduced to 18 years. I understand that there are not many graduates under the age of 21 who will benefit from this change in any year but, nonetheless, it was considered a change well worth making by the present and previous Minister for Local Government.</P>
+      <P>The Bill proposes to reduce both the voting age at local government elections and the minimum age for membership of local authorities from 21 to 18 years.  I am confident that Senators will agree that both these steps are desirable with a view to providing greater opportunities for young people to become involved in the democratic conduct of local affairs.</P>
+      <P>I hope the House will agree to take the Bill at this short notice.  We will look for all Stages today.</P>
+    </Speaker>
+    <Speaker pid="WilliamJessop" hpid="Professor Jessop Professor Jessop">
+      <NameTxt>Professor Jessop</NameTxt>
+      <P>I should like to join with the Senators who spoke previously in welcoming the Minister to this House.  I should like some clarification of this paragraph on the Seanad University constituents in relation to University Senators.  I take it that undergraduates who are over the age of 18 will have votes for the Dáil elections like any other member of the community who is in this age category.  It is only in relation to the election of University Senators that they are under, shall we say, the disability of not being able to vote because in that case they are not graduates.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I think the position is that for the University Senate election there is a special Act which must be amended to bring it into line with the ordinary electoral register.  Section 3 specifically amends the Senate Electoral (University Members) Act, 1937. If this were not the case, even though <Col N="515" /> the ordinary electoral register would entitle people to vote at 18, those of 18 years of age could not vote in the University Senate elections to this House.</P>
+    </Speaker>
+    <Speaker pid="WilliamJessop" hpid="Professor Jessop Professor Jessop">
+      <NameTxt>Professor Jessop</NameTxt>
+      <P>There are many other categories of election to Seanad Éireann in which members of the electoral body will be less likely to be under the age of 21 than in the university graduates category.  I am thinking of all of us here who have the right to vote for our colleagues in the next Seanad election and also the members of county councils all over the country. Why do we single out the university undergraduates in this regard?</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>As I understand the position, this Bill puts into statutory form what we decided in the recent constitutional referendum. These particular Acts governing the University elections also require amendment and that is the only significance for the inclusion of this section.  That is as I understand the position.  In future 18 year-olds will be able to vote in local and Dáil elections. The Senator appears to think there is some discrimination or even confusion&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I think the Senator's point is that, if it was not done, they would not have votes.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>If the Senator, for example, had brilliant selectors on his university panel, graduates of 18, presumably the Senator might be back with an increased majority or might not be back at all.</P>
+    </Speaker>
+    <Speaker pid="MichealCranitch" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Perhaps the points raised by Senator Jessop could be dealt with more appropriately on Committee Stage.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I think the question of the university Senators is purely consequential on the other.  Up to this time, a graduate had to sign a form requesting to be put on the electoral register.  It would be much more important that a further amendment should be made in that register which <Col N="516" /> would automatically confer the right of membership of the university electoral panel on all persons as they graduated from a university college. In the forthcoming period we hope that the university reorganisation will be faced, and that will call for Senate reorganisation of the representation of the universities on the two panels. When that is done I would ask the Minister to ensure that the register is exactly the same as the ordinary register of graduates as used by the universities for their ordinary university Senate elections.</P>
+    </Speaker>
+    <Speaker pid="MichaelDLyons" hpid="Mr. Lyons Mr. Lyons">
+      <NameTxt>Mr. Lyons</NameTxt>
+      <P>On a point of information, some university graduates, some young people, asked me during the week about the method of registration and the time for registration.  Is it true that a university graduate can move through his life without registering at all?  Is it also true that quite a large number of them have not registered? The question I want to ask is: is it open to a graduate to register at any particular time, and what is the procedure?</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>This is an interesting point raised by Senator Lyons.  For his information the actual position is that the registration process is subject to the law, a matter for the university and the registration office appointed by the governing body.  The Local Government Department have not had complaints, or any suggestions for improvements involving changes in the law.  As such, the Local Government Department would be prepared to consider them but, at this date, the Department are not aware of any misgivings either on the part of the legal registration groups, the university authorities, or on the part of the graduates who would be entitled to vote.  Therefore, it is not our concern under law, but if either the graduates or the university authorities are not satisfied that the process at present provided under the law is being fulfilled, it is up to both or either of these groups to make their views known to the Department.</P>
+    </Speaker>
+    <P>The Department are ready to cooperate in any way on any request made by either the electors or the bodies in the universities responsible <Col N="517" /> for seeing that the registration process is complete.  I agree with the Senator.  I would be unhappy to think that the law was not being fulfilled in all details and that the university authorities were failing in their duty to see that graduates were enrolled.  We have no information suggesting this is the case.  There have been press reports suggesting that there have been shortcomings but we have not been officially informed of any shortcomings by either the electors entitled under law, the graduates, or the university authorities.</P>
+    <Speaker pid="MichaelDLyons" hpid="Mr. Lyons Mr. Lyons">
+      <NameTxt>Mr. Lyons</NameTxt>
+      <P>I want to ask another question, a Chathaoirleach, if I am in order.  What method have the university authorities of contacting graduates who have left the country and who are entitled to vote once they have registered?  Have the graduates to notify their addresses so that ballot papers can be sent to them at any given time during the year?</P>
+    </Speaker>
+    <Speaker pid="MichealCranitch" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Minister to conclude.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>Again I repeat that this is simply a matter for either the electors involved or the university authorities.  I do not know if there has been any procedure agreed on to ensure that the registration agents keep in touch with graduates and have their addresses.  My own opinion is that in practice this would be very difficult to arrange.  Again I repeat that the Department are ready to listen to any representations made by either of the people who under the law are responsible for the full registration.</P>
+      <P>Question put and agreed to.</P>
+      <P>Agreed to take remaining Stages today.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Electoral (Amendment) Bill, 1973:" RHead="Committee and Final Stages">
+    <Title>Electoral (Amendment) Bill, 1973: Committee and Final Stages.</Title>
+    <P>Sections 1 and 2 agreed to.</P>
+    <P Just="Center">SECTION 3.</P>
+    <P>Question proposed: &ldquo;That section 3 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I take it that it is in order to comment on what the <Col N="518" /> Minister has said with regard to votes at 18.  The responsibility at present is not the responsibility of the university authorities.  It is the responsibility of the individual graduates.  On graduation they are given a form by the university with the instruction that, if they want to register as voters on the university panel, they have to sign this form and return it.  Upwards of 50 per cent have not done this, but it can be done at any stage afterwards if the graduate writes in simply requesting a vote.  I am now officially drawing the attention of the Minister to the fact that there is grave dissatisfaction with the rather haphazard nature of this type of selection which, as I say, depends on the individual graduate.  It would be far more satisfactory if a graduate were put on the register automatically on receiving his degree.</P>
+      <P>I suggest to the Minister on behalf of the university constituencies&mdash;I speak for the NUI and Professor Jessop will be able to corroborate it for TCD&mdash;that we would like to see this regularised.  Of course, the difficulty of keeping in touch with graduates' addresses is an enormous one and, in the circumstances, it is rather remarkable that almost 50 per cent vote despite the obviously very inadequate list of addresses available.  That is not the fault of convocation or any other group.  The task is almost an impossible one.</P>
+    </Speaker>
+    <Speaker pid="WilliamJessop" hpid="Professor Jessop Professor Jessop">
+      <NameTxt>Professor Jessop</NameTxt>
+      <P>I should like briefly to thank the Minister for his answers to my questions and to refer to what Senator Quinlan has just said. It would be a great advantage if the universities could be persuaded to put people on the register when they got their degree.</P>
+    </Speaker>
+    <P>There is a second question to be answered, however, on the form that they fill up.  That is: &ldquo;Are you a citizen of Ireland?&rdquo;  Very often the university does not know the answer to this question.  Very often the person himself does not know the answer to the question.  Some few years ago I had occasion to ask the Department of Foreign Affairs&mdash;the protocol section&mdash;who were entitled to answer &ldquo;Yes&rdquo; to that question.  I got a <Col N="519" /> ruling from them which I transmitted to our office dealing with this matter. But it is not a simple ruling and it would be necessary for the university to take some steps a bit ahead of the graduation ceremony before handing out these directions to candidates for graduation that they must register immediately after they receive their degree.</P>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Senator Jessop has covered the question which I intended to ask.</P>
+    </Speaker>
+    <Speaker pid="MichaelOLeary" hpid="Mr. M. O'Leary Mr. M. O'Leary">
+      <NameTxt>Mr. M. O'Leary</NameTxt>
+      <P>Again I just repeat that it is a question primarily for the governing bodies of the universities and their registration authorities.  The Department would be willing to consider any changes that might be necessary to improve the process.  Senator Jessop refers to a matter which may be considered: that it should not be left simply to the individual whim of a graduate as to whether he should be enrolled or not.  In other constituencies people are enrolled as citizens but the Senator will appreciate that there are very complex questions involved, involving citizenship of university students.  Questions of citizenship can be difficult in relation to this country and Britain.  This should be the concern of the governing bodies, their registration officers and presumably the potential voters.  The Department of Local Government will listen to any suggestions to improve the situation.</P>
+    </Speaker>
+    <P>
+      <Col N="520" /> Question put and agreed to.</P>
+    <P>Section 4 agreed to.</P>
+    <P>Title agreed to.</P>
+    <P>Bill reported without amendment, received for final consideration and passed.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Speaker pid="MichealCranitch" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>That concludes the business for today.  Because this is the last session of Seanad Éireann I should like to thank Senators for their courtesy and their co-operation.  On behalf of all Senators I should like to express appreciation of the services rendered to us by the Clerk of the Seanad, his assistant, all the staff of the House and the ladies and gentlemen in the Press gallery.</P>
+      <P>Tá ré an tSeanaid seo ag teacht chun críche agus pé rud a tharlóidh, is cinnte go mbeidh cuid des na daoine atá i láthair inniu in easnamh nuair a thiocfaidh an Seanad nua le chéile.  Is oth linn é sin, ach sin mar a bhíonn.  Pé áit in a gcasfar ar a chéile sinn sa tSeanad nua nó lasmuigh de cuimhneoidh mise go deo agus go háirithe ar an gceangal caradais a bhí againn anseo.  Guím gach rath agus sonas oraibh uile laistigh nó lasmuigh de Sheanad Éireann.</P>
+      <P>The Seanad adjourned at 3.55 p.m. <i>sine die.</i></P>
+    </Speaker>
+  </MainHeading>
+</Debate>

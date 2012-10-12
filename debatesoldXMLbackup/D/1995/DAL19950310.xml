@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="10" Month="Mar" Year="1995" Vol="450" No="5" DateIrish="Dé hAoine, 10 Márta 1995" DateEnglish="Friday, 10 March 1995" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1073" /> Chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="DickSpring" hpid="The Tánaiste (Mr. Spring) Dick Spring">
+      <NameTxt>The Tánaiste (Mr. Spring)</NameTxt>
+      <P>It is proposed to take Items Nos. 1 and 12.  It is also proposed that, notwithstanding anything in Standing Orders, Item No. 1 shall be decided without debate.</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Are the proposals satisfactory and agreed?  Agreed.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Mrs. O'Rourke Mrs. O'Rourke">
+      <NameTxt>Mrs. O'Rourke</NameTxt>
+      <P>Will the Tánaiste ask the Minister for Enterprise and Employment to investigate under company law, the activities of Sunbeam Industries?</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That does not arise now.</P>
+    </Speaker>
+    <Speaker pid="DermotAhern" hpid="Mr. D. Ahern Mr. D. Ahern">
+      <NameTxt>Mr. D. Ahern</NameTxt>
+      <P>When will the Harbours Bill be brought forward?  Are there any major changes between it and the Bill brought in by the previous Government?</P>
+    </Speaker>
+    <Speaker pid="DickSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>The work on the Bill is almost completed and I hope it will be before us this session.  It is a matter for the Minister to insert changes which he feels are necessary.</P>
+    </Speaker>
+    <Speaker pid="CharlesFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>It is easy to see Fianna Fáil are looking for shelter.</P>
+    </Speaker>
+    <Col N="1074" />
+    <Speaker pid="LiamLawlor" hpid="Mr. Lawlor Mr. Lawlor">
+      <NameTxt>Mr. Lawlor</NameTxt>
+      <P>The Deputy has come out of his shelter.</P>
+    </Speaker>
+    <Speaker pid="NoelDavern" hpid="Mr. Davern Mr. Davern">
+      <NameTxt>Mr. Davern</NameTxt>
+      <P>When a man is bought he is bought.</P>
+    </Speaker>
+    <Speaker pid="MairinQuill" hpid="Miss Quill Miss Quill">
+      <NameTxt>Miss Quill</NameTxt>
+      <P>Home from the storms.</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="MairinQuill" hpid="Miss Quill Miss Quill">
+      <NameTxt>Miss Quill</NameTxt>
+      <P>Will the Minister for Enterprise and Employment tell us the cost to the State of the closure of Sunbeam and the loss of 108 jobs?</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy may proceed by way of formal question.</P>
+    </Speaker>
+    <Speaker pid="MairinQuill" hpid="Miss Quill Miss Quill">
+      <NameTxt>Miss Quill</NameTxt>
+      <P>I am not very successful when I do so.  The Chair will be aware of the number of Private Notice Questions which he ruled out of order in the last month.</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy must resume her seat.</P>
+    </Speaker>
+    <Speaker pid="NoelDavern" hpid="Mr. Davern Mr. Davern">
+      <NameTxt>Mr. Davern</NameTxt>
+      <P>In view of the announcement yesterday by the Minister for Justice, when will legislation be brought in to allow people in the European Union to travel here without passports?</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is this promised legislation?</P>
+    </Speaker>
+    <Speaker pid="NoelDavern" hpid="Mr. Davern Mr. Davern">
+      <NameTxt>Mr. Davern</NameTxt>
+      <P>I am asking when it is proposed to bring it in.</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That is not in order.</P>
+    </Speaker>
+    <Speaker pid="NoelDavern" hpid="Mr. Davern Mr. Davern">
+      <NameTxt>Mr. Davern</NameTxt>
+      <P>I will take the Chair's word for it.</P>
+    </Speaker>
+    <Speaker pid="MartinCullen" hpid="Mr. Cullen Mr. Cullen">
+      <NameTxt>Mr. Cullen</NameTxt>
+      <P>Is the Tánaiste aware that one of the most modern container-ships in the world was launched in this country yesterday?  The Ambassadors from Germany and the Netherlands, as well as 300 industrialists from this country and Rotterdam, were in attendance but the Government failed to field a member.</P>
+    </Speaker>
+    <Col N="1075" />
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>This is in breach of our procedures.</P>
+    </Speaker>
+    <Speaker pid="MartinCullen" hpid="Mr. Cullen Mr. Cullen">
+      <NameTxt>Mr. Cullen</NameTxt>
+      <P>An official had to read the speech as neither Ministers Coveney nor Gilmore showed up.</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy is being disorderly.</P>
+    </Speaker>
+    <Speaker pid="MartinCullen" hpid="Mr. Cullen Mr. Cullen">
+      <NameTxt>Mr. Cullen</NameTxt>
+      <P>An international agreement was signed and a Minister was not present.  It was a grave insult.</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is complete disregard for what is appropriate to the Order of Business.</P>
+    </Speaker>
+    <Speaker pid="MichaelJWoods" hpid="Dr. Woods Dr. Woods">
+      <NameTxt>Dr. Woods</NameTxt>
+      <P>When is it expected to bring the Equal Status Bill before the House?</P>
+    </Speaker>
+    <Speaker pid="DickSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>It will be circulated later this year.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Report of Committee" RHead="of Selection">
+    <Title>Report of Committee of Selection.</Title>
+    <Speaker pid="SeanBarrett" hpid="Minister of State at the Department of the Taoiseach (Mr. Barrett) Minister of State at the Department of the Taoiseach (Mr. Barrett)">
+      <NameTxt>Minister of State at the Department of the Taoiseach (Mr. Barrett)</NameTxt>
+      <P>The Committee of Selection reports that it has nominated the following Members to serve on the Committee of Public Accounts: Deputies Tommy Broughan, Eric Byrne, Seán Doherty, John Ellis, Michael Finucane, Denis Foley, Phil Hogan, Pádraic McCormack, Batt O'Keeffe, Ned O'Keeffe, Desmond J. O'Malley and Pat Upton;</P>
+      <P>That it has nominated the following Members to serve on the Joint Services Committee: Deputies Ben Briscoe, Liam Burke, Colm Hilliard, Pádraic McCormack, P.J. Morley, Breeda Moynihan-Croinin, John Mulvihill, John O'Leary and Michael Ring:</P>
+    </Speaker>
+    <P>That it has nominated the following Members to serve on the Joint Committee on the Irish Language: Deputies Tommy Broughan, John Browne <i>(Carlow-Kilkenny)</i>, Joe Costello, Mary Coughlan, Micheál Martin, Pádaic McCormack, Dinny McGinley, Robert <Col N="1076" /> Molloy, Donal Moynihan, Eamon Ó Cuív and Pat Upton;</P>
+    <P>That it has nominated the following Members to serve on the Joint Committee on Commercial State-Sponsored Bodies: Deputies Séamus Brennan, Martin Cullen, Frances Fitzgerald, Liam Kavanagh, Séamus Kirk, Jim O'Keeffe and Seán Ryan;</P>
+    <P>That it has nominated the following Members to serve on the Select Committee on Finance and General Affairs: Deputies Michael Ahern, Noel Ahern, Tommy Broughan, Paul Connaughton, John Connor, Michael Creed, Martin Cullen, Seán Kenny, Liam Lawlor, Pádraic McCormack, Charlie McCreevy, Derek McDowell, Michael McDowell, Jim Mitchell, Ted Nealon, Rory O'Hanlon, John O'Leary, William Penrose, John Ryan, Trevour Sargent and Dan Wallace;</P>
+    <P>That it has nominated the following Members to serve on the Select Committee on Social Affairs: Deputies Theresa Ahearn, Paul Bradford, Matt Brennan, Joe Costello, Frances Fitzgerald, Mary Flaherty, Chris Flood, Tom Foxe, Máire Geoghegan-Quinn, Phil Hogan, Séamus Hughes, Jim Kemmy, Seán Kenny, Helen Keogh, Kathleen Lynch, Dinny McGinley, Micheál Martin, Tom Moffatt, Seamus Pattison, Joe Walsh and Michael Woods;</P>
+    <P>That it has nominated the following Members to serve on the Select Committee on Legislation and Security: Deputies John Browne <i>(Carlow-Kilkenny)</i>, John Browne <i>(Wexford)</i>, Liam Joseph Fitzgerald, Charles Flanagan, Tony Gregory, Paddy Harte, Jim Kemmy, Brendan Kenneally, Derek McDowell, Paul McGrath, John Mulvihill, Willie O'Dea, Liz O'Donnell, John O'Donoghue, Jim O'Keeffe, Alan Shatter, Michael Smith, Godfrey Timmins, Dan Wallace, Eamon Walsh and Michael Woods;</P>
+    <P>That it has nominated the following Members to serve on the Select Committee on Enterprise and Economic Strategy: Deputies Michael Bell, Andrew Boylan, Tommy Broughan, Eric Byrne, Hugh Byrne, Joe Costello, <Col N="1077" /> Seymour Crawford, Alan Dukes, Michael Finucane, Brian Fitzgerald, Johnny Fox, Tom Kitt, Jimmy Leonard, Robert Molloy, M. J. Nolan, Eamon Ó Cuív, Ned O'Keeffe, Mary O'Rourke, Séan Power, Michael Ring and P.J. Sheehan;</P>
+    <P>That it has nominated the following Members to serve on the Joint Committee on Foreign Affairs: Deputies Theresa Ahearn, Neil Blaney, Declan Bree, Ben Briscoe, Raphael P. Burke, Ger Connolly, John Connor, Austin Deasy, Alan Dukes, Michael Ferris, Pat Gallagher, Michael Kitt, Brian Lenihan, James McDaid, P.J. Morley, John Mulvihill, Rory O'Hanlon, Jim O'Keeffe, Desmond J. O'Malley, William Penrose and Alan Shatter;</P>
+    <P>That it has nominated the following Members to serve on the Joint Committee on European Affairs: Deputies David Andrews, Andrew Boylan, John Browne <i>(Carlow-Kilkenny)</i>, Raphael P. Burke, Noel Davern, Michael Ferris, Mary Flaherty, Seán Haughey, Derek McDowell, Desmond J. O'Malley and Pat Upton;</P>
+    <P>That it has nominated the following Members to serve on the Joint Committee on the Family: Deputies Liam Aylward, Paul Connaughton, Mary Coughlan, Frances Fitzgerald, Chris Flood, Séamus Hughes, Paul McGrath, Breeda Moynihan-Cronin, Liz O'Donnell, Alan Shatter, Róisín Shortall, Brendan Smith, Godfrey Timmins, Mary Wallace and Eamon Walsh;</P>
+    <P>That it has nominated the following Members to serve on the Joint Committee on Small Business and Services: Deputies Declan Bree, Séamus Brennan, Ivor Callely, Seymour Crawford, Michael Creed, Frank Crowley, Michael Finucane, Mary Harney, Colm Hilliard, Séamus Hughes, Liam Kavanagh, Seán Kenny, Dinny McGinley, M.J. Nolan and Mary O'Rourke;</P>
+    <P>That it has nominated the following Members to serve on the Joint Committee on Sustainable Development: Deputies Noel Ahern, Michael Bell, Eric Byrne, Joe Costello, Noel Dempsey, John Ellis, Mary Flaherty, Brendan <Col N="1078" /> McGahon, Jim Mitchell, Batt O'Keeffe, Máirín Quill, Eoin Ryan, Seán Ryan, P. J. Sheehan and Noel Treacy; and that it has discharged Deputy Seán Doherty from the Committee on Procedure and Privileges and has appointed Deputy Brendan Smith in substitution for him.</P>
+    <P>I move: &ldquo;That the report be laid before the Dáil.&rdquo;</P>
+    <P>Question put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Regulation of Information (Services Outside State for" RHead="Termination of Pregnancies) Bill, 1995: Report and Final Stages">
+    <Title>Regulation of Information (Services Outside State for Termination of Pregnancies) Bill, 1995: Report and Final Stages.</Title>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>I move amendment No. 1:</P>
+      <P>In page 4, between lines 22 and 23, to insert the following:</P>
+      <P>&ldquo;3.&mdash;None of the subsequent provisions of this Act shall render unlawful the provision of information, advice or counselling, or any act done or arrangement made, on behalf of or in relation to any woman by a medical practitioner, where the termination of the woman's pregnancy would be lawful within the State.&rdquo;. </P>
+      <P>In moving this amendment I am inviting the Minister and each Member of the House to revisit finally, the constitutional concerns debated yesterday. The kernel of these concerns, as debated yesterday and now presented is: is this Bill consistent with the declared constitutional rights of those women for whom it is lawful to have a termination of pregnancy in the State in order to save their lives?  We know that the majority decision in the X case was that, where it is established that there exists a real and substantial threat to the survival of the woman, not merely at the time of the application but in contemplation at least throughout the pregnancy, it may not be practicable to vindicate the equal right to life of the unborn.</P>
+      <P>Mr. Justice McCarthy said:</P>
+    </Speaker>
+    <P>
+      <Col N="1079" /> On the fact of this case, which are not in contest, I am wholly satisfied that a real and substantial risk that the girl might take her own life was established; it follows that she should not be prevented from having a medical termination of pregnancy.  This conclusion leads inevitably to the recognition that the wording of the amendment contemplates abortion lawfully taking place within this State.</P>
+    <P>That is the law on this issue in the absence of any legislation on the part of this House on the substantive issue. Constitutional rights have been adjudicated on and a finding made.</P>
+    <P>This Bill must not diminish, remove or postpone those rights.  As presented, I believe this Bill avoids addressing the law as adjudicated on in the X case.  In the limited circumstances of the X case, where pregnancy poses a life-threatening risk to the mother, it must follow that the restrictions in this Bill are incompatible with those constitutional rights in that it is a criminal offence under this Bill for a doctor to give directive advice or make arrangements to assist in the termination of pregnancy abroad.</P>
+    <P>In the debate yesterday my concerns were shared by backbench Members of the Minister's party.  He agreed overnight to consult on the point with the Attorney General.  I look forward to his response.  I must put on record that no party leader, apart from ours, has contributed to this debate; no one Member of the Labour or Democratic Left parties contributed to the crucial debate on this amendment yesterday.  Indeed, the dearth of liberal voices here was startling and very sad.  They failed even to contribute or share the concerns expressed when a vital issue such as the constitutional rights of Irish pregnant women was legitimately addressed.</P>
+    <P>It is not a hypothetical matter; rights exist and have been adjudicated on, the conflicting rights of mother and foetus having been considered at length in the X case.  We must not be seduced into <Col N="1080" /> rewriting that judgment by the resurrection of the old absolutist arguments on both sides.  The judgment in the X case found the rights to a termination of pregnancy to be limited to specific life-threatening circumstances.  We must keep that judgment in mind and ignore the baying of the fundamentalists or the separate views of the Catholic Hierarchy whom it would appear, at least on this issue, do not recognise the primacy of this Legislature to draw up the laws in this State for all its citizens, of all religions or none.  It should be remembered that the Supreme Court handed down that decision, not because it was a child pregnancy, not because she was raped, but because there was an established risk to her life posed by the pregnancy. Any woman for whom there is such a life-threatening risk is entitled not to have those rights diminished or denied by the provisions of this Bill.</P>
+    <P>I wholeheartedly urge Members to consider this issue and support our amendment.</P>
+    <Speaker pid="MichaelNoonan" hpid="Minister for Health (Mr. Noonan, Limerick East) Michael Noonan">
+      <NameTxt>Minister for Health (Mr. Noonan,</NameTxt>
+      <P>
+        <i>Limerick East:</i> We shall be discussing three amendments this morning, the first revisiting of the issue raised on amendment No. 2 moved on Committee Stage yesterday when I stated clearly that my advice was that the Bill was constitutional in all respects and that the suggestions of Deputies O'Donnell and McDowell were not correct.  I said I would not be bringing in a Report Stage amendment.  I confirm this morning that I am not bringing in a Report Stage amendment to deal with the anxieties they raised &mdash; as will be clear from the Order Paper &mdash; because those anxieties are unfounded.</P>
+      <P>Last evening the Attorney General and senior counsel examined very carefully the arguments put forward by Deputies O'Donnell and McDowell&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>And Deputy Shatter.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> If the Deputies look at what Deputy Shatter said they will find he suggested that they <Col N="1081" /> had not looked at one particular part of the Bill when analysing the position.  I want to confirm the advice given me previously.  All angles and arguments having been examined, following on a study of the copies of the Dáil Official Report of yesterday, in the opinion of the Attorney General and senior counsel this Bill does not require further amendment.  It has been put clearly before the House as being fully in accordance with the Constitution.</P>
+      <P>There are a number of points I should like to make.  First, even though the amendment was tabled in the names of Deputies O'Donnell and McDowell, in terms of the legal case made, Deputy McDowell argued at greater length and in more detail than Deputy O'Donnell. There was a fundamental flaw in the way he argued the case: he made no reference to the rights of the unborn child; over a 20 to 25 minute intervention he engaged in an analysis without that reference, as I pointed out to him yesterday. Every Member, whether lawyer or non-lawyer, knows we are drafting law in circumstances in which the constitutional scope afforded us is quite narrow and that there are competing rights, the fundamental right to life of the mother and the unborn child are competing rights.  We know that the judgment in the X case cast some light on how those competing rights could be determined in circumstances in which there is a real and substantial risk to the life of the mother but Deputy McDowell made no reference to the rights of the unborn child.  His analysis or discourse related to his view of the constitutional rights of doctors and of women but never to the rights of the unborn. His analysis of Article 40.3.3º was silent on that right and appeared to lend no weight to a significant part of that Article.</P>
+    </Speaker>
+    <P>Any analysis conducted in the absence of any reference to the rights of the unborn has to be fundamentally unbalanced and flawed &mdash; one does not have to be a lawyer to understand that &mdash; because, wherever one might finally draw the line in one's adjudication on <Col N="1082" /> matters such as this, not even to consider in one's analysis the rights of the unborn child makes it quite apparent to everybody that the arguments advanced by Deputy McDowell were not as strong as some people thought yesterday. I did not consider them to be strong because I pointed out that he had left out the rights of the unborn from his analysis.</P>
+    <P>There is another fundamental difference between my view of the responsibilities and functions of a doctor in regard to a woman in life-threatening circumstances and that of Deputies O'Donnell and McDowell.  In circumstances in which a woman has an illness relevant to carrying her baby to full term, quite clearly a doctor may counsel her and he may lay out the stark medical facts.  The doctor may say to her, for example, that she has terminal cancer and may fully state the medical consequences of each option.  In simple and stark terms he may be obliged to state that one option will lead to the death of the unborn child and another to the substantial risk of her, the mother, dying.  He may have to lay it out as starkly as that but, even when he does, the decision still must be that of the woman.  These are matters of life and death; they cannot be delegated to a doctor no matter how professional. These are decisions for a woman; it is not for the doctor to decide who should live and who should die.  That is the fundamental point of difference between us.</P>
+    <P>In effect Deputy O'Donnell's argument is that, at a certain point, the doctor should make the decision on behalf of a woman and decide who should live and who should die.</P>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>That is not true.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>That is a black lie.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> Look at your party's analysis.  That is not the doctor's function.</P>
+    </Speaker>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>He is there to help <Col N="1083" /> her.  Is she to be put on a stretcher on the plane?</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Let us hear the Minister without interruption.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> The Deputies are attacking the Bill on the basis that in circumstances analogous to the X case, a consultant could not advocate or promote abortion.  If that is the case, they are saying the consultant should be in a position to advocate or promote abortion to a woman in certain circumstances.  I say he cannot and it is a fundamental misunderstanding of a doctor's role to suggest that he should. He can lay out the medical facts to his patient, her husband or family in the starkest possible way, but it is her decision, not the doctor's.  That is the problem with the analysis put forward by Deputy McDowell.  Obviously, when a pregnant woman consults a doctor, the doctor's primary professional function will be to give her a medical examination. If the doctor considers there is a real and substantial risk to her life, he should state that.  He should undoubtedly have a further professional obligation to advise her of the options which flow from that diagnosis, but it is not his professional function to prioritise or select a particular option for the woman.</P>
+    </Speaker>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>We are not legislating for that.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>Where did the Minister come up with that idea?</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> I came up with it from an analysis of the Deputy's legal argument yesterday.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>Doctors can give advice.</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>When we are dealing with Report Stage of a Bill Members may speak once only with the exception of the person who moves the <Col N="1084" /> amendment, who has the right of reply. Let us adhere to procedures.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> I am sure all Deputies would agree that it would be indefensible if doctors were required or permitted to impress upon pregnant women an option which had the effect of selecting who should live or die.  That is not their function.  They may starkly describe the options.  The choice may be so serious and fundamental that doctors are not to be called upon to make the final decision.  That is the net point of the argument.</P>
+      <P>My advice is that the Bill does not need further amendment.  That advice has been reiterated to me by the Attorney General on the basis of detailed and lengthy analysis of the speeches made by Deputies McDowell and O'Donnell last night.  The senior counsel who advised the Attorney General is ad idem with the Attorney General on that advice.  There is a fundamental misunderstanding in the minds of the Deputies of the role of a doctor in terms of his or her functions if the life of a woman is threatened.</P>
+      <P>One of the central issues in the Bill relates to counselling.  Even where only a counsellor is involved it would not be the counsellor's function to make a decision for the woman.  Decisions must be made by the people involved.  They are autonomous.  In many circumstances the choice facing a woman is extremely difficult.  I am not talking about only unwanted pregnancies.  It may be a wanted pregnancy and the baby a couple were waiting to have.  When all the medical evidence is put to the woman and her husband, the decision as to whether an unborn child lives or dies must be that of the woman.  Any other argument simply does not stand up. That is the position I put before the House and I consider it reasonable.  I have done what I agreed to do yesterday and I ask Deputy O'Donnell to withdraw her amendment.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>The Minister's logic is not surprising, it is absent. <Col N="1085" /> Nobody suggested that a decision as to whether a pregnancy should be determined is anybody's other than the woman in question.  The ultimate logical flaw at the heart of the Minister's recent contribution to this debate is that he says that to receive advice or to be urged to do something in one direction, means that one does not make a decision and that is wholly and demonstrably wrong.  I may have the right to make decisions about my life.  It is a dramatically different proposition to say that nobody can urge on me one course or another in certain circumstances. Unfortunately, the Minister failed to grasp that difference and, if he is accurately reflecting the advice of the Attorney General in his contribution to the House, it would appear the Attorney General also failed to do so. There is no compromise of a woman's right to make a decision about her life and about whether she will have a termination of pregnancy when her life is under threat.  There is no compromise in allowing somebody else whom she trusts to give her advice on the issue.  It is curious that yesterday the Minister often said there was nothing in the Bill which would prevent a doctor from saying that a woman should not have an abortion.  It is right that there should be nothing in the Bill which would prevent a doctor from advising a woman against having an abortion.  It is wrong, however, for the Minister to advance the view that a woman is not entitled to ask advice of a doctor who knows the facts and risks and is conversant with the woman's background, her domestic circumstances and family obligations. The Minister said &mdash; and I do not know the basis of his proposition &mdash; that the most a doctor can do is lay out all the options.  It may be that many doctors would lay out the consequences of doing nothing, of carrying the baby to full term or of having a termination.  Many doctors would say that ultimately the decision is one for the woman and I hope all of them would say that.</P>
+    </Speaker>
+    <P>In the final analysis, women are entitled to ask their doctors for their <Col N="1086" /> best professional judgment as to what they should do.  It follows, therefore, that if a doctor feels conscientiously entitled to do so, he should be entitled to give whatever advice he thinks appropriate. Having listened to the Minister's contribution this morning, I cannot see how receiving advice, even directive advice, infringes on a person's right to make a decision.  A doctor is entitled to give advice which is not merely neutral or factual, but is entitled to go one step further and, for example, say if he was in the woman's position, he would have a termination of pregnancy.  A doctor is entitled to give that opinion if a patient asks for it.  It would be another matter if doctors officiously shoved their opinions down the throats of people who did not ask for them.  When doctors are asked by patients for their best judgment as to what a patient should do, there is no logical or constitutional reason they should not be free to give women the advice they seek.</P>
+    <P>If, as the Minister says, it is open under this Bill for the doctor to advise the woman away from an abortion, it must follow that where the woman's life is at stake it must be open to her to consult somebody who might advise her in the direction of a termination of her pregnancy because of a real and substantial risk to her life.</P>
+    <P>Nothing the Minister has said in this House has addressed the fundamental issues advanced yesterday.  He has in some way suggested that because I did not deal when I was contributing to this debate yesterday with the right to life of the unborn I was ignoring that issue or leaving it aside; I was not.  I was taking it as given in the whole affair and as one which was not pertinent to the analysis I was then putting before the House. Article 40.3.3º of the Constitution has been interpreted by the Supreme Court and what the Supreme Court said was that on a true construction, the right to life of a mother entitled her to a termination of pregnancy in circumstances where as a matter of probability there was a real and substantial risk to the life <Col N="1087" /> of a mother, even though that risk was neither immediate nor inevitable.  These are the points that were made.  I do not believe for one minute that the response given by the Minister today has addressed them adequately.</P>
+    <P>There is a second point.  It is not merely to do with advice or advocacy or counselling in the direction of termination; there is the question of assistance as well.  Quite apart from section 5 which deals with the counselling of a woman in these circumstances, section 8 of the Bill prohibits a medical practitioner to whom section 5 applies from making any arrangements on behalf of the woman with a service providing termination of pregnancies outside the State.  It is worthwhile reading the section in case I would be accused of misrepresenting its terms.  The section states:</P>
+    <P>(1)  it shall not be lawful for a person to whom section 5 applies [that frequently is a doctor] or the employer or principal of the person to make an appointment or other arrangement for or on behalf of a woman with a person who provides services outside the State for the termination of pregnancies.</P>
+    <P>That means that a doctor who is treating a woman and whose advice has been sought or who is counselling her in relation to her pregnancy is prohibited from making an arrangement or from making an appointment with any person outside the State for the purpose of terminating her pregnancy.</P>
+    <P>Let us go back to basics.  The Supreme Court has found that it is lawful in certain circumstances to have pregnancies terminated.  I agree that these are not a wide category of circumstances. Nonetheless, they are a real category of circumstances and in many cases there can be a real and substantial risk to the life of the mother, due to the continuation of a pregnancy, which necessitates this being done.  If under the X decision it is lawful to carry out such a termination of pregnancy within <Col N="1088" /> the State I can see no reason whatever why a doctor in those circumstances cannot make an appointment with somebody outside the State for the termination to take place outside the State.</P>
+    <P>I have heard no reasonable or plausible explanation offered by the Minister in the course of this debate as to why he thinks it is possible for a doctor to arrange for a termination of pregnancy within the State in circumstances contemplated by the X case but not, under this Bill, in respect of the same person where the termination is to take place outside the State.  Since there has been no explanation and since we have now had apparently the benefit of at least two consultations with the Attorney General on this point, it seems to me that one of two conclusions must be drawn.</P>
+    <P>Either the Minister has not drawn the matter to the Attorney General's attention in sufficiently clear terms, or alternatively a decision has been made &mdash; this is the one that worries me &mdash; that it is so unlikely that a woman in these circumstances would ever come before a court that no one will ever challenge this section on that basis and therefore we can take a risk on this one.  That possibility worries me much more than any other.  It may well be true that it is unlikely that a woman will find herself in court in a position to argue this case and that therefore these arguments may never come before the Supreme Court or the High Court or anywhere else, but many women will be told by doctors who do believe they should have a termination of pregnancy within the rubric of the X case that that doctor may make no arrangements for her or on her behalf with an English abortion clinic.</P>
+    <P>I believe that in those circumstances this legislation is unconstitutional and there is no good, lawful reason why it should seek to interfere with the liberty and duty of a medical practitioner to do everything he possibly can to facilitate a woman whose pregnancy is to be terminated for lawful reasons within the <Col N="1089" /> decision of the X case in making every necessary arrangement for that woman with a clinic, wherever that clinic may be.</P>
+    <P>This Bill does two things.  As the Minister said, it prevents the doctor from advocating or giving directive counselling towards the abortion option and that as a general proposition most people would be happy with, except where a woman actually asks for advice in the context of a life threatening situation. I do not believe in those circumstances that it is within the competence of this House to tell a doctor he may not express his personal opinion in the interests of his patient as to what she should do.  I do not believe we are competent to do it and I believe it is unconstitutional to attempt to do it.</P>
+    <P>I believe that it is unconstitutional to attempt to prevent a doctor from making arrangements, from consulting with English doctors, from going, if necessary, with his patient to the clinic in England and attending at the termination procedure.  All of those things are clearly constitutionally mandated by the X decision.  I wish the House to note that the Minister is shaking his head at that proposition, but I believe that it is clearly the right of a woman to have her doctor travel with her to England for a termination procedure if she is entitled as a matter of Irish law to have that pregnancy terminated.  I do not believe that in logic anybody can argue the contrary. I despair at the facile and superficial arguments offered for the opposite propositions.</P>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> Here we go again.</P>
+    </Speaker>
+    <Speaker pid="MaryHarney" hpid="Miss Harney Miss Harney">
+      <NameTxt>Miss Harney</NameTxt>
+      <P>The Deputy is entitled to express his opinion.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>I am entitled to express my opinion.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> He is not entitled to make personal remarks.</P>
+    </Speaker>
+    <Col N="1090" />
+    <Speaker pid="MaryHarney" hpid="Miss Harney Miss Harney">
+      <NameTxt>Miss Harney</NameTxt>
+      <P>He is not making personal remarks.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> The Deputy is making personal remarks.  He is not entitled to do that.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>I have not had the opportunity of discussing the matter with the Attorney General, nor would it be proper for me to do so.  I said yesterday and I still say that I would be surprised if it is the considered view of the Attorney General that an Irish woman is not entitled to be counselled by a doctor and to bring a doctor with her to an abortion clinic in England and for her doctor to play an active role in the determination of her pregnancy where as a matter of Irish law that pregnancy may be terminated.  I would be very surprised if the Attorney General is of any other opinion.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> On a point of clarification, Sir, it is the considered view of the Attorney General that there is no constitutional right to have your doctor go to England with you, contrary to what Deputy McDowell suggests.  It is also the considered view of the Attorney General that there is no constitutional right to have a particular doctor carry out a termination.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>That is a very interesting proposition because, if that is the considered view of the Attorney General, my faith in him is beginning to crumble and I do not want to mention him any further in this matter.  The Minister is standing over that opinion and I will deal with his opinion.  I do not see how it can be against the Constitution for an Irish doctor treating an Irish patient suffering from a life threatening condition to accompany the patient to a termination in Britain.  I defy the Minister to&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> That is not what I said.</P>
+    </Speaker>
+    <Col N="1091" />
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>The Minister said there is no constitutional right to have it done.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> The Deputy said the opposite.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>If the doctor is willing to go and the woman wants him there, it is certainly against our Constitution to prohibit the doctor from doing so.  If the Minister cannot see these things, there is a mental block operating here.  I do not want to be offensive to him personally but I cannot for the life of me see how he can seriously put forward the proposition that a woman cannot have a right as a matter of Irish law to have her pregnancy terminated and to have a doctor, who is willing to make arrangements for her, travel with her and attend the termination in England to consult the English doctors treating his patient.  The Minister is saying that in those circumstances the doctor can be legitimately criminalised for making those arrangements and participating in them.  I believe that this would be manifestly unconstitutional.</P>
+      <P>If the Minister has accurately reflected in this debate the Attorney General's advice to him it is obvious that my view and that of the Attorney General are diametrically different on these positions.  I accept that the Minister can operate only in accordance with what he considers to be the Attorney General's advice.  I believe that most people in this House would take the view that they are entitled to have good logical arguments made against the point, not pat arguments or ones based on the fact that it is a woman's decision, as were made this morning.  The fact that a decisons is made on advice does not mean that it is any less her decision.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> Will the Deputy deal with the point I made? Does the right of the unborn child fit into his analysis?</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>I will deal with this, now that the Minister has raised it. <Col N="1092" /> I do not consider it to be of the significance he thinks it is but, nonetheless, it comes into it this way.  In the X case the right of the unborn child and the mother's right to life came into potential conflict and a decision had to be made. When a decision is made that there is a real and substantial threat to the life of the mother, the mother as a separate person under the Constitution is entitled, as a matter of Irish law, to have the pregnancy terminated if its continuation would continue that real and substantial threat to her life.  That is the position of the right to life of the unborn.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> It is her decision.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>The Minister constantly seems to confuse the idea that people cannot make decisions on advice.  He makes most of his ministerial decisions on advice and it would be wrong if on every such decision there was a complete ban on anyone urging him one way or another on the basis that it is always his decision.  A woman in this matter is not like a High Court judge.  Even a High Court judge receives the urgings of the parties in a conflict to decide one way or another, takes advice and receives advocacy.  I do not see any logical link between the arguments he put forward and the points made on this side of the House on this issue.  There is obviously no meeting of minds on the issue.</P>
+    </Speaker>
+    <P>Since the X case was decided, Article 40.3.3º of the Constitution has been interpreted by the Supreme Court and the clear, unequivocal, straightforward interpretation by the Supreme Court to this Article is that the right to life of a mother acknowledged in that Article entitles her to have a termination of a pregnancy within or without the State in circumstances where there is, as a matter of probability arising from the continuation of the pregnancy, a real and substantial risk to her life.  This real and <Col N="1093" /> substantial risk need not be an immediate and inevitable risk of death.  That is the law.</P>
+    <P>This Bill proposes to make it an offence for a doctor, even when asked, to give advice to the effect that a woman should have her pregnancy terminated. That in no way compromises the right of a woman to choose.  A doctor is entitled to give advice and at the same time to emphasis to the woman that it is her decision.  This happens in virtually every other medical procedure of which I have ever heard.  Many doctors would say to a patient that it is his or her decision but, if his opinion was asked for, he would suggest the patient have such an operation or undergo this or that procedure.  This Bill says that a doctor cannot give advice on those terms, not even acknowledging that it is the woman's decision ultimately.  The doctor is expressly prohibited from tendering any advice as to how she should make up her mind.  I believe that is a completely unconstitutional infringement of the right of a woman to have the advice of a doctor to assist her in making her decision.</P>
+    <P>In relation to section 8, I can see no basis under the Constitution for any law which prohibits an Irish woman, who is entitled to have a termination of her pregnancy, from having the full assistance of any Irish doctor who believes that it is in the best interest of his patient to do so.  It is manifestly that woman's right to have her doctor, if he is willing, to assist her in any way in making arrangements for the termination of the pregnancy, including making arrangements with a clinic in England, going there with her, playing a part if necessary in the procedure or consulting the doctors in England who will carry out the procedure.  I am radically surprised by the Minister's suggestion that a woman has no constitional right to have the services of a doctor to those effects, if he is willing to provide them, where her life is at risk from the continuation of the pregnancy.</P>
+    <P>I am radically surprised that this is the Minister's position.  I find it incredible to <Col N="1094" /> believe this could be the Attorney General's advice and that we are getting an accurate account of what the Attorney General said in that respect.</P>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> I am very uneasy with suggestions that I am misleading the House.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>I just think the Minister does not understand what the Attorney General has told him.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> The Deputy is the only person around here who passed the Primary Certificate.  The rest of us are thick.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>I am not suggesting anything of the sort.  I am merely saying that the Minister intervened in my speech to make the point that he had advice from the Attorney General that no Irish woman had a constitutional right to have the assistance of a doctor to make an arrangement for her or to leave this jurisdiction with her to attend at a termination of her pregnancy abroad.  Unless that is on the basis that one has no right to force a doctor to do this, which I think could not be what we were talking about, it strikes me as an obviously stupid proposition and I cannot accept that this could be the law or that anybody could seriously think that it is so.</P>
+      <P>Why should a doctor not travel with a patient to a termination procedure in England if she wants it and he thinks it is necessary in the interests of his patient? How could the law possibly criminalise such a doctor?  How could it possibly conflict with the rights of the unborn &mdash; the only rights I can imagine coming into the equation to stop it &mdash; that a woman's doctor, who advises her that she is entitled to have a termination under the rubric of the X case, is also willing to travel with her, make the necessary arrangments and consult with those who will carry out what is a lawful procedure in Ireland in any event?  I cannot follow the Minister's logic.</P>
+    </Speaker>
+    <P>The Minister has dealt with this issue <Col N="1095" /> in a highly unsatisfactory manner.  We do not see the advice given by an Attorney General to a Government.  We have a second-hand account of it here which I find most unconvincing as a matter of law.</P>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>It is a political choice.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>However, in the final analysis this Bill may be tested by the Supreme Court under an Article 26 reference.  If so, the Supreme Court will decide these issues, not me, the Minister, the Attorney General or any other lawyer and we will have to abide by their decision.  Alternatively, it may not be referred to the Supreme Court.  It may then be only a matter of time before doctors in these circumstances will find themselves prosecuted or reported to the Medical Council for infringing section 8 of the Bill.</P>
+      <P>Already one doctor has said he will defy this law if enacted.  If he defies this law in the context of the decision in the X case, he will be constitutionally correct and perhaps that is how the decision will finally be made.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> I understand he is not saying that.  He was misquoted.</P>
+    </Speaker>
+    <Speaker pid="MichaelMcDowellPD" hpid="Mr. M. McDowell Mr. M. McDowell">
+      <NameTxt>Mr. M. McDowell</NameTxt>
+      <P>In the final analysis the Minister has been given every opportunity to address the failure of this Bill to accommodate the X case.  He has stonewalled and refused to budge on the issue.  He said he consulted the Attorney General.  If today's rendition of that meeting is correct then the subtleties of what was said yesterday do not seem to have been addressed at all.  It is, in the final analysis, the Minister's responsibility. If he is willing to bear and accept that responsibility, so be it.  If he is wrong on this matter, so be it.  I will be back to tell him.</P>
+    </Speaker>
+    <Speaker pid="MaryHarney" hpid="Miss Harney Miss Harney">
+      <NameTxt>Miss Harney</NameTxt>
+      <P>I listend to most of the debate yesterday on my monitor because, unfortunately, I could not be <Col N="1096" /> here.  During Second Stage on Wednesday, I said I found the debate, both inside and outside the House, very depressing.  I reiterate that point of view this morning.  One telling comment by the Minister and by others is that at the end of the day women will make their own decisions.  Of course they will.</P>
+      <P>To a large extent there is an air of unreality about many of the comments made during this debate.  The other day I drew attention to the pregnant 12 year old whose pregnancy commenced when she was 11.  There was another tragedy last night when a dead baby was found in a bucket.  I do not want to talk about that as I do not know the circumstances. What passes for debate in this House is very unreal.</P>
+      <P>We are fortunate that the Supreme Court took us off the hook in 1992 when this State sought to intern a 14 year old rape victim.  There was a great sigh of relief when the Supreme Court allowed that girl to leave the jurisdiction for the purpose of procuring an abortion in Britain.  If the Supreme Court had not done that we would have been better off at the time because it would have forced this House to rapidly face up to the consequences of preventing that 14 year old girl from leaving the jurisdiction.  We would have much more compassionate and realistic legislation than we have now.</P>
+      <P>Many in our society, including Members of this House, do not believe women have a right to leave this jurisdiction for the purpose of securing a termination of pregnancy, but they will not say that.  They pretend they agree but go out of their way to ensure through our laws, prosecutions and the intimidation and entrapment of others that we prevent that from happening.</P>
+    </Speaker>
+    <P>The only Supreme Court interpretation of the Fourteenth Amendment is that of Mrs. Justice Denham in the Well Woman case in July, 1993.  I read her comments into the record of the House the other day and I want to repeat them. She said if there is a right to travel, it follows that there is a right to be <Col N="1097" /> assisted in making those travel arrangements. She went on to say that this is particularly the case if one is economically or socially deprived &mdash; or words to that effect.  One does not need a Supreme Court judge to say that, it is obvious.</P>
+    <P>My objection to the Bill is fundamental and that is why my party will call a vote on this issue.  It strikes at the very heart of what we are discussing.  My fundamental objection to this Bill is that if we have another Miss X or somebody in her circumstances whose life is in danger, it cannot follow that a doctor cannot assist her to make arrangements to save her life.</P>
+    <P>I know the Minister said in his Second Stage speech that it was now old fashioned for doctors to make arrangements. A patient goes to the GP with a particular problem, the GP gives a list of consultants or specialists and patients make their own arrangements.  That might happen in particular cases. However, if somebody is suffering from cancer I have yet to hear of a GP who gives a list of oncologists and their telephone numbers and tells the patient to go off and make arrangements.  If somebody is suffering from AIDS or another serious illness where the patient is distressed, I cannot believe the general practitioner will not make the arrangements or set up the appointment and will not write the letter to the consultant to whom he is referring his patient.  That happens every day.</P>
+    <P>It is unreal to pretend that, where somebody wishes to terminate a pregnancy in the particular circumstances of the X case where the mother's life is in danger, she will be refused advice from her medical practitioner about what is in her best interest.  I cannot believe the Minister thinks it is right that somebody would walk into the general practitioner, relay her circumstances to him and he, aware of her medical history, would not be entitled to give an opinion.</P>
+    <P>There are many sophisticated people who will be well able to get opinions and this legislation will not affect them. They will make their own arrangements <Col N="1098" /> and this State will never know about them.  However, there are vulnerable young people who will not be in that position or have the wherewithal and social contacts to make arrangements. They particularly will rely on their general practitioners.</P>
+    <P>Two of my friends who are general practitioners make arrangements for people to have terminations in Britain. They arrange for an assessment because under the abortion legislation in Britain a person has to be assessed by two doctors before she can proceed to have a termination.  I spoke to one of them last night and he said that, generally speaking, he only makes arrangements for what he would regard as uneducated, younger people and that more sophisticated, well educated people are more than capable of making the arrangements for themselves.  Under the provisions of this Bill, unless we accept the amendment in the names of Deputies O'Donnell and McDowell, that doctor will be committing a criminal offence if he makes such arrangements. He will be further committing a criminal offence if he gives advice in one direction.</P>
+    <P>The Minister makes great play of the fact that he talks about non-directive counselling and that is what we were promised in 1992.  It is not non-directive counselling.  A doctor or a counsellor is entitled to give counselling in one direction only.  They are entitled to advise against abortion; they are not entitled to give any advice in favour of a termination. That is not non-directive counselling. It is very much counselling in one direction only.</P>
+    <P>During the hearing on the X case the late Mr. Justice McCarthy was critical of this House for not dealing with the balance of rights between the mother and the unborn.  We have failed since the 1983 amendment to bring in any legislation in relation to that balance of rights.  The 1983 amendment talks about the right to life of the unborn, but also the equal right to life of the mother. However, the Supreme Court has now adjudicated on the balance of rights and <Col N="1099" /> it has decided that where the mother's life is in danger, she is entitled to save it.  There is no point in the Minister saying we are not dealing with the unborn; that is a decision of the Supreme Court and Irish women are entitled to terminate their pregnancy if their life is in danger.  It follows then, as Mrs. Justice Denham found in the Well Woman case in July 1993, that if one has entitlements, one should have assistance in putting those into effect.  The failure of this Bill to deal with the fundamental issue, the consequences of the X case, the confidentiality and privacy of and interference in the doctor-patient relationship will return to haunt us if this Bill is not referred by the President to the Supreme Court.  This matter will be challenged at a later date.</P>
+    <P>Many Members of this House may believe we will never have another Miss X.  We would be foolish to rule out the consequences of the X case and to assume that we live in a country where this kind of thing does not happen anymore. Deputies do not need me to tell them that there are strange and harsh cases before the courts, with details of activities which many of us would never have contemplated could happen in this country.  In a recent case before the court we heard the daughter and son of a man who pleaded guilty to the most inhumane physical, sexual and mental torture of his children.  I understand that another serious case, not of this nature, is coming before the courts shortly, which tells us a lot about the type of society in which we live.  These are exceptions, but unfortunately we must legislate for the exceptions and this Bill does not do that.</P>
+    <P>Deputy O'Donnell referred to the fact &mdash; it was brought to my attention yesterday &mdash; that the other leaders of the political parties have not contributed to this debate.  It is worth putting this on the record.  The Fianna Fáil Leader was singled out for criticism by the media and others for the stand his party took.  What are the views of the <Col N="1100" /> Taoiseach, the Tánaiste and the Minister for Social Welfare who had so much to say about these issues when in Opposition? There is not one word on the record about this legislation.  Could anyone imagine a budget debate or a debate on Northern Ireland where leaders would not contribute?</P>
+    <P>Recently at Question Time, in reference to the absence of the equality provisions from <i>A Government of Renewal,</i> I asked the Taoiseach if it was an oversight or deliberate Government policy. He said it was an oversight.  For too long women and their concerns have been an oversight in our society and in our legislation. We talk about this issue in a cold, clinical way as if it affects something mechanical, such as a car or tractor. That is true of the male commentators on the pro-life side who have spoken on some of the programmes.  They talk about women in a cold and uncaring way as if they are cars, buses or tractors. Deputy O'Donnell referred to the bishops' statement which is lacking in compassion and understanding and which is not realistic given the present circumstances.</P>
+    <P>I know the Minister and Deputy McDowell have crossed on this issue over the past two days.  I assure the Minister that the comments made by Deputy McDowell are not personal, whatever about the language he may use.  We all express ourselves differently. I hope the Minister does not take them personally because I do not believe that Deputy McDowell is trying to offend him.  He feels strongly about this issue.  Last night I took the opportunity to get the opinion of a senior counsel who has been involved in litigation in this area.  He feels equally strongly about these provisions.  This view is widely shared by those with legal expertise.  We will be making a grave mistake if we do not take on board the comments made by Deputy McDowell and Deputy O'Donnell because we feel the language is offensive, unfair or personalised. These views are widely shared by others involved in this area.</P>
+    <P>It is always better to be sure than <Col N="1101" /> sorry in legislation of this kind.  People, not only Deputies in this House, have doubts about it.  Deputy Shatter and others have expressed their reservations. Some Deputies privately expressed their concerns about this matter to me, but they are not lawyers and I did not put a lot of weight on their comments.  When such concerns are voiced in this House we would be foolish, going on past experience, not to take them on board and not to ensure that the legislation we are enacting is constitutional beyond doubt and that it safeguards the limited, but real rights which women have under the Constitution as a result of its interpretation by the Supreme Court.  This House must go to great pains to vindicate and uphold those rights and to ensure that we never again intern any woman in this State or find ourselves on the same legislative hook on which we found ourselves during the early part of 1992.</P>
+    <Speaker pid="FrancesFitzgerald" hpid="Ms F. Fitzgerald Ms F. Fitzgerald">
+      <NameTxt>Ms F. Fitzgerald</NameTxt>
+      <P>It is useful that we have begun to discuss the consequences of the Supreme Court judgement and the X case and that we are trying to tease out its implications and how it interacts with this Bill.  The Attorney General's advice is that this Bill is constitutional, yet an experienced lawyer on the other side of the House believes it is not.  The different legal opinions mean that there is still uncertainty for women.  We are basing this Bill on the Attorney General's advice.  However, we still do not know what women's constitutional rights are after the X case.  This is the first discussion I have heard about it in this House and it may take some time before that question is answered.</P>
+    </Speaker>
+    <P>Opening up the debate on this issue and ensuring that women have more information and counselling are steps in the right direction.  It is important to give more support to the organisations involved in counselling and that the Department of Health undertakes research into crisis pregnancies.  In spite of the 1983 and 1992 amendments and the X case, the atmosphere surrounding this debate is one of fear.  Although that <Col N="1102" /> is beginning to change, individual women are still expressing fear and this can be seen in the case which was reported in yesterday's and today's newspapers.  I do not know the details of that case, but there were at least five other similar cases in the past year.  It is reminiscent of the time when crisis pregnancies were not discussed by young women.  Families hid a young woman's pregnancy from their communities; it was surrounded by secrecy, silence and shame.</P>
+    <P>During the debate on this Bill this week I asked what effect the tone of some contributions would have on individual women.  While one can theorise and argue about the matter in an abstract way, and while the legal technicalities about which lawyers will differ are terribly important, in the middle of the argument will be women caught in extraordinarily difficult positions, whose cases will not be made any easier by our inability as legislators to face up to the issue and define it as much as we can.</P>
+    <P>Deputy Harney asked if the Supreme Court had not made a decision in 1992 and this House had had to decide at that time, how we would have dealt with the case.</P>
+    <Speaker pid="MaryHarney" hpid="Miss Harney Miss Harney">
+      <NameTxt>Miss Harney</NameTxt>
+      <P>We would have let her go.</P>
+    </Speaker>
+    <Speaker pid="FrancesFitzgerald" hpid="Ms F. Fitzgerald Ms F. Fitzgerald">
+      <NameTxt>Ms F. Fitzgerald</NameTxt>
+      <P>Would we? Reflecting on the debate on this information Bill one wonders what the answer to that might be.  If we had not been so frightened of discussing this issue in the past, both as a society and as a Legislature &mdash; although one hopes that is now changing &mdash; what kind of decisions would we make in this area?</P>
+    </Speaker>
+    <P>I spoke yesterday about the importance of non-directive counselling. Deputy McDowell is stressing the difference between advice and information. I wonder about that distinction because as I said counselling by a professional, whether that is a doctor or a counsellor, now involves stating the options.  I mentioned a woman who had cancer.  In that case, the doctor could go <Col N="1103" /> as far as any woman would want or need in spelling out the implications.</P>
+    <P>The Minister's contribution reassured me and it should remove some of the grey areas, although Deputy McDowell and Deputy O'Donnell still have concerns. The Minister said the doctor had a right and was constitutionally protected when outlining in detail the implications of a given situation and alternative courses of action and that is covered by this Bill.</P>
+    <P>While there will be cases where the scenario outlined by Deputy McDowell may arise, in the vast majority of cases non-directive counselling will ensure enough information is given to a woman to make a decision and not be dependent on a professional telling her what to do.  Cases such as the one mentioned by the Deputy are rare, although he may be aware of some.  Even in the most extreme cases, those involving a minor, for example, it would be the minor and her family who would make the essential decision about what course of action to take.  Putting counselling in place and ensuring its level and quality is an important aspect of the Bill; women can know the ethics and approach of the service.</P>
+    <P>The Minister's contribution removed some of the ambiguity, although Deputy McDowell feels there are still constitutional problems.  Legal opinions will differ, women will be caught in the middle and this House must continually strive to make the issue as clear as possible. It is not an easy matter to deal with and in the meantime women take their own decisions &mdash; the high number of women going to England has been mentioned in the House.  We must try to take some emotion out of the debate and clarify the position, especially in regard to women's rights after the Supreme Court judgement.</P>
+    <Speaker pid="HelenKeogh" hpid="Ms Keogh Ms Keogh">
+      <NameTxt>Ms Keogh</NameTxt>
+      <P>I made a truncated contribution during the initial stages of the Bill.  Like everyone, I was caught somewhat unawares and we thought the debate would collapse.  I am glad it did <Col N="1104" /> not because it has been useful to hear some of the views on the Bill, especially those of male Members.</P>
+      <P>Unfortunately in a political sense we are again ignoring reality and are not as compassionate as we were following the X case.  I said earlier that at least we have a Bill and although this may not be the universal opinion of my colleagues, we must give the Minister credit for that.  However, I feel strongly about the doctor &mdash; patient relationship and whether the doctor has a right to advise, make appointments or in anyway refer a patient to a clinic and I raised it earlier.  From the Minister's earlier reaction, I hoped he would make a less political and more compassionate decision.</P>
+      <P>I was struck by the tone of the debate and some women told me they were sick of hearing about abortion.  Others said they were emotionally drained and worried about the way the debate has progressed, the cold clinical way a number of people, particularly men, have spoken.  At the time of the X case, the response was compassionate.  One of my daughters was 13 then and we must always remind ourselves we are not talking about a cold, clinical issue; it is so fundamental it is inconceivable that we should be legislating in this way.  If a 13 year old child is raped and it is decided she must take the abortion option, it is unimaginable that she could be abandoned by her medical practitioner, because this is what the Minister is directing a doctor to do.</P>
+      <P>If my GP wanted to recommend or advise this option, it is inconceivable that she would not be able to advise that my daughter was in such a state of mental or physical health that she needed an abortion.  I cannot conceive of a circumstance where I would not expect that doctor to continue her care of that child. Given the compassion of a GP in those circumstances it is unbelievable that we would forbid a doctor to do that.</P>
+    </Speaker>
+    <P>It is hard to find an illustration which would fully mirror the trauma people go through in making a decision about abortion.  Cancer is the nearest analogy <Col N="1105" /> but I cannot imagine that a practitioner dealing with a cancer patient, or even with a person suffering from a bad back, would work in isolation from a consultant. I also wish to refer to the issue of counselling which is not part of this Bill.</P>
+    <Speaker pid="JoeJacob" hpid="An Leas-Cheann Comhairle Joe Jacob">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>This is Report Stage when Deputies should talk to the amendment.</P>
+    </Speaker>
+    <Speaker pid="HelenKeogh" hpid="Ms Keogh Ms Keogh">
+      <NameTxt>Ms Keogh</NameTxt>
+      <P>I am talking to the amendment. This is a reference I made at the time.</P>
+    </Speaker>
+    <Speaker pid="JoeJacob" hpid="An Leas-Cheann Comhairle Joe Jacob">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That remark is addressed not only to the Deputy in possession but to the House in general.</P>
+    </Speaker>
+    <Speaker pid="HelenKeogh" hpid="Ms Keogh Ms Keogh">
+      <NameTxt>Ms Keogh</NameTxt>
+      <P>The first amendment refers to counselling.  Counselling in this Bill is really just a sop, it is not an integral part of it.  The Minister, perhaps in a compassionate way, is directing resources towards counselling which is not an integral part of the Bill.  It is incomprehensible that the only time any decent resources are directed towards services such as counselling is when they have to counterbalance something else. Why should we have to wait for Bills such as this to direct resources towards counselling?  That aspect should not be forgotten.</P>
+      <P>When legislation regarding women or children, or even marriage mediation services, is being passed resources are directed as a type of conterbalance or sop and not because it is a good thing and necessary in its own right.</P>
+    </Speaker>
+    <P>I am aware of two young women who have had abortions.  One of them has had a nervous breakdown since, not because she believes she made the wrong decision but because of the lack of support and the fact that there are so few people to whom she can turn.  That young girl needed counselling, not in the next six months but six months ago. I agree with Deputy Frances Fitzgerald to some extent that at least with this Bill the debate on counselling has been opened to some degree.  Why should it <Col N="1106" /> be opened up arising out of this Bill?  It is important in its own right.</P>
+    <P>It is difficult, particularly as a mother, not to feel somewhat emotional about this.  I hope I have always been reasonable in my contributions but I find it difficult to accept the tone of some of the debate and remarks made by male Members.  Men should think deeply about the effect on women when they speak in abstract terms on something about which they know nothing and never will know anything.  Perhaps that accounts for the type of legislation on our Statute Book.</P>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>The Minister has expressed the view that our concerns are unfounded.  That is his advice from the Attorney General.  Obviously we disagree with that advice.  What is more chilling, however, is the fact that the political interpretation of that advice is driving the Minister's response.  It is clear that a political choice has been made by this Government to take a risk on this issue.  Even if a woman has a life threatening pregnancy and although it is lawful in the State for her to have a termination, the Minister and the Government have made a political choice that it will still be a criminal offence for her doctor to make the arrangements he deems necessary for her to terminate that pregnancy in order to save her life.  That is a stark political choice.  At least it cannot be said that we did not have a chance to debate the matter in the House and that such an outcome has not been foreseen and foretold.</P>
+    </Speaker>
+    <P>The Minister's argument which focuses on the decision does not convince me.  We are not legislating for the woman's decision after counselling.  We are legislating, particularly in sections 5 to 8, to turn a healer, a doctor, into a criminal if he or she goes further than this Bill provides in counselling or assisting a woman, particularly in an X case or where there is a threat to life. We will not agree with this.  Our views are irreconcilable but it cannot be said <Col N="1107" /> that we did not vocalise them.  The proposition that a doctor cannot take any act or make any arrangement which would assist a woman whose life is threatened because of her pregnancy is an abomination. I am in head-hanging despair that this Government would put forward that proposition.</P>
+    <P>If my doctor advised me that my life was in danger because of my pregnancy, I would expect him to do everything, to make all the arrangements and to travel on the plane with me.  Let us think about this.  Why should I have to get the plane?  Am I to be brought on the plane on a stretcher?  Deputy McManus said that women do not need their hands held.  If I am in a life threatening situation not only do I want my husband holding my hand.  I would expect my doctor to be there as my medical adviser holding my hand and telling me that I will be okay and that he will look after me and travel with me.  It is ridiculous that I should have to be taken on a stretcher to Britain for a termination if my life is in danger.</P>
+    <P>We are institutionalising hypocrisy in general.  A political choice has been made by the Government to refuse this key amendment. It is making a choice not to align this Bill with the constitutional right decided by the Supreme Court, that in the narrow circumstances where there is a risk to the life of the woman she is entitled to have a termination of pregnancy.  I said yesterday that the voice of the liberal perspective has been slight in this debate.  That is depressing.  It is an unnatural position. The usual liberal voices who would expound the views and endorse the constitutional rights of Irish women, apart from Deputy Frances Fitzgerald, are silenced in this debate because they are in Government.  I challenge those Members of the Labour Party and Democratic Left, who know this amendment is right, to vote against it.  To espouse the liberal viewpoint on this issue has been like standing in an empty grandstand.  It is an abomination that <Col N="1108" /> this House is passing this Bill without aligning it with the constitutional rights of Irish women.</P>
+    <Speaker pid="JoeJacob" hpid="An Leas-Cheann Comhairle Joe Jacob">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I am putting the question, &ldquo;That the amendment be made&rdquo;.</P>
+      <P>I think the question is defeated.</P>
+    </Speaker>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>Vótáil.</P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The question is: &ldquo;That the amendment be made&rdquo;.  On that question a division has been challenged. Will the Members who claim a division please rise?</P>
+      <P>
+        <i>Deputies Harney, Keogh, Michael McDowell, O'Donnell, O'Malley and Quill rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="SeanTreacy" hpid="An Ceann Comhairle Seán Treacy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>As fewer than ten Deputies have risen in their places I declare the question lost.  In accordance with Standing Order 59 the names of the Deputies dissenting will be recorded in the Journal of Proceedings of the Dáil.</P>
+      <P>Question declared lost.</P>
+      <P>Amendment declared lost.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> I move amendment No. 2:</P>
+      <P>In page 5, to delete lines 18 to 26, and substitute the following:</P>
+      <P>4.&mdash;It shall not be lawful &mdash;</P>
+      <P> (a) to display a notice (including an advertisement) containing Act information in or at a place to which the public have access whether upon payment or free of charge, or</P>
+      <P>(b) to distribute without solicitation by the recipients a book, newspaper, journal, magazine, leaflet or pamphlet, or any other document, or a film or a recording (whether of sound or images or both), containing Act information.&rdquo;. </P>
+    </Speaker>
+    <P>Deputy Geoghegan-Quinn proposed an <Col N="1109" /> amendment yesterday, which referred to the distribution of documents.  I indicated that I was disposed towards accepting it subject to whatever drafting changes were advised by the parliamentary draftsman.  When the section was examined last night, we thought it better to recast the section to include the point made by Deputy Geoghegan-Quinn.</P>
+    <Speaker pid="MaireGeoghehanQuinn" hpid="Mrs. Geoghegan-Quinn Mrs. Geoghegan-Quinn">
+      <NameTxt>Mrs. Geoghegan-Quinn</NameTxt>
+      <P>I thank the Minister and the Attorney General.  We felt this point had been omitted as an oversight in the Bill.  I appreciate that it was necessary to recast my amendment so that it could be included in the section.  I am happy to support the amendment.</P>
+    </Speaker>
+    <Speaker pid="WillieODea" hpid="Mr. O'Dea Mr. O'Dea">
+      <NameTxt>Mr. O'Dea</NameTxt>
+      <P>I thank the Minister for accepting the substance of the case made by Deputy Geoghegan-Quinn yesterday.  Is there any other difference of substance between the recast section and the original text?  For example, I note in the original text that it would also be unlawful not just to publish a notice but to procure the publication of a notice.  This seems to be omitted from the recast section.  Is there some reason for this?</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> The offence was always intended to be the way it was distributed.  The wording put forward in Deputy Geoghegan-Quinn's amendment yesterday stated: &ldquo;It shall not be lawful for any person to distribute any document to which this section applies.&rdquo; On examination, this proved to be problematic because the net issue in section 4 is the manner in which a document is displayed or distributed.  The point is illustrated if we assume that a person publishes a book which contains Act information, the book is sold in shops or given out on request at advice agencies.  Up to this point, it clearly comes under section 3.  Provided it complies with section 3 conditions, both its publication and distribution are lawful.</P>
+    </Speaker>
+    <P>If a person takes 1,000 copies of the book and puts them through every letterbox in the neighbourhood, this is <Col N="1110" /> clearly an infringement of section 4.  The distribution of the book is not unlawful but distribution in this manner most certainly is.  It is the manner of the distribution we are trying to cover in section 4.  The section has been rearranged and Deputies will note that it more clearly meets the objective drawn to my attention by Deputy Geoghegan-Quinn and takes fully into account the point raised in the Fianna Fáil amendment.</P>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>I have listed a series of concerns about the general coercive nature of the Bill and the fact that it criminalises a large range of activities. However, I have no qualms about section 4.  Most Irish people do not want billboards or unsolicited information advocating abortion coming through their letterboxes.  If I had a choice, I could have drafted a Bill based on the billboard aspect alone, while removing all the other criminality and prohibitions in the Bill.  Such prohibitions and sanctions are appropriate in the display of certain public notices.  Given that I have been so vocal in expressing concerns about other aspects of the Bill I wish to put on record that section 4 causes me no trouble whatsoever.</P>
+    </Speaker>
+    <Speaker pid="WillieODea" hpid="Mr. O'Dea Mr. O'Dea">
+      <NameTxt>Mr. O'Dea</NameTxt>
+      <P>I understand the Minister's reply, but, as I understand it, the original text prevented somebody distributing unsolicited Act information. However, it also prevented somebody procuring distributors to do that.  In the revised text, only distribution is prevented.  A person can quite easily procure somebody else to make the distribution. The distributor can be prosecuted, but the person who procures him to do it cannot be prosecuted.  Is there any justification or explanation for this change?</P>
+    </Speaker>
+    <Speaker pid="JoeJacob" hpid="An Leas-Cheann Comhairle Joe Jacob">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Strictly speaking, Deputy, I should not have called you.  We are on Report Stage and I would be out of order if I asked the Minister to reply.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Col N="1111" />
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> I move amendment No. 3:</P>
+      <P>In page 9, before line 1, to insert the following:</P>
+      <P>13.  &mdash;Nothing in this Act shall be construed as obliging any person to give Act information.&rdquo;.</P>
+      <P>I indicated yesterday that I would be happy to include an explicit provision to cater for conscientious objection, although this is already implicit in the Bill.  I have carefully examined the wording put forward by Deputy Geoghegan-Quinn and I am concerned about its potential consequences.  Its scope goes beyond those who give Act information and could include employees with a very peripheral role in the process. Consequently, I have recast it in more precise terms and it achieves the objective indicated by Deputy Geoghegan-Quinn and all Deputies to have such an explicit provision in the Bill.</P>
+    </Speaker>
+    <Speaker pid="MaireGeoghehanQuinn" hpid="Mrs. Geoghegan-Quinn Mrs. Geoghegan-Quinn">
+      <NameTxt>Mrs. Geoghegan-Quinn</NameTxt>
+      <P>I thank the Minister.  All Deputies, including the Minister, received representations from medical personnel in particular since the Bill was published.  Deputies O'Donnell and McDowell made the point yesterday that others, apart from medical people and those involved in counselling, would have problems.  The amendment proposed by the Minister reaches a compromise and I support it.</P>
+    </Speaker>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>I support the amendment. It is not technically necessary but it will not damage the Bill.  It is worth contrasting the Minister's attitude in accepting the spirit of this amendment on the basis that it is not absolutely necessary but it might offend some doctors' sensibilities, to his attitude of not recognising the risk to the sensibilities and rights of Irish women covered in my amendment No. 1.  It is worth making the comparison between the respect shown to doctors and the lack of respect for women's rights in this debate.</P>
+    </Speaker>
+    <P>During the debate yesterday, I <Col N="1112" /> expressed concern that if a doctor exercises his right to opt out in the context of counselling and information, some reassurance should be given to the distraught woman that she will be sent elsewhere, rather than sent away from the doctor's surgery without any guarantee of receiving counselling appropriate to her needs.  In response to this point, the Minister said that the medical code of ethics for doctors requires that they should always refer patients elsewhere for treatment if that treatment is objected to on conscience grounds by the doctor first consulted.  If they are to rely on this opt out clause, they are bound by the medical ethical code to look after that woman.  By accepting this amendment, there is a danger that if there is not adherence to the medical ethical guidelines the woman will not be directed elsewhere by the doctor who refuses to give her Act information on grounds of conscience. That girl or woman may then do damage to herself or have a secret pregnancy.  There are parallels to be drawn with some of the instances reported in the newspapers of secret pregnancies and babies brought to full term without medical attention.  The Minister must address that point and I would ask him to do so.</P>
+    <P>The Minister for Health should make it clear to doctors that they cannot entirely avoid their responsibilities to their patients by using this opt out clause.  I hope we can rely on the medical profession, in a self-regulatory way, to ensure the safety of those patients to whom they have refused counselling on the grounds of conscience.</P>
+    <Speaker pid="WillieODea" hpid="Mr. O'Dea Mr. O'Dea">
+      <NameTxt>Mr. O'Dea</NameTxt>
+      <P>This amendment states that nothing in this Act shall be construed as obliging any person to give Act information.  I acknowledge that the Minister cannot alter other statutory provisions which would oblige people to give the information, but nothing in this Act will oblige somebody to do this. Deputy O'Donnell referred yesterday to the case of a junior doctor in a practice who wants to conscientiously object <Col N="1113" /> but is directed by his superiors to counsel in the way allowed by this legislation. He is not obliged by anything in the Act but is obliged by the terms of his employment contract.  Could his employers sack him for refusing to give Act information, even though he has a conscientious objection to doing so?</P>
+    </Speaker>
+    <Speaker pid="RoryOHanlon" hpid="Dr. O'Hanlon Dr. O'Hanlon">
+      <NameTxt>Dr. O'Hanlon</NameTxt>
+      <P>I thank the Minister for bringing forward this amendment in response to Deputy Geoghegan-Quinn's request.  I would like to know how this would affect a secretary in a doctor's practice who might not want to handle Act information or hand out leaflets containing the names and addresses of abortion clinics.</P>
+      <P>I would take issue with the point raised by Deputy O'Donnell.  Every doctor accepts the guidelines laid down by the Medical Council.  There is no difficulty with that or with ensuring that if a doctor does not want to carry out a necessary treatment on any woman, she will be referred to another medical practitioner. Here we are talking about a conscience clause allowing a doctor to refuse to treat a woman who wishes to have an abortion.  It would be hypocritical of a doctor to refer a patient to someone else who would assist her in having an abortion if the doctor believed that abortion should not be legalised or that they should not assist a person in procuring one.</P>
+    </Speaker>
+    <P>That does not mean that a woman who has a particular illness that needs treatment should not be helped.  The medical profession has always been ethical in ensuring that the best treatment is available to every woman.  For example, if a pregnant woman has cancer of the womb, it would be removed and there is no difficulty with that.  It has always been ethically accepted by the medical profession and that will continue to be the case.  It would be wrong to force a doctor, or anybody else, if they did not agree or had a conscientious objection to abortion, to refer the patient to somebody else who would carry out the procedure.  However, I <Col N="1114" /> welcome this amendment and I thank the Minister for bringing it forward.</P>
+    <Speaker pid="FrancesFitzgerald" hpid="Ms F. Fitzgerald Ms F. Fitzgerald">
+      <NameTxt>Ms F. Fitzgerald</NameTxt>
+      <P>I congratulate the Minister for bringing forward this amendment.  As he said, there was nothing in the Bill that obliged somebody to do this, but its insertion removes any worry people may have had.  I have a question on Deputy O'Hanlon's statement.  I understood the Minister to say yesterday that medical ethical guidelines meant that a doctor had to refer a woman to somebody else if there was a conscientious objection?</P>
+    </Speaker>
+    <Speaker pid="RoryOHanlon" hpid="Dr. O'Hanlon Dr. O'Hanlon">
+      <NameTxt>Dr. O'Hanlon</NameTxt>
+      <P>For necessary medical treatment.</P>
+    </Speaker>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>For counselling.</P>
+    </Speaker>
+    <Speaker pid="FrancesFitzgerald" hpid="Ms F. Fitzgerald Ms F. Fitzgerald">
+      <NameTxt>Ms F. Fitzgerald</NameTxt>
+      <P>Is there a possibility that the medical ethical guidelines would not cover this situation?  A woman could go to a doctor and find out that she might not be referred for counselling to someone else if it was to include all options.  From what Deputy O'Hanlon said, there may be a possibility that a doctor may not even want to make that referral, for reasons of conscience.  It is not an issue that can be solved here, but I ask the Minister to take note of it and perhaps have it clarified at a later stage.</P>
+    </Speaker>
+    <Speaker pid="MichaelNoonan" hpid="Mr. Noonan (Limerick East) Mr. Noonan (Limerick East)">
+      <NameTxt>Mr. Noonan</NameTxt>
+      <P>
+        <i>(Limerick East):</i> This amendment states that nothing in this Act shall be construed as obliging any person to give Act information.  We are clearly talking about the Act and Act information as defined within the terms of the Act.  It does not oblige any person to give Act information.</P>
+    </Speaker>
+    <P>I do not want to cast the provision too widely.  If Act information was being provided in newspapers, it should not be so wide so as to include the printer or the van driver distributing the newspapers. While it would be unlikely that the van driver would have a conscientious objection to doing his job, if one of the extreme groups involved in this issue put pressure on him, he might then <Col N="1115" /> decide that he had a conscientious objection to making these deliveries.  It is important that we do only what we intend to do.  The conscientious objection clause is to cover people who would be giving Act information and that is clearly defined within the terms of the Act.</P>
+    <P>On the question of medical ethics, I draw the House's attention to Paragraphs 3801 and 4503 of the Medical Council's Guide to Ethical Conduct in 1994.  Paragraph 3801 specifically states.</P>
+    <P>In the event of doctors not wishing to transfer files to other doctors, the original doctors are obliged to convey, by way of letter or other means, medical information concerning their patients to nominated doctors.</P>
+    <P>Paragraph 4503 categorically states:</P>
+    <P>If a doctor has a conscientious objection to a given line of treatment, he or she must refer the patient to an appropriate colleague.</P>
+    <P>It goes on to state with heavy emphasis, &ldquo;Treatment must never be refused on the grounds of moral disapproval of the patient's behaviour&rdquo;.  If doctors have a problem with the meaning of that I suggest they should get clarification from the Medical Council.</P>
+    <Speaker pid="RoryOHanlon" hpid="Dr. O'Hanlon Dr. O'Hanlon">
+      <NameTxt>Dr. O'Hanlon</NameTxt>
+      <P>They have absolutely no problem with it.</P>
+      <P>Amendment agreed to.</P>
+      <P>Question proposed: &ldquo;That the Bill do now pass&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MaireGeoghehanQuinn" hpid="Mrs. Geoghegan-Quinn Mrs. Geoghegan-Quinn">
+      <NameTxt>Mrs. Geoghegan-Quinn</NameTxt>
+      <P>I thank the Minister, Deputy O'Donnell and others for what I hope has been a mature debate in relation to this difficult subject. As I said on Second Stage, it was difficult to talk about and to legislate for.  I said both in the House and outside that it is a very subjective topic on which people hold strong views, one side or the other, and that the Minister had the <Col N="1116" /> difficult task of trying to steer a middle course.</P>
+      <P>I thank the Minister for taking on board the points raised by my party on Second Stage, for looking carefully at each of the amendments we put down and for accepting them in a new form this morning.  In particular I thank him for his generous response to the long amendment on research, counselling, education and on comprehensive family planning services which I said &mdash; I think the Minister agreed &mdash; was probably the only amendment to the Bill which worked towards reducing the number of women terminating their pregnancies.</P>
+      <P>One good thing to come out of this debate is that we will have State support and funding for quality counselling services which will be available to women nationwide.  I thank my colleagues who were here during the Second Stage and Committee Stage debate and Deputy O'Donnell for her support for a number of the amendments we put down.</P>
+    </Speaker>
+    <Speaker pid="LizODonnell" hpid="Ms O'Donnell Ms O'Donnell">
+      <NameTxt>Ms O'Donnell</NameTxt>
+      <P>I thank the Minister, Deputy Geoghegan-Quinn and other Deputies who contributed to the debate.  I expressed strong views which ran contrary to the Bill.  As a party we decided to support the Bill on the basis that we had a democratic obligation to regulate the situation arising from the fourteenth amendment.  We supported the Bill with a view to substantially amending it, but unfortunately, we were not successful in any of our attempts to amend defective sections.</P>
+      <P>We sought to amend the Bill on Report Stage in relation to the constitutional rights of women as determined by the X case and the failure of this Bill to align itself with those rights.  The Bill is fatally flawed as a result of the refusal to accept that amendment.  It was a political choice by the Government and it has decided to take a chance and leave it to the courts to determine yet again. I am sure it will be challenged again.</P>
+    </Speaker>
+    <P>We also raised objections to the freedom of expression aspects of the Bill. Section 3 fundamentally challenges our <Col N="1117" /> obligations under the European Convention of Human Rights and under European law as regards freedom to express opinions and views.  Section 6 flies in the face of the decision of the European Court of Justice on the Grogan case which permits the free flow of services between member states.  I believe we are heading doggedly back to the European Court of Justice.  I read the Attorney General's advice on this issue and it seems the Government is willing to take a chance on that also.  It believes there is an arguable point on both sides &mdash; that the restrictions in the Bill might be challenged, but it is willing to take a chance.</P>
+    <P>We had to duck and dive past the intimidation at the gate of the House. People have a right to lawfully assemble outside the House and to lobby their Deputies and, as an elected Member of the House, that is acceptable to me.  At times, however, lobbying went beyond that and it was intimidating.  All Members will have received disgusting literature and letters through the post and that makes it difficult for Deputies particularly for the women in the House who are mothers.</P>
+    <P>During the debate there was a slight change in the tone and compassion expressed in the House by men and women.  I regret that there was a dearth of liberal views expressed but that is how the cookie crumbles and the way the Government is formed at present. Liberal voices have been stifled because they are part of the Government.  The Bill, which is like a leaking boat, is now going to the Seanad for further consideration. Senators have an enormous duty to look into their hearts and to reconsider the issues raised today, particularly in relation to the constitutional rights of pregnant women as determined by the Supreme Court in the X case.  I look forward to the debate in the Seanad and I hope it will not simply go through the motions.  I look forward to hearing Independent Senators in particular.  They may challenge the validity of the Bill on the grounds we <Col N="1118" /> argued about today.  I bid the Bill good speed to the Seanad.</P>
+    <P>By debating this, future arguments about this complex and emotional subject which tears people asunder will have moved a step closer in terms of language and compassion to addressing the issue.  For that reason alone, that there has been evolution in the thought process and in the language used in the House, it was a good Bill to come before the House, despite its flaws.  We have developed democratically by dealing with this complex issue.</P>
+    <Speaker pid="FrancesFitzgerald" hpid="Ms F. Fitzgerald Ms F. Fitzgerald">
+      <NameTxt>Ms F. Fitzgerald</NameTxt>
+      <P>I congratulate the Minister and the Government on bringing this Bill to the House.  It is a difficult subject to deal with and, as we have seen during the course of this debate, it excites high emotions.  I agree with Deputy O'Donnell that the tone of the discussion and the points put forward are important.  We have seen evolution in the debate on this issue.  There is a history of trying to deal with what is a complex legal, ethical and moral situation through constitutional means.  It has proved a difficult area in which to deal with this issue.  We have seen the consequences of the 1983 referendum for women and the complexities leading to the 1992 referendum where there was a question mark over information for women and travel.  I am glad we looked at the information issue this week, that the Bill has dealt with it and begun to address the important question of the support services we give to women experiencing crisis pregnancies.</P>
+      <P>When preparing for the debate I read a piece of research on the experiences of 200 women who had gone to England for abortions.  It was a sad study as the women had experienced great isolation in this country in their crisis pregnancy. This Bill will mean that women will have more information and, I hope, some of the isolation, silence and shame which women have experienced will no longer exist as a result of the House dealing with this issue in a more open way.</P>
+    </Speaker>
+    <Col N="1119" />
+    <Speaker pid="MichaelNoonan" hpid="Minister for Health (Mr. Noonan, Limerick East) Michael Noonan">
+      <NameTxt>Minister for Health (Mr. Noonan,</NameTxt>
+      <P>
+        <i>Limerick East</i>
+        <b>):</b> I thank Deputies who contributed to the debate, particularly Deputies Geoghegan-Quinn and O'Donnell whose contributions made the debate on committee and Report Stage a good one.  Much of the enthusiasm we witnessed on Second Stage faded as it always does on Committee and Report Stages and it was left to the same group, foremost among them. Deputies Geoghegan-Quinn and O'Donnell, to do the real work on this <Col N="1120" /> Bill.  I thank Deputy Frances Fitzgerald who helped me on Committee and Report Stages.  I hope we have contributed significant legislation to the Statute Book by this process.  The Bill will, of course, have to go to the Seanad on Monday and I will be making my case there also.  I wish to thank also the Leas-Cheann Comhairle.</P>
+      <P>Question put and agreed to.</P>
+      <P>The Dáil adjourned at 12.40 p.m. until 2.30 p.m. on Tuesday, 14 March 1995.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

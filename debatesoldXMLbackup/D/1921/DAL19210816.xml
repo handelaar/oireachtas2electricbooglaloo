@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Tue" Date="16" Month="Aug" Year="1921" Vol="S" No="1" DateIrish="" DateEnglish="" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="5">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="5" /> Tháinig Dáil Éireann le chéile in Arus Ard-Mhéire Bhaile Atha Cliath ar a 10 a chlog a.m.</P>
+    <P>Bhí an CEANN COMHAIRLE sa chathaoir go dtí gur sighníodh an Rolla mar leanas:&mdash;</P>
+    <P>Mícheál O Coileáin (Co. Ard Mhacha).</P>
+    <P>Art O Gríobhtha (Co. an Chabháin).</P>
+    <P>Seán Mac Giolla Ríogh (Co. an Chabháin).</P>
+    <P>Pól O Geallagáin (Co. an Chabháin).</P>
+    <P>Seumas O Lionnáin (Co. Cheatharloch agus Co. Chill Choinnigh).</P>
+    <P>Liam T. Mac Cosgair (Co. Cheatharloch agus Co. Chill Choinnigh).</P>
+    <P>Gearóid O Súileabháin (Co. Cheatharloch agus Chill Choinnigh).</P>
+    <P>Eamon Aidhleart (Co. Cheatharloch agus Co. Chill Choinnigh).</P>
+    <P>Eamon de Valéra (Co. an Chláir).</P>
+    <P>Brian O hUigín (Co. an Chláir).</P>
+    <P>Pádraig O Braonáin (Co. an Chláir).</P>
+    <P>Seán O Lidia (Co. an Chláir).</P>
+    <P>Mícheál O Coileáin (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Seán O hAodha (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Pádraig O Caoimh (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Seán Mac Suibhne (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Seán Mac Héil (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Seán O Maoileoin (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Domhnall O Corcora (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Seán O Nualláin (Co. Chorcaighe Thiar, Theas, agus Meadh.).</P>
+    <P>Tomás O Fiachra (Co. Chorcaighe Thoir).</P>
+    <P>Seumas Mac Gearailt (Co. Chorcaighe Thoir).</P>
+    <P>Dáithí Ceannt (Co. Chorcaighe Thoir).</P>
+    <P>Eoin Mac Néill (Co. Dhoire).</P>
+    <P>Seosamh O Dochartaigh (Co. Thír Chonaill).</P>
+    <P>Seosamh Mac Suibhne (Co. Thír Chonaill).</P>
+    <P>Peadar S. Mac an Bháird (Co. Thír Chonaill).</P>
+    <P>Dr. S. Mac Fhionnlaoich (Co. Thír Chonaill).</P>
+    <P>P.S. Mac Ualghairg (Co. Thír Chonaill).</P>
+    <P>S.O. Flaithbheartaigh (Co. Thír Chonaill).</P>
+    <P>Eamon de Valéra (Co. an Dúin).</P>
+    <P>S. Gabháin Uí Dhubhthaigh (Co. Atha Cliath).</P>
+    <P>Próinsias Laighléis (Co. Atha Cliath).</P>
+    <P>Deasmhumhain Mac Gearailt (Co. Atha Cliath).</P>
+    <P>Seumas Mac Doirim (Co. Atha Cliath).</P>
+    <P>Bean an Phiarsaigh (Co. Atha Cliath).</P>
+    <P>Seumas O Duibhir (Co. Atha Cliath).</P>
+    <P>Seán O Mathghamhna (Co. Fhearmanach).</P>
+    <P>Art O Gríobhtha (Co. Fhearmanach).</P>
+    <P>Seán Mac Giolla Ríogh (Co. Fhearmanach).</P>
+    <P>Liam O Maoilíosa (Co. na Gaillimhe).</P>
+    <P>Dr. Brian Cíosóg (Co. na Gaillimhe).</P>
+    <P>Próinsias O Fathaigh (Co. na Gaillimhe).</P>
+    <P>Pádraic O Máille (Co. na Gaillimhe).</P>
+    <P>
+      <Col N="6" /> Seoirse Mac Niocaill (Co. na Gaillimhe).</P>
+    <P>P.S. O hOgáin (Co. na Gaillimhe).</P>
+    <P>An t-Oll. S. O Faoilleacháin (Co. na Gaillimhe).</P>
+    <P>Aibhistín de Stac (Co. Chiarraidhe agus Co. Luimnighe Thiar).</P>
+    <P>Eamon de Róiste (Co. Chiarraidhe agus Co. Luimnighe Thiar).</P>
+    <P>P.S. O Cathail (Co. Chiarraidhe agus Co. Luimnighe Thiar).</P>
+    <P>Tomás O Donnchadha (Co. Chiarraidhe agus Co. Luimnighe Thiar).</P>
+    <P>Piaras Béaslaí (Co. Chiarraidhe agus Co. Luimnighe Thiar).</P>
+    <P>Fionán O Loingsigh (Co. Chiarraidhe agus Co. Luimnighe Thiar).</P>
+    <P>Art O Conchubhair (Co. Chill Dara agus Co. Chill Mhantáin).</P>
+    <P>Domhnall O Buachalla (Co. Chill Dara agus Co. Chill Mhantáin).</P>
+    <P>E. Childers (Co. Chill Dara agus Co. Chill Mhantáin).</P>
+    <P>Riobárd Bartún (Co. Chill Dara agus Co. Chill Mhantáin).</P>
+    <P>Criostóir O Broin (Co. Chill Dara agus Co. Chill Mhantáin).</P>
+    <P>Seoirse Pluingceud (Co. Liathdroma agus Co. Roscomáin Thuaidh).</P>
+    <P>Seumas O Dóláin (Co. Liathdroma agus Co. Roscomáin Thuaidh).</P>
+    <P>Aindrias O Láimhín (Co. Liathdroma agus Co. Roscomáin Thuaidh).</P>
+    <P>Tomás Carter (Co. Liathdroma agus Co. Roscomáin Thuaidh).</P>
+    <P>Dr. Pádraig Mac Artáin (Co. Laoighise agus Co. O bhFáilghe).</P>
+    <P>Caoimghin O hUigín (Co. Laoighise agus Co. O bhFáilghe).</P>
+    <P>Seosamh O Loingsigh (Co. Laoighise agus Co. O bhFáilghe).</P>
+    <P>Próinsias Bulfin (Co. Laoighise agus Co. O bhFáilghe).</P>
+    <P>Bean Mhíchíl Uí Cheallacháin (Cathair Luimnighe agus Co. Luimnighe Thoir).</P>
+    <P>Dr. Risteárd O hAodha (Cathair Luimnighe agus Co. Luimnighe Thoir).</P>
+    <P>M.P. Colivet (Cathair Luimnighe agus Co. Luimnighe Thoir).</P>
+    <P>Liam O hAodha (Cathair Luimnighe agus Co. Luimnighe Thoir).</P>
+    <P>Seosamh Mac Aonghusa (Co. Loingphuirt agus Co. na hIar-Mhidhe).</P>
+    <P>Seán Mac Eoin (Co. Longphuirt agus Co. na hIar-Mhidhe).</P>
+    <P>Lorcán O Roibín (Co. Longphuirt agus Co. na hIar-Mhidhe).</P>
+    <P>Seán O Ceallaigh (Co. Lughmhaighe agus Co. na Midhe).</P>
+    <P>Eamon O Dúgáin (Co. Lughmhaighe agus Co. na Midhe).</P>
+    <P>Peadar O hAodha (Co. Lughmhaighe agus Co. na Midhe).</P>
+    <P>Seumas O Murchadha (Co. Lughmhaighe agus Co. na Midhe).</P>
+    <P>Saerbhreathach Mac Cionaith (Co. Lughmhaighe agus Co. na Midhe).</P>
+    <P>Dr. O Cruadhlaoich (Co. Mhuigheo Thuaidh agus Thiar).</P>
+    <P>Seosamh Mac Giolla Bhrighde (Co. Mhuigheo Thuaidh agus Thiar).</P>
+    <P>Tomás O Deirg (Co. Mhuigheo Thuaidh agus Thiar).</P>
+    <P>P.S. O Ruithléis (Co. Mhuigheo Thuaidh agus Thiar).</P>
+    <P>Liam Mac Sioghuird (Co. Mhuigheo Theas agus Co. Roscomáin Theas).</P>
+    <P>Tomás Maguidhir (Co. Mhuigheo Theas agus Co. Roscomáin Theas).</P>
+    <P>D. O Ruairc (Co. Mhuigheo Theas agus Co. Roscomáin Theas).</P>
+    <P>Earnán de Blaghd (Co. Mhuineacháin).</P>
+    <P>Seán Mac an tSaoi (Co. Mhuineacháin).</P>
+    <P>Eoin O Dubhthaigh (Co. Mhuineacháin).</P>
+    <P>Dr. P. O Fearáin (Co. Shligigh agus Co. Mhuigheo Thoir).</P>
+    <P>Alasdair Mac Cába (Co. Shligigh agus Co. Mhuigheo Thoir).</P>
+    <P>Tomás O Domhnaill (Co. Shligigh agus Co. Mhuigheo Thoir).</P>
+    <P>Seumas O Daimhín (Co. Shligigh agus Co. Mhuigheo Thoir).</P>
+    <P>Próinsias Mac Cárthaigh (Co. Shligigh agus Co. Mhuigheo Thoir).</P>
+    <P>Seosamh Mac Donnchadha (Co. Thiobrad Arann Theas, Thuaidh agus Meadh.).</P>
+    <P>Seumas de Búrca (Co. Thiobrad Arann Theas, Thuaidh agus Meadh.).</P>
+    <P>P.S. O Maoldomhnaigh (Co. Thiobrad Arann Theas, Thuaidh agus Meadh).</P>
+    <P>P.S. O Broin (Co. Thiobrad Arann Theas, Thuaidh agus Meadh.).</P>
+    <P>Cathal Brugha (Co. Phortláirge agus Co. Thiobrad Arann Thoir).</P>
+    <P>Dr. V. de Faoite (Co. Phortláirge agus Co. Thiobrad Arann Thoir).</P>
+    <P>Próinsias O Druacháin (Co. Phortláirge agus Co. Thiobrad Arann Thoir).</P>
+    <P>Eamon O Deaghaidh (Co. Phortláirge agus Co. Thiobrad Arann Thoir).</P>
+    <P>Seumas Mac Roibhín (Co. Phortláirge agus Co. Thiobrad Arann Thoir).</P>
+    <P>Dr. Seumas O Riain (Co. Loch Garman).</P>
+    <P>Seán Etchingham (Co. Loch Garman).</P>
+    <P>
+      <Col N="7" /> Risteárd Mac Fheorais (Co. Loch Garman).</P>
+    <P>Seumas O Dubhghaill (Co. Loch Garman).</P>
+    <P>Seán T. O Ceallaigh (Baile Atha Cliath Meadh.).</P>
+    <P>Pilib O Seanacháin (Baile Atha Cliath Meadh.).</P>
+    <P>Bean an Chléirigh (Baile Atha Cliath Meadh.).</P>
+    <P>Seán Mac Garraidh (Baile Atha Cliath Meadh.).</P>
+    <P>Mícheál Mac Stáin (Baile Atha Cliath Thiar Thuaidh).</P>
+    <P>Risteárd O Maolchatha (Baile Atha Cliath Thiar Thuaidh).</P>
+    <P>Seosamh Mag Craith (Baile Atha Cliath Thiar Thuaidh).</P>
+    <P>Pilib Mac Cosgair (Baile Atha Cliath Thiar Thuaidh).</P>
+    <P>Constans de Markievicz (Baile Atha Cliath Theas).</P>
+    <P>Cathal O Murchadha (Baile Atha Cliath Theas).</P>
+    <P>Domhnall Mac Cárthaigh (Baile Atha Cliath Theas).</P>
+    <P>Liam de Róiste (Corcaigh).</P>
+    <P>Seumas Breathnach (Corcaigh).</P>
+    <P>Domhnall O Ceallacháin (Corcaigh).</P>
+    <P>Eoin Mac Néill (Ollsgoil Náisiúnta na hÉireann).</P>
+    <P>Mícheál O hAodha (Ollsgoil Náisiúnta na hÉireann).</P>
+    <P>Dr. Eithne Inglis (Ollsgoil Náisiúnta na hÉireann).</P>
+    <P>An tOll. W.F.P. Stockly (Ollsgoil Náisiúnta na hÉireann).</P>
+    <P>Chuaidh EAMON DE BHALERA i gCeannus annsin, agus dubhairt sé:</P>
+    <P>A lucht na Dála, mar socruigheadh ag an gcruinniú deireannach de'n Dáil ise mo dhualgas anois an dara Dáil a chur ar siubhal.  An Dáil a cuireadh ar bun i mbliain a 1919, bhí sí i bhfeidhm go dtí anois.  Tá deireadh leithi anois agus tá Dáil nuadh ann.</P>
+    <P>Members of the Dáil, in accordance with the decision arrived at last Session, it is my privilege and my duty to open the new Dáil.  Until the moment the Speaker left the Chair, the old Dáil was in session.  The new Dáil is in session now.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ELECTION OF CEANN" RHead="COMHAIRLE">
+    <Title>ELECTION OF CEANN COMHAIRLE.</Title>
+    <Speaker pid="EamonDeValera" hpid="AN T-UACHTARAN AN T-UACHTARAN">
+      <NameTxt>AN T-UACHTARAN:</NameTxt>
+      <P>Sé an chéad rud atá againn le déanamh ná Ceann Comhairle a thogha.</P>
+    </Speaker>
+    <Speaker pid="EdmundJDuggan" hpid="MR. EAMON DUGGAN MR. EAMON DUGGAN">
+      <NameTxt>MR. EAMON DUGGAN:</NameTxt>
+      <P>I have great pleasure in proposing the re-election of the former Speaker, Mr. S.T. O Ceallaigh. You all know that he is specially fitted to discharge the duties of the office by reason of his long training and experience as a member of the chief public boards of this city.  His name needs no words of recommendation because you are aware that he discharged the duties of the very important mission entrusted to him on the Continent during the past two years in a manner which has reflected credit not alone upon himself, but upon this body.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="SEAN T. O CEALLAIGH SEAN T. O CEALLAIGH">
+      <NameTxt>SEAN T. O CEALLAIGH:</NameTxt>
+      <P>Is oth liom nach féidir liom m'ainm a leigint os cóir na Dála.  Ní cóir dom glacadh leis an onóir seo.  Tá fhios agaibh go bhfuilim as an tír seo le fada agus nach raibh sé im' chumas a bheith i láthair ag aon chruinniú ach an t-aon cheann amháin. Tá obair thabhachtach le déanamh ag an Dáil agus ba chóir do'n Cheann Comhairle a bheith i láthair ag gach aon chruinniú.  B'fhéidir go dtiocfaidh an lá go mbeid in ánn a bheith i láthair ag an Dáil, ach go ceann tamaill eile caithfead a bheith ag obair i gcéin.  Ar an adhbhar san, ba mhaith liom cead a iarraidh m'ainm a tharrac siar.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="AN T-UACHTARAN AN T-UACHTARAN">
+      <NameTxt>AN T-UACHTARAN:</NameTxt>
+      <P>Caithfidh an Dáil duine eile d'ainmniú.</P>
+    </Speaker>
+    <Speaker pid="SeanOCeallaigh" hpid="SEAN O CEALLAIGH (&ldquo;Sceilg&rdquo;) SEAN O CEALLAIGH (“Sceilg”)">
+      <NameTxt>SEAN O CEALLAIGH</NameTxt>
+      <P>(&ldquo;Sceilg&rdquo;): Ba mhaith liom ainm Eóin Mhic Néill a chur os bhúr geóir.  Fear fial, flaitheamhail, cneasta, tuigsionach, léigheanta iseadh é.  Ma bhíonn sé againn beidh fear againn a thabharfaidh cothrom na féinne do gach duine.  Molaim a ainm díbh.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="SEAN T. O CEALLAIGH SEAN T. O CEALLAIGH">
+      <NameTxt>SEAN T. O CEALLAIGH:</NameTxt>
+      <P>Aontuím leis an rún san.  Níl fear a chuirfeadh níos mó onóir ar an Dáil mar Cheann Comhairle ná Eóin Mac Néill, agus tá taithighe aige ar stiúrú na h-oibre.  Tá súil agam go nglacfar leis an rún d'aon ghuth.</P>
+      <P>Cuireadh an rún os cóir na Dála agus glacadh leis.  Chuaidh Eóin Mac Néill i gCeannus an chruinnuighthe.</P>
+    </Speaker>
+    <Speaker pid="ProfEoinMacNeill" hpid="AN CEANN COMHAIRLE (EOIN MAC NEILL) AN CEANN COMHAIRLE (EOIN MAC NEILL)">
+      <NameTxt>AN CEANN COMHAIRLE (EOIN MAC NEILL):</NameTxt>
+      <P>Cuirim mo bhuidheachas in úil díbh mar gheall ar an onóir seo a thabhairt <Col N="8" /> dom is mé do chur sa chathaoir.  Is mór agus is trom an obair a chuireabhar orm, ach déanfaidh mé mo dhícheall chun cothrom na féinne do thabhairt do gach Teachta chó fada is táim anso, chun obair na hÉireann a dhéanamh.  Ceann de sna honóracha is mó in Éireann is eadh í seo. Ach ní chugam-sa atá an onóir ag dul. Siad muinntir Iolscoile na hEireann agus muintir Dhoire a chur anso mé agus is chucha san atá an onóir ag dul.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ELECTION OF DEPUTY" RHead="SPEAKER">
+    <Title>ELECTION OF DEPUTY SPEAKER.</Title>
+    <Speaker pid="KateOCallaghan" hpid="BEAN UI CHEALLACHAIN BEAN UI CHEALLACHAIN">
+      <NameTxt>BEAN UI CHEALLACHAIN:</NameTxt>
+      <P>Is mian liom Seán O Ceallaigh (&ldquo;Sceilg&rdquo;) d'ainmniú mar Leas-Cheann Comhairle. Fear léigheannta, ciallmhar iseadh é gur féidir linn ionntaoibh a bheith againn as.</P>
+    </Speaker>
+    <Speaker pid="GearoidOSullivan" hpid="GEAROID O SUILLEABHAIN GEAROID O SUILLEABHAIN">
+      <NameTxt>GEAROID O SUILLEABHAIN:</NameTxt>
+      <P>Is áthas domhsa cuidiú leis an rún so.  Na daoine go bhfuil baint acu le h-obair na hÉireann tá siad deimhnighthe dhe ná fuil aon easba céille ná tuigsiona ar an Teachta ó Chonndae Lughmhaighe. Rinne sé obair mhaith mar Cheann Comhairle roimhe seo.</P>
+    </Speaker>
+    <Speaker pid="SeanOCeallaigh" hpid="SEAN O CEALLAIGH SEAN O CEALLAIGH">
+      <NameTxt>SEAN O CEALLAIGH:</NameTxt>
+      <P>Sul a gcuirtear an mola so os cóir na Dála, ós rud é go samhluíonn sé dhom gurab é aon toil na Dála go nglacfainn-se leis an gcúram so arís, is mian liom a rá ná fuil aon chaitheamh agam-sa i na dhiaidh ach oiread is mar bhí an uair a cuireadh orm cheana é.  An tráth ghlacas leis cheana níor shaoileas go mbeadh orm oiread oibre do dhéanamh ar son na Dála is mar thuit orm ó shoin.  Tá dóchas agam gur fada a fágfar tusa againn, a Chinn Comhairle.  Ach má sciobann an Rialtas iasachta uainn arís thú, is go mbead-sa saor, agus má's é rogha na Dála go raghfainn-se it' ionad, déanfad san, nó éinní eile go mbeidh gá leis, agus fáilte.</P>
+      <P>Cuireadh an rún agus glacadh leis.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ORDER OF BUSINESS&mdash;PRESIDENT'S" RHead="STATEMENT">
+    <Title>ORDER OF BUSINESS&mdash;PRESIDENT'S STATEMENT.</Title>
+    <Speaker pid="EamonDeValera" hpid="AN T-UACHTARAN AN T-UACHTARAN">
+      <NameTxt>AN T-UACHTARAN:</NameTxt>
+      <P>A Chinn Chomhairle agus a lucht na Dála, is dó liom nách ceart dom mórán a rá iniu.  Beimíd ag tosnú ar an obair amáir amáireach i ndáríribh. Ach san am gcéanna sé mo thuairim gur ceart ordú na hoibre i rith na seachtaine a chur in úil do sna daoine atá i láthair.  Ní mór dom cuntas a thabhairt uaim amáireach ar na rudaí thuit amach le goirid sa chomhrá a bhí idir Leod Seoirse agus an Rialtas so.  Ní mór dom freisin cuntas a thabhairt uaim ar an obair i dteangain eile agus ansan beidh ar na hAirí eile cuntaisí a thabhairt uatha ar a gcuid oibre.</P>
+      <P>It is not my province to deal with the main part of our work to-day, but I think it is necessary, at this stage, that we should understand the programme for this Session.  In the morning I intend to give an account of my own department and, in a general way, of the negotiations that have taken place between the Ministry of the Dáil and the British Government.  When we have finished that, the Ministers will all give accounts of their own departments.  You will be able to judge from their accounts how far they have been able, notwithstanding the presence of an enemy in our midst, to carry on the nation's work.  The reply which we propose sending from this nation to the British Prime Minister and his Government will be discussed in a Private Session.  You all understand the seriousness of that reply.  You all understand that it is intended by the British Government to make the issue one of peace or war with this nation. Hence it is that we have to discuss that matter first in private.  Later on, when the reply is sanctioned and ready for despatch, you will have here another Public Session.  At that Public Session, you will have certain elections such as you had to-day.  Then following on that, we shall have the propositions of the new Ministry.</P>
+    </Speaker>
+    <P>That is our programme, and, as I said, I do not intend going fully into our work here this morning.  At the same time, I think it is only right at this, the first Session of the new Dáil, that we should look back upon the work of the Dáil which has just ended.  Two and a half years ago, as you know, the old Dáil was elected as an expression of the will of the Irish nation in a general Election which was, in effect, a plebiscite.  The question was put to the Irish people, what form of Government they wanted, how they wished to live, so that they might have an opportunity of working out for themselves their own national life in their own <Col N="9" /> way, and the answer that the Irish people gave was unmistakeable.  I do not say that that answer was for a form of government so much, because we are not Republican doctrinaires, but it was for Irish freedom and Irish independence, and it was obvious to everyone who considered the question that Irish independence could not be realised at the present time in any other way so suitably as through a Republic.  Hence it was that the Irish Republic as such was sanctioned by the representatives of the people, and that you, the representatives of the people, came here and, in Public Session, solemnly declared your determination that you would give your lives, and everything you had, in the endeavour to make that expression of the people effective, so that you would have, not merely in your own hearts, a recognition of it, but that you might secure the recognition of it from every nation throughout the earth.</P>
+    <P>The first duty, therefore, of the Ministry was to set about making that <i>de jure</i> Republic a <i>de facto</i> Republic.  You had to set about that by getting control of all the national and public affairs of the nation, and by sending your representatives abroad, that they might tell the peoples of the world what their rights were, what they had done, and what they expected of them.  And they went forth&mdash;every one of them&mdash;on a mission which was a mission, not merely for this country, but for the whole world.  They went out &mdash;every one of them&mdash;feeling that they were apostles to see that the work and the ideals for which sacrifices were made through five or six years of war were not lost to the earth.  Every one of them, as he spoke in a foreign land, felt that he was speaking not alone for the freedom of this country, but that he was speaking for the freedom of mankind, for human progress, and for the progress of civilisation everywhere.  Certainly, in America, speaking of my own knowledge, I felt that when I spoke for Ireland there, I was speaking to the youth of America, to the soldiers of America, who had gone out across the water to fight in France and elsewhere for the ideals which were enshrined in the American Declaration of Independence. These same ideals are the ideals we stand for.</P>
+    <P>It is scarcely necessary to point out at this meeting how the world was deceived in the Great War, how those who went into the fight were deceived by those who sent them to fight.  These men who went to give up their lives were told that they were not to go to fight for Empires but for the freedom of peoples.  They were told to go to France and to Flanders that they might fight for the rights of nations, great and small, to order their lives according to their own will.  Millions of homes have been ruined and millions of money have been lost in order, as those who made the sacrifices thought, to establish a reign of government by the consent of the governed.</P>
+    <P>You know what happened in Paris when the last Dáil came into session. The Peace Conference was still on, and you had hopes from those who expressed sentiments such as were expressed by President Wilson&mdash;and it was not by President Wilson alone, but by English Ministers, who seemed to have most to say at that Conference&mdash;that the principles which they had proclaimed and the principles in virtue of which they had called for sacrifices from the peoples should not be lost, and it was in preparation for that right of self-determination which you had exercised that you proclaimed here that Ireland wished to live its own life as an independent country.</P>
+    <P>When the Ministry proclaimed its policy here, after the release of a number of us who were in prison, they proclaimed it in words which were an adaptation of Cardinal Mercier's words in reference to Belgium.  It is no harm to read these words again, because it is these words which govern our policy as a Ministry still.  We were speaking in reference to one authority that came to rule in Ireland, and Cardinal Mercier was speaking of another authority that came to rule in Belgium:</P>
+    <P>&ldquo;The authority of that power is unlawful authority.  Therefore, in soul and conscience, the Irish people owe that authority neither respect nor attachment, nor obedience.  The sole authority in this country is the authority of our own Government, the authority of the elected representatives of the Irish nation.  This authority alone has the right to our <Col N="10" /> affection and to our submission. The acts of the usurper have in themselves no authority and such of those Acts as affect the general interests and to which we may give ratification, will have authority only in virtue of such ratification, which alone gives them juridic value.&rdquo;</P>
+    <P>That was our policy.  It is the policy we have acted on, and, please God, it is the policy that we intend acting up to. That has reference to our action at home.</P>
+    <P>I stated that our representatives went abroad as apostles of liberty.  Their success with the peoples has been what one would expect of the peoples.  They wished to hear those sentiments once more expressed, because in their hearts they feared that they were about to be forgotten for ever; they feared that a callous cynicism was about to replace them and that it was only in the stress of war that the peoples, and governments in particular, were likely to pay any attention to them.  It is because of Ireland's inherent right that our people were listened to and that the peoples recognised that the only lawful authority here in Ireland is the Government of the Republic of Ireland.  In the hearts of the people of these countries, therefore, the Republic is recognised.  We recognise it, and it is only on the basis of our self-recognition of that that we deal with any foreign power whatever.</P>
+    <P>The peoples of the countries feared that what was proclaimed during the war would be forgotten.  It was generally thought that it was only President Wilson who spoke of the rights of small nations and of the principles of self-determination. In the whole world, there was not one who spoke so eloquently of the rights of small nations as the present British Prime Minister.  He said on one occasion:</P>
+    <P>&ldquo;The world is a world for the weak as well as the strong; if not, why did God make little nations?&rdquo;</P>
+    <P>On another occasion he said:</P>
+    <P>&ldquo;The heroic deeds that thrill humanity through generations were the deeds of little nations fighting for their freedom&mdash;yes, and the salvation of mankind came through a little nation.  God has chosen little nations as the vessels by which He carried His choicest wines to the lips of humanity to rejoice their hearts, to exalt their vision, to stimulate and strengthen their faith, and if we had stood by when the brutal hands of barbarism were laid on two small nations, our shame would have rung down the everlasting ages.&rdquo;</P>
+    <P>President Wilson, at Washington's tomb, on July 4th, 1918, declared on that solemn spot that:</P>
+    <P>&ldquo;The settlement of every question, whether of territory, of sovereignty, of economic arrangement, or of political arrangement, or of political relationship, upon the basis of the free acceptance of that settlement by the people immediately concerned, and not upon the basis of a material interest or advantage of any other nation or people which may desire a different settlement for the sake of its own exterior influence or mastery&mdash;these great objects can be put into a single sentence.</P>
+    <P>&ldquo;What we seek is the reign of law based upon the consent of the governed and sustained by the organised opinion of mankind...&rdquo;</P>
+    <P>It was the present British Prime Minister who said to the American troops in France next day:</P>
+    <P>&ldquo;President Wilson made it clear yesterday what we are fighting for in Flanders.&rdquo;</P>
+    <P>Then, there need be no negotiations between Britain and Ireland to-day, because Britain has only to recognise the principle, and with the recognition of the principle, there is no need whatever for negotiations.  The British Prime Minister has only to recognise the principle which he had in mind when speaking of Russia.  He said:</P>
+    <P>&ldquo;You must set up a government which the people want; otherwise, it would be an outrage on all the principles for which we fought in the war.&rdquo;</P>
+    <P>Speaking of Poland, he said:</P>
+    <P>&ldquo;Poland has chosen her own Government by universal suffrage, and it is intolerable that any country from outside should come in and impose upon her a Government which she does not want.&rdquo;</P>
+    <P>
+      <Col N="11" /> There would be no need to negotiate between Britain and Ireland if the British Prime Minister recognised these principles and acted upon them.  We stand for principle and we mean to die for it, if necessary.</P>
+    <P>I am, more or less, trespassing on what I wanted to speak about to-morrow when I say that it is impossible practically for Ireland to negotiate with the British Government.  I pointed out before, when we were asked why we did not negotiate, why that was.  I said, there can be no negotiation with a man or with a Government or with a Power when the position is that of one who is an unarmed man practically facing a man, with a pistol pointed at his head. When you have no principle to fall back upon, no principle by which you can regulate and adjust your differences, you have nothing to fall back upon but force; and in the end, if the British Government does not state definitely some principle that it stands by, then when Irishmen come to negotiate with Britain, they find that at every step they are confronted by that principle and that force.  And, therefore, negotiations with Britain, for the most part, mean nothing.  All they mean is an opportunity of saving faces if you want to save faces.</P>
+    <P>We do not negotiate to save faces. We negotiate to save bloodshed, if we can, but we can only negotiate on right and on principle.  We are asked, when we say we will negotiate on the basis of justice, what is justice?  It may be difficult to give an abstract definition of justice that would be applicable to every case, but it does not require much for the average man to see what is just and what is not.  It is not just that a small nation beside a big one should be giving guarantees for the safety of the big one, instead of the big one giving guarantees for the safety of the little one.  If you admit the principle that because a big nation thinks that a small nation beside it is necessary for its advantage, and for its safety or security, and if that makes it possible to claim that the small nation should be annexed, it is not difficult to see that it would not be long before there would be no small nation in Europe.</P>
+    <P>If big empires can claim to grab up those small nations beside them for their interest, then undoubtedly the small nations which did so much for the world, and which the British Prime Minister talked so much about, would cease to exist.  It is not fair to say, therefore, that there is any justice in that.  There is no right in that.  If I were to take in detail the British proposals, I would prove also that they were not just, and it is because they were not just that we sent the reply that we sent.</P>
+    <P>The Dáil adjourned.</P>
+  </MainHeading>
+</Debate>

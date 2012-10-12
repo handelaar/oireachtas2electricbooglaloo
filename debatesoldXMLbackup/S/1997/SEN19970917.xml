@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="17" Month="Sep" Year="1997" Vol="152" No="1" DateIrish="Dé Céadaoin, 17 Mean Fómhair 1997" DateEnglish="Wednesday, 17 September 1997" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1" />
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Tháinig an Seanad le chéile ar 2.30 p.m. Bhí an Cléireach, Deirdre Ní Liatháin, agus and Leas-Chléireach, Siobhán De Bláca, i láthair.</entry>
+            <entry rowsep="1">The Seanad assembled at 2.30 p.m., the Clerk, Ms Deirdre Lane and the Clerk Assistant, Ms Jody Blake, attending.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">
+      <Col N="2" />
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Léigh an Cléireach Fógra Uachtarán na hÉireann ag comóradh Sheanad Éireann.</entry>
+            <entry rowsep="1">The Clerk read the Proclamation of the President of Ireland convening Seanad Éireann.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Seo a leanas an Forógra:</entry>
+            <entry rowsep="1">The Proclamation was as follows:</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1" namest="1" nameend="2">FORÓGRA AG COMÓRADH SHEANAD ÉIREANN.PROCLAMATION SUMMONING SEANAD ÉIREANN.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>De bhun comhairle a thairg an Taoiseach dom faoi alt 8 d'Airteagal a 18 den Bhunreacht, déanaimse, MÁIRE MHIC RÓIBÍN, Uachtarán na hÉireann, a shocrú leis seo gur Dé Céadaoin, an 17ú lá de Meánfómhair, 1997, an lá a thiocfaidh Seanad Éireann le chéile ar chéadtionól tar éis an Olltoghcháin a bhí ann le déanaí.</entry>
+            <entry>Pursuant to an advice tendered to me by the Taoiseach under section 8 of Article 18 of the Constitution, I, MARY ROBINSON, President of Ireland, hereby fix Wednesday, the 17th day of September, 1997, for the first meeting of Seanad Éireann after the General Election lately held.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>
+      <Col N="3" />
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">ARNA THABHAIRT faoi mo láimh agus faoi mo Shéala an deichiú lá seo de Mheán Fómhair, 1997.</entry>
+            <entry rowsep="1">GIVEN under my hand and seal this 10th day of September, 1997.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>
+      <Col N="4" />
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1" namest="1" nameend="2">MARY ROBINSON,UACHTARÁN NA hÉIREANN(PRESIDENT OF IRELAND)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>BERTIE AHERN,<br />TAOISEACH.</entry>
+            <entry>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">AINMNEACHA NA gCOMHALTAÍ A AINMNÍODH AGUS NA gCOMHALTAÍ A TOGHADH.</entry>
+            <entry rowsep="1">NAMES OF THE MEMBERS NOMI-NATED AND OF THE MEMBERS ELECTED.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>In compliance with Standing Order 3, I have laid before the House a copy of each of the certificates of the results of the polls for elected Members and a copy of the communication from the Taoiseach stating the names of the nominated Members.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election of" RHead="Cathaoirleach">
+    <Title>Election of Cathaoirleach.</Title>
+    <Col N="11" />
+    <Speaker pid="" hpid="Clerk of Seanad Clerk of Seanad">
+      <NameTxt>Clerk of Seanad</NameTxt>
+      <P>The next business is the election of the Cathaoirleach.  Under Standing Order 2 in relation to the election of Cathaoirleach, the Chair will be taken by Senator Des Hanafin who is the Senator with the longest continuous period of service in the House.  I call on Senator Hanafin to take the Chair.</P>
+      <P>
+        <i>Senator Hanafin took the Chair.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>My function is to receive the motions for the election of the Cathaoirleach.  I have been asked to perform this duty because of my service to the Seanad which makes me the father of the House.  Looking around, I think that, as a father, I might have selected a better family.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>It would certainly be a smaller one.</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I will now accept a proposer and a seconder for the motion of proposal of the Cathaoirleach.</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>On behalf of the Members of the House, I congratulate Senator Hanafin on his long and distinguished service to the House and I am pleased to see him re-elected.</P>
+      <P>I have great pleasure as Leader of the Fianna Fáil group in the Seanad in proposing the name of Senator Brian Mullooly for the position of Cathaoirleach.  Senator Mullooly would bring to this position a great wealth of experience. He has served his local authority in Roscommon since 1974 and had the distinction of being its chairman for six years.  He is a former member of the British-Irish Interparliamentary Body and, since his election to the Seanad in 1981, he has been our education spokesperson on many occasions.</P>
+      <P>For years, I have seen at first hand Senator Mullooly's dedication and total commitment to this House through his roles as Fianna Fáil and Government Chief Whip, his membership of the Committee on Procedure and Privileges and particularly in his role as Leas-Chathaoirleach for the past two years.  Senator Mullooly has a great deal of respect for this House and for what it stands for.  I have no doubt he would display the utmost impartiality and uphold the high standards of fairness which attach to the Chair.  For these reasons, I have great pleasure in proposing Senator Mullooly for the position of Cathaoirleach of the 21st Seanad.</P>
+    </Speaker>
+    <Speaker pid="MichaelFinneranFF" hpid="Mr. Finneran Mr. Finneran">
+      <NameTxt>Mr. Finneran</NameTxt>
+      <P>I formally second Senator Brian Mullooly, my colleague, fellow county man and friend.  Senator Mullooly has served this country <Col N="12" /> at local authority and national level for the past 23 years with dedication and distinction.  He is a most suitable person to be Cathaoirleach of Seanad Éireann.  To judge him on his recent record as Leas-Chathaoirleach of this House, we can be assured the business of this House, under the stewardship of Senator Brian Mullooly, will be completed with distinction and impartiality.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>The Fine Gael group will not be oppose the nomination of Senator Brian Mullooly to the Chair.  We positively welcome his nomination.  During his time as Leas-Chathaoirleach he was fair and accessible.  He has a strong sense of the House and its traditions.  He has a good knowledge of procedure and, above all else, he is a person of impeccable fairness.  We have pleasure in supporting the nomination of Senator Brian Mullooly.</P>
+    </Speaker>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>On behalf of the Progressive Democrats, I support the nomination of Senator Brian Mullooly.  He has served his apprenticeship and deserves to be Cathaoireach of the Seanad. He will perform his functions with the excellence and the fairness he demonstrated as Leas-Chathaoirleach. It is my pleasure to support his nomination.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>The Independent group have not put forward a candidate on this occasion.  It gives me great pleasure to welcome the now inexorable elevation of Senator Mullooly to the position of Cathaoirleach.  He has been a friend of mine for many years.  He is an active and highly organised member of my union and he has always supported me on a personal level.  As somebody who is absolutely fair minded and a model public representative - he has always shown concern for Independents and others in this House - Senator Mullooly is a most acceptable person to take the Chair.  He follows in the footsteps of other superb people, not least his immediate predecessor, Senator Liam Cosgrave.  He will bring stature and honour to this job, as did his predecessors.  I wish him well in the position.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>On behalf of the Labour Party, I congratulate Senator Brian Mullooly on his nomination to the Chair.  The Labour Party is happy to see him in that position.  Senator Mullooly is an old friend of mine, a teacher like myself and he is also from the west, County Roscommon, just across the fields from where I come from in County Sligo.  He will also continue the fine tradition of Cathaoirligh from Roscommon; three of the last four Cathaoirligh have been from that county.  That must be a unique distinction. Senator Mullooly brings many qualities to the job of Cathaoirleach.  He is a man of integrity and <Col N="13" /> honour and I am sure he will bring respect and status to the office.  I wish him well in the future and the Labour Party gives him its full support.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I shall put the question.  Cuireadh an cheist: &ldquo;Go dtoghfar an Seanadóir Brian Mullooly agus go rachaidh sé í gceannais an tSeanaid anois mar Chathaoirleach.&rdquo;</P>
+      <P>Question put: &ldquo;That Senator Brian Mullooly be elected and do now take the Chair of the Seanad as Cathaoirleach.&rdquo;</P>
+      <P>Question declared carried.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>With regret, I now leave the Chair but I am sure I do so with some relief on the part of the House.</P>
+      <P>
+        <i>Whereupon Senators rose in their places and remained standing while the Cathaoirleach proceeded to the Dais.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>A Sheanadóirí, is mór an onóir dom gur toghadh mé d'aonghuth inniu mar Chathaoirleach ar Sheanad Éireann agus tá mé fíorbhuíoch díbh uilig.</P>
+      <P>Tá mé fíorbhuíoch freisin de mo pháirtí féin a roghnaigh mé don oifig thábhachtach seo. Geallaimse díbh go ndéanfaidh mé mo dhícheall bheith im' Chathaoirleach éifeachtach agus geallaimse díbh freisin go dtabharfaidh mé cothrom na Féinne do chách.</P>
+      <P>It is a very great honour and privilege to have been elected Cathaoirleach of Seanad Éireann.  I am deeply grateful to Senators on all sides of the House for electing me unanimously to this very important office.  I am especially grateful to the Members on my left, my party colleagues, who selected me as their nominee.  I thank my proposer, the Leader of the House, Senator Cassidy, and my seconder, Senator Finneran, for their very kind remarks.  I am also grateful to the Members who paid tribute to me and to all Senators for their good wishes as I undertake this new and very important role.  I am deeply conscious of the very high standards set by all my predecessors and I pledge to do my utmost to uphold them during my term of office.</P>
+      <P>My priority as Cathaoirleach will be to ensure there is a positive public perception of the Seanad.  I have a deep commitment to the House and I want it to be seen as an effective and relevant part of the Oireachtas.  I sincerely hope the programme of reform initiated by my predecessors, particularly in the last Seanad, will be continued and we can build on what has been achieved thus far.</P>
+      <P>I hope the policy of inviting distinguished persons to address the Seanad will be continued. Much of the credit for this innovation, which proved very worthwhile in the last Seanad, must go to the former leader of the House and now Leader of the Opposition, Senator Manning.  I look forward to working with Members on all sides of the House for the next four years and 11 months.</P>
+    </Speaker>
+    <P>
+      <Col N="14" /> We are fortunate to have two outstanding people as Clerk and Assistant Clerk of the Seanad and an excellent staff in the Seanad Office.  They and I will always be available to provide guidance and advice to Members of the House, particularly new Members.  I know that in return I will have your support and co-operation as I endeavour to carry out my duties as Cathaoirleach in an efficient, fair and impartial manner.  Go raibh míle maith agaibh go léir.</P>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>On behalf of all Members of the House I congratulate you on being elected Cathaoirleach of the 21st Seanad.  We look forward to working under your stewardship.</P>
+      <P>I propose a vote of congratulations to your predecessor, Senator Liam Cosgrave, who was an excellent Cathaoirleach.  As the Cathaoirleach stated, he made his mark as Cathaoirleach of the House.  I concur with the remarks made about the Clerk, Deirdre Lane, and the Assistant Clerk, Jody Blake, and all the staff.  I thank them for their work and the facilities they have made available to us, particularly during the election count. They worked two 19 hour days and one 17 hour day, which is probably a record.  I acknowledge the hard work they put into successfully concluding the election count.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Date of Election of" RHead="Leas-Chathaoirleach">
+    <Title>Date of Election of Leas-Chathaoirleach.</Title>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The next business is item No. 4, fixing of a date for the election of Leas-Chathaoirleach.</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>I propose that the election of the Leas-Chathaoirleach take place tomorrow.</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Is that agreed?  Agreed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Announcement." RHead="">
+    <Title>Announcement.</Title>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>The Taoiseach has appointed me as new Leader of the 21st Seanad.  The Government Chief Whip will be Senator Tom Fitzgerald and the Assistant Whip will be Senator Willie Farrell.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Tributes by" RHead="Members">
+    <Title>Tributes by Members.</Title>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>I wish to say a few words in honour of our former President.  I welcome this opportunity to pay tribute to Mary Robinson who in her capacity of President of Ireland represented the Irish people in a most outstanding manner for almost seven years.  She was someone of whom we could be proud.  During this period she brought the highest office of the State into contact with people in a very human way and presented a view of Ireland on the international stage.  She emphasised Ireland's commitment to working for justice in international relations and her visits to Rwanda and other areas of the world where people were suffering showed the generous <Col N="15" /> spirit of the Irish people to those less fortunate than ourselves.</P>
+      <P>I have no doubt that what she did for Irish exiles around the world will always be remembered. She visited Irish communities in America and as far away as Australia and even further afield.  She worked hard to make them feel included just as she did to make everyone in the Irish community feel included.</P>
+      <P>I join everyone in this House and throughout the country in wishing her continued success as she takes up her new and challenging role as United Nations High Commissioner for Human Rights.  She will bring her unique style and commitment to her new position as she did to the Presidency and to every position she has held whether in her professional office, the legal world, or here as a Member of Seanad Éireann.</P>
+      <P>From her earliest involvement in public affairs she always espoused human rights issues and her new position reflects the quality of her work and the strength of her convictions to such issues.  We wish her and her husband, Nick, and their children all the very best for the future.</P>
+      <P>I express our sympathy and deep regret on learning of the tragic death of Mother Teresa last Friday week.  She was undoubtedly a shining light to all the world in her remarkable work of reaching out to the poorest and weakest in our society. Her single-minded efforts on their behalf stemmed from the belief that God was greater than she and that it was his will that she work for the service of others.  She first came to Ireland in 1928, joined the Loreto Sisters in Rathfarnham and later left the convent to work in the slumps of Calcutta where she received Vatican approval for the establishment of her Society of the Missionaries of Charity in 1950.  The society now has more than 4,000 members worldwide working in more than 115 countries, including Ireland, in hospices for AIDS victims, in shelters for the homeless, in homes for drug addicts and orphanages. In all these places her sisters and volunteers work to alleviate not only physical discomfort but also great levels of despair and loneliness.</P>
+      <P>In a world that materialises everything it is important to realise that it was Mother Teresa's fate in something that surpasses the material which made her such an inspiring and self-sacrificing figure.  In work and deed, in her public and private dealings with people she showed the deepest respect for others and consequently people reached out to embrace her and work with her.</P>
+      <P>I am glad we had the privilege to bestow on her the freedom of our capital city in 1993.  I express our deepest gratitude to the sisters for Mother Teresa's work on behalf of peace in Ireland.  We are privileged to have lived in her time and to have learned from her the lessons of selfless devotion and total giving.  May she rest in peace.</P>
+    </Speaker>
+    <P>I too express my sympathy and great sense of loss following the sudden, tragic and appalling <Col N="16" /> death of Diana, Princess of Wales.  Few events in modern times have resulted in such an outpouring of emotion all over the world.  A deep feeling of regret and sorrow for her death was universal but we must remember the greatest loss was not suffered by those who may have known her slightly or only through the media but by her two sons, William and Harry.  The death of a young mother, whatever her position in society, is always a particularly tragic affair and everything must be done to ensure her sons are assisted in coping with this dreadful loss.</P>
+    <P>From the time she first came to public notice, Diana's face and smile have dominated news stands and our television screens.  She was a person of great status, beauty and prestige who chose to use her great assets for the benefit of others. Through her work Diana, Princess of Wales, showed great compassion and kindness to many people &mdash; the poor, the sick, the disadvantaged and particularly children.  She used her prestige to help remove the stigma that applied to the sufferers of those dreadful diseases, AIDS and leprosy. Her work with AIDS patients was groundbreaking and it urged a reluctant world to come to terms with a frightening disease.  Her work with leprosy victims was of a similar vein and her work on the landmines issue cannot be put down purely to charitable instincts.</P>
+    <P>Her concern challenged the vested interests of those who produced those dreadful instruments of destruction and mutilation.  She was the people's princess and our thoughts and prayers are especially with her two children, her family, who have to endure this almost unbearable burden of grief.  May she also rest in peace.</P>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>To pay tribute to our former President Mary Robinson, Mother Teresa and Lady Diana Spencer I will call a spokesperson from each of the groups as is normal procedure. I call Senator Maurice Manning.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>A great deal has been said and written recently about the role of our former President Mary Robinson.  So glowing, comprehensive and positive has been virtually everything that has been written and said that at times in recent weeks she must have felt she was reading her own obituary.  Nonetheless, as is exceptional on these occasions, virtually everything that has been written and said about her conduct of the Presidency has been accurate.  Hers has been an outstanding Presidency.  I remind Members that President Robinson, as Senator Robinson, made her political name here.  A consistent thread has run through her career.  Many of the issues she raised as a young independent Senator here, often against considerable conventional wisdom and opposition, were issues which were also raised during her Presidency.</P>
+    </Speaker>
+    <P>President Mary Robinson built on the foundation of earlier Presidents.  All our Presidents in the almost 60 year history of the Constitution have been good Presidents.  Each in his own way <Col N="17" /> was right for his time, whether it was Douglas Hyde, Protestant and Gaelic scholar, a reconciler and our first President, a symbol that this State intended to be a tolerant State or whether it was President Patrick Hillery, a decent honourable man of integrity who symbolised some of the unchanging and better values of Irish politics.</P>
+    <P>As President, Mrs. Mary Robinson built on the tradition she inherited and changed it in a way few people thought was possible.  She brought the Presidency closer to the people.  She enhanced our international prestige in a way which few, if anybody could have thought possible at the beginning of her Presidency and gave a voice to many who felt neglected or excluded by conventional public voices.  In talking about Mrs. Mary Robinson today we are not talking about somebody who has come to the end of her political career but one who has served this country well, first in this House and then much more remarkably in the Presidency.  We wish her well in her new appointment. We know she has much serious and important public work to do now on a wider stage.</P>
+    <P>Senator Cassidy has spoken eloquently on both Mother Teresa and Princess Diana and his words will stand for this group as testimony to their contributions.</P>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>I thank the Independent Senators for allowing me to speak on their behalf.  Mary Robinson, when she went forward as a President with a purpose, fulfilled all she set out to do.  She did an extremely important thing for 50 per cent of the electorate, that is for women, by making them really part of the political process regarding the presidency, so much so that, to date, all four candidates who are to go forward for the next presidential election are women.  The enfranchisement of that 50 per cent of the electorate cannot be underestimated.  When Máire Bradshaw, the Cork poet, wrote her poem <i>A High Tide for All the Marys</i> she showed the huge differences within the political process for women in Ireland.</P>
+      <P>As President she followed other Presidents and became involved with community and voluntary groups in the Republic.  She managed, tactfully, to extend this on an all-Ireland basis, and her involvement with community and voluntary groups within Northern Ireland was also much valued.</P>
+    </Speaker>
+    <P>I agree also with the Leader of the House regarding her international role.  It was extraordinarily important that she reinforced the valuable work that so many people from Ireland have done internationally in human rights, peace-keeping, missionary work, teaching, nursing and in the formation of medical institutions across the world and, as well, tried to involve Irish emigrants in the process of what was happening within Ireland which they left, unwillingly in many cases.  We all join in wishing her tremendous success in her new task as human rights Commissioner, a very onerous <Col N="18" /> task, in an area that is demoralised within the United Nations owing to the many abuses of human rights, despite United Nations conventions.</P>
+    <P>I agree also with what the Leader of the House said in regard to Mother Teresa.  I had the privilege of meeting her in the Philippines many years ago and seeing the work she undertook there. People forget that her work is widespread in the Far East; the work she was doing in the slums of Manila was incredible.  The greatest tribute to her would be if her order were in a position to continue their work and expand it even further.</P>
+    <P>The sad death of a young mother is the saddest thing about the death of Princess Diana.  She may have been an important woman, but it is to her children and to her family that the loss is greatest. Let us hope that her loss will not have too great an effect on the various charities with which she was involved.  In particular, the removal of landmines and the cessation of their production should be of paramount importance.  Let us hope that the conference currently under way in Norway comes to a satisfactory conclusion and that all countries are able to adopt the proposals being put forward there.  That surely would be one of the most important international tributes that could be paid to her.</P>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>Let me first congratulate you, a Chathaoirligh, on your appointment to the office of Cathaoirleach of Seanad Éireann.  I hope that in the coming weeks you will not be called upon to undertake too many presidential functions, being now one of the most senior people in the State in that respect.</P>
+      <P>It is important and appropriate that we should recognise and salute the work undertaken by President Robinson during her term of office and wish her well in the very onerous job she is taking on as High Commissioner for Human Rights in Geneva.</P>
+      <P>It has been suggested that President Robinson might not have changed Irish society, that Irish society was in the midst of great change anyway, and that all she did was reflect that change.  I would not subscribe to that.  She had a profound effect on our society and changed for the better the way we look at things.  She transformed the presidency in a sure-footed and sensitive way within the constitutional constraints on the office. She represented the country extremely well and whenever she visited Africa or the United Nations we were proud to be Irish.</P>
+      <P>It is worth pointing out that Mrs. Robinson was elected to the office having served as a politician. She lit a candle in society, not just the one in the window of Áras an Uachtaráin for our emigrants, and in so doing cursed the darkness.  On leaving office she said her life had been enhanced.  Whatever about her own she certainly enhanced ours and for that she should be applauded.  Hers will be an extremely hard act to follow.</P>
+    </Speaker>
+    <P>I subscribe to the views expressed by the Leader of the House about Mother Teresa and <Col N="19" /> Diana, Princess of Wales.  Mother Teresa respected the human dignity of every person &mdash; the same could be said for Mary Robinson &mdash; irrespective of status.  I hope the process of canonisation proceeds rapidly.</P>
+    <P>The sudden passing of Diana, Princess of Wales, because of her high profile, was greeted with shock not just within the United Kingdom but throughout the world, a sign that we now live in a global society.  In a display of people power, the more staid parts of the upper echelons of British society were shaken to their foundations by the demands made by the British people following her death.  Whether this will have permanent repercussions remains to be seen but it was remarkable to hear applause during the religious service at Westminster Abbey which was anathema to many at certain levels within British society.</P>
+    <P>The parallels that have been drawn between the lives of Mother Teresa and Diana, Princess of Wales are invidious.  They were different people except in one respect.  As the Leader of the House said, Diana, Princess of Wales felt concern for those suffering from AIDS and leprosy and those who were socially excluded and took an interest in the question of landmines.  In that respect there was a conjunction of their lives and it is appropriate that we should mark their passing.</P>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>On behalf of the Labour Party I pay tribute to Mrs. Mary Robinson who was a great President.  We are proud we nominated her to run for the office and that she was successful. It is highly significant that her first act as President was to visit a small marginalised rural community in west Cork and her last was to visit a small marginalised community in the inner city of Dublin.  In her first statement as the new UN Commissioner for Human Rights she pledged to act as a voice for victims of abuse worldwide and to raise the profile of human rights.  She is continuing in the same vein in expressing support for the marginalised and in raising human rights and justice issues on which she has worked efficiently, effectively and sensitively during the past seven years.  She said she was enriched by the experience of serving as President for seven years and we were enriched by her contribution.  She was the first really independent President of Ireland; as she put it herself, &ldquo;a President with a purpose&rdquo;. Here she was a voice for the voiceless.  She travelled the length and breadth of the country and no community was too small or great for her to visit.  There was a candle in the Áras to welcome groups which came to visit.  It was a haven for the disadvantaged, the mentally handicapped, the homeless and for people North and South of the Border.  After the 1980s Áras an Uachtaráin was a strong symbol for the Irish diaspora.  Emigration is now, happily, coming to an end, although it might not have been possible to see it at the time.  We had experienced a decade of <Col N="20" /> substantial emigration and that light in the Áras encouraged many people to come home.</P>
+      <P>During her term President Robinson visited Belfast, Warrington and Buckingham Palace in London among other places.  She offered the hand of peace across every divide.  She had a strong role abroad in human rights, particularly in famine-torn areas.  None of us will ever forget the impact her visit to Somalia had, both at home and abroad.</P>
+      <P>We in the Labour Party wish her every success. With a new presidential election coming up our task is to pass on that flame to a new torch-bearer who can maintain and elaborate upon the presidential role Mrs. Robinson initiated.</P>
+      <P>I agree with all the tributes that have been paid to Mother Teresa and Diana, Princess of Wales. We have lost two world renowned figures in the past two weeks.  One died in the prime of youth, the other at a ripe old age.  They came from totally different ends of the spectrum.  One was from a privileged and wealthy background, the other from a very poor background but they met in the centre.  They shared a passionate concern for justice, in Mother Teresa's case for the poorest of the poor.  She was called the saint of the gutter and nothing was too humble for her attention or that of her missionary sisters.  She pledged 50 years of her life to the poor of Calcutta and was a tremendous role model for the world.</P>
+      <P>Princess Diana's contribution was to the homeless, those suffering from AIDS and the less well off.  Even though she came from a totally different background, we must respect that and pay a strong tribute to her work.</P>
+      <P>In the last week another great woman with a passion for justice died in the person of Mrs. Anna Spring, the mother of the Leader of the Labour Party.  While she came from a different background, her route was through the trade union movement, her commitment to the marginalised and poor in society was equally strong. We pay tribute to her also.  All three women were legends in their time.  Ar dheis Dé go raibh a n-anamnacha.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>On a point of order, is it traditional for only the leaders of each party to speak during tributes?</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Yes, that is the normal procedure. However, in view of the nature and number of tributes I will call any other Senators who wish to contribute, although it is not normal procedure.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>I do not want to break with tradition and I certainly do not want to give you a hard time on your first day, a Chathaoirligh.</P>
+    </Speaker>
+    <Speaker pid="PaddyBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>The Senator is the father of the House.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>The Father of the House, yes.  I stayed under Mother Teresa's roof and I am <Col N="21" /> proud to say that my children worked with her in the slums.  It was a great privilege to know such a person well.  I also join in the tributes paid to both the former President and Princess Diana.  Nobody in the whole world, however, can compare to Mother Teresa.  I regret that she was refused the opportunity to speak in this House.  It is to their shame that they prevented her from speaking here.</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>I do not disagree with the substance of the remarks made about the people who died so tragically recently.  However, it would be inappropriate not to point out the utter hypocrisy of what is going on here.  This House refused Mother Teresa a hearing during the last Seanad session.  It is a little bit ill to hear those who refused her a hearing, for reasons which were never explained, pay such glowing tributes today. The House should be reminded of that in situations where it is easy to glibly pay tribute to people when they are dead but to oppose them and their words and message when they are alive.</P>
+    </Speaker>
+    <Speaker pid="FrancisOBrien" hpid="Mr. O'Brien Mr. O'Brien">
+      <NameTxt>Mr. O'Brien</NameTxt>
+      <P>I congratulate you, a Chathaoirligh, on achieving this high office.  I know you will fulfil the role of Cathaoirleach with honour and dignity.</P>
+      <P>I also want to be associated with the messages of condolence on the tragic deaths of Diana, Princess of Wales, and Mother Teresa of Calcutta who committed her life to the poor and under-privileged throughout the world.</P>
+    </Speaker>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>On this day when we are congratulating you, a Chathaoirleach, commiserating with the families of Mother Teresa and Diana, Princess of Wales, and talking about the great work done by President Mary Robinson, we should call for a debate on landmines.  We must condemn the United States for refusing to sign the document which would rid countries of landmines.</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>That matter might be more appropriately addressed to the Leader on the Order of Business.</P>
+    </Speaker>
+    <Speaker pid="MickLanigan" hpid="Mr. Lanigan Mr. Lanigan">
+      <NameTxt>Mr. Lanigan</NameTxt>
+      <P>This might be an appropriate way to deal with the issue of landmines.</P>
+      <P>As part of our discussion on what Mother Teresa did during her life, we should address the problems which created poverty in Calcutta and other places.  It is too late when Mother Teresa is dead to say she worked hard for the people of Calcutta.  We must ask the Indian Government to examine the situation there.  We must try to ensure the death of Mother Teresa is the catalyst which eliminates poverty.</P>
+    </Speaker>
+    <P>I agree with everything that was said about President Mary Robinson.  We must remember that Ireland has changed, although people might not think so.  I read a poem by Austin Clarke recently, <i>Burial of an Irish President,</i> and we <Col N="22" /> should reflect on the Ireland of that day.  The poem is as follows:</P>
+    <P>At the last bench</P>
+    <P>Two Catholics, the French</P>
+    <P>Ambassador and I, knelt down.</P>
+    <P>The vergers waited.  Outside.</P>
+    <P>The hush of Dublin town,</P>
+    <P>Professors of cap and gown,</P>
+    <P>Costello, his Cabinet,</P>
+    <P>In Government cars, hiding</P>
+    <P>Around the corner, ready</P>
+    <P>Tall hat in hand, dreading</P>
+    <P>
+      <i>Our Father</i> in English.  Better</P>
+    <P>Not hear that &lsquo;which&rsquo; for &lsquo;who&rsquo;</P>
+    <P>And risk eternal doom.</P>
+    <P>Ireland and the Presidency have changed.  I hope that in the run up to the election someone will come forward who acknowledges the change mentioned by Austin Clarke.</P>
+    <Speaker pid="EdwardHaughey" hpid="Dr. Haughey Dr. Haughey">
+      <NameTxt>Dr. Haughey</NameTxt>
+      <P>I congratulate the Cathaoirleach on his appointment and applaud the unanimous endorsement of that appointment by the House.</P>
+      <P>I concur with the Leader's comments on the former President, Mrs. Mary Robinson, Mother Teresa and Diana, Princess of Wales.  The friend of the late princess, Mr. Dodi Fayed, also tragically lost his life in the car crash which killed her. I remind the House that Mr. Fayed's family has suffered a great deal in silence to date.</P>
+      <P>I wish the Northern Ireland peace process every success.  I congratulate all concerned on their enormous efforts and their great achievements to date.  Perhaps it might be appropriate to debate this issue in the future.  I wish everyone involved with the process every blessing and success.</P>
+    </Speaker>
+    <Speaker pid="DonLydon" hpid="Mr. Lydon Mr. Lydon">
+      <NameTxt>Mr. Lydon</NameTxt>
+      <P>I congratulate the Cathaoirleach on his elevation.  I know he will be successful in his new post.</P>
+      <P>I concur with the sentiments expressed by the Leader and others in respect of Mother Teresa.  I had the privilege to attend mass with her at her order's small convent in Dublin and of spending time with her.  She did marvellous work and was a great woman.  I also concur with Senator Ross's comments.  Before Mother Teresa's visit to Ireland I contacted Senators seeking their agreement to permit her to address this House and it is ironic that we pay her tribute now that she is dead.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>There is a presidential candidate present in the Visitors' Gallery.</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>That matter is out of order.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>Far be it for me to be out of order.</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I thank the Senator for his co-operation.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Col N="23" />
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>Today's Order of Business is item 5, the Seventeenth Amendment of the Constitution (No. 2) Bill, 1997, all Stages, and item 6, motion relating to the Information of Voters, to be taken without debate at the conclusion of item 5.  There will be an opportunity to debate the motion in conjunction with the Bill.  I propose 15 minutes for spokespersons on item 5 and ten minutes for other Senators, who may share time.</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Do I understand that the time limits will apply to Second Stage?</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>That is correct.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>The Order of Business is agreeable. However, contributions of 15 and ten minutes on a major constitutional amendment are quite short.  I ask for a certain amount of discretion in the event that Members require additional time to make their points.  Otherwise, the Order of Business is agreed to.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>I would not like anyone to believe that people on this side of the House were less involved in the tributes simply because they observed the rule of limiting contributions to one person per group.  I must inform Members on the other side of the House that a democratic system operates in this Chamber.  Democratic decisions, whether they concern those who address the Seanad or otherwise, are made by Members regarding the operation of the House.  Such decisions are taken reasonably, sincerely and honestly.  People may find fault with this system but they should not ridicule it.</P>
+      <P>I presume that those who paid tribute to the President and those who passed away meant what they said or else they are hypocrites.  I presume that no one contributed who did not believe what they said.  It is crucial that Members should be accepted as being representative of the public in the viewpoints they express.  I was not aware of any hypocrisy in this Chamber.  The House and individuals took certain decisions which are respected now and were respected when they were taken.  That is how it should be.</P>
+    </Speaker>
+    <Speaker pid="DesHanafin" hpid="Mr. Hanafin Mr. Hanafin">
+      <NameTxt>Mr. Hanafin</NameTxt>
+      <P>It is democratic to be critical.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>Of course, but because people have different points of view does not imply that any of them are hypocritical.  It does not mean that the House can one day decide that it will honour Deputy Albert Reynolds as Taoiseach and the following week decide that it will not have him as a presidential candidate.  That is not hypocritical; it is democracy working.  Many of those who voted against him today paid tribute to him as Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>It is a landmine.</P>
+    </Speaker>
+    <Col N="24" />
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>Will the Leader consider the resources and supports in place for Members, particularly in the field of information technology? All Members should be hooked up to the Internet at home and in the office.  We should reflect the modern age and be at the leading edge of society.  One person should be appointed immediately to each Member to provide secretarial support.  Current arrangements are ridiculous.</P>
+      <P>I appeal to new Members not to be afraid to take on issues, such as support, pay and how little expenses they receive, and not to shrink in the corner when they are criticised publicly.  As Senator Hanafin rightly said, criticism comes with the job and makes us better.</P>
+      <P>A commitment was given during the last Seanad to have an early debate on Economic and Monetary Union.  That has become more crucial in light of recent events and the latest ECOFIN meeting, where a country called Éire was seemingly represented.  That was a clear indication that we need to look forward.</P>
+      <P>Will the Leader ask the Minister of Finance to come to the House and outline Government thinking on the area of mutuality in building societies?  In previous discussions the House felt that credit unions, banks, building societies, etc. were part of the market for consumers.  I would be very worried if there was any move against that and wish to hear the Government's view on it.</P>
+      <P>During this Seanad, the Government should attempt via the Whips to seek agreement on common issues that could dealt with by way of statements or agreed motions.  The nature and tradition of the House is not necessarily to be critical of Government when raising issues.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I listened with interest to Senator O'Toole.  Perhaps time should be devoted to discuss the future operations of the House rather than it simply being raised on the Order of Business in this fashion because it is unsatisfactory in terms of a discussion.  If time was set aside, all of us could have an opportunity to contribute to a debate on the matter.</P>
+      <P>I wish to raise three items on the Order of Business.  First, a Chathaoirligh, I refer to the order in which you have called Members of the Labour group to speak.  You have already called the Progressive Democrats Party twice before us and since it is a Government party, it would be normal for a Member of the Labour group to be called after one from the Independent group.  I seek clarification on this issue.</P>
+    </Speaker>
+    <P>Second, I wish to raise the manner in which legislation is dealt with.  I always thought that Second Stage was dealt with one day while Committee Stage and, if necessary, Remaining Stages were dealt with on a subsequent day.  The Labour Party is not happy with a situation whereby all Stages of a Bill, particularly an important one, are dealt with during the same sitting, particularly as it has put down amendments.  That is not the way <Col N="25" /> business is conducted.  Following Second Stage many others may wish to put down amendments. Will the Leader consider amending his proposal to take Second and Subsequent Stages today? Can the Leader of the House convey to the Minister for Foreign Affairs, Deputy Burke, our desire that he should address this House in the same fashion as he addressed the Dáil?  He indicated he wished to clear his name with his colleagues. We are also his Oireachtas colleagues and we would like him to address us.  It would be the prelude to the discussion tomorrow as regards the establishment of a new tribunal.</P>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>I support Senator O'Toole's call for a debate on Economic and Monetary Union. It is appropriate that when we return after the short recess, we deal with the matter early in the session as it is urgent and there have been calls over an extended period for a discussion.  The legislation before us is also urgent and I hope it is dealt with expeditiously in this evening's session.</P>
+    </Speaker>
+    <Speaker pid="DanielKiely" hpid="Mr. D. Kiely Mr. D. Kiely">
+      <NameTxt>Mr. D. Kiely</NameTxt>
+      <P>I support Senator O'Toole on the way in which Senators are treated in this House and the back-up system to which we are entitled. It is ridiculous that we are treated like second class citizens.  I raised this issue at our party meeting last night.  The Joint Services Committee may be responsible and will have to discuss the matter at its first meeting.  It should be a priority that Senators are treated with dignity and respect and they should have a proper computer and secretarial system.  We are being treated improperly. On the first day of this new Senate we should make it our priority that we get our house in order so we can then represent those who elected us.</P>
+    </Speaker>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>It would be helpful if the Minister for Foreign Affairs could address this House in the same way as he did the Dáil.</P>
+      <P>Will the Leader of the House ask the Minister for Tourism and Sport to take an interest in the ESB's proposal to erect more pylons and electricity lines in the Cork harbour area?  All Senators, particularly those from that area, know this is an important entry point into the country. There is already a plethora of electricity lines there.  The proposal to erect more lines when there is a perfectly feasible sub-marine route should be ruled out especially taking into account the impact on visibility.  Farmers in the area have objected strongly to the proposals.  The Minister said this matter came under a different portfolio, but I feel he should intervene.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>A Chathaoirligh, I congratulate you on your election.  I am glad that you have taken up the position.</P>
+    </Speaker>
+    <P>Will time will be allocated for certain motions on the Order Paper?  The first is No. 10, motions Nos. 1 and 2, which are essentially the same and concern the establishment of an international court of criminal justice to try war criminals.  It is <Col N="26" /> a detailed motion and I think most Members will support it.  It would be useful if some time could be allocated for its discussion.</P>
+    <P>The third motion, No. 10 is to notify the House of the report on human rights in Tibet compiled by myself and two others.  A copy has been lodged with the Library if anyone wishes to read it.  The fourth motion is an important one which I hope the Government will adopt and concerns the implementation of all outstanding sections of the Refugee Bill.  It will afford the Government an opportunity to discuss immigration, refugees and asylum policy.</P>
+    <P>Over the past six months, I have noticed the nasty development of racism among decent people.  One of the reasons for this is that the issue has not been addressed effectively in public. Rumours are circulating about boats docking containing thousands of people from foreign countries.  It is important that to address this problem, the Government has the opportunity to clarify the numbers, services provided and the machinery by which people are accepted into this country.  I hope the Irish tradition of affording a hospitable welcome to people in distress will continue.</P>
+    <P>The material raised by one of my colleagues on the Government side concerning anti-personnel mines is perhaps more appropriate to the Order of Business because among the papers laid before the House is a resolution on anti-personnel mines from the European Parliament.  I agree with Senator Lanigan that it is shameful that the Americans have refused to co-operate with other countries in Norway.  They described their position as &ldquo;moderate&rdquo; and wanted to renegotiate a moratorium after nine years.  They also wanted to exclude countries like North Korea where one person is killed by a landmine every 20 minutes, most of them civilians.  Since we started this sitting, three or four people have been killed there. It is extraordinary that the American Government has not signed along with the many other countries who have.</P>
+    <Speaker pid="MichaelFinneranFF" hpid="Mr. Finneran Mr. Finneran">
+      <NameTxt>Mr. Finneran</NameTxt>
+      <P>I congratulate you, a Chathaoirligh, on your election, which is an honour for you and your family.  I wish you the best in the position.</P>
+      <P>I ask the Leader of the House to respond to the call for a debate on single currency and the Economic and Monetary Union.  This will pre-occupy Europe over the next year and a half and it is appropriate that this House has a debate on the issue.  Over the next week or two, the Leader should ask the Minister for Finance to address the House and give us the opportunity to make our views known on this important subject.</P>
+    </Speaker>
+    <Speaker pid="PatGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>A Chathaoirligh, I also congratulate you and look forward to working with you.  I support the request to consider not taking all Stages of the Bill to amend the Constitution today.  It was acknowledged by the Taoiseach and many other speakers in the Dáil that the matter <Col N="27" /> might need to be revisited.  Given that it is the first time since 1937 that legislation is being proposed to hold a referendum to remedy the situation, we should try to get it right on this attempt rather than having to return to it on another occasion.</P>
+      <P>On the statutory papers laid before the Seanad and No. 7, the Air-raid Precautions (Delegation of Ministerial Functions) Order, 1997, is it intended that these precautions be invoked by Ministers in the course of the presidential election? Are they designed simply to shield them from enemy attack or will they cover friendly fire also?</P>
+    </Speaker>
+    <Speaker pid="SeanRyan" hpid="Mr. S. Ryan Mr. S. Ryan">
+      <NameTxt>Mr. S. Ryan</NameTxt>
+      <P>I congratulate you, Sir, on your appointment; you can be assured of the support of the Labour Party.  We are concerned about taking all Stages of the Seventeenth Amendment of the Constitution (No. 2) Bill together.  We should discuss in minute detail legislation referred to the Seanad and be given an opportunity to table amendments before Committee Stage.  If the House cannot facilitate us in this regard today, we would like to raise the matter at a meeting of the Committee on Procedure and Privileges.  If we get an undertaking in that regard, we will support the majority view on the Bill before us today.</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The House decides on the taking of each Stage of a Bill at the conclusion of the previous Stage.  I call Senator Cassidy, the Leader of the House, to reply.</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>In reply to Senator Ryan, this Bill was drafted by the previous Government which included Members of the Labour Party.  On this special day, the first sitting of the 21st Seanad to which we were honoured to be elected, we should proceed as proposed.  I do not have any difficulty with Members bringing matters on which they want clarification before the Committee on Procedures and Privileges.  We want to help Members to the best of our ability, but I would like to pass all Stages of this Bill today.  The Taoiseach is honouring the House with his presence on its first sitting day by coming in to move Second Stage at 4.15 p.m.</P>
+      <P>I am pleased to be able to accede to the request of Senators Lanigan and Norris and will take a discussion on landmines in the House at the earliest possibly opportunity.  I join Senator Haughey in wishing every success to the Northern Ireland peace talks, the most important issue currently facing this island.  I hope yesterday's events will not deter the determination to bring the talks to a successful conclusion.  We are all aware of the difficulties involved and I send good wishes to the chairperson, George Mitchell.</P>
+    </Speaker>
+    <P>The Leader of the Opposition, Senator Manning, called for additional time for contributions on the Bill today.  I propose 20 minutes for the principal spokespersons and 15 for others who <Col N="28" /> can share time.  I hope that meets the Senator's request.</P>
+    <P>I wholeheartedly support the request for an urgent meeting of the Committee on Procedures and Privileges to discuss office facilities for Senators.  The Cathaoirleach is one of the convenors of that committee.  The new Senators are disappointed with the facilities available to them. Those of us who have served for some time tend to accept them.  In comparison to office facilities in private enterprise, the facilities here are inadequate. I will do everything in my power to ensure they are upgraded immediately.  As Senator Costello was a Member of the Dáil during the last Government, he may not be aware that during that time we had a long debate on how we could improve the Seanad.  I would have no difficulty holding another debate on improving the structures and conditions in the Seanad, if that is the wish of Members.</P>
+    <P>Senator Norris referred to motions Nos. 10, 3 and 4.  They could be taken in Private Members' Time.  I will assist him in that regard if he so wishes.  Senators O'Toole, Dardis and Finneran called for an early debate on Economic and Monetary Union.  If possible we will hold such a debate on the day after we reconvene on 9 October.</P>
+    <P>
+      <i>Mr. Costello rose.</i>
+    </P>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>On the Order of Business contributions are not allowed after the Leader has replied.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I do not intend to make a contribution. I am merely asking for a response to my query.  Will the Leader convey to the Minister for Foreign Affairs the request from this group, echoed by Senator Henry of the Independent group, that he should make a statement to this House similar to that made in the Dáil?</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I do not have control over the Leader's reply.  The Senator could raise that matter on the Order of Business tomorrow morning. Is the Order of Business agreed?</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>The rules must have changed since the last time I was a Member of the House. At that time Senators were entitled to request a reply to a question not answered by the Leader</P>
+    </Speaker>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>That is not the position. When all Senators have made their contributions on the Order of Business the Leader is called on to reply.  The Chair has no control over that reply, but further questions or contributions are not allowed after he has replied.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>On a point of order, there is a long tradition in the House that when a question is asked it is answered.  I am sure the Leader merely forgot to answer this question and would be happy to reply now.</P>
+    </Speaker>
+    <Col N="29" />
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>As this is the first day of the new Seanad I will make an exception to the rule and allow Senator Cassidy respond to that point, but I do not want this to be the normal procedure on the Order of Business.</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>As the former Leader pointed out, I merely forgot to reply to this matter.  I will bring it to the Minister's attention.</P>
+      <P>Order of Business agreed to.</P>
+      <P>
+        <i>Sitting suspended at 4 p.m. and resumed at 4.15 p.m.</i>
+      </P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="An Bille um an Seachtú Leasú Déag ar mBunreacht (Uimh. 2), 1997: An Dara Céim." RHead="Seventeenth Amendment of the Constitution (No. 2) Bill, 1997: Second Stage">
+    <Title>An Bille um an Seachtú Leasú Déag ar mBunreacht (Uimh.  2), 1997: An Dara Céim.   Seventeenth Amendment of the Constitution (No. 2) Bill, 1997: Second Stage.</Title>
+    <P>Tairgeadh an cheist: &ldquo;Go léifear an Bille an an Dara hUair.&rdquo;</P>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="BrianMullooly" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>For the information of Senators I will explain the procedure we will adopt.  Item No. 6, motion pursuant to section 23 of the Referendum Act, 1994, prescribing a formal statement for the information of voters to be included on the polling card to be sent to every elector and on posters displayed in polling stations, will be formally moved when debate on item No. 5, Seventeenth Amendment of the Constitution (No. 2) Bill, 1997, is concluded.  At that point the amendments to item No. 6 can be moved in sequence and, if necessary, a separate decision can be obtained on each of the three amendments to the motion.  The debate on item No. 6 will be taken in conjunction with Second Stage of item No. 5.  The amendments to item No. 6, motion regarding information for voters, can also be debated in conjunction with the amendments to the Bill as the texts are identical.  Is that agreed?  Agreed.</P>
+      <P>I welcome the Taoiseach to the House on the first sitting day of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I congratulate you, a Chathaoirligh, on your election to the most prestigious position of the Upper House, one of the most prestigious positions in the nation &mdash; you rank fourth or fifth in those positions.  I always made a point of attending the Seanad.  I congratulate Members on all sides who have been elected to the Seanad and wish them well in what I hope will be a long period, bringing us up to the year 2002.  I will do all I can to assist them.  I congratulate Senator Manning, who again leads his party in opposition, and Senator Cassidy, the Leader of the House.  I am pleased to have the opportunity to address the Members of the new Seanad on the first day of its assembly.  I wish them every success in the important work they will undertake <Col N="30" /> in the time ahead.  In particular, I congratulate the newly-elected Members and wish them a long political career.</P>
+      <P>The Bill before the House was presented to the last Dáil on 1 May 1997 by my predecessor, Deputy John Bruton.  I acknowledge the contribution he and the former Attorney General, Mr. Dermot Gleeson, senior counsel, made in preparing the Bill.  They devoted an enormous amount of time and effort in considering the various constitutional, legal and administrative issues which arose and I thank them most sincerely for that. In the Fianna Fáil general election manifesto there is a commitment to consider the holding of a referendum on the Cabinet confidentiality issue in conjunction with this year's presidential election. In the Progressive Democrats' manifesto there is a commitment to ensure the absolute ban on disclosure of Cabinet discussions can be lifted where disclosure is clearly in the public interest.</P>
+      <P>On coming to office at the end of June the new Attorney General and I undertook a detailed examination of the Bill and the background to its formulation.  On the basis of that examination the Government concluded that it was appropriate to seek the restoration of the previous Government's Bill with a view to putting the proposed constitutional amendment to the people by way of a referendum.  The Government proposes that the referendum should be held on 30 October 1997, the date scheduled for the presidential election. The timescale is extremely tight having regard to the administrative arrangements which will have to be put in place following passage of the Bill.</P>
+      <P>That is the main reason the Government asked the Dáil to deal with the Bill at its special sitting last week rather than leave it until the House resumes on 30 September when the timescale remaining would render an early referendum virtually impossible.  Another reason for proceeding with the Bill as drafted is the separate proposal to establish a further tribunal of inquiry into payments to Mr. Charles Haughey and Deputy Michael Lowry.  It is important the new tribunal should have available to it the provisions of this constitutional amendment on Cabinet discussions.</P>
+    </Speaker>
+    <P>I am glad, therefore, on behalf of the Government, to propose the Bill to the House.  The text of the proposed constitutional amendment set out in the Bill provides that the absolute confidentiality which applies to Government discussions would be relaxed in particular and exceptional circumstances.  It proposes that a new provision should be inserted into the Constitution after Article 28.4.2º. That Article provides for collective Cabinet responsibility.  The new provision would ensure confidentiality of Cabinet discussions will continue to have constitutional protection except where the High Court determines that disclosure should be made in the interest of the administration of justice, as decided by a court, or by virtue of an overriding public interest pursuant to an application in that behalf by a tribunal <Col N="31" /> appointed to inquire into a matter of public importance.  Although the proposed amendment does not refer to the question of an appeal to the Supreme Court, this will be the case if appropriate.</P>
+    <P>The Tribunal of Inquiry into the Beef Processing Industry, conducted over an extended period, brought to notice a shortcoming in the existing constitutional framework.  The desire of that tribunal to inquire into the proceedings of Government meetings was precluded by a majority ruling of the Supreme Court.  The variety of judicial rulings delivered at that time illustrate the complexity of the issue and the sensitivity of the balance to be achieved.</P>
+    <P>I will give Senators some of the background to the Bill.  At an early stage in the conduct of the Tribunal of Inquiry into the Beef Processing Industry the chairman indicated an intention to ask questions concerning the details of discussions which took place at a Government meeting in June 1988 relating to decisions on export credit insurance for beef exported to Iraq.  Counsel for the Attorney General objected to the asking of those questions on constitutional grounds. The chairman then deferred asking questions, although he made a ruling that he was entitled to ask them in order to give the Attorney General an opportunity of applying to the High Court, by way of judicial review, for a resolution of the issues.</P>
+    <P>Following a High Court case, the Supreme Court, in its judgment of 21 August 1992, upheld by a three-to-two majority the Attorney General's contention in relation to the absolute confidentiality of Cabinet discussions.  Leading the majority, Chief Justice Finlay stated:</P>
+    <P>Confidentiality of the contents and details of discussions at meetings of the Government is a constitutional right which, in my view, goes to the fundamental machinery of government and is, therefore, not capable of being waived by any individual member of the Government nor, in my view, are the details and contents of discussions at meetings of the Government capable of being made public, for the purpose of this Inquiry, by a decision of any succeeding Government.</P>
+    <P>The courts had previously established in the Ambiorix case in July 1991 that no Government or Cabinet documents were privileged from disclosure in court, merely on account of their origin. Documents which the Government wanted to protect on grounds of executive privilege would have to be inspected by the judge, who would balance the need for secrecy against the interests of the litigant and the public in the administration of justice.</P>
+    <P>The Constitution Review Group, chaired by Dr. T. K. Whitaker, dealt briefly with the Cabinet confidentiality issue in its report published in May 1996.  The group concluded that there were strong grounds for extreme caution in any <Col N="32" /> approach to relaxation of that Cabinet confidentiality rule.  It noted:</P>
+    <P>that such confidentiality is an almost universal feature of Government, and the essential underpinning for the doctrine of collective responsibility enshrined in Article 28.4.2º. Collective responsibility is, in turn, essential to a Government's ability to plan and act cohesively. The possibility that Cabinet confidentiality might in some circumstances be lifted could in itself, obviously, inhibit discussion and, therefore, the effectiveness of Government.</P>
+    <P>The group considered two approaches:</P>
+    <P>1.  any relaxation should be subject to the most stringent test of public interest, as judged by the High Court or Supreme Court, and should be confined to the context of a criminal prosecution against a member, or former member, of the Government (as is the case in the United States and Australia)</P>
+    <P>2.  the context specified at (1) could be unduly restrictive and it might be better to express any constitutional relaxation in less specific terms, while still applying the test of overriding public interest, as determined by the High Court or Supreme Court.</P>
+    <P>The group also stressed that the rule of Cabinet confidentiality does not apply to Government decisions which are formally recorded &mdash; their communication to those concerned establishes them as items of public knowledge.  That is the legal history attaching to this issue.</P>
+    <P>The doctrine of collective responsibility is underpinned in an important way by preserving the confidentiality of Cabinet discussions.  The potential disclosure by an individual member of the Government of these discussions in a particular case, at some future time, could have an inhibiting effect on free discussion at Cabinet. Such confidentiality has been an element in the political stability we have enjoyed over many years.</P>
+    <P>I believe that the proposals, agreed by the last Government, are reasonable given the complexities involved.  They are in many ways an advance on the manner in which the Cabinet confidentiality issue is dealt with in other jurisdictions. Many EU states operate a much more restrictive arrangement in relation to access to Cabinet discussions than what is proposed in this Bill.</P>
+    <P>As I have already said, the courts established as far back as 1991 that no Government documents were privileged from disclosure in court just because of their origin.  Any documents which the Government seeks to protect have to be inspected by a judge of the High Court.  With the limited exception, therefore, of some documents which the Government might seek to protect on grounds, say, of national security, Government decisions which are formally recorded and the memoranda on which they are based are made available for Court proceedings where there is bona fide application for their discovery.</P>
+    <P>
+      <Col N="33" /> I think it is important to emphasise this as there may be some misconception about it.  The Bill now being proposed relates solely to discussions at Cabinet.  Cabinet documents and Cabinet decisions are already discoverable and made available under the current constitutional provisions. The draft constitutional amendment now before the House provides that, while Cabinet discussions will continue to have constitutional protection, the High Court will have the power to determine disclosure in certain instances by virtue of an overriding public interest.</P>
+    <P>I am confident that the people in a referendum will respond positively to the proposed amendment.</P>
+    <P>The motion on the statement for the information of voters in the referendum is brought forward pursuant to section 23 (1) of the Referendum Act, 1994.  The purpose of the statement is to assist voters, by making available to them a statement relating to the proposed constitutional amendment.  It will be printed on polling cards sent to electors and on posters displayed in the precincts of, and within, all polling stations.  A copy of the statement will also be sent to each postal voter, and to each elector on the special home voters list to whom polling cards are not sent.  The arrangement proposed in the motion is identical with arrangements made at previous referenda.</P>
+    <P>The All-Party Committee on the Constitution published two excellent progress reports last April.  Neither dealt with the Cabinet confidentiality issue as the committee had been informed on its establishment that it was the subject of consideration by the then Government.  I wish to compliment the members of the committee and the members of the constitution review group for their excellent work.  I also wish to compliment the secretariat provided to the committee by the Institute of Public Administration.</P>
+    <P>Having regard to the all-party consensus on the re-establishment of the committee, immediately on assuming office I retained the services of the secretariat to continue necessary research work. The Constitution is now 60 years in operation.  It has stood the test of time very well but as we move into the next millennium it is timely that it should be reviewed.  I propose to consult very shortly with the Opposition Leaders about the early re-establishment of the all-party committee, and I look forward to its further reports.  I also wish to assure Senators that the Government will give careful consideration to the recommendations in the first two progress reports from that committee, and decisions in that regard will be announced in due course.</P>
+    <P>I commend the Bill and the motion to the House.</P>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I welcome the Taoiseach to the House on the first sitting day of the new Seanad. He frequently attended the House in his capacity as Minister in various Departments and always listened very carefully to, and participated fully <Col N="34" /> in, the debates.  It is a very good sign of his views on the House that he is here today to take this important motion.</P>
+      <P>This proposed amendment to the Constitution gives the appearance of being simple and straight-forward, although practice has taught us that amendments which appear simple and straight-forward may, ultimately, give the greatest trouble, at least when it comes to constitutional matters.</P>
+      <P>The origins of this amendment have been very well rehearsed: they date directly to the beef tribunal. The restrictive interpretation, as most people see it, by the Supreme Court of the case brought by the then Attorney General had the effect of greatly hindering the work of that extremely long and expensive inquiry into the beef industry.  It ensured, although this could hardly have been the intention of the court, that important lines of inquiry could not be pursued and that information which could have greatly helped the work of the tribunal was not made available.</P>
+      <P>A great deal of time and money might have been saved had this proposed amendment been in place at that time.  A great deal of misunderstanding might also have been cleared up.  The report of the tribunal might have been clearer and more illuminating than was the case.  That is the origin and purpose of this amendment, which is to ensure, especially as we move towards at least one more tribunal of inquiry, that such a situation is not allowed happen again.</P>
+      <P>The principle of Cabinet confidentiality is an important one.  As the Whitaker review on the Constitution, to which the Taoiseach referred, stated, it is the:</P>
+      <P>essential underpinning for the doctrine of collective responsibility enshrined in Article 28.4.2º. Collective responsibility is, in turn, essential to a Government's ability to plan and act cohesively.</P>
+    </Speaker>
+    <P>That review group urged great caution in lifting or changing accepted practices.  The group was not comprised of politicians who might be said to have a vested interest in restricting access or in promoting the cult of official secrecy.  It was chaired by probably the greatest public servant of the last 50 years and, while it included the present and former Attorneys General, for the most part it was comprised of many former public servants, academics, lawyers, representatives of minority groups and people who had no particular axe to grind as far as the continuation of excessive secrecy was concerned.  Its report, which was prepared by people who were not part of the political system, urged us to move cautiously.  The report was greeted warmly and I was encouraged to hear the Taoiseach say that the work of the all-party committee would be continued as a matter of urgency.  Many in this House will look forward to the views of the Government on the second of the two working groups, which is dealing with the future of the Seanad, an issue which was debated <Col N="35" /> at great length during the lifetime of the last Seanad.</P>
+    <P>Government probably could not work without Cabinet confidentiality, but that does not mean it is an absolute right.  It may be enshrined in constitutional language but it must coincide with other fundamental rights, the most fundamental being the need to ensure that justice is done and is seen to be done.  This Bill is a balanced response to the conflict between two major principles and values &mdash; the need for Government to work effectively and in confidence, and the need to ensure that justice is done and is seen to be done.  Especially now, as we approach another tribunal of inquiry, it is important that it will be able to do its job fully, properly and effectively.</P>
+    <P>We live in a society which is ever more open to information and this trend will continue to levels hitherto unimaginable.  Given the enormous advances in information technology over the past ten years, we cannot even begin to comprehend what the position may be ten or 15 years from now.  We may well ask why, in what is universally known as the information age, we should need Cabinet confidentiality.  Although there are not many leaks from this Government as yet, it is a feature of all Governments that there are leaks, news management, disinformation, spin doctors, PR, etc.  One may ask why we do not go the whole hog into an era of complete transparency.  That day may yet come &mdash; in 20 or 30 years Cabinet meetings may be as open and held with the same level of public scrutiny of their conduct and content as meetings of this House.  However, it is the experience of all Governments, not just this Government, that Cabinet confidentiality is essential because without it Government would not work.  We will probably never reach a stage of total transparency and openness in the conduct of Cabinet because business would not get done, trust could not be built up and decisions might not be made easily in such circumstances.  The question becomes one of the degree of such confidentiality and the assurance that it is not in conflict with a fundamental imperative.  This Bill will not be the last word on the subject but for the moment it strikes a good balance.</P>
+    <P>My final point was raised by Dr. Gerard Hogan in <i>The Irish Times</i> on 15 September and was addressed to some extent by the Taoiseach in his Second Stage speech.  The nub of Dr. Hogan's argument is that this constitutional amendment will, with the exception of the two areas mentioned in the Schedule &mdash; court intervention or a tribunal &mdash; lead to the copperfastening of the Supreme Court decision.  He argues that access to Cabinet proceedings will be more restricted than under the 30 year rule.  Is there a danger this amendment will supersede the National Archives Act?  This issue is of great concern to historians and scholars working on the archives.  Under this amendment it may be possible for a future Government arbitrarily to exclude matters of genuine, bona fide historical interest which, <Col N="36" /> under the present 30 year rule, would normally be made available.  The spectre is that the attitude of openness towards the archives, which has become such an important feature of Irish life over the past 15 to 20 years, could be put at risk by the provisions of this Bill.  That is clearly not the intention of the legislation but it is important that the Taoiseach, in his reply, should spell out that this is not so and that any legislation which may be necessary for that purpose will be introduced.</P>
+    <P>I welcome the Bill and have no difficulty with the constitutional amendment.  We will urge the electorate to support it when it is put to them on 30 October.  It is an important step.</P>
+    <Speaker pid="DennisODonovan" hpid="Mr. O'Donovan Mr. O'Donovan">
+      <NameTxt>Mr. O'Donovan</NameTxt>
+      <P>At the outset I congratulate you, a Chathaoirligh, on your election.  It is an indication of the high esteem in which you are held in the House that you were unanimously supported.  That is a great tribute and I wish you every success.  I welcome our Taoiseach to the House.  It is a great privilege that he has come here on our first meeting to discuss this important issue.  I hope we will see him in the House frequently, as it indicates the respect he holds for the Seanad.  Like Senator Manning, I am grateful that the review of the Constitution will be continued as an ongoing process.</P>
+      <P>We must make it abundantly clear that the Seventeenth Amendment of the Constitution Bill concerns Cabinet confidentiality.  Article 28.4.2 of the 1937 Constitution enshrined this principle. Most modern democracies, including the United States, Australia and many European countries, require Cabinet discussions and materials to be of the utmost confidentiality.  In the Ambiorex case of 1991, the courts decided that Cabinet documents were not in the same category and could be made available by order of discovery. However, arising from the demands of the beef tribunal, the Supreme Court decided by a three to two majority, after a thorough debate, that Cabinet discussions were a different matter and the confidentiality rule applied strictly to them.</P>
+      <P>In the five years since that Supreme Court decision, the previous Government and the various parties involved in it acknowledged the need for change.  At the same time, all parties realise the underlying requirement of Cabinet confidentiality. The purpose of the amendment, which I commend to the House, is that in certain circumstances outlined in the Bill an exception would be made to the rule, but only at the behest or request of the High Court.</P>
+    </Speaker>
+    <P>I compliment the work of the various committees and Government review groups in the past four years.  This is a tedious and difficult area. The previous Attorney General, Mr. Dermot Gleeson S.C., is a great constitutional lawyer.  I was privileged to have him as a lecturer in college. Much effort was put in by the previous Government and I am glad the current Government is retaining the secretariat and moving the matter ahead with great speed.  Given that the <Col N="37" /> presidential election will be held on 30 October, it is right that we should hold the constitutional referendum on the same date so that both issues can be decided.  I have no doubt the House will agree to the amendments proposed, having given the matter due consideration.  The Dáil has already considered this measure at length.  It is designed to ensure that in future tribunals of inquiry openness and transparency, which the Government requires and pursues, may be achieved.  This has been prevented in recent tribunals due to the interpretation given by the courts.</P>
+    <P>I commend the Bill to the House.  I compliment the Taoiseach on coming to the House on this important matter.  I trust Opposition Members will recognise the technical importance of what is attempted.  Cabinet confidentiality must be retained in some form.  However, this measure proposes that in exceptional circumstances of great importance, at the request of a tribunal or a High Court judge, the cloak of confidentiality may be lifted.  Such transparency is needed, as has been recognised by the Government.</P>
+    <Speaker pid="BrendanRyan" hpid="Mr. B. Ryan Mr. B. Ryan">
+      <NameTxt>Mr. B. Ryan</NameTxt>
+      <P>Having bored many Members of the House in the past with my views on secrecy and disclosure I could almost begin by saying &ldquo;As I was saying before I was so rudely interrupted five years ago&rdquo; and continue.  Ba mhaith liom fáilte a chur roimh an Taoiseach i dtús báire, ag baint úsáid as chanúint Chiarraí atá agam ós rud é gur beirt sinn, mé féin agus an Taoiseach, a bhaineann an-taitneamh as an chuid bheag sin den tír.  Ní fheadar go bhfuil a fhios ag an Taoiseach, ach b'fhéidir go bhfuil duine a bheidh ina iarrthóir don uachtaránacht den tuairim chéanna faoi cé acu áit is fearr a dhul ar laethanta saoire agus go bhfuilimid ar chomhaigne.  That proves what good taste the Taoiseach and I share on many matters.  I congratulate the Taoiseach on his appointment and I welcome him to the House. That said, it is a pity to have to register a note of dissent but I am sure that will not be a surprise.</P>
+      <P>Let us examine the Taoiseach's speech.  He said:</P>
+      <P>The potential disclosure by an individual member of the Government of these discussions in a particular case, at some future time, could have an inhibiting effect on free discussion at Cabinet.  Such confidentiality has been an element in the political stability we have enjoyed over many years.</P>
+      <P>Why would it destabilise our political system if members of Government did not behave themselves? The truth is that members of Governments do not behave themselves.  They continuously let slip snippets of information, particularly members of coalition Governments.  Governments employ press officers to put a gloss on matters which involve at least indirect reference to Cabinet discussions.</P>
+    </Speaker>
+    <P>I have never understood fully the basis for the Supreme Court decision.  The almost apocalyptic <Col N="38" /> language which some of their lordships used in their decision would make one wonder about the basis of Government.  Is the basis of Government government or the people?  The people are not the enemy.  Therefore, we are not disclosing information to the enemy if matters which are regarded as confidential by the Government are leaked to the people.  We are simply letting those who are the supreme authority in the State know what those who are chosen to represent us in Government say and how they arrive at their decisions.  The underlying assumption of the Supreme Court decision and, unfortunately, of the amendment is that, as far as possible, we should not let the people know what individual members of Government say or think prior to a Government decision.  The exceptions proposed are quite correct as far as they go &mdash; judicial procedures and tribunals of inquiry are interesting exceptions.</P>
+    <P>Cabinet confidentiality should be dealt with to the degree necessary by a fundamental restatement of principles echoing the language used by the late and much lamented Mr. Justice Niall McCarthy in his dissenting judgment.  It is important to remember that the Supreme Court decision was taken by three to two.  He used the phrase <i>salus populi suprema est lex,</i> that is to say, the good of the people is the supreme law, not the comfort of Government nor the need to protect the apparently vulnerable members of Government who are afraid that people might know what they thought or said.  One has visions of vulnerable people who are afraid to discuss their positions being protected by the Constitution. Members of the Government, the Taoiseach included, are not vulnerable people who cannot handle themselves in debate.  I do not understand that idea that because people are collectively responsible they must be protected from scrutiny about how decisions were arrived at. That is irreconcilable with democracy.</P>
+    <P>I am not overly concerned whether other countries are more or less restrictive in this regard. The pertinent question is how one reconciles an absolute rule of confidentiality with government by the people, of the people and for the people. I cannot find a way to do so which does not say in essence that we must protect the Government from the people.  That appears to be the basis of this matter.</P>
+    <P>If this proposal is put to the people I will vote for it because the alternative is so much worse. However, I will do so with considerably diminished enthusiasm.  I am concerned about the two standards which will be imposed.  We will explain one standard to the people which has the force of constitutional law.  However, on the other hand, we will have the increasingly efficient, effective and ever present spin doctors leaking titbits about Cabinet discussions, about who said what and about who won which argument in the interests of the Government, the junior partners in Government or the political futures of individual members of Government in the face of difficult <Col N="39" /> decisions.  We will thus have a measure which is meant to copperfasten something which will be blissfully ignored by those who are meant to observe it.</P>
+    <P>It does not have to be like this.  There are measures in place in other countries which would come as an enormous shock to the Irish political system, although not, I hasten to add, applying to cabinets.  In the United States every body which gets more than 50 per cent of its funds from the taxpayer must meet in public, save for a range of exceptions covered by the US freedom of information laws.  They cannot meet in private or take informal discussion in private prior to public meetings.  If the chairman or any other member of such a body decides to have a private discussion with somebody that matter must be recorded and made public at the subsequent meeting of the body.  These provisions apply to every body at every level in the US yet they have not closed down the system.  In Israel &mdash; a country of which I am not too fond &mdash; one hears regularly of how the cabinet votes and that country has not been threatened with instability due to leaks from the cabinet.</P>
+    <P>There is an extraordinary inhibition on discussion in the political process.  Macho virility is somehow synonymous with expressing absolute decisions made without discussion or hint of weakness.  We have moved beyond the days of ideologies, at least of some ideologies.  I sometimes wonder if others are taking over.  We have moved from the days of ideologies to the days when we realise all human decision making is imperfect and subject to revision.  The only way to have intelligent sequential revision as we improve and understand better, is to understand how people arrived at decisions as well as knowing the decisions they took.  We are inhibiting future generations in this fashion because the amendment not only binds us now but in the future.  I am not convinced the Archives Act will be unaffected by this amendment and that many of the matters which the records turn up, including Cabinet minutes, will not have to be edited at least to a limited degree to conform with this amendment.</P>
+    <P>I support the amendments introduced by my colleagues in the Labour Party.  We should stand back and reconsider if we are to have a fundamental review of the Constitution and the relationship between the supreme law of the land and the Government.  The population is increasingly becoming better educated and more informed than Members of the Oireachtas and know how our Government makes its decisions. Pretending our democracy cannot function adequately is to suggest that democracy is dangerous and we must protect the centres of power or else all that we hold dear will fall down around us.  Truth does not destroy democracy. Giving information has not destroyed democracy but the opposite has often destroyed it.  I regret the Supreme Court took the decision and it is a <Col N="40" /> pity that two consecutive Governments have decided upon a limited amendment to the Constitution.</P>
+    <Speaker pid="MairinQuill" hpid="Miss Quill Miss Quill">
+      <NameTxt>Miss Quill</NameTxt>
+      <P>Ba mhaith liom fáilte a chur roimh an Taoiseach go dtí an chéad chruinniú den Seanad nua inniu agus comhghairdeas a dhéanamh leis an Chathaoirleach as ucht a bheith tofa.</P>
+      <P>My third welcome is reserved for this Bill which is a step in the right direction and is long overdue.  I share Senator Manning's reservations about its provisions.  Having read an excellent and cogent article by Gerard Hogan published in the <i>National Daily</i> on 15 September and conferred with experts in this field I am still unclear whether the current position of archive material will be worsened if this Bill is enacted in its present state. I am anxious to hear the Taoiseach's reply to queries of this nature.  It would be ironic if access to historical records and material currently in place would be diminished as a result of new legislation coming before the House.</P>
+      <P>Having read the Bill and its memorandum it is not clear that this new measure when enacted will apply retrospectively, but if not this Bill will not meet the requirements of the present time.  I am anxious to hear the Taoiseach's reply to that.  If the Bill's provisions are not made to apply retrospectively to quote Macbeth we have &ldquo;scotched the snake, not killed it&rdquo;.</P>
+      <P>The majority verdict of the Supreme Court in 1992 sent shockwaves through the body politic particularly in the context of the beef tribunal. The verdict that Cabinet confidentiality was absolute in all circumstances and without exception was in response to an effort to arrive at the truth by the Chairman of the tribunal in circumstances where there was conflicting evidence.  It was a shattering blow to his attempts to arrive at the truth.  It was clear to every citizen, as well as to the Chairman of that tribunal, that verdict prevented the effective investigation of fraud or criminal behaviour and that the matter had to be rectified.  I am very pleased that at the first meeting of this new Séanad, of which I am proud to be a Member, we are tackling this issue today.</P>
+      <P>This Bill proposes lifting confidentiality in significant circumstances.  It will allow the High Court to order disclosure of what happened at Government meetings where this is necessary in the interest of the administration of justice or the proper workings of a tribunal of inquiry.  That has to be welcomed as a major advance.  However, we are living in very troubled and strange times. There is a widespread belief among the general public &ldquo;that something indeed is rotten in the State of Denmark&rdquo;.  If that is the case there is an onus on all of us to enact legislation to enable us to effectively root it out.</P>
+    </Speaker>
+    <P>The public believes politicians are either corrupt or corruptible; that the political system operates to advance its best interests rather than promote the common good and repeatedly fails to identify the culprits when scandals arise, and to root out the rot and heal itself.  This perception is <Col N="41" /> being fuelled by the tabloid press and by some people who seek to assert that only non-politicians should be considered as suitable candidates for high office.  This is dangerous stuff and there is an onus for us all to tackle it.  It is the inevitable consequence of years of scandals and low standards in high places and the failure to confront these scandals head on.  The public is devastated by a system that permited gross negligence in the case of the BTSB and gross dishonesty before the beef tribunal.  They are disgusted at the failure of the system to make people in certain places accountable for their actions.  In the words of W. B. Yeats &ldquo;it does seem that nobody has been brought to book&rdquo;.  Some people who should have been dealt with harshly received golden handshakes.</P>
+    <Speaker pid="BrendanRyan" hpid="Mr. B. Ryan Mr. B. Ryan">
+      <NameTxt>Mr. B. Ryan</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="MairinQuill" hpid="Miss Quill Miss Quill">
+      <NameTxt>Miss Quill</NameTxt>
+      <P>This generation of politicians will have to tackle that situation head on with courage and determination.  The harsh reality is that when no one is proven guilty everyone is deemed guilty.  Without hesitation we must remove the barriers to full accountability.  The harsh reality is that when no one is proven guilty everyone is deemed guilty.  We must remove without hesitation the barriers to full accountability.  We must root out the culture of secrecy that allows corruption fester under the ground and we must restore respect for the institutions of State and do it without delay.</P>
+      <P>I welcome this Bill as a measure aimed at taking us in that direction.  I repeat my concern that the provisions of this Bill may not apply retrospectively. There is nothing, as far as I can establish, in the Constitution or previous practice that would prevent that retrospective application.  It is very unclear, from my reading of the Bill, whether that is provided for.  I ask the Taoiseach to clarify that point for the House.  If that is not the case perhaps he would take my concern on board.  Unless the provisions of this proposal when put to and adopted by the people and enacted into law can be made to apply retrospectively then we will have only done half a job this evening.</P>
+      <P>I am happy with this Bill.  There are those who would argue that it is too narrow in scope and others who would argue that it is too limited.  I repeat my concern that it may actually worsen access to public and historical records and documents of public interest.  It may inhibit the right of Ministers to make disclosures in the context of resignation speeches.  I hope that will not happen. I raise it this evening as a major concern.</P>
+    </Speaker>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>I look forward to working with the current Seanad and am pleased to see the Taoiseach here on this, my first day in this House. I am pleased to have an opportunity to speak on this legislation.</P>
+    </Speaker>
+    <P>
+      <Col N="42" /> I welcome the Bill which, as has been pointed out by the Taoiseach and other speakers, was drafted by the outgoing Administration.  I welcome the fact that the current Administration has taken it on board and is implementing it with such speed.  The Bill was drafted by the Government of which my party was a member.  That Government introduced extremely significant legislation which has a relationship with this Bill, the Freedom of Information Act.  That Act, which had long been discussed, was one in which I was privileged to play a role, having worked with former Minister of State, Eithne Fitzgerald.  The current amendment is part of an overall package which the previous Government put forward in the context not only of reform of our institutions but of reform of the relationships between the institutions of State and the public.  This point has already been referred to and is one to which I will return because I consider it critical to the context of this amendment and the amendments which the Labour Party has put to the current proposal.</P>
+    <P>I also welcome this amendment as a former working journalist and a current member of the NUJ.  I know journalists are not popular with a number of Members of this House and the other House but having worked as a journalist and having turned from poacher to gamekeeper I might have some understanding of where my colleagues are coming from in relation to this.  We must as Members of the Oireachtas take into account the relationship between the public and public representatives and the need to balance the maintenance of Cabinet confidentiality and the public's right to know.  We stand, at this stage in our democracy, at a critical point.  An issue which has been raised in other fora and quite properly in this forum, and one with which we as public representatives are obviously deeply concerned, is the growing level of cynicism among the public and their attitude towards politicians.  We are concerned when opinion polls show that the majority of the public consider that we are all &ldquo;at it&rdquo;, in it for our own gain.</P>
+    <P>When we look at the major issues which rocked our democracy in the last number of years the central point at issue was the withholding of information.  It is extremely important that, in framing proposals to be put forward to the public, we go further than the public currently demands. We live in an era where information is easily available, so much so that the upcoming generation considers the availability of information as something to be taken for granted.</P>
+    <P>If this Administration in the proposals it puts to the public displays a different attitude, i.e., one which seeks to withhold information, which seeks to cultivate the culture of secrecy, what then are we saying to the public?  Effectively, we are saying we have something to hide.  We have an obsession in this country with secrecy.  Administrations at central and local level are not able to give information freely.  The Freedom of Information Act, which I look forward to seeing implemented on the ground, particularly at local <Col N="43" /> authority level, and the relationships between the institutions of State and the public will change this culture of secrecy.  In changing that culture and in looking at this proposal we must ask ourselves what signal we are sending to the public. The signal is that we will relax the absolute ban on Cabinet confidentiality but only in the most limited circumstances.  The amendments which we are putting forward are extremely limited also and they maintain the balance by maintaining Cabinet confidentiality while giving the Oireachtas, this House and the Dáil the right to make further exceptions.  They are not radical proposals by any means.  We believe they would make some important and necessary moves in the direction of assuring the public that we are not determined to observe the culture of secrecy, that we are at least making some effort to move towards a greater culture of openness.</P>
+    <P>I was surprised that the Taoiseach made no reference to the Freedom of Information Act in his address because this proposal, while it is rooted in the beef tribunal issue, is part of a package of reform of our institutions.  It is an essential part of that reform.  In proposing that reform we must not fool ourselves into thinking the public do not pick up the signals sent out.  The public will vote on this proposal the same day they vote in the presidential election, which is shaping up to be one of the most interesting and exciting elections in a long time and is no doubt taking place against a background of political change.  On one hand this political change is recognised by virtue of the candidates put forward and the projection they give, but on the other the same voters are being asked to pass an amendment which is extremely narrow in its focus and extremely limited in its application.</P>
+    <P>Other speakers have referred to the potentially detrimental effects of the legislation.  Our amendments attempt to amend that.  I will not deal with them specifically in this my Second Stage address except to say that they attempt to combat the culture of secrecy.  It has been pointed out that Cabinet memoirs cannot be written as a result of the absolute ban on confidentiality.  Some people say that is a good thing but what harm has been done by memoirs that have been written?  No harm has been done by Gemma Hussey's recollections of her time in Government or, indeed, by Garret FitzGerald's recollections either.  They have given a flavour and colour to our understanding of Government and it probably has had a desirable effect on students studying how our system works.  We are living in an era of easy availability of information.  As Members of the Oireachtas we show respect for the public in the way we shape the institutions of Government which sends a signal to the public that our democracy is built on respect for the public's right to know.  While the Bill is welcome in that it goes a small way towards relaxing the absolute ban on disclosure of Cabinet discussions, it does not go far enough and we may have to return to this issue in the future.</P>
+    <Col N="44" />
+    <Speaker pid="EdwardHaughey" hpid="Dr. Haughey Dr. Haughey">
+      <NameTxt>Dr. Haughey</NameTxt>
+      <P>The great importance the Government attaches to this Bill is shown by the Taoiseach being present for all of this debate.  I do not propose to change the substance of the Bill.  If every public company had to disclose its boardroom meeting to the public it would be very difficult to operate its business, but if a company had to disclose that information when ordered by a judge of the High Court or the Supreme Court for very valid reasons, that is a safety lock.  In this instance the Bill proposes to give discretion to a judge of the High Court or the Supreme Court to order disclosure.  However, it is important that government rules the country for the people and that members of the Cabinet, can talk openly in Cabinet with confidence that these discussions will not readily come into the public domain other than for very good reasons.  The Bill proposes to give discretion to the High Court to determine what can be brought into the public domain but it is important that we spell this out to the High Court.</P>
+      <P>The Taoiseach in his statement said: &ldquo;On coming into office at the end of June the new Attorney General and I undertook a detailed examination of the Bill and the background to its formulation.&rdquo; He also said &ldquo;Another reason for proceeding with this Bill, as drafted, is the separate proposal to establish a further tribunal of inquiry into payments to Mr. Charles Haughey and Deputy Michael Lowry.&rdquo;</P>
+      <P>We are all aware of the unfortunate circumstances which gave rise to this Bill and to the Supreme Court judgment of 1992.  The Bill in its present form will create a number of ambiguities and I will highlight some of them.  The proposed amendments to the Constitution are as follows: &ldquo;The confidentiality of discussions at meetings of the Government shall be respected in all circumstances save only where the High Court determines that disclosure should be made in respect of a particular matter &mdash; i. in the interests of administration of justice by a Court, or ii.  by virtue of an overriding public interest.&rdquo; What is &ldquo;an overriding public interest&rdquo;?  Is it fair that we should leave the judge to determine what is an overriding public interest?  Surely it is up to the Cabinet, the Oireachtas and the people who set up the tribunal to define that?  If a judge determines that it is in the interest of the administration of the court he can order disclosure. That is a long way removed from determining what is of overriding public interest.</P>
+      <P>I propose that it should read as follows: &ldquo;The confidentiality of discussion at meetings of the Government shall be respected in all circumstances save where and in pursuant to an application on that behalf by a tribunal appointed by the Government of Ministers of the Government on the authority of the Houses of the Oireachtas.&rdquo; It is important that all authority remains with the Oireachtas and it should define for a judge what is of overriding public interest.</P>
+    </Speaker>
+    <P>It has been suggested it is almost impossible to stamp out corruption and to have democracy and <Col N="45" /> confidentiality at the same time.  The proposed amendments are an indication of what the Government intends to do in this respect.  The background to this legislation is unfortunate but I caution the Senators, we have a country to run and there are matters of international interest on European Community and many other issues to be dealt with.  Many of the problems from which this Bill originated are domestic.  We must keep in mind the interest of the country and deal with all issues in a proper manner.  We must be careful and keep discretion in Government.  The people have elected a Government to run the country and the courts will administer and enforce what the Government decides.</P>
+    <Speaker pid="FergalQuinn" hpid="Mr. Quinn Mr. Quinn">
+      <NameTxt>Mr. Quinn</NameTxt>
+      <P>I welcome the Taoiseach and hoped that I could have welcomed the Bill in the same manner.  Having listened to the Taoiseach today, I am gravely disappointed with the Bill and feel it is a disappointment to any citizen who hoped that the political and administrative machine might have learnt something from the past ten or 11 months.  The message this Bill sends is that nothing has changed.  Secrecy is still the name of the game and open, transparent government is as far away as ever.  It is particularly disappointing that, after three months in office following over two years in Opposition, the Government can do no more in its first piece of legislation than swallow whole the gravely flawed approach of its predecessor.</P>
+      <P>The Taoiseach explained this Bill, his first piece of legislation, very well and I congratulate him on trying to have it passed in time for the presidential election.  However, I am concerned that this is not being handled in the right way.</P>
+      <P>First, let me drive a nail through the heart of the myths that have grown up around Cabinet confidentiality.  The first myth is that absolute confidentiality is a long established part of how things are done.  It is not.  Let us remind ourselves that the idea of absolute confidentiality for Cabinet discussions, protected by the Constitution, is a totally new idea and not something that has been part of our political fabric since the beginning of the State, either implicitly or explicitly.  If it had been, as Senator O'Meara pointed out, no Cabinet Minister would ever have given interviews to historians and no Cabinet Minister would ever have written memoirs such as those written by Garret FitzGerald and Gemma Hussey. When they published their memoirs, we heard nothing about infringing the Constitution despite the fact that both books dealt heavily with discussions around the Cabinet table.</P>
+    </Speaker>
+    <P>The notion that absolute confidentiality has always been around is a myth.  The second myth is the supposed reason why absolute Cabinet confidentiality is now suddenly found to be a necessity.  The reason put forward is that it is an absolute prerequisite for collective Cabinet responsibility.  One cannot have collective responsibility without absolute confidentiality, so the argument goes.  That is nonsense.  There is no <Col N="46" /> necessary connection between the two.  There is some connection: I do not deny that confidentiality facilitates collective responsibility but it is no more than that.  It is simply wrong to suggest, either in practical or legal terms, that one cannot have collective responsibility if one does not have absolute confidentiality for Cabinet discussions.</P>
+    <P>The real reason for inventing absolute confidentiality was not to protect the concept of collective responsibility.  The real reason, as Senator Quill said, was to prevent evidence being given to the beef tribunal.  It was a last desperate attempt to stop the truth coming out at that tribunal and, unfortunately, it succeeded by a majority of three to two.  As if that was not bad enough, the notion of absolute confidentiality has now grown legs and the machine sees it as a very convenient way of keeping the shutters further closed on Government than has ever been the case up to now.</P>
+    <P>Commentators have pointed out, to the apparent indifference of the last two Governments, that this Bill makes the situation worse, not better.  In raising the veil for the purpose of the new tribunal that is being set up, it lowers the veil in other directions at the same time.</P>
+    <P>This Bill makes memoirs illegal if they touch on Cabinet discussions.  It makes talking to historians illegal.  These are profoundly bad things, because we are not talking about private matters but about matters of State, and it is right and proper that they should eventually come into the public domain.</P>
+    <P>The third myth is that this new concept of absolute confidentiality has had the smallest effect on those who want to flaunt it when it suits them.  Since 1992, when the notion was invented, as a matter of political expediency rather than a matter of the public interest, we have seen a massive increase in the amount of leaking about Cabinet discussions.  The message to the public has been clear: to protect ourselves in court or before tribunals we will use this concept but when it suits us to ignore it, for political reasons, then we will ignore it.</P>
+    <P>The people know this.  They know the concept was cobbled up out of the blue to keep information from them.  They know the concept is totally ignored when it suits some parties in government to do so.  What the people were looking for from a Cabinet confidentiality Bill was a new approach that would sweep the covertness and the hypocrisy away.  They were looking for a new start and they have not got it in this Bill.  I believe that in time this will prove to have been a profound political mistake.</P>
+    <P>Regarding what the approach should have been, I have had a change of mind, as two or three years ago I would have agreed with Senator Haughey, saying good management practice was to ensure what was said at a boardroom table was never to be disclosed.  When the Freedom of Information Bill was debated, I began to realise that there was another way.  This Bill is starting from the wrong end.  Its stance is that all Cabinet discussions carry an obligation of absolute confidentiality, <Col N="47" /> now and forever, except for the tiny exceptions set out in the Bill.  To approach things from this end is to endorse the culture of secrecy, the culture that says the public have no right to know about how they are governed.  It is saying: &ldquo;Everything is secret, except what we say is not secret.&rdquo;</P>
+    <P>The alternative approach was articulated by then Senator, now Deputy Roche, in arguing for his original Freedom of Information Bill.  That approach starts from the other end, that of openness and transparency.  This approach holds, in effect, that nothing is secret, nothing carries absolute confidentiality, except those few exceptions spelt out in legislation.</P>
+    <P>There is an enormous cultural gap between the two approaches, and we have chosen the wrong one.  We have chosen the approach of the past, not the approach of the future.  We have chosen the traditionally secret approach of the former power that colonised us, Britain, rather than the open and transparent approach which is the culture in many countries in the European Union and, in particular, the Scandinavian countries.</P>
+    <P>In making this choice, we have failed the people.  They do not want to look back to a secretive society; they want to look forward to an open one.  The people feel that the ways of secrecy have failed us, particularly now that the skeletons are beginning to emerge from the cupboards, and they want that to change.</P>
+    <P>In this legislation the Government had the opportunity to meet the people's needs.  It had the opportunity to take a decisive step along the road to regaining the people's respect for the institutions of Government.  Unfortunately, that opportunity has been spurned and instead a step in the opposite direction has been taken.</P>
+    <P>Compounding this mistake is the manner in which it has been taken.  This legislation is being rushed through under guillotine in the Dáil and with a refusal to amend it in any way.  Even more remarkably, the Taoiseach himself has admitted that it is flawed and incomplete legislation, which will need to be patched up later.</P>
+    <P>That is not how we should seek to amend the Constitution.  It is the duty of the Oireachtas to offer to the people only proposals that have been well thought out.  Instead, we seem to be approaching the amendment of the Constitution on a kind of trial and error basis.  I would dearly love to have welcomed this Government's first piece of legislation as being the first sign of a new kind of politics, a new kind of governance and a new beginning for the relationship between the Irish people and their governmental institutions. Unfortunately, this Bill does none of those things; worse, it seems to imply that no lessons have been learned.  If that proves to be the case, the price which will eventually be paid will be very high indeed.</P>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I welcome the Taoiseach to the House.  Like other Senators, I compliment him on <Col N="48" /> appearing in the Seanad during its very first sitting. His presence graces the House and lends status to it.  In the past, Seanad sittings might have passed through an entire period of Government without the Taoiseach ever appearing in the Upper House.</P>
+      <P>Having listened to the contributions which have been made and having heard the positions which have been adopted, I find myself standing four-square in favour of the remarks made by Senator Quinn and against those made by Senator Haughey.  I understand that Senator Haughey is concerned with public and private companies in the business sector and is concerned that decisions made could give an edge to competitors. It is obvious that there is a need for collective responsibility at the boardroom table.  At the same time, and in almost a contradictory fashion, the Senator underlined the importance of the Oireachtas in any decision which would be made in terms of relaxing such collective responsibility.  The way forward is for the Oireachtas to be the determining body; rather than having an overall, blanket restraint we should give the Oireachtas a degree of flexibility in matters other than those specified in this legislation.</P>
+      <P>I compliment the Taoiseach on introducing this legislation.  It is the first piece of legislation to come before the Houses of the Oireachtas and there is a certain degree of continuity here in that it was one of the last pieces of legislation put before the previous House.  That signifies continuity between the two Administrations.</P>
+      <P>The reasons for this amendment to the Constitution are well rehearsed and there is a degree of urgency about it.  The very unsatisfactory situation which arose in 1992 resulted in the Supreme Court decision which provided for absolute confidentiality in relation to the release of discussions which took place within the Cabinet.  That made it impossible for the beef tribunal inquiry to arrive at a satisfactory conclusion; the huge, long, unwieldy report of a 1,000 words or more had nothing conclusive about it at all.  Such lack of conclusion arose from the fact that the tribunal was unable to inquire into the whole area of beef refunds and decisions made in relation to them. A question mark hung over the entire report.</P>
+    </Speaker>
+    <P>If we are to have tribunals which will have the authority to fully investigate Cabinet matters we need to provide for disclosure of Cabinet documents and of discussions which occur at the Cabinet table.  The Bill is extremely welcome in that regard.  However, if one examines the text of the proposed amendment it refers only to matters which concern wrongdoing where a tribunal is set up to investigate a matter or where the High Court determines in the interest of the administration of justice.  That effectively responds to the grounds for the Supreme Court's decision. However, the Supreme Court looked at this matter in a narrow context; it made its decision in terms of the tribunal and in terms of the way in which the tribunal had been thwarted in achieving <Col N="49" /> its objective.  That does not mean that we should not look at having greater flexibility in terms of how we are going to deal with the question of confidentiality and disclosure in matters beyond those of corruption which are also in the arena of public importance and interest.  That is the core of the matter.</P>
+    <P>The amendment is fine as far as it goes but by putting it into the Constitution the line is drawn for all other matters that might be determined by law and we find ourselves with an even more restrictive position than that which previously existed.</P>
+    <P>This is certainly a dilemma.  The Labour Party was part of the Government which produced this piece of legislation but we now acknowledge that it is flawed and that it would benefit enormously from Committee Stage in which amendments could be tabled.  That is why the Labour Party tabled four amendments, one of which specifically stated&rdquo; Except in such limited cases as may be prescribed by law &ldquo;in order that we would provide for the relaxation of disclosure of discussions in relation to Cabinet confidentiality and where the Oireachtas could from time to time decide by law that such disclosure was in the public interest.  That is not too radical or outrageous a thing to look for.  It is absolutely reasonable.  At the moment, we are proposing to do something unreasonable in putting into the Constitution something which cannot be changed by the Oireachtas.  Therefore, as the Taoiseach himself admitted in the other House, we will have to revisit this particular amendment in the future. Why revisit it in the future when we can visit it now as it is being dealt with and ensure that we leave the potential and scope for the flexibility which is required?  That is all we are seeking; that would allow the Oireachtas at a future time to legislate for particular incidents and provisions in the interests of public order and justice.</P>
+    <P>If we examine the Constitution itself we will find a very good parallel in Article 40.  After the right to life, the second most important right is the right to liberty.  That right is enshrined in Article 40.4.1 which states that &ldquo;No citizen shall be deprived of his personal liberty save in accordance with law&rdquo;.  This Article allows for the matter to be legislated for, in accordance with law, under the Oireachtas and I suggest that is the manner in which it should be presented in this piece of legislation also.</P>
+    <P>There will be major problems to be addressed once this proposal is incorporated into the Constitution. How will we release documents under the National Archives Act in terms of what is proposed here?  Those are matters which do not come under the provisions of this new amendment. No court can make provision for them because it is not part of the administration of justice and has nothing to do with a tribunal of inquiry.  We will find ourselves in a situation where it will be very difficult to have any matters of this nature disclosed.  A major question will <Col N="50" /> arise about what has been accepted in the past in terms of the 30 year rule of disclosure of archive material where discussions are involved or in the case of somebody being interviewed by a historian about their term in office as a Minister. Where there is no question of crime or corruption and if it is in the public interest it is appropriate that such information be disclosed.</P>
+    <P>These are serious matters which must be examined and they include public records and historical documents.  If a Minister resigns from Cabinet, is that Minister forbidden from giving any public explanation if it revealed something that was discussed at the Cabinet table?  It is ludicrous that a Minister cannot justify his or her reason for resignation in a resignation speech before this House or elsewhere.  In future Ministers will be unable to write their memoirs without breaking the law. That is the position as proposed in this legislation.</P>
+    <P>A Minister will find it difficult if not impossible to reveal Cabinet discussions to senior civil servants who may have to implement decisions made during those discussions.  We are talking about a nonsensical position.  It is not too late to accept an amendment that will allow us regulate this matter by law, in addition to the provisions contained in this amendment to the Constitution.</P>
+    <P>I agree with the comments made by Senator Quinn about a more open and transparent society.  We should approach this problem from another angle.  We should seek to disclose everything rather than disclose only a small amount of information.  The public will not thank us for proceeding down this path.  It has already indicated its contempt for the way in which some political decisions have been taken, notably the secrecy surrounding those decisions and the inadequacies in the administration of our business.  The end result of that will be numerous leaks of information. The whole area of Cabinet confidentiality will be streamlined as a result of these provisions. That means that other matters for which we could legislate will be the subject of anonymous leaks to the media.  Those leaks will have to be anonymous because people will be subject to prosecution. Such matters should not be dealt with in this fashion.</P>
+    <P>I welcome the Bill in that it provides greater scope for the issues we will deal with tomorrow concerning the setting up of a tribunal to investigate matters of corruption.  I am disappointed, however, that neither the Minister nor the Taoiseach have seen fit to examine the provisions more closely with a view to dealing with their flaws and inadequacies but have put them on the long finger to be revisited at some time in the future.</P>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>I will not delay the House.  I am delighted to welcome the Taoiseach today.  Most of the points I wanted to make have already been made.  Like Senator Quill, I believe the general public is very suspicious of politicians.  While this legislation has the best of intentions, it may make the public even more suspicious because it is very <Col N="51" /> circumscribed.  The Taoiseach and the leader of Fine Gael in the House, Senator Manning, outlined the reasons it is so circumscribed but I wonder if that is absolutely necessary.  There is nothing worse than rumour.  It is always easier to deal with the facts but the way Cabinet deliberations are now to be considered will mean that we will have only rumours to deal with.  I acknowledge that only discussions and not details of decisions are being so circumscribed.  I would also like to know if the 30 year rule applies to those discussions.  The point made by Senator Costello and others about the difficulties Ministers may have in regard to resignation speeches is extremely important.</P>
+      <P>Since the Supreme Court judgment in 1992 we have probably had more leaks about what took place in Cabinet than ever before.  I am inclined to think this may become the order of the day, although I am not sure how the leaking vessels can be dealt with.  I ask the Taoiseach to consider accepting the amendments put down by the Labour Party as a possible means to extend the scope of the Bill, because what is intended to make a bad situation better may, in the view of the general public, make us seem more secretive than ever.  I realise that is not the intention of the Government but I fear that is what will happen and we may face greater difficulties in regard to dealing with the various leaks from Cabinet than we would if the facts had been produced at the outset.</P>
+    </Speaker>
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>As always, I found the comments made by the various speakers to be interesting, thought provoking and at times a little mind boggling.  Perhaps I did not make myself clear at the outset.  I appreciate the comments made by some speakers about the public's suspicion of politicians, but listening to this debate would make one suspicious when one hears people turning around the facts.</P>
+      <P>We are talking about the decisions made at Cabinet.  Since the Ambiorix case of 1991, it is possible for cart-loads of documents, files, memoranda, etc.  to be delivered to the courts or to whoever wants them.  Information relating to Cabinet discussions, however, cannot be made available.  I would like to see 15 Senators sitting around a table discussing the closure of a hospital in their area, a controversial proposal to build a prison or some other matter if those discussions were to be disclosed at some later time.  I know what would happen; the decisions would never be made.  Everyone would be boxing so cleverly that we would never run this small country of ours, which is difficult enough to do.</P>
+    </Speaker>
+    <P>I would love to know what goes on in the companies run by some of the speakers in this debate, including the details that lead to various decisions being made.  I would need to be here for another 1,000 years before getting to the bottom of that. We should not give the impression that documents, files, memoranda, etc.  cannot be obtained <Col N="52" /> in this country.  They can be obtained but information on discussions in Cabinet cannot be made available.  We cannot know if the Deputy from west Limerick said this or if the Deputy from west Donegal said that.  That is the only information one cannot get and we must not pretend otherwise.</P>
+    <P>I am not sure whether the public wants such information.  There is enough written in the newspapers every week about what goes on without the public wanting to know all the other titbits.  Throughout most of my ministerial life I did not listen to any small talk.  I made my decisions and then read the Sunday newspapers to find out what their writers thought was said at various Cabinet meetings. Those accounts always sounded better than the actual discussions.  Does anybody here really believe that the country will be better off if we know who argued with whom and who said what at the Cabinet table?  We will have the most open regime in Europe.  I do not want to comment on Israel but people there are forthcoming with the facts, because sometimes the alternatives are not too palatable if one does not speak the truth.</P>
+    <P>The American Cabinet meets twice a year for a photocall at which they give all the information. If the Irish Cabinet met twice a year we would be able to give all the facts at the photocall.  I thank Senators for being so entertaining but I wish to deal with the realities of the Bill.</P>
+    <P>I am glad there is cross-party consensus on the Bill.  However, I am aghast at the suggestion that the text of the proposed constitutional amendment is inadequate and that we are trying to rush it through.  This is not true, because the Bill was developed over a period of two and a half years by one of the brightest legal minds.  That person looked at the Ambiorix case of 1991 and the sorry saga of 1992 and tried to develop a proposal.  The parties in power looked at 23 drafts of the amendment and ultimately came to a conclusion on the matter.</P>
+    <P>I did not make a quick decision on the matter. A huge amount of background work and research was carried out.  For example, we looked at the position in New Zealand, Australia and other countries in trying to decide how best to deal with this issue.  This was clearly not an easy task, particularly when one looks at the three to two majority decision.  Of course there are different points of view on the matter.</P>
+    <P>I am surprised at the decision of the Labour Party to seek to amend the Bill.  I am particularly surprised at the provisions it seeks to amend because it was represented on the committee which looked at the 23 drafts.  It was left to me to take on the Bill, which the Labour Party leader recently called on me to bring forward.  When the amendments were debated in the Dáil I said that the Bill had been carefully drafted and their acceptance would lead to a reopening of the debate.  Amendment of the Bill is not a realistic option at present and I will not accept any amendments.</P>
+    <P>
+      <Col N="53" /> I wish to say to Senator Quinn that I could have taken the view that there was no point in proceeding with the legislation if people believed there was no need for it.  However, all the legal people to whom I spoke said it would be very beneficial for the tribunal.  I will not tell Independents in the Dáil or Seanad that they should not look at this issue as it would be entirely wrong.  If they believe there should be cameras at Cabinet meetings and the public should be informed about everything that is said then I will listen to their points.  If the committee believes that our regime, which is one of the most liberal in Europe, should be made more liberal next year I will examine its proposals.</P>
+    <P>The previous Government looked at this matter over a two year period and took advice from the best legal brains.  I have the highest regard for Dermot Gleeson and believe it was worthwhile bringing the Bill forward.  This is not to say people do not have questions about the Bill.  I will seek to answer any fair questions which were raised.</P>
+    <P>The legal advice available to the Government is that disclosure for historical or archival purposes of material relating to discussions at Government meetings is not permissible under the Supreme Court ruling.  The minutes, which are available, record the decisions reached by Government, not all the points made.  In one case a Government Secretary made more detailed notes and if they are in the archives then they can be made available.  On the point made by Senators Manning and Quill, my legal advice is that data which is already in the public domain will remain there.  There are no detailed minutes of meetings.  The minutes taken at a Cabinet meeting set out the decisions, which by and large are public knowledge.  Following meetings the decisions are discussed by departmental secretaries and officials and are used to brief the media. Some information in the minutes may not be made public until it is required.</P>
+    <P>I was asked about the 30 year rule.  Cabinet documents, the memoranda and decisions of Government are available for public inspection, subject, of course, to the normal archival rules as regards national security.  The proposed constitutional amendment will not interfere with this position.  Documents are a major source of material for historians and long may that be the case.  As regards records of discussions at Cabinet, official papers rarely if ever contain details of lengthy discussions.  I referred to the decision in the l991 case.</P>
+    <P>Senator Quinn asked when all this started. While it was raised at the tribunal in l992, it is part of the l937 Constitution which refers to collective responsibility.  On the question of archival material containing details of decisions, information already in the public domain will remain there.  The issue of archival material under the 30 year rule is important and merits more detailed analysis.  We will not resolve this issue in the short term but the all-party committee should look at <Col N="54" /> it and put forward new proposals.  Any such proposals could presumably have retrospective effect.</P>
+    <P>In so far as details exist they should be in the public domain.  The days of massive secrecy are long gone.  I would argue as to whether there is great secrecy now.  I know where the story came from that if one resigned one could not state that in one's memoirs.  Because of the number of people who have written their memoirs in the past 20 years that I have been a Member of the Dáil they will no longer be best sellers.</P>
+    <P>People who sat around the same table in the past do not all agree about what happened there. They either suffer from a loss of the memory or put different emphasis on events.  I will not pronounce on whether those details are legal or illegal, but the memoirs written to date contain many references to what went on at such meetings. Members of this House elected to the Lower House in the future who become Cabinet members, or Cabinet members from this House, for which there are many precedents, might believe that if they resign they cannot tell the world that they have done so.  All a Cabinet member has to do is to leave the Cabinet room and write a letter of resignation.  Because it is written outside the Cabinet room, he or she can include any details he or she wishes and place the letter on notice boards anywhere in the country and will not have broken the law.  Members resigning from Cabinet in the future should not be concerned about publishing details of meetings.  There are many other important matters which should concern members of Parliament.</P>
+    <P>I appreciate the co-operation of the House in taking this legislation.  I am advised it will be beneficial in limited areas of the tribunal.  It affords us an opportunity to honour a commitment given by every party and the Independents that we would deal with this matter expeditiously as part of the presidential campaign.  We are honouring our commitment to the electorate in doing what we said.  If other matters of concern arise in the future, as inevitably will happen, we will use our collective wisdom to deal with them.</P>
+    <P>As Senator Manning said, the passing of this legislation will not mark the end of the debate on this issue and that is not a bad thing.  People's attitudes will change and technology and systems of communication will change.  I am not sure that there will be change to the extent that people will feel compelled to have access to all details.  Many of our good friends in the media could be put out of work if all the details of Cabinet meetings were made public every Tuesday.  What would they do between Tuesday and Thursday each week if they did not have to try to find out what happened at Cabinet meetings?  It would ruin an interesting part of the entertainment associated with being a Member of the Houses of the Oireachtas in these times.  I do not believe anything will be lost in that regard.</P>
+    <P>Many controversies arose in 1992.  The Secretary of the then Government said that if the <Col N="55" /> papers available had been made public, it would not have made any difference because the details of the discussion would not have clarified the issue.  That is the view of an eminent man who has retired from the public service and is highly respected by all Members of this House.</P>
+    <P>I am advised the protection of historical and archival information will not be affected.  I agree with the Senators that we should make sure we consider those broader areas as we move forward. Deputy Jim O'Keeffe, who did an excellent job in chairing the last committee and had the support of members of all parties, did not consider this issue.  He agreed to wait for the results of the work of the Government committee and Mr. Dermot Gleeson.  I am sure they would now be glad to consider this matter and the way to go if further changes are made.  A package of other measures will be considered.  Dr. Whitaker's report provides the basis for the package which may take another two or three years to publish. It is inevitable that a range of constitutional changes will be made to take account of the European and world scene in the next four or five years, if not in the life of this Dáil and Seanad. Many issues need to be updated.  The best way to proceed is for the all-party committee to complete its work in the form of a package which we could sell to the electorate on the basis of clearly understood parameters.  There are ten or 15 issues that require amendment.  I ask Senators to support this legislation to allow us to move forward. They are correct in stating it does not represent earth shattering changes, but this issue does not require such a change.  If in future it requires such a change we can resume work on it.  This Bill represents a great deal of work undertaken by a committee made up of politicians and legal representatives. If I had reviewed that work I would not have been able to bring this legislation to the House until some time next year.  I do not believe unnecessary work is beneficial.  If further work is required in this regard, as my colleague Senator O'Donovan said, the all-party committee is there to do it.  I ask Senators to support the Bill to enable a constitutional referendum on 30 October which I hope the people will support.</P>
+    <P>Cuireadh agus aontaíodh an cheist.</P>
+    <P>Question put and agreed.</P>
+    <Speaker pid="MichaelFinneranFF" hpid="Acting Chairman (Mr. Finneran) Acting Chairman (Mr. Finneran)">
+      <NameTxt>Acting Chairman (Mr. Finneran)</NameTxt>
+      <P>When is it proposed to take Committee Stage?</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>Now.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>We indicated on the Order of Business that we were unhappy with the proposal to take all Stages of the Bill today.  There is nothing more important than constitutional amendments.  Therefore, Committee and other Stages should be deferred until tomorrow to <Col N="56" /> allow an opportunity to table further amendments and for other groups to table amendments.</P>
+      <P>Cuireadh agus aontaíodh an cheist: &ldquo;Go dtógfar Ceím an Choiste anois&rdquo;.</P>
+      <P>Question, &ldquo;That Committee Stage be taken now&rdquo;, put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="An Bille um an Seachtú Leasú Déag ar an mBunreacht (Uimh. 2), 1997: An Coiste agus na Céimeanna" RHead="Deiridh. Seventeenth Amendment of the Constitution (No. 2) Bill, 1997: Committee and Remaining Stages">
+    <Title>An Bille um an Seachtú Leasú Déag ar an mBunreacht (Uimh.  2), 1997: An Coiste agus na Céimeanna Deiridh.   Seventeenth Amendment of the Constitution (No. 2) Bill, 1997: Committee and Remaining Stages.</Title>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>As the substance of the debate on the Bill will relate to the wording of the proposed constitutional amendment contained in the Schedule to the Bill and since it would be appropriate to have that Schedule decided upon before deciding on section 1 of the Bill, which provides for the insertion into the Constitution, I suggest the House postpone consideration of sections 1 and 2 of the Bill until after the Schedule has been agreed.  This is a procedure which has been adopted on Committee Stage in the Seanad in the case of previous Bills to amend the Constitution and which I suggest would lend itself to a more logical and ordered debate.  In accordance with Standing Order 89 I ask the Leader of the House to move that consideration of sections 1 and 2 of the Bill be postponed until the Schedule has been disposed of.</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>I move:</P>
+      <P>That, in accordance with Standing Order 89, the consideration of sections 1 and 2 of the Bill be postponed until the Schedule shall have been disposed of.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">AN SCEIDEAL.</P>
+      <P Just="Center">SCHEDULE.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Amendments Nos. 1 and 2 to the Bill and amendments Nos. 1 and 2 to the motion, No. 6 on the Order Paper, are related and may be discussed together.  Is that agreed? Agreed.</P>
+    </Speaker>
+    <Speaker pid="PatGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>Tairgim leasúa 1:</P>
+      <P>I leathanach 7, líne 3, &ldquo;Déanfar&rdquo; a scriosadh agus &ldquo;Cé is moite de na cásanna teoranta sin a fhorodófar le dlí, déanfar&rdquo; a chur ina ionad,</P>
+      <P Just="Center">agus</P>
+      <P>i leathanach 7, líne 13, &ldquo;The&rdquo; a scriosadh agus &ldquo;Except in such limited cases as may be prescribed by law, the&rdquo; a chur ina ionad.</P>
+      <P>I move amendment No. 1:</P>
+    </Speaker>
+    <P>
+      <Col N="57" /> In page 6, line 3, to delete &ldquo;Déanfar&rdquo; and substitute &ldquo;Cé is moite de na cásanna teoranta sin a fhorodófar le dlí, déanfar&rdquo;,</P>
+    <P Just="Center">and</P>
+    <P>In page 6, line 13, to delete &ldquo;The&rdquo; and substitute &ldquo;Except in such limited cases as may be prescribed by law, the&rdquo;.</P>
+    <P>The proposal here follows on from the points made by a number of speakers from this side on Second Stage concerning the necessity to have the wording as near perfect as possible.  This is the first time since 1937 this section of constitutional law is to be put before the people for amendment.  It is worth getting right because we do not want to wait for another tribunal of inquiry or some other event of public interest to arise to find that the provisions we are putting before the people are not sufficient.  If amended, paragraph 1 of the Schedule would read:</P>
+    <P>.. Except in such limited cases as may be prescribed by law, the confidentiality of discussions at meetings of the Government shall be respected.  .. save only where the High Court determines that disclosure should be made in respect of a particular matter&mdash;...</P>
+    <P>The purpose of this amendment is to allow for certain additional limited cases of disclosure of Cabinet discussions to be specified by law.  I accept that the proposals which were agreed by the previous Government and which have been endorsed by this Government and presented by the Taoiseach deal with the problems that arose in the beef tribunal.  However, the Supreme Court judgment in that matter set out the principle of Cabinet confidentiality but did so only in the context of tribunals.  The court did not rule on all possible cases of relaxation of confidentiality.  It should be possible to retain some flexibility in legislation and that is what is being proposed.</P>
+    <P>The Taoiseach addressed questions in relation to the National Archives Act.  He referred to the records of discussions at Cabinet by saying they do not often arise.  It may be in the public interest at some stage that these records would be available for disclosure by way of a method other than that outlined in the legislation.</P>
+    <P>Reference has been made today to the article by Gerard Hogan in <i>The Irish Times</i> of 15 September. He outlined three cases where this legislation might preclude accounts of discussions being given: Terence de Vere White's account of the Government discussions in December 1922, leading to the execution of Rory O'Connor; John Bowman's account in <i>de Valera and the Ulster Question</i> of the debate in government in June 1940, in respect of relations and discussions between the British and Irish Governments in the context of the Second World War, and Noel Browne's account of the lack of discussion regarding the decision to leave the Commonwealth. These are matters of public interest and are certainly of interest to political scientists and historians.</P>
+    <P>
+      <Col N="58" /> Despite the Taoiseach's assurances I still believe this type of discussion would be precluded by law.  The situation would be made worse by virtue of the constitutional amendment were we not to make provision for the Oireachtas to make further exceptions in the future.  We are not talking about major but limited exceptions.</P>
+    <P>Under this legislation we trust the High Court to make a decision in the case of a legal matter and a tribunal to go to the High Court to follow up this matter, but we do not trust these Houses to take account of the admitted shortcomings that may arise in the future.  These have been admitted by speakers in the debate here and by speakers in the other House.</P>
+    <P>I remind the House that Senator Quill has raised some of these matters for discussion.  During the Dáil debate a number of Deputies on the Government side &mdash; for example, Deputy Lenihan &mdash; thought these arguments had much merit and Deputy O'Malley said our amendments should be accepted by the Government.</P>
+    <P>In the interests of not having to come back in a number of years to tease this matter out at length and given the difficulty experienced since the beef tribunal, I urge the Government to accept this amendment which seeks to entrust to the Houses of the Oireachtas the power to decide in the public interest in the future that further exceptions in respect of Cabinet confidentiality can be made by law.</P>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I have listened carefully to what has been said and, while I have some sympathy with what Senator Gallagher is proposing, I could not support his amendment.  As the Taoiseach pointed out, this matter received the most detailed attention from some of the best legal minds &mdash; disinterested people who were seeking to resolve a particular problem which arose out of the Supreme Court decision.  As leader of the House in the last Government I was a member of the Government legislation committee and I was aware of the efforts, the various drafts and the attempt by an Attorney General and his staff to resolve this problem.  What we have now is probably the best that is possible under the circumstances. I do not want to say at this stage that over the past two and a half years I took a particular point of view; I supported the document which emerged, not simply because it was produced by the Government of which I was a supporter but because I believed from talking to the people involved it was their best possible answer to the particular problem.  I am not saying now, simply because I am in Opposition, that the Labour position is other than totally sincere and that I am going to change my position.</P>
+    </Speaker>
+    <P>On the positive side, I was taken by the frankness of the Taoiseach in his reply.  He addressed the questions honestly and in a practical and commonsense way and tried to get to grips with the reality of the problems concerned.  He made the position clear concerning former members of Government writing their memoirs, issuing statements <Col N="59" /> and going on television programmes to justify their position.  Any danger there may have been of a former Minister being locked away because he or she revealed the nature of a row, a discussion, or their particular version of events was satisfactorily cleared up.</P>
+    <P>The question of Cabinet discussions is an interesting one.  I have never been a member of the Cabinet and unlikely to be at this stage, but who knows?</P>
+    <Speaker pid="" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>The Senator might be.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I am always ready to be drafted in.  I have had the experience, professionally, of reading the minutes of Cabinet discussions.  It is interesting that in the early days of the State the record of the discussions was much fuller than it later became.  That did not last very long.  In the first decade frequently there would be references to the point of view taken by particular Ministers &mdash; simply that this point of view was taken by Minister A, this view by Minister B and this was the decision arrived at.  From the early 1930s the only record of Cabinet discussions I have come across is simply the decision taken but not the points of view.  I do not think a great deal will be learned so long as we have the assurance that the National Archives Act is not superseded.  The Taoiseach has given a strong commitment in the event of any problems arising they will be examined either in the context of the all-party committee or by his Department.  I am fairly happy with what he has said.</P>
+      <P>The prime purpose here is to ensure that when the new tribunal sits it will not be hampered in the same way as was the beef tribunal by the decision of the Supreme Court in 1992.  I will not be supporting these amendments.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I am disappointed that Senator Manning has indicated he will not be supporting the amendments because there was widespread support in the Dáil when the legislation was discussed there.  We are not itemising new specific areas of disclosure.  We are proposing that the confidentiality of discussions should remain except in such limited cases as may be prescribed by law and that we do not need to revisit this area with a new constitutional amendment.  That is the difference between our approach and that of the Taoiseach.  The Taoiseach agrees that at some future date we may have to revisit this area. However, the only way we can do so is by way of constitutional referendum.  Why should we put ourselves through the difficulty and expense of doing that when we can provide for the making of regulations by virtue of the powers conferred on us by the Oireachtas?</P>
+    </Speaker>
+    <P>We are not interested in tittle tattle, items of scandal, sharp interjections or anything of that nature made across the Cabinet table.  We would not have this amendment before us had the beef tribunal not reported that it was thwarted in its <Col N="60" /> efforts to complete its report by virtue of not having access to the discussions that gave rise to decisions at the Cabinet table.  Clearly there are important matters dealt with in discussions that may not come out in documents.  Why should we not cover these exigencies of public interest that are not specifically prescribed in this legislation? It may be, as the secretary to whom the Taoiseach refers said, that there was little in the discussions of 1992 which would have thrown light on the difficulties of the refund problem at the time, but that was not the conclusion of the chairman of the tribunal.  Certainly the huge question mark over the findings of that tribunal resulted from the chairman's inability to probe discussions when the statements of the principals interviewed at the time conflicted.  Because he was unable to find out what exactly went on, the chairman could not come to a decision on the matter.</P>
+    <P>Perhaps the Taoiseach would clarify the situation in 1992 when the then Taoiseach, Deputy Albert Reynolds, directed that documents be made available from the National Archives and said he was doing so because there was no formal and definitive ruling prohibiting such disclosure. Is that still the case and could we still have such disclosure seeing that such documents were part of the discussions at the time?</P>
+    <Speaker pid="DennisODonovan" hpid="Mr. O'Donovan Mr. O'Donovan">
+      <NameTxt>Mr. O'Donovan</NameTxt>
+      <P>Senator Manning has covered most of the points I wanted to make.  I am glad to note he is supporting the Government.  It is crucially important to emphasise that as a result of the Ambiorix case in 1991 the matter of documents is no longer an issue.  The High Court decision allowed all documents to be made available as required by the High Court.  What is at issue here, what has arisen from the beef tribunal, is the necessity that may arise for discussions at Cabinet to be opened up in a similar fashion. These issues have been teased out <i>ad nauseam</i> over the past 30 months by the three parties in the outgoing Government, Fine Gael, Labour and Democratic Left.  Subsequent to this an independent constitutional review group reported at length and concluded that the possibility that Cabinet confidentiality might in some circumstances be lifted could inhibit discussion and therefore the effectiveness of Government.  All parties support the concept that Cabinet confidentiality should be retained as a constitutional requirement.  That was put in place in the 1937 Constitution and should be retained as far as possible.</P>
+      <P>One of the amendments suggested that legislative measures should be introduced that would, from time to time, change this.  That would take from the constitutional protection given to the Cabinet on these issues.  Despite the sincerity of the Labour Party's amendments, they are unnecessary.  The Taoiseach's proposal is carrying on the baton of the last Government's proposals. They are reasonable and have been debated for a long time.  They should be passed without amendment.</P>
+    </Speaker>
+    <Col N="61" />
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Regarding Senator Costello's question, the position is still the same.  Data could be released from the National Archives.</P>
+    </Speaker>
+    <Speaker pid="JoeCostelloLAB" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>Does the Taoiseach have advice from the Attorney General to that effect?</P>
+    </Speaker>
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>That is my advice.</P>
+      <P>Tarraingíodh siar an leasú faoi chead.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Níor tairgeadh leasú a 2.</P>
+      <P>Amendment No. 2 not moved.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>We now come to amendment No. 3.  Is it agreed to discuss Amendment No. 3 to the motion, item 6, with amendment No. 3?  Agreed.</P>
+    </Speaker>
+    <Speaker pid="PatGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>Tairgím leasú a 3:</P>
+      <P>i leathanach 7, líne 8, &ldquo;ó bhinse&rdquo; a scriosadh agus &ldquo;ón gcomhalta nó ó na comhaltaí de bhinse&rdquo; a chur ina ionad, agus</P>
+      <P>i leathanach 7, líne 20, &ldquo;the member or members of&rdquo; a chur isteach in ndiadh &ldquo;by&rdquo; sa chéad áit a bhfuil sé.</P>
+      <P>I move amendment No. 3:</P>
+      <P>In page 6, line 8, to delete &ldquo;ó bhinse&rdquo; and substitute &ldquo;ón gcomhalta nó ó na comhaltaí de bhinse&rdquo;</P>
+      <P Just="Center">and</P>
+      <P>In page 6, line 20, after &ldquo;by&rdquo; where it firstly occurs, to insert &ldquo;the member or members of&rdquo;.</P>
+      <P>We tabled this amendment to try to get clarification on whether the tribunal itself is or is not a legal person.  We are advised that the tribunal may not be a legal person in the sense of being recognised as being empowered to make the application as specified in this part of the legislation. It is in an effort to try to improve clarity that we are suggesting the inclusion of a specification that it should be a member or members of the tribunal.</P>
+    </Speaker>
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I am advised that to permit a member or members of the tribunal to make an application to the High Court for disclosure of discussions would make the whole tribunal mechanism unworkable.  A tribunal set up under the Tribunal of Inquiries (Evidence) Acts must operate in a unified way if it is to achieve results.  It would be very difficulty to envisage the chairman of a tribunal presiding over a situation where one of its members overruled him or her and sought to make an application to the High Court in respect of Cabinet discussions.</P>
+    </Speaker>
+    <P>
+      <Col N="62" /> This issue has been the source of some lengthy debate and that was the conclusion reached which clarified the position.</P>
+    <Speaker pid="PatGallagher" hpid="Mr. Gallagher Mr. Gallagher">
+      <NameTxt>Mr. Gallagher</NameTxt>
+      <P>To be absolutely clear about it, is it the Taoiseach's advice that the tribunal will be a legal body which will have the right to make the application outlined here?</P>
+    </Speaker>
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Yes. Tarraingíodh siar an leasú faoi chead.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Aontaíodh an Sceideál.</P>
+      <P>Schedule agreed to.</P>
+      <P>Aontaíodh le haltanna 1 agus 2.</P>
+      <P>Sections 1 and 2 agreed to.</P>
+      <P>Aontaíodh leis an Teideal.</P>
+      <P>Title agreed to.</P>
+      <P>Tuairiscíodh an Bille gan leasú, glacadh é chun an bhreithniú deiridh a dhéanamh air agus ritheadh é.</P>
+      <P>Bill reported without amendment, received for final consideration and passed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Ráiteas faoi Eolas do Vótálaithe: Tairiscint." RHead="Statement for Information of Voters: Motion">
+    <Title>Ráiteas faoi Eolas do Vótálaithe: Tairiscint.   Statement for Information of Voters: Motion.</Title>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>Tairgim:</P>
+      <P>&ldquo;Go ndéanfar an ráiteas atá leagtha amach sa Sceideal a ghabhann leis an Rún seo a fhorordú mar eolas do vótálaithe de bhun alt 23 d'Acht an Reifrinn, 1994 (Uimh.  12 de 1994), i ndáil leis an togra chun Airteagal 28 den Bhunreacht a leasú, atá ar áireamh sa Bhille um an Seachtú Leasú Déag ar an mBunreacht (Uimh.  2), 1997.</P>
+      <P>I move:</P>
+      <P>That the statement set out in the Schedule to this Resolution be prescribed for the information of voters pursuant to section 23 of the Referendum Act, 1994 (No. 12 of 1994), in relation to the proposal to amend Article 28 of the Constitution which is contained in the Seventeenth Amendment of the Constitution (No. 2) Bill, 1997.</P>
+      <P Just="Center">An Sceideal</P>
+      <P Just="Center">Schedule</P>
+      <P>1.  Is é atá beartaithe leis an mBille um an Seachtú Leasú Déag ar an mBunreacht (Uimh. 2), 1997, an fo-alt seo a leanas a chur isteach i ndiaidh fho-alt 2º d'alt 4 d'Airteagal 28 den Bhunreacht:</P>
+    </Speaker>
+    <P>
+      <Col N="63" /> 1.  The Seventeenth Amendment of the Constitution (No. 2) Bill, 1997, proposes to insert the following subsection after subsection 2º of section 4 of Article 28 of the Constitution:</P>
+    <P>&lsquo;3º Déanfar rúndacht na bpléití ag cruinni-the den Rialtas a urramú i ngach toisc ach amháin i gcás ina gcinnfidh an Ard-Chúirt gur ceart nochtadh a dhéanamh i dtaobh ní áirithe</P>
+    <P>&lsquo;3º The confidentiality of discussions at meetings of the Government shall be respected in all circumstances save only where the High Court determines that disclosure should be made in respect of a particular matter</P>
+    <P>(i) ar mhaithe le riaradh cirt ag Cúirt, nó</P>
+    <P>(i) in the interests of the administration of justice by a Court, or</P>
+    <P>(ii) de bhua leasa phoiblí sháraithigh, de bhun iarratais chuige sin ó bhinse arna chea-padh ag an Rialtas nó ag Aire den Rialtas le húdarás Thithe an Oireachtais chun fiosrú a dhéanamh faoi ní a luafaidh siad ina thaobh go bhfuil tábhacht phoiblí ann.'.</P>
+    <P>(ii) by virtue of an overriding public interest, pursuant to an application in that behalf by a tribunal appointed by the Government or a Minister of the Government on the authority of the Houses of the Oireachtas to inquire into a matter stated by them to be of public importance.'.</P>
+    <P>2.  MÁ THOILÍONN TÚ leis an togra, cuir X os coinne an fhocail TÁ ar an bpáipéar ballóide.</P>
+    <P>
+      <Col N="64" /> 2.  IF YOU APPROVE of the proposal, mark X opposite the word YES on the ballot paper.</P>
+    <P>3.  MURA dTOILÍONN TÚ leis an togra, cuir X os coinne an fhocail NÍL ar an bpáipéar ballóide.</P>
+    <P>3.  IF YOU DO NOT APPROVE of the proposal, mark X opposite the word NO on the ballot paper.</P>
+    <P>4.  Is féidir cóip den Bhille a iniúchadh nó a fháil saor in aisce in aon Phost-Oifig.</P>
+    <P>4.  A copy of the Bill can be inspected or obtained free of charge at any Post Office.&rdquo;</P>
+    <P>Cuireadh agus aontaíodh an cheist.</P>
+    <P>Question put and agreed to.</P>
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I thank Members of the House, both those on the Government side and in Opposition, for their co-operation.  The passage of this Bill will allow the referendum details to be completed in sufficient time.  I thank Senators for taking the matter on their first day back and I appreciate their courtesy in doing so. I will be back in the House again tomorrow morning.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>When is it proposed to sit again?</P>
+    </Speaker>
+    <Speaker pid="DonnieCassidyFF" hpid="Mr. Cassidy Mr. Cassidy">
+      <NameTxt>Mr. Cassidy</NameTxt>
+      <P>Tomorrow morning.</P>
+      <P>The Seanad adjourned at 6.45 p.m. until 10.30 a.m. on Thursday, 18 September 1997.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,325 @@
+<depts>
+  <dept>
+    <deptcode>Taoiseach</deptcode>
+    <deptname>Taoiseach</deptname>
+    <sdate>1922-01-01</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Agriculture</deptcode>
+    <deptname>Agriculture, Food and Forestry</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Arts</deptcode>
+    <deptname>Arts, Heritage, Gaeltacht and the Islands</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Defence</deptcode>
+    <deptname>Defence</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Education</deptcode>
+    <deptname>Education, Science and Technology</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Enterprise</deptcode>
+    <deptname>Enterprise, Employment and Trade</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Environment</deptcode>
+    <deptname>Environment</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Family</deptcode>
+    <deptname>Social Community and Family Affairs</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Finance</deptcode>
+    <deptname>Finance</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Foreign</deptcode>
+    <deptname>Foreign Affairs</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Health</deptcode>
+    <deptname>Health and Children</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Justice</deptcode>
+    <deptname>Justice, Equality and Law Reform</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Marine</deptcode>
+    <deptname>Marine</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>PublicEnterprise</deptcode>
+    <deptname>Public Enterprise</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Resources</deptcode>
+    <deptname>Natural Resources</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Tourism</deptcode>
+    <deptname>Tourism, Sport and Recreation</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Transport</deptcode>
+    <deptname>Transport, Energy and Communications</deptname>
+    <sdate>1997-04-25</sdate>
+    <edate>2002-06-05</edate>
+  </dept>
+  <dept>
+    <deptcode>Agriculture</deptcode>
+    <deptname>Agriculture and Food</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2007-06-13</edate>
+  </dept>
+  <dept>
+    <deptcode>Arts</deptcode>
+    <deptname>Arts, Sport and Tourism</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2010-05-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Communications</deptcode>
+    <deptname>Communications, Marine and Natural Resources</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2007-06-13</edate>
+  </dept>
+  <dept>
+    <deptcode>Community</deptcode>
+    <deptname>Community, Rural and Gaeltacht Affairs</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2010-06-29</edate>
+  </dept>
+  <dept>
+    <deptcode>Defence</deptcode>
+    <deptname>Defence</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Education</deptcode>
+    <deptname>Education and Science</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2010-05-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Enterprise</deptcode>
+    <deptname>Enterprise, Trade and Employment</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2010-05-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Environment</deptcode>
+    <deptname>Environment, Heritage and Local Government</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2011-05-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Family</deptcode>
+    <deptname>Social and Family Affairs</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2010-05-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Finance</deptcode>
+    <deptname>Finance</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Foreign</deptcode>
+    <deptname>Foreign Affairs</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2011-06-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Health</deptcode>
+    <deptname>Health and Children</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2011-06-03</edate>
+  </dept>
+  <dept>
+    <deptcode>Justice</deptcode>
+    <deptname>Justice, Equality and Law Reform</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2010-06-29</edate>
+  </dept>
+  <dept>
+    <deptcode>Tanaiste</deptcode>
+    <deptname>Tánaiste</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Transport</deptcode>
+    <deptname>Transport</deptname>
+    <sdate>2002-06-06</sdate>
+    <edate>2007-06-13</edate>
+  </dept>
+  <dept>
+    <deptcode>Agriculture</deptcode>
+    <deptname>Agriculture, Fisheries and Food</deptname>
+    <sdate>2007-06-14</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Communications</deptcode>
+    <deptname>Communications, Energy and Natural Resources</deptname>
+    <sdate>2007-06-14</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Transport</deptcode>
+    <deptname>Transport and the Marine</deptname>
+    <sdate>2007-06-14</sdate>
+    <edate>2011-04-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Arts</deptcode>
+    <deptname>Tourism, Culture and Sport</deptname>
+    <sdate>2010-05-02</sdate>
+    <edate>2011-06-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Education</deptcode>
+    <deptname>Education and Skills</deptname>
+    <sdate>2010-05-02</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Enterprise</deptcode>
+    <deptname>Enterprise, Trade and Innovation</deptname>
+    <sdate>2010-05-02</sdate>
+    <edate>2011-06-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Family</deptcode>
+    <deptname>Social Protection</deptname>
+    <sdate>2010-05-02</sdate>
+    <edate>2011-03-08</edate>
+  </dept>
+  <dept>
+    <deptcode>Community</deptcode>
+    <deptname>Community, Equality and Gaeltacht Affairs</deptname>
+    <sdate>2010-06-30</sdate>
+    <edate>2011-06-02</edate>
+  </dept>
+  <dept>
+    <deptcode>Justice</deptcode>
+    <deptname>Justice and Law Reform</deptname>
+    <sdate>2010-06-30</sdate>
+    <edate>2011-04-01</edate>
+  </dept>
+  <dept>
+    <deptcode>Social</deptcode>
+    <deptname>Social Protection</deptname>
+    <sdate>2011-03-09</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Justice</deptcode>
+    <deptname>Justice and Equality</deptname>
+    <sdate>2011-04-02</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Transport</deptcode>
+    <deptname>Transport, Tourism and Sport</deptname>
+    <sdate>2011-04-02</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Environment</deptcode>
+    <deptname>Environment, Community and Local Government</deptname>
+    <sdate>2011-05-02</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Arts</deptcode>
+    <deptname>Arts, Heritage and Gaeltacht Affairs</deptname>
+    <sdate>2011-06-02</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Enterprise</deptcode>
+    <deptname>Jobs, Enterprise and Innovation</deptname>
+    <sdate>2011-06-02</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Foreign</deptcode>
+    <deptname>Foreign Affairs and Trade</deptname>
+    <sdate>2011-06-02</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Children</deptcode>
+    <deptname>Children and Youth Affairs</deptname>
+    <sdate>2011-06-03</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Expenditure</deptcode>
+    <deptname>Public Expenditure and Reform</deptname>
+    <sdate>2011-06-04</sdate>
+    <edate>
+    </edate>
+  </dept>
+  <dept>
+    <deptcode>Health</deptcode>
+    <deptname>Health</deptname>
+    <sdate>2011-06-04</sdate>
+    <edate>
+    </edate>
+  </dept>
+</depts>

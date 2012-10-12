@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Thu" Date="1" Month="Apr" Year="1954" Vol="145" No="4" DateIrish="Déardaoin, 1 Aibreán 1954" DateEnglish="Thursday, 1 April 1954" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="421" /> Do chuaigh an Ceann Comhairle i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions." RHead="Oral Answers. - Dollar Imports">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Dollar Imports.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Taoiseach if <Col N="422" /> he will state the quantity and value of the principal imports from countries in the dollar area during the 12 months ended 31st December, 1953.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain) (for the Taoiseach) Donnchadh Ó Briain">
+      <NameTxt>Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain) (for the Taoiseach)</NameTxt>
+      <P>I propose, with the permission of the Ceann Comhairle, to circulate in the Official Report a statement giving the required information.</P>
+      <P>Following is the statement:&mdash;</P>
+      <P Just="Center">PRINCIPAL COMMODITIES IMPORTED FROM COUNTRIES IN THE DOLLAR AREA IN 1953.</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="4">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="14*" align="center">
+        </colspec>
+        <colspec colname="3" colnum="3" colwidth="18*" align="center">
+        </colspec>
+        <colspec colname="4" colnum="4" colwidth="18*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Country of Origin and Commodity</entry>
+            <entry rowsep="1">Unit of Quantity</entry>
+            <entry rowsep="1">Quantity</entry>
+            <entry rowsep="1">Value</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>UNITED STATES OF AMERICA:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>£</entry>
+          </row>
+          <row>
+            <entry>Wheat</entry>
+            <entry>cwt.</entry>
+            <entry>622,093</entry>
+            <entry>899,838</entry>
+          </row>
+          <row>
+            <entry>Maize</entry>
+            <entry>,,</entry>
+            <entry>3,864,653</entry>
+            <entry>5,436,386</entry>
+          </row>
+          <row>
+            <entry>Oilseed cake and meal</entry>
+            <entry>,,</entry>
+            <entry>97,501</entry>
+            <entry>134,729</entry>
+          </row>
+          <row>
+            <entry>Raisins and sultanas</entry>
+            <entry>,,</entry>
+            <entry>62,067</entry>
+            <entry>224,487</entry>
+          </row>
+          <row>
+            <entry>Other dried fruit</entry>
+            <entry>,,</entry>
+            <entry>12,117</entry>
+            <entry>75,611</entry>
+          </row>
+          <row>
+            <entry>Glucose</entry>
+            <entry>,,</entry>
+            <entry>67,715</entry>
+            <entry>177,649</entry>
+          </row>
+          <row>
+            <entry>Tobacco, unmanufactured</entry>
+            <entry>lb.</entry>
+            <entry>16,556,618</entry>
+            <entry>4,362,223</entry>
+          </row>
+          <row>
+            <entry>Iron and steel and manufactures</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>180,166</entry>
+          </row>
+          <row>
+            <entry>Machinery and electrical goods</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>645,440</entry>
+          </row>
+          <row>
+            <entry>Vehicles and parts</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>550,158</entry>
+          </row>
+          <row>
+            <entry>Wood, timber and cork and manufactures</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>187,425</entry>
+          </row>
+          <row>
+            <entry>Cotton, raw and cotton linters</entry>
+            <entry>cwt.</entry>
+            <entry>26,932</entry>
+            <entry>438,444</entry>
+          </row>
+          <row>
+            <entry>Nylon yarn and thread</entry>
+            <entry>lb.</entry>
+            <entry>23,082</entry>
+            <entry>76,449</entry>
+          </row>
+          <row>
+            <entry>Hides, skins, leather and manufactures</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>116,164</entry>
+          </row>
+          <row>
+            <entry>Paper board</entry>
+            <entry>cwt.</entry>
+            <entry>29,636</entry>
+            <entry>80,824</entry>
+          </row>
+          <row>
+            <entry>Tallow</entry>
+            <entry>,,</entry>
+            <entry>63,084</entry>
+            <entry>190,175</entry>
+          </row>
+          <row>
+            <entry>Aviation motor spirit</entry>
+            <entry>gall.</entry>
+            <entry>14,665,667</entry>
+            <entry>1,231,515</entry>
+          </row>
+          <row>
+            <entry>Lubricating oil</entry>
+            <entry>,,</entry>
+            <entry>668,260</entry>
+            <entry>142,898</entry>
+          </row>
+          <row>
+            <entry>Medical and pharmaceutical products</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>186,210</entry>
+          </row>
+          <row>
+            <entry>Parcel post</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>398,874</entry>
+          </row>
+          <row>
+            <entry>Other</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>688,600</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>16,423,765</entry>
+          </row>
+          <row>
+            <entry>CANADA:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Wheat</entry>
+            <entry>cwt.</entry>
+            <entry>2,720,758</entry>
+            <entry>4,180,697</entry>
+          </row>
+          <row>
+            <entry>Copper wire</entry>
+            <entry>,,</entry>
+            <entry>2,400</entry>
+            <entry>34,118</entry>
+          </row>
+          <row>
+            <entry>Wood, timber and cork and manufactures</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>358,859</entry>
+          </row>
+          <row>
+            <entry>Hides, skins, leather and manufactures</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>182,050</entry>
+          </row>
+          <row>
+            <entry>Newsprint</entry>
+            <entry>cwt.</entry>
+            <entry>241,598</entry>
+            <entry>688,340</entry>
+          </row>
+          <row>
+            <entry>Seeds for expressing oil: linseed</entry>
+            <entry>,,</entry>
+            <entry>33,062</entry>
+            <entry>85,934</entry>
+          </row>
+          <row>
+            <entry>Seeds for sowing</entry>
+            <entry>,,</entry>
+            <entry>6,886</entry>
+            <entry>57,853</entry>
+          </row>
+          <row>
+            <entry>Other</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>152,463</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>5,740,314</entry>
+          </row>
+          <row>
+            <entry>PORTO RICO:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Molasses</entry>
+            <entry>cwt.</entry>
+            <entry>62,023</entry>
+            <entry>35,251</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>35,251</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="423" />
+              <Col N="424" />COSTA RICA:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Coffee</entry>
+            <entry>lb.</entry>
+            <entry>66,127</entry>
+            <entry>14,432</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>14,432</entry>
+          </row>
+          <row>
+            <entry>CUBA:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Sugar</entry>
+            <entry>cwt.</entry>
+            <entry>72,785</entry>
+            <entry>2,562,424</entry>
+          </row>
+          <row>
+            <entry>Tobacco, manufactured</entry>
+            <entry>lb.</entry>
+            <entry>2,657</entry>
+            <entry>11,808</entry>
+          </row>
+          <row>
+            <entry>Other</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>15</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>2,574,247</entry>
+          </row>
+          <row>
+            <entry>MEXICO:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>£</entry>
+          </row>
+          <row>
+            <entry>Wool, raw</entry>
+            <entry>cental</entry>
+            <entry>333</entry>
+            <entry>5,149</entry>
+          </row>
+          <row>
+            <entry>Cotton, raw and cotton linters</entry>
+            <entry>cwt.</entry>
+            <entry>6,276</entry>
+            <entry>99,229</entry>
+          </row>
+          <row>
+            <entry>Oils and fats</entry>
+            <entry>,,</entry>
+            <entry>228</entry>
+            <entry>7,498</entry>
+          </row>
+          <row>
+            <entry>Other</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>4,773</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>116,649</entry>
+          </row>
+          <row>
+            <entry>DOMINICAN REPUBLIC:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Sugar</entry>
+            <entry>cwt.</entry>
+            <entry>8,030</entry>
+            <entry>268,495</entry>
+          </row>
+          <row>
+            <entry>Other</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>135</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>268,630</entry>
+          </row>
+          <row>
+            <entry>PHILIPPINES:</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Lumber, sawn, etc., hard</entry>
+            <entry>cub. ft.</entry>
+            <entry>59,365</entry>
+            <entry>37,028</entry>
+          </row>
+          <row>
+            <entry>Hemp and hemp tow and waste</entry>
+            <entry>cwt.</entry>
+            <entry>3,080</entry>
+            <entry>25,003</entry>
+          </row>
+          <row>
+            <entry>Seeds for expressing oil: copra</entry>
+            <entry>,,</entry>
+            <entry>50,488</entry>
+            <entry>188,237</entry>
+          </row>
+          <row>
+            <entry>Other</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>890</entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>,,</entry>
+            <entry>&mdash;</entry>
+            <entry>251,158</entry>
+          </row>
+          <row>
+            <entry>OTHER DOLLAR COUNTRIES *</entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>TOTAL</entry>
+            <entry>value</entry>
+            <entry>&mdash;</entry>
+            <entry>3,034</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>* Salvador, Colombia, Ecuador, Venezuela, Panama (excluding Canal Zone).</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Issue of Licences for Leather">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Issue of Licences for Leather.</Title>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>asked the Minister for Industry and Commerce if any licences have been issued for the import of kip butts or heavy upper leather since 1st December, 1953; and, if so, if he will state the amounts imported.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>Licences for the duty free importation of kip butts and other heavy upper leathers have been issued in cases where the Association of Tanners certified that none of its members were in a position to supply.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Does the Minister agree, having regard to the fact that a certain number of men, approximately one-third of the total employed in one factory, have been left off, that it would be desirable to have the whole position examined with a view to seeing to what extent the importation of the type of leather described in the question has affected the employment situation?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>So far as I am aware, the problem that has arisen at Gorey factory is not due to any importation of leather.  On the contrary, some difficulties have been caused in boot factories owing to the inability of the Gorey factory to supply them.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>The Minister has satisfied himself on that?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Can the Minister say whether he has the information asked for in the question&mdash;the amount of this type of leather imported?</P>
+    </Speaker>
+    <Col N="425" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I have not got the information, which amounts to saying to what extent the licences issued are utilised.  That could only be ascertained by the Revenue Commissioners carrying out a very detailed examination.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Bord na Móna Employees">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Bord na Móna Employees.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he will state the number of men employed by Bord na Móna in County Offaly in each of the years 1948 to 1953, inclusive, and the number now employed.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I am informed by Bord na Móna that the number of persons employed by them in County Offaly at peak of operations in the years mentioned were:&mdash;</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="25*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="25*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">1948</entry>
+            <entry rowsep="1">1,381</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>1949</entry>
+            <entry>1,419</entry>
+          </row>
+          <row>
+            <entry>1950</entry>
+            <entry>1,359</entry>
+          </row>
+          <row>
+            <entry>1951</entry>
+            <entry>1,314</entry>
+          </row>
+          <row>
+            <entry>1952</entry>
+            <entry>1,434</entry>
+          </row>
+          <row>
+            <entry>1953</entry>
+            <entry>1,340</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>The number at present employed by the board in County Offaly is 1,070; this compares with 726 at 1st April, 1953, and 320 on 1st April, 1951.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he will state the number of persons employed by Bord na Móna in each of the years 1948 to 1953, inclusive, and the number now employed.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I am informed by Bord na Móna that the number of persons employed by them at peak of operations in the years mentioned were:&mdash; 1948, 4,754; 1949, 5,685; 1950, 3,968; 1951, 6,149; 1952, 7,024; 1953, 6,512.</P>
+      <P>The number employed by the board at present is 3,995, but this number will of course increase very substantially as the peak period approaches.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- An Tóstal&mdash;State Ceremonies">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - An Tóstal&mdash;State Ceremonies.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he will indicate what State ceremonies will be held during the period of An Tóstal in recognition of the event.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>The President will perform the ceremony of the national <Col N="426" /> opening of An Tóstal in Dublin on Easter Sunday next.  An Army parade will be associated with this ceremony.</P>
+      <P>Formal opening ceremonies will also take place in various other centres throughout the country and local contingents of the armed forces are expected to participate.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Could the Minister at this stage make an attempt at assessing the value of An Tóstal?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It is a bit early yet to do that, I think.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Rural Electrification">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Rural Electrification.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he will indicate the townlands in North Galway to which the E.S.B. propose to extend the rural electrification scheme in the next nine months.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I have been informed by the E.S.B. that work under the rural electrification scheme is at present in progress in the North Galway areas of Abbeyknockmoy, Ballinamore, Cummer and Gorteen and in the Ballymoe and Ballyforan areas, part of which are in North Galway.  I have also been informed that the areas awaiting development in the board's Galway district, which includes North Galway, will shortly be considered by the board for the purpose of selecting the areas to be developed during the present year but it is not possible to state what areas will then be selected.</P>
+    </Speaker>
+    <Speaker pid="RichardBarry" hpid="Mr. Barry Mr. Barry">
+      <NameTxt>Mr. Barry</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he will state when the rural electrification scheme will be extended to the Araglen district in County Cork.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I have been informed by the E.S.B. that if the local canvass at present being carried out by interested persons shows that there is a satisfactory demand for rural electrification in the Araglen area, County Cork, an official canvass of the residents will be initiated in the near future.  I have been further informed that Araglen together with other areas awaiting selection in the board's <Col N="427" /> Cork No. 2 district will be considered later this year for selection under the rural electrification scheme but the board is not in a position to state when development of the area is likely to commence.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Net Revenue and Expenditure">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Net Revenue and Expenditure.</Title>
+    <Speaker pid="RichardBarry" hpid="Mr. Barry Mr. Barry">
+      <NameTxt>Mr. Barry</NameTxt>
+      <P>asked the Minister for Finance if he will state the aggregate of net revenue receipts under the headings of customs, excise, estates duties, stamps, income-tax, surtax, corporation profits tax, motor vehicles duties, post office, land annuities and sundry receipts up to the latest available date in the financial year ended 31st March, 1954, and the expenditure under central fund and supply services for the same period.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Finance (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Finance (Mr. MacEntee)</NameTxt>
+      <P>Particulars of income and expenditure of the Exchequer for the year ended 31st March, 1954, were released, as usual, last evening and are published in this morning's newspapers.  The relevant Exchequer statement will be published in to-morrow's issue of <i>Iris Oifigiúil.</i></P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Budget Economies">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Budget Economies.</Title>
+    <Speaker pid="RichardBarry" hpid="Mr. Barry Mr. Barry">
+      <NameTxt>Mr. Barry</NameTxt>
+      <P>asked the Minister for Finance if he will state how much of the £3,500,000 economies mentioned in his Budget speech of 1953 have been effected and the amounts of the principal items.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The publication to-day of particulars of Exchequer issues for the year ended 31st March, 1954, enables a comparison to be made between the total provision for current expenditure in that year and actual issues for such expenditure. I propose, however, to reserve comment on this subject until I am presenting the financial statement.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="County Hospital Nurses: Income-Tax Impost">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - County Hospital Nurses: Income-Tax Impost.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Finance whether, in view of the fact that nurses in county hospitals, whose remuneration consists of a basic <Col N="428" /> salary and a sum retained by the county council in respect of the value of their board, lodgings, uniform and other emoluments, are now being assessed for income-tax purposes on the amount of their salary so retained by the county council, he will introduce proposals for legislation to amend the income-tax code by ensuring that such money which they never receive will not be regarded as part of their income.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The position in this matter was fully explained in the reply given by the acting-Minister for Finance to the question which was addressed to him by Deputy Spring on the 18th November, 1953.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Surely the Minister can indicate whether the obvious grievance dealt with in the question will be considered for solution in the coming legislation in connection with the Financial Resolutions?  The position is that these nurses are charged income-tax on money which they never receive and it does appear that it is a matter which should receive the attention of the Minister.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It would be entirely improper for me to make any premature disclosure of the Budget proposals. I should have Deputy Donnellan, Deputy O'Higgins and others on my tail if I did.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>This is not a question directed to the disclosure of any of the Budget proposals.  I asked the Minister whether he will introduce proposals for legislation to remedy this grievance and surely that is a matter to which the Minister could give a reply?</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Agricultural Credit Corporation Loans">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Agricultural Credit Corporation Loans.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Finance if he will state in respect of the years 1951, 1952 and 1953 the number of applications made to the Agricultural Credit Corporation for loans and the number of such applications which were successful.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I would refer the Deputy to the reply given to Deputy Hession on the 17th December, 1953. <Col N="429" /> in which the particulars requested for the years ended 31st October, 1952, and 31st October, 1953, were given and to the reply to Deputy Cogan on the 5th December, 1951, in which similar particulars were given for the year ended 31st October, 1951.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Married Women Dispensary Doctors">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Married Women Dispensary Doctors.</Title>
+    <Speaker pid="PhelimAlfredCalleary" hpid="Mr. Calleary Mr. Calleary">
+      <NameTxt>Mr. Calleary</NameTxt>
+      <P>asked the Minister for Health if he is aware that there are some married women dispensary doctors who were in dispensary service prior to the making of a regulation prohibiting them from being transferred to, or applying for any other dispensary district; and, if so, if he is prepared to amend this regulation so as to give these doctors similar rights to those enjoyed by married women national teachers appointed prior to a similar regulation being made relating to teachers.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Minister for Health (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Health (Dr. Ryan)</NameTxt>
+      <P>I am aware that there are some married women dispensary doctors who were appointed before sub-section (1) of Section 21 of the Local Government Act, 1941, came into operation.  This sub-section enables the appropriate Minister to prescribe that female local officers of a class, description or grade shall be unmarried or widows.</P>
+      <P>I consider it equitable that female dispensary doctors who were appointed prior to the operation of the section should be allowed to compete for vacancies as they arise in the same grade.  I am advised, however, that under the section as it stands, I could not permit such female officers to compete without throwing the competition open to all married women who were otherwise qualified.</P>
+      <P>I have made representations to the Minister for Local Government who is the appropriate Minister in this case and he has undertaken to introduce legislation as soon as possible to remedy the position.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Income-tax on Nurses' Allowances">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Income-tax on Nurses' Allowances.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Health whether he is aware that hospital nurses in the county hospital, Portlaoise, have recently been assessed for income-tax purposes on the cash value of their board, lodging, <Col N="430" /> uniform and other emoluments which are deducted from their salary by the county hospital and that this unexpected liability for tax has substantially reduced their yearly income; and, if so, whether he will, in conjunction with the county council, take steps to restore to them by an increase in salary the tax they are compelled to pay.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I have no information in regard to income-tax assessments on nurses in the county hospital, Portlaoise.</P>
+      <P>When the revised inclusive salaries for nursing staffs in the provincial district mental hospitals and, later, nurses in public assistance and health authority hospitals, were being negotiated with the appropriate staff organisations, these organisations were fully aware that the staffs concerned would in future be assessed for income-tax on their gross cash salaries in the same way as other members of the community and consequently I cannot accept the suggestion that this increased liability for income-tax was &ldquo;unexpected&rdquo; or that the ratepayers should now recoup to the staffs concerned any increased tax for which they are now liable when the revised scales already took full account of this increased liability.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Is it not a fact that, prior to the agreement to which the Minister referred, these nurses were paid a basic salary and, in addition, got free board, lodging, uniform and other emoluments?  As a result of the agreement, the emoluments were given a cash value, but this cash value was not paid to the nurses, their basic salaries being notionally increased on the basis of the gross salary then fixed in respect of each of them.  They are now charged income-tax on money they never can receive and surely it is incorrect to say that that liability was expected, when in fact the result of it is that their yearly salary has been substantially reduced by the amount of the tax?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Before the agreement was made, many of the local authority officers and employees who were living <Col N="431" /> in institutions were paid a certain amount by way of cash and had free quarters and free rations.  Under the agreement they got a salary and deductions are made for quarters, uniform and so on.  Under the new agreement, they are liable to income-tax, but, in my negotiation with the officers of the unions concerned, it was always put forward in all our calculations that they would have to pay so much income-tax under the new arrangement and they were well aware of that arrangement.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I will put a particular case to the Minister.  A particular nurse in the county hospital was paid, say, £150 a year prior to the agreement and got uniform, lodging and other emoluments.  As a result of the agreement, her lodgings and uniform are valued at £150 and her gross income is now taken to be £300, so that she is liable to tax. Surely she is paid less than the £150 she was getting in cash previously and surely that is a liability she did not expect and which none of them expected and a matter that should be investigated by the Minister?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It was an agreed change.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It was not agreed by the nurses.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Maternity Cash Grants">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Maternity Cash Grants.</Title>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>asked the Minister for Health if he is aware that certain local authorities have a doubt as to their legal authority to pay the maternity cash grant under the Health Act, 1953; and, if so, whether he will make a statement in the matter.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am not aware that any appropriate local authority has doubts about its legal authority to pay maternity cash grants under Section 23 of the Health Act, 1953.  Accordingly, the last part of the question does not arise.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Could the Minister at this stage say whether the means test being applied is prescribed by the local authority or by the Minister?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>The means test is applied <Col N="432" /> by the local authority, but it is laid down in the Public Assistance Act and has been there for the past 50 or 60 years.  It says:&mdash;</P>
+      <P>&ldquo;A person who is unable to provide by his or her own industry or other lawful means the medical, surgical, ophthalmic, dental and aural treatment or medicines, or medical, surgical or dental appliances necessary for themselves or their dependents.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Is the Minister satisfied that the standard is a national standard or can he say if there are different standards in different counties?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>That has been the test of the Public Assistance Acts for many years back and local authorities always interpreted it for themselves.  I cannot say but that counties may interpret it in slightly different ways and I think it would be necessary, as soon as things settle down somewhat, to try to get general agreement amongst the local authorities.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Widows' Pensions">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Widows' Pensions.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Social Welfare if he will state in respect of (a) Laois and (b) Offaly the number of persons in receipt of a widow's pension.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Minister for Social Welfare (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Social Welfare (Dr. Ryan)</NameTxt>
+      <P>The required figures as at 31st December, 1953, the latest date for which figures are available, are:&mdash; (a) Laois, 579; (b) Offaly, 693.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Old Age Pension Recipients">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Old Age Pension Recipients.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Social Welfare if he will state in respect of (a) Laois and (b) Offaly the number of persons in receipt of old age pensions.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>At 25th December, 1953, the latest date for which the figures are available, the numbers of pensions in payment under the Old Age Pensions Acts in the counties referred to were:&mdash; Laois, 2,821 (including 87 to blind persons) and Offaly, 2,851 (including 77 to blind persons).</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- County Mayo Estate Turbary Allotment">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - County Mayo Estate Turbary Allotment.</Title>
+    <Col N="433" />
+    <Speaker pid="PhelimAlfredCalleary" hpid="Mr. Calleary Mr. Calleary">
+      <NameTxt>Mr. Calleary</NameTxt>
+      <P>asked the Minister for Lands if he will state whether the Land Commission will allot turbary plots for the coming season at reasonable prices on the McDermott estate, Clydagh, Ballycastle, in view of the fact that the bogs have been surveyed, and that great scarcity of turbary exists in the Lacken parish.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="Parliamentary Secretary to the Government (Mr. Lynch) (for Minister for Lands) Jack Lynch">
+      <NameTxt>Parliamentary Secretary to the Government (Mr. Lynch) (for Minister for Lands)</NameTxt>
+      <P>The Land Commission are not in a position to allot turbary plots on this bog for the coming season.  I have asked the Land Commission to expedite their inquiries regarding the other shares in this bog not in their possession.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - County Mayo Estate">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - County Mayo Estate.</Title>
+    <Speaker pid="PhelimAlfredCalleary" hpid="Mr. Calleary Mr. Calleary">
+      <NameTxt>Mr. Calleary</NameTxt>
+      <P>asked the Minister for Lands if he will state when the McLean estate, Lissaniskea, Knockmore, Ballina, County Mayo, will be divided amongst the adjacent uneconomic landholders.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>Proceedings are in progress for the acquisition of these lands but the question of price has yet to be decided and it is not possible to say whether or when they will be available for allotment.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Land Commission Lettings">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Land Commission Lettings.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Lands if he will indicate, in respect of lands in the hands of the Land Commission, the acreage let for (a) grazing and (b) tillage purposes during the 12 months ended 31st December, 1953.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>On estates dealt with under Land Acts, 1923-53, the total areas let for grazing and tillage during the period in question are 25,182 acres and 3,140 acres respectively.</P>
+    </Speaker>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>Can the Parliamentary Secretary reconcile those figures with the protestations of his Party concerning increased tillage and soil cultivation?</P>
+    </Speaker>
+    <Col N="434" />
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Let the Deputy go around and have a look for himself.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>The Deputy keeps his eyes closed when he is travelling around.</P>
+    </Speaker>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>Was the figure for grazing 25,000 acres?</P>
+    </Speaker>
+    <Speaker pid="MichaelHilliard" hpid="Mr. Hilliard Mr. Hilliard">
+      <NameTxt>Mr. Hilliard</NameTxt>
+      <P>Would the Deputy take a farm?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deductions from answers given cannot be put.</P>
+    </Speaker>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>Is the Parliamentary Secretary further aware that in the County Galway there is a desperate need for land for conacre purposes and that the Land Commission will not facilitate or satisfy that?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>I have no knowledge of what the position is.</P>
+    </Speaker>
+    <Speaker pid="MarkKillileaSnr" hpid="Mr. Killilea Mr. Killilea">
+      <NameTxt>Mr. Killilea</NameTxt>
+      <P>Is the Parliamentary Secretary aware whether all that land is grazing land or forestry?</P>
+    </Speaker>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Lands if he will state the amounts received by the Land Commission during the 12 months ended 31st December, 1953, in respect of lands in their hands and left for (a) grazing and (b) tillage purposes.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>The gross amounts are (a) £55,037 and (b) £14,873.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - County Galway Land Division">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - County Galway Land Division.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Lands if he will state when the Land Commission proposes to divide among suitable allottees lands at (a) Polla-corragane and Kilhannon, Tuam; (b) Moyne and Feagh East on the John Higgins estate; (c) Ardower, Kilconly and (d) Kirwan estate at Gardenfield, Tuam, County Galway, which are now in their possession.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>The position in each of these cases is as follows: (a) An attempt will be made in the near <Col N="435" /> future to rearrange the lands of Pollacorragane in the parish of Kilbeanan; its success will depend upon the co-operation of the tenants; (b) and (d) the acquisition of these lands is not yet completed and it is not possible to say when they will be divided; (c) there is an area of 91 acres on hands in Ardower, Kilconly.  There will be no avoidable delay in disposing of it.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Undivided Lands">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Undivided Lands.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Lands if he will state in respect of (a) the County of Laois and (b) the County of Offaly the acreage of land owned by the Land Commission and not yet divided.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>The area on the hands of the Land Commission in Laois is 311 acres, and in Offaly, 1,455 acres.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Will the Parliamentary Secretary indicate when that will be allotted?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>The bulk of the land was actually acquired only last month or the month before and I am sure that no avoidable delay will be tolerated.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Laois&mdash;Offaly: Forestry Employees">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Laois&mdash;Offaly: Forestry Employees.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Lands if he will state the number of men employed in the Counties of Laois and Offaly on forestry work in each of the years 1948 to 1953, inclusive, and the number now employed.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lynch Mr. Lynch">
+      <NameTxt>Mr. Lynch</NameTxt>
+      <P>The number of men employed in Counties Laois and Offaly during the week ended 19th March, 1954, the most recent period for which figures are available, were Laois, 280; Offaly, 54.</P>
+      <P>As the remainder of the information required is in the form of a tabular statement, I propose, with the permission of the Ceann Comhairle, to have it circulated in the Official Report.</P>
+    </Speaker>
+    <P>
+      <Col N="436" /> Following is the statement:&mdash;</P>
+    <P>NUMBERS Employed in State Forests in Counties Laois and Offaly in Mid-March, in each of the years 1948 to 1953.</P>
+    <table pgwide="1">
+      <tgroup cols="3">
+        <colspec colname="1" colnum="1" colwidth="14*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="18*" align="center">
+        </colspec>
+        <colspec colname="3" colnum="3" colwidth="18*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Year</entry>
+            <entry rowsep="1">Laois</entry>
+            <entry rowsep="1">Offaly</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>1948</entry>
+            <entry>102</entry>
+            <entry>40</entry>
+          </row>
+          <row>
+            <entry>1949</entry>
+            <entry>129</entry>
+            <entry>37</entry>
+          </row>
+          <row>
+            <entry>1950</entry>
+            <entry>135</entry>
+            <entry>43</entry>
+          </row>
+          <row>
+            <entry>1951</entry>
+            <entry>159</entry>
+            <entry>41</entry>
+          </row>
+          <row>
+            <entry>1952</entry>
+            <entry>171</entry>
+            <entry>38</entry>
+          </row>
+          <row>
+            <entry>1953</entry>
+            <entry>205</entry>
+            <entry>32</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Military Service Pensions Act">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Military Service Pensions Act.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Defence if he will state the number of applications for military service pensions which are still under consideration from persons residing in (a) Laois and (b) Offaly.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Minister for Defence (Mr. Traynor) Oscar Traynor">
+      <NameTxt>Minister for Defence (Mr. Traynor)</NameTxt>
+      <P>The number of applications and petitions which were submitted following the enactment of the Military Service Pensions (Amendment) Act, 1949, and which are still under consideration by the Board of Assessors and by the Referee in 73 in respect of the County of Laois and 113 in respect of the County of Offaly.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Defence if he will state in respect of (a) the County of Laois and (b) the County of Offaly the number of persons in receipt of or entitled to military service pensions.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>The numbers of persons at present residing in (a) the County of Laois and (b) the County of Offaly who are in receipt of military service pensions are 54 and 143, respectively. There are two further cases in Laois in which certificates of military service have been granted but payment of pension has not yet been made.  Payment will shortly be effected in these two cases.</P>
+    </Speaker>
+    <P>In the absence of reports from the Board of Assessors and from the Referee, I have no information as to the further number of persons in the counties mentioned who may qualify for the grant of service certificates <Col N="437" /> which would render them eligible for the award of military service pensions.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>asked the Minister for Defence if he will state in respect of (a) the County of Laois and (b) the County of Offaly the number of persons in receipt of special allowances under the Military Service Pensions Acts.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>The numbers of persons at present residing in (a) the County of Laois and (b) the County of Offaly who are in receipt of special allowances under the Army Pensions Acts are 71 and 76 respectively.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Kerry Flooding&mdash;Coast Erosion">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Kerry Flooding&mdash;Coast Erosion.</Title>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>asked the Minister for Local Government if he is aware that a breach in the embankment of the River Lee, Tralee, is causing flooding to several acres of land at Ballyclunlea, Tralee; and, if so, if he will now state if his Department is prepared to allocate a grant from the National Development Fund to have immediate protection work carried out there.</P>
+    </Speaker>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>asked the Minister for Local Government if he is aware that coastal erosion is destroying several acres of land at Lohercannon, Tralee, County Kerry; and, if so, if he will now state if his Department will allocate a grant from the National Development Fund to have protection work carried out.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Minister for Local Government (Mr. Smith) Patrick Smith">
+      <NameTxt>Minister for Local Government (Mr. Smith)</NameTxt>
+      <P>With your permission, a Cheann Comhairle, I propose to take Questions Nos. 27 and 30 together.</P>
+      <P>No proposal for a National Development Fund grant for either of the works mentioned by the Deputy has been received from the Kerry County Council, and it is not clear that they have any responsibility in the matter.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - County Kerry Water Supplies">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - County Kerry Water Supplies.</Title>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>asked the Minister for Local Government if he is aware that a deputation from Ballincolla, Ballyferitter district, Dingle, appeared before a recent meeting of Kerry County Council requesting an extension of the water supply from Ballyferitter <Col N="438" /> village; and, if so, if he will now state if his Department will allocate a grant from the National Development Fund to cover the full cost, as this is a scheme designed to improve conditions in the Gaeltacht.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>The Kerry County Council have not submitted any proposal to my Department for an extension of the Ballyferitter water supply to Ballincolla nor have they included any such proposal in the schedule of works submitted for consideration in connection with the National Development Fund.</P>
+    </Speaker>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>asked the Minister for Local Government if he is aware that a deputation from the Milltown area, Dingle, County Kerry, appeared before a recent meeting of the county council requesting an extension of the water supply from Dingle; and if, in view of the fact that a Gaeltacht area is involved, he will now give a grant from the National Development Fund to cover the full cost.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>A decision to extend the Dingle water supply to Milltown is a matter for the sanitary authority in the first instance.  A proposal for such an extension has not been submitted to my Department by the Kerry County Council nor included in the schedule of works submitted by them for consideration in connection with the National Development Fund.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- County Galway Local Authority Debts">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - County Galway Local Authority Debts.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Local Government if he will state (a) the gross debt of the several local authorities in County Galway excluding harbour authorities, vocational education and county committees of agriculture at the 31st December, 1953, and (b) the amounts paid in interest for the year ending 31st December, 1953, by such local authorities.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Figures for the 31st December, 1953, are not available as the relevant returns show the position at the end of the financial year only.  On the 31st March, 1953, the gross debt of local authorities in County Galway other than vocational <Col N="439" /> education committees, county committees of agriculture and harbour authorities, amounted to £2,290,000, approximately.  The amount paid in interest (including overdraft interest) by such authorities in the year ending 31st March, 1953, was approximately £75,000.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="Housing Accommodation for ex-Army Personnel">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Housing Accommodation for ex-Army Personnel.</Title>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>asked the Minister for Local Government if the Kildare County Council are now in a position to provide housing accommodation for ex-Army personnel who are at present occupying houses at the Curragh Camp.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>The Kildare County Council have power to provide houses for ex-Army personnel at present occupying houses at the Curragh Camp.  Houses provided by the council are, however, required to be allocated in accordance with a scale of preferences prescribed by the Housing (Management and Letting) Regulations, 1950 and 1953, and the question of allotting such houses to the persons referred to would have to be considered by the council in the light of this obligation.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Inishbiggle Telephone Facilities">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Inishbiggle Telephone Facilities.</Title>
+    <Speaker pid="PhelimAlfredCalleary" hpid="Mr. Calleary Mr. Calleary">
+      <NameTxt>Mr. Calleary</NameTxt>
+      <P>asked the Minister for Posts and Telegraphs if he will provide telephonic communication between Inishbiggle Island and the mainland, so that urgent messages may be sent from the island without delay.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor (for Minister for Posts and Telegraphs) Mr. Traynor (for Minister for Posts and Telegraphs)">
+      <NameTxt>Mr. Traynor (for Minister for Posts and Telegraphs)</NameTxt>
+      <P>It has been decided to provide a radio telephone link between Inishbiggle and the mainland telephone system.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Curtailment of Ground Limestone Service">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Curtailment of Ground Limestone Service.</Title>
+    <Speaker pid="JohnBernieJnr" hpid="Mr. Beirne Mr. Beirne">
+      <NameTxt>Mr. Beirne</NameTxt>
+      <P>asked the Minister for Agriculture if he is aware that as a result of the proposed curtailment of the very efficient service given by a firm in the deliveries of ground limestone, serious unemployment will arise in the Boyle area and much inconvenience <Col N="440" /> will be caused to farmers over a wide area who have availed of the expeditious deliveries given by this company; if he is further aware that no comparable service is being given by any other company engaged in the production of ground limestone and if his attention has been drawn to a statement in the daily newspapers of 25th March dealing with this matter; and, if so, if he will state what steps he proposes to take to ensure that no disruption of service will ensue.</P>
+    </Speaker>
+    <Speaker pid="ThomasWalsh" hpid="Minister for Agriculture (Mr. Walsh) Thomas Walsh">
+      <NameTxt>Minister for Agriculture (Mr. Walsh)</NameTxt>
+      <P>I am not satisfied that farmers requiring ground limestone will suffer any inconvenience arising out of the revision of the ground limestone subsidy scheme.  Furthermore, I see no reason why unemployment should occur at any of the existing plants as a result of the alteration in the scheme if farmers within 40 miles of each plant would apply the much needed quantities of ground limestone to their land.  I would appreciate the assistance of the Deputy, and indeed of all Deputies, in promoting a greater demand for ground limestone.  I should point out that the object of the alteration in the scheme is to ensure the delivery of the maximum quantity from the available funds.</P>
+    </Speaker>
+    <Speaker pid="JohnBernieJnr" hpid="Mr. Beirne Mr. Beirne">
+      <NameTxt>Mr. Beirne</NameTxt>
+      <P>Does the Minister wish to convey that the curtailment of the service given will not cause unemployment in the Boyle area?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>There will be no reduction in the quantity of lime produced in Boyle as a result of this measure. Actually, the lime can still be delivered from Boyle to counties 40 miles distant. It will cover all Leitrim, Sligo, Longford and parts of Mayo and Cavan.</P>
+    </Speaker>
+    <Speaker pid="JohnBernieJnr" hpid="Mr. Beirne Mr. Beirne">
+      <NameTxt>Mr. Beirne</NameTxt>
+      <P>Is the Minister aware that deliveries from this factory extend over a distance of 60 miles?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>I am.  I know the reason why.  It is in order to get the higher subsidy.</P>
+    </Speaker>
+    <Speaker pid="JohnBernieJnr" hpid="Mr. Beirne Mr. Beirne">
+      <NameTxt>Mr. Beirne</NameTxt>
+      <P>Does the Minister not realise that as a result of the curtailtant <Col N="441" /> ment to 40 miles unemployment will be caused?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>I know they have 1,600 square miles to deliver lime in.  Multiply that by 640 and you have the acreages.</P>
+    </Speaker>
+    <Speaker pid="JohnBernieJnr" hpid="Mr. Beirne Mr. Beirne">
+      <NameTxt>Mr. Beirne</NameTxt>
+      <P>There is no other firm in the business able to give the same service as the person in Boyle.  Further, in cases where lime has been ordered from other firms deliveries take from one week to two weeks, whereas deliveries can be made from Boyle in practically one day.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>There is a back log in most quarries at the moment due to the weather.</P>
+    </Speaker>
+    <Speaker pid="JohnBernieJnr" hpid="Mr. Beirne Mr. Beirne">
+      <NameTxt>Mr. Beirne</NameTxt>
+      <P>Not as far as Boyle is concerned.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>In every case.</P>
+    </Speaker>
+    <Speaker pid="LiamCunningham" hpid="Mr. Cunningham Mr. Cunningham">
+      <NameTxt>Mr. Cunningham</NameTxt>
+      <P>Is it not a fact that the zoning of the limestone scheme will make more money available from lime by deducting from transport?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JohnBernieJnr" hpid="Mr. Beirne Mr. Beirne">
+      <NameTxt>Mr. Beirne</NameTxt>
+      <P>And more unemployment.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Protection of Cattle Export Trade">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Protection of Cattle Export Trade.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Agriculture if, having regard to the proposed establishment of a fatstock marketing board in Great Britain and Northern Ireland, he will indicate what steps he intends to take towards the proper protection of our cattle export trade.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>The arrangements which will govern the marketing of our cattle in Britain following decontrol are at present the subject of discussions between the two Governments and it would be inappropriate for me to make any comment at this stage.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Treatment of Cattle in Transport">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Treatment of Cattle in Transport.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Agriculture if, having regard to the recent statement of the Irish Livestock Exporters' Association that Irish cattle were neglected and subjected to <Col N="442" /> cruelty when being transported by British Railways (London Midland Region), he will indicate what steps he proposes to take to ensure that such an undesirable state of affairs will not be permitted to continue.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>The statement referred to by the Deputy related to rail transport of cattle in Britain, which is governed by the British Transit of Animals Orders designed to prevent cruelty to animals.  This association has not made any specific complaint to my Department on which I could have official representations made to the British Ministry concerned, but I am aware from Press reports that the association has been actively pursuing the matter direct with the carriers.</P>
+    </Speaker>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>In the circumstances that the Minister has been made aware, through the Press, of this campaign, does he himself propose to make any representations or take any steps in the matter?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>The association has made representations already with the people concerned.  No complaints have been made officially to my Department.</P>
+    </Speaker>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>Having regard to the fact that the Minister is aware of the situation&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>Through the Press only.</P>
+    </Speaker>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>&mdash;&mdash;does he propose to follow up the matter?</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Oats Crop Market">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Oats Crop Market.</Title>
+    <Speaker pid="JamesMHession" hpid="Mr. Hession Mr. Hession">
+      <NameTxt>Mr. Hession</NameTxt>
+      <P>asked the Minister for Agriculture if he is aware that farmers in North Galway continue to experience the greatest difficulty in obtaining a market for their oats crop, whereby considerable losses are being sustained; and, if so, if he will indicate what steps he proposes to take in relief of the position.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>While I am aware that in some areas farmers are having difficulty in finding a market for their oats crop I am not aware that any considerable losses are being sustained on that account.  The cash market for oats is limited but the most remunerative <Col N="443" /> market is obtained by growers who feed oats to their own live stock.  In the circumstances, I do not consider that official intervention in the marketing of oats is necessary or desirable.  I may say, however, that no licences have been granted during the current cereal year for the importation of feeding or milling oats and as long as home-grown oats are available I do not propose to grant any such licences.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Artificial Insemination">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Artificial Insemination.</Title>
+    <Speaker pid="PatrickDesmondLehane" hpid="Mr. Lehane Mr. Lehane">
+      <NameTxt>Mr. Lehane</NameTxt>
+      <P>asked the Minister for Agriculture if his attention has been drawn to an article in a publication condemning artificial insemination for cattle and if he will give his Department's views on the matter.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>I have seen the article referred to by the Deputy.  The writer's views do not accord with the weight of informed knowledge and experience in very many countries, which is that the operation of artificial insemination in accordance with appropriate conditions is a valuable asset in enabling the widespread and profitable use of high-class breeding sires for improving the general standard and productivity of live stock as well as in combating animal diseases frequently transmitted through natural mating.</P>
+    </Speaker>
+    <Speaker pid="PatrickDesmondLehane" hpid="Mr. Lehane Mr. Lehane">
+      <NameTxt>Mr. Lehane</NameTxt>
+      <P>Is the Minister aware that this propaganda circulated by vested interests is having a deleterious effect on stations throughout the country?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>I have no evidence that it has any effect.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Advertising Meat Products">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Advertising Meat Products.</Title>
+    <Speaker pid="PatrickDesmondLehane" hpid="Mr. Lehane Mr. Lehane">
+      <NameTxt>Mr. Lehane</NameTxt>
+      <P>asked the Minister for Agriculture whether, in view of the high reputation gained for Irish meat products in Britain in pre-war years and the derationing of meat in England, he will start an advertising campaign to increase the demand for our products there.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>My Department and the trade branch of the Irish Embassy in <Col N="444" /> London will give every possible assistance in this matter to the exporters, who must of course themselves be expected to take the usual commercial steps to promote the sale of their meat products.  The Department has already arranged for displays of Irish meat and meat products at two important food exhibitions in Britain in May and September next.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions." RHead="Oral Answers. - Price of Eggs">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Price of Eggs.</Title>
+    <Speaker pid="PatrickDesmondLehane" hpid="Mr. Lehane Mr. Lehane">
+      <NameTxt>Mr. Lehane</NameTxt>
+      <P>asked the Minister for Agriculture whether he is aware that as low as 1/3 per dozen has been offered for eggs in County Cork; and if, in view of the importance of the poultry and egg industry to rural Ireland, he will take steps to see that an economic price is paid now as otherwise production will be greatly reduced resulting in very high prices in the future.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>The answer to the first part of the question is &ldquo;No&rdquo;.  As regards the second part of the question, the egg and poultry markets are completely free and prices for these products are competitive.  At present, the producer's price for eggs is determined by the prices obtainable on the British markets. which are, unfortunately, poor at the moment, but I am not without hope that they will improve in the early future.  Meanwhile, satisfactory prices continue to be available to our producers for poultry.</P>
+    </Speaker>
+    <Speaker pid="PatrickDesmondLehane" hpid="Mr. Lehane Mr. Lehane">
+      <NameTxt>Mr. Lehane</NameTxt>
+      <P>Is the Minister aware that in parts of South Cork on last Friday week 1/3 a dozen was offered for eggs by collectors at a time when the prices at which eggs were being sold in cities and towns were comparatively high?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Walsh Mr. Walsh">
+      <NameTxt>Mr. Walsh</NameTxt>
+      <P>I had one report and I am having that investigated at the moment.  We are keeping this matter under review all the time.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is proposed to take business in the following order: Nos. 6, 2 and 5, 4.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>To what date will we adjourn?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>On that, if to-day's business is finished we will adjourn until 21st April.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>What is the intention in relation to sitting in that week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>The intention is to sit on Wednesday, Thursday and Friday.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Imposition of Duties (Confirmation of Orders)" RHead="Bill, 1954&mdash;Committee and Subsequent Stages">
+    <Title>Imposition of Duties (Confirmation of Orders) Bill, 1954&mdash;Committee and Subsequent Stages.</Title>
+    <P>Bill put through Committee without amendment, reported, received for final consideration and passed.</P>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>This is a Money Bill within the meaning of Article 22 of the Constitution.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Housing (Amendment)" RHead="Bill, 1954 &mdash;Money Resolution">
+    <Title>Committee on Finance. - Housing (Amendment) Bill, 1954 &mdash;Money Resolution.</Title>
+    <Col N="446" />
+    <Speaker pid="PatrickSmith" hpid="Minister for Local Government (Mr. Smith) Patrick Smith">
+      <NameTxt>Minister for Local Government (Mr. Smith)</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That it is expedient to authorise such payments out of moneys provided by the Oireachtas as are necessary to give effect to any Act of the present session to make further and better provision with respect to housing, to amend and extend the Housing (Financial and Miscellaneous Provisions) Acts, 1932 to 1952, the Housing of the Working Classes Acts, 1890 to 1952, the Labourers Acts, 1883 to 1952, and the Small Dwellings Acquisition Acts, 1899 to 1952, and to make provision with respect to other matters connected with the matters aforesaid.</P>
+      <P>Question put and agreed to.</P>
+      <P>Money Resolution reported and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Housing (Amendment)" RHead="Bill, 1954 &mdash;Committee and Final Stages">
+    <Title>Committee on Finance. - Housing (Amendment) Bill, 1954 &mdash;Committee and Final Stages.</Title>
+    <P>Sections 1 to 21, inclusive, put and agreed to.</P>
+    <P Just="Center">FIRST SCHEDULE</P>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>In page 8 to delete the following:&mdash;</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="3">
+        <colspec colname="1" colnum="1" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="20*" align="center">
+        </colspec>
+        <colspec colname="3" colnum="3" colwidth="20*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">No. 24 of 1936.</entry>
+            <entry rowsep="1">Labourers Act, 1936.</entry>
+            <entry rowsep="1">Sub-section (2) of Section 18.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>It is rather extraordinary that such an amendment as this should have to be moved.  The Bill has been welcomed by all Parties as being both necessary and desirable for the promotion of housing but I propose now that we should not delete sub-section (2) of Section 18 of the Labourers Act, 1936.  The deletion of that sub-section means in effect that the right of appeal vested in the tenants when they come to buy their homes from the county councils is being taken away from them.  No statutory provision is being put in its place.</P>
+    <P>The Minister, in introducing the Bill last evening, said that there are so many technicians and so much technical advice now available to local <Col N="447" /> authorities it is considered unnecessary to have the right of appeal still vested in the tenants.  I think that is a senseless suggestion, because if these people buy their homes from the county council or the board of health, as the case may be, these bodies are the custodians of the property for the Minister and they must see that the houses are handed over in proper order and repair.  Hitherto the tenants had the right of appeal to the Minister if they were not satisfied. That is the first and last time they have that appeal, because once the job is done the tenants must assume responsibility for maintenance subsequently. I do not know what has inspired the Minister to introduce this provision.  The allegation seems to be that staffs are too busy to give their time to this inspection work in connection with appeals, but there is no evidence to justify or warrant that assumption.</P>
+    <P>Delay in vesting has taken place for many reasons, but appealing to the Minister because of lack of proper repair was not one of them.  If this is being done in anticipation of tenants being housed in greater numbers than in the past, I still think the provision is unwarranted.  I also think it is an unwarranted assumption on the Minister's part that he will not have enough inspectors to deal with appeals, because he anticipates, quite unjustifiably, a large number of appeals; no one can say that numbers of people will make appeals of a vexatious or frivolous character.  If their houses are given to them in a satisfactory state of repair that will be the end of it.  Some tenants may hold that the job is not properly done and, if they are of that opinion, I think they are perfectly entitled to appeal, because it will be the last occasion on which they will have an opportunity of doing so.</P>
+    <P>If this section in the Schedule is permitted to go through, then there will be no appeal because the county board of health can do the repairs to the houses.  In many cases they are done by direct labour and in other cases by contractors under the auspices <Col N="448" /> of the board of health.  It has been suggested that the appeals can be done locally.  That would be, so to speak, appealing against yourself.  I think that this section is perfectly unfair and unnecessary. In fact, I suggest that it is irrelevant to introduce it at the end of a very nice Bill because really it has no relation to a Housing Bill at all.  I am strongly of opinion that it should not be allowed to go through.  I think the Minister should be able to see his way to agree to its deletion because it has no relation to the Bill proper.  It is inflicting an unwarranted intrusion on the tenants and is depriving them of the statutory right which was given to them under the 1936 Act.</P>
+    <Speaker pid="PatrickSmith" hpid="Minister for Local Government (Mr. Smith) Patrick Smith">
+      <NameTxt>Minister for Local Government (Mr. Smith)</NameTxt>
+      <P>I would be inclined to agree with many of the arguments advanced by Deputy Keyes if the owners of these cottages or houses were private persons.  If they were, I certainly think that the purchaser should have the right of an appeal so as to ensure that the standard of repair would be sufficiently high.  On the other hand, one does not expect a local body to shirk its responsibilities in relation to the tenancy of labourers' cottages in the same way that we might be suspicious of if this related to private persons.  While I am also inclined to the view that if, say, an assistant county engineer were to inspect cottages that had been repaired in his area, and if the appeal is determinable by the local body under which that engineer was employed there is perhaps the possibility that if the county engineer went out on the job he might be prone to take the view of his assistant and to support the report made by him, I still think that even in that case, it is stretching the matter a wee bit too far to suspect that an individual such as a county engineer would behave in that fashion.</P>
+      <P>The reason for the insertion of this provision in the Bill is that the number of appeals that have come to us has not been very large.  That may have resulted from the fact that there were not many purchase schemes.  There is the tendency now on the part of the occupiers of labourers' cottages and of other houses owned and controlled by local bodies to buy out their houses.</P>
+    </Speaker>
+    <P>
+      <Col N="449" /> The type of appeal that we get is very trivial.  First of all the number is small.  Secondly, the nature of the appeals was so trivial that we felt the matter could be safely left in the hands of the councils themselves and their engineers.  This is not the only case where an official is charged with the responsibility of making a report, and of where the same Department is called upon to make a determination on appeals.  Mention has been made to me of the Valuation Office.  In that case it does not, of course, follow that it is the official who made the first report who will be sent out on the appeal.</P>
+    <P>Our reasons, therefore, for this deletion are that these cottages and houses are owned by the local bodies. These local bodies have not in the past, nor are they likely in the future, to behave towards their tenants, in the case of a sale to the tenants, as perhaps private persons might, if they were allowed to get away with it.  The prospective purchasers of these houses will always have the redress that comes to them through their local representatives.  Even in the event of an appeal, I think it is possible, in fact probable, that an officer of the same authority could be found to adjudicate fairly on it.  If there was any additional work required, or if the standard of the work was not sufficiently high, I would not have any hesitation in accepting the view of any county engineer in the country that I know as against maybe the report of one of his assistants in regard to a matter of this kind.</P>
+    <P>I do not want to contend that there is any big principle over which we need have any struggle here in regard to this matter.  The fact that it has been proposed that this provision should be deleted does not at all mean that we would not be interested in seeing in the event of complaints being made to us that a high standard of repair was provided, or that we would not, in fact, check up on the reports coming to the Department as to the failure of a local authority to do its work properly.  But we do not want to have a statutory obligation placed on the Department because we believe, from what we have <Col N="450" /> seen, that it results in a lot of frivolous appeals on the part of people who really do not intend to go through at all with the purchase of the houses of which they are tenants, but who use that machinery for the purpose of effecting advantages over other tenants in the way of having prior claim as regards the repairs which their houses may require.</P>
+    <P>As I have said, I have no very strong feeling on this one way or another.  At the same time, I think that we can safely allow the proposal to stand. Deputy Keyes and the House can be fully assured that, in the event of tenants expressing dissatisfaction as to the way in which a local body is discharging its responsibilities under the 1936 Act, we certainly would take an interest in that, and see that a general inspection of the work complained of was made.  We feel, however, that this provision will be helpful to all concerned, and that, since a large number of schemes for vesting are coming before us, it will help to speed up the whole process, and not in our view to the detriment of the interests of the tenant purchasers.</P>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>I want to assure the House that my amendment was not put down in a frivolous fashion nor with the object of dealing with frivolous objections that might be made by tenants.  My whole idea is to preserve a fundamental right for the tenants.  I would be prepared to accept an assurance from the Minister that the rights of tenants are not going to be infringed upon.  At the same time, I am concerned to know how that is going to be effected by the deletion of this sub-section.  The Minister is taking himself completely out of the picture.  We all know that Ministers, generally, have been very popular.  Hence, we want to keep them in this Bill so that the rights of the tenants will be determined by the Minister himself.  The Minister, really, is the custodian of all the property represented by these houses in the country.  The houses are, of course, under the immediate control of the local bodies through whom the tenants buy them.  It is quite possible that <Col N="451" /> unsatisfactory repairs will be done.  I have had to make complaints this week about six unsatisfactory repairs in County Limerick of which I am sure Deputy Collins, the chairman of the county council, is aware.  Unsatisfactory repairs are being done, and if that is going to continue when it is the final repair that is involved, I want to know where is the appeal going to be made by the tenant who has a legitimate, honest-to-goodness grievance because no longer can he avail of the provision under the 1936 Act.  To whom is the appeal going to be made?  He can only appeal to the county manager or county engineer. They are the people who are themselves responsible for having carried out what we hold to be unsatisfactory repairs.</P>
+      <P>I would like to see the Minister stepping in there and I do not care what action he takes to enforce his authority. If there is not a sufficiently large engineering inspectorial staff I would be prepared to suggest that a housing engineer or anybody else you wish should be employed under the authority of the Minister.  In any event I want to see some separate authority set up against the person who did the job.  Appealing against the person who did the work does not make sense.</P>
+      <P>This is a serious infringement and nothing is being put back in place of what is being deleted.  This is simply a bald deletion out of an Act of Parliament for which there is no justification. I would ask the Minister to make arrangements to have the inspection carried out by some other person than the man who actually did the job.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Our attitude is that we do not want to have placed upon us the legal responsibility in this regard even in the case of what is obviously a most trivial type of objection.  The fact that we are trying to relieve ourselves of that responsibility does not mean, of course, that if a substantial complaint were made, even apart altogether from these provisions, it would not be examined thoroughly by one of our inspectors and taken up with the local authority concerned.</P>
+    </Speaker>
+    <P>
+      <Col N="452" /> I do not want to force this thing on the House.  We have examined it very carefully and I could give the Deputy and those who are interested an assurance that it is not just to escape work or to escape the employment, if necessary, of additional people.  The whole of the experience which has been gained in the Department has suggested to us that we could divest ourselves of the legal responsibility while at the same time admitting that in the event of a substantial complaint being made, which in fact has scarcely ever reached us, as to the manner in which the local authority was discharging its responsibility in the repair of houses, we would, of course, exercise in the normal way the functions and responsibilities that undoubtedly rest with the Department.  I think the Deputy could allow this to stand.  I can see his point but I am not doing this for the sake of depriving people of the right of appeal which in the theoretical sense seems to be wrong but in practice is not going to be wrong.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>The very fact that there will be a right of appeal will make them do the job right.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It does seem to be a matter of principle.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I do not want to resist the demand but in the general interest it is not the best thing to do.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I am impressed by what Deputy Keyes has said.  It does seem reasonable that if you are going to have machinery for satisfying the Department, the local authorities and its tenants that work in accordance with the statutory obligations under the Labourers Act is done, the only way of ensuring that is by having an outside mind on it.  You cannot ensure that if the hand that does the work is also the hand that will write approval for the work later.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Why should an engineer employed by a local authority want to scamp a job seeing it is going to cost him nothing and knowing it would be a terrific injustice to do so against a person of the labouring class who is <Col N="453" /> about to purchase a house?  It is a most unlikely thing and even if the assistant engineer did that, is it likely that a county engineer on re-examination on appeal would take the side of his assistant as against that of the applicant for a labourer's cottage?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>The only thing is that the Minister has very complete faith in bureaucracy.  I have not.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>In human beings I have.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I know human beings to be merely human and the human element is very strong in all of us. There is no doubt that it will not happen often but it may happen occasionally that a job may be skimped. Possibly the tenant may be mischievous or may be an annoying type; he may get the engineer's back up and accordingly an injustice may be done. I am impressed by what Deputy Keyes has said.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>In view of the fact that the Minister has admitted that many appeals have not been sent to him, it would not incommode the Department to leave that subsection there.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Although certain counties have taken advantage of the 1936 Act, only in my own and a couple of other counties was any considerable number of houses purchased at all.  I may point out as well that the 1936 Act still places the legal responsibility on the local authority to put the house in a proper state of repair and the tenant purchaser has that legal support there all the time.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I can see that, but the appeal there would have to be to the courts.  I do not think I have heard of any case where there has been an appeal to the Minister but I think it is an important principle that ought to be preserved.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>If you saw the types of cases that come to us as a result of it you would be inclined to lean with me in what I am proposing now.  It is not of that great importance that I should resist terrific pressure but I feel I would be giving away something that would not be in the general interest.</P>
+    </Speaker>
+    <Col N="454" />
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I think it is desirable that the provision should remain.  I could tell the Minister that of 20 cottages which were let out under contract five or six of them were very badly done.  There is no use in appealing to the person who did the job to have it put right.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Do you mean to tell me that officials would try to get away with anything like that with Deputy Hickey and others here?</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>You are going to open a flood of litigation with people seeking for their rights in the courts although they could be protected very simply under the Act.  The protection of the Minister would be sufficient guarantee to purchasers instead of their going into court against the contractor who made a bad job of their house.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>In order to satisfy everyone and entirely against my own will and judgment, and against whatever little experience I have, I will give way entirely.  In doing so, I am not doing what is in the interest of those concerned at all.</P>
+    </Speaker>
+    <Speaker pid="JamesJCollins" hpid="Mr. J.J. Collins Mr. J.J. Collins">
+      <NameTxt>Mr. J.J. Collins</NameTxt>
+      <P>We have had some experience of this in Limerick and while I was anxious that the Minister would retain some right and some protection for the people concerned, I agree with the Minister that it is primarily the duty of the local authority to see that proper repair is given to people who intend to purchase their cottages.  At the moment we may be going ahead with a fairly big cottage purchase scheme.  Quite recently I had to make a complaint to the county manager and county engineer and as a matter of fact I went to inspect the houses myself and was thoroughly dissatisfied with the repair given to those people.  We shouldered our responsibility in the local council and insisted that our county engineer and county manager would give the people competent repair.  I know we attend to all our cottiers and when they apply for the purchase they get three <Col N="455" /> forms, A, B and C; and we warn them not to sign C unless they are satisfied they have a proper repair. Then if there is a hold up or delay in giving purchase to these people, the local authority can inquire as to the cause.</P>
+      <P>It is not the Minister I would blame or the local authority for the type of work that is being scamped; it is the clerk of works or the deputy engineer who allows or approves work of that nature, who should be severely dealt with.  We should not be asking the Minister or his staff, or the engineering staff, to run round half County Kerry or anywhere else investigating a particular case.  I believe that it is the intention of all local bodies to give such people a good repair and hand over their houses in a pretty sound condition. I am glad the Minister has given way, because there is this point in it also, that if any member of a local body makes a complaint, naturally the senior engineer will have to investigate it and, human nature being what it is, and as professional etiquette might be inclined to influence it, there might be cases where the county engineer would cover up the deputy engineer.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L. Walsh Mr. L. Walsh">
+      <NameTxt>Mr. L. Walsh</NameTxt>
+      <P>Fire both of them.</P>
+    </Speaker>
+    <Speaker pid="JamesJCollins" hpid="Mr. J.J. Collins Mr. J.J. Collins">
+      <NameTxt>Mr. J.J. Collins</NameTxt>
+      <P>We could not fire the engineers.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L. Walsh Mr. L. Walsh">
+      <NameTxt>Mr. L. Walsh</NameTxt>
+      <P>Why not, for failing in their duty?</P>
+    </Speaker>
+    <Speaker pid="JamesJCollins" hpid="Mr. J.J. Collins Mr. J.J. Collins">
+      <NameTxt>Mr. J.J. Collins</NameTxt>
+      <P>I am glad the Minister has agreed to allow that to stand.  It is only fair that local authorities should act and speak in the name of the people who elected them and that we should keep in the Minister that right; and I am very pleased that the Minister has agreed to Deputy Keyes' amendment.</P>
+      <P>Amendment agreed to.</P>
+      <P>First Schedule, as amended, agreed to.</P>
+      <P>Second Schedule agreed to.</P>
+      <P>Title agreed to.</P>
+      <P>Bill reported with one amendment.</P>
+    </Speaker>
+    <P>
+      <Col N="456" /> Bill, as amended, received for final consideration, and passed.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. -" RHead="Question on the Adjournment">
+    <Title>Committee on Finance. - Question on the Adjournment.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Before we go on to the next matter, I wish to give notice that I would like to raise the subject matter of Question No. 13 on the adjournment of the House.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I will communicate with the Deputy.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Defence" RHead="Bill, 1951&mdash;Fifth Stage">
+    <Title>Committee on Finance. - Defence Bill, 1951&mdash;Fifth Stage.</Title>
+    <P>Question again proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>When I was speaking last night I was dealing with what one might describe as the superior attitude of the permanent Civil Service towards the Army.  It is something that is felt with a good deal of resentment within the Army itself.  Possibly I lean too much to the other extreme, but I feel that the general attitude of the country to the Army is epitomised in the Civil Service attitude.  I have never felt&mdash;I have said this before here&mdash;that the respect and goodwill there should be for the soldier is really there and even though matters have improved in recent years there are still people who take it upon themselves to look down on Army personnel.</P>
+    </Speaker>
+    <P>We might typify our efforts on this measure within the old cliché of the mountain in labour bringing forth a mouse.  The more I ponder on this measure the more convinced I am that as far as the Army itself is concerned this Bill marks a retrograde step.  I have argued during the course of the passage of the Bill and I propose again to argue that the whole approach to the nursing service in the Army as enshrined in this measure is completely wrong.  The intake of personnel into the Army Nursing Service is from the best possible class of highly trained and efficient, fully qualified nurses. This kind of hybrid state of existence that the Bill envisages is fundamentally bad and in actual fact is detrimental to the best interests of the service.  I have argued and still argue with the Minister that there is nothing at all to prevent the Army Nursing Service <Col N="457" /> being incorporated as a permanent limb of the Army, in which the qualified personnel can be graded in commissioned rank according to their appointment and responsibility.</P>
+    <P>Where the care and maintenance of the sick personnel is placed, in the main, in the hands of the Army Nursing Service, it is essential that its personnel in their seniority should enjoy ranks of a commissioned nature. If the doctor, the dentist or the other qualified male personnel rank as commissioned personnel&mdash;with special pay, requisites and perquisites, as a result of their qualifications&mdash;I cannot see any justification for not allowing a similar position to obtain in regard to trained, qualified nursing personnel within the Army as such.  It is very good from the point of view of discipline within the hospital itself that nurses in the discharge of their duty would carry the authority and weight that a commission would give them.</P>
+    <P>Why cannot we progress with the times?  Why must we dig into the archives of outmoded defence measures to find the basis on which to create this monstrosity, as I describe this Bill?  It is, indeed, a negation of all parliamentary effort when one finds that of an immense and widely-flung series of amendments but a microscopic few were accepted and that any alteration or easement within the Bill was, in the main, on non-major issues and on technical devices.  We must ask ourselves the straightforward question, is this measure an improvement, from the point of view of the Army, on the Continuance Bills and the multiple amendments thereto?  Bad as that system was, Army personnel had infinitely more protection under it than they will have within the framework of this measure.</P>
+    <P>The criticism of this Bill is not directed to any individual Minister. It is directed to the whole background to the measure which is now in final form.</P>
+    <P>Why must we admit defeat before we start?  Why must we deny ourselves the opportunity to produce a worthwhile Bill?  That is what we have done.  The lack of interest in this <Col N="458" /> measure has been very discouraging, and possibly the Bill is leaving this House in such an unsatisfactory form because there was not sufficient interest taken in the measure and because discussion was not sufficiently broad and Parliament was not sufficiently jealous of its duty to one of the major State services, the Defence Forces.</P>
+    <P>Even at this stage I ask why it is necessary to impose many of the restrictions embodied in the Bill.  I want to know why it is not possible to put the Army Nursing Service on a proper footing and the personnel thereof on a proper basis.  If we can delve into the archives of defence force regulations of other countries to find a basis for other matters it would have been worth while to examine the situation in other forces with regard to the nursing service.  If these estimable young women who are members of the Army Nursing Service are entitled to wear special uniform and are entitled to certain privileges and certain added remuneration, why cannot we go the rest of the way and give them the commission from the President that vests them with officer authority within their own sphere?</P>
+    <P>We have noted with considerable alarm the numbers of Army personnel, particularly officers, who are resigning or seeking release from the Army to-day.  This measure will not be a bait to encourage them to remain in the forces.  Can the Minister explain why so many officers are seeking release from the Army or why so many have obtained their release and are emigrating?  Can the Minister hold out any hope that the passage of this Bill will result in amelioration of conditions for Army personnel?  Can he assure this House that this kind of treatment of the Army as a difficult step-child of the State services will stop and that the Army will be on a <i>pari passu</i> basis with other State services?</P>
+    <P>I know that this measure has been laboured a long time and I feel that, at this stage of the proceedings, I may possibly have spoken for too long. However, I am activated in this whole contribution by a realisation of the <Col N="459" /> frustration that all our efforts have met with in the Bill which is now about to leave this House.  It is not often that I find myself <i>ad idem</i> with Deputy Cowan but, virtually right through this measure, we have been <i>ad idem</i> in an effort to cut out much of its archaic phraseology and much of its archaic conception and we have tried to make it a measure germane to the Army in its present-day position. We have not succeeded in doing so and I feel the futility of that failure.</P>
+    <P>It is seldom a person hopes this, but I sincerely hope that in the very near future the administration of this Act will necessitate a rapid review and amendments that will bring this Act into line with the type of Act which it could have been and would have been if there had been a reasonable response to the reasoned and abstract arguments adduced for its improvement. I will not repeat again the complaints that can be made against the first principles within the Bill. However, I want to warn the House that it has too lightly permitted the passage of a Bill that enshrines fundamental principles in regard to interference with the liberty of the individual and in regard to interference with his emoluments and remuneration. From the very initiation of the Bill we have the false concept in Section 4 of what constitutes a state of emergency and that is so right to the end of this long and exhausting measure.  From the start, the dice is loaded by the administrative section of the Department of Defence against the serving personnel of the Army.</P>
+    <Speaker pid="" hpid="Mr. A. Byrne Mr. A. Byrne">
+      <NameTxt>Mr. A. Byrne</NameTxt>
+      <P>I think the House has given over 100 hours to the discussion of this measure, and not an hour too long.  I have sat out most of the discussions as I was very interested in the Bill.  Right up to the time it was circulated, I thought that we would get an elaborate Defence Forces Bill, having waited so many years for it.  Last night, one of the speakers said that this Bill is leaving the Dáil in a form worse than it was at the start.</P>
+    </Speaker>
+    <P>There is one section where I think <Col N="460" /> the Minister should have listened to the pleas made to him in this House. Those pleas were in connection with the matter of an appeal to a higher court from the decision of a courtmartial, especially when a life is involved. Some of us remember courtmartials which took place in days gone by and we would very much like to have known that there was an appeal to a higher court.  The Minister is merely continuing the same old rules and regulations that were in previous Acts&mdash;Acts which were not passed in this country.</P>
+    <P>I notice, too, in the Bill that the Minister is the authority to approve of deductions and fines from the wages of officers and soldiers generally.  I notice that it is the Minister himself who, apparently, has the full power to say what the conditions of serving soldiers should be.  I agree with those speakers who said that our Army appears to be the Cinderella of State services.  A serving soldier has no opportunity of taking up a sideline in order to enable him to meet the increase in the cost of living.  He is on a very fixed wage and if the price of his cigarettes or of his bus fare should be increased he has no opportunity of finding some form of extra employment that will yield him an extra pound or two pounds to meet such increases. I hope that we will not have to wait until somebody puts down a motion&mdash;and maybe have a narrow division on it, as happened some years ago&mdash;before the Minister will decide to give soldiers generally and their families substantial pay and better conditions and, if I may say so, a better type of cloth in the uniforms which they wear.</P>
+    <P>The points which I have made may seem small points to the Minister and to the House but, with the very high cost of living.  I hear soldiers' wives complaining about the inadequacy of the allowances and of the pay which their husbands get.  In the case of men who come home and have to pay the increased bus fares, their wives cannot ask them for an increased allowance from their already inadequate wage. As the Minister has full power, I earnestly hope that he will give a substantial increase in wages to these men <Col N="461" /> and improve their conditions generally.</P>
+    <P>I do not like committees, as a rule, because it frequently happens, even after a committee, that the whole measure is thrashed out again in this House&mdash;as we have seen in the case of this Bill.  I wonder, however, if there is a committee of experts or of economists to go into the matter of the cost of living and to make a recommendation for increases in the pay of Army personnel&mdash;or is it left entirely in the hands of the Minister, or is it that the Minister is subject to the Minister for Finance and finds it difficult to get money from the Department of Finance when he himself thinks that the time has arrived to give substantial increases in wages? Undoubtedly, such increases are very necessary at the present moment.</P>
+    <P>Like other Deputies, I am disappointed that the Bill does not remedy many of the grievances and many of the things that were discussed by the Special Committee, which paid so much attention to the requirements of the Army as a whole.  I hope that at an early date the Minister will see the desirability of bringing in an amending Bill to meet the complaints which were made by members of this House in regard to the inadequacy of this Bill and to meet the views of those Deputies who, though they may not have joined in the discussion here, listened to it with great interest and sympathy.</P>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>I should like to join with Deputy A. Byrne and those other speakers who found fault with certain aspects of this Bill.  Undoubtedly, there is something wrong with the conditions that prevail in our Army because, if there were not, it would not be necessary to have these expensive recruiting campaigns in every town and village&mdash;recruiting campaigns       which are not succesful inasmuch as the Army fail to get the number of recruits they require.  I believe that there should be certain improvements in conditions in the Army and that if such improvements were made young men would be attracted to Army life. We are all only too well aware that thousands of our young men are unemployed and are signing on at the <Col N="462" /> employment exchanges and drawing a few shillings dole per week.  I firmly believe that if there were more generous concessions in the Army many of these young men would join it.  As it is, when young men join the Army they are brought for training to the Curragh, County Kildare&mdash;a place where there is no life for the soldier.  In the old days when another country was in control here we had soldiers in every town and this was a great asset to the business people of these towns.  To-day we have our Army on the plains of Kildare where there is nothing to be seen only land and the sheep, except on a race day. I think something should be done about this.</P>
+      <P>I see advertisements in the paper stating that recruiting will be held in such and such a town.  That is going on since the State was founded and at the same time it seems we have not sufficient numbers in the Army.  That should prove to the Minister that there is something wrong and that there is not sufficient to induce young people to come into the Army.  We also have a number of people in married quarters that are little more than slums.  There is no doubt about that. In all the Army's married quarters, people&mdash;I know some from my own county who are here in the City of Dublin&mdash;are living in overcrowded, or almost overcrowded conditions, and no provision has been made through the housing section of the Army to build houses for these married members of the forces.  Therefore, we have married men separated from their wives and families and this is due to not having a proper place to accommodate married soldiers.</P>
+    </Speaker>
+    <P>If all these things were investigated and remedied, I think the money would be well spent and it would be unnecessary to bring in further Bills aimed at improving the Army.  No Bill so far has been successful, and it seems, according to Deputy Collins and Deputy Cowan&mdash;both men with military service&mdash;that this Bill will not meet the requirements either.  I believe when the Minister was going to do anything he should have gone the whole way and so arranged that <Col N="463" /> young people would be able to say: &ldquo;I am going to join the Army where I will have good pay; I will have certain time off for myself, and I will have some amusements to go to.&rdquo;  This could be done instead of putting them into an isolated part of the country. If the Minister did that, he would be doing a service to the community at large.  Army units should be stationed in provincial towns and removed from overcrowded centres.  If that were done, it would be welcomed by the ratepayers as well as by the business people.  More people would do business in the provincial towns, and you would have men going in to buy cigarettes and drinks.  As it is, all that is confined to one centre.  There is plenty of room throughout the country for the Army but everything is in Dublin and the rest of the country is forgotten.</P>
+    <P>Until conditions in the Army and everything attached to it are improved it will not be possible to wind up recruiting but if good conditions and pay are provided the young men will then join rather than stay on the dole for a few shillings.  Others who are leaving this country to join other Armies because conditions are better there, will remain at home.  During the emergency a number of people left our own Army to go to other armies because the pay was better and their families benefited.  If the present Minister and Government are not prepared to make improvements then some Minister and some Government will have to do it and create encouragement for young men to join the forces.</P>
+    <Speaker pid="HarryColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>I must say I have been surprised at the strength of opposition that has been shown on this Final Stage to some sections of the Bill.  If I remember correctly Deputy Collins referred to a feeling of frustration that he had about certain amendments not being met.  I do not think there has ever been a Bill put through this House on which any Minister went so far as the present Minister for Defence went to meet the views expressed on Committee and Report Stages of this Bill.  I think well over 100 amendments were put down by the Minister to meet <Col N="464" /> Deputies' points.  He could not meet some of the points because he felt that it would weaken and probably ruin the Bill if he did so.</P>
+      <P>Section 4 was referred to.  Personally I feel that without Section 4 this Bill would be absolutely incomplete, because as I see it, there would be no power whatever for the Government to put the Army on an active service basis in the case of an internal emergency, without Section 4.  The Constitution refers only to an external emergency and if we had an internal emergency there would be no power at all in the Government to deal with it. The Government, I suppose, would deal with it, but if things went wrong, as happened in other parts of Europe, they could be tried and possibly executed afterwards for breaking the law.  I think Section 4 is an essential part of that Bill.  I think I explained that in committee&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>But surely the Constitution provides a safeguard?</P>
+    </Speaker>
+    <Speaker pid="HarryColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>It does not; if my memory serves me rightly we had a debate on it in the committee and we had the legal view of the highest authority on that matter&mdash;as to why the section was necessary.</P>
+      <P>We have been told several times by the Minister that this Bill has been submitted to and approved by the Army staff.  I am sure that the Army staff are not so far removed from their own Army days as not to try to see things right for the ordinary member of the forces.  They have approved of this Bill.</P>
+      <P>Deputy Byrne referred to appeals to High Courts that were mentioned here. Some of the amendments that were put down on that point provided for appeals to an outside court or a higher civil court in wartime when possibly you would not have any civil court at all.  Neither could you provide that there should be in wartime an appeal to a civil court on military offences.  To my mind, that is not reasonable or rational and I would consider it an unreasonable innovation.</P>
+    </Speaker>
+    <P>Personally I think the Bill is a good Bill.  It has got grave consideration <Col N="465" /> from the people who took part in the debate on it&mdash;I admit that.  On the whole, I think it is a very good Bill and greatly improved since it was originally introduced.</P>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I am sure Deputy Cowan will be amused at the sort of support he has got on this Final Stage. Of course, a couple of the latter speeches we listened to were made with a view to the general election. When you have the sort of statement made by Deputy O'Leary telling us that we should have the troops in every town in Ireland, the Deputy is thinking in terms of the days when there was an empire in control here capable of filling every barrack and every post in Ireland, and of the days when it was necessary to do that.  We know the results of that.  We are not living in that era.  We are living in an era when a proposed Army of 12,000 was opposed by Deputy O'Leary and his fellow members of the Opposition and yet, in spite of the fact that we have not yet recruited 11,000 men, Deputy O'Leary wants to fill every town in the country with soldiers in order that commercial conditions will be made better.  We would be delighted to do that if we had the wherewithal to do it.</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>You have the forces where the soldiers are stationed.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>Of course we have. Will you get us the soldiers?</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>If you make the terms good for the young men you will get them.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>The terms are very much better than they were some years ago and I hope they will be better still in the future; but the question of securing the wherewithal will have to get the support of Deputy O'Leary and his fellow Deputies.  Now to get down to the discussion of this Bill, I say that the complaints made at this particular stage have been grossly exaggerated.  I do not know why Deputy Collins and Deputy MacEoin came in at this stage with the vehement type of speech which each of them made when neither of them gave Deputy Cowan the fullblooded support he would have needed <Col N="466" /> in the earlier stages to have forced through some of the points which he was endeavouring to force through.  It is all very well to come in at the last moment and make these speeches.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>I do not think that is entirely true.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I will tell you what I will do in order to show that I am not exaggerating; I will give a list of the attendances at the meetings of the Special Committee and at the divisions and I think that will endorse what I am saying and show that I am not exaggerating in any way.  I have the greatest admiration that any Minister could have for the efforts which Deputy Cowan put into endeavouring to make this Bill, from his point of view, a better Bill than it is. I can understand his vigorous opposition throughout every stage of the Bill, but I find it difficult to take the same view of the attitude of some of the other Deputies who have spoken on it, especially Deputy MacEoin.  If they had been present, as Deputy Cowan was, at every meeting of the Special Committee, I do not know that it would have made any difference. Their frustration might have been just the same as they say it is at present, because I had a task to perform and I endeavoured to perform it as fairly as it was possible to do it, and at the same time to give to the Army what they were looking for.  I endeavoured as far as it was humanly possible to hold the scales fairly in that respect.  Whether I succeeded or not remains to be seen.</P>
+    </Speaker>
+    <P>I have not the same fears that Deputy Cowan or Deputy MacEoin has in respect to this Bill.  I think it is an excellent Bill and that time will prove that it is an excellent Bill.  It is mainly composed of the Bills which were inaugurated in this House from 1923 onwards and it largely includes the series of amendments over those 30 years.  These amendments, as I said in the course of one of my speeches, and which Deputy Cowan seemed to think was giving him a handle in some respect, were made because of the experience developed over all those years that the Army was in being.  It is only by practical <Col N="467" /> experience that any of these things can be developed.</P>
+    <P>This is not a permanent Bill in the sense that it cannot be altered.  It can be altered next year; it can be altered the month after the Bill is passed by the Seanad, if it is passed by the Seanad.  Because somebody entitles it a permanent Bill, that does not make it a permanent Bill.  If the necessity should arise to have it altered, it will be altered.  I am sure that the Army would be the first to recommend an alteration if it were thought to be a desirable alteration.  I do not want to wish will to Deputy Cowan, but I do hope that some day he will be Minister for Defence.  If that day arrives and God spares me, I will follow his career as Minister with tremendous interest to see what he will do in respect of this or any other Bill of this type.</P>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>Of course, you know that will never happen.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I am not so sure of that.  Deputy Cowan, at the beginning of his speech last night, said that he came to the discussion of this Bill with the utmost enthusiasm.  I can endorse that.  There is no doubt that he did that.  He said that he came in with the utmost enthusiasm and that he brought in hundreds of amendments. I can endorse that also.  I can say it is because Deputy Cowan came in with that enthusiasm and put down these hundreds of amendments that in course of time he became soured by reason of the fact that these hundreds of amendments could not be accepted. I can appreciate his feelings as a lone fighter at the Special Committee, endeavouring to push his views on to the committee and doing that, in my opinion, brilliantly.  But he was up against what I might describe as a very level-headed and sound committee, a committee of individuals who were not swayed by oratory but wanted to have facts and to be given proof, and, unfortunately for Deputy Cowan, I was able to produce at all times legal opinion which was given to me in respect of the points that the Deputy was making.</P>
+    </Speaker>
+    <P>I am in the position that I must <Col N="468" /> rely on legal opinions.  I was fortified by the fact that I had at my disposal perhaps the best legal opinions that could be secured and that I had the knowledge that this Bill was drafted by the best drafting lawyers at the disposal of the Government, men who were responsible for drafting some of the most highly complicated Bills that have ever passed through this House. Being fortified with that knowledge, and being fortified also with the knowledge that the sections which were described by Deputy Cowan and by Deputy Collins as being entirely unconstitutional were not in fact unconstitutional, I had to resist the Deputy's amendments.  I had to resist them first of all because I knew the Army were anxious to secure this type of measure; and when Deputy Cowan said or suggested&mdash;he did not say it but he did suggest it&mdash;that I was slavishly accepting the military view when I should have been forcing my own opinion, I want to say in reply that I was not slavishly accepting military opinion but I was accepting military opinion that coincided with my own opinion and from that point of view I could not be expected to accept the Deputy's point of view.  The Deputy talked about frustration.  So did Deputy Collins.  Deputy Collins talked about being up against an impenetrable wall against which it was impossible to make any progress.  That is not so, and Deputy Cowan knows that it is not so, because at least Deputy Cowan said that some things in the Bill were good, while Deputy Collins said that nothing was good in it.  Deputy Collins in his final speech denounced the Bill from beginning to end. Whether he really believed that or not I do not know.  I think he was merely making a speech.  But Deputy Cowan did at least admit that there were some useful and valuable points in the Bill.  He would have to admit that. If he did not admit it then he would be denying that some of the amendments which he himself put down and which I accepted were any good.</P>
+    <P>The position is this, that I had 107 amendments to this Bill; and I should say that they were designed in the main to meet the views expressed at the Special Committee, views which <Col N="469" /> in the main were expressed by Deputy Cowan; of the 107, 77 were amendments of the type which I have just mentioned.  At least 77 somethings penetrated that impenetrable wall.  Is not that so?  It cannot have been so bad as Deputy Collins seemed to think it was. Deputy Cowan himself had 110 amendments down, which, I might say, were repetitions of propositions that he had made at the Special Committee.  On the Report Stage, of the 110 amendments which Deputy Cowan had down I accepted 17, and 17 was, in the circumstances with which I was confronted, very reasonable, so that Deputy Cowan has something, at least, to show for the industry which he put into the discussion of this particular measure.</P>
+    <P>The Bill is a voluminous document. I do not know, of course, whether it is a record or not in respect to Bills going through this House, but I do know that it is a voluminous document, and I am just wondering if Deputies were frightened off from discussing the Bill for that reason.  It consists of 12 parts, 22 chapters, ten schedules and 318 sections.  That is a formidable type of document for a man who is not versed in the technicalities of military affairs, and especially military law, and that is one reason, I would say, why there was no great desire to rush into the debate on this particular measure.  Deputies, no doubt, felt that if they started to participate in the discussions on this Bill and if, in the course of the debate, they were found wanting, they would be making themselves look somewhat ridiculous, and from that point of view they may have been frightened off.  In support of that, Deputy Cowan's own attitude to the Bill in making it a purely legal discussion, which circled all the time round whether this was legal or that was legal, this was lawful or that was lawful, made it too technical for the ordinary Deputy to come in and to participate to the same extent as the few Deputies who did participate in these discussions.</P>
+    <P>It was introduced originally away back in, I think, July, 1939.  Then the emergency came along and it was postponed, and properly so because, as everybody knows, during the emergency <Col N="470" /> there were more amendments to the Bill.  Every year I was in the unfortunate position of bringing in a whole pile of amendments to the Temporary Provisions Act.  In view of that and in view of the fact that if we did attempt to bring in a permanent Bill we would have to be altering it and it would soon be in the same tattered state as the present Act, it was decided to postpone it, so it was postponed.  Then in 1949, I think, the late Deputy Dr. O'Higgins introduced it, and because of the change of Government nothing occurred; but in 1951 I reintroduced it and we have been discussing it on and off regularly ever since.  In regard to the Special Committee, as Deputies who took an interest in this Bill know, we were there for three solid months discussing it day in and day out, and I am prepared to say that very valuable work was done.  Since coming out of the Special Committee in May, 1952, we have been discussing it intermittently. Whatever complaints may be made against the Bill I would venture to make this statement&mdash;that no complaint whatever can be made in respect to the freedom which was available to every and any Deputy who wished to speak on the Bill for as long or as short as he wished to speak on it; and from that point of view I think we can look back on the discussion of this Bill with a certain amount of pride.</P>
+    <P>Every time the Bill was discussed, whether it was in the Special Committee or on the Report Stage&mdash;I want to emphasise this, that on every possible occasion that any doubt was expressed as to the legality or otherwise of a section or a sub-section, or any question was raised as to the constitutionality of the Bill, I had the Bill or the section or the sub-section or whatever it was critically examined by the Attorney-General or the Attorney-General's office; and on every occasion I was assured that the position was perfectly legal, perfectly constitutional, and from that point of view I am perfectly satisfied that the statements that were being made in this House were statements that were ill-informed, to say the least of it, and were not accurate.</P>
+    <P>
+      <Col N="471" /> Deputy MacEoin in the course of his speech on this stage last evening referred in scathing terms to Section 4. Deputy Cowan also referred to that section.  I should remind all concerned that this section deals mainly with a period of emergency&mdash;a period of emergency for defence.  I do not think there is anything sinister whatever in the section, as some Deputies seem to think. The main powers that the Government could operate through this particular section have been referred to by Deputy Colley and his explanation of them was accurate.  One power is to enlist men under Section 54.  Under Section 54 we can enlist men for the duration of an emergency however long or short that emergency might be.  Power is also given to call up the Reserve on permanent service under Section 87. Surely there is nothing wrong about these aspects of the section?  Power is also given to billet members of the Defence Forces if necessary in private houses or whatever accommodation can be found.  These things can be done only for the purposes of an emergency so why should we cavil at them?  Surely the Army or the Government, which must accept responsibility for the situation which is likely to arise in time of an emergency, must endeavour as far as is humanly possible, to see to every possible contingency that is likely to arise and to provide for it? While I do not imagine that, even in a time of emergency, the Army would go rushing into a private house, the provision should be there in case the necessity should arise.</P>
+    <P>As I said in the Special Committee, this is the Army of the people and if the Army were defending the rights and the liberties of the Irish people they would, I am sure, be welcomed with open arms as billeting units.  In addition to that there is the fact that their expenses would be paid.  People who would do these men the honour of billeting them in their homes would be paid and would not be at any loss.  While there might be a considerable amount of inconvenience caused, the very fact that the Army was there protecting the people would of itself be a sufficient <Col N="472" /> reward, so that there is nothing sinister about that provision.  I cannot see why Deputy Cowan and others who referred to it should try to read into the section things that are not there and that are not likely to be there.</P>
+    <P>Deputy MacEoin referred to placing of officers on half-pay.  In one of the sections we do make provision for placing officers on half-pay.  While that can be used as a disciplinary measure, its main purpose is to provide for officers who are seconded from the Army to another State Department. For instance we had the case of Captain Boles who was seconded to Radio Éireann.  He was placed on half-pay; in other words, the Department of Defence paid one-half of his salary and the Department of Posts and Telegraphs paid the other half.  I think the same thing happened in the case of Captain, or as he now is, Lieutenant-Colonel Doyle.  At the present moment I think there is a case of an officer who is engaged on work on the historical aspects of An Tóstal. He is also seconded on half-pay from the Army, one-half being paid by the Department of Defence and the other half by the appropriate authority.</P>
+    <P>Then the Inspector-General was referred to by Deputy MacEoin.  I am not sure whether Deputy Cowan was interested in that or not.</P>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>Not in the way it was put.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>The fact of the matter is that there is not an Inspector-General at present.  He was there for a very short period a very long time ago.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>That was in 1924.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>It was deemed desirable to mention him in this Bill mainly from the point of view that if ever we should need him we could have him. Section 14 deals with the Inspector-General. Anyone who is sufficiently interested to read this section will see that his powers are circumscribed by sub-section (4) of Section 14.  Under sub-section (2), his period of office may be terminated by the Government at any moment, so there again the fears that <Col N="473" /> seem to exist in the mind of Deputy MacEoin are not, I think, real.</P>
+      <P>Deputy Cowan expounded his views on the question of the Court of Criminal Appeal and he was at least consistent, because, in the Special Committee, as well, he put up a strong fight to have the Court of Criminal Appeal made available for appeals by persons who were sentenced by courtmartial. The constitutional position in regard to this proposed appeal was debated in the Special Committee and I had the question considered by a committee of legal experts.  Deputy Cowan will remember that I had it examined by a committee consisting of a legal expert from the Attorney-General's office, another from the Department of Justice and a third from my own Department, all of whom sat down as a group of neutral individuals, whose minds were not obsessed with any particular views, one way or the other.  They gave their impressions and the views they put forward are embodied in the Bill and are those which we propose to operate.</P>
+    </Speaker>
+    <P>I am satisfied that the machinery provided in this Bill for courts-martial will provide adequate safeguards for a sentenced person.  In view of the further criticism which has been made on this Final Stage, it may be well for me to set out the proposals again.  To show the harmful effects that speeches of a certain kind may have, we had the spectacle of Deputy Byrne, on this Final Stage, standing up and saying how affected he was by what he had heard on this Final Stage.  I want to point out that sentences do not become valid unless they are confirmed by a confirming authority, and that the confirming authority, in every case, obtains the advice of the Judge Advocate-General before confirming the sentence.  Deputy Cowan knows, but other Deputies may not know, that the Judge Advocate-General is a civilian lawyer, a man who sits outside the Army altogether.  He must be a man of not less than ten years' standing as a barrister.  He sits down and examines a sentence from every possible aspect before it is confirmed.  It will also be seen from Section 15 that the Judge Advocate-General must, as <Col N="474" /> I have said, be a civilian.  He cannot be a military officer, even though he may be a military legal adviser.  In addition, confirmed sentences, other than sentences of death, are reviewed by a superior authority who is, generally speaking, a Minister or the Adjutant-General.  At this stage, the punishment may be mitigated or may be remitted entirely.</P>
+    <P>In the case of a confirmed sentence of death, the sentence cannot be carried out unless it is approved by the Government, and I do not know if there is any body of men in this land &mdash;Supreme Court or any other court&mdash; who will have more humanity and more regard for life than a body of 11 or 12 men who are men of the people, elected by the people, and who are confronted with the serious decision of whether a life should be taken or not.</P>
+    <P>In addition, in all cases, the sentenced person will have the right of appeal in the form of a petition. Deputy Cowan made very little of the provision in relation to that petition, and seems to think it was a going hat in hand to somebody and saying: &ldquo;Please, sir, will you let me off?  I have been a bad boy, but I will never be a bad boy again if you will let me off.&rdquo;  That, in fact, is not the position.</P>
+    <P>In the case of the 1949 Pensions Act, when the decision was taken to provide an appeal under that Act from the 1934 or 1924 decisions, strangely enough, it was not called an appeal.  The draftsmen went out of their way&mdash;I am sure they must have done so for some very good and sound reasons&mdash;to call it a petition, but they are the only people in the country who call it a petition.  Everyone I hear referring to it refers to it as an appeal against the decision arrived at under the 1924 or 1934 Acts.  In this case, the very same applies.  It is named a petition&mdash;I do not know why &mdash;but it is in fact an appeal and I think it will be the most effective type of appeal it would be possible to make, because again it will be made to the Minister.</P>
+    <P>Deputy Collins got hot under the collar about the nursing service and Deputy MacEoin made an impassioned <Col N="475" /> plea to have the nursing service brought into the Army.</P>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Not impassioned &mdash;I asked was it examined.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>We put uniforms on the nursing service during the emergency period.  These uniforms were not put on them to make them glamorous or anything like that, but as a protection at a time when we did not know the day or the hour we might be invaded.  If these people were found in contact with warring elements, they might lose their lives and the uniform was put on them primarily as a protection.  If they were brought into the Army their lot would not be made any better as Deputy MacEoin seemed to think it would, and as Deputy Collins certainly seemed to think.  It might, in fact, be made more difficult, and we might have Deputy Collins, Deputy MacEoin and even Deputy Cowan coming in here and pleading with me for the removal of some disciplinary measure which could be utilised in respect of them. Under Section 290 provision is made for the application of any of the provisions of the Act to the nursing service, so that if we want to bring the nurses into the Army at any time we are given full scope to do so.  I cannot see, however, what benefit it would confer on them.</P>
+    </Speaker>
+    <P>Deputy Cowan will have to forgive me for mentioning him continually.  I have to do so because he was the main source of discussion, and the daily newspapers have referred to the continuous duel going on between Deputy Cowan and the Minister.  I suppose it was a wordy duel, but that is why I have to keep on mentioning him.  He objected to the power which this Bill gives to acquire land.  I cannot understand Deputy Cowan objecting to me or my successor getting the power to acquire land when the Minister for Industry and Commerce has a similar power.  That Minister has the power mainly in respect of the acquisition of land for aerodromes in case he might need it, but the strange thing is that that is mainly what the Minister for Defence would be likely to have it for <Col N="476" /> also.  If there was a war here to-morrow we might have to ensure&mdash;&mdash;</P>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>You would have the whole country then, and it would not be necessary.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>&mdash;&mdash;that we would get places where our planes could land or the planes of our allies, if we were allied with anyone, in the central portion of the country.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I think I was drawing attention to the fact that this Bill affected the ordinary people as well as the Army and to the fact that there was so little interest taken in the House in matters affecting the citizens as a whole.  I was trying to relate this matter to that point.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>Section 32 gives the Minister for Defence power, with the consent of the Minister for Finance&mdash; so that there is a certain safeguard there, too&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I felt that there should be further safeguards.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>&mdash;&mdash;to acquire land by agreement.  We did acquire land during the emergency on a number of occasions and there was only one case in which we could not get agreement and in which we had to take it compulsorily because it was necessary.  I am sure that Deputy Cowan would not object, in a time of emergency, to the acquisition of land, if it was for the common good and it would not be taken except in circumstances which demanded that it should be taken for the common good.</P>
+    </Speaker>
+    <P>As regards pay, forfeitures and deductions, I think the Deputy will have to admit that I went a very long way to try and meet his views in regard to this particular phase of the Bill. I think I have actually incorporated in the Bill the points made by the Deputy.  They have been inserted in the Bill.  In other words, I put into the Bill the very things that the Deputy referred to as being unfair.  I inserted them in the Bill so that the individual would know what fine could be inflicted on him and for what a forfeiture would occur.  Having put them <Col N="477" /> into the Bill in the form in which they are, naming the headings, they will be made in that respect now and circumscribed to the extent that regulations can be made now only within the limitations which the Bill imposes on them.</P>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>The Bill gives the headings on which stoppages may be made.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>To that extent the regulations will be limited.</P>
+      <P>At some stage in the course of the discussion somebody said that the regulations might even go further than the Bill.  That will not be so.  Deputy Cowan also said that this Bill consisted mainly of Civil Service red tape.  At the same time and at another period he was endeavouring to ensure that as far as it was humanly possible the military should not be brought in on everything. The military have been brought in on everything in this Bill and if the Civil Service forces its opinions down the necks of the military, then all I can say is that I would be surprised.  I do not think that happened when they sat down to discuss the measures contained in this Bill.  There was compromise, agreement, insertions, deletions and so on.  What we have before us to-day are the things that have been agreed by those who originally drafted this Bill roughly.  They are, in fact, the things for which the Army are looking. It is wrong to say that I slavishly accepted the military viewpoint merely because the military wanted it.  As I said a few moments ago, I only accepted the military viewpoint when it happened to coincide with my own and other civilian viewpoints.  From that aspect, I think, if I may advert to the view of the man in the street, things will be all right.</P>
+    </Speaker>
+    <P>Deputy Collins said we were putting provisions into this Bill we would never use and asked why we should clutter up the Bill, as it is now, with provisions that we may never have any possible use for.  Again, I can only say that we are trying to foresee as far as it is humanly possible the likely things that may arise either in peace time or in times of an emergency.  One might as well ask oneself why does the Board of Trade, or whoever is the authority, <Col N="478" /> enforce on all the great shipping lines the regulations which make them carry all the life saving devices which they have to carry&mdash;hundreds of huge lifeboats, rafts, buoys and all the rest&mdash; especially when we are told that these great liners to which I refer are unsinkable or thought to be unsinkable.</P>
+    <P>The only answer is the possible off-chance that something may happen such as happened, say, to that great liner the <i>Titanic.</i>  It is just an effort to try and foresee the likelihood of that off-chance ever occurring.  If that off-chance ever occurs, we are at least provided with the ways and means by which protection can be offered or authority used.  Deputy Collins talked about officer personnel leaving the Army.  I am not aware of that.  I am not aware of any desire on the part of officers of this Army to get out of the Army and leave the country.</P>
+    <P>If such was occurring, I would have to be fully aware of it because I have got to see every resignation which is tendered by an officer.  I have got to recommend acceptance or otherwise of the resignation.  The very few of those which I have seen are for officers who are generally going from the Army into some other branch of the State service, bettering, themselves no doubt.  That is the only type of resignation with which I am confronted. I can only regard as a gross exaggeration the suggestion that the Army officers are running away.</P>
+    <P>Reference was made to the fact that it was a pity this permanent Bill was coming in and that there would no longer be ways and means for a discussion of Army matters.  I do not think that is correct.  First of all, we are provided with ample opportunity for discussing Army and defence matters on the annual Estimate for Defence.  If that is not sufficient, I feel that a Deputy can always put down a motion to have some particular aspect of Army or defence affairs discussed in full.  But that is not a very serious matter.  It is a matter that can always be brought up at the will of a Deputy who is sufficiently interested to take the matter up.</P>
+    <P>I should like to conclude on this note.  As far as I am concerned, unless <Col N="479" /> my vision is blurred and I am not being properly advised, I think the situation in the Army at the present time is one which can be described as happy.  In my perambulations around I see young men who seem to me to have all the appearance of being happy young men enjoying Army life, perhaps, for the first time.  They are well clothed and fed.  They are provided with the best of shelter and with every possible means of relaxation or form of amusement when their duty period is over.  They have ample time to go home if they live convenient to their homes and enjoy reunification, if you like to call it that, with their friends.</P>
+    <P>I think I can say that, on the whole, the position, as far as the Army is concerned, is as good to-day as ever it was and that it is only necessary to continue recruiting to ensure we will have an Army of some strength and, in having an Army of some strength, we will also develop and build up a Reserve.  I think that should be the aim of every Government and every Minister who occupies the honourable post which I occupy at the moment.</P>
+    <P>I should like to pay a tribute to all the Deputies who participated so loyally in and who gave their services during the period of the Special Committee and gave them generously. Especially would I like to pay a tribute to Deputy Cowan, whose industry in regard to this Bill was, to say the least of it, remarkable.  It is an astonishing thing to find a Deputy going to the trouble of putting down the very intricate amendments which Deputy Cowan put down and then dealing with them, both in committee and on Report Stage, mainly by himself. I think that is a tribute, first of all, to his industry; it is also a tribute to his parliamentary ability.  I say that now because in the course of the debate I may have said a number of things that hurt him.  If I did, I want to say that I did so merely because I was trying to be emphatic in asserting my own belief in what I was saying. His attendances at the committee were 100 per cent.  He was in many <Col N="480" /> respects a heroic, lone figure when it came to divisions.  Anyone who likes to take the trouble of reading the report of that committee will see there Deputies Colley, Hilliard, Brennan, Gallagher and so on against the lone Deputy Cowan.  From that point of view, his industry in respect of this Bill is understandable.  His attendances at the committee meetings were 100 per cent.  There were 23 meetings and there were 24 divisions. He attended the 23 meetings.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>This is obviously an appeal for Deputy Cowan's No. 2 at the coming election.  Why not be straight about it?</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>The Deputy is the best electioneering agent that ever was. He has only to read the Order Paper to-day to see the number of questions he asked about Laois-Offaly in order to buidd up his chances as far as it is humanly possible to build them.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Let us get back now to the Bill.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I am paying a tribute to a man I regard as an opponent.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>This stunting between the Minister and Deputy Cowan is wasting the time of the House, giving election bouquets to Deputy Cowan in order to get his No. 2.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Minister should be allowed to conclude.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I sincerely hope Deputy Cowan will be elected and anything I can do to get him elected I will do.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>You want him in.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>That will not stop me paying him the tribute he deserves. Deputy O'Higgins was a member of the Special Committee.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I assure the Minister this will not affect me in the slightest.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>He attended one <Col N="481" /> division and he put down one motion, which he did not move.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I put down an amendment to delete Section 4 of the Bill and I spoke on that amendment. I must say the Minister was not very good on Section 4.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>If a man allows his name to be put forward for a committee he should at least attend that committee.  I am paying a well deserved tribute to Deputy Cowan.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>The Minister is paying a timely tribute to Deputy Cowan because we are on the eve of a general election.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Order! The Minister should be allowed to conclude.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>Anyone who reads this document will see that he deserves those tributes.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>That is not what the Minister said.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>I condemn Deputy O'Higgins for the manner in which he treated the Bill.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>The Minister's condemnation will make no difference to the results of the general election.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>He attended three meetings out of 23 and one division. That was his contribution to this Bill.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Is that an attack on the Chair?</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Mr. Traynor Mr. Traynor">
+      <NameTxt>Mr. Traynor</NameTxt>
+      <P>Perhaps if I were to go down this document I might be regarded as going deliberately out of my way to injure other Deputies.  I did intend to read it.  Now, because reading it might be regarded as not doing justice so to speak to other Deputies who allowed their names to go on it, I will refrain from reading it. Anyone who wishes to find out the truth of what I am saying would be well advised to study the special report.  In studying that report he will appreciate the sincerity, or otherwise, of some of the speeches to which <Col N="482" /> I have had to listen from Opposition Deputies.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Adjournment" RHead="Debate&mdash;Income-Tax on Nurses' Allowances">
+    <Title>Committee on Finance. - Adjournment Debate&mdash;Income-Tax on Nurses' Allowances.</Title>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>In Question No. 13 on to-day's Order Paper I raised the question of the position of county hospital nurses in Portlaoise.  The problem is, of course, a general one and I raised it conscious of the fact that the Minister for Health himself, and he has responsibility to this House for the pay, conditions and general regulations relating to nurses, would not stand over the grievance dealt with in this question.</P>
+      <P>It appears that some time ago the organisation representing county nurses, both lay and religious, entered into an agreement with the Minister in relation to their terms and conditions of pay.  Up to that time nurses in county hospitals were paid a basic salary, not very much, which was intended to provide for them something over and above their board, lodging, uniform and other matters of that kind.</P>
+      <P>Let us assume that the basic salary was £x: they were then entitled to free board and lodging, uniform and certain other emoluments.  As a result of the agreement entered into with the Minister, board, lodging, uniform and the other emoluments were valued for the first time.  Let us assume they were valued at £y.  Nurses were then paid a gross salary of £x plus £y, but the £y was naturally never paid to them and was retained, as it always had been, by the local authorities and nurses continued to receive merely their basic salary.</P>
+    </Speaker>
+    <P>So far as the ordinary nurses were concerned, they felt that things were very much the same.  They still got their basic salary; they still got their board and lodging and they still got their uniform.  However, things were not the same because this year an income-tax assessment has been raised on every one of them, both lay and religious, on the gross salary calculated in agreement with the Minister. Accordingly, they were assessed for tax <Col N="483" /> and were taxed in respect of income which they never received.</P>
+    <P>I said, in effect, in the question which I put down to the Minister that this liability for tax was completely unexpected by them.  The Minister said that it was discussed with the staff organisation.  I am sure that is so, but so far as the ordinary nurses are concerned I repeat that not one of them contemplated for one minute that the change in the basis of their pay would mean that they would be made liable for tax on the value of the emoluments which they have always received.  The position now is&mdash;I want to bring this to the notice of the Minister in the hope that he will see the justice of what I am saying&mdash;that a young probationer nurse in, say, the county hospital of Portlaoise or in any of the other county hospitals who is paid say&mdash;I do not know the scales&mdash; something around £150 per year or £3 per week, and sends some of it home, is left with about £2 per week for whatever pleasures a young nurse may look forward to.  I know of one case where a young nurse does that.  In the case of that particular probationer nurse there is now a tax assessment on her which she cannot possibly meet. The injustice, of course, arises in a more marked degree in the case of the older nurses who are paid a slightly higher basic salary.  They have been assessed for tax this year for a lump sum of round about £25 or £30 which they cannot pay.</P>
+    <P>I suggest to the Minister that he should reconsider the whole matter. It is obvious that whatever slight improvement has come to the nurses in regard to their conditions and pay is being neutralised by the imposition of this tax on them.  I am quite certain that the local authorities throughout the country would co-operate with the Minister if he suggested that this tax liability should be borne by each of the local authorities.  I was hopeful that the Minister for Finance might be able to deal with this matter as a legislative proposal in the new Finance Bill.  I know that is not a matter over which the Minister for Health can exercise any responsibility.  It is a matter however, <Col N="484" /> that I am sure the Minister is aware of, and the fact is that it is important.  This liability for tax does not arise because of any clear section in the Income-Tax Act.  It arises because of a tax case decision some years ago.  The decision in that tax case did not appear, certainly before it was made, to cover the intention of the Income-Tax Act of 1918, but it is now case law and, as it applies to these nurses, it is causing quite considerable hardship.</P>
+    <P>I would urge the Minister to reconsider the whole matter in conjunction with the local authorities involved.  If he would do so, I am quite certain that some reasonable scheme could be adopted whereby these unfortunate girls would not be asked to meet quite a large liability in tax at the end of the year.  They have no fund out of which to provide for it.  The imposition of the tax works a very considerable hardship on them.</P>
+    <Speaker pid="JamesRyan" hpid="Minister for Health (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Health (Dr. Ryan)</NameTxt>
+      <P>Early in 1952 an agreement was made with the staffs of hospitals generally. It did not cover all of them.  Under that agreement, we departed from the system that had been in operation up to that time, when nurses got so much by way of cash and so much in perquisites.  In that way, their income was made up.  The new agreement, made in 1952, laid down salary scales under which deductions are made for those living in.  It was made very plain, I think, to everyone at that time that, on the whole, the staffs would benefit by the new arrangement, even allowing for the payment of income-tax.  I have here a letter which was received from the Irish Nurses' Organisation.  It says that:&mdash;</P>
+      <P>&ldquo;On 5th June we submitted draft of the Minister's proposed salary scales for all grades to a private session at our annual general meeting on 11th June, and there was general approval of the scales suggested for the matrons and nursing staffs of the local authority hospitals.&rdquo;</P>
+    </Speaker>
+    <P>There was a table set out which was freely used in these negotiations to enable the people on both sides to <Col N="485" /> realise what was being done.  I propose to take an example of a staff nurse in a hospital.  By the way, the Deputy made a slip in referring to probationer nurses.  There are no probationer nurses here.  A staff nurse of more than four years' service&mdash;the Deputy mentioned to-day a salary of £380, which would appear to identify a nurse of more than four years' service&mdash;had prior to this agreement £142 per year.  She had a bonus of £42, which made a cash income of £184, less £15 payable for superannuation. Therefore, she actually received in cash £169.  She had, of course, free board and lodging, as well as the £169. The new agreement laid down that that nurse of four years' service would get £350 in cash, and from that would be deducted for emoluments received in kind, £125; superannuation, £17, and income-tax, £20.  The income-tax was based on the assumption that she was a single girl.  That was her annual earned income and the amount of tax payable was £20.  These total deductions from the £350 gave her £188. Therefore, after paying income-tax, she had £188 as compared with £169 before.  Since then, of course, bonuses have been added.  A nurse of four or five years' service would now have £380 in cash on account of bonus which was recently added.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Does the income-tax come out of that?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>The income-tax would go up accordingly.  If the income-tax went up by £4 or £5 it would mean she would now have some £26 more than she had before which would bring the amount up to £314.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It appears to be £19 more than she had.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>In the case of mental nurses, a Deputy might be able to pick out an individual who is perhaps £1 or £2 worse off than she would have been under the old agreement but the unions we were negotiating with found that in smoothing out the scale nobody suffered a reduction under the new arrangement of more than £1 or £2 in the year.  On the other hand, there were much more <Col N="486" /> substantial advances in certain cases and the unions concerned, those representing the mental hospital attendants and those representing the nurses, were agreeable to the arrangement in the end.  They thought it was a fair way of meeting the case. I read out the letter from the Nurses' Union, in which they accepted it.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>They were easily satisfied.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I can tell the Deputy they were by no means easily satisfied.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>They settled at a low figure.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>At any rate there is this to be said, the unions representing these people did accept and I think the Deputy will agree that the unions are no great fools in accepting arrangements of this kind.  Since then I must say I have found no complaints from those who accepted this arrangement. It may be as the Deputy pointed out that an individual nurse may spend her money as she gets it and when she gets a bill for income-tax she may find it hard to meet it.  There are many in the same boat apart from nurses but I am afraid we cannot help that.  The local authorities have paid more on the whole to nurses than they were paying before and they paid, in fact, enough to enable them to meet their income-tax bill.  I think it would be very unfair to ask the local authority and the ratepayers, having compensated them already for income-tax, to pay the income-tax for them. Therefore, I must decline to make any promise whatever to the Deputy that I will take this matter up.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>If the staff organisation takes up the matter with the Minister I presume he will go into it with them?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>If the organisation comes forward we will talk to them all right but I am afraid I would be pointing out the same thing as I pointed out to the Deputy.</P>
+      <P>The Dáil adjourned at 5.55 p.m. until 3 p.m. on Wednesday, April 21st, 1954.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="WA" LHead="Written Answer. - Cost" RHead="of Public Services">
+    <Title>Written Answer. - Cost of Public Services.</Title>
+    <Speaker pid="PatrickDesmondLehane" hpid="Mr. Lehane Mr. Lehane">
+      <NameTxt>Mr. Lehane</NameTxt>
+      <P>asked the Minister for Finance if he will state (a) the estimated cost of public services as shown in the Book of Estimates for each of <Col N="445" /> the years 1946-47 to 1954-55, inclusive, and (b) the total State expenditure for each of the years 1946-47 to 1953-54, inclusive.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>(a) The original net Estimates for Supply Services as shown in the Estimates Volume for each of the years 1946-47 to 1954-55, (aa) expenditure on Supply Services (including voted &ldquo;capital&rdquo; services) and (b) total expenditure from the Exchequer (comprising Central Fund Services, Supply Services and Capital Issues less Repayments) in each of the years 1946-47 to 1953-54 are shown in the following table:&mdash;</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="4">
+        <colspec colname="1" colnum="1" colwidth="13*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="13*" align="center">
+        </colspec>
+        <colspec colname="3" colnum="3" colwidth="12*" align="center">
+        </colspec>
+        <colspec colname="4" colnum="4" colwidth="12*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+            </entry>
+            <entry rowsep="1">(a)</entry>
+            <entry rowsep="1">(aa)</entry>
+            <entry rowsep="1">(b)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+            </entry>
+            <entry>£(000)</entry>
+            <entry>£(000)</entry>
+            <entry>£(000)</entry>
+          </row>
+          <row>
+            <entry>1946-47</entry>
+            <entry>47,766</entry>
+            <entry>52,324</entry>
+            <entry>60,544</entry>
+          </row>
+          <row>
+            <entry>1947-48</entry>
+            <entry>52,092</entry>
+            <entry>58,918</entry>
+            <entry>70,986</entry>
+          </row>
+          <row>
+            <entry>1948-49</entry>
+            <entry>70,520</entry>
+            <entry>64,702</entry>
+            <entry>80,579</entry>
+          </row>
+          <row>
+            <entry>1949-50</entry>
+            <entry>65,407</entry>
+            <entry>73,313</entry>
+            <entry>94,338</entry>
+          </row>
+          <row>
+            <entry>1950-51</entry>
+            <entry>78,127</entry>
+            <entry>75,428</entry>
+            <entry>98,903</entry>
+          </row>
+          <row>
+            <entry>1951-52</entry>
+            <entry>83,036</entry>
+            <entry>90,086</entry>
+            <entry>122,386</entry>
+          </row>
+          <row>
+            <entry>1952-53</entry>
+            <entry>94,872</entry>
+            <entry>93,304</entry>
+            <entry>127,267</entry>
+          </row>
+          <row>
+            <entry>1953-54</entry>
+            <entry>100,548</entry>
+            <entry>104,864</entry>
+            <entry>139,199</entry>
+          </row>
+          <row>
+            <entry>1954-55</entry>
+            <entry>108,262</entry>
+            <entry>&mdash;</entry>
+            <entry>&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>The expenditure figures for 1952-53 and 1953-54 represent Exchequer issues and are subject to audit.</P>
+  </MainHeading>
+</Debate>

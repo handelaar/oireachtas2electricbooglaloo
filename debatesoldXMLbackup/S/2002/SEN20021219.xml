@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="19" Month="Dec" Year="2002" Vol="170" No="26" DateIrish="Déardaoin, 19 Nollaig 2002" DateEnglish="Thursday, 19 December 2002" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P Just="Center">
+      <Col N="2089" />
+      <i>Paidir.</i>
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I have received notice from Senator Quinn that, on the motion for the Adjournment of the House today, he proposes to raise the following matter:</P>
+      <P>The need for the Minister for Justice, Equality and Law Reform to consider legislation to make it impossible for any future administration to reintroduce a passports for sale scheme except within a rigorous and transparent statutory framework.</P>
+      <P>I have also received notice from Senator Morrissey of the following matter:</P>
+      <P>The need for the Minister for Community, Rural and Gaeltacht Affairs to make a statement on the discussions, plans and financing, that are taking place in relation to a pedestrian bridge over the canal at Coolmine level crossing.</P>
+      <P>I have also received notice from Senator O'Meara of the following matter:</P>
+      <P>The need for the Minister for Enterprise, Trade and Employment to ensure that the statutory redundancy payments due now to the former Miza workers in Roscrea, County Tipperary, are immediately paid, and if she is enquiring into the operation of the examinership of this company.</P>
+      <P>I regard the matters raised by the Senators as suitable for discussion on the Adjournment and they will be taken at the conclusion of business.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Standing" RHead="Order 30">
+    <Title>Standing Order 30.</Title>
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I have notice of a matter of concern from Senator White under Standing Order 30 which will be taken at 12.50 p.m.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Message" RHead="from Dáil">
+    <Title>Message from Dáil.</Title>
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Dáil has passed the Planning and Development (Amendment) Bill, 2002, without amendment.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Col N="2090" />
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>As this is the last meeting before the Christmas recess I extend seasonal greetings to all Members and the staff of the House. I thank the Leas-Chathaoirleach, the Leader, the Deputy Leader, Government Whip and the leaders and whips of the other groups and all Senators for their assistance and co-operation. I particularly thank Deirdre, the Clerk of the Seanad, Jody, the Clerk Assistant, and all the staff for their assistance and courtesy. I wish everyone a relaxed and peaceful Christmas.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>I admire the tenacity of those raising matters on the Adjournment. They are powerful altogether.</P>
+      <P>I thank the Cathaoirleach for his good wishes to all of us in the House and I know other Members will say the same. I thank him for the way he has done his business since we came back fully in October. I extend those good wishes to Deirdre Lane and Jody Blake. I thank them and the other Seanad staff members.</P>
+      <P>I also thank the leaders and representatives of the various groups for the way in which we can discuss matters. I accept that the House is political and people are entitled to vote and put down amendments &ndash; that is understandable &ndash; but there is another layer of activity which is conducted in a spirit of co-operation. I also thank the Leas-Chathaoirleach and the other Acting Chairmen who have conducted the business of this House with great aplomb during this term. I thank the Superintendent and the Captain of the Guard for the manner in which they have attended to the business of the House. They keep &ndash;&ldquo;stern&rdquo; would be the wrong word &ndash; a very good watch upon us all to ensure we do not step out of line, in a certain sense, too often.</P>
+      <P>I understand the head messenger, Mr. John McCabe, is retiring today. He has long been a friend of both Houses and today this House pays tribute to him. He has given very valued public service in the Houses of the Oireachtas and we all regard him with great affection. He is friendly and open in temperament and very considerate to visitors. I am sure there will be a lively party to celebrate his retirement.</P>
+      <P>I thank all Members of the House for their friendship and courtesy to each other regardless of political affiliation. When I became Leader of the House, I did not know very much about the job&mdash;</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>The Senator has done very well.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>I thank the Senator. I appreciate the toing and froing we have among ourselves. Above all, I appreciate the courtesy shown by all. Courtesy is a very important characteristic which enables daily life to proceed in a much more interesting and definite way.</P>
+    </Speaker>
+    <P>I thank the Deputy Leader, Senator Dardis. He and I have lots of mutterings during business in <Col N="2091" />the mornings and I appreciate his sound advice. I thank all the staff who serve the House for their courtesy. I am reminded by the Deputy Leader to mention the members of the Press Gallery for their diligent efforts. If he had written it out, I could have pretended that I had not forgotten. I hope we arrange to meet them in the new year. I wish everyone a happy Christmas with their families and hope everyone will savour his or her family life in whatever form it takes and that the peace of Christmas will descend on us all.</P>
+    <P>The Order of Business is No.1, Immigration Bill, 2002 &ndash; Committee Stage (resumed), with the debate to be interrupted no later than 12.45 p.m. I draw the attention of the House to No. 6, motion No. 22, which it is proposed should be taken without debate. The matter on special procedure is to be dealt with at 12.50 p.m.</P>
+    <Speaker pid="BrianHayes" hpid="Mr. B. Hayes Mr. B. Hayes">
+      <NameTxt>Mr. B. Hayes</NameTxt>
+      <P>On a serious matter, would it be possible, even at this late stage, for the Leader to ask a Minister to come to the House between now and 1.30 p.m. to discuss the very serious situation pertaining to industrial policy following the breakdown of the partnership talks? It is now quite clear that the talks are a dead duck. It is a new situation where claims will be made on a daily basis to employers and Government. We are already seeing that in the newspapers this morning. It would be useful for the House to have a short debate led by a Minister to find out what is the current industrial relations policy of the Government. This process has been under way for the past 15 or 16 years. We have all been beneficiaries of it. If the free-for-all bargaining which now applies will continue, what are the implications for the economy going forward?</P>
+      <P>On a less serious matter, on behalf of the Fine Gael group I wish you, Sir, and your staff a very happy Christmas and a prosperous new year. I thank you, the Clerk and the Clerk Assistant, and the staff in your own office for the efficient way in which you all do your business. You make us all feel so welcome in this House.</P>
+      <P>I was reminded that the Christmas spirit is really breaking out when I read in the newspapers this morning that even Dr. Paisley is defending the integrity of the virgin birth, which I thought I would never see at Christmas time. Obviously Christmas is breaking out in many different ways.</P>
+      <P>I join with the Leader in wishing a happy Christmas to all Members of the House on all sides. We have had a very eventful few months. It has been more eventful for some than for others, but we are certainly delighted to be here and to be contributing to the legislative process, and also to be working with other colleagues on both sides progressing many issues.</P>
+    </Speaker>
+    <P>I fully endorse the Leader's views about John McCabe whom I have known since I came to this House seven years ago. I wish him every happiness in his retirement. The first person here in the morning is John McCabe and the advice that one gets from him is probably the most sensible politi<Col N="2092" />cal advice one would get from anyone in this House. We will certainly miss him. I would like to pay tribute to him on behalf of our group this morning.</P>
+    <P>I also wish the Superintendent, the Captain and all the members of staff, the ushers and security, a very happy Christmas. We look forward to a good Christmas break and a strong, politically active new year.</P>
+    <P>Once again, I wish you, Sir, a happy Christmas. This morning I was trying to think what I could possibly give you as a Christmas present. Perhaps a Limerick all-Ireland victory might be the best thing I could wish for and I hope you are successful in that endeavour too.</P>
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Thank you.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>I am pleased that the Leader took the time to mention the contribution of John McCabe to the House. He is a good example of a person who is a cog in a wheel which keeps that wheel moving all the time. I have always enjoyed his good humour, pleasantness, general attitude and caring way towards people. He had to cope with personal tragedy in his own life not too many years ago and he still handled his job so well at that time. I want to record our appreciation of the work that he and his colleagues do to make our lives easier. Although he may be retiring, I have promised him that he, like every other public servant, will receive &ndash; I am sure Senator Ross will be delighted to hear this &ndash; a back-money envelope for benchmarking which is due to him and which will be paid to him in due course in his retirement. I told him he should think of us all on that night. Like all the rest of us, Senator Ross will also receive a envelope on the same day.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>Senator Ross will refuse it.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>While I am at it, I congratulate all those decent Members of both Houses who have had the guts to do what trade unions have to do all the time, that is, defend properly awarded pay increases such as benchmarking for politicians. Nobody is overpaid in those circumstances and we all have a duty to do that.</P>
+    </Speaker>
+    <P>I join my colleagues in wishing a happy Christmas to all the Members of this House and the other House, and in particular to the staff of the House. I thank you, a Chathaoirligh, and the Leas-Chathaoirleach and thank, in a very particular way, the Clerk and the Clerk Assistant and the staff in the overworked and under-resourced Seanad office. They manage to get an extraordinary amount of work done and at very short notice even overcome &ndash; people just take it for granted &ndash; the difficulty of getting amendments to Bills painstakingly correct. The number of errors that I have ever seen over the course of a year here is so minute that it becomes a matter of note. Nobody gives proper recognition to the difficulties involved in taking a few badly <Col N="2093" />scribbled notes on a page or words over a phone and translating those into properly prepared and presented amendments to legislation. I would like to extend my appreciation to Deirdre and Jody on those issues. It is important that these things are done correctly because it means less trouble for everybody else.</P>
+    <P>I also break with precedent in making reference to a person in the Distinguished Visitors Gallery, namely, head service officer John McCabe, who can look forward to his benchmarking pay award despite the fact that he is retiring.</P>
+    <P>A story in this morning's newspapers reflects the lowest level of mean-spirited, narrow-minded bureaucracy. Deputy Stanton, the Fine Gael spokesperson on education and science, has brought to our attention the fact that junior certificates were not issued to almost 1,000 students because they had not sent in the required &euro;66. The Leader worked in the Department of Education and Science in the past and I would like to hear how much it costs the taxpayer to keep account of the fact that 1,000 students have not paid their &euro;66. What message is sent out if we do not view education as an investment in the future rather than something that has to be bought by young people? It is a small matter, but it is appalling and reflects an extraordinary attitude. I do not know anybody who would support this terrible approach. The decision should be reversed and a very strong message should be sent that this kind of bureaucracy is not the way forward and has no place in modern Ireland.</P>
+    <P>To reiterate some of the points by Senator Brian Hayes, the breakdown of national pay negotiations will leads to a re-run of a situation where tough people on all sides will be brought to book. We will sit in the House in six or seven months looking at serious industrial problems in various places and we will have about as much influence or power to do anything about it as we would if we were living offshore. Things will get out of control very quickly.</P>
+    <P>I have never seen anything like the kind of intransigence I have encountered on these issues. People seem to become attached to claims. Everyone knows what happened to a union that made a famous 30% pay claim some time ago. People became wedded to an objective, for whatever reason, and rationality went out the window. We are going to see this sort of situation re-run 1,000 times over the next year or so. It is a shame and it reflects badly upon us. I am also part of the problem.</P>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>There are certain signals one gets in life which convince one that one is on the right track. That was one occasion on which I believed I was on that track. I ask that all parties, particularly those on the business and employers' side, to take a national view of issues rather than just looking out for their own interests. All it takes is <Col N="2094" />for everybody to look at the complete picture rather than just at what they want for themselves. That would lead to a resolution.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>On a serious note, there is widespread coverage in this morning's newspapers of a leaked document &ndash; apparently an internal Government briefing on the Northern Ireland situation. Without going into detail, it apparently says, among other things, that the IRA is still recruiting new members in Northern Ireland. I do not wish to make an unrealistic demand for a debate on this as I know the House is adjourning for Christmas. However, it would be good if the Leader was to convey to the Government my concern &ndash; I am sure it is shared by all Members &ndash; at the idea that a political party that is represented in these Houses still has links with a paramilitary organisation which, far from becoming dormant, is involved in active recruitment. If that is the Government's understanding of what is happening in Northern Ireland, the situation is a good deal more serious than any of us thought. I ask the Leader to convey our concerns to the Government and ask for clarification.</P>
+      <P>It is more than 21 years since I was first elected to the Seanad and this is probably one of the few occasions on which I have been present for the last sitting before Christmas. I tended to abscond from the House a good deal earlier than most Members.</P>
+    </Speaker>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>It is a pity the Senator does not do it more often.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>I heard that, Senator, but I have heard worse from that side of the House. It is also the first time I have spoken on such an occasion in a leadership position. I join my colleagues in paying tribute to the staff of the House, whom I annoy with late amendments and a capacity to delay proceedings. They have an incredible spirit of public service, a concept one should never dismiss. The staff who work in this House have a sense of public service in terms of their willingness to be flexible and helpful. I have never heard anybody, when I asked for something, say: &ldquo;No, I cannot do that, it is not my job.&rdquo; I have always found the staff helpful. They will say: &ldquo;I do not know, but I can tell you who does&rdquo; and so forth, which is entirely different.</P>
+      <P>On my own behalf and that of my colleagues in the Labour Party, I wish everybody in the House a happy, peaceful and enjoyable Christmas. As my enjoyment of Christmas started spectacularly last night&mdash;</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>It did for all of us.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>&mdash;I am probably not as eloquent as I would otherwise be. In particular, I pay tribute to Mr. John McCabe. I am here so long that I have been in the Oireachtas for much of John's career. He epitomises a spirit of helpfulness and genuine good humour. On numerous occasions <Col N="2095" />when the committee rooms were located in Kildare House, he rescued me from heading in the wrong direction to a committee meeting. He always knew where every committee meeting was being held and what the business was.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>He would bring one to it.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>Yes. Kildare House was a warren of confusing corridors. One could not hope to meet a more helpful person or a better model of public service. I wish him a long and happy retirement and hope he is as well rewarded as a consequence of Senator O'Toole's efforts as the Senator claims he will be.</P>
+      <P>I wish you, a Chathaoirligh, a happy Christmas. I hope we have a long and peaceful Christmas holiday and that, when we meet again on 29 January, we will be in refreshed condition.</P>
+    </Speaker>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>I join other Members in wishing you, a Chathaoirligh, Members and staff all the compliments of the season. I particularly thank you, a Chathaoirligh, for the way you have conducted the affairs of the House during the session. The House has been run extremely smoothly for which the Cathaoirleach and Leas-Chathaoirleach can take great credit.</P>
+      <P>I join in paying tribute to the staff in the Seanad Office, the Clerk and Clerk Assistant for their work. On many occasions I have mentioned how under-resourced they are. The amount of work they do is not fully appreciated, particularly when the House sits late into the night on Committee Stage of Bills when they have to deal with hosts of amendments. When I sat on the Opposition benches and sought to table amendments, they were always helpful with their advice and willing to help in drafting amendments.</P>
+      <P>I also thank the Superintendent, the Captain of the Guard and the staff of the House who look after us so well. I acknowledge in particular the contribution Mr. John McCabe has made and wish him well in his retirement. When our offices were located across the road in Kildare House, he was always there. It is perhaps not widely appreciated that there were occasions when matters were quite difficult over there. Committee meetings and hearings took place which were rather fraught and generated much activity outside. John was always calm in the storm and looked after everybody. We owe him a tremendous debt of gratitude. I hope he will be very happy in his retirement. I also wish to thank the press and others who report the proceedings of the House.</P>
+      <P>I apologise for sniping at Senator Ryan. This would be a far less interesting place if he was absent.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>We would have more interesting times.</P>
+    </Speaker>
+    <Col N="2096" />
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>It would have been preferable if the sensitive document dealing with aspects of the Northern Ireland talks which appeared in this morning's newspapers had not become public. It would be wrong, however, to overestimate its contents, although it contained some hard truths. According to the newspapers, it was inadvertently left behind, which suggests a serious error on somebody's part.</P>
+      <P>I would not be one of those who are enthusiastic about the history of the republican movement, but the document does state progress has been made. It also states there are people who have not experienced war and that they might take a very different view if matters are not handled with due care and sensitivity. I hope that, in the context of the season, everyone will take a sanguine look at the contents of the document and not overreact to it.</P>
+    </Speaker>
+    <Speaker pid="JimHiggins" hpid="Mr. Higgins Mr. Higgins">
+      <NameTxt>Mr. Higgins</NameTxt>
+      <P>I fully endorse the call by the leader of the Fine Gael group for the presence of a Minister in the House to explain exactly what is the Government's position in response to the breakdown in the partnership talks. It is a tragedy that they have broken down as we are watching the dismantlement of one of the cornerstones of the Celtic tiger. Extrapolating from what was said by Senator O'Toole, president of congress, the talks appear to have irretrievably broken down. This was also evident from the verbal joust on radio yesterday between the Senator and Turlough O'Sullivan of IBEC. It is obvious that we are reaping the harvest of Government profligacy in the run-up to the last general election.</P>
+      <P>One group is not represented, either in collective bargaining or on an individual basis &ndash; immigrant workers. I met three Romanians on their return from working in the construction industry in Amsterdam airport the other day. I learned that they were earning &euro;6 per hour for hard manual labour for one of the largest construction companies in this country. This is ruthless exploitation of people who come here on valid work permits and visas and who are totally unrepresented. We need an urgent debate to see what can be done to give some kind of cothrom na Féinne or equity to the people concerned who are here at the invitation of employers but being shamelessly exploited.</P>
+      <P>In view of the fact that the partnership talks have taken place on the basis of an invitation from the Taoiseach, I fully endorse the comments and invitation of the leaders of Fine Gael and the Labour Party that the Taoiseach must get involved to bring sanity and rationale and get the participants talking once more.</P>
+    </Speaker>
+    <Speaker pid="PaschalMooney" hpid="Mr. Mooney Mr. Mooney">
+      <NameTxt>Mr. Mooney</NameTxt>
+      <P>I endorse all that has been said so far, particularly in regard to Mr. John McCabe. Those of us who used the offices located in Kildare House came to know John particularly well. We missed seeing him as often when we moved over here, although he spends much of his time around this part of Leinster House. The <Col N="2097" />greatest tribute that could be paid to him is that he will be talked about for long after he is gone. The stories about him are legion. As was remarked, he attended various committee meetings and kept us all very much in line. He is well known for his kindness. My children got great pleasure from being shown how to work the elevator by him when on a visit here. He is that sort of man. I heard that during one committee meeting a visitor was rebuked by him for taking off his jacket. The man protested that there were others with their jackets off, to which John retorted that they were Members. He had a great awareness of the respect that should be shown to Members of the Oireachtas. I wish him well, particularly as he has endured his own personal trauma. The way he dealt with that trauma was an example to us all.</P>
+      <P>Will the Leader convey the thanks of this House and the wider public to the Minister for Foreign Affairs and, in turn, to Ambassador Richard Ryan and the diplomatic staff at the United Nations for the outstanding job Ireland has done during its membership of the Security Council, which comes to an end on 31 December? When Ireland joined the Security Council, it received one of the highest ever votes which is an indication of the standing in which this country is held worldwide. Most of those votes came from African and other Third World countries. During its two year membership, Ireland responded to the main priorities those countries felt should be highlighted at the Security Council.</P>
+      <P>This year, Ambassador Ryan, through his chairmanship of the Angola committee, presided over the end of what was the most savage and long-lasting civil wars in that country's history. Through our overseas aid in Africa we have highlighted human rights issues and, in more recent times, the Minister for Foreign Affairs earned great kudos for the manner in which he led, along with other smaller, non-aligned countries, the move to ensure that the UN has an enhanced role in terms of the Iraqi question.</P>
+      <P>When those factors are taken into account, Ireland's role has been considerably improved and enhanced internationally. In addition, we have contributed to enhancing the role of the United Nations to the point where the major remaining superpower is still deferring to the United Nations. I pray to God it continues to do so.</P>
+      <P>Ireland, the Minister for Foreign Affairs, Deputy Brian Cowen, Ambassador Ryan and all the diplomatic staff involved in our contribution to the Security Council can hold their heads high. We can be extremely proud of our representatives and it is yet another example of the famous line by Robert Emmet: &ldquo;Let my epitaph be written when we take our place among the nations of the earth&rdquo;. We have now done so. I thank the Cathaoirleach for allowing me make that point. I hope the Leader will convey to the Minister the grateful thanks of this nation for the outstanding contribution of our diplomatic staff.</P>
+    </Speaker>
+    <Col N="2098" />
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>I am glad to see John McCabe in the House and I give him my good wishes also. I do not believe he gave me any advice, but I never listen to advice any way.</P>
+    </Speaker>
+    <Speaker pid="DrMartinMansergh" hpid="Mr. Mansergh Mr. Mansergh">
+      <NameTxt>Mr. Mansergh</NameTxt>
+      <P>That is clear.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>John did relate many good stories about Dublin to me and I shall certainly miss those. However, I am sure he will go on telling them.</P>
+      <P>I endorse the general compliments being given, but I would like to emphasise two of my own. First, you, Sir, have done a very good job in your first term in office in this House and I thank you for your courtesy.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>Perhaps I would be more complimentary if I removed the tone of surprise from my voice. I want to particularly thank the Leader who has done a stunningly good job.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Senators Senators">
+      <NameTxt>Senators</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="DavidNorris" hpid="Mr. Norris Mr. Norris">
+      <NameTxt>Mr. Norris</NameTxt>
+      <P>She and I were both members of the teaching profession and she, particularly in terms of her courtesy, has added greatly to the pleasures of participating in the House. I am not surprised she referred to that because if anybody in this House exemplifies courtesy and good humour, it is the Leader. We are very lucky to have her.</P>
+      <P>I want to briefly mention an issue I raised yesterday and on previous occasions which we may consider in the next term, that is, the question of licences, planning, etc. and the disgraceful behaviour of the District Courts. I had a cup of coffee with my colleague, Senator Ross, yesterday and he reminded me of something I was horrified to learn. Do Members know that judges do not have to make a declaration of interest? It is about time they did because judges should not be above the law. They should be required to make a full declaration of any interests they have before they sit in judgment of other people. I hope we will have an opportunity to discuss that.</P>
+      <P>Another serious matter raised by Members is the document that was mislaid. The contents of that document confirm things most of us already knew. It is time it was firmly stated that Sinn Féin-IRA clearly has a gun to the Government's head. Members of Sinn Féin-IRA should be told to leave their weapons at the door, as their predecessors left theirs at the doors of this building many years ago.</P>
+      <P>I was surprised to hear Senator Brian Hayes establishing his credentials as an amateur theologian and even more surprised to learn that he did not realise that the Reverend Ian Paisley endorses the virgin birth. Of course he does, he is a fundamentalist. It would not surprise me if the Rev. Ian Paisley thought he arrived on this planet by the same mechanism.</P>
+    </Speaker>
+    <P>
+      <Col N="2099" />I endorse what Senator O'Toole said about the salaries of Members; we were seriously underpaid for a long time. I cynically laugh when I hear Members who are green in every sense of the word &ndash; republican, environmental and newly elected &ndash; bursting to get on the radio to denounce these pay rises. In my experience, those people would be among the first to go on the radio and denounce the pay rise and then rub their hands with glee and, to use Senator Ross's wonderful word, &ldquo;trouser&rdquo; it as quickly as they can.</P>
+    <P>We should have a debate on health in the new year. I strongly support the Minister for Health and Children, he has done a good job. I deprecate the attacks he is currently suffering. I heard the debate on the radio this morning and thought the representatives of Parents for Justice were pretty strident and shrill in what they said. Deputy Martin is a caring Minister and the accusations made against him are wrong.</P>
+    <P>I am getting tired of all these tribunals of compensation. People are now appealing the awards they have &ldquo;trousered&rdquo;, or &ldquo;skirted&rdquo;, and are looking for more from the courts. I have sympathy for the tragic circumstances involved, but the public purse is finite. Money awarded comes from the taxpayer and is taken from other projects and this ought to be remembered. It is not an abstract thing where people can extract as much money as possible. The resources are finite and should be judiciously apportioned in the interests of all our citizens.</P>
+    <Speaker pid="JohnMinihan" hpid="Mr. Minihan Mr. Minihan">
+      <NameTxt>Mr. Minihan</NameTxt>
+      <P>I endorse the tributes that have been paid to the staff and the usher, John McCabe. At this time of extending seasonal greetings, we should be conscious of the work that will be done over the Christmas period by our emergency services, including members of the Garda and the Defence Forces. We should acknowledge the people who are serving on UN missions overseas and separated from their families. I ask the Leader to consider writing to the Garda Commissioner and the Chief of Staff of the Defence Forces acknowledging that and extending our good wishes to them.</P>
+    </Speaker>
+    <Speaker pid="JamesBannon" hpid="Mr. Bannon Mr. Bannon">
+      <NameTxt>Mr. Bannon</NameTxt>
+      <P>An agency was set up in May 2000 to tackle the problem of homelessness. What has happened with the implementation of the homeless strategy? At the time, it was promised that capital spending would be doubled between 2001 and 2005, but because of recent cutbacks this has not materialised. It is important that we have a debate on this as early as possible in the new term. A number of my colleagues from the midlands were in Dublin last night and were appalled at the number of people sleeping rough on the streets near this House.</P>
+    </Speaker>
+    <Speaker pid="MichaelPKitt" hpid="Mr. Kitt Mr. Kitt">
+      <NameTxt>Mr. Kitt</NameTxt>
+      <P>I join in the tributes to you, a Chathaoirligh, and the staff, and particularly to John McCabe who played a great role in the com<Col N="2100" />mittee system when it was in Kildare House where circumstances were more difficult than they are now.</P>
+      <P>I support Senator O'Toole's comments on students who did not receive their junior certificates. If 906 students did not get certificates in 2001, I wonder how many students did not get them in other years. There must be hundreds of certificates gathering dust in the Department of Education and Science. It is an important certificate that should be given to students. I hope we will have an opportunity in the new year to discuss this issue and to find out how many more students have not received their junior certificates.</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>I endorse what previous speakers said about having a debate on the partnership talks. That would give Senator O'Toole an opportunity to explain to us how he voted one way on the budget in here but said something different on television. That would be interesting.</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>I would be happy to do so.</P>
+    </Speaker>
+    <Speaker pid="ShaneRoss" hpid="Mr. Ross Mr. Ross">
+      <NameTxt>Mr. Ross</NameTxt>
+      <P>That would give this House a role in those partnership talks which have broken down.</P>
+      <P>I would also like to endorse what everybody said about John McCabe. He deserves his benchmarking. Nobody in this House or in my career in the financial world has given me better financial advice over a long period than John McCabe. The day Eircom was floated, he was the first person to say to me that he was going to sell his shares that day. All of us could have taken advice from him on that. He will be sorely missed. I do not know whether everyone knows there will be a party for him in the main restaurant tomorrow at 5 p.m. I am sure he would like to invite everybody to it.</P>
+      <P>I would like to endorse all the words of thanks to everybody, which I will not repeat. I would like to say a special word of thanks to Senator White who sent me chocolates during and after the election campaign. I also got some Christmas chocolates from her in the past few weeks. I am grateful to her for them and I hope all other Members of the House will enjoy those chocolates as well in the Christmas period. It is unprecedented in this House to receive such great generosity from our colleagues. While I will not be able to reciprocate that great honour to the Senator, I wish to thank her for it. I hope all Members of Fine Gael have been the beneficiaries of that same generosity.</P>
+      <P>I would also like to thank Senator MacSharry for sending me a calendar. I will have to face seeing his picture in January, February, March, April, May, June, July and throughout the rest of the year.</P>
+      <P>I also wish to thank all Members of the House, the Clerk, Assistant Clerk, the Leader of the House, you, a Chathaoirligh, and everybody else for their work during the year.</P>
+    </Speaker>
+    <Col N="2101" />
+    <Speaker pid="DrMartinMansergh" hpid="Dr. Mansergh Dr. Mansergh">
+      <NameTxt>Dr. Mansergh</NameTxt>
+      <P>In the context of extending Christmas greetings to you, a Chathaoirligh, the Leader of the House, Members and the staff, I hope we will savour the peace which was graphically illustrated in a CSO release yesterday, which shows that this country has the lowest level of industrial disputes, with the exception of one year in the late 1980s. I find it incomprehensible that one of the reasons the talks have broken down is because of inadequate guarantees of industrial peace. We have it now and I hope we will have it next year.</P>
+      <P>I understand that the trade unions are concerned about union recognition. I am not sure that militant trade unionism in semi-State bodies and a militant campaign is the best way to achieve that or that there would be many semi-State bodies left at the end of such a process. I hope the season of peace and goodwill will be taken by everybody concerned to think over the position and to reflect on whether we really want to abandon what has been one of the pillars of our prosperity.</P>
+      <P>I wholeheartedly endorse what one of my colleagues said about the Security Council and the good work done by the Minister and the Department of Foreign Affairs in that regard. Leaks are always regrettable and sometimes they have had a serious impact. However, in the scale of North-South bouquets, &ldquo;dysfunctional&rdquo; registers at a fairly low level.</P>
+    </Speaker>
+    <Speaker pid="SheilaTerry" hpid="Ms Terry Ms Terry">
+      <NameTxt>Ms Terry</NameTxt>
+      <P>I wish to extend seasons greetings to you, a Chathaoirligh, all the staff, the Leader of the House and all Members. As a new Member to the House, I appreciate all the help that has been forthcoming from everybody. It is very much appreciated. I also extend my good wishes to John McCabe.</P>
+      <P>I want to raise an issue of serious concern which has been raised in the House several times and on which we are not getting very far. It concerns the future of Shanganagh open centre for juveniles, specifically the future of the prison officers who have worked there for many years. The issue needs to be examined again in value for money terms. To consider closing down such a centre and spending money on a centre somewhere else would not represent good value for money for the taxpayer. We should invest the money in Shanganagh to provide the security measures about which the Minister appears so concerned and develop it into suitable accommodation. Will the Leader ask the Minister to reconsider this and take account of the concerns of the prison officers working in the centre?</P>
+    </Speaker>
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>As this is the last sitting day before Christmas, I am allowing a little extra latitude.</P>
+    </Speaker>
+    <Speaker pid="FeargalBrowne" hpid="Mr. Browne Mr. Browne">
+      <NameTxt>Mr. Browne</NameTxt>
+      <P>I have raised twice before the need for the Minister for Justice, Equality and Law Reform to brief the House on the Good Friday Agreement, the release of prisoners, the <Col N="2102" />funding that some prisoner groups receive and whether it is being used appropriately. In the light of the recently leaked document, it would be appropriate to have a debate early in the new year on these issues. The comments in newspaper articles today about increased collusion between paramilitary splinter groups are of great concern and ones we cannot afford to ignore. A debate on these issues early in the new year would be appropriate.</P>
+      <P>The Government must be the most anti-youth Administration since the foundation of the State, given the increased university registration fees, the proposed reinroduction of third level fees, the cutting back of children's allowance, the delaying of schools building projects and the abolition of the first-time buyer's grant. Will the Leader ensure that, in the light of the Immigration Bill being discussed in the House, just as the Minister will not insist on Santa Claus having the correct papers to enter the country on Christmas Day, the Government will not do anything to dampen the Christmas spirit for children and young people?</P>
+    </Speaker>
+    <Speaker pid="UlickBurke" hpid="Mr. U. Burke Mr. U. Burke">
+      <NameTxt>Mr. U. Burke</NameTxt>
+      <P>I endorse the requests of Senators O'Toole and Kitt regarding the denial to 906 students of their junior certificates. Will the Leader impress upon the Minister the fact that, for many of the students concerned, this would be the only certification available to them? They are now officially classed as failures among their peer group. Will the Leader ask the Minister to forward the certificates to the management of the schools in which the students sat their examinations in order that the matter can be decided at local level? The certificates mean so much to the students, even if it is only the junior certificate, because they represent their attainments in school. What is probably a great achievement for many has been denied to them. Will the Leader impress upon the Minister the importance of granting them their certificates?</P>
+    </Speaker>
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Before I call the Leader, I join in the good wishes to Mr. John McCabe. As Members said, John will be missed, not only for the efficient way he managed his own area but also for his personality and character. His cheerful nature and Dublin wit and comments most certainly will be missed by his many friends in Leinster House. I wish him and his wife, Patty, a long, healthy and happy retirement.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>Senator Brian Hayes, the leader of the Fine Gael group in the House, raised the matter of the partnership talks which he called a dead duck and asked if a Minister would come to the House to debate the matter. I do not regard them as a dead duck and hope that, over the dead turkey at Christmas&mdash;</P>
+    </Speaker>
+    <Speaker pid="BrianHayes" hpid="Mr. B. Hayes Mr. B. Hayes">
+      <NameTxt>Mr. B. Hayes</NameTxt>
+      <P>More quacks to come.</P>
+    </Speaker>
+    <P>
+      <Col N="2103" />
+    </P>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>&mdash;people will reflect on and think about a resumption. I doubt greatly that I would find a Minister today to attend a debate in the House on the partnership talks. If we are realistic, we will know this quite well. They have lives like the rest of us. While I take the Senator's point that he wants a Minister to attend, I do not know where I would find one, especially an appropriate one.</P>
+      <P>I will not repeat all the Christmas wishes, because it would become boring. I note that every Member who contributed referred to John McCabe.</P>
+      <P>Senator O'Toole, who deals with such matters in one of his places of employment, defended proper pay arrangements and benchmarking. I do not doubt that the Senator will be having meetings on the side and engaging in clandestine arrangements during the Christmas period. I remember such meetings and arrangements from long ago and they always worked well.</P>
+      <P>The refusal to issue junior certificates, a matter to which Senators O'Toole, Kitt and Ulick Burke referred, is the most mean-spirited gesture I have heard of in many years. It was wrong to deliberately withhold the script of paper that confirms a child has passed particular subjects. I will speak directly to the Department of Education and Science today to find out its policy on this.</P>
+      <P>Senators Ryan, Dardis and Norris referred to the leaked document on Northern Ireland and voiced their concerns on the matter. We will convey the concern of this House to the relevant Minister. Senators Ryan and O'Toole rightly stated that the public service is very underrated and is of fine value to the country.</P>
+      <P>Senator Higgins stated that he wants a Minister to come before the House today to make a statement on the pay negotiations. He also raised the issue of the remuneration, which seems to be quite low, of the Romanians he met. That is a matter for the Tánaiste who is very keen to come to the House.</P>
+      <P>Senators Mooney and Mansergh mentioned how the Minister and the public servants acquitted themselves in a most handsome manner during the period of our membership of the Security Council. This reflected well on our country and we will convey his remarks to the Minister.</P>
+      <P>I thank Senator Norris for his good wishes. The Senator spoke about licensing matters and called for a debate on health.</P>
+      <P>Senator Minihan paid tribute to the people who work in the emergency services, particularly those who serve overseas and are far from home over the Christmas period. He asked if a message could go to the Garda Commissioner and the Army Chief of Staff.</P>
+      <P>Senator Bannon mentioned the homeless strategy. Homelessness is a very acute matter and I hope we will be able to discuss it in the new year.</P>
+      <P>Senator Ross displayed nice manners in thanking Senator White for her sweet wishes.</P>
+    </Speaker>
+    <Col N="2104" />
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>That is what attending public school does for a person.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>Senator Mansergh clearly outlined his disquiet and anger that there appears to be a stand-off concerning arrangements which have been in place since 1987, which have been so valuable to this country and which contributed strongly to our economic growth. I share his hope that the parties will come together again.</P>
+      <P>Senator Terry referred to Shanganagh. Although she was here last night during the course of the debate on the Bill, she may have not had the opportunity to talk to the Minister for Justice, Equality and Law Reform. I will see what can be done about of her wishes in that regard.</P>
+      <P>Senator Browne is keen to hear more about the release of prisoners and the funding of some prisoner groups under the terms of the Good Friday Agreement. We will endeavour to have the position clarified for him.</P>
+      <P>There have been no cutbacks in children's allowance.</P>
+    </Speaker>
+    <Speaker pid="FeargalBrowne" hpid="Mr. Browne Mr. Browne">
+      <NameTxt>Mr. Browne</NameTxt>
+      <P>A reduction is proposed.</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>I will simply wish everybody a happy Christmas.</P>
+    </Speaker>
+    <Speaker pid="RoryKiely" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Is the motion being taken first?</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>Yes.</P>
+      <P>Order of Business agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Conflict in the Middle East:" RHead="Motion">
+    <Title>Conflict in the Middle East: Motion.</Title>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Éireann calls on the Government of Israel unconditionally to allow the President of the Palestinian Authority to attend Mass in Bethlehem on Christmas Day.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Immigration Bill, 2002:" RHead="Committee Stage (Resumed)">
+    <Title>Immigration Bill, 2002: Committee Stage (Resumed).</Title>
+    <P>SECTION 2.</P>
+    <P Just="Center">Debate resumed on amendment No. 7:</P>
+    <P Just="Center">In page 4, subsection (1)(<i>c</i>), line 29, after &ldquo;non-national&rdquo; to insert &ldquo;(other than a non-national seeking or proposing to seek asylum in the State)&rdquo;.</P>
+    <P Just="Center">&ndash;(Senator Tuffy).</P>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Acting Chairman (Mr. Dardis)</NameTxt>
+      <P>Before we proceed, it had been intended that amendments No.&nbsp;8, 11 and 21 would be discussed together with amendment No. 7. Is that agreed? Agreed. Is amendment No. 7 being pressed?</P>
+    </Speaker>
+    <P>
+      <Col N="2105" />
+    </P>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>I welcome the Minister of State to the House to debate this important Bill. Before we leave the amendment which was debated extensively last night, I wish to make a final comment. The amendment seeks to protect asylum seekers attempting to enter the country and is designed to ensure they are able to do so by preventing insurmountable barriers being put in their way.</P>
+      <P>As it stands, the provision is extremely serious for anyone fleeing persecution who needs asylum. Staff of an airline, ferry or port will be placed under severe pressure to refuse a person permission to travel if that person is carrying documents which are considered to be of dubious authenticity. It would not be surprising for an asylum seeker or person fleeing persecution to be carrying no documents or documents which have been forged. The effect of the amendment would be to create circumstances in which staff would be under extraordinary pressure to refuse a person permission to travel, even if it means sending that person back to a location in which the persecution will continue or become worse. This is a serious matter and I would like the Minister of State to give it further consideration in light of everything that has been said.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>I remind you we are dealing amendments Nos. 8, 11 and 21, so there may be something you might wish to add.</P>
+    </Speaker>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>Amendment No. 8 seeks to add the words &ldquo;unless a non-national has a reasonable excuse for failure to comply with this paragraph, proof of which shall lie on the defendants&rdquo;. This is an important amendment as well which would provide further protection for asylum seekers and those fleeing persecution in terms of documentation, in particular. Going beyond asylum seekers and non-nationals generally, a person may not have documents or may have lost them and this amendment leaves the door open for discretion to be exercised if documents are lost.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Minister of State at the Department of Justice, Equality and Law Reform (Mr. B. Lenihan)</NameTxt>
+      <P>I will speak to the Government amendments first and I will then deal with the points raised by Senator O'Meara. Amendment No. 11 is intended to address, in statutory form, the assertion made by opponents of the Bill that it would compromise our obligations under the 1951 Geneva Convention relating to the status of refugees and its related protocol, the New York Protocol of 1967. Of course, we do not accept that the Bill compromises our obligations and I have been advised by the Attorney General that this amendment is unnecessary from a strictly legal point of view, and I agree with that. Nevertheless, the amendment states the position and what is obvious to any neutral observer is that this carrier liability legislation compromises not one jot or tittle of our obligations under the Geneva Con<Col N="2106" />vention and its manifestation in domestic law, the Refugee Act, 1996. While I agree the Government amendment is, in strict law, unnecessary, I am convinced the law in this instance should reflect the policy commitment of the Government and the State to our responsibilities to those in fear of persecution and in need of protection in Ireland.</P>
+      <P>Amendment No. 11 refers to specific provisions of the refugee legislation, that is, section 8, which sets out the process whereby a person arriving at a port in the State, or already within the State, may make an asylum application, section 9, which ensures asylum applicants are admitted to the State while their claims are being examined and section 24, which addresses the admission to the State of programme refugees. The amendment also refers to the general inherent discretion which every Minister for Justice, Equality and Law Reform has to admit a person who is considered to be in need of the protection of the State.</P>
+      <P>I inform Members that the Attorney General has advised us that it is not strictly necessary to move this amendment but we believe it is essential to make clear our commitment. The adoption of this amendment represents incontrovertible evidence in statutory form that the State continues to honour and fulfil its convention obligations.</P>
+      <P>Amendment No. 21 will insert into the Refugee Act arrangements for the acceptance into the State, by agreement with the United Nations High Commissioner for Refugees, of persons from around the globe already identified by the United Nations High Commissioner for Refugees as persons fleeing persecution and in need of protection.</P>
+      <P>An important concern of the international community and, in particular, the United Nations High Commissioner for Refugees at present is to find solutions to the global refugee problem. To assist it in dealing with refugee matters, the UNHCR advocates what it calls durable solutions which are essentially made up of three pillars: voluntary repatriation of refugees to their country of origin; local integration into the country of asylum; and resettlement to a third country. For resettlement it is necessary for the UNHCR to find countries which are willing to take refugees.</P>
+      <P>Although during the period 1992-2001 the global number of refugees fell by 24% compared to the previous five years, during 2001 the size of the global refugee population was still approximately 12 million. In 2001 the UNHCR resettled almost 30,000 refugees. Some 40% of the persons of concern to the UNHCR under its mandate live in refugee camps. Many live in difficult conditions, often for considerable periods. Others cannot remain in their country of asylum because, for example, such matters as their religion or ethnic background make it difficult for them.</P>
+    </Speaker>
+    <P>Senators will no doubt be aware of the inherent power of the Government, as part of its general powers and obligations, to control the entry and <Col N="2107" />stay in the State of non-nationals to determine the number of refugees admitted to the State on an annual basis. The current exercise of this power is exemplified by the arrangements in place whereby up to ten persons and members of their families categorised as vulnerable are admitted to the State as programme refugees each year in accordance with an agreement between Ireland, for which my colleague, the Minister for Foreign Affairs, has responsibility, and the office of the High Commissioner.</P>
+    <P>The amendment reflects this power to enter into agreements with the UNHCR in statute. I do not intend to give an indication as to the possible number of refugees who will be admitted to the State if the amendment is accepted. Let us not forget the vast bulk are being protected in states such as Pakistan and Kenya, which would scarcely be regarded as among the world's wealthiest economies and can ill afford to carry the burden that falls on them by a fortuitous quirk of geography. This targeted response to protection issues is a more efficient use of our resources with 100% results than committing, as we do at present, approximately &euro;300 million per annum into a system that turns out a mere 10% of persons with protection needs.</P>
+    <P>I have no difficulty with Ireland taking what the NGOs have described as &ldquo;our fair share of refugees.&rdquo; All I want to do is ensure our share is fair in every respect and it is refugees we are helping, not those who, by masquerading as asylum seekers, abuse the system and make things worse for those fleeing persecution. The exact details of resettlement arrangements will be agreed in discussions with the UNHCR.</P>
+    <P>I am surprised that amendment No. 7 has been tabled. Section 2(1)(<i>c</i>) places a requirement on a carrier to ensure the non-national has the proper documentation &ndash; a valid passport or other valid document that establishes his or her nationality and identity and, if required, a valid visa or transit visa. All that is required of the carrier is that he or she carries out rudimentary checks of a passenger's documents to ensure they are in order. Nothing more than this is necessary or required by the Bill. Carrier staff will be helped, as some are at present, through training and advice given by immigration officers to spot the more obvious forgeries and falsifications. It is, basically, a mechanical task. If an intending passenger presents with insufficient documentation at a port of embarkation for Ireland, it is no different than if he or she turned up with insufficient money for the fare. All the carrier needs to do is say, &ldquo;You cannot travel with me today.&rdquo; If amendment No.&nbsp;7 was accepted, further responsibilities would be thrust on the carrier to make more personal and detailed inquiries of the intending passenger by asking such questions as, &ldquo;Do you intend to seek asylum?&rdquo; Amendment No. 8 would go even further requiring the carrier to inquire deeply into the motivation of the intending passenger <Col N="2108" />and his or her reasons for travel and not having a visa.</P>
+    <P>It is clear from the Second Stage debate that some Senators are vehemently opposed to the imposition of such an obligation on a carrier. Accusations were made that the legislation imposed immigration officer duties on carrier staff and that it somehow shifted responsibilities on human rights matters from the State to carriers. I do not accept these suggestions have foundation. The Bill imposes none of these responsibilities on the carrier nor should it. That would be the effect, presumably unintended, of amendments Nos. 7 and 8.</P>
+    <P>A carrier will be expected to do no more than carry out basic checks of a passenger's documents. There is no question of a carrier looking behind the purpose of a passenger's journey. The legislation does not require a carrier to assess an intending passenger's need for protection nor should it. The amendments should be reconsidered as I am not in a position to support them.</P>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>We accept amendments Nos. 11 and 21.</P>
+      <P>I support the comments of Senator O'Meara. Without the amendment the provision will put people's lives at risk. We are either not letting them into the country or forcing them into the hands of illegal traffickers.</P>
+      <P>Regarding amendment No. 8, the defence allowed in section 6(<i>a</i>) covers a non-national having the relevant document with him or her before embarking on the vehicle concerned. It recognises that a document may be lost or stolen during the journey but why is it not recognised that the document could be stolen before the person embarks? We could be putting genuine asylum seekers' lives at risk if we do not accept this amendment.</P>
+      <P>The Minister of State said people were abusing the asylum system but that is happening because there is no proper system for economic migration into Ireland.</P>
+    </Speaker>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>As Senator Tuffy said, we have no problem with the Government amendments Nos. 11 and 21, and we thank the Minister of State for those.</P>
+      <P>Regarding the Minister of State's reply to the points about amendment No. 7, these amendments are put down for serious debate and I hope the Minister of State takes them seriously. His remarks echoed a statement the Minister for Justice, Equality and Law Reform made last night to the effect that our amendment would require staff of airlines and ferries to ask all non-nationals if they are applying for asylum. That is not the effect at all and it is a daft suggestion. The Minister of State should look at the amendment again, as it does not have that effect at all. It is perfectly reasonable and it is important to protect people who need asylum.</P>
+    </Speaker>
+    <P>
+      <Col N="2109" />
+    </P>
+    <Speaker pid="DrMartinMansergh" hpid="Dr. Mansergh Dr. Mansergh">
+      <NameTxt>Dr. Mansergh</NameTxt>
+      <P>I inquire of the Labour Party whether there is another member state in the European Union which would operate the kind of liberalisation it desires. It was well established in debate last night that most people would have had documentation to enter Ireland from other parts of the EU or North America when seeking to come to Ireland. The issue of people being sent back in the cases of those people being in Belgium or France, for example, does not arise.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>I hope we are not resurrecting a debate which lasted for an hour and a half last night.</P>
+    </Speaker>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>Regarding Senator Mansergh's point, why should we compare ourselves with other EU countries? Ireland has benefited from the welcome given to Irish people who emigrated over the years. They might have emigrated for reasons other than asylum but Ireland has always benefited from its people being able to go to other countries. Are we going to close our doors to people coming to this country?</P>
+    </Speaker>
+    <Speaker pid="JamesBannon" hpid="Mr. Bannon Mr. Bannon">
+      <NameTxt>Mr. Bannon</NameTxt>
+      <P>The offence described in section 2 should be more clearly defined. The proposed section imposes criminal liability on the owner or person in charge of a vehicle entering the State from a destination other than Great Britain or Northern Ireland where the owner fails to produce a certain number of documents. The Minister of State should include a provision stating &ldquo;on board his or her vehicle&rdquo; because a person will be in charge of the vehicle. It should be more clearly defined.</P>
+      <P>What if the owner could not have reasonably known that persons were aboard his or her vehicle? Surely the Bill should be amended to include a defence for a carrier who has taken all reasonable steps to establish if there are people on his or her vehicle. I suggest that the following be inserted in section 2&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>I ask the Senator to wait until we reach that point. Amendments should be taken in sequence. If there are general questions about the section they should be taken at the end and when consideration of the amendments to that section have been dealt with.</P>
+    </Speaker>
+    <Speaker pid="JamesBannon" hpid="Mr. Bannon Mr. Bannon">
+      <NameTxt>Mr. Bannon</NameTxt>
+      <P>I apologise. I wanted to put on the record that it be inserted that he or she could not reasonably have known that there were non-nationals on his or her vehicle.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>The Senator can formally table that amendment on Report Stage and that would be the appropriate time to take it.</P>
+    </Speaker>
+    <Speaker pid="JamesBannon" hpid="Mr. Bannon Mr. Bannon">
+      <NameTxt>Mr. Bannon</NameTxt>
+      <P>Do I not have to give an indication of the amendment when section 2 is being dealt with?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>You have done that. We should try to clear the section.</P>
+    </Speaker>
+    <Col N="2110" />
+    <Speaker pid="DrMartinMansergh" hpid="Mr. Mansergh Mr. Mansergh">
+      <NameTxt>Mr. Mansergh</NameTxt>
+      <P>In all cases Irish emigrants to North America were documented. That is why all the genealogical research can be carried out because passenger lists and such documents are in existence. I am sure we are all united in wanting a decent, humane regime for asylum seekers and indeed immigrants, although they are a separate question. We must have a reasonable and controlled system. If we have a markedly more liberal system than every other country it affects the numbers and our ability to cope. It also affects the degree of tolerance that there should be for asylum seekers. While these amendments are well meaning they are totally counter-productive.</P>
+    </Speaker>
+    <Speaker pid="JimWalsh" hpid="Mr. J. Walsh Mr. J. Walsh">
+      <NameTxt>Mr. J. Walsh</NameTxt>
+      <P>The effect of amendment No. 7 would be to neuter the Bill. It would leave it open to any carrier complicit with the people he or she was carrying to say that they were asylum seekers. That is not the intent of the Bill. Many of the amendments would neuter the Bill. I do not know if that is the intention of the Labour Party or not but if it is, it should be stated up front. There is no country that I know of that has an absolutely open door policy and I do not think we should have one either.</P>
+      <P>The Minister of State has pointed out that in co-operation with the UN High Commissioner for Human Rights we have a sensible and co-ordinated approach. Is the Labour Party suggesting an open door policy? Such a policy could have enormous effects on employment. We are a small country with a small population. We could not absorb the numbers. In co-operation with other states we have a responsibility to play our part. These amendments would alter the intent of the Bill.</P>
+    </Speaker>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>I wish to reply to Senator Mansergh's sweeping statement that every Irish emigrant to the United States had valid documentation. There have been hundreds of thousands of emigrants who have stayed there illegally and have been able to take advantage of amnesties.</P>
+    </Speaker>
+    <Speaker pid="DrMartinMansergh" hpid="Mr. Mansergh Mr. Mansergh">
+      <NameTxt>Mr. Mansergh</NameTxt>
+      <P>Their identity has not been in doubt.</P>
+    </Speaker>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>They are illegal immigrants and they have taken advantage of amnesties to apply for green cards. If we had a proper green card system and amnesties for people who are economic migrants and are here illegally, we could then be more strict in our laws. We do not have a fair system for economic migrants.</P>
+    </Speaker>
+    <Speaker pid="SheilaTerry" hpid="Ms Terry Ms Terry">
+      <NameTxt>Ms Terry</NameTxt>
+      <P>It must be said again that the intention of this Bill is to reduce the number of people who may seek asylum in Ireland.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="SheilaTerry" hpid="Ms Terry Ms Terry">
+      <NameTxt>Ms Terry</NameTxt>
+      <P>It certainly does. That is the intention and the effect of this Bill &ndash; that the number of people who can come into this country to seek <Col N="2111" />asylum will be reduced. In fact, it will be reduced to nought because it is the carrier at source who will decide who should travel to the country and if somebody does not have the necessary documentation, he or she will be denied the right to travel and, therefore, the right to seek asylum. That is the intention of this Bill.</P>
+      <P>My concern, as expressed already, is that there seems to be no mechanism to provide for those exceptional cases which should be considered by the State. Instead of that, we are allowing the carrier to make these decisions.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Can we come back to the intention of the two amendments and the related amendments and not to the intentions of the Bill?</P>
+    </Speaker>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>I was not going to speak because, like you, Acting Chairman, I am anxious to move on. Did Senator Walsh listen to the debate last night? Did he listen to what we have said this morning? Would he even listen to Senator Terry? The intention of these amendments is clear. They are to protect those fleeing persecution in need of asylum and to ensure that our responsibilities are upheld in that regard.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>I am surprised by the position taken by a number of Senators on this measure. The debate on this subsection became a more general discussion on the nature of this measure.</P>
+      <P>Focusing on the amendment moved by Senator O'Meara, Ireland's position is that we welcome those who have properly documented themselves upon arrival. There is nothing unusual in that. In fact, states such as the United States, Australia and New Zealand have similar legislation to this. We are now the last state in the European Union to provide for this type of legislation.</P>
+      <P>There is nothing usual in the jurisprudence of other states in providing for this provision that carriers do document checks on persons boarding flights. There is nothing unusual at all in what is proposed in this legislation, yet it seems to have given rise to wide speculations about what should be appropriate in terms of our immigration policy.</P>
+      <P>On the amendment moved, we cannot see any basis on which to import into the section the type of obligations suggested by Senator O'Meara. That, in fact, would transform the simple elementary checks that every state requires carriers to conduct nowadays into full inquiries, which it would not be fair to impose on carriers. On that ground alone, I would oppose the amendment and I would suggest that Senators should not accept it.</P>
+    </Speaker>
+    <P>That apart, it is important that we recognise that there is nothing unusual in this legislation. An attempt has been made to characterise it in some way as designed to infringe people's rights. The suggestion was that some people's lives would be put in peril. I cannot see how this can be the case because all of the states where transit <Col N="2112" />takes place to this State are ones where a person's right to invoke asylum can be freely exercised. Therefore, I cannot see where the difficulty arises.</P>
+    <P>Senator Tuffy then raised wider questions about our immigration policy. She stated that we do not have an immigration policy. That is simply not correct. We have one of the most open labour migration systems in the European Union. I am sure the Senator must be well aware that the main ways in which non-European Economic Area nationals can come to Ireland is through the work permit or work authorisation schemes. In 2001, over 36,000 work permits were issued to non-EEA nationals by the Department of Enterprise, Trade and Employment. That is a substantial number. It was double the number issued in 2000, which was over 18,000. In 1999, around 6,000 work permits were issued. Up to the end of November this year, over 38,662 work permits were issued. If that is not a labour immigration policy, what is?</P>
+    <P>In 2001, there were no restrictions on the countries from which people may come. In 2001, persons came from over 120 countries, with the top five countries of origin being Latvia, Lithuania, Poland, the Philippines and South Africa. They were not all high-skilled staff. The majority were in the low-skilled areas such as catering, agriculture and services. This trend has continued in 2002, with the top five countries of origin being Latvia, Lithuania, the Philippines, Poland and Romania. In 2001 a further 3,753 persons came through the working visa work authorisation scheme which covers high skilled areas such as nursing, information and communications technology and building professionals. During January 2002 a total of 1,996 persons came through the scheme.</P>
+    <P>In recent years FÁS and a range of employers have been actively publicising job opportunities in Ireland and attracting non-nationals into the job market. It cannot be said that the only way a person can enter Ireland to work is to come here illegally or make an asylum claim. That is simply not correct and should not form part of this debate any longer. The reason this type of provision is in place in other states is to ensure the populations of those states can have confidence in the immigration systems obtain. We have a duty to those who go to the trouble of getting a work visa here to protect the integrity of the system.</P>
+    <P>Amendment, by leave, withdrawn.</P>
+    <P>Amendment No. 8 not moved.</P>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>I move amendment No. 9:</P>
+      <P>In page 4, subsection (3)(<i>a</i>), line 42, to delete &ldquo;person&rdquo; and substitute &ldquo;non-national&rdquo;.</P>
+    </Speaker>
+    <P>While we have discussed this issue under similar amendments, this amendment goes a little <Col N="2113" />further. If the members of an Irish family were returning from holidays, they would need a list of all the people travelling in the car as well as other information. What kind of state do we want? This is an interference with civil liberties. We are supposed to be a friendly, welcoming country, but this moves us in a totally different direction and is completely over the top. It is a case of overkill by the Government.</P>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>We are back to the substitution of one word for another, which was debated at length yesterday evening.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>I oppose this amendment. Section 2(1) applies to persons who arrive in a vehicle from a place outside the State other than the common travel area. The requirements in paragraphs <i>(a) </i>and <i>(b) </i>of the subsection are for the carrier to ensure everyone on his or her vehicle disembarks in compliance with any directions given by an immigration officer and that everyone on the vehicle is presented to an immigration officer. The requirement of subsection (3)(<i>a</i>) is that, when asked for, everyone on the vehicle should be listed. These requirements cannot be confined to non-nationals.</P>
+      <P>Does the mover of the amendment expect the carrier to separate Irish passengers from others in the context of complying with a simple direction to disembark or any of the other requirements? That would undoubtedly lead to interminable delays and confusion at ports and airports and to far greater inconvenience for carriers and passengers than compliance with the straightforward requirement envisaged in the Bill. Picture the situation with the amendments in operation. Imagine someone in charge of a vehicle who does not wish to co-operate with the immigration authorities, refuses to comply with any of the requirements, looks the immigration officer in the eye and says all of the persons on board his or her vehicle are Irish. What is the immigration officer to do? How can he or she tell whether the carrier is telling the truth? The answer is that he or she cannot because the amendment would deprive him or her of the power to carry out verifying checks. I am, therefore, opposing the amendment on grounds of impracticability.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>I move amendment No. 10:</P>
+      <P>In page 5, subsection (6)(<i>b</i>), line 14, to delete &ldquo;suspecting&rdquo; and substitute &ldquo;believing&rdquo;.</P>
+      <P>To require airline carriers and so on to &ldquo;suspect&rdquo; is too strict a requirement. It should be sufficient to say they should have grounds for &ldquo;believing&rdquo; the papers are at fault. I would like the Minister of State to comment.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>Senator Tuffy is not on the side of the angels in the case of this amendment in the sense that she would further restrict the defence. Were this amendment to be passed, the <Col N="2114" />Senator would insert the word &ldquo;believing&rdquo; rather than &ldquo;suspecting&rdquo;. She is proposing an amendment to a subsection which provides a defence for a carrier charged with an offence. The subsection would then provide that it shall be a defence to show &ldquo;that he or she did not know and had no reasonable grounds for believing that the document was invalid&rdquo;. That would put a higher onus on the accused to raise that defence and show that he had a belief, as distinct from a suspicion, that the document was invalid.</P>
+      <P>I am reluctant to extend the obligation on the carrier to that extent. I understand the point made by the Senator but if the amendment was accepted, it would be more difficult for the carrier to make that defence. Given the large numbers of people that have to be checked under this system, it would make the task of the carrier more difficult if he was required to show a belief, as distinct from a suspicion, in every case. This legislation seeks to ensure that carriers make certain basic elementary checks. However, if the element of belief is imported into the subsection, it will be impracticable for the carrier.</P>
+    </Speaker>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>Suspecting puts a higher onus on the carrier than believing. It would be easier to prove belief.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Government amendment No. 11:</P>
+      <P>In page 5, between lines 19 and 20, to insert the following new subsection:</P>
+      <P>&ldquo;(9) This section is without prejudice to the provisions of sections 8, 9 and 24 of the Refugee Act, 1996 and to the discretion of the Minister to admit to the State a person whom the Minister considers to be in need of the protection of the State.&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Question proposed: &ldquo;That section 2, as amended, stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>I am far from infallible, particularly this morning. We raised a number of issues on this section last night and I do not wish to be repetitious, but the section and many of the arguments in defence of it are being dealt with in a different fashion.</P>
+      <P>The section begins with the phrase: &ldquo;Where a vehicle arrives in the State from a place other than Great Britain or Northern Ireland.&rdquo;. The Channel Isles and the Isle of Man have now been added. That is what the section is about. There are tasks the carrier must carry out and, as the House is aware, our party does not agree with that. They are things that must be done on board the vehicle. The Minister was positively eloquent about aeroplanes last night. It is easier to talk about them because of the process, as much for security as for anything else, by which people check in for flights.</P>
+    </Speaker>
+    <P>
+      <Col N="2115" />The real concern, however, is with ships which carry thousands of passengers. They travel from Cherbourg, Roscoff, St. Malo and other places. It is entirely possible, if our tourism industry ever recovers, that we might have a ferry service between Cork and, for example, Santander in Spain. Senator Mansergh and I agree that this would be a good idea. These vessels have thousands of people on board.</P>
+    <P>I am concerned about two issues. Is it going to be an incredibly cumbersome process for a continental tourist coming to this country to check in beforehand? If all of these conditions are to be met when they reach Ireland, will we have huge bureaucracy or will this be done on board the ship? Section 2(1)(<i>c</i>) contains the following phrase: &ldquo;. the carrier concerned shall ensure . that each non-national on board the vehicle seeking to land in the State or to pass through a port in the State .&rdquo;.</P>
+    <P>Two points arise in this regard. First, many car ferries are now staffed by people from outside the European economic area and, therefore, questions arise about their status and right to come ashore. The second point is that it appears that we are saying everyone on board must be pre-checked. I accept what the Minister said last night, namely, that ideally each ferry company would check all of this. However, if, as he also suggested, somebody on a ship destroys his or her documents, then with whom does the responsibility lie?</P>
+    <P>On the issue of the liability of carriers, will the Minister of State indicate how an asylum seeker could lawfully enter the State? What happens to somebody with a genuine case who is undocumented? Let us not pretend that all asylum seekers carry documents because they do not. Sometimes they destroy their documents, either to test or break the law. Many of the people who streamed out of Kosovo during the war had no ID cards because they had been destroyed by the Serbian army to make matters difficult for them. Are we saying that such people are immediately to be refused access to any vehicle travelling to Ireland?</P>
+    <P>Amendment 11 was made to section 2 in order to cover the Government's nakedness. Having put together a Bill which makes it impossible for people fleeing from tyranny to come here, a subsection has been inserted to say that we really do not mean it. It is typical of many Irish Governments to have great rhetorical flourishes in legislation about our kindness and consideration and then compose a structure which prevents anybody from availing of that kindness and consideration. Will the Minister of State explain how a genuine asylum seeker can enter this country if the Bill is passed?</P>
+    <Speaker pid="SheilaTerry" hpid="Ms Terry Ms Terry">
+      <NameTxt>Ms Terry</NameTxt>
+      <P>I wish to draw the Minister of State's attention to section 2(8) where it is stated, &ldquo;The Minister may from time to time draw up and publish guidelines&rdquo;. This is extremely vague and I <Col N="2116" />suggest it be changed to &ldquo;should&rdquo; or &ldquo;shall&rdquo;, whichever is most appropriate.</P>
+      <P>The subsection further states that the Minister shall &ldquo;publish guidelines concerning steps to be taken by carriers to ensure compliance by them with this Act&rdquo;. I suggest that a comma be inserted thereafter and be followed by the term &ldquo;to be reviewed annually&rdquo;. This would ensure that guidelines would be issued on an ongoing basis, annually or at least biannually, whichever the Minister would consider most appropriate. I intend to table an amendment to that effect on Report Stage.</P>
+    </Speaker>
+    <Speaker pid="DrMartinMansergh" hpid="Dr. Mansergh Dr. Mansergh">
+      <NameTxt>Dr. Mansergh</NameTxt>
+      <P>I wish to reply to Senator Ryan on how somebody could make an asylum application. Anyone seeking asylum is entitled to go to an Irish embassy or consulate, with or without documentation. If he or she does not have documentation, it would be necessary to explain the circumstances. It would be preferable if people could be encouraged to regularise the system of application.</P>
+    </Speaker>
+    <Speaker pid="JimWalsh" hpid="Mr. J. Walsh Mr. J. Walsh">
+      <NameTxt>Mr. J. Walsh</NameTxt>
+      <P>On the section, the provisions are eminently sensible and they are not a departure from what is happening. If someone presents themselves at Dublin Airport to travel to any continental country, his or her passport is requested and if he or she does not have it, and this is nothing to do with the Ryanair situation where a passport is required to board the aircraft, the carrier will not accept him or her. I assume that is for a good commercial reason in that if the passengers arrive at their destination without their passports they will not be admitted and there is probably an obligation on the carrier to take them back to Ireland.</P>
+      <P>With regard to ports, Senator Ryan made the point that we are dealing with a larger volume of people. However, when people present themselves at the port, the carrier will ensure that they have a valid ticket for commercial reasons. In fact, that would be a good stage to check the documentation. This is not impractical and as far as I know &ndash; perhaps the Minister will clarify this &ndash; the same practice pertains in other countries. This is merely to regulate the movement of people between one country and another.</P>
+    </Speaker>
+    <Speaker pid="JoannaTuffy" hpid="Ms Tuffy Ms Tuffy">
+      <NameTxt>Ms Tuffy</NameTxt>
+      <P>Senator Walsh said this is not a new departure in comparison to other countries but it is a new departure for us in terms of our humane attitude and the welcome we give to asylum seekers, visitors, etc. Just because other countries have provisions we consider to be wrong does not mean we have to bring them in also.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>I would like to bring the section down to practicalities and I invite Senators to proceed to a point of departure known as Rosslare from where one leaves Ireland to travel to France and where one's legal documentation is checked because that is a requirement of French legislation. Irish citizens or any <Col N="2117" />person resident in Ireland who wish to travel to France have to go through precisely the system envisaged in this legislation when they embark on a ship at Rosslare. All we are providing for in this legislation is that we too can exercise that facility at a point of embarkation. That point illustrates the essential character of this measure. There is nothing unusual in it.</P>
+      <P>On the issue raised by Senator Ryan, the position in Cherbourg is that we do not know what the intention of persons refused boarding by Irish Ferries might have been had they entered Ireland. However, many of them might have planned to claim asylum, take up employment without a work visa or use this country as a transit point for the United Kingdom. Any of these persons who wish to seek asylum can make the necessary application to the French authorities or to the authorities in the EU state through which they first entered the territory of the European Union. That approach is reflected in the principles underpinning the Dublin Convention to which all European Union states are parties.</P>
+      <P>On the wider question of programme refugees, I spoke already on this subject and made it clear that the Government welcomes them. Senator Ryan outlined the horrific circumstances in Kosovo. We would support a programmed approach to deal with any great human tragedy such as that, but the practicality is that if we do not tackle the problem of the unfounded and unmeritorious application, there will not be places for programme refugees whom we all want to see being brought here.</P>
+      <P>Senator Terry raised the question of the guidelines and I understand she intends to return to that on Report Stage. The hauliers have been in discussions with the Department and have agreed a draft code or statement of practice. I appreciate the concern of the Senator that the word &ldquo;shall&rdquo; shall be imported but that gives it a very mandatory character. What we are talking about is a guideline which a potential defendant could comply with and, therefore, prove his or her innocence by adhering to it. However, I do not want to anticipate what may be raised on Report Stage on that issue.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>I was absent for a while, a Leas-Chathaoirligh, but no doubt you will remind me if I become repetitious. We have all received documentation this morning from Amnesty International, the Irish Council for Civil Liberties and, most significantly, the Irish Refugee Council taking exception to the whole issue of carrier liability and pointing out that it has not achieved what it hoped it would achieve anywhere else in Europe. It also points out that it drives people from regions of great poverty or disorder into the hands of traffickers.</P>
+    </Speaker>
+    <P>The Minister for Justice, Equality and Law Reform and the Minister of State keep saying that Ireland is the only country in the EU that does not have legislation of this sort. However, such legislation does not seem to have solved any <Col N="2118" />problems in other countries. It will not solve any problems here; it will only result in people entering the State in different ways. Some of the methods they will use will place them in greater danger, as was the case with the horrible events at Rosslare last year. I do not believe this measure, nor any short of putting barbed wire around the boundaries of Europe and telling people to go away, will solve the problem of the number of asylum seekers.</P>
+    <P>One of the problems with the huge superstructure of control of immigration we are constructing implies this country has a problem on a scale belied by the facts. The Government, the Opposition and a particular Fianna Fáil Deputy need to learn to exercise restraint and be very careful about the language they use.</P>
+    <P>Someone who works with refugees said they miss Deputy O'Donoghue because his successor is much more difficult in terms of the way he deals with refugees and asylum seekers. Neither Deputy O'Donoghue nor the current Minister will thank me for that.</P>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>The relevance to section 2 of the quality of the Ministers is questionable.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>The judgment of Ministers is a matter of concern and that judgment seems to be harsher under the present regime.</P>
+      <P>This provision makes life more miserable for people whose lives are already miserable. It potentially criminalises large numbers of innocent people. I do not believe these checks will be operated with the rigour the Minister seeks. I do not recall any particularly thorough checks on my occasional ferry trips to France. How will someone checking people onto a busy ferry in Cherbourg or Roscoff know this State's visa requirements for third country nationals? How are people with passengers in their cars to know that? The operators will say it is not their responsibility, but a person driving the car with third country nationals in it &ndash; perhaps these people might be his or her friends &ndash; will be criminalised. This will achieve nothing because people will come by other routes.</P>
+      <P>If the driver of a container arrives in Rosslare and hears a noise coming from it, what is the likelihood he will try to find out if there are people in it knowing that if there are, he or his boss will be fined &euro;3,000 for every individual found where a driver is found to have been negligent in any way? Perhaps he rushed through and did not carry out a thorough check. The chances are that drivers of such vehicles will wait until they get to a place where they will not be open to legal sanction before checking a container. That point is made in a briefing note we received this morning from three organisations involved in this area.</P>
+    </Speaker>
+    <P>This legislation will drive trafficking further underground, the consequences of which will further enrich traffickers, none of whom has ever been brought before a court in this State or, as far as I am advised, any other member state of <Col N="2119" />the European Union. Driving traffickers further underground will result in further such horrible events as happened last year. That is the reason this legislation is wrong. It will not solve the problem that allegedly exists because it is exaggerated. Having failed to solve it, it will create new problems that will put people at risk.</P>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>The Minister for Justice, Equality and Law Reform, Deputy McDowell, constantly reminded us last night that all other EU member states had carrier liability legislation which underlined the necessity for us to have a similar framework. Be that as it may, he has not outlined the effect or non-effect of carrier liability legislation throughout Europe. Has it prevented illegals coming into the European Union? It has not. It has had the effect of creating horrendous trafficking, horrific incidents, of which we are well aware.</P>
+      <P>One year ago this month there was the horrific incident where people were found dead in the back of a container in County Wexford, the driver of which was attempting to gain entry to the United Kingdom, not here. The framework of carrier liability legislation throughout Europe is not working, rather it is having the effect of increasing trafficking. As Senator Ryan said, while there is a sanction in legalisation to deal with traffickers, not enough practical effect has been given to pursing them.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>In relation to Senator Ryan's understandable concern about persons who die while concealed in containers in attempts to enter the State, this legislation, far from increasing the risk of that occurring, will diminish it. It increases the number of inquiries that must be made by carriers before a person enters the vessel. By extending the obligations of the carrier, a further precaution is being taken against this type of activity. As was said many times during this debate, there is nothing unusual about insisting on this type of check.</P>
+      <P>Senator Ryan raised a fundamental philosophical point about immigration controls and smuggling. Once immigration controls are in place, smugglers will offer services to evade them. That cannot be avoided. Does the fact that persons put themselves at risk, or are willing to offer a service which puts others at risk, to circumvent legitimate immigration controls mean we should abolish such controls to avoid that risk? Every sovereign state must maintain some control over its boundaries. This touches on a point raised by Senator O'Meara, that carrier liability legislation has not worked in Europe. Such legislation is a feature of the legal landscape. Migration has increased dramatically in recent decades as is obvious throughout the European Union.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>It is supposed to be legal here.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>We are not entering into a discussion on whether it is legal or illegal here. My <Col N="2120" />point is that we must provide legislative responses to ensure there are proper travel arrangements. This measure brings us into line with other European countries.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>It would be very simple&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>We have discussed this exhaustively.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>I appreciate that, and the Chair's indulgence, or rather his patience, if not his indulgence, or at least his silence, if not his patience.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>The Senator should not provoke the Chair.</P>
+    </Speaker>
+    <Speaker pid="BrendanRyan" hpid="Mr. Ryan Mr. Ryan">
+      <NameTxt>Mr. Ryan</NameTxt>
+      <P>I would not dream of doing so, especially this morning. It would be very simple to draft legislation which made clear what procedures a commercial carrier had to operate in good faith before he or she brought anyone into the State. The legislation would state he or she was under a legal obligation to ensure certain things. The Bill before the House criminalises people unnecessarily.</P>
+      <P>With the permission of the Chair, I will quote a paragraph from a document signed by Amnesty International, the Irish Council for Civil Liberties and the Irish Refugee Council:</P>
+      <P>Research for the United Nations High Commission for Refugees has shown that the vast majority of asylum seekers now enter Europe in an irregular fashion and more than likely with the assistance of traffickers and smugglers. The main nationalities who are trafficked and smuggled are those who go on to gain refugee status.</P>
+      <P>We are driving people who, it is ultimately discovered, have legitimate claims to refugee status into the hands of smugglers and traffickers. I do not know what that is purported to achieve.</P>
+      <P>This measure forms part of the Schengen Agreement, but as is our entitlement, we operate the agreement selectively. When it suits us, the open travel arrangement between Ireland and the United Kingdom is used as a great excuse to close down free movement between Ireland and the rest of the European Union. It is an affront to our membership of the European Union that we, as the most passionate Europeans, as we describe ourselves, retain passport restrictions more consistent with the slightly xenophobic and isolationist mentality across the water in Britain than with ours. We were told that our non-accession to the entire Schengen accord related to problems with the common travel area. It is clear that we will now never agree to any form of passport free status within the European Union because we have got ourselves into a frenzy of concern about asylum seekers.</P>
+    </Speaker>
+    <P>The reason we have so many asylum seekers is we took five years to develop a means of processing applications for asylum. That is the fundamental problem. While the numbers are signifi<Col N="2121" />cant, they are not huge in proportion to the rest of Europe. It is interesting to examine them because, if all countries in the European Union have carrier liability and it has made no difference to the numbers of asylum seekers with which they must deal, and if those numbers are increasing at the same rate as ours, why are we implementing this legislation? We do so in order that we can say we are doing something about asylum seekers, because there is a constituency that does not like people with dark skins coming into the country. We would want to be very careful how we deal with this issue.</P>
+    <Speaker pid="UlickBurke" hpid="Mr. U. Burke Mr. U. Burke">
+      <NameTxt>Mr. U. Burke</NameTxt>
+      <P>Perhaps I could beg the indulgence of the Leas-Chathaoirleach on this question to the Minister of State.</P>
+      <P>It is entirely inappropriate for the Department of Justice, Equality and Law Reform to discriminate against legitimate students wishing to enter the country by denying them visa access. They come here through a proper internationally recognised agency and have free access to Dublin business and language schools. However, when they seek permission to attend similar properly structured schools in the provinces, especially in the west, they are refused.</P>
+      <P>Some 19 students, which represented the full intake for a business and language course in the west of Ireland, were denied access. They were Bangladeshis who had all the proper preparations for entry made, including visa applications, but were turned down. Four of them were refused by the Department of Justice, Equality and Law Reform in conjunction with the Department of Foreign Affairs for particularly spurious reasons. There is a feeling of resentment that we are discriminating against these people.</P>
+      <P>This is an ideal opportunity to promote activity and learning as well as being important for business in the west of Ireland. There is a failure to get any information or response and an appeals mechanism was introduced.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>This is more relevant to section 1 so the Senator can raise it on Report Stage.</P>
+    </Speaker>
+    <Speaker pid="UlickBurke" hpid="Mr. U. Burke Mr. U. Burke">
+      <NameTxt>Mr. U. Burke</NameTxt>
+      <P>They are being classed as illegal immigrants, which is not fair to a legitimate business opportunity. They came through an internationally recognised agency. The Minister should intercede as a matter of urgency so these groups are not so classified and denied access to this country.</P>
+    </Speaker>
+    <Col N="2122" />
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>If Senator Ulick Burke communicates the details of the matter, I will of course arrange to have it investigated in the Department. I am not familiar with the facts of the particular case. It is not the policy of the Department to discriminate in relation to private colleges.</P>
+    </Speaker>
+    <Speaker pid="UlickBurke" hpid="Mr. U. Burke Mr. U. Burke">
+      <NameTxt>Mr. U. Burke</NameTxt>
+      <P>In practice, it is.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihan" hpid="Mr. B. Lenihan Mr. B. Lenihan">
+      <NameTxt>Mr. B. Lenihan</NameTxt>
+      <P>If the Senator has evidence of that he should furnish it and I will arrange for it to be examined. There is a difficulty with colleges in that there is no precise legal register or regulation of private colleges in the State. It is not the policy of the Minister to discriminate as between institutions in different parts of the country. The policy is to examine visa applications on their merits.</P>
+      <P>On the general points raised in consideration of section 2, Senator Ryan returned to the question of the migration patterns. There is a meeting of minds on this Bill. The crucial point is that we have a system of control, which is unexceptionable. Senator Ryan recalled his own experiences of transit through Rosslare. The controls are so relaxed in character that people do not notice them readily when going through. At airports and ports, prior clearance is now a universal norm in European countries.</P>
+      <P>On the wider Schengen question, raised by the Senator, we always made it clear that we were prepared to accept the full Schengen principle of unrestricted access throughout the European Union area. However, we do not just live in our own island. We live beside a bigger island, which does not accept that principle should be implemented. The common travel area is something that has been important since the foundation of the State. It was of course interrupted during the war years, when there were controls &ndash; a fact that is often forgotten. The common travel area is deeply ingrained in our cultural consciousness. It would be difficult for us to implement the Schengen Agreement and have to institute controls at the land frontier with Northern Ireland. It is not a practicable proposition. The Government is committed to and would like to see what the Senator envisages, namely, free movement throughout the European Union. That is why we are trying at European Union level to devise legal responses to this problem of uncontrolled migration.</P>
+      <P>Question put.</P>
+      <P>Tá</P>
+      <P>
+      </P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Brennan, Michael.<br />Cox, Margaret.<br />Dardis, John.<br />Dooley, Timmy.<br />Fitzgerald, Liam.<br />Glynn, Camillus.<br />Hanafin, John.</entry>
+            <entry rowsep="1">Kenneally, Brendan.<br />Kett, Tony.<br />Kitt, Michael P.<br />Leyden, Terry.<br />MacSharry, Marc.<br />Mansergh, Martin.
+Mooney, Paschal C.<Col N="2123" /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tá<i>&ndash;continued.</i></P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Moylan, Pat.<br />O'Brien, Francis.<br />O'Rourke, Mary.<br />Ó Murchú, Labhrás.<br />Ormonde, Ann.<br />Phelan, Kieran.</entry>
+            <entry rowsep="1">
+              <Col N="2124" />Quinn, Feargal.<br />Scanlon, Eamon.<br />Walsh, Jim.<br />Walsh, Kate.<br />White, Mary M.<br />Wilson, Diarmuid.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Bannon, James.<br />Bradford, Paul.<br />Browne, Fergal.<br />Burke, Paddy.<br />Burke, Ulick.<br />Coonan, Noel.<br />Cummins, Maurice.<br />Hayes, Brian.<br />Henry, Mary.</entry>
+            <entry rowsep="1">McDowell, Derek.<br />Norris, David.<br />O'Meara, Kathleen.<br />O'Toole, Joe.<br />Ross, Shane.<br />Ryan, Brendan.<br />Terry, Sheila.<br />Tuffy, Joanna.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá, Senators Dardis and Moylan; Níl, Senators O'Meara and Tuffy.</P>
+    <P>Question declared carried.</P>
+    <P>Progress reported; Committee to sit again.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Matter raised under" RHead="Standing Order 30">
+    <Title>Matter raised under Standing Order 30.</Title>
+    <Speaker pid="MaryMWhite" hpid="Ms White Ms White">
+      <NameTxt>Ms White</NameTxt>
+      <P>I travelled to Colombia two weeks ago at the request of the families of the three Irishmen being held in prison there &ndash; Niall Connolly, Jim Monaghan and Martin McAuley. I went in the interests of the three men's human rights entitlement to safe custody while in prison and the right to a fair trial. I travelled in my own right as a Senator and at my own expense. There is an honourable tradition of Oireachtas Members taking up the cause of human rights for Irish prisoners, whether at home or abroad, such as in the cases of the Birmingham Six and the Guildford Four.</P>
+      <P>I take particular inspiration from a former Member of the Seanad, Mary Robinson, a champion of human rights. In April this year, introducing her report to the High Commission in Geneva after her two visits there, Mrs. Robinson expressed her deep concern about the deteriorating human rights situation in Colombia as well as the recurring grave breaches of international law. She stated the rule of law was in grave jeopardy as a result of the lack of proper administration of justice and the burgeoning military threat.</P>
+      <P>I visited the three prisoners in La Modelo prison, Bogota on Sunday, 1 December, where they live in fear of attack at any moment. In July this year a battle broke out in the prison between right and left wing prisoners, resulting in ten prisoners being killed and 23 being seriously injured.</P>
+      <P>On the first day of the trial the witness for the prosecution, Major Matíz, gave evidence. I was sitting two feet away for approximately four hours as he gave his evidence. He produced two training manuals on bombmaking techniques but had no first hand knowledge of the circumstances in which they were found and produced no evidence to link the manuals to the accused. One of the manuals can be found on the Internet. On the second day of the trial neither of the prosecution witnesses due to appear turned up and there was consternation in the courtroom.</P>
+      <P>When Senators stand back and look at the two days of the trial, one can only conclude that the case for the prosecution was a shambles. The judge adjourned the case until 5 February 2003. I intend to return for the resumed trial. The Government should convey to the Colombian Government the serious doubts about the status of the main case against the three accused. It should do so because of the inability of the prosecution to produce the two key witnesses from Colombia, despite the fact that the three men have been in prison for 16 months and because of the unsubstantiated evidence from the Colombian army.</P>
+      <P>Furthermore, last Friday there was a bomb in the hotel where I stayed&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>I cannot allow any more time. When is it proposed to sit again?</P>
+    </Speaker>
+    <Speaker pid="MaryORourke" hpid="Ms O'Rourke Ms O'Rourke">
+      <NameTxt>Ms O'Rourke</NameTxt>
+      <P>It is proposed to sit again on Wednesday, 29 January 2003, unless there is a national emergency before then.</P>
+      <P>
+      </P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Adjournment Matters. - Investment" RHead="Based Naturalisation Scheme">
+    <Title>Adjournment Matters. - Investment Based Naturalisation Scheme.</Title>
+    <Speaker pid="FergalQuinn" hpid="Mr. Quinn Mr. Quinn">
+      <NameTxt>Mr. Quinn</NameTxt>
+      <P>I tabled this matter because some years ago I began to have nightmares. These were not serious, but they did recur. I dreamed of arriving at passport control in some foreign country and the immigration officer saying: &ldquo;Oh, it is one of those&rdquo; when he saw my Irish passport. I hope that will never happen. I do not wish to rake up the past, but rather to copperfasten the future. In recent replies to parliamentary questions the Minister for Justice, Equality and Law Reform has comprehensively outlined the history of the <Col N="2125" />passports for sale scheme. He has also published the findings of a departmental inquiry into its workings.</P>
+      <P>I welcome the Minister's uncompromising opposition to the sale of passports and his guarantee that no such scheme will ever be re-introduced as long as he is in office. Unfortunately, that does not put my mind at rest because my uneasiness arises from the basis on which the passports for sale scheme was introduced and continued for several years under different Governments.</P>
+      <P>The scheme was apparently perfectly legal in that it broke no law, but the basis for it was not set down either in the form of legislation or a ministerial order. It worked entirely within the scope of the discretion available to the Minister of the day under the nationality and citizenship legislation. It came into being with an informality that is quite staggering, particularly in view of the importance of the issues involved. There seemed to have been no rules governing the scheme at all. A number of unofficial rules were applied later, but these made no difference. It is a matter of record that little or no effort was made to keep to those rules or to discover whether they were being observed. This position continues to obtain many years later. I understand it would be open to any future Minister to set up a similar scheme on a similarly informal basis.</P>
+      <P>Despite our experience in the meantime, there is apparently still nothing in law to prevent the same thing happening again. I am totally opposed to the selling of Irish passports, but I recognise that there is another view on this matter and also that circumstances may arise in the future when our economic position could be so desperate that we would wish to leave open the possibility of selling our birthright in this way. I cannot accept that we would deliberately leave a loophole in our legislation that would permit any future Government to introduce a scheme that would operate in such an informal manner as heretofore. We are all aware of the unfortunate consequences and none of us wish to see them repeated.</P>
+      <P>I am delighted by the Minister's goodwill in respect of this matter. However, I would prefer to rely on legislation. We cannot bind the decisions of a future Government, but we can put a legal framework in place that will require anyone introducing such a scheme to do so only on a statutory basis. The latter must have built into it the need for openness, transparency and accountability that history teaches us is all too necessary, particularly in respect of this issue. I urge the Minister for Justice, Equality and Law Reform to consider the introduction of legislation to bring this about.</P>
+    </Speaker>
+    <Speaker pid="TomParlonPD" hpid="Mr. Parlon Mr. Parlon">
+      <NameTxt>Minister of State at the Department of Finance (Mr. Parlon)</NameTxt>
+      <P>I thank the Senator for raising this <Col N="2126" />matter which I am taking on behalf of the Minister, Deputy McDowell. I would not wish to see the Senator's sleep pattern overly interrupted in the future or even during the Christmas period.</P>
+      <P>On 20 April 1998, the Government abolished the investment based naturalisation scheme which had commenced in 1989. In doing so, it decided that the Minister for Justice. Equality and Law Reform should initiate a review of the Irish Nationality and Citizenship Act, 1956, to see how it might facilitate investment. The Minister was asked to consider additional legislative measures if, in the course of the review, information emerged which would warrant such measures.</P>
+      <P>To assist him in conducting the review called for by the Government, the Minister established the review group on investment based naturalisation comprising representatives of various Departments, Enterprise Ireland, IDA Ireland and two outside experts.</P>
+      <P>The report of the review group on investment based naturalisation in Ireland was brought by the Minister before Government in July 2002. The Minister arranged for its publication on 4&nbsp;August 2002 and a number of copies were placed in the Oireachtas Library at that time. Since then, the report has provided a useful focus for debate, which the Minister wholeheartedly welcomes, on the scheme.</P>
+      <P>A majority of the review group believed that the Government should retain the option, in the event of a changed economic or employment situation, of introducing an investment based naturalisation scheme and suggested a framework and rules for such a scheme. The group saw merit in a legal, as opposed to an administrative, basis for the scheme.</P>
+      <P>The motion proposed by Senator Quinn reflects a similar view. He proposes that the Minister considers legislation to make it impossible for any future administration to reintroduce an investment based naturalisation scheme except within a rigorous and transparent statutory framework. His motion, therefore, contemplates the possibility of an investment based naturalisation scheme, albeit on a statutory basis. The Minister is afraid that this is where their views diverge.</P>
+    </Speaker>
+    <P>The Minister has always been opposed to the principle behind the investment based naturalisation scheme. He has no difficulty with the State according rights of residence to non-nationals who come here to establish businesses and create employment and who intend, in good faith, to become full members of our community. This is an essential feature of any modern and thriving economy which is becoming increasingly integrated with world markets and trends. Citizens of European economic area states and Switzerland already enjoy rights of free movement and residence for that purpose. Furthermore, the Depart<Col N="2127" />ment of Justice, Equality and Law Reform operates a business permission scheme to enable citizens of other states to take up residency here for the purpose of engaging in business activities.</P>
+    <P>The Minister has no difficulty with such persons being given the right, in due course, to apply for Irish citizenship where they intend, in good faith, to become members of our community. However, he fundamentally disagrees with any proposal which would enable the privilege of Irish citizenship to be bartered to investors who have little or no connection with Ireland and who have no plans to strengthen those connections. Consequently, the Minister can confirm that there are no circumstances in which he will recommend to the Government that we should return to a situation, either with or without statute, where Irish citizenship can be bartered for economic reasons. If there is an economic case for conferring benefit on investors, that benefit, as far as the Minister is concerned, will have to take a form other than Irish citizenship.</P>
+    <P>For the purposes of clarity, the position in relation to the investment based naturalisation scheme is as follows. Neither the Minister nor his predecessor accepted any applications from new investors under the scheme. Only applications from investors made before September 1996, the date on which the scheme was suspended by the rainbow Government, or accepted for processing by that Government after that date for exceptional reasons have been dealt with since then.</P>
+    <P>A total of 107 investors were naturalised under the scheme since its inception in 1989. In addition, 71 spouses and minor children of investors have been naturalised. It is important to distinguish, however, between investors who have been naturalised and the naturalisation of their spouses and children, which flows from the fact that the investor had been naturalised. Notwithstanding the existence of the investment based naturalisation scheme, it is open to any naturalised Irish citizen to apply to have his or her minor child naturalised also. It is further provided in law that the spouse of a naturalised Irish citizen can apply for naturalisation.</P>
+    <P>The Minister is opposed, in principle, to what has become known as investment based naturalisation. For that reason, he is unable to support the motion proposed by the Senator.</P>
+    <Speaker pid="MaryMWhite" hpid="Ms White Ms White">
+      <NameTxt>Ms White</NameTxt>
+      <P>Am I allowed to say a few words on this matter?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>No. I am sorry, Senator.</P>
+    </Speaker>
+    <Speaker pid="MaryMWhite" hpid="Ms White Ms White">
+      <NameTxt>Ms White</NameTxt>
+      <P>I would like the Minister of State, Deputy Parlon, to convey to the Minister, Deputy McDowell, that I question&mdash;</P>
+    </Speaker>
+    <Col N="2128" />
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Senator is out of order.</P>
+    </Speaker>
+    <Speaker pid="MaryMWhite" hpid="Ms White Ms White">
+      <NameTxt>Ms White</NameTxt>
+      <P>Why? What can I do?</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The matter was raised&mdash;</P>
+    </Speaker>
+    <Speaker pid="MaryMWhite" hpid="Ms White Ms White">
+      <NameTxt>Ms White</NameTxt>
+      <P>It is a very serious issue and I do not think the Minister understands.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The Senator will have to find another vehicle for commenting.</P>
+    </Speaker>
+    <Speaker pid="MaryMWhite" hpid="Ms White Ms White">
+      <NameTxt>Ms White</NameTxt>
+      <P>The Minister does not understand that it could be very important for the future of the economy. I agree totally with Senator Quinn.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Senator White is out of order.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Tipperary" RHead="Plant Closure">
+    <Title>Tipperary Plant Closure.</Title>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>I raise the issue of the announcement that the Miza, formerly Antigen, pharmaceutical manufacturing plant in Roscrea, County Tipperary, is to close, with a substantial loss of employment for the town. The Minister of State, Deputy Parlon, will be familiar with the situation.</P>
+      <P>Two specific issues arise from this, and I thank an Leas-Chathaoirleach for giving me the opportunity to raise them. The first is the question of statutory redundancy and the second is that of the examinership of Antigen and Miza and the effects thereof. I have concerns about how the examinership worked or, as in this case, did not work.</P>
+      <P>It is obviously unsatisfactory that workers at the Miza plant will receive only statutory redundancy payments following its closure. The liquidation is happening against a background of massive debt and there are no funds available for redundancy payments. The level of statutory redundancy is far too low in general &ndash; not just in the context of these jobs &ndash; and it means that people who have worked in the plant for a considerable period will get a payment which is far less than they need or deserve. There have been other closures in north Tipperary and Roscrea and the prospect of replacing those jobs is slim to say the least. People are going to find it difficult to find alternative employment, at least in the immediate area, which raises a major question of unfairness. I ask the Minister of State to indicate when those statutory payments are likely to be made and urge that they be made as soon as possible because people need this support.</P>
+    </Speaker>
+    <P>I will not go into the details of the examinership. The Minister of State is probably familiar with the situation in any event. Two examiners were appointed, one when the original Antigen plant got into difficulty and another when the takeover by Miza failed to yield the <Col N="2129" />desired result. The Minister of State may have read some commentary in <i>The Sunday Business Post</i> last weekend that articulated very well some of the concerns now being expressed. It asked whether the failure of the Miza Pharmaceuticals Ltd. examinership casts a dark cloud over the country's corporate rescue legislation.</P>
+    <P>I ask the Minister of State whether the Department of Enterprise, Trade and Employment is looking into the issue of how examinerships work, particularly in light of the experience at Miza. That experience has been bad, not only for the workers but also for a number of the creditors. Questions are being asked, particularly in the accounting profession, about how both these examinerships worked, the decisions that were made and the ongoing consequences of those decisions.</P>
+    <Speaker pid="TomParlonPD" hpid="Mr. Parlon Mr. Parlon">
+      <NameTxt>Mr. Parlon</NameTxt>
+      <P>I thank Senator O'Meara for raising this issue. It is of particular interest to me because I also come from that area. Although Roscrea is not in my constituency, it was my home town. I went to school there and my children attend school there now. What has happened is an absolute tragedy.</P>
+      <P>The Department of Enterprise, Trade and Employment has given absolute priority to the processing of the claims for statutory redundancy lump sums under the Redundancy Payments Acts, 1967 to 2001. Although the fully completed forms will only be submitted today, the Department had made arrangements for the liquidator to provide the necessary data for input into the redundancy IT system earlier this week in order to facilitate the speedy processing of claims on behalf of the 245 employees concerned. The aim is to ensure payment before Christmas, despite the short notice. The total redundancy lump sums which have now been authorised for payment amount to &euro;947,901 in total. These statutory payments will be entirely free of tax.</P>
+      <P>In addition, the Department has made special arrangements to have the individual cheques collected by the liquidator for prompt distribution to all employees concerned in order to avoid the Christmas postal rush. Close co-operation between officials of the Department and staff of the liquidator's office has been a key factor in the expeditious processing of the redundancy claims. I hope that this prompt payment will go some way towards compensating the employees who have been unfortunate enough to be made redundant, in particular at this time of the year.</P>
+    </Speaker>
+    <P>The employees are also due certain entitlements under the Protection of Employees (Employers' Insolvency) Act, 1984, which is administered by the Department of Enterprise, Trade and Employment. This scheme provides for the payment of certain wage related entitlements, subject to certain limits and conditions, for example, arrears of pay and holiday pay. The <Col N="2130" />Department has not yet received any claims from the liquidator in respect of employee entitlements under the Act. When the claims are received, the Department of Enterprise, Trade and Employment will make every effort to process them without delay.</P>
+    <P>With regard to the employees' entitlements under the Minimum Notice and Terms of Employment Act, before payment can be made under the insolvency payments scheme, entitlement must first be established by appeal to the Employment Appeals Tribunal. Employees can establish entitlement by making application to the Employment Appeals Tribunal.</P>
+    <P>Regarding the question of the examinership of this company, the Minister has no function under company law where an examiner is appointed to a company. An examiner is appointed by and is answerable to the courts. Furthermore, since November 2001, when the Office of the Director of Corporate Enforcement was established under the Company Law Enforcement Act, 2001, responsibility for the investigation of suspected breaches of company law lies with the Director of Corporate Enforcement.</P>
+    <P>Under the Company Law Enforcement Act, 2001, liquidators have certain duties to report to the Director of Corporate Enforcement. Where a company is insolvent, for example, liquidators are obliged to provide a report to the director on the conduct of the company's directors. They are further obliged to make application to the High Court for the restriction of each of the company's directors unless specifically relieved of that obligation by the Director of Corporate Enforcement. Liquidators are also obliged to report suspected criminal offences to the director but in the case of court appointed liquidations, it is for the court to direct the liquidator to refer a matter to the Director of Corporate Enforcement. Section 56 of the Company Law Enforcement Act, 2001, provides that the director may, on his own initiative or at the request of a member, contributor or creditor of the company, request a liquidator of a company in liquidation to produce its books for examination. The director is independent in the performance of his statutory duties and the Minister has no function in the matter.</P>
+    <P>FÁS is already in discussions with the company with a view to offering its full range of services to staff. These services include information and advice on alternative employment options, services which address the personal needs of workers facing redundancy and services which will provide workers with education and flexible training options, and any other support that may be required. For industrial development purposes, the town of Roscrea comes within the control of Shannon Development. The agency is committed to playing a full part in increasing the attractiveness of the area as an industrial location and a large number of initiatives are in hand, <Col N="2131" />including a business park in Roscrea, advance industrial units, priority in terms of broadband development and technology parks in Thurles and Birr.</P>
+    <Speaker pid="KathleenOMeara" hpid="Ms O'Meara Ms O'Meara">
+      <NameTxt>Ms O'Meara</NameTxt>
+      <P>I thank the Minister of State for his reply and commend the Department on its prompt response to this issue.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>I thank the Minister <Col N="2132" />of State, Senators, the ushers and the staff of the Seanad and wish them a happy, holy and peaceful Christmas. I also wish to be associated with the good wishes to John McCabe on his retirement. He is a most courteous man and one of the nicest and most helpful people I have met since I became a Member of the Oireachtas. I wish him well in his retirement.</P>
+      <P>The Seanad adjourned at 1.20 p.m. until 2.30 p.m. on Wednesday, 29 January 2003.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

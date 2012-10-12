@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Thu" Date="31" Month="Oct" Year="1957" Vol="164" No="3" DateIrish="Déardaoin, 31 Deireadh Fómhair 1957" DateEnglish="Thursday, 31 October 1957" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="383" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is proposed to take business in the following order:&mdash; Nos. 6, 7, 8, 3 and 9.  It is proposed that an Order be made by the Dáil to the effect that if Government business should finish before 3 p.m., questions shall be taken at the end of business.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Would the Tánaiste indicate what the sitting days between now and Christmas are likely to be?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>That would be very difficult.  My impression is that a one-day sitting next week will be sufficient. That will be required to enable some Bills to move from the Dáil to the Seanad, which, I hope, will be meeting the following week.  If the Deputy asks me that question next week, I will try to give more information.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>On what day is it proposed to sit next week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>On Wednesday.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>And we will be able to know next week what will be the sitting days between then and Christmas?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I would not like to say that I will give a reply then which will be a committal, but I hope to be able to give a fair indication.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Would the Tánaiste indicate when a number of Bills appearing on the Order Paper are likely to be circulated?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>That is precisely the <Col N="384" /> information I have to get before I can reply to the Deputy's question.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>We shall have a lot of news to get next week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I hope so.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Could the Tánaiste let us know for what business we are meeting next week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>The Report and Committee Stages of Bills already considered by the Dáil.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>And these are&mdash;&mdash;?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>I am assuming now that the business ordered for to-day will finish to-day and then next week's business will be the Committee Stage of the Landlord and Tenant (Reversionary Leases) Bill, the Undeveloped Areas (Amendment) Bill, the Social Welfare Bill, and possibly, if the Dáil will agree, the Gaeltacht Industries Bill&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>No; we will want a fortnight for that.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>&mdash;&mdash;and the Prices Bill, on Report.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="An Bille um Thionscail na Gaeltachta," RHead="1957&mdash;An Dara Céim (d'atógaint)">
+    <Title>An Bille um Thionscail na Gaeltachta, 1957&mdash;An Dara Céim (d'atógaint).</Title>
+    <P>Tairgeadh an cheist arís: &ldquo;Go léifear on Bille an Dara hUair anois.&rdquo;</P>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>In view of the fact that this Bill concerns the Gaeltacht, I believe that we who represent Gaeltacht areas should give our views.  It is my personal opinion that the Gaeltacht has been the plaything of politics for the past 35 years and I must say here and now that the recently-appointed Minister for the Gaeltacht has a hard job before him.  Under the Undeveloped Areas Act passed some years ago by this House, very little progress has been made as regards starting industries in the Gaeltacht. It will be very difficult to get people interested in starting industries there because we all know very well that people are leaving the Gaeltacht day <Col N="385" /> after day and the one thing these young people say to us is: &ldquo;What is the Government doing to help the Gaeltacht?&rdquo;</P>
+      <P>I want to repeat what I said to the present Minister for Education when he was appointed Parliamentary Secretary to the Government in 1951 and when he made a tour of the Gaeltacht and congested areas and met the people to discuss their problems.  I said then that the only way to give immediate employment in the Gaeltacht areas is by improving the roads there.  The big question, of course, is the question of money.  Since then, improvements have been made to the Gaeltacht roads, but the amount of money being spent is not very great in value because local authorities are very up-to-date and well equipped with machinery.  Very little of this money is spent on wages to residents of the Gaeltacht.</P>
+      <P>If the present Minister has decided to help the Gaeltacht areas he should discuss with the Minister for Local Government the possibility of developing existing quarries there so that all the materials for road making could be produced in the Gaeltacht areas.  This is the only way in which we can give immediate employment in those areas. At the moment, if a local authority gets a £50,000 grant for the relief of unemployment in the Gaeltacht areas, the amount paid out in wages under these grants is very small compared with the amount of money paid in other parts of the country, not in the Gaeltacht area, where the raw material for road making is produced.  The Minister should insist that every penny of the Gaeltacht grants should be spent in the Gaeltacht areas, by getting the local authorities to agree to produce the material in the Gaeltacht.</P>
+    </Speaker>
+    <P>Very few people are prepared to move into the Gaeltacht areas and start industries there because of their remoteness.  In the West Kerry Gaeltacht we have one industry, a knitting Industry, established for a number of years and I have been told that those who run it find it hard to get girls to work there because they are living too far away from the industry.  For some <Col N="386" /> time those in charge have been looking for State assistance to provide transport to take those employed there to and from their work.</P>
+    <P>I believe that when the present second-class roads in the Gaeltacht areas&mdash;&mdash;</P>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I suggest that the Deputy should leave the roads and keep to the track he was on before.</P>
+    </Speaker>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>I think this will help the Gaeltacht areas and I am entitled to give my opinion as to how they may be helped.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>On a suitable occasion, no doubt.</P>
+    </Speaker>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>When the present roads are completed and steam-rolled we will have to go back and make them wider. That is one way in which we can give employment.  I know that a lot of employment has been given over the past few years as a result of rural improvement schemes, but the recent increase demanded from the local beneficiaries will hinder the progress of these schemes.  Many of the people in the Gaeltacht areas are not too wealthy. The contribution required will mean fewer improvement schemes carried out in these areas.</P>
+      <P>We have been debating here for years the question of water and sewerage schemes for these areas. Something should be done immediately to provide these amenities.  I do not agree with the present proposals of the Minister regarding a percentage of the cost being borne by local authorities.  All these water and sewerage schemes, whether new schemes or extensions of existing schemes, should be given a full State grant&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I cannot allow the Deputy to widen the debate to that extent.  He is going far beyond the provisions of the Bill.</P>
+    </Speaker>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>The Bill is to appoint a board to help, advance and protect the existing industries in the Gaeltacht areas.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy is talking about water schemes.</P>
+    </Speaker>
+    <Col N="387" />
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>If we are to have industries in the Gaeltacht areas, which I doubt very much, the only hope we have of keeping people there is by giving them employment.  The only way we can do that is by providing money to give the facilities I have already mentioned.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy may make that case on a suitable occasion.  This is not a suitable occasion.</P>
+    </Speaker>
+    <Speaker pid="DanielSpring" hpid="Mr. Spring Mr. Spring">
+      <NameTxt>Mr. Spring</NameTxt>
+      <P>Afforestation would be a big help to the Gaeltacht areas.  The Minister has a very difficult job before him.  I do not think that a Minister or any board can help the Gaeltacht unless the Minister has plenty of money at his disposal.  I wish the Minister every luck, but I think his hands will be completely tied unless the Government is prepared to provide him with sufficient money.</P>
+    </Speaker>
+    <Speaker pid="DanielJMoloney" hpid="Mr. Moloney Mr. Moloney">
+      <NameTxt>Mr. Moloney</NameTxt>
+      <P>Is mian liomsa cupla focal a rá ar an mBille seo.  Since part of my constituency is in the Gaeltacht I am naturally very interested in the general provisions of this Bill.  I feel we should keep to the main headings of the Bill and thus avoid a good deal of confusion which would otherwise arise.  I do not intend to say very much other than to deal with the board proposed to be set up under the Bill.  I am one of those prepared to accept that the Civil Service organisation, which carried on the affairs of these Gaeltacht industries for some years, made a reasonably good job of it.  An organisation of that kind is, however, naturally restricted in its general scope.  As every Deputy knows, Civil Service or semi-Civil Service bodies, as such, could not be expected to give the results in the long run that might be obtained if an independent and businesslike board were in charge of the industries in question.</P>
+    </Speaker>
+    <P>Some people, and I am sure some Deputies, will be inclined to suggest that we have too many boards in this country already and that adding another board to the list will not improve matters very much.  I know that that line of argument has been <Col N="388" /> taken up in certain cases already and I have no hesitation in saying that I do not subscribe to that view.  I can point out to the Minister and to the House three or four boards set up within the past 20 years which have given a very good account of themselves. If the Minister can find it possible to organise this new board on somewhat similar lines to Bord na Móna, Comhlucht Siúicre Éireann Teo, and similar boards, he will be doing a good day's work for the country.</P>
+    <P>The general functions of the board are set out very clearly in the Bill. There can be no misunderstanding about them.  However, I would suggest to the Minister that the board should be encouraged to go into those Gaeltacht areas which have not been given industries already and more or less make a survey of these districts with a view to finding out, or at least endeavouring to find out, what local industries, either home or cottage types or general, would be suitable for the places in question.</P>
+    <P>In the Gaeltacht area of North Kerry constituency, there is no evidence to show where any industry at all has been set up since the Government took an interest in the Gaeltacht areas of the country.  Any little industry that has been established there has been initiated with the help of private initiative.  There is a big field to be covered in the Kerry Gaeltacht.  I have discussed the setting up of industries with various people in this Gaeltacht and I think they are as keen in those particular areas to get industries going as they are in other parts of the country if they got a certain amount of encouragement.  There probably will be certain difficulties and at the present moment, due to the fact that people are not staying in the Gaeltacht &mdash; that they are going to England at an alarming rate &mdash; particularly in recent years, I think what is required in this connection is some general drive or crusade to try to persuade the people to have confidence in their own initiative and get people to put the same amount of work into any industry that might come their way at home as they would when they go to work in Dublin, England or America.</P>
+    <P>
+      <Col N="389" /> This new board can do very useful work and the Minister can use the board very successfully if he directs the attention of the members to the points I have just made.  The members of the board should be encouraged to travel about the various Gaeltacht areas in the country and discuss the relevant problems and the setting up of industries with the people.  That is their function.  They should try to give such encouragement for the setting up of those industries by helping to organise the capital and all that is necessary in those areas when there will be success. If the board fail to perform that very necessary function the people of the Gaeltacht will lose confidence in the board.</P>
+    <P>The personnel of a board in my opinion is very important and I am quite sure the Minister will take that very fully into account.  It is rather difficult to get people to form a board that will have the confidence of all and sundry.  Very often a good deal of criticism is directed towards a member of a board because of his past experience in another business.</P>
+    <P>I am prepared to make a rather unusual statement, and I would say a somewhat dangerous statement.  That is that from my own experience I have very often found that the most successful people on these boards are men or women who might have no previous experience of the particular work they are being assigned to do.</P>
+    <Speaker pid="PatrickODonnell" hpid="Mr. O'Donnell Mr. O'Donnell">
+      <NameTxt>Mr. O'Donnell</NameTxt>
+      <P>Hear, hear!</P>
+    </Speaker>
+    <Speaker pid="DanielJMoloney" hpid="Mr. Moloney Mr. Moloney">
+      <NameTxt>Mr. Moloney</NameTxt>
+      <P>That is what I say and I stand over it.  I should not like of course that the board be constituted entirely of such people.  We have it on the records of this House that the most successful boards we had, had a proportion of such people and the people I refer to, some of them were nominated by the Party across the House when they were in government. It is wrong to suggest names of people who are not here to defend themselves but successive Governments in the past very often nominated people to boards who did not appear to the public to be the most suitable people and it has turned out they have <Col N="390" /> been the most successful.  I merely make that point to show the Minister that in setting up this board he should have a very wide choice.  Knowing the Minister as I do, I am quite sure he will get the right people to put in charge of this very important board. The Minister has a very difficult task before him and I sincerely hope he will get the co-operation of all sides of the House in this important matter.</P>
+      <P>This Bill is a measure that, in my opinion, should not create any political discussion because, whatever chance there is of bringing the issue to a satisfactory position, it will not result that way if we are to look at it and judge it from a political point of view.  People in the Gaeltacht expect a much higher standard than that from us and I hope we will approach it in that spirit.  Again I wish the Minister every success in the step he is undertaking. I am quite sure it is an approach in the right direction.  Go raibh mile maith agat.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="Risteárd Ua Maolchatha Risteárd Ua Maolchatha">
+      <NameTxt>Risteárd Ua Maolchatha</NameTxt>
+      <P>Ag éisteacht dom leis an Teachta Ó Maoldhomhnaigh cuireadh abhaile orm go raibh sé ag súil go raibh anobair ar fad le teacht as ucht an Bhille seo.  Má chuireann an tAire an Bille tríd an Teach mar atá sé, an cúram atá aige anois ar thionscail caillfidh sé é.  Má tá easnaimh sa Bhille seo tá súil agam go ndéanfaidh an tAire an Bille a leasú ag an am seo.  Ba chun cabhrú leis an nGaeltacht agus leis an teanga a leathnú a cuireadh an scéim fá na Gaeltachtaí ar bun agus a bunaíodh Roinn na Gaeltachta. Dá bhrí sin is é brí na hoibre atá ar siúl ná cúrsaí na Gaeltachta d'fheabhsú.</P>
+      <P>Sa Bhille seo tá sé curtha amach in Alt 32 go:&mdash;</P>
+      <P>&ldquo;(1)  Bhéarfaidh an Bord gach bliain, ar pé dáta a ordós an tAire, tuarascáil don Aire ar imeachta an bhoird faoin Acht seo i gcaitheamh na bliana roimhe sin agus cuirfidh an tAire faoi deara go leagfar cóipeanna den tuarascáil faoi bhráid gach Tí den Oireachtas.</P>
+    </Speaker>
+    <P>(2)  Aon uair a ordós an tAire é, cuirfear freisin sa tuarascáil bhliantúil sin eolas ar pé gnéithe áirithe <Col N="391" /> d'imeachta an bhoird faoin Acht seo a shonrós an tAire.&rdquo;</P>
+    <P>Ba mhaith liom a mholadh don Aire a chur isteach sa Bhille seo go dtabharfadh an bord cuntas gach bliain ar an obair a rinneadar chun an Ghaeilge a leathnú mar theanga sna ceantair sin. Isé cuspóir an Bhille ná an Ghaeltacht a choimeád beo agus ní foláir don bhord cuntas a chur isteach gach bliain ar an éifeacht atá ag an mbord chun an teanga Ghaeilge a leathnú, d'úsáid agus a choinneáil beo.  Tá a fhios ag an Aire gur deineadh iarracht le fada chun cabhrú le leathnú na teangan sa Ghaeltacht.  Cuireadh orduithe amach ó na Ranna Rialtais le fada, ó 1944, ar úsáid na teangan agus leanadh leis na horduithe sin i 1947 agus 1957.  Deireann ceann amháin de na hOrduithe a cuireadh amach ag Seán Mac an tSaoí mar Aire Rialtais Aitiúil agus Sláinte Poiblí, 1944:&mdash;</P>
+    <P>&ldquo;Duine ar bith a ceapfar chun oifig lena mbainfidh na rialacháin seo agus gur in aon chuid no maidir le haon chuid den Ghaeltacht a bheidh dualgais na hoifige sin le cólíonadh agus ná beidh, le linn an cheapacháin sin, leor-eolas ar an nGaedhilge aige chun dualgais na hoifige sin do chólíonadh sa teangain sin scuirfí é de bheith i seilbh na hoifige sin ar thrí bliana do bheith caithte o dháta an cheapacháin sin mura mbeidh curtha ina luighe aige ar Aire roimhe sin an t-eolas san do bheith aige ar an teangain sin.&rdquo;</P>
+    <P>Éinne go raibh baint ar bith aige leis an nGaeltacht agus le obair riaracháin Roinne go raibh baint aige leis an nGaeltacht &mdash; an tAire Tailte, an tAire Rialtais Aitiúil, an tAire Sláinte agus an tAire Leasa Shóisialaigh&mdash;tá a fhios aige go raibh mórán trioblóide ar fad ann chun na coinníollacha sin do chur i bhfeidhm agus chun a bheith cinnte go raibh sár-eolas ar an nGaeilge ag na hoifigigh a bhí ag obair sa Ghaeltacht ar son na Roinne.</P>
+    <P>Nuair a cuirtear tionscal ar siúl sa Ghaeltacht, is rud ana-mhór agus anathábhachtach é sin.  Más rud é go bhfuil an Béarla, in aon tslí ar bith, in úsáid mar urlabhra i measc na n-oibrithe nó na ndaoine i mbun na hoibre <Col N="392" /> sa tionscal sin, deirim go maróidh sé sin an Ghaeilge níos tapúla ná aon rud eile.  Ní raibh morán baint agamsa leis an Roinn seo ón am a cuireadh Aireacht na Gaeltachta ar bun ar dtús, ach tuigim, ó bheith ag dul anseo is ansúd, go raibh tionscail i gceartlár na Gaeltachta agus go raibh a bheag nó a mhór den Ghaeilge in úsáid ann ag cuid de na hoibrithe agus ag cuid de lucht stiúrtha an tionscail.  Dá bhrí sin, ní dóigh liom go bhfuil aon mhaitheas ann rialacha den tsórt sin a bheith ann.  B'fhéidir ná beadh aon dul as ag an Aire.</P>
+    <P>Tá cáilíochta fé leith riachtanach do dhaoine a bheas ag obair faoin mbord agus do dhaoine a bheidh ag stiúradh an tionscail agus ba chóir coinníollacha a chur isteach sa mBille seo a bheadh cosúil leis na coinníollacha sin, nó níos láidre, maidir le lucht oibre agus lucht rialta tionscail áirithe agus maidir le oigifigh agus seirbhísigh a bheas ag obair faoin mbord.  B'fhéidir ná haontaím leis an Teachta Ó Maoldomhnaigh maidir le daoine a chur ar an mbord ná beadh aón eolas ar bith acu ar an obair a bheadh le déanamh acu.</P>
+    <Speaker pid="MichaelMoran" hpid="Aire na Gaeltachta (Micheál Ó Moráin) Aire na Gaeltachta (Micheál Ó Moráin)">
+      <NameTxt>Aire na Gaeltachta (Micheál Ó Moráin)</NameTxt>
+      <P>Is deas an caighdeán é.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="Risteárd Ua Maolchatha Risteárd Ua Maolchatha">
+      <NameTxt>Risteárd Ua Maolchatha</NameTxt>
+      <P>Beidh daoine ag teastáil uainn go bhfuil eolas acu ar an tionscal, ach ní cóir dúinn daoine mar sin a leigint ar an mbord, bliain in ndiaidh bliana, muna bhfuil eolas acu ar an nGaeilge.  Dá bhrí sin, fiú amháin do bhaill an bhoird, ba chóir go mbeadh coinníoll ann go mbeadh eolas acu ar an nGaeilge.  Má shleamhnaíonn an Béarla isteach sa nGaeltacht sa treo seo beidh sé i bhfad níos measa don Ghaeilge ná mórán de na rudaí eile a bheadh i gcoinne labhairt na Gaeilge sa Ghaeltacht.  Má tharlaíonn sin, ní leathnóidh an Ghaeilge ón nGaeltacht.  Méadaíonn sé an chontúirt atá ann nuair is fios go mbeidh tionscail tuaithe faoi chúram an bhoird seo ná beadh sa Ghaeltacht ar chor ar bith.  Chím contúirt don Ghaeilge ansin agus tá súil agam go dtabharfaí an tAire aire dó.</P>
+    </Speaker>
+    <P>Tá súil agam go gcuirfidh an tAire leasú isteach sa Bhille i dtreo is go mbeadh d'ialach ar an mbord cuntas a thabhairt ina dTnarascáil faoin ngné <Col N="393" /> sin den chúram atá orthu agus go gcuirfidh sé coinníollacha dlí ann maidir le labhairt agus úsáid na Gaeilge ag locht oibre agus lucht riartha na dtionscal. Tá súil agam ná déanfar é sin go léir i dteanga ar bith ach amháin sa Ghaeilge &mdash; gur i nGaeilge a scríofar na litreacha agus an Tuarascáil agus a déanfar an obair go léir den tsórt idir an bord agus gach tionscal sa nGhaeltacht.</P>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>It seems very peculiar to me that we should be discussing this Bill, 12 months after the establishment of the Gaeltacht Ministry, with the appointment of a Minister plus the additional officers necessitated by that appointment.  As I see it, the main purpose of this Bill is to transfer, with few exceptions, the functions now vested in the Minister for the Gaeltacht to a State-sponsored board which it is proposed to set up.</P>
+      <P>I have expressed my views on these State-sponsored bodies previously in this House.  We have enough of them in this country at the present time. What will the position be when the board is established?  As I see it from the Bill, the Minister will have little or no functions.  Any Deputy who will come to this House and make representations on behalf of his constituents will be informed by the Minister that he has no functions in the matter, that it is entirely a question for the board. Is that not what we are told when we ask questions relating to the Land Commission, to C.I.E., to Bord na Móna, to the Dairy Disposals Board and to the other State-sponsored bodies?  In short, it means that this House is now handing over the functions vested in it to a body which has no direct responsibility whatsoever to the people.  It means that to ask the Minister here in this House that such an area should be catered for or that such a thing should be done by his Department will be futile and useless because if this Bill is passed the Minister will have no function whatsoever or very very little.</P>
+    </Speaker>
+    <P>For the life of me, I cannot see why this move has been brought about &mdash; as I mentioned at the outset, a matter of months subsequent to the establishment of the Ministry.  If this board is <Col N="394" /> appointed I think a very good case can be made for the abolition of the portfolio of Minister for the Gaeltacht and also the Ministry itself.  I cannot see any reason why we should have an independent Minister for the Gaeltacht if this board is to be set up.  I think it is a waste of public money to have a Minister, together with the staff, supposedly discharging the functions of the Gaeltacht Department when these functions are handed over to a board.</P>
+    <P>I am strongly of the opinion that when this Bill is passed there will be no need for a Minister for the Gaeltacht. I also believe that the functions of the board to be set up under this Bill could be put in charge of some other Department since the Minister for the Gaeltacht will have so few functions left to him.  We could revert to the position that obtained prior to the appointment of the present Minister when the functions of the Department of the Gaeltacht were capably discharged by some other Minister.</P>
+    <P>I make the point at the outset that there is no need for the continuance of this Department in view of what it is proposed to do under this Bill.  Why has this Bill been introduced?  I understand that, during the past few years, matters were not going too well in the Department responsible for Gaeltacht industries.  We listened here to what I will term charges made by the previous Minister in charge of the Gaeltacht during the debate on the Estimate for the Department of the Gaeltacht this year.  I do not know whether it is as a result of the alleged negligence of some people in Gaeltacht Industries, appointed by the Minister and the Department, that the Government have now decided to establish this board.  If that assumption is correct, I believe there is no case whatsoever for the appointment of this board.  I have no personal information on this point beyond the statements made by the previous Minister. I take it that the former Minister was thoroughly conversant with the affairs of his Department.</P>
+    <P>If that is the excuse for the appointment of this board, I think it it is not a valid one because it is the Minister's <Col N="395" /> business and the business of the Government, if any of their agents are not discharging their functions or duties properly, to get rid of them.  Is not that what any employer in a private industry would do?  If a private employer had an employee who was careless and lax in the discharge of his duties would he not sack him?  If there was foundation in the charges made by Deputy Lindsay, the people responsible should be discharged and replaced by more competent people.</P>
+    <P>Mind you, I make that statement because I have great confidence in the Civil Service.  It could confidently be said that more than 85 per cent. of the personnel of the Civil Service are most co-operative and most careful. They are people of marked ability, ever anxious to help whatever Government is in power and to help the country generally.  Surely, in the Civil Service we could find people quite capable of discharging the functions of the Department of the Gaeltacht without going outside to find a board to do this work.  Deputy Moloney mentioned the type of board likely to be appointed.  Does everyone not know that these boards are mainly appointed because of the political qualifications of the members?</P>
+    <Speaker pid="MichaelMoran" hpid="Micheál Ó Moráin Micheál Ó Moráin">
+      <NameTxt>Micheál Ó Moráin</NameTxt>
+      <P>Ní fíor é sin.</P>
+    </Speaker>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>I am not saying that a man should not get a place on a board because of his political opinions but I disagree entirely with the practice of giving some solid Party man who probably could not get a seat in this House and who may have failed to get a seat in our upper House, our House of Lords, a nice cushy job.</P>
+    </Speaker>
+    <Speaker pid="DanielJMoloney" hpid="Mr. Moloney Mr. Moloney">
+      <NameTxt>Mr. Moloney</NameTxt>
+      <P>On a point of order, I did not make any such statement. Directly or indirectly I did not in any way make such a suggestion.</P>
+    </Speaker>
+    <Speaker pid="MichaelPatMurphy" hpid="Mr. M.P. Murphy Mr. M.P. Murphy">
+      <NameTxt>Mr. M.P. Murphy</NameTxt>
+      <P>I was talking about the Deputy's reference to the personnel of the board.  In making that statement I am not to be taken as saying that boards which have been set up have not been helpful.  We have had the E.S.B. and others.  However, <Col N="396" /> I am convinced that the position which obtained heretofore in this Department could be continued in the future. Look at the difference the establishment of this board will make.  In the past we could ask the responsible Minister questions relating to the country generally and to our own constituencies particularly.  We could hold the Minister responsible and ask him to take whatever action we thought sensible to deal with specific problems.  Now when we put down the question we are likely to be told: &ldquo;I have no function in the matter; it is one for the board.&rdquo;</P>
+      <P>May I again mention the personnel of such a board?  I did not make the charge that the board will be appointed on a political basis only.  However, it is likely that there will be two or three members appointed in that manner who, when they have been in office 11 or 12 months, will not be too approachable.  On the other hand, if we went along to a civil servant in charge of a particular section of the Department we would get some satisfaction. I believe that the appointment of this board is a retrograde step. We have experience of similar boards, one of which I shall name &mdash; the Irish Land Commission.  I believe that body has been a complete failure.  I have seen its work and operations in my own constituency and I know of them in other areas.  No private body would tolerate the methods, the delays for which the Irish Land Commission is responsible.</P>
+    </Speaker>
+    <P>I do not want to delay the House on this matter, but I should like very much to hear the Minister state the Government's viewpoint as to the reasons for this change.  Is the Minister dissatisfied with the personnel of his Department?  Does he feel that the civil servants attached to his Department are incapable of doing the work?  Does he feel these civil servants have not the qualifications and the experience required to discharge the functions of the Department?  If that is so it is a rather peculiar position. I believe it is not so.  I have no doubt in the world wide that in this Department the Minister has men as capable and with as much understanding <Col N="397" /> of the work to be carried out as any he will find outside.</P>
+    <P>I feel there was no reason whatsoever why the Minister and this House should delegate to a board functions which we held.  We are the people who are directly responsible to the citizens of this country.  We are the people who must answer to the people periodically at elections.  I am completely and entirely against this delegation of the functions of this Parliament to an outside body who will have no direct responsibility to the people of the country.  Although I feel it is futile to ask the Minister now to revert to the old position, I should like to say that I wish him success, even if I do think the office he now holds should be abolished.</P>
+    <P>I do not expect my words to be heeded in that direction for once these Ministries are established it is very difficult to remove them but of course removed the Minister should be, if common sense prevailed in this matter, when the board is set up.  It would be out of place to speak on this measure without thanking the previous Minister for the help and assistance he gave us in the two Gaeltacht districts of West Cork.  We were reasonably pleased with the approach in the Ballingeary-Coolea district and the industry set up there.  We were also thankful for the provision of the mailboat which was so badly needed for Cape Clear Island.  I would like that any request for further help for these districts would be sympathetically dealt with because, generally speaking, they are rather poor areas.</P>
+    <P>I believe that there is no district in this country more Irish than Cape Clear Island.  The people there, more than on other islands, labour at the present time under many disadvantages. The population of the island has declined by about 70 per cent. from what it was 40 to 50 years ago.  I understand that the population was between 800 and 900 and is now as low as 250.  The only advantageous feature at present, so far as my information goes, is that there is a big increase in the child population and that there are now 40 children attending the local school.  That is a healthy sign.  These <Col N="398" /> children will soon be young men and women and it would be desirable to help them if at all possible.  Most of them would much prefer to obtain their livelihood on the island rather than to have to emigrate to England or anywhere else.  There is an obligation on the Government and on the Minister, and there will be an obligation on the board which it is proposed to set up, to help these people in any way possible.</P>
+    <P>The island is nine miles from the mainland.  In regard to one particular item concerning it I had a question addressed to the Minister yesterday asking him if it was possible to provide some kind of creamery facilities there.  Agriculture could almost be termed the main industry on the island.  I realise the difficulty in providing creamery facilities there because of the distance from the mainland but I can see no real difficulty in providing some subsidy for their home-produced butter which would bring the price up to an economic level.  It is all right for the Minister to tell us about the Dairies Disposals Board and that it is a matter for that board.  He should be getting used to giving that answer now.  Yesterday it was the Dairies Disposals Board but henceforth it will be the board set up under this Bill.</P>
+    <P>Before the Minister loses his functions I would appeal to him to examine again the question I asked him yesterday.  As I said, I appreciate that there may be difficulties in providing creamery facilities but if at all possible I think the Minister should provide them.  The Minister will have the appreciation of the people of the island and there would be no objection on the part of any taxpayer in the event of creamery facilities not being provided to subsidising the home produced butter by 5d. or 6d. per lb. This butter is sold at far less than the price which farmers who have the advantage of supplying the other creameries get.  The loss would be in or around the region of 1/3 a pound. We are told from other sources that milk is scarcely an economic product at present.  If it is uneconomic in the more favoured areas, surely it must be very much more uneconomic in a district <Col N="399" /> like Cape Clear Island where producers have to sell it at less than the price obtaining on the general market. I am sure he will again examine that question and do anything he possibly can.</P>
+    <P>In regard to other potential industries, fishing of course should be the main item.  We are hoping, with the increased fishing off the West Cork area, that some kind of factory or industry based on fishing may be established.  That would be a very direct advantage to the people of the island and I feel sure that the Minister, or the people sitting alongside him, will take it into account.  I conclude on the note I started, that I am very sorry that the occasion has arisen for discussing a Bill such as this one.  I would much prefer that the old position obtained and that the Minister continued with the same functions that he had since the establishment of the Department and that Deputies would have the same functions in coming along to his Department.  I hope that the board when appointed will bear fruit and that only personnel will be selected who have the desired qualifications. Otherwise the Minister must realise that the possibility of failure will be very close to us indeed.</P>
+    <Speaker pid="" hpid="Seán Mac Eochagáin Seán Mac Eochagáin">
+      <NameTxt>Seán Mac Eochagáin</NameTxt>
+      <P>Tá mé ag ceapadh nach raibh an Teachta deireannach a labhair sásta leis an smaoineamh faoi bhord a chur ar bun.  Is é mo bharúil féin go bhfuil an ceart ag an Aire an bord seo a chur suas.  Is é fáth gur a sheas mé in aon chor ná chun rud amháin a iarraidh ar an Aire. Nuair a bheidh sé ag socrú an bhoird seo ba cheart dó daoine ón nGaeltacht a phiocadh amach agus iad a chur ar an mbord.  Sin é an t-aon rud amháin atá mé ag iarraidh ar an Aire a dhéanamh.  Is iad na daoine a bhfuil cónaí orthu sa Ghaeltacht agus a labhrann an teanga chuile lá sa tseachtain is fearr a thuigeann cúrsaí na Gaeltachta agus is iad sin na daoine is fearr a chur ar an mbord.</P>
+    </Speaker>
+    <P>Tá go leor rudaí ag teastáil ó mhuintir na Gaeltachta.  Fear is ea an tAire a thagann ó Chontae Mhuigheo agus tuigeann sé na rudaí a bhaineas leis <Col N="400" /> an nGaeltacht.  Tá aithne aige ar na daoine bochta agus tuigeann sé a gcás. Tuigeann sé freisin cúrsaí iascaireachta agus chuile rud den tsórt sin.</P>
+    <P>Tá mé ag ceapadh nach bhfuil níos mó le rá agam.  Ach iarraim ar an Aire, nuair a bheidh an bord nua seo á chur suas aige daoine as an nGaeltacht do phiocadh amach chun gníomhú ar an mbord.</P>
+    <Speaker pid="PatrickODonnell" hpid="Pádraig Ó Domhnaill Pádraig Ó Domhnaill">
+      <NameTxt>Pádraig Ó Domhnaill</NameTxt>
+      <P>Nílim chun mórán moille a chur ar an Teach.  Tá lúcháir orm go bhfuil an Bille seo os cóir na Dála.  Cuireadh Gaeltarra Éireann ar bun chun muintir na Gaeltachta a choineáil sa nGaeltacht agus obair a thabhairt dóibh sa nGaeltacht. Is í an cheist is cóir dúinn a chur orainn féin ná an bhfuil an obair sin sa nGaeltacht nó an bhfuil na daoine ag fanúint ann?  Tá a fhios ag an Aire chomh maith agus atá agam-sa go bhfuil na daoine ag imeacht ní hamháin ón nGaeltacht ach ón dtír chomh luath agus a thig leo.  Ní foláir dúinn rud éigin a dhéanamh leis na daoine sin a choinneáil sa bhaile.</P>
+      <P>Is é mo bharúil féin gur cóir an bord seo a chur ar bun.  Déanfaidh an bord seo níos mó oibre agus déanfaidh siad níos fearr í ná mar a dhein Gaeltarra Éireann.  Beidh ar a gcumas an obair seo a dhéanamh i bhfad níos fearr.  Tá lúcháir orm go bhfuil an Bille os cóir na Dála.</P>
+      <P>This is the first opportunity I have had of speaking in the House since the Minister was appointed and I should like to congratulate him on his appointment and wish him luck.  He is a young man from the Gaeltacht and I know he knows the problems and that he will give them his personal attention.  We wish him all sorts of good luck on his appointment.</P>
+    </Speaker>
+    <P>I welcome the appointment of this board.  Gaeltarra Éireann, like many other Government-sponsored boards, often reminds me of a bad surgeon. They can bury their errors and their dead and the public would never hear a word about it.  I am afraid that is what happened on many occasions.  It was not a case of trial and error.  It was just a case of err and blunder along.  I do not blame the present officials or any particular individuals <Col N="401" /> because I know they are conscientious men.  Civil servants rarely display initiative.  They will automatically get promoted and, so surely as they display initiative, something goes wrong, provided the initiative displayed is not a success.</P>
+    <P>It is very essential, as the previous speaker pointed out, that the proper personnel be selected for this board, but I wonder will they be selected after the last week-end when we saw the directors of some of the State-sponsored boards of this country, such as the E.S.B., who have given their whole life to the job, dismissed simply because they displayed initiative and were not afraid to disagree with the Minister.  I agree with Deputy M.P. Murphy that it is a bad thing to establish boards such as this because when a Deputy puts down a question on the working of the board, the answer given is that the Minister has no function in the matter.</P>
+    <P>I personally believe that the Minister should be chairman of this board and that the appropriate Minister should be chairman of all State-sponsored bodies, for then he is accountable to the House and cannot hide behind the personnel of the directors. In debates on An Bord Iascaigh Mhara and on many other occasions, I said that a Minister should be the chairman of these boards.  In that way, he would be accountable to the House. We would then know what was going on.  We would know we were receiving replies from one who was in constant contact with the board and its working.</P>
+    <P>Gaeltarra Éireann was established for the purpose of giving employment to the Irish speakers of this country in the Gaeltacht.  We should examine our conscience.  Have we given this employment to the Irish speakers in the Gaeltacht?  I agree with Deputy Breslin when he said yesterday that successive Governments have done something for the Gaeltacht.  There is not the slightest doubt whatever about it.  They have done a considerable amount, but have they achieved the object they set out to achieve?  Have they given employment to the Irish <Col N="402" /> speakers in the Gaeltacht?</P>
+    <P>I sincerely hope this board will have that as their main object and ideal and that they will employ all Irish speakers in the Irish-speaking parts of the country.  If they do that, they will certainly be doing something good to retain our Irish speakers in our Irish-speaking areas.  I would advise the Minister to study the findings of the Gaeltacht Commission set up in this country in the early days of the State. Were the recommendations of that commission implemented, we would have a much bigger Gaeltacht to-day and many more Irish speakers there.</P>
+    <P>Emigration is the sore of the Gaeltacht. It is something we have got to remedy and cure.  I hope this board will at least stop the sore from spreading.  A board such as this should concentrate upon the establishment of new industries&mdash;not industries to compete with the enterprise of established individuals.  We have Gaeltarra Éireann coming into Donegal. They have done magnificent work in the weaving industry.  They compete, of course, with private enterprise and no later than this morning I find private enterprise suffering in one way or another from that competition.</P>
+    <P>For instance, I find this morning that weavers in Donegal who were employed by one of the best-known firms there &mdash; Messrs.  McGee of Donegal &mdash;are no longer entitled to the same amount of unemployment assistance as those employed by Gaeltarra Éireann when they become unemployed, for this reason.  Gaeltarra Éireann employ their employees in the factory and Messrs.  McGee's employees are outworkers. Unfortunately, when they become unemployed, they are not entitled to the same quantum of unemployment assistance as the employees of Gaeltarra Éireann.</P>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>I think that situation will be remedied.</P>
+    </Speaker>
+    <Speaker pid="PatrickODonnell" hpid="Mr. O'Donnell Mr. O'Donnell">
+      <NameTxt>Mr. O'Donnell</NameTxt>
+      <P>I was going to ask the Minister if he would take up the matter.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>I have already done so.</P>
+    </Speaker>
+    <Col N="403" />
+    <Speaker pid="PatrickODonnell" hpid="Mr. O'Donnell Mr. O'Donnell">
+      <NameTxt>Mr. O'Donnell</NameTxt>
+      <P>A circular letter has been sent out by Messrs. McGee from which the following is an extract:&mdash;</P>
+      <P>&ldquo;We are taking steps to do everything to protect our workers.  It is, however, possible that you may receive a letter from the Department of Social Welfare, advising you that you are only entitled to have a 2/6 stamp applied to your card.&rdquo;</P>
+      <P>I am very grateful to the Minister for having taken the matter up.  It does place the employees of private firms at a disadvantage compared with the employees of Gaeltarra Eireann.</P>
+      <P>I sincerely hope that the new board will concentrate on the establishment of industries based on the raw materials in the Gaeltacht.  I remember some years ago the establishment of a doll factory at a place called Crolly in my constituency.  It gave a considerable amount of employment.  It did a lot of good work and paid fairly reasonable wages.  All the raw materials were imported from Scotland and once an emergency arose we had to switch to something else.  That is bad.</P>
+      <P>We have any amount of raw materials in the Gaeltacht and we should concentrate upon them and experiment in an endeavour to establish industries there for which the raw materials can be procured.  This board should not be selected on the basis of political affiliations.  I think the Minister is above that and I sincerely hope he will be above it.  I should like to see the Minister select businessmen. In the Gaeltacht, we have really prosperous businessmen who would be prepared to give their time to such a board.  They are men who know the economy of the Gaeltacht and of the congested areas.  They have made successful businesses of their own concerns.  They are the men who should be appointed to the board with a modicum of, say, executive salesmen. I should like the Minister to appoint such people and if he does that, he will be doing something very good for the Gaeltacht.</P>
+    </Speaker>
+    <P>I often think it was a mistake that we did not confine the Order made by the Government defining the Gaeltacht <Col N="404" /> areas to the Fíor-Ghaeltacht because if we did, Gaeltarra Eireann, I hope, would do its work and promote its projects only in the Fior-Ghaeltacht.  In that way, instead of enlarging the original areas and eventually contracting them, we would have a smaller area which we could expand and we would be achieving something.  I would ask the Minister to consider that, but primarily I would appeal to him to give careful consideration to the personnel of the directorate and to appoint men of initiative who have been tried in the commercial life of the Gaeltacht and, above all, men who know the economy of the area.  If he does that, he will be on the right lines and on the right road to doing something beneficial for the people in the poorer parts of the West of Ireland.</P>
+    <Speaker pid="PatrickGiles" hpid="Captain Giles Captain Giles">
+      <NameTxt>Captain Giles</NameTxt>
+      <P>Deputies from the eastern seaboard have a different point of view from that expressed by those who have spoken from the western seaboard.  Before we spend any more money, we should have a national stocktaking of the whole business.  As we see it, the spending of money for the past ten or 15 years was purely eyewash.  It meant nothing but setting up a lot of place-hunters and party hacks in easy jobs and there was no return for the vast amount of money spent.  There was far too much political play-acting, far too many posts and Ministries.  The Gaeltacht is dying out quickly.  We know it is going to die out and there will be no more about it.</P>
+      <P>I am satisfied there is more Irish spoken in Meath than in the West of Ireland.  Giving people sops to speak the Irish language is not a good policy. It is not the way to raise the morale of the people in the West.</P>
+    </Speaker>
+    <P>I have travelled around the Gaeltacht areas and I say they are nothing more than national slums and a disgrace to the nation.  The inhabitants are almost a primitive people living as State paupers.  There should be a revolutionary approach to this whole question.  We should try to undo the policy of Cromwell in sending the people to Hell or Connacht and take the people out of the slums, away <Col N="405" /> from their barren rocks, and plant them somewhere else in Ireland where they can get a decent living and retain their self-respect.  We should take those people out of these slums, even if it costs £30,000,000 or £40,000,000. By doing so, we would save the nation's honour and self-respect, instead of having all this whining and crying about the Gaeltacht, which is doing no good.</P>
+    <P>Thank God, the Gaeltacht is dying out, judging by what we know as the Gaeltacht.  It has been a place for political place-hunters over the last 30 or 35 years and when I say that, I am hitting both sides of the House and not Fianna Fáil alone.  I am sick and tired hearing western Deputies crying about the Gaeltacht.  This always comes up before an election or some big event of that kind.</P>
+    <P>People talk of starting new industries in the Gaeltacht.  How many industries in the West would stand on their own feet for even a year?  Damn few of them.  To-day industry is big business and nobody will put a penny into an industry, unless he will get something out of it.  Expecting men to come from Europe or from Dublin to the West to start industries with doubtful prospects is futile.  Let us face that.  It is a waste of public money.  The industries may start up with the aid of the State, but they will wither and die within a few years, and the result will be demoralisation of the people who will have to take to the emigrant ship, saying: &ldquo;We had an industry but it died out.&rdquo;</P>
+    <P>If we want to save the Gaeltacht, it must be done in a different way.  We should give the people a living on the natural products of their countryside, by encouraging forestry, fisheries and tourism, the three keys to the future of the West of Ireland.  We should take tens of thousands of the people out of that area and plant them in places like Meath and Westmeath where there are hundreds of thousands of acres almost idle in the hands of men of doubtful character and poor ability who are living a life of luxury surrounded by misery and degradation.  Let these people get out and let the lands of <Col N="406" /> their ancestors be given back to the Irish people.  In my own small farm, there are the ruins of eight old farm houses which were levelled by Cromwell and his men.  I do not forget these things.  I speak fairly and honestly here because I believe that if you continue giving pounds to people to speak their language, it is humiliating and degrading.  There is only one way to succeed in bringing back the language, that is, to take the people out of these slums and bring back the national spirit because the Irish language will be revived only by a people who have regained their self-respect. It will not be revived by slaves and place-hunters.</P>
+    <P>Why not evacuate these Gaeltacht slums and build villages on the outskirts of the areas, start afforestation centres in the barren districts where the people are expected to live?  I nearly cried when I saw those people while going through the Gaeltacht areas waiting for somebody to come along to do something for them.  They were living almost like the natives of Africa, but, thank God, like the people of Africa, they are learning fast and finding that their only hope is to get out of the Gaeltacht.</P>
+    <P>&ldquo;Save the Gaeltacht&rdquo;, indeed!  All that seems to mean is a new Minister, a new board, a new set of place-hunters but nothing doing; big money, big business for the boys, but the poor unfortunate people who have to live in these slums are left there and will be left there.</P>
+    <P>We are raising millions every year, floating loans for £20,000,000 or £30,000,000, and we see poor results for it, but there could be good results if we approached the Gaeltacht problem in a revolutionary way, by taking the people out of these slums and reviving a national spirit among them, thus bringing back the language in the only way in which it can be brought back and not trying to do it by paltry sops. It cannot be done by giving people £4 or £5 a year to continue speaking their native language when we know that they really speak English all the time, even though when the Department inspector comes, they are all speaking Irish.  I know as much about the Gaeltacht <Col N="407" /> as anybody else because scores of these people live around me and they tell me their stories.  The father and mother say to the children: &ldquo;Go and speak the Irish language; the inspector might come to-day.  It will be all right when he has gone; you can speak English.&rdquo;</P>
+    <P>I know hundreds of young girls who came up into Meath and Leinster to learn English so that they could go across to England to get a good living. We do not want that sort of thing.  If we want the Irish language revived, let us go about it in a clean and honest way and let us get rid of the place-hunters and the new Ministries and the party hacks.  It is the same on both sides of the House; the Party in power always provides for its own boys&mdash;&mdash;</P>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy is getting away from the point.</P>
+    </Speaker>
+    <Speaker pid="PatrickGiles" hpid="Captain Giles Captain Giles">
+      <NameTxt>Captain Giles</NameTxt>
+      <P>I know I am and I am glad that I have been able to say this.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy should make an effort to address his remarks to the Bill before the House.</P>
+    </Speaker>
+    <Speaker pid="PatrickGiles" hpid="Captain Giles Captain Giles">
+      <NameTxt>Captain Giles</NameTxt>
+      <P>I am sick and tired of what is going on in this House. Instead of standing for the self-respect of decent people and putting people on their feet, we are knocking them off their feet and keeping them as slaves. Save the Gaeltacht by taking those people out of their slums.  Spend millions of pounds; it will be millions well spent.  Level their old homes for afforestation.  Spend big money and put new villages around those areas. Cut out this idea of saying a new board or a new Minister will save the Gaeltacht.</P>
+    </Speaker>
+    <P>I have been 21 years here and I have heard the same thing year after year. Year after year, we from the eastern seaboard have given millions to save the West and we have not saved it. We have made decent people lose their self-respect and have made slaves of them.  Do away with half these boards and place-hunters and let them earn <Col N="408" /> an honest living.  Away with all that and give those people their spirit back. Why are our young men restive to-day? Because they are sick and tired of what is going on in this House. Remember it will not go on forever. Give us self-respecting men who will earn their own living in their own way and who will take no doles or sops from anyone&mdash;men who will earn their bread by the sweat of their brows, by honest endeavour.  It is a disgrace to carry on the way you have carried on for the past 25 or 30 years and the way you will carry on for the next 30 years, if the nation allows it, but it will not do so.</P>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>This is the first opportunity I have had of speaking about the Gaeltacht areas since the present Minister took office.  What I have to say is in no way personal criticism of him.  When the Gaeltacht Ministry was first established, it was during the period of the inter-Party Government.  I was one of the few people at the time who opposed it very strongly.  I remember certain criticisms of the man who was appointed Minister. I was not concerned with the holder of the post; I was concerned with the idea of setting up such a Ministry.</P>
+      <P>The fact is that the Ministry was set up and those of us who opposed it felt that once it was in operation, the area over which it had control was so small &mdash; and it has been proved to have dwindled within the past 30 years &mdash; that it would be possible for a Minister with a staff to deal with the problems that arose in the Gaeltacht areas. Therefore, it was a matter of amazement to me to find that one of the first acts of the present Minister was to shelve his responsibility &mdash; and &ldquo;shelve&rdquo; is the operative word&mdash;immediately on his appointment by the setting up of a board that will not be responsible to this House.</P>
+    </Speaker>
+    <P>I want to make this clear: I am one of those people who all along have believed that, were it not for the fact that State and semi-State boards were operating in this country, we would be a lot worse off to-day than we are.  As far as private enterprise was concerned, <Col N="409" /> it was a complete waste of time to expect the greedy outlook of individuals motivated completely on a profit basis to supply the necessary expenditure and pumping of capital into industry to put this country on its feet.  Consequently, to my mind, companies like the E.S.B., Bord na Móna and others were absolutely essential and have performed most useful work for the country and given employment at the same time.</P>
+    <P>However, over the years a number of people have found it necessary to criticise the operations of such boards and even the present Government and the previous Government, in replies to questions here, said they had been discussing and examining the possibility over the years of bringing these State and semi-State companies more under the control of the Oireachtas.  That is the important aspect of my criticism.</P>
+    <P>The fault lies not with the board itself but with this House and the Ministers of the various Governments, that they have not seen their way to bring in the necessary legislation to enable the House to have house committees the same as they have in America and other democratic countries. These house committees would be composed of Deputies who had an interest in or knowledge of the work with which the board dealt.  Instead of having the ordinary day-to-day matters of the working of the board trotted out in this House, they could be discussed by the committee of the House on a non-Party basis.</P>
+    <P>If it was felt that it was necessary to have a board under this Ministry of the Gaeltacht, I believe the Government had its first opportunity, starting off in the fresh, of setting up a board which would be subject from time to time to investigation and approval by a committee appointed by this House.  We know that the Government and the Opposition have expressed themselves as being worried by the fact that State companies up to the present seem to have gone beyond the control of the House to a great extent.  This is my first criticism and it is directed, unfortunately, at this board which is to deal with Gaeltacht matters.  No matter what board <Col N="410" /> is set up, I have to critisise it on the basis that it is a shelving and a taking away from the Minister and the House of certain responsibilities and opportunities of probing into its policy and expenditure.</P>
+    <P>Dealing generally with the position of the Gaeltacht, I should like to say briefly what I have said before, that the whole idea of tackling this problem of the Irish language &mdash; and that is what this Bill is designed for &mdash; is a matter of locking the stable door when the horse has gone.  The puny effort to be made to restore what is no longer there is a tragic waste of money.  I do not care what old fogies in this House and outside it have to say.  I can see from the evidence of my own eyes what the position is and I am just as well able to judge what the state of the Irish language is as any group of cranks inside or outside this House, some of whom for self-interest are prepared to issue lectures and sermons to all and sundry that one is not an Irishman unless one is prepared to accept their views on the Irish language.  To my mind, it is a crowd of cranks like that who have destroyed the chances of the Irish language.</P>
+    <P>Let us look at the Gaeltacht.  This board is to be set up to deal with the question of industries.  The idea of these industries is primarily to give employment to those who speak Irish. What is the position?  What is the size of the Gaeltacht?  Who lives in the Gaeltacht?  I wonder did the Minister take a trip within the past few months through Connemara?  I wonder, before he brought in this measure, did he make an investigation into (1) who owns the best house property in Connemara at the present time, (2) who owns and controls almost 90 per cent. of the fishing and shooting rights in Connemara and (3) who owns the best hotels in that locality.  We find that the propertied classes who control the economic interests in the so-called Gaeltacht areas can no longer be described as natives, if that is the correct word to use.  They are all imports; many are non-nationals.  They are the people who are in control in those areas.  If anybody in this House wants <Col N="411" /> to have a day's fishing or shooting in the West of Ireland, he must go to an agent of these people, sent here from London or some other part of Britain, and the locals will be employed as gillies.  They are to wait upon the honoured gentlemen who come from abroad.</P>
+    <P>What is happening to our native boys and girls?  Galway City is the depot for young girls aged 14 to 18 in Connemara. They come to the Central Hospital as maids, or to the housewives in town as nurse-maids or helpers.  When they come to the city, their knowledge of English is limited, but, within six months, they have brushed up their English until it is far better than that of some of the people who employ them.  Their first move then is to the train at Galway station to go across to Manchester and Liverpool. Their sole aim is to make themselves so efficient in the English language that they can get out and get a living.</P>
+    <P>Some people may ask why is that. Deputy O'Donnell put his finger on part of the trouble &mdash; a body like this being set up, bringing in crack-pot solutions like the setting up of toy factories.  I do not agree with Deputy O'Donnell in regard to the rate of wages paid.  Those girls have to cycle seven or eight miles to their work and home again, and they never get what is described as a living wage.  The attitude is: &ldquo;The Government is doing this for you; you should be thankful to stay at home and cycle seven or eight miles, be it wet or dry.&rdquo;</P>
+    <P>We have another aspect as announced by Deputy Lindsay, former Minister for the Gaeltacht.  I hold no brief for Deputy Lindsay, but I am going to acknowledge that he never came into this House, after leaving that appointment, to tell lies about things.  My real criticism about Deputy Lindsay is that he did not root out the trouble in the Department while he was there.  He waited until the end of his term of office before taking steps to clear up certain aspects.  I do not think the words &ldquo;clear up&rdquo; are right. The trouble was made worse by the <Col N="412" /> return of certain individuals.  We have established beyond doubt that girls working for this Department, under the Minister, could not get what I describe as a living wage until they were 21 years of age, no matter what their output was.  If they worked 24 hours a day, they could not make a living wage because their age was against them.  At the same time, they were able to make quite good money in England from the age of 17 years upwards.  I do not suggest their wages should be put on the same basis as those in England, but we cannot have this kind of paternal employment and a drumming into these people that if they do not work at this rate, the Government will close down the concern involved.</P>
+    <P>At the same time, we have the position that those who acted as agents for the sale of goods produced in these areas are known to have reaped vast profits in the shape of bonuses for their sales.  That has not been denied. There is no justification, where sales are concerned, for any individual being able to make £4,000 to £6,000 a year on bonuses as a result of sales, when the people who produce that commodity are getting the lowest wages possible.  I do not think the sales ability of any individual should entitle him to such money in comparison with what is paid to those who produce the commodity.  People do not agree with Deputy Giles on many things, but I know personally many of the people, through my contacts in the West of Ireland, who have been associated with the Irish revival movement.  I do not intend to use the House for the purpose of making an unwarranted attack on anyone, but I am going to suggest to this board, and put it bluntly, that I will take the shirt off some individuals if I find the people I suspect are put on it.  I am glad Deputy Geoghegan spoke and warned about the people who should be picked to form that board.  Let me say that other people are taking an interest in the composition of the board.</P>
+    <P>One thing which struck me as peculiar was that yesterday we had a Bill to, continue and extend the working of the Undeveloped Areas Act and, <Col N="413" /> an hour afterwards, this measure dealing with Gaeltacht Services was introduced to deal with a small portion of the larger area covered under the Undeveloped Areas Act.  Is it not extraordinary that it is found necessary to appoint a Minister for an infinitesimal portion of the undeveloped areas? A Minister is necessary for that, but no Minister is necessary for the undeveloped areas as a whole.  The Gaeltacht is only a very minute portion of the undeveloped and congested areas.  The congested areas extend right up to the Shannon.  There is no worse poverty, there is no worse congestion as far as housing is concerned, and there are no smaller holdings than in areas near the Shannon, and in Roscommon and Galway, that are completely away from the so-called Gaeltacht areas, but there is nothing for them.  Why is that?  Because a few crack-pots in this House want to preserve the &ldquo;Indian reservations&rdquo; to keep these people in a position that we can go down and look at them once a year on holidays, admire them, and say that they are what is left of ancient Irish culture.</P>
+    <P>I have been for years pointing out the means for preserving and building up the economic life of these areas. They are (1) fishing, (2) forestry and (3) a land distribution programme. Those three items are in their infancy, but we hear all sorts of talk about starting some industries.  Will anybody here tell me what industries can be based on the raw materials in the Gaeltacht, the poorest part of Ireland? What minerals have we there?  We do have sheep there.  What do we find? We find that, as far as our wool is concerned, we export the wool and then we import an equal amount, so the one cancels out the other.  Our importation of wool is as great as our exportation of wool.</P>
+    <P>What else have we?  Have we the raw material for making the toys?  The raw materials we should concentrate on are in the sea &mdash; the fishing industry &mdash;and in the soil, which is suited to afforestation and which, year after year, has been brought to the notice of the Governments in office.</P>
+    <P>Side by side with the afforestation <Col N="414" /> programme, there is the necessary land distribution programme in areas where land is available.  Yesterday, at Question Time, I asked two questions.  The first was in connection with the acquisition of the Rockingham estate, Boyle, which contains over 1,200 acres of the finest arable land.  The second question concerned the acquisition of Oak Park estate, County Carlow.  I mentioned these two estates because the public knew about them.  I have been asking questions here for years about hundreds of farms which would and should have been transferred to people from the congested and Gaeltacht areas.  Take, for instance, these two farms.  Their combined acreage comes to about 2,000 acres and, if divided amongst 20 families, it would mean 50 acres per family.  Consider the value of 50 acres of arable land to-day and compare it with what the Land Commission have been doing since 1931 when the average holding given to an individual has been 21 ½ acres.  I maintain that some of the actions by Government Departments to solve Gaeltacht and congested areas problems have done more harm than good.</P>
+    <P>I suppose that this thing will go on in this House year after year.  Hopes will be expressed by Deputies from the Gaeltacht areas.  As individuals, I find that they are all decent men, but they are up against the pressure that will be brought to bear on them by people in the Gaeltacht areas whose attitude is: &ldquo;We have the language as a bargaining point.  We will use it as long as we can.&rdquo;  I cannot blame them one bit because the demoralising influence started from this House with the hand-out, as such, for the language. A hand-out, as such, at any time has a demoralising effect.  It would be far better to fix up these people in Connemara with constant work and security of employment.</P>
+    <P>One day I was in Connemara.  I spoke to a number of people on the advantages of afforestation.  One man gave me what I thought was a pretty fair description of the attitude of some people.  He said: &ldquo;What good is forestry to us?  What good are trees to us?  Why do you not get us an increase in the &lsquo;Dole&rsquo;?  That would <Col N="415" /> be much better for us at the present time.&rdquo;  What are we to think of that frame of mind?  I would point out that that man was not a supporter of mine. He was a supporter of a Party in this House but he was fed up with that Party.  His hope was that whatever new Party would come would promise him and his like more of the types of inducements which they desire by way of increased social welfare allowances, and so on.  When one considers that type of mentality, it is very difficult to know what to do.  Those people bring pressure to bear on their local Deputies and, in turn, the local Deputies bring pressure to bear on the Departments.  When you have crackpots in various Ministries and when you have people who think they will revive the language, the position then is that these people think the Deputies are as keen on the language themselves. The trouble is that they are living in cloud-cuckoo land.</P>
+    <P>On the one hand, I am completely opposed to the idea of the Ministry. Then, on the other hand, I consider that it is adding insult to injury at the present time to set about taking away the power vested in the Minister for the Gaeltacht and handing it over to a board &mdash; a board of which we know nothing of the individuals who will compose it, a board which we have to take on trust, a board that will not be responsible in any way even to a subcommittee of this House, a subcommittee which would be appointed on non-Party lines, and a board in respect of which we must hope that, after a period of five years, it will be possible to say that some concrete progress has been achieved.  Is that not the type of thing we have had already?</P>
+    <P>Would it not be better if we could fill a man's belly for 12 months and enable him to keep and rear his family by providing him with secure employment? Is that not more likely to keep him at home than to have a position whereby a man gets three months' work a year and must then go abroad for the remainder of the year to find work, as has been the case for the past 15 or 20 years?  You will not, with a <Col N="416" /> measure like this, be able to give 12 months' employment to a sufficient number of people in the Gaeltacht areas to stem the tide or to stop the rot.  The problem will have to be faced on a broader issue.</P>
+    <P>The Government should be willing to face the problem on the basis of a Ministry that will embrace the entire Gaeltacht and congested areas, over to the Shannon, up to the very tip of Donegal, down to Cork and over as far as Waterford.  Until all that area, whether Irish-speaking or not, is treated as an undeveloped area and becomes entitled to Government help, we are wasting time and money because we are only nibbling at the problem.  The Ministry I envisage would be charged with the responsibility of dealing with that entire area on the basis of co-ordinating the Land Commission, the Forestry Division and the Fisheries Branch.  If necessary, three boards could be set up which would be responsible to this House. The co-ordination of these boards could be left in the hands, if necessary, of what we can describe now as the Minister for the Gaeltacht.  One of these boards should be able to deal with the matters in the Gaeltacht areas under the broader aspect of the congested areas.  It is shocking to find that the Minister is appointed for a part of the whole &mdash; the Minister for a little part of the western seaboard&mdash; leaving the entire expanse of congested areas without a Minister and without any plan.  As it stands, the co-ordination we all expected is now farther away with this special concentration of a new board's work within the so-called Gaeltacht area.  I could not be more critical.</P>
+    <P>Having said all that, the only thing I can say in courtesy, which is necessary, and in view of the fact that the Minister is from the West, is that I only hope that, in spite of all the difficulties&mdash;which he knows&mdash;he will be able to get some good out of this measure.  I should like to see him, as a West of Ireland man, in a position to do something.  I am afraid, however, he will be able to do very little. I am afraid that those who have always aid, no matter where the <Col N="417" /> Minister came from&mdash;whether from the West or otherwise&mdash;that nothing could be done, will be proved right, so far as this measure is concerned. For that reason, I am sorry for the Minister, starting off in his first appointment.  He will never reach the position of Taoiseach as a result of his efforts in this Department.</P>
+    <Speaker pid="MichaelMoran" hpid="Aire na Gaeltachta (Mícheál Ó Móráin) Aire na Gaeltachta (Mícheál Ó Móráin)">
+      <NameTxt>Aire na Gaeltachta (Mícheál Ó Móráin)</NameTxt>
+      <P>Táim fíor-bhuíoch don Teach mar gheall ar an slí inar ghlacadar leis an mBille seo i gcoitinne.  Bille tábhachtach práinneach atá ann don Ghaeltacht, agus níl sé gan tábhacht don tír uilig.  Mar sin, is deas an rud a fheiceáil go bhfuil an Teach sásta i gcoitinne cabhrú leis an mBille.</P>
+      <P>Cuireadh tionscail tuaithe ar bun in áiteacha iargúlta nach raibh an gnáthlucht gnótha sásta tionscail a bhunú iontu.  Mar ghné den bheartas náisiúnta &mdash; an Ghaeltacht a chaomhnadh &mdash; caithfear na tionscail a rith chomh héifeachtúil agus is féidir, agus iad a leathnú amach i dtreo is go mbeidh fostaíocht ar fáil chomh fada agus is féidir é ag lucht na Gaeltachta ina gceantracha dúchais.  Beidh seans níos fearr ag Gaeltarra Éireann íoc as féin, nó an chailliúnt a ghearradh anuas, má bhíonn sé a rith faoi Bhord. Beidh sé níos féireálta don lucht gnótha Gaeltarra Éireann a chur sa ríocht ina mbeidh seans níos fearr aige íoc as féin.</P>
+      <P>It has been said by two former Ministers that they had contemplated and, in fact, drafted this Bill.  Deputy Blowick told us that he had been satisfied to bring in such a measure and that he had, in fact, done some work on it.  Deputy Lindsay said that this decision was taken as a result of an announcement of the former Taoiseach, Deputy J.A. Costello, some time last year.  It would appear, therefore, that this matter has been contemplated for a very considerable time.  I understand that the question of putting Gaeltarra Éireann under a new board was contemplated since the setting up of the Department.</P>
+    </Speaker>
+    <P>Whoever was thinking of introducing this Bill it has fallen to my lot to bring it into the House, and I want to say that I am very grateful to the House in general for the manner in which it <Col N="418" /> has been received.  Deputy Lindsay raised a number of matters in connection with this measure, matters that I shall certainly consider before Committee Stage.  I should point out,however, that the power given under Section 8, to the effect that the Minister may at any time remove from office a member of the proposed board, has already been in legislation passed by this House.  This section is taken directly from the legislation that went through the House in connection with An Bord Iascaigh Mhara.</P>
+    <P>At all events, there would seem to be divided views on this matter.  Some Deputies complained that this board will be completely independent of control by the House and others seemed to take the line that I am taking powers under this Bill to keep complete control of the board.  I think that the provisions in the Bill in connection with it are, from a practical viewpoint, the best I could devise to make the board work and, at the same time, to keep track of the work they are doing.</P>
+    <P>I have made further provision in this Bill which I think has not been in previous legislation passed by this House for not alone the board's accounts but a special report of their work to be laid on the Table of the House every year, so that the House will be aware of what is happening.  In addition to that, I am taking power to ask the board about any phase of their business at any particular time.</P>
+    <P>Deputy Lindsay has returned to his general attack on Gaeltarra Éireann and on the personnel of that body.  I think I should make some reference to the statements made by him on this and on previous occasions.  It would appear from the debate that at least one Deputy seems to think there is something in Deputy Lindsay's complaints about the personnel of Gaeltarra Éireann, and the general impression is given by Deputy Lindsay that matters are very wrong indeed, from his experience in the Department when he was Minister.</P>
+    <P>He suggested that there were certain inquisitions conducted at the behest of outsiders by officials of Gaeltarra Éireann within their own <Col N="419" /> Department.  That is, of course, a kind of innuendo that there is something radically wrong, without giving any details or without specifying what exactly he refers to.  It is a very easy way of casting an air of suspicion over the whole Gaeltarra Éireann organisation and I want to say that, coming in conjunction with the previous attacks made by Deputy Lindsay in this House, this may be taken by the public to indicate that there is some tremendous scandal going on in Gaeltarra Éireann and that nothing is being done about it.</P>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>There was and is, and I did something about it, but what I did was reversed by the Minister and his immediate predecessor.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Micheál Ó Móráin Micheál Ó Móráin">
+      <NameTxt>Micheál Ó Móráin</NameTxt>
+      <P>Eist anois.  I propose to refer to what Deputy Lindsay did and to what he refers to. In the first place, his whole general attack on Gaeltarra Éireann and on the personnel of Gaeltarra Éireann has crystallised into an attack on one individual traveller in that organisation. In fact, his previous attack on the organisation has boiled down to that one isolated case.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>Nonsense!</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>I have read carefully the Deputy's attack and I have studied the reasons he gave for having that individual dismissed.  In referring to the matter generally, I should say that Deputy Lindsay was, in one way or another, for about nine months in control of Gaeltarra Éireann.  He was in control of the organisation as Parliamentary Secretary in the first instance and subsequently as Minister.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>That is not correct. On a point of order, the Gaeltacht Services section of the Department of Lands was not transferred to the Department of the Gaeltacht until after I became Minister, which gave me only four months in charge of the section.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>That is a typical legal .  Does the Deputy deny that <Col N="420" /> as Parliamentary Secretary he was in fact dealing with Gaeltarra Eireann?</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>Of course I do.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>I assert that the Deputy, as Parliamentary Secretary was actually located in the office which I now occupy in Earlsfort Terrace, the headquarters of Roinn na Gaeltachta, and that the Deputy had in fact control over Gaeltarra Éireann before he became Minister.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>Utter nonsense!</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>I want to say also that the Deputy has stated in this House that long before he became Minister for the Gaeltacht, he was aware of all the malpractices that were going on there.  If he was, he certainly had considerable time thoroughly to examine them, and the result of his inquiry ended in one dismissal by the Deputy as Minister on the very last day the Deputy was in that office.  The reasons he gave and left after him were threefold. The first was that the individual concerned was the sole director of an outside company and that because of that he could not give his whole time to the work of Gaeltarra Éireann.  The second was that he sold goods in the sales districts of other agents, and the third, that he arranged rates of discount with certain shopkeepers without the prior permission of the manager of Gaeltarra Éireann. These are the only reasons set out by Deputy Lindsay, when Minister, for the dismissal of the agent.  As far as the inquiry went and as far as the first point was concerned, it was not correct to state that he was the only director of that concern, so that reason was not valid.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>£1 share.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>In regard to the second point, that he sold goods in other districts, there was only one isolated incident which took place four years before the Minister's inquiry so, on a breach of sales regulations of selling outside his district, the second reason is based on an incident fours years before.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>That is not the complete story.</P>
+    </Speaker>
+    <Col N="421" />
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>He was certainly checking this man's record in his work under the Department in 20 years.  The third reason given by the Minister was that he had arranged rates of discount with certain shopkeepers without the prior permission of the manager of Gaeltarra Éireann.  The manager of Gaeltarra Éireann denies the truth of that assertion and says that that complaint arose out of the fact that they were overstocked and that it was with the full permission of the manager of Gaeltarra Éireann that extra discount was given.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>That is not correct and the Minister's staff know that it is not.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>It is correct and I assert that it is.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>I assert to the contrary.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>These are the three reasons that the Minister dug up and gave for the purpose of sacking one individual in Gaeltarra Éireann.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>And if I had had time, I would have sacked more.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>In view of all the allegations the former Minister has made about Gaeltarra Éireann, it does seem extraordinary to me that all his time and all his investigation resulted and was crystallised in his sacking one single individual out of the whole organisation and, mind you, that sacking took place on the very last day the Minister was in office.</P>
+      <P>I think that it is only fair to the officers of Gaeltarra Éireann and particularly the civil servants who are there, that they should not be tarred by general innuendo and that the public should know that, although a Minister was there all that time, the only thing I can find in writing after him about any complaint in respect of Gaeltarra Éireann is in respect of the one individual whom he fired on the last day on his way out of that Department. Deputy Lindsay is the only man, even in his own Party, who has made this general attack on Gaeltarra Éireann and its officers in this House.</P>
+    </Speaker>
+    <P>Another rather peculiar thing occurs <Col N="422" /> to me.  It is that Deputy Lindsay took over office from Deputy Blowick, who was the Minister in charge of this Department for the three previous years. I do not know if his attack is an attack on Deputy Blowick's administration, or whether he suggests that Deputy Blowick, as Minister, sat on top of this cesspool that was not cleaned up for a great many years.  If it was the intention of the Minister to criticise his colleague&mdash;&mdash;</P>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>No, it was not.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>&mdash;&mdash;&mdash;he might have a word with Deputy Blowick outside this House and let them bury this hatchet between them.  As far as my knowledge goes, I consider all of the officers in Gaeltarra Éireann to be honest and diligent men, and I want to correct the impression that has been given that Gaeltarra Éireann, as a State or semi-State organisation, mostly manned by the Civil Service, has not conducted its business, within the limits that were allowed to them, in an honest and straightforward manner. There is no such thing as any part of the Civil Service being corrupt in any manner.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>What is the reason for the reorganisation of the staff?</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>Deputy Lindsay is well aware of this, with his innuendoes which he made again here yesterday. If there is something rotten in the state of Gaeltarra Éireann that he is so concerned about, I think it is his public duty to let us know about it. If he is so well informed about something which is radically amiss, he has a duty, not alone to the House but to the country, to inform us of this extraordinary situation which he seems to know about, but which no other Deputy, including the former Minister, his own colleague, seems to have known of.</P>
+    </Speaker>
+    <Speaker pid="PatrickJamesLindsay" hpid="Mr. Lindsay Mr. Lindsay">
+      <NameTxt>Mr. Lindsay</NameTxt>
+      <P>Give me the inquiry I asked for.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Mr. Moran Mr. Moran">
+      <NameTxt>Mr. Moran</NameTxt>
+      <P>The provisions of this Bill are of tremendous importance to the people of the Gaeltacht and to the country as a whole.  Firstly, there are approximately 1,400 people employed <Col N="423" /> either directly or indirectly by Gaeltarra Éireann; secondly, goods to the value of approximately £500,000, are manufactured by them in their various industries.  It is significant to note that, of this sum, approximately £200,000 worth of goods are exported, £53,000 worth going to the American market, thus helping to provide badly needed dollars for our economy.  It will be appreciated that these industries, in addition to providing employment in the Gaeltacht, also help our balance of payments problem.</P>
+      <P>I believe much greater progress can be made, particularly with the tweed industry, although it is not purely a Gaeltacht industry.  It will be the duty of the new board to explore this field and to ensure that their products and marketing methods can meet and beat export difficulties.  In this connection, it is unfortunate that the United States Government have recently imposed a tariff of 45 per cent. on woollen piece goods over a stated quantity.  This restrictive duty has a particularly adverse effect on the type of tweed product which is traditional here.  I have been told that this decision of the United States was not designed to affect our exports to that market, and I hope that is true.  It is poor consolation to us to find an important industry here shattered by a missile aimed at the other side of the world.  May I say to our American friends that our adverse trade balance with them should be considered and that, as we import much more from them than they do from us, this country should be given an opportunity to bridge the gap?</P>
+    </Speaker>
+    <P>If this principle is not recognised, it is useless expressing concern about the economy of European countries.  I trust that the American measures are of a temporary nature and that next year wiser counsels will prevail.  Our exports of tweed&mdash;and I am not speaking of Gaeltarra Éireann tweeds alone&mdash;to the American market for the first six months of this year, were only 14 per cent. of our total exports, so that although that discriminatory tariff has had a very bad effect on part of our exports to the United States, the American market is not the be-all and end-all of the tweed industry here. <Col N="424" /> There is no reason why the other markets in which our tweed exports are doing quite well should not be further developed, and that the industry here should not, as a consequence, be further expanded.  I think there is plenty of room for expansion, particularly if the quality of our tweeds and the excellent name they are enjoying and have enjoyed on the export markets continue.</P>
+    <P>The new board will have also the duty of establishing any suitable new industry in the Gaeltacht.  In this field, Gaeltarra Éireann, as it was, was particularly handicapped.  Deputies will readily understand that an organisation within the framework of the Civil Service could not take immediate decisions without consulting other Government Departments.  However good the initiative or the ability of the personnel, they were, by their own regulations, prevented from taking urgent decisions on their own.</P>
+    <P>Anyone familiar with modern competitive business methods will readily realise what a handicap this could be. May I say that with the limited freedom of action they had, the officials of Gaeltarra Éireann did extremely well and any person who goes to look at the factory at Kilcar and the others will readily realise the tremendous growth that has taken place under Gaeltarra Éireann, as it was?  However, it is to remove these ties that this Bill is introduced.</P>
+    <P>The new board will be in a position to take direct decisions on matters as they arise.  They will be in a position to investigate new markets, study any raw materials within the Gaeltacht, get expert technical advice when needed and take all the necessary day-to-day decisions that modern business requires in this age.  Indeed, I shall expect that they will keep in close touch with Coras Tráchtála and An Foras Tionscal so as to be ever ready to advance and expand.</P>
+    <P>Deputies will notice the provisions made for an annual report of audit and accounts by the board.  This is very necessary for two reasons.  I want to refer to these reasons in particular because there were some Deputies who suggested that there was unfair competition <Col N="425" /> between Gaeltarra Éireann and other industries in the Gaeltacht itself.  Not alone should the House know how the business of the board is progressing, but, more important still, the competitors of Gaeltarra Éireann in the Gaeltacht should also know.  One of the primary purposes of placing Gaeltarra Éireann under a public board is to ensure that their accounts and balance sheet will be open to inspection as a public concern.  The public can then see exactly what is being spent and how it is being spent and their competitors' fears that public money might be used unjustly in unfair competition may be allayed.</P>
+    <P>I think that the competitors within the Gaeltacht will be glad of the provisions of this Bill.  While I do not accept in full some of the complaints which were circulating that Gaeltarra Éireann were in unfair competition with some of these industries, I think it is a healthy thing both for Gaeltarra Éireann and the country as a whole to allay the fears of any other people in the Gaeltacht who are in a similar line of business.</P>
+    <P>Deputy Lindsay asked why Arramara, Teoranta, were not included in this.  The reason is very simple. Arramara, Teoranta, is a limited company registered under the Companies Acts and, in fact, comprises other shareholders than the Minister for Finance or the Minister for the Gaeltacht. It has certain other ties and is, in fact, in the position really of any outside registered company, except for the fact that the Minister for the Gaeltacht holds a certain amount of shares.</P>
+    <P>With regard to Sections 31 and 4 and the fears expressed by Deputy Blowick, these will be examined by me between now and the next stage.</P>
+    <P>Deputy Corish seems to think that everything in connection with the Gaeltacht at this stage is a waste of money and he further suggests that a tremendous amount of money is being spent on the Gaeltacht.  I can assure the Deputy that he would be very much surprised to see what a very small amount is in reality spent in the Gaeltacht as a Gaeltacht alone.  If he compared in the national Budget the <Col N="426" /> amount spent on the whole of the Gaeltacht with any of the expenditure that goes on in some of our cities and elsewhere, I believe he would really be shocked.</P>
+    <P>There seems to be a general feeling abroad that an awful lot of money is spent on the Gaeltacht.  Unfortunately, after a close examination of the matter, I was amazed to find out how very little is spent for the specific purpose of preserving the Gaeltacht for our people.  In comparison with our national Budget, it is infinitesimal.  It is, I fear, a very bad indication of the realisation of successive Governments as to the wants and needs of the Gaeltacht if the Gaeltacht is to live.</P>
+    <P>This is not the appropriate time for me to deal with these figures, but I do hope to get an opportunity of giving the House an analysis of how little from the national point of view is being devoted to the preservation of the Gaeltacht and the language.  I think if that were more widely understood by the public and the House, we would have much more sympathy for efforts to effect the urgent improvements that are vital if the Gaeltacht is to survive.</P>
+    <P>Deputy Moloney referred to the position in the Kerry Gaeltacht.  I know that there, as elsewhere, they have their particular problems.  I hope to have the position examined, as suggested by the Deputy, as soon as I can.  The various speeches by different Deputies on this measure are an indication of the vast task that lies before me in trying to give effective help to what is left of the Gaeltacht. I hope this board will at least be alive to one aspect of the problem and that we will have in this board an organisation ready to help in the event of our being able to establish an industry in any part of the Gaeltacht.</P>
+    <P>Some Deputies referred to roads in the Gaeltacht.  Generally speaking, I am not a great believer in spending money on roads.  Roads are necessary, but road-making is not a permanent solution for the unemployment problems of the Gaeltacht.  While temporary employment may be provided in the making of roads, once the roads are completed, you are back again in <Col N="427" /> the position in which you, were before the work started.  It is my intention to concentrate on works which will be of more lasting benefit and, in particular, to utilise and expand whatever is there in the Gaeltacht already.  It will be my endeavour to help the people to utilise to the full the small holdings they already have, to improve mountain pasture, as has been suggested, and to take every advantage of every opportunity offered to increase the economy of the small holdings there with a view to permanent benefit to the people.  That will be a more effective and permanent improvement and, from the point of view of doing something quickly, it is better that we should concentrate on what is already there.</P>
+    <P>I do not for a moment suggest that this board will solve either the chronic unemployment problem or work miracles overnight.  Under this measure, however, we shall at least have an organisation whose special duty it will be to provide any industry possible in the Gaeltacht, while, at the same time, continuing and expanding the industries already there.</P>
+    <P>I was very interested in the suggestion by Deputy Mulcahy as to what the report of the board should contain and, in particular, the suggestion that the board should report on how the language is progressing.  I hope to examine that suggestion.  It would be a good thing to have some kind of annual review of the progress of the language in these areas.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="Risteárd Ua Maolchatha Risteárd Ua Maolchatha">
+      <NameTxt>Risteárd Ua Maolchatha</NameTxt>
+      <P>Is é an rud a bhí im aigne ná alt nua a chur sa Bhille agus an chumhacht seo a chur sa Bhille mar gheall ar an tuarascáil.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Micheál Ó Móráin Micheál Ó Móráin">
+      <NameTxt>Micheál Ó Móráin</NameTxt>
+      <P>Ní gá domsa é sin a dhéanamh.  Sílim go bhfuil cumhacht go leor chuige sin agam sa Bhille mar atá sé.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="Risteárd Ua Maolchatha Risteárd Ua Maolchatha">
+      <NameTxt>Risteárd Ua Maolchatha</NameTxt>
+      <P>Ba mhaith liom tuilleadh cainte a bheith againn faoi sin, ar Chéim an Choiste, nuair a thiocfaidh sé.</P>
+    </Speaker>
+    <Speaker pid="MichaelMoran" hpid="Micheál Ó Móráin Micheál Ó Móráin">
+      <NameTxt>Micheál Ó Móráin</NameTxt>
+      <P>Tá go maith. This Bill is now a particularly urgent matter and I ask the co-operation of <Col N="428" /> the House in its enactment as quickly as possible.  It is vitally important that this board should be set up immediately, both from the point of view of the existing industries and also from the point of view of markets outside. I am very grateful to the House for the manner in which the Bill has been received and I trust I shall have the same co-operation on the remaining stages.</P>
+      <P>Cuireadh agus haontaíodh an cheist.</P>
+      <P>
+        <i>English version of Bill:</i> Question&mdash;&ldquo;That the Bill be now read a Second Time&rdquo;&mdash; put and agreed to.</P>
+      <P>D'ordaíodh Céim an Cheiste don Déardaoin, 14 Samhain, 1957.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Children (Amendment) Bill," RHead="1957&mdash;Second Stage">
+    <Title>Children (Amendment) Bill, 1957&mdash;Second Stage.</Title>
+    <Speaker pid="JackLynch" hpid="Minister for Education (Mr. J. Lynch) Jack Lynch">
+      <NameTxt>Minister for Education (Mr. J. Lynch)</NameTxt>
+      <P>I move that the Bill be now read a Second Time.  The Children Acts, as the House is no doubt aware, make legislative provision for the protection of children and young persons, for the recognition and assistance by the State of reformatory and industrial schools and for legal proceedings in relation to juvenile offenders.  The Principal Act is that of 1908, which consolidated previous legislation since 1858 and which has been in turn, amended by subsequent Acts.</P>
+      <P>The main purposes of the present Bill are to amend the Children Acts in order:</P>
+      <P>(a)  To provide for children under detention in reformatory and industrial schools living outside these schools in certain circumstances and for the payment of the capitation grants for maintenance to the school managers for the period of absence out of school;</P>
+      <P>(b)  To bring existing legislation relating to the discharge of children from industrial schools into conformity with the provisions of the Constitution in the matter of parental rights;</P>
+      <P>(c)  To make suitable provision for the determination of disputes between the Minister for Education and parents in relation to such discharge;</P>
+    </Speaker>
+    <P>
+      <Col N="429" /> (d)  To amend certain provisions of the Acts relating to the nursing and maintenance of children for reward.</P>
+    <P>(e)  To provide for the protection by the local authorities of children who, while in the custody of persons other than relatives or guardians, are placed in employment in circumstances requiring them to reside away from the home in which they were residing before entering such employment.</P>
+    <P>The amendments dealing with leave of absence, payment of maintenance capitation grants and the provisions for the discharge of children from industrial schools are sponsored by my Department.  Others are sponsored by the Department of Health, while two minor amendments are sponsored by the Department of Justice.</P>
+    <P>I propose to take, in the first instance, the amendments sponsored by my Department and then take the other amendments, even though, in doing so, I shall not follow the order in which the sections are set out in the Bill.</P>
+    <P>Since 1924, when the industrial school system came to be administered by my Department it has been the practice to grant &ldquo;home leave&rdquo; to children detained in these schools. Children are allowed a period of leave or vacation at home each year wherever possible, that is where the homes are suitable and parents, relatives or friends are willing to take the children for such leave or vacation.  The maximum home leave allowed each year was seven days until 1935 when it was extended to 14 days.  Following the Report of the Commission of Inquiry into the Reformatory and Industrial School System 1934-1936, the period of home leave granted was extended to 21 days, it being further extended to 31 days in 1948.  At present, approximately, one-third of the children in industrial schools avail themselves of this provision of home leave, the average number of days' leave granted in 1956 for example being 20 days.  In addition to the ordinary home leave, school managers, in their discretion, find it necessary on occasions to grant casual leave to children <Col N="430" /> detained in their schools; in some cases, also, it may be necessary or desirable to permit children to attend at some centre or institution outside the school for instruction of a kind not available in the school.</P>
+    <P>While, as I have said, the practice of allowing home leave has been followed since 1924, there is strictly speaking no legal authority for it in the Acts, that is, there is no legal authority for allowing children or young persons committed to a certified school to live elsewhere than in that school before their period of detention has been completed, except under a supervision certificate granted under Section 67 of the Act of 1908.  Now, the purpose of a supervision certificate is to enable a child to be given over by the school, on certain conditions to the charge of a trustworthy person who undertakes to take care of him, while at the same time the school continues to retain its right to recall the child to the school in case these conditions are not fulfilled. Prior to 1950, it was not the custom to issue supervision certificates to cover home leave.  When, however, a parent refused to return a child to a school at the end of the home leave period, it was found, in the absence of a supervision certificate, that there was no legal power under which the child could be apprehended and returned to the school.  Since then, accordingly, children are sent on home leave under supervision certificate.  What is true of home leave also applies in the case of a child who is permitted to attend a course of instruction in another school or to be absent on casual leave for one purpose or another.  Hitherto, unless a supervision certificate were issued to cover the absence, a child who refused to return to school after such absence, could not, legally, be brought back to school.  This difficulty is now being met in Section 6 of the Bill before the House.  Children who are, in future, allowed home leave, casual leave or leave to attend courses of instruction outside the school will be deemed to be under detention in the school and, accordingly, can be brought back to the school in the event of their exceeding that leave or refusing to return on its exhaustion.</P>
+    <P>In relation to this matter of home <Col N="431" /> leave, the Bill is designed to meet a further difficulty which arose some time ago.  As Deputies are aware, local authorities, along with the State, are required to contribute towards the maintenance of children detained in certified schools.  Some time ago, however, a local authority raised a question in regard to its liability for the payment of maintenance grants in respect of such children for periods spent by them on home leave.  Sections 7 and 8 of the present Bill are intended to validate the payment by the State and the local authorities of capitation grants for maintenance in respect of youthful offenders or children detained in certified schools, for the period of their absence from school on home leave, casual leave or leave to attend instructions outside the school. These grants have always been paid for the period of such absences and the provisions now being made are merely to place the question beyond doubt and to regularise the payment of maintenance grants made heretofore in these cases.</P>
+    <P>Another important purpose of this Bill is, as I have already stated, to bring existing legislation relating to the discharge of children from industrial schools into conformity with the provisions of the Constitution in the matter of parental rights.  The Supreme Court, in December, 1955, declared part of Section 10 of the Children Act, 1941, which amended Section 58 of the 1908 Act, to be repugnant to the Constitution in so far as it deprived a parent, with whose consent a child had been sent to a certified industrial school, of the right to resume control of the child so as to provide for its education when that parent was willing and able to do so.</P>
+    <P>Following this judgment, the Minister for Education was advised that Section 58 of the Children Act, 1908, was open to successful challenge under the Constitution unless amending legislation were introduced to provide machinery for the parent, who is anxious, able and prepared to exercise guardianship, recovering a child committed to an industrial school under that section.  The legal advisers were <Col N="432" /> of opinion that legislation authorising the State to undertake the care and training of children, if it is to stand against the constitutional rights of the parent, should be justified under Article 42 (5) of the Constitution and that such legislation should make provision by which the State's intervention be limited in time to the duration of the parental need or parental default.</P>
+    <P>Section 5 of the Bill is intended to meet this position.  It seeks to provide ordered machinery to deal with any dispute which may arise between the Minister for Education and the parent in regard to the discharge of a child committed to an industrial school under Section 58 of the principal Act. Thus under Section 5 of the Bill, where a parent or guardian makes application to the Minister for the release of such a child and the Minister is satisfied that the home or other circumstances which led to the child's committal no longer exist and are not likely to recur if the child is released, and also that the parent or guardian is able to support the child, then the Minister must order the discharge of the child.  If, however, the Minister is in any doubt in regard to the case, he may refer the application to a District Court for decision. If, on the other hand, the Minister comes to the conclusion, on the evidence and information available to him that the child should not be discharged, he may refuse the parents application but, in that case, the parent may refer the matter to the District Court and, in the case of an adverse decision in that court, the parent may appeal to the Circuit Court.  This section of the Bill also makes provision for the award of costs and expenses to a successful applicant before the courts.</P>
+    <P>In connection with the section, I feel that any Minister for Education operating its provisions will be inclined in favour of a parent's application rather than be opposed to it, if for no reason other than the conviction which influences social considerations in Ireland, namely that the home and the responsible care of parents are the strongest and most efficacious forces for good in a young person's life.</P>
+    <P>
+      <Col N="433" /> As I mentioned earlier, certain sections of the Bill deal with matters for which the Minister for Health is the appropriate Minister.  The first of these, Section 2, deals with the obligations of persons who receive children for nursing and maintenance under arrangements providing for the payment of reward.  While it does not introduce any new principles in relation to the control of foster homes and the supervision of the welfare of foster children, it effects certain modifications which experience has shown to be desirable.  Thus, for example, it provides for the giving of seven days' notice in lieu of 48 hours' notice as at present, to the health authority by the person receiving such children; it also requires, for the first time, that the person or body making arrangements for the placing of a child in a foster home will give similar notice to the health authority.  A 48 hours' notice has been found to be too short to enable the local authority to satisfy itself as to the suitability of the proposed foster home.  On the other hand, experience has shown that a prospective foster parent is likely to be unaware of the legal requirements in regard to notification or he may assume, especially where fosterage is arranged by a voluntary organisation, that all legal requirements have been attended to by the organisation.</P>
+    <P>At present, a foster home and a child placed in it for reward are subject to local authority supervision only until the child reaches the age of nine years.  It is the opinion of persons interested in the welfare of such children that supervision should continue to a later age.  It is accordingly provided that the age limit will be raised to 16 years, which is the age up to which supervision continues for children boarded out in foster homes by health authorities under the provisions of the Health Act, 1953.</P>
+    <P>Section 3 of the Bill refers to foster children who take up employment in circumstances which require them to reside in their employer's house or in accommodation provided by him.  The Minister for Health is satisfied that the interest of such children requires that the health authority be empowered <Col N="434" /> to supervise their accommodation and conditions of employment.  It could be held that a child without a normal home or the protection of his parents who is taken into employment and accommodated in his employer's premises may be exposed to greater risks than a child in the usual type of foster home.  The section provides that, where an arrangement of this kind is made by any person who is not a relative of the child, the health authority shall be notified seven days in advance of commencement of the employment. The duty of notification will rest on the person or body making the arrangement, unless they are outside the State, in which case the obligation to notify will rest on the prospective employer.</P>
+    <P>Minor amendments of the Children Acts are contained in Sections 4, 9 and 10, the first of these removing the anomaly of a person of 16 years being responsible for the custody of a person up to the age of 17 years, the second regulating the maximum amount of parental contribution in respect of children detained in certified schools, and the third bringing the Acts into conformity with the School Attendance Act, 1926, in relation to the minimum age for compulsory school attendance.</P>
+    <P>I should say that this Bill as it stands was drafted before my coming into office.  I think there are no alterations or additions to it and I fully endorse the amending proposals contained in it and I recommend them to the House as being desirable and necessary.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="Risteárd Ua Maolchatha Risteárd Ua Maolchatha">
+      <NameTxt>Risteárd Ua Maolchatha</NameTxt>
+      <P>Ba mhaith liom a rá go n-aontaím le gach rud atá sa Bhille seo.  Is dóigh liom go dtuigeann an t-Aire chomh maith agus tuigim féin, éfach, go bhfuil fadhb mór taobh thiar den Bhille sin.  Toisc gur dóigh liom gur ceart go dtuigfadh lucht na Dála é, chun cabhair a thabhairt. don Aire, ba mhaith liom é luadh.</P>
+      <P>Caithfear rud éigin a dhéanamh chun cabhrú le ceist na páistí seo go coitianta; agus ní déanfar aon ní chun cuid den scéal a leigheas mura dtuigeann lucht na Dála cad iad na deacrachtaí atá ann.</P>
+    </Speaker>
+    <P>
+      <Col N="435" /> I agree with the proposals in this Bill, but I think that, in fairness to the Minister himself and to the problem which is involved here, we must look a little back behind the scene and see that there is a very great fundamental thing to be faced up to here.</P>
+    <P>In the first place, there are possibly quite a, large number of children in industrial schools who need not be there but for the Statutes under which the justice dealing with the case has to operate.  In the second place, the cost of keeping children in these schools has risen very steeply in the last few years and the difficulties under which the authorities of the schools are labouring are very great.</P>
+    <P>There are various aspects of the problem.  Children are being kept there for a period of two years who could be satisfactorily dealt with in a period of six months; and there is considerable expense on that account. Then, the children who really require to be dealt with in some of these institutions are not &mdash; because of the inability to provide the necessary service owing to the cost&mdash;getting the best treatment they could get in the period they are there.  For that reason, it is desirable that I should point out certain things in connection with this matter.</P>
+    <P>First and foremost, we should see the background in terms of numbers. We have three reformatories &mdash; one for girls.  If we take the case of the boys, about 12 months or more ago, the number of committed cases in the reformatories was about 150, and of these there were about eight voluntary cases.  I do not know under what circumstances voluntary, cases get into reformatories, but they were there. In the industrial boys' school, senior, out of a total of 1,732, 1,552 were committed cases, but the establishments in which they were had accommodation for 2,200.  In the case of the junior boys, there were 552 boys committed out of a total of 614, and the accommodation would have provided for 708. In the case of the girls, there were 2,558 girls out of a total number of girls in the industrial schools of 2,881, and the accommodation available as certified accommodation was 4,493.</P>
+    <P>
+      <Col N="436" /> The children who go, in a committed way, into these schools appear before a district justice.  He is in a very difficult position by reason of the statutes under which he works.  If he has sentenced a child to a period in an industrial school, as far as I understand it at present, he cannot send him in a committed way for a shorter period than two years.  He can remand him for a month and in doing so he may be sent to a place of detention and he can keep on remanding him from week to week.  One aspect of this is that if he is unable to make up his mind in a serious case as to what he ought to do with the boy, in sending him either to an industrial or a reformatory school &mdash;particularly to a reformatory school &mdash;he keeps letting him out&mdash;on the first charge, the second charge and the third charge; and the authorities of the reformatory schools have on many occasions indicated that, by reason of the district justice being unable to make up his mind as to whether he ought to send a boy to a reformatory or not and letting him off this time and the next time, conditions arise in which many boys are treated leniently enough in that way and by the time they reach the reformatory, they are rather incorrigible and difficulties arise in the discipline of the school.  However, where there is no charge and where it is due to the conditions of the home, the district justice cannot commit them for a period of less than two years.</P>
+    <P>Now, two things seem to be very clear as requiring attention.  In the first place, when a district justice demands a child for a month and considers it undesirable to allow him to go home, he has to send him to a place of detention for that period.  They are very badly equipped from that point of view.  If you take the position as regards Dublin, the Counties of Louth, Monaghan, Cavan, Longford, Westmeath, Meath, Laois, Offaly, Carlow, Kilkenny, Wexford and Wicklow, if any district justice in any of those cases considers he wants to remand a boy in custody for a month, until he makes up his mind as to the best thing to be done with him, such boy has to come to Dublin, as far as I understand, to the house of detention here. <Col N="437" /> I think there is a long history of complaint that the house of detention here as a building is unsuitable, that the type of management of the institution, the authority that looks after the institution, is not the proper type of authority which ought to be there.</P>
+    <P>I have been dealing only with the eastern side of the country, but these things are just as bad in the West.  If a district justice in Donegal, Leitrim, or nearby counties wants to hold a boy for a month, while making up his mind, he has great difficulty in sending him to a suitable place of detention. It is bad for the place where it occurs; it is bad for the child; and it is certainly bad for the district justice in acting as an official who has the responsibility of indicating the best thing to do for a person who is in difficult circumstances and whose education and character training at a critical time require looking after.</P>
+    <P>I feel that if the matter were fully understood, it would be realised that we need legislation which will enable a district justice to commit a child for a period of six months.  Nearly every case that arises seems to be one in which, if the child were properly taken under suitable educational and administrative circumstances, whatever is wrong with his attitude, his character or his disposition could be completely and satisfactorily changed inside six months.</P>
+    <P>I press for consideration at the earliest possible moment of the introduction of legislation and the making of the necessary arrangements.  There is no use in our having the legislation if we have not sized up the type of institution which will take children for this purpose.  I think it should be possible to arrange that a suitable Order or Orders would agree to take children of this kind.</P>
+    <P>There is a grave responsibility on and a very important duty discharged by the people in charge of industrial schools.  In many cases, they realise from experience that it is undesirable, in a school to which a large number of children are sent because of parental or social conditions, apart altogether from any viciousness in their <Col N="438" /> own character or any action on their part to have the general run of children, of that kind associated with people who have been sentenced for petty crimes of one kind or another, or for a certain viciousness in disposition.  Anyone who realises what education means to people of the class for whom industrial schools are intended will understand how important it is to keep the atmosphere of the school as clear of viciousness and indiscipline as it can possibly be kept.</P>
+    <P>I, therefore, mention this matter in order to ask the Minister whether he appreciates the difficulty there is for district justices in being constrained to commit people for two years and not being able to commit them for a shorter period, and whether he would consider rather urgently&mdash;because I think it is urgent; the problem has been there for a number of years&mdash; making the necessary approach and seeing what institutions he could get to undertake the care of children sentenced, say, for a period of six months for observation or trial.  If you like, it could be a kind of remand, although it is a type of committal.  If that were done, a very large part of the problem of education and character that is involved in the case of some of these children would be satisfactorily settled and settled at a much smaller cost than is now involved in dealing unsatisfactorily with these children.</P>
+    <P>I should like to ask whether the Minister has any hope of seeing that that problem is dealt with by getting suitable institutions to take people of that kind.  I am quite sure that the legislation which it will be necessary to pass will be passed with great alacrity by both Houses of the Oireachtas and I feel that, given legislation of that kind and the ability to deal with children for a period of six months, the cost of the whole scheme might very well be less than the cost of the present scheme of dealing unsatisfactorily with the problem.</P>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>In our local newspapers the words &ldquo;hiring out&rdquo; are used in regard to children.  I should like the Minister to see to it that those words are not used in future.  We have heard <Col N="439" /> enough of the hiring fairs in the West and do not want this phrase to be misconstrued by the cross-Channel yellow Press.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="Mr. J. Lynch Mr. J. Lynch">
+      <NameTxt>Mr. J. Lynch</NameTxt>
+      <P>The first point raised by Deputy Mulcahy was with regard to the increased cost of keeping children in industrial schools and such institutions. I agree that the people who run these homes are finding it very difficult on the present capitation grants, which, as I have said, comprise contributions from the State and from local authorities, and are rather low, being based on the costs of five or six years ago.  I have recently received a deputation from the managers of these schools and I hope that, as a result of negotiations now proceeding, it will be possible, some time at any rate, to improve the position in that respect.</P>
+      <P>In relation to the second point made by the Deputy, I am advised that district justices have, in fact, power to commit children for periods as low as three months, but I can appreciate the point the Deputy is making that committal to an industrial school envisages a certain type of treatment and that there are certain juvenile offenders in respect of whom a justice finds some difficulty in making up his mind about short periods of remand.  I think the real import of the Deputy's remarks in that respect was the necessity to find a suitable place of detention in which these children could be detained until such time as the justice is properly satisfied as to what type of treatment, if any, is needed.</P>
+    </Speaker>
+    <P>In regard to Marlboro' House, I agree entirely that the place, in all respects, is unsuitable &mdash; in the form of its buildings, in the form of detention and in the form of supervision.  There is really no proper means of rehabilitation there and I can assure the Deputy and the House that I am taking active steps &mdash; and I mean the word &ldquo;active&rdquo; in its fullest sense&mdash;to see if some suitable alternative arrangements can be come to, in Dublin at any rate, for the detention of children who are sent at the present time to Marlboro' House.  I can appreciate the difficulty that would arise in <Col N="440" /> centres remote from Dublin, unless and until similar suitable places of detention under similar suitable supervision can be found, but, having solved the Dublin problem, I hope then to be in a position to tackle the solution of the problem in other areas, where solution is necessary.</P>
+    <P>With regard to the point raised by Deputy Coogan, I am not responsible for the term applied to the boarding-out of children in the West of Ireland. It appears to be a desirable method of giving home treatment and quasi-parental treatment to children who could not otherwise be provided for. It is a system which I do not propose to interfere with, at the moment, at any rate, and I take it the Deputy would have more influence with the people of the West to alter the term by which that form of maintenance of children is referred to.</P>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>I thought the word was generally applied.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="Mr. J. Lynch Mr. J. Lynch">
+      <NameTxt>Mr. J. Lynch</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="FintanCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>Just in case it was, I referred to it.  I should not like to see that word used generally.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="Mr. J. Lynch Mr. J. Lynch">
+      <NameTxt>Mr. J. Lynch</NameTxt>
+      <P>I have not come across it in any official document that I have seen since I became Minister and it is not officially approved, the Deputy may be sure.</P>
+      <P>I am glad the Bill is generally acceptable to the House and, as I stated at the outset, its provisions are both desirable and necessary.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee Stage ordered for Wednesday, 6th November, 1957.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Office Premises Bill," RHead="1957&mdash;Report and Final Stages">
+    <Title>Office Premises Bill, 1957&mdash;Report and Final Stages.</Title>
+    <P>Bill received for final consideration and passed.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Prices" RHead="Bill, 1957&mdash;Money Resolution">
+    <Title>Committee on Finance. - Prices Bill, 1957&mdash;Money Resolution.</Title>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. S. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. S. Lemass)</NameTxt>
+      <P>I move:&mdash;</P>
+    </Speaker>
+    <P>That it is expedient to authorise such payments out of moneys provided <Col N="441" /> by the Oireachtas as are necessary to give effect to any Act of the present session to provide for the control of prices and charges for commodities and services and for other matters connected therewith.</P>
+    <P>Question put and agreed to.</P>
+    <P>Money Resolution reported and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Prices" RHead="Bill, 1957&mdash;Committee Stage">
+    <Title>Committee on Finance. - Prices Bill, 1957&mdash;Committee Stage.</Title>
+    <P>Sections 1 to 4, inclusive, agreed to.</P>
+    <P Just="Center">SECTION 5.</P>
+    <P>Question proposed: &ldquo;That Section 5 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I would like to make a brief statement on this section.  I think representations have been made by an organisation called the Private Motorists' Protection Association concerning paragraph (h) of this section which excludes from the Bill charges for services rendered in connection with banking or insurance.  I presume the Private Motorists' Protection Association is solely concerned with the insurance arrangements for motor vehicles.  On that assumption I want to point out the position is that, under the Insurance Act, there is power to control the cost of motor insurance and workmen's compensation insurance.  These two classes of insurance are singled out from all others in that respect that the Minister for Industry and Commerce is given power to control charges for those types of insurance.  Consequently, there is no necessity to make any provision in this Bill for the control of charges of that type.  That power under the 1936 Insurance Act has, in fact, never been used, but it is there to be used if circumstances should justify it.</P>
+    </Speaker>
+    <P>With regard to other classes of insurance, not merely would price control be impracticable because of the very technical considerations that would enter into calculations of proper premiums, but it would be particularly difficult for the Minister for Industry and Commerce to take power in that regard because the main purpose of that Insurance Act was to put <Col N="442" /> upon the Minister for Industry and Commerce a specific obligation to ensure the solvency of Irish insurance and assurance companies.  There are, as Deputies may be aware, provisions for the periodic examination of the accounts of these companies in the Department for the specific purpose of ensuring the solvency of insurance companies.</P>
+    <P>I feel certain, however, that the Private Motorists' Protection Association was mainly concerned with motor insurance, and power to control charges in that respect already exists. I might mention that I have received some representations from the Banks' Standing Committee regarding the wording of the paragraph.  I do not think any amendment of the paragraph would be necessary but I should mention that these representations are under consideration so that I shall have the authority to produce an amendment if an amendment is considered necessary on the Report Stage.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Do I understand the Minister's answer to the Private Motorists' Protection Association is that he has power to deal with matters&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>&mdash;&mdash;affecting motor insurance.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Good enough.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 6 to 9, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 10.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I move amendment No. 1:&mdash;</P>
+      <P>In sub-section (1), to add to the sub-section a new paragraph as follows:&mdash;</P>
+      <P>(e)  the prices charged for the commodity specified in the warrant by wholesalers or retailers thereof.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I think Deputy Cosgrave may have put down this amendment under some misapprehension regarding the provisions of the Bill.  Sections 10 and 14 of the Bill stand together.  Sub-section (1) of <Col N="443" /> Section 10 provides for an inquiry by an advisory committee into the prices charged by manufacturers and it would be solely in relation to manufacturers' prices that an Order might be made under Section 14 following upon an inquiry under Section 10.  So far as wholesale and retail prices are concerned, as I explained on Second Reading, reliance is placed entirely on competition, and Price Orders in regard to wholesale and retail prices would be made only on a report from the Fair Trade Commission that competition was not effective.  It would therefore be inappropriate to make reference to wholesale or retail prices in this section in so far as only manufacturers' prices will be reviewed under it.  If a question concerning wholesale or retail prices should arise it will be in circumstances where some development restrictive of competition has emerged in which case the matter will be referred to the Fair Trade Commission under Section 13 and it is following upon the report from the Fair Trade Commission that appropriate Orders will be made.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>From what the Minister says the word &ldquo;service&rdquo; does not cover any aspect of distribution?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No; it would be a service like shipping, for example, or transport.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>And as far as price advisory bodies are concerned retail prices and wholesale prices are completely cut out?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>And, unless otherwise specified, there is nothing affecting retail prices or wholesale prices&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>&mdash;&mdash;arising under this section.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>No price control?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No. There are three sets of circumstances under which price control can be exercised.  The first is where it has been established that manufacturing costs are too high due <Col N="444" /> to causes within the control of the manufacturers.  In that case, power is taken, where it is possible to use it, to control by Order the prices charged by these manufacturers.  The second is a case where there is a situation which tends to restrict competition and where there is such a situation, it is the Fair Trade Commission which carries out an inquiry and the inquiry could relate to retail and wholesale prices.  It is where it is reported that there are limitations on competition that the Minister will make Orders to deal with wholesale and retail prices.  The third case is where there is a temporary scarcity of a commodity resulting in possible inflation in prices.  It is only in these three sets of circumstances that it could be appropriate to have this amendment of the Bill.  So far as wholesale and retail prices are concerned reliance is placed on competition, and power to act is given where it is reported that competition is not effective.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section 10 agreed to.</P>
+      <P Just="Center">SECTION 11.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I move amendment No. 2:&mdash;</P>
+      <P>To add to the section a new subsection as follows:</P>
+      <P>(3) An advisory committee shall inform the Minister if it is unable to furnish a report concerning the matters into which it is to inquire.</P>
+      <P>The suggestion is that the Minister's intelligence service may not be equal to the task.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>This amendment is not necessary in so far as it is already covered by the provisions of the Bill. If circumstances should arise where the committee is unable to make a recommendation, either because it had not sufficient time to complete an examination or because it was unable to get sufficient facts or for any other reason, it would be open to the Minister to take cognisance of that situation.  It is not necessary to prescribe in the Bill that the committee has the right to say: &ldquo;We cannot furnish a report <Col N="445" /> on this issue.&rdquo;  The committee will undoubtedly furnish a report even though it is unable to make a recommendation. It would be open to the Minister either to decide to take no further action or to amend the terms of reference of the committee or to appoint another committee.  It is not necessary to prescribe it as a provision in the Bill.  The committee will submit a report. If it is unable to make a recommendation, it will be open to the Minister to deal with the situation.  There is no necessity to prescribe that the committee shall furnish a negative report as is suggested here.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>In the case of a report being held up or delayed by reason of the advisory committee being unable to get certain information, there appears to be an implication that the Minister might have power to enable him to get that information, a power which would be greater than the powers held by the advisory committee. It does not appear to me that that is so.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>The committee has power to report in negative terms.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>But has the advisory committee less power than the Minister for inquiry?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No, the Minister has no power for inquiry at all.  The only thing he can do is set up a committee to conduct an inquiry.  The committee has full power to carry out an inquiry.  I cannot quite see the circumstances under which it would be unable to make a recommendation but if those circumstances did arise it could so report.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section 11 agreed to.</P>
+      <P>Sections 12 to 16, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 17.</P>
+      <P>Question proposed: &ldquo;That Section 17 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Can the Minister indicate what particular type of inquiry he intends to make preparatory to making any maximum prices Order in regard to bread and sugar?</P>
+    </Speaker>
+    <Col N="446" />
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>As far as these commodities are concerned, there is no obligation on the Minister to make an inquiry before taking action.  The procedure under the Bill is this: in respect of all other commodities the Minister cannot act except on a report, either from the advisory committee or from the Fair Trade Commission.  In relation to these four commodities, the Minister is given power to act first and inquire afterwards.  I justified that on the Second Reading by pointing out that in relation to these essential commodities it might not be desirable to delay taking action while an inquiry was in progress.  Circumstances could arise which, in the Minister's view, would justify his acting first and inquiring afterwards.  It is therefore proposed to give him power to do that in relation to these commodities.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The only commodities which the Minister considers essential are bread and sugar?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No; bread, milk, butter and sugar.  These are the four commodities which are essential and which can be made the subject of price control Orders.  That is the point.  The Deputy will appreciate that not every commodity can be dealt with by maximum price Orders, but these commodities can.  It is, therefore, in relation to these commodities that power is being taken.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>If the Minister considers that milk and butter are to be associated, has flour to be associated with bread?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No, it is in regard to the ultimate product that it is proposed to take this exceptional power.  Flour can be dealt with but it will have to be by the ordinary procedure in the Bill.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 18 and 19 agreed to.</P>
+      <P Just="Center">SECTION 20.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I move amendment No. 3:&mdash;</P>
+      <P>Before Section 20, to insert a new section as follows:</P>
+    </Speaker>
+    <P>
+      <Col N="447" /> 20.&mdash;Where the Minister makes a retail price display order in respect of any commodity it shall be an offence to sell such a commodity at a price exceeding that fixed in the order.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That is in the Bill. If the Minister makes an order requiring traders to display the graded prices which they are charging for the scheduled goods, then the traders must charge these prices and will commit an offence by charging higher prices.  I think that is what the Deputy was aiming at.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section 20 agreed to.</P>
+      <P>Section 21 agreed to.</P>
+      <P Just="Center">SECTION 22.</P>
+      <P>Question proposed: &ldquo;That Section 22 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>I oppose the retention of this section chiefly on the grounds of equity.  Price control has been in operation since 1939 and it is about time that this section was removed.  It should be removed at least before the 31st December, 1957.  The five areas which are controlled are areas where there is a great labour content.  The licensing trade gives considerable employment. It is not afraid of price control in general &mdash; in fact it rather recommends it &mdash; but it wants such control to be general.  The example has been set in Waterford, Cork and Limerick where the controlled prices in regard to particular commodities in the beer and spirit line are not being charged.  The price of stout, for instance, is a halfpenny, a penny, or a penny halfpenny, less than the permitted controlled State price.</P>
+    </Speaker>
+    <P>The Minister should abolish this section completely because it is unjust and inadequate.  Also it has a very detrimental effect upon the enterprising trader in cities like Dublin, Cork, Waterford and Limerick.  If he wishes to improve his premises and spend a considerable sum of money he will, in most cases, have to go to the bank. The fact that the banker knows that control exists places the trader at a <Col N="448" /> slight disadvantage.  As a result his enterprise is considerably dampened.</P>
+    <P>I trust that the Minister will revise, delete or amend the section.  I should like to see it go completely.  I am speaking as an interested trader in Dublin and outside.  While it is there it has the stigma of a watch directly on a particular section of the trade here.  It remains as a sort of threat over people that they are not to be trusted.  I can assure the Minister the trade will accept any control or fixed prices imposed on them but let them be equal and cover all sections of the country.  Sin a bhfuil le rá agam.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I confess I am conscious of the fact that this section is in a degree inconsistent with the rest of the Bill.  So far as the main proposals of the Bill are concerned, the general aim is to provide for price control in future only where the need for it existed in accordance with the procedure laid down in the Bill.  It is, therefore, slightly inconsistent to carry over into the new situation a special section of the Emergency Orders under the Supplies and Services Act.  I know Deputies have been receiving representations regarding this section of the Bill from the Vintners' Association.  I do not think they can be very seriously perturbed about it, except in so far as they have received the impression from the section that it is intended to deal with that trade in the future on a different basis from other trades.</P>
+    </Speaker>
+    <P>This Order in one form or another has been in operation for 15 years and, certainly, in so far as it concerns the Orders now in force, I never received any representations from any licensed trade organisation or any licensed trader concerned.  There is, on the other hand, a proposal that it should be amended or abolished.  It seems to me that a great many affected by it never knew it existed until their attention was directed to this section of the Bill.  The present Order controls the maximum prices that may be charged for beer and stout only, and applies to the county boroughs of Dublin, Cork, Limerick, Waterford and Galway.  It controls the maximum prices on the basis of a permitted increase <Col N="449" /> over the previous prices and all these Orders relating to beer, stout and alcoholic drinks are in that form. The first Order fixed the prices at what could be then charged and the Orders made throughout the years since permitted so much addition on these original prices and that is an unsatisfactory system of price control.</P>
+    <P>Let us be clear what the effect of taking out the section is.  So far as this control is concerned if the section remains in, that particular Order made under the Supplies and Services Act remains in force until it is amended or until I, as Minister for Industry and Commerce, make an Order repealing it.  If it goes out, that particular Order will cease to have force on the 31st December and these commodities will be in the same position as any other commodity in the sense that, following an inquiry, an Order fixing maximum prices can be made for the future.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>An inquiry by whom?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That is one of the questions I want to deal with.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>A six marker.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That inquiry would be conducted only on the evidence that there were restrictive trade practices limiting competition.  We are all aware, I think, that the licensed vintners' organisations&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Which of them?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Both of them do decide what is the price to be charged when they are free to determine the prices.  They communicate that price as a sort of indicated price to their members.  I have no reason to believe and, in fact, I think it is incorrect, that they enforce these indicated prices by any penalties upon traders who do not obey them.  To that extent their procedure would not be the same as that in some of the other trades in respect of which inquiries have been carried out by the Fair Trade Commission and Orders submitted to the Dáil. In so far as there is evidence the price is a sort of regulated price.  There <Col N="450" /> might be occasion for an inquiry and, indeed, I should think it is not unlikely, if this section were deleted, that the need for an inquiry some time in the future would be accepted and the matter referred to the Fair Trade Commission.  That would depend entirely upon the practices that were maintained or developed within the trade.</P>
+      <P>I think it is only fair I should say that if the Licensed Vintners' Association had come to me prior to the introduction of this Bill and had urged that the Orders should be repealed, I think I would have done it because, so far as I can see, it is not of very great importance whether it is maintained at all in the present condition of the trade.  I think it is unlikely that there may be any attempt by any organisations of the traders to push up prices in an unjustifiable way because the falling off of sales would carry its own penalty for them.  Looking at the position, so far as one can judge with the limited information available, the need to retain the Order is not very strong.  It is not the kind of trade in respect of which competition on prices is likely to be very effective.  The margins available in such competiton are very narrow.  My feeling, therefore, is that I do not mind very much whether this section remains in the Bill or not.  I do not think it makes a lot of difference whether it remains in the Bill or not.</P>
+      <P>I understand the objection of the licensed trade to be singled out in this particular way, and their apprehension that this is by way of giving notice that they are always going to be treated on a different basis from traders in different other commodities. I felt here was a control which was fixed and applied to a trade in which there was some superficial evidence of restrictive practices in operation and it should not be allowed to lapse without some examination of the position. I am fully conscious of the fact that I might have decided either way when the Bill was being framed.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Might I ask the Minister is it the intention of the Government to introduce legislation in the near future in connection with the <Col N="451" /> licensing laws, and if so, would not this problem be considered in the light of that Bill?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I presume that some legislation relating to licensing laws is under consideration following the report of the recent commission but I hardly think price control would come within the ambit of that legislation. Personally, I am anxious to get back as quickly as possible to the pre-war situation when these controls did not operate at all.  It would be all the better.  If we dropped the section, control would become operative again only after the Fair Trade Commission reported that the circumstances prevailing were restricting competition to an extent that was prejudicial to the public interest.  I have not been able to investigate, myself, whether these conditions do, in fact, exist.  There is an admission by the organisation of traders that they do determine the prices which it would be regarded as reasonable to charge and communicate these prices to their members and that, in practice, the members adhere to these prices.  The organisation also tells me that there are no sanctions and that if a member does not adhere to the prices, there is nothing they could or would do about it.  I would be prepared to accept their explanation because I feel that, in the present state of the trade, there is no danger of excessive prices being taken which are not justified by costs.</P>
+      <P>On the whole, I feel it would be better to leave the section out of the Bill, but I have no very strong feelings.  We will leave it out.</P>
+      <P>Question put and negatived.</P>
+      <P>Section 22 deleted.</P>
+      <P>Sections 23 to 29, inclusive, and First Schedule agreed to.</P>
+      <P Just="Center">SECOND SCHEDULE.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I move amendment No. 4:&mdash;</P>
+      <P>In paragraph 3, to delete subparagraphs (2) and (3).</P>
+    </Speaker>
+    <P>I am advised that, in fact, the Civil Service Commission Act does not <Col N="452" /> apply to these appointments.  In other words, the provision is unnecessary.</P>
+    <P>Amendment agreed to.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I move amendment No. 5:&mdash;</P>
+      <P>In paragraph 10, to delete subparagraphs (3) and (4).</P>
+      <P>That is the same.</P>
+      <P>Amendment agreed to.</P>
+      <P>Second Schedule, as amended, agreed to.</P>
+      <P>Third Schedule, Preamble and Title agreed to.</P>
+      <P>Bill reported with amendments.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I may have an amendment or two on Report Stage.</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>I was not present for the earlier stage.  Did the Minister receive representations in connection with the insurance rates?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I mentioned that on Committee Stage.  So far as motor insurance is concerned, there is power of control under the Insurance Act itself.  I take it that it was the Private Motorists' Protection Association&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JohnMcQuillan" hpid="Mr. McQuillan Mr. McQuillan">
+      <NameTxt>Mr. McQuillan</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>There is power.</P>
+      <P>Report Stage ordered for Wednesday, 6th November, 1957.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Price and Profit Controls">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Price and Profit Controls.</Title>
+    <Speaker pid="NoelTLemass" hpid="Mr. N. Lemass Mr. N. Lemass">
+      <NameTxt>Mr. N. Lemass</NameTxt>
+      <P>asked the Minister for Industry and Commerce what goods are still subject to price or profit controls, and if he proposes to remove any of these controls in the near future.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. S. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. S. Lemass)</NameTxt>
+      <P>The goods still subject to price or profit controls are sugar, milk, stout and porter, kerosene and motor spirit.  In the case of milk, the control operates only in the Dublin and Cork sale districts.  In the case of stout and porter, the control operates <Col N="453" /> only in the County Boroughs of Dublin, Cork, Limerick and Waterford; the Borough of Galway and the County of Dublin.</P>
+      <P>In the case of kerosene and motor spirit, the present controls will cease on 31st December next, on the termination of the Supplies and Services Act.</P>
+      <P>There is a special provision in the Prices Bill, 1957 to enable price control to be exercised in the case of milk, sugar, stout and porter independently of the procedure set out in the Bill for commodities generally.</P>
+      <P>That situation was slightly changed in the last few minutes.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Social and Ancillary Services">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Social and Ancillary Services.</Title>
+    <Speaker pid="NoelTLemass" hpid="Mr. N. Lemass Mr. N. Lemass">
+      <NameTxt>Mr. N. Lemass</NameTxt>
+      <P>asked the Minister for Finance how much will be spent on social and ancillary services during the present year.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Minister for Finance (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Finance (Dr. Ryan)</NameTxt>
+      <P>Expenditure from the Exchequer on social and ancillary services (including education) in the present financial year is estimated at £78,000,000, to which should be added roughly £3,000,000 for administration.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Repair of Mayo Pier">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Repair of Mayo Pier.</Title>
+    <Speaker pid="PhelimAlfredCalleary" hpid="Mr. A. Calleary Mr. A. Calleary">
+      <NameTxt>Mr. A. Calleary</NameTxt>
+      <P>asked the Minister for Agriculture whether he is aware of the necessity for repairing the existing pier at Surgeview, Blacksod, County Mayo, and whether an inspector visited Surgeview in February or March of this year to examine the pier with a view to having it repaired or re-erected.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Minister for External Affairs (Mr. Aiken) (for the Minister for Agriculture) Frank Aiken">
+      <NameTxt>Minister for External Affairs (Mr. Aiken) (for the Minister for Agriculture)</NameTxt>
+      <P>As regards the first part of the question the answer is &ldquo;Yes&rdquo;.</P>
+    </Speaker>
+    <P>As regards the second part I am informed that a preliminary inspection of the site was carried out by an Office of Public Works engineer in February, 1957.  I understand, however, that a detailed survey will be necessary before that Office is in a position to furnish a report in the matter and that it is hoped to have this survey <Col N="454" /> carried out within the next few months.</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Cork State Land">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Cork State Land.</Title>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>asked the Minister for Lands if the difficulties arising in regard to the taking over by the Land Commission of the State lands at Billereagh, Kilworth, County Cork, from the Department of Defence have yet been resolved, and, if so, if he will state at what approximate date the tenants will get the advantages accruing under the Land Acts.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="Minister for Education (Mr. J. Lynch) (for the Minister for Lands) Jack Lynch">
+      <NameTxt>Minister for Education (Mr. J. Lynch) (for the Minister for Lands)</NameTxt>
+      <P>Further progress has been made with regard to the acquisition of these lands.  Some difficulties still remain to be solved, but there will be no undue delay in making a decision.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Waterford Forestry Lands">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Waterford Forestry Lands.</Title>
+    <Speaker pid="ThaddeusLynch" hpid="Mr. T. Lynch Mr. T. Lynch">
+      <NameTxt>Mr. T. Lynch</NameTxt>
+      <P>asked the Minister for Lands if he will state how many acres are held by the Forestry Branch in the Faithlegg, Checkpoint, Passage-East, Woodstown, and Dunmore-East areas, County Waterford, and whether the Forestry Branch have decided to acquire further acreage in these areas for the purpose of re-afforestation.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="Mr. J. Lynch Mr. J. Lynch">
+      <NameTxt>Mr. J. Lynch</NameTxt>
+      <P>In the district referred to by the Deputy, my Department has acquired an area of 23 acres in the townland of Raheen.  It will be planted in the coming planting season and work is already in progress there.</P>
+      <P>My Department has received 21 further offers of land, totalling 461 acres, in the district.  Agreement to purchase one area of 89 acres has been reached, and the legal formalities are being completed.  Negotiations for the purchase of four other areas totalling 169 acres are in progress.  The remaining cases are still at the preliminary investigation stages.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Caherciveen Cold Storage Plant">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Caherciveen Cold Storage Plant.</Title>
+    <Speaker pid="PatrickWPalmer" hpid="Mr. Palmer Mr. Palmer">
+      <NameTxt>Mr. Palmer</NameTxt>
+      <P>asked the Minister for Lands whether the plans in regard to the proposal for the erection of a cold storage plant at Caherciveen have been scrapped, and, if so, on what grounds such a change was made, and, if not, <Col N="455" /> if he will make a statement which will assure South Kerry fishermen that the erection of the cold storage plant will be proceeded with as originally arranged.</P>
+    </Speaker>
+    <Speaker pid="JackLynch" hpid="Mr. J. Lynch Mr. J. Lynch">
+      <NameTxt>Mr. J. Lynch</NameTxt>
+      <P>The answer to the first part of the question is in the negative and, accordingly, the second part does not arise.</P>
+      <P>I am informed by An Bord Iascaigh Mhara that their plans for Caherciveen remain unaltered; that it is their intention to commence work on the provision of the ice plant in the near future, and that it is hoped that local supplies of ice will be available to the South Kerry fishermen next spring.</P>
+      <P>I should add that the project was shelved as an economy measure in 1956 and has since been revived.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Personal Telephone Calls">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Personal Telephone Calls.</Title>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>asked the Minister for Posts and Telegraphs if he is aware that the procedure by which personal calls cannot be booked by local rural exchanges has caused great inconvenience, and if he will accordingly revert to the old system by which such calls could be booked by subscribers from all local exchanges.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Minister for Posts and Telegraphs (Mr. Blaney) Minister for Posts and Telegraphs (Mr. Blaney)">
+      <NameTxt>Minister for Posts and Telegraphs (Mr. Blaney)</NameTxt>
+      <P>The answer to both parts of the question is in the negative.</P>
+      <P>Under the revised personal call procedure introduced early this year, a caller booking a personal call through a small rural exchange is put through at once to a controlling exchange where the operator will endeavour to set up the call while the caller waits.</P>
+      <P>The arrangement is designed to accelerate the service for callers, to reduce time losses on lengthy trunk circuits and to put the handling of personal calls from rural telephones on the same basis as in urban areas.</P>
+      <P>If the Deputy will furnish particulars of any difficulties that have come to his notice, I will have them looked into specially.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="Haulbowline Naval Dockyard: Civilian Apprentices">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Haulbowline Naval Dockyard: Civilian Apprentices.</Title>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>asked the Minister for <Col N="456" /> Defence (1) whether on his recent visit to the naval dockyard, Haulbowline, he discussed the question of the admission of civilian apprentices to the naval dockyard, and (2) whether a decision has yet been reached by his Department on this matter of grave importance to the people of Cobh, which, as stated by his predecessors, has been under active consideration by his Department for the past seven years.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Parliamentary Secretary to the Minister for Defence (Donnchadh Ó Briain) Donnchadh Ó Briain">
+      <NameTxt>Parliamentary Secretary to the Minister for Defence (Donnchadh Ó Briain)</NameTxt>
+      <P>The answer to the first part of the question is in the negative.  With regard to the second part I regret that it has not yet been found possible to reach a decision.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="WA" LHead="Written Answers. - Geneva Conventions:" RHead="Protocols Affecting Arbitration">
+    <Title>Written Answers. - Geneva Conventions: Protocols Affecting Arbitration.</Title>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>asked the Minister for External Affairs if he will state in respect of the protocols affecting arbitration adopted by the Geneva Conventions of the 24th September, 1923, and 26th September, 1927, respectively, (a) the date on which Ireland ratified, (b) the names of those States whose ratification has been notified to this country and who have not since denounced, and (c) whether (i) Ireland and (ii) any other State, and, if so, which, have limited the effect as provided by Clause 1 of the former such protocol.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Minister for External Affairs (Mr. Aiken) Frank Aiken">
+      <NameTxt>Minister for External Affairs (Mr. Aiken)</NameTxt>
+      <P>The information requested by the Deputy is as follows:&mdash;</P>
+      <P>1. With respect to the Protocol on Arbitration Clauses, Geneva, 24th September, 1923:</P>
+      <P>(a)The Irish instrument of ratification of the Protocol was deposited with the Secretary-General of the United Nations on the 11th March, 1957.</P>
+      <P>(b)The Protocol is in force for the following States besides Ireland, the name of each dependent territory to which the Protocol applies under Article 8 thereof being shown under the name of the State responsible for the territory's foreign relations:</P>
+      <P>Albania</P>
+      <P>Austria</P>
+      <P>Belgium</P>
+      <P>Belgian Congo</P>
+      <P>Ruanda-Urundi</P>
+    </Speaker>
+    <P>
+      <Col N="457" /> Brazil</P>
+    <P>Czechoslovakia</P>
+    <P>Denmark</P>
+    <P>Estonia</P>
+    <P>Finland</P>
+    <P>France</P>
+    <P>Federal Republic of Germany</P>
+    <P>Greece</P>
+    <P>India</P>
+    <P>Iraq</P>
+    <P>Israel</P>
+    <P>Italy</P>
+    <P>Japan</P>
+    <P>Luxembourg</P>
+    <P>Monaco</P>
+    <P>The Netherlands</P>
+    <P>Surinam</P>
+    <P>Netherlands Antilles</P>
+    <P>Netherlands New Guinea</P>
+    <P>New Zealand (Western Samoa included).</P>
+    <P>Norway</P>
+    <P>Poland</P>
+    <P>Portugal</P>
+    <P>Rumania</P>
+    <P>Spain</P>
+    <P>Sweden</P>
+    <P>Switzerland</P>
+    <P>Thailand</P>
+    <P>United Kingdom</P>
+    <P>Bahamas, British Guiana, British</P>
+    <P>Honduras</P>
+    <P>Falkland Islands</P>
+    <P>Gibraltar</P>
+    <P>Jamaica (including Turks and Caicos Islands and Cayman Islands)</P>
+    <P>Kenya</P>
+    <P>Tanganyika</P>
+    <P>Gambia</P>
+    <P>St. Helena</P>
+    <P>Uganda Protectorate</P>
+    <P>Windward Islands</P>
+    <P>Zanzibar</P>
+    <P>Mauritius</P>
+    <P>Northern Rhodesia</P>
+    <P>Southern Rhodesia</P>
+    <P>Leeward Islands</P>
+    <P>Malta</P>
+    <P>(<i>c</i>)&nbsp;(i)Ireland has not availed itself of the right to limit the obligation mentioned in Article 1 of the Protocol to contracts which are considered as commercial under Irish law.</P>
+    <P>(ii)The following States have availed themselves of the right or have reserved the right to limit that obligation to contracts which are considered as commercial under their respective national laws:</P>
+    <P>Belgium</P>
+    <P>Brazil</P>
+    <P>Estonia</P>
+    <P>France</P>
+    <P>India</P>
+    <P>Luxembourg</P>
+    <P>Monaco</P>
+    <P>Poland</P>
+    <P>
+      <Col N="458" /> Portugal</P>
+    <P>Rumania</P>
+    <P>Spain</P>
+    <P>2.  With respect to the Convention on the Execution of Foreign Arbitral Awards, Geneva, 26th September, 1927:</P>
+    <P>(a)The Irish instrument of ratification of the Convention was deposited with the Secretary-General of the United Nations on the 10th June, 1957.</P>
+    <P>(b)The Convention is in force for the following States besides Ireland, the name of each dependent territory to which the Convention has been applied in accordance with Article 10 thereof being shown under the name of the State responsible for the territory's foreign relations:</P>
+    <P>Austria</P>
+    <P>Belgium</P>
+    <P>Belgian Congo</P>
+    <P>Ruanda-Urundi</P>
+    <P>Czechoslovakia</P>
+    <P>Denmark</P>
+    <P>Federal Republic of Germany</P>
+    <P>Finland</P>
+    <P>France</P>
+    <P>Greece</P>
+    <P>India</P>
+    <P>Israel</P>
+    <P>Italy</P>
+    <P>Japan</P>
+    <P>Luxembourg</P>
+    <P>Netherlands</P>
+    <P>Surinam</P>
+    <P>Netherlands Antilles</P>
+    <P>Netherlands New Guinea</P>
+    <P>New Zealand (Western Samoa included).</P>
+    <P>Portugal</P>
+    <P>Rumania</P>
+    <P>Spain</P>
+    <P>Sweden</P>
+    <P>Switzerland</P>
+    <P>Thailand</P>
+    <P>United Kingdom</P>
+    <P>Bahamas, British Guiana, British Honduras</P>
+    <P>Falkland Islands</P>
+    <P>Gibraltar</P>
+    <P>Jamaica (including Turks and Caicos Islands and Cayman Islands)</P>
+    <P>Kenya</P>
+    <P>Tanganyika</P>
+    <P>Uganda Protectorate</P>
+    <P>Windward Islands (Dominica, Grenada, St. Lucia, St, Vincent)</P>
+    <P>Zanzibar</P>
+    <P>Mauritius</P>
+    <P>Northern Rhodesia</P>
+    <P>Leeward Islands (Antigaa, Monserrat, St. Christopher-Nevis, Virgin Islands)</P>
+    <P>Malta</P>
+    <P>
+      <Col N="459" /> I mention for the Deputy's information that the lists of States given above may not now be complete. Several territories to which the Protocol or the Protocol and Convention were applied have emerged in recent years as independent States.  I am in communication with the authorities in these States with a view to ascertaining whether they consider themselves as continuing to be bound by the Protocol or the Protocol and Convention, as the case may be.</P>
+  </MainHeading>
+  <MainHeading Type="WA" LHead="Written Answers. -" RHead="Arbitration Act, 1954">
+    <Title>Written Answers. - Arbitration Act, 1954.</Title>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>asked the Minister <Col N="460" /> for Justice if he will state what Orders have been made under the Arbitration Act, 1954, bringing Part V of that Act into operation, the date of each order, and the territory affected by each such Order.</P>
+    </Speaker>
+    <Speaker pid="OscarTraynor" hpid="Minister for Justice (Mr. Traynor) Oscar Traynor">
+      <NameTxt>Minister for Justice (Mr. Traynor)</NameTxt>
+      <P>Part V of the Act has not yet been brought into operation.  The requisite Order and an Order under Section 54 of the Act are being drafted at present.</P>
+      <P>The Dáil adjourned at 2.15 p.m. until 3 p.m. on Wednesday, 6th November, 1957.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

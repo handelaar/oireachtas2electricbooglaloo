@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Tue" Date="19" Month="Mar" Year="1940" Vol="79" No="9" DateIrish="Dé Máirt, 19 Márta 1940" DateEnglish="Tuesday, 19 March 1940" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1025">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1025" /> Do chuaidh an Ceann Comhairle i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="Reformatory and Industrial Schools Inquiry">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Reformatory and Industrial Schools Inquiry.</Title>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>asked the Minister for Education whether he has now completed the examination of all the issues arising out of recommendations of the Cussen Commission of Inquiry into the reformatory and industrial school systems; if he is in a position to state that the recommendations of the commission relating to the appointment of teachers of literary subjects in these schools will be implemented; and, if so, if he will indicate approximately the date at which the recommendations will become operative.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="Minister for Education (The Taoiseach) Minister for Education (The Taoiseach)">
+      <NameTxt>Minister for Education (The Taoiseach)</NameTxt>
+      <P>The examination referred to <Col N="1026" /> by the Deputy has been completed. With regard to the remainder of the Deputy's question, I regret I am not able to add to my reply of the 12th instant to a similar question.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>Could the Minister indicate in any way the approximate date on which the recommendations with regard to the appointment of teachers of literary subjects in industrial schools will become operative? Would it be after the commencement of the new financial year?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>After the introduction of the Budget, or about that time, I would be in a position to make a statement on the matter.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions." RHead="Oral Answers. - Housing">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Housing.</Title>
+    <Speaker pid="RichardJamesMulcahy" hpid="Risteárd Ua Maolchatha Risteárd Ua Maolchatha">
+      <NameTxt>Risteárd Ua Maolchatha</NameTxt>
+      <P>asked the Minister for Local Government and Public Health if he will state the number of houses erected under the Housing Acts which were completed in each of the years 1929, 1930, 1931 and 1932, by (a) private persons, (b) public utility societies, and (c) local authorities in (1) urban, and (2) rural areas</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Minister for Local Government and Public Health (Mr. Ruttledge) Patrick J. Ruttledge">
+      <NameTxt>Minister for Local Government and Public Health (Mr. Ruttledge)</NameTxt>
+      <P>The information is in tabular form and will be circulated with the Official Report.</P>
+      <P>THE FOLLOWING TABLE SHOWS THE NUMBER OF HOUSES ERECTED UNDER THE HOUSING ACTS BY (<i>a</i>) PRIVATE PERSONS AND PUBLIC UTILITY SOCIETIES, AND (<i>b</i>) LOCAL AUTHORITIES IN URBAN AND RURAL AREAS, DURING EACH OF THE FINANCIAL YEARS, 1929-30, 1930-31, 1931-32, AND 1932-33.  STATISTICS ARE NOT AVAILABLE FOR THE CALENDAR YEARS.</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="10">
+        <colspec colname="1" colnum="1" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="3" colnum="3" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="4" colnum="4" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="5" colnum="5" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="6" colnum="6" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="7" colnum="7" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="8" colnum="8" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="9" colnum="9" colwidth="10*" align="center">
+        </colspec>
+        <colspec colname="10" colnum="10" colwidth="10*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">During year ended 31st March</entry>
+            <entry rowsep="1" namest="2" nameend="4">Number erected by Private Persons and Public Utility Societies</entry>
+            <entry rowsep="1" namest="5" nameend="7">Number erected by Local Authorities</entry>
+            <entry rowsep="1" namest="8" nameend="10">Totals for each year</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>In Urban Areas</entry>
+            <entry>In Rural Areas</entry>
+            <entry>Total</entry>
+            <entry>In Urban Areas</entry>
+            <entry>In Rural Areas</entry>
+            <entry>Total</entry>
+            <entry>In Urban Areas</entry>
+            <entry>In Rural Areas</entry>
+            <entry>Total</entry>
+          </row>
+          <row>
+            <entry>1930</entry>
+            <entry>940</entry>
+            <entry>1,419</entry>
+            <entry>2,359</entry>
+            <entry>1,065</entry>
+            <entry>79</entry>
+            <entry>1,144</entry>
+            <entry>2,005</entry>
+            <entry>1,498</entry>
+            <entry>3,503</entry>
+          </row>
+          <row>
+            <entry>1931</entry>
+            <entry>411</entry>
+            <entry>1,845</entry>
+            <entry>2,256</entry>
+            <entry>759</entry>
+            <entry>76</entry>
+            <entry>835</entry>
+            <entry>1,170</entry>
+            <entry>1,921</entry>
+            <entry>3,091</entry>
+          </row>
+          <row>
+            <entry>1932</entry>
+            <entry>1,071</entry>
+            <entry>2,418</entry>
+            <entry>3,489</entry>
+            <entry>1,732</entry>
+            <entry>179</entry>
+            <entry>1,911</entry>
+            <entry>2,803</entry>
+            <entry>2,597</entry>
+            <entry>5,400</entry>
+          </row>
+          <row>
+            <entry>1933</entry>
+            <entry>402</entry>
+            <entry>401</entry>
+            <entry>803</entry>
+            <entry>1,054</entry>
+            <entry>124</entry>
+            <entry>1,178</entry>
+            <entry>1,456</entry>
+            <entry>525</entry>
+            <entry>1,981</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>NOTE:&mdash;Separate figures are not available for private persons and public utility societies.</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral" RHead="Answers. - Sweepstakes Fund">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Sweepstakes Fund.</Title>
+    <Col N="1027" />
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>asked the Minister for Local Government and Public Health if he will state the amount of money allocated from the Sweepstakes Fund at present at his disposal, and if he will indicate his proposals regarding the ultimate disposal of the sum involved.</P>
+    </Speaker>
+    <Speaker pid="DrFCWard" hpid="Parliamentary Secretary to the Minister for Local Government and Public Health (Dr. Ward) Francis Constantine (Dr.) Ward">
+      <NameTxt>Parliamentary Secretary to the Minister for Local Government and Public Health (Dr. Ward)</NameTxt>
+      <P>The amount of money in the Hospitals Trust Fund at present is approximately £8,500,000. A sum of at least £3,500,000 will be required for endowment of voluntary hospitals.  This amount may have to be increased if the upward trend of deficits in the accounts of voluntary hospitals cannot be checked.  About £1,000,000 is required for the completion of works in progress, including voluntary hospitals and local authority institutions.  The balance is ear-marked for new voluntary hospitals in Dublin and for the provision of institutions in counties where the need is most urgent.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Wicklow Hospitalisation Scheme">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Wicklow Hospitalisation Scheme.</Title>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>asked the Minister for Local Government and Public Health whether he has received from the Wicklow Board of Health and Public Assistance repeated requests for information as to whether he is agreeable that the board's hospitalisation scheme is to be proceeded with; and, if so, what is the reason for withholding the information sought, and whether he is now in a position to reply to the board's inquiries and inform them of his attitude towards their hospitalisation scheme.</P>
+    </Speaker>
+    <Speaker pid="DrFCWard" hpid="Dr. Ward Dr. Ward">
+      <NameTxt>Dr. Ward</NameTxt>
+      <P>As regards the first part of the question the reply is in the affirmative.  The proposals before the Department for new hospitals would require considerably more money for carrying them out than is available. I am not, therefore, in a position to indicate when approval will be given to the hospitalisation scheme proposed for Wicklow.</P>
+    </Speaker>
+    <Col N="1028" />
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>Would the Parliamentary Secretary not consider it the duty of his Department to notify a public body regarding this, to avoid their having to send repeated applications for information refused to them by the Department?</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers. -" RHead="Electricity Supply Board Superannuation Scheme">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Electricity Supply Board Superannuation Scheme.</Title>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley (for Mr. Norton) Mr. Hurley (for Mr. Norton)">
+      <NameTxt>Mr. Hurley (for Mr. Norton)</NameTxt>
+      <P>asked the Minister for Industry and Commerce if he will state whether he has received proposals from the Electricity Supply Board on the subject of instituting a superannuation scheme for the staff of that board, and whether it is intended to introduce legislation to enable a superannuation scheme to be provided; and, if so, when such proposals will be introduced.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Industry and Commerce (Mr. MacEntee) Minister for Industry and Commerce (Mr. MacEntee)">
+      <NameTxt>Minister for Industry and Commerce (Mr. MacEntee)</NameTxt>
+      <P>Discussions with the board are proceeding but I am not yet in a position to add anything to the reply given to the Deputy in answer to a similar question on 8th November last.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="Ceisteanna&mdash;Questions. Oral Answers." RHead="- Division of County Kerry Turbary">
+    <Title>Ceisteanna&mdash;Questions.   Oral Answers. - Division of County Kerry Turbary.</Title>
+    <Speaker pid="" hpid="Eamonn O Ciosáin Eamonn O Ciosáin">
+      <NameTxt>Eamonn O Ciosáin</NameTxt>
+      <P>asked the Minister for Lands if the turbary at Tullihinell, Asdee, Ballylongford, in the Blacker Douglas estate, County Kerry, has now been acquired by the Land Commission; and, if so, whether the said turbary will be divided without delay so that the prospective allottees will be in a position to cut turf in the early summer of this year.</P>
+    </Speaker>
+    <Speaker pid="ThomasDerrig" hpid="Minister for Lands (Mr. Derrig) Thomas Derrig">
+      <NameTxt>Minister for Lands (Mr. Derrig)</NameTxt>
+      <P>The turbary at Tullihinell North and South on the Blacker Douglas estate, Record No. E.C.3384, County Kerry, is the subject of a scheme of regulations under Section 21, Land Act, 1903, and Section 42, Land Act, 1923, providing for the allotment of turbary plots to 49 tenant purchasers.  It will be necessary to construct certain passageways and drains for the development of the bogs, and it is hoped (subject to the allottees complying with the usual conditions regarding future maintenance) to have the matter completed at an early date.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Col N="1029" />
+    <Speaker pid="SeanTOKelly" hpid="The Tánaiste Seán T. O'Kelly">
+      <NameTxt>The Tánaiste</NameTxt>
+      <P>It is proposed to take business as on the Order Paper, Nos. 2 to 5 inclusive.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="County Management Bill," RHead="1939&mdash;Committee Stage (resumed)">
+    <Title>County Management Bill, 1939&mdash;Committee Stage (resumed).</Title>
+    <P>Debate resumed on amendment No. 90:</P>
+    <P>In page 14, lines 50, 51, 54, 56, and in page 15, lines 6, 8, 11, 33, 38 and 42, in sub-sections (1), (2), (3), (5), (6) and (7) to delete the word &ldquo;visiting&rdquo; where it occurs in those lines.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is the Deputy pressing the amendment?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Yes.  When we adjourned on Friday last I was endeavouring to convert the Minister to my point of view with regard to committees of mental hospitals.  The Bill proposes that the committees of mental hospitals will in future be regarded only as visiting committees. The case I was making against that was that as visiting committees they are not going to attend at all.  The committes will be scattered over very wide areas; the General Hospitals Committee of Management will form a visiting committee and I cannot imagine people 30 or 40 miles away from a hospital&mdash;as is the case in Ballinasloe&mdash;attending individually at their own expense as members of a visiting committee.</P>
+    </Speaker>
+    <P>I maintain that there ought to be some committee retained for the purpose of keeping contact between the administration and the manager, that is, between the local authorities and the manager.  As far as mental hospitals are concerned, in the future we will have nothing, if this Bill is passed, except the R.M.S. and the manager controlling the mental hospital themselves.  There will be no contact or link between them and the local authorities whatever except that the local authorities will have to provide the money.  I do not think that is good administration.  I do not think that is going to make for better working of <Col N="1030" /> these hospitals.  Most of them are very big institutions and if we throw our minds back we will find that they are giving more trouble in a way than any other hospitals.  Perhaps that is not to be wondered at, but I think that the Minister ought to be very slow to sever the contacts between these hospitals and the local authorities.  I am consequently asking that the committees be retained in some shape or form as committees and that they be called together at least a certain number of times in the year, say, four times, or as many times as the Minister may think it wise to call them together.  The Minister has the power to make regulations under another section and he can prescribe what duties will be assigned to them, but I think it would be very bad for the administration if the Minister were to wipe out all the contacts he has between the administration of the mental hospitals and the local authorities.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Of course, the Deputy knows that the county council will more or less step into the position of the mental hospital committees.  The Deputy refers to the making of rules. What is contemplated in the making of these rules is provision on these lines &mdash;for regular visitation of the mental hospitals; for the keeping of minutes; for reporting complaints to the county councils; for inspection of dietaries, qualities of several commodities supplied, et cetera; for inquiring into matters specially referred to them; for examining the means of occupation and for examining the means of recreation. It is contemplated that when these committees visit the mental hospitals it is not simply to get or inquire about complaints.  They will have to see what way the hospital is run; they will have to see what condition the hospital is in, whether it is in need of repairs or anything of that sort, and report back to the county council.  I think the county council will find that it is in a much better position than it was in many instances in the past.  I think that the position, for example, of public assistance bodies was that when they made out the <Col N="1031" /> amount of their estimate they referred it to the county council and I think that was a demand which the county council had to accept.  In the matter of a mental hospital the estimate will come up to the county council and the council members will be the people who will have to say whether they are satisfied that that demand is reasonable or that they want to have an inquiry made into any particular matter affecting that estimate.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Suppose they do want to have an inquiry made into any particular matter affecting the estimate, through whom are they going to make it?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>They can put these duties on to the visiting committee.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>They can?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>They can, yes.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I think the House ought to be given some information by the Minister with regard to those rules which he is empowered to prescribe. The Minister says he can do certain things.  I think he ought to take the House into his confidence and tell us what he is going to do because unless this committee is going to be retained for the purpose of holding meetings and their travelling expenses, as already allowed, at least allowed to them, there will be no meetings.  The Minister knows that perfectly well.  He ought to take us into his confidence. If he foresees something like that he is meeting my point.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>The Deputy knows that the whole principle behind this Bill is that the executive functions are in the hands of the manager.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I agree.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Anything else, as far as it can be done by regulation, the committees will be empowered to do provided that it does not interfere with the remuneration of the officials or the appointment of officials or has anything <Col N="1032" /> whatever to do with the staffs in any way.  The manager is responsible for that and we cannot take these executive powers from him.  We are prepared to go any distance to try and make them useful committees.  So far as having to attend at their own expense is concerned, I do not see why the members could not be allowed travelling expenses in the same way as they are allowed to county council members.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>If the Minister is prepared to do that I am prepared to withdraw my amendment.  My chief worry is that you might not have any committee at all or, in fact, any people going there at all.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>We want to make these committees as useful as we can.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>The county council will not have the right to delegate duties to these committees unless the Minister agrees to it and they will have no authority whatever for paying expenses unless that is provided.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I am prepared to meet the Deputy except in so far as the executive functions of the manager are concerned.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>So far as they are concerned, I do not want those powers at all.</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>What will be the position in a joint committee?  Supposing one particular council may request the Minister to do certain things must they have the majority of those present? Take Grangegorman, for instance, where you have Wicklow, County Dublin, and the City of Dublin, and, say, County Dublin decides on a certain plan of action which is approved by their council and Wicklow County and Dublin City object.  Where they have a majority, what is the position of the Dublin County in that matter?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>They can appeal to the Minister under the existing law.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <P>
+      <Col N="1033" /> Amendments Nos. 91 and 92 not moved.</P>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>There is an amendment standing in my name but perhaps it will not be necessary to move it. My chief worry about this was in regard to sub-section (4) which provides:</P>
+      <P>The visiting committee of a district mental hospital shall not inquire into or receive any complaint or make any report in relation to the services, remuneration, privileges, superannuation, or compensation for loss of office of the officers and servants of such hospital or any of such officers or servants.</P>
+      <P>I certainly do not want to interfere in any way with the executive duties of the manager, but very often there are other things arising between the officers themselves and I do not know that it is well for the Minister to cut that power out completely.  We have had, I think, more trouble with officers in mental hospitals than in any other place and committees have been very useful in getting to the bottom of things and settling them up.  If you are going to take the right to report complaints back you might be going too far.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>That is the manager's function.</P>
+      <P>Amendment No. 93 not moved.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I move amendment No. 94:&mdash;</P>
+      <P>In sub-section (4), page 15, lines 30 and 31, to delete the words &ldquo;superannuation, or compensation for loss of office&rdquo; and substitute the words &ldquo;or superannuation.&rdquo;</P>
+      <P>This is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>In regard to amendments Nos. 95 and 96, I am prepared to accept the principle in those amendments but I think it would be advisable to have them re-drafted.</P>
+      <P>Amendments Nos. 95 and 96 not moved.</P>
+    </Speaker>
+    <P>
+      <Col N="1034" /> Question: &ldquo;That Section 25, as amended, stand part of the Bill,&rdquo; put.</P>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>Votáil.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Will the Deputies claiming a division, please rise?</P>
+      <P>
+        <i>Deputies Hurley and Everett rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The names of the Deputies claiming the division will be recorded as dissenting.</P>
+      <P>Question declared carried.</P>
+      <P Just="Center">SECTION 26.</P>
+      <P>(2)  Nothing in the foregoing sub-section shall operate to render unnecessary&mdash;</P>
+      <P>(a)  the possession by any person who, after the commencement of this Act, is elected or nominated by the council of a county or by an elective body to be a member of any public body of any special qualification (other than membership of such council or elective body) which such person is required by law to possess, or</P>
+      <P>(b)  compliance with the requirements of sub-section (2) of Section 9 of the Local Government (Ireland) Act, 1898, so far as the said sub-section (2) as adapted, amended, or applied by or under any Act of the Oireachtas relates to membership of the joint committee of management of a district mental hospital, or</P>
+      <P>(c)  compliance with the requirements of Section 8 of the Vocational Education Act, 1930 (No. 29 of 1930).</P>
+      <P>(d)  compliance with the requirements of paragraph (c) of sub-section (1) of Section 9 of the Public Assistance Act, 1939 (No. 27 of 1939), in relation to a public assistance authority to which the said Section 9 applies, or compliance with paragraph (e) of sub-section (2) of Section 10 of the said Act in relation to a public assistance authority to which the said Section 10 applies.</P>
+    </Speaker>
+    <Col N="1035" />
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I move amendments Nos. 97 and 98:&mdash;</P>
+      <P>97.  In sub-section (2), paragraph (c), page 16, line 16, to add at the end of the paragraph the word &ldquo;or.&rdquo;</P>
+      <P>98.  In sub-section (2), page 16, to insert before paragraph (d) a new paragraph as follows:&mdash;</P>
+      <P>(d)  compliance with the requirements of paragraph 2 of the Second Schedule to the Agriculture Act, 1931 (No. 8 of 1931), or,</P>
+      <P>These amendments are moved to repair an obvious omission from the Bill.  The Section was taken from the Dublin City Management Acts and, of course, there are no Committees of Agriculture in the County Boroughs.  Attention was called to the matter by the Department of Agriculture.</P>
+      <P>Amendments put and agreed to.</P>
+      <P>Section 26, as amended, ordered to stand part of the Bill.</P>
+      <P Just="Center">SECTION 27.</P>
+      <P>Question proposed: &ldquo;That Section 27 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>This section provides for the dissolution of boards of health and we take very serious objection to that proposal.  The functions of boards of health are such that, if carried out solely by a manager, they will lack that human touch which is so much evidenced in the work of boards of health.  There may be arguments, such as I have heard here, that boards of health occupy a considerable time in discussing very trivial matters.  I am not myself a member of a board of health but I have seen the system in operation, working expeditiously and well.  I have also knowledge that without that human touch which members of the board of health can impart in the discharge of their duties, and which will probably be lacking if the duties are discharged by a manager, the whole purpose and object of the boards of health will certainly suffer. The purpose of the section is to dissolve the boards of health and to transfer their functions to the manager. There is, I understand, an amendment <Col N="1036" /> down later on in the name of Deputy Norton which will probably give me more scope for discussing this matter.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Would the Deputy please give the amendment he refers to?</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>Amendment No. 101. I can speak more freely on that amendment rather than on this question.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>My purpose in asking that question was to ascertain whether the amendment in question had been ruled out by a decision on a preceding amendment.  I should not like the Deputy to be damnified in that way.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>Amendment No. 101.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That amendment may be moved when reached.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>For the reason that I have given, I am objecting to this section.  I do not think that it is necessary to dissolve boards of health even to give the powers suggested in this Bill to the manager.  The boards of health with which I am acquainted are doing their work efficiently.  They possess, as I have said, that human touch in local affairs that a manager cannot have and will not have.  The proposal seems to be inspired by that idea of dictatorship which is underlying the whole Bill.  For that reason I strongly object to the section.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>I find it extremely difficult to approach this section at all. In the first place, I am not enamoured of the present boards of health but I think that something better might be found to supplant them than the system proposed in this Bill.  I am not at all in agreement with the method of replacing boards of health suggested in the Bill.  I am not at all satisfied that things will work out under the managerial system better than under the other system, and I think it would be almost impossible to supervise the multiple work connected with poor law and such matters.  I had hoped that, if we were going to make <Col N="1037" /> any reform in connection with poor law work in the counties it would be in the direction of something like the old district councils, but I think that putting the whole of that kind of work under a managerial system will lead to almost as great difficulties as the boards of health had formerly.  One of the greatest excuses that has been made for boards of health in latter years was that they were overloaded with work; many Deputies in this House from all sides have made that excuse&mdash;that the boards of health were overloaded with work and could not get through the work they had to do. Well, I do not see how the case is going to be better now, or how, let us say, one man can get through as much or more work than ten men.  I foresee many difficulties in connection with this section.  I do not propose to vote on the section, but I must say that I am not in agreement with it.</P>
+    </Speaker>
+    <Speaker pid="ProfJohnMarcusOSulli" hpid="Professor O'Sullivan Professor O'Sullivan">
+      <NameTxt>Professor O'Sullivan</NameTxt>
+      <P>Will there not be a number of committees set up to deal with these matters?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Yes, it is contemplated that a number of committees will be set up, but these committees will not have executive functions.</P>
+    </Speaker>
+    <Speaker pid="ProfJohnMarcusOSulli" hpid="Professor O'Sullivan Professor O'Sullivan">
+      <NameTxt>Professor O'Sullivan</NameTxt>
+      <P>Oh, no.  I do not mean that they should have executive functions, any more than the boards of health.</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>The powers and functions of these boards are being transferred to the council of the county concerned?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>Well, at the present time, the county councils are in control of the boards of health&mdash;irrespective of Party&mdash;and you are now going to transfer back that power to the same representatives, under a different name.  I mentioned on a previous occasion a case where a council would be meeting about 20 miles away from the headquarters of the board of health and where documents that might be needed would be about 20 <Col N="1038" /> miles away.  I do not think it would be any improvement in the system to have the necessary books 20 miles away from where the meeting is being held; yet, that is what you are doing under this section.</P>
+      <P>Question put.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I think the question is carried.  If some Deputies would like to be recorded as dissenting, instead of challenging a division, it would facilitate business.</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>We should like to delay this measure as long as possible, but we shall meet the wishes of the Chair, so far as possible, by dissenting instead of calling for a division.  We shall accept the advice of the Ceann Comhairle, but wish to be recorded as dissenting.</P>
+      <P>Question declared carried, Deputies Everett and Hurley to be recorded as dissenting.</P>
+      <P Just="Center">SECTION 28.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I presume Deputy Brennan agrees that his first amendment, No. 98a, governs the amendments Nos. 98b, 98c, and 98d.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Yes, Sir.  I move amendment No. 98a:</P>
+      <P>In sub-section (1), page 16, line 33, to delete the words &ldquo;enactment and.&rdquo;</P>
+    </Speaker>
+    <P>My reason for putting down this amendment is this.  The section, as it stands, says that every enactment and every order in force at the commencement of this Act, in relation to councils of counties shall, subject to any order made by the Minister under this section, be construed and have effect with such modifications as may be necessary to give effect to the provisions of the Act so far as they relate to such councils.  Now, who is going to decide how far modifications may be made or what modifications are, in fact, necessary?  If we allow a sub-section like that to get into the Bill, <Col N="1039" /> are we not in fact giving legislative authority to the Minister himself?  If the Minister can modify enactments, without being subject to any other authority, is he not in fact modifying Acts of this House and, consequently, doing work which is, in fact, legislative work and work proper to this House?  Perhaps the Minister will explain what the position is, if I am not right in my assumption?</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is taken from, I think, Section 102 of the Local Government (Dublin) Act of 1930.  I understand that it is a usual provision.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>That is not a good excuse, or any proof that it is good law.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>It is the usual sub-section that is put into all these Bills for the adaptation of existing enactments.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Well, take the phrase &ldquo;with such modifications.&rdquo;  Suppose the Minister wanted to put in some portion of an Act of this House, which really did not fit in, but which he modified in such a way as to make it fit in, or in a way to please him, are we not then giving legislative power to the Minister himself, without his being subject to anybody afterwards?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>There could be no modification except in so far as this Act is concerned.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Yes, I understand.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>It is for the purpose of giving effect to this Bill when it becomes an Act.  The Adaptation of Enactments Order of 1899 covers a great deal of local government law.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I agree, but the modification of enactments appears to me to be different.  We do not know how far the Minister may modify them &mdash;that is, modify or alter them, not adapt them&mdash;and apparently in this case the Minister is the whole legislative authority, with power to modify, <Col N="1040" /> alter or adapt these measures in so far as he may feel it may be necessary.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Only in so far as it refers to this Act.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I know, but&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>If the Deputy has any doubt about it, I shall have the matter examined before the Report Stage, but I do not think there is any doubt about it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I have no doubt at all about the Minister's intentions, but I have a great deal of doubt about the House giving this power to a Minister, because it appears to me that if Acts are to be modified or altered in any way, that should be a matter for the House and not for the Minister, and if the Minister is going to be the judge of the necessity for such modifications, then we are passing on to him an authority which, to my mind, he should not have.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I understand that the only purpose is to give effect to this Act.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is the amendment being withdrawn?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Yes, Sir, if the Minister will look into it in the meantime.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Yes, I shall do so.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 98b not moved.</P>
+      <P>Question&mdash;&ldquo;That Section 28 stand part of the Bill&rdquo;&mdash;put and declared carried, Deputies Everett and Hurley dissenting.</P>
+      <P>Amendments Nos. 98c and 98d not moved.</P>
+      <P>Question&mdash;&ldquo;That Section 29 stand part of the Bill&rdquo;&mdash;put and declared carried, Deputies Everett and Hurley dissenting.</P>
+    </Speaker>
+    <P>
+      <Col N="1041" /> Question&mdash;&ldquo;That Section 30 stand part of the Bill&rdquo;&mdash;put and declared carried, Deputies Everett and Hurley dissenting.</P>
+    <P Just="Center">SECTION 31.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I move amendment No. 99:&mdash;</P>
+      <P>Before Section 31, page 17, to insert a new section as follows:&mdash;</P>
+      <P>(1)  Sub-section (2) of Section 42 and Sections 47 and 48 of the Local Government (Dublin) Act, 1930 (No. 27 of 1930), are repealed.</P>
+      <P>(2)  On the commencement of this Act Sections 51 to 61 and Sections 77, 79 and 80 of the Local Government (Dublin) Act, 1930 (No. 27 of 1930) shall cease to apply or have effect in relation to the borough of Dún Laoghaire.</P>
+      <P>(3)  The repeal by this section of Section 47 of the Local Government (Dublin) Act, 1930 (No. 27 of 1930) shall, in relation to the office of town clerk of the borough of Dún Laoghaire, not operate to abolish that office but only to terminate the merger of the said office in the office of manager of the borough.</P>
+      <P>This is a consequential amendment.</P>
+      <P>Amendment agreed to.</P>
+      <P>Question&mdash;&ldquo;That Section 31 stand part of the Bill&rdquo;&mdash;put and declared carried.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Amendment No. 99a fell with amendment No. 8.</P>
+      <P>Amendment No. 99a not moved.</P>
+      <P>Amendment No. 100 not moved.</P>
+      <P>Question&mdash;&ldquo;That this be the First Schedule to the Bill&rdquo; put and declared carried, Deputies Hurley and Everett dissenting.</P>
+      <P Just="Center">SECOND SCHEDULE.</P>
+    </Speaker>
+    <P>10.  The making of an application or an order or the causing of an inquiry to be made under or in pursuance of Section 10 of the Local <Col N="1042" /> Government (Miscellaneous Provisions) Act, 1936 (No. 55 of 1936), or Article 26 of the Schedule to the Local Government (Application of Enactments) Order, 1898, in relation to an alteration of boundaries.</P>
+    <P>16.  Subject to the provisions of this Act, the appointment, suspension, or removal of a county manager.</P>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>I move amendment No. 101, on behalf of Deputy Norton:&mdash;</P>
+      <P>Before paragraph 10, in page 18, to insert the following new paragraphs:&mdash;</P>
+      <P>10.  The administration of the Poor Law Acts.</P>
+      <P>11.  The administration of the Housing of the Working Classes Acts.</P>
+      <P>12.  The functions exercisable by a sanitary authority.</P>
+      <P>13.  The administration of the Tuberculosis Acts.</P>
+      <P>14.  The administration of the School Medical Services.</P>
+      <P>15.  The administration of the Free Milk Scheme.</P>
+      <P>16.  The administration of the Acts relating to the prevention and treatment of disease.</P>
+      <P>The Second Schedule sets out various matters in respect of the powers, functions and duties which are mentioned as the reserved functions of the council. They include the making of a rate, the borrowing of money, and so on. These are harmless kinds of things which were already included in the Acts introduced in 1929 and 1931, the Management Acts introduced by the last Administration.  I am not surprised that there is such unanimity on this Bill.  I am rather surprised, though, that the present Government have learned so quickly the policy and the ideas of the previous Administration with regard to local government.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>It has taken them a long time, and it has taken you longer.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>I did not think they would learn in such a short time.  I was rather surprised, having in view <Col N="1043" /> the many protestations they made when the legislation to which I have referred was going through the House. One could scarcely imagine that in a few years, in less than ten years, they would completely change their views and their outlook with regard to local administration.  The Second Schedule contains a list of fairly harmless powers which are to be allotted to the local council&mdash;the making of a rate, the borrowing of money, and so on, just to give some semblance of popular sanction to the work of the manager.</P>
+      <P>The purpose of the amendment is to provide that the functions set out, which are really functions that should be carried out by a local authority, should be given to the local council. The administration of the Poor Law Acts is a very important function.  It is a function that appertains more to the human outlook of a body of local people than to the hard and fast Civil Service outlook of a manager.  As regards the administration of the Housing of the Working Classes Acts, that again is a function that should be reserved to a body of local people who understand the conditions under which the inhabitants of an area live, and who are anxious to ameliorate these conditions.  The manager may not have the same outlook towards the housing of the people as would a local body composed of people who are in close touch with the residents of a district.</P>
+    </Speaker>
+    <P>Then we have such things as the functions exercisable by a sanitary authority, the administration of the Tuberculosis Acts, the administration of the school medical services, the administration of the free milk scheme, and the Acts relating to the prevention and treatment of disease.  These are all functions that were suggested somewhere as functions which should be carried out by parish councils.  We hear a great lot of talk these days about the establishment of parish councils to deal with such local affairs as are outlined in the amendment.  Those functions are now to be reserved to the manager, and the functions of the county council, not to mind the functions of a parish council, will be nil, so that the whole thing seems to be a <Col N="1044" /> kind of paradox.  On the one hand, we hear the idea of a parish council preached about and extolled.  It is suggested that the local people would have greater touch with, and a more intimate knowledge of, the affairs of a locality than even a county council or a board of health.  If that is so, how is a manager, who has no contact with a locality, to know of the complaints and the hardships and grievances under which local people will still have to suffer.</P>
+    <P>We submit that the functions which are outlined in this amendment should be reserved to the local council.  Surely it could not be said that these are executive functions which could only be carried out by a manager?  My contention is that they are functions which require an intimate knowledge of local affairs and conditions and that can only be possessed by a local council. The amendment is a reasonable one.  All through this Bill we have been met by an adamant attitude on the part of the Minister in respect to any amendment we put up.  I do not know what the reason is for such an attitude. I ask him seriously to take into consideration the effect of handing over those functions to a manager.  They should definitely be regarded as part and parcel of local administration.  I do not care whether it is going to be done through parish councils, boards of health or county councils, but this type of administration will require intimate knowledge which can only be possessed by local representatives.  The official attitude that a manager will adopt in such circumstances would be altogether out of place.  You may, of course, get managers who will have knowledge of the working of all the Acts that are enumerated here.</P>
+    <P>I am prepared to prophesy that this Act will not remain in force very long. When the people observe how it is being operated and how their local affairs will be taken over by a local dictator, there will be a general outcry against it and definitely there will be a wiping out of this legislation.  I appeal to the Minister to leave those functions with the local body.  They are not functions that can be described as cutting across the principle of the Bill.  If they are to be successfully carried out, those <Col N="1045" /> functions must be administered by local representatives rather than by a manager.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>The Deputy's speech was very much like a Second Reading speech, but I suppose it can be accepted as somewhat relevant.  To my mind it cuts across the whole principle of the Bill.  There is no use in saying that in one way Labour is standing against this thing when we find that in another way it is not.  As a matter of fact, perhaps Labour was converted before we were converted to this idea of the managerial system.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>One swallow never makes a summer.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>We can quote Deputy Davin to show whether you were or not.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>Deputy Davin had no experience of the working of the Act.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>He says here that he had.  I will quote his words.  He says that he knows more about it than some other people who have been talking a lot in this House.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I wonder who was he referring to when he said that?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Deputy Davin, speaking in the Dáil on the 1st April, 1938 &mdash; columns 1395-97&mdash;said:</P>
+    </Speaker>
+    <P>&ldquo;I have listened from time to time, both here and elsewhere, to discussions in regard to the merits and demerits of the managerial system.  I am of the opinion that some people, when discussing this matter, are too much inclined to think of the manager or the man instead of the merits or demerits of the system.  I listened last night to a Deputy, who does not know too much, I think, about the activities or work of the Dún Laoghaire Borough Corporation, paying a proper tribute, in my opinion, to the managerial system as administered in that area. I imagine he speaks from hearsay, <Col N="1046" /> but as a ratepayer in that district and speaking from some intimate knowledge of how the managerial system has been administered in that area, I want to say that, in my opinion, it has been carried out on model lines.  It was administered in a quiet, calm way, without any bluster on the part of the manager, who was wise enough, although there was no obligation on him to do so, to consult the members of the council and to seek their advice on matters on which he was entitled to act on his own....  If the administration is going to be efficient, you must have one central head in charge, as you have in charge of Departments of State, the executive head of each being responsible to the political head of the Department.  I would not like to see, in the case of public concerns in this country, directors, whether a large or a small number of them, constantly interfering in the activities of the executive officers of the different departments.  There are certain concerns that I have some knowledge of, and I am aware that some of the members of the board would not know which was the right or the wrong end of a signal cabin. I would not like to see those people, as sometimes happened, interfering and giving deliberate instructions to the executive heads of a large public service such as that&mdash;to men with a lifetime of experience, men who know their business and hold their positions because they do know it.&rdquo;</P>
+    <P>I think that is enough to quote.</P>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>May I point out to the Minister that I think Deputy Davin's praise in that quotation is directed more to the manager than to the system?  Any time that I have spoken on this, I have always distinguished between the manager and the system. The manager is simply the mouthpiece of the machinery, but the system is dictatorship in local affairs.  We will probably have it in national affairs later.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Deputy Davin's point there was that he did not want executive heads in charge to be interfered with by directors.</P>
+    </Speaker>
+    <Col N="1047" />
+    <Speaker pid="JamesEverett" hpid="Mr. Everett Mr. Everett">
+      <NameTxt>Mr. Everett</NameTxt>
+      <P>Despite the Minister's quotation, Deputy Davin voted against the Bill.</P>
+      <P>Amendment put and declared lost; Deputies Hurley and Everett recorded as dissenting.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I move amendment No. 102:&mdash;</P>
+      <P>In paragraph 10, page 18, line 36, to delete the word &ldquo;Government&rdquo; and substitute the word &ldquo;Authorities&rdquo;.</P>
+      <P>This is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I move amendments Nos. 103, 104 and 105.  The three go together.</P>
+      <P>103.  Before paragraph 11, page 18, to insert a new paragraph as follows:&mdash;</P>
+      <P>11. &mdash;The following matters under the Housing (Miscellaneous Provisions) Act, 1931 (No. 50 of 1931), that is to say:&mdash;</P>
+      <P>(a)  the declaration under Section 5 of the said Act of an area to be a clearance area;</P>
+      <P>(b)  the declaration under Section 12 of the said Act of an area to be an improvement area.</P>
+      <P>104.  Before paragraph 13, page 18, to insert two new paragraphs as follows:&mdash;</P>
+      <P>13.&mdash;The constitution of the council of a county, or of an elective body, including the election of a chairman or a vice-chairman of such council or such elective body and the election and remuneration of the mayor of a borough.</P>
+      <P>14.&mdash;The procedure of the council of a county or of an elective body, including procedure at any meeting of such council or such elective body.</P>
+      <P>105.  In paragraph 16, page 18, line 50, to delete the word &ldquo;appointment&rdquo;.</P>
+      <P>The matters dealt with in these amendments are regarded as appropriate reserved functions.</P>
+    </Speaker>
+    <P>
+      <Col N="1048" /> Amendments Nos. 103, 104, and 105 agreed to.</P>
+    <P>Question proposed: &ldquo;That the Second Schedule, as amended, stand part of the Bill.&rdquo;</P>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Paragraph 8 of this Schedule refers to the making under Section 9 of the Local Government (Ireland) Act, 1898, of regulations in respect of the admission, detention, or discharge of patients to, in, or from a mental hospital.  What I want to direct the Minister's attention to is that under a Public Assistance Act, passed some time ago, we made a lot of arrangements about other hospitals. In this mental hospitals only are referred to.  What I am anxious to know is what arrangements have been made with regard to other hospitals. Would ordinary medical and surgical hospitals come under the regulations to be made under this Bill?  I do not want a position to arise later by which the county councils will have certain authority with regard to admissions to mental hospitals, and will have no authority with regard to admissions to other hospitals.  I think the Minister ought to look into this and see if the position with regard to county councils is covered in the Public Assistance Act. It did not refer to the powers of county councils, but this Bill does.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I will look into it and see if there is anything in the Deputy's point.</P>
+      <P>Question put and declared carried, Deputies Hurley and Everett recorded as dissenting.</P>
+      <P Just="Center">THIRD SCHEDULE.</P>
+    </Speaker>
+    <P>(2)  The abolition of the board shall not invalidate or affect any paying order which may have been issued by the board and not presented for payment before the commencement of this Act or any authority given by the board for the payment of the amount of such paying order, and the council shall make arrangements for the payment of the amount of every such paying order upon due presentation <Col N="1049" /> within a reasonable time after such commencement.</P>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I move amendment No. 106:&mdash;</P>
+      <P>In paragraph 3 (2) to delete lines 47, 48 and 49, and substitute therefor the words &ldquo;for the payment of the amount of every such paying order immediately it is presented for payment&rdquo;.</P>
+      <P>To my mind, at any rate, sub-section (2) of paragraph 3 of the Schedule is capable of two interpretations.  It says that &ldquo;The council shall make arrangements for the payment of the amount of every such paying order upon due presentation within a reasonable time,&rdquo; etc.  One might read into that, that a reasonable time would elapse after presentation before the order would become payable.  One might also read into these words that, ordinarily, the order would be payable immediately it was presented or within a reasonable time afterwards.  What do these words mean?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>It is a matter of drafting, and perhaps it would be well if the wording were made more definite. If the Deputy withdraws the amendment I will look into it.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>On behalf of Deputy Murphy I move amendment No. 107:&mdash;</P>
+      <P>At the end of paragraph 11 (3) to insert the following proviso:&mdash;</P>
+    </Speaker>
+    <P>Provided always that every person to whom this paragraph relates and who before the commencement of this Act was the secretary of the board shall, if he resigns his position as an officer of the council within two years after the date of his transfer to such office, be entitled to receive from the council an annual allowance for his life not exceeding two-thirds of the annual salary and emoluments to which, at the date of such resignation, he was entitled, and the council shall grant to such person an allowance of not less than three one-hundred-and-twentieths of such salary and emoluments for each year of his service in a pensionable <Col N="1050" /> office in the employment of any local authority prior to such resignation subject to the maximum mentioned in this proviso.</P>
+    <P>The purpose of this amendment is to give secretaries of various boards, whose routine may be disturbed in some way through the working of this Bill, an opportunity of considering their position.  For instance, if the board of health for North Cork meets at Mallow, and if it was decided that it should go to the City of Cork, then the secretary of such a board, if he were an old man, would have a time limit of two years to decide.  If his energies or his health would not allow him to go he would have time to think about the position, and to see how he would be affected by the Bill.  I am sure the Minister agrees with the suggestion to give such people a chance to fit themselves into the new position, and if their health or energies would not permit them to do so, they should have an option.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Would not the next amendment meet the position?  I think it does.  It was inserted after meeting secretaries of the boards of health.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Amendment No. 109 is similar to amendment No. 108.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>Is the position covered in it?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That is for the Deputy to decide.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>I am asking the Minister.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>It is.  This was done after representations from the secretaries.</P>
+      <P>Amendment No. 108 not moved.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I move amendment No. 109:&mdash;</P>
+      <P>Before paragraph 12 to insert a new paragraph as follows:&mdash;</P>
+    </Speaker>
+    <P>12.  (1)  In this paragraph the expression &ldquo;transferred officer&rdquo; means <Col N="1051" /> an officer of the board or of a committee of the board who is transferred by virtue of the next preceding paragraph of this Schedule to the service of the council.</P>
+    <P>(2)  Every transferred officer shall, from the commencement of this Act until he is continued, appointed, or removed under or by the subsequent provisions of this paragraph, perform in the service of the council the like duties as he performed in the service of the board or committee from whose service he was transferred and be entitled to the same salary and emoluments and the same conditions of service as were attached to his employment in the service of such board or committee immediately before the commencement of this Act.</P>
+    <P>(3)  Every transferred officer shall, within two years after the commencement of this Act, either &mdash;</P>
+    <P>(a)  be continued by the council in the office he held immediately before such commencement or in an analogous office with analogous duties, or</P>
+    <P>(b)  be appointed according to law and with his consent to an office in the service of the council, or</P>
+    <P>(c)  be removed from office by the council.</P>
+    <P>(4)  Every dispute as to whether an office is analogous to another office or as to whether the duties of an office are analogous to the duties of another office shall be determined by the Minister whose decision shall be final.</P>
+    <P>(5)  Every transferred officer who is not continued, appointed, or removed under the foregoing provisions of this paragraph within two years after the commencement of this Act shall, at the expiration of such two years, be removed from office by virtue of this sub-paragraph.</P>
+    <P>(6)  Every transferred officer who is removed from office under or by virtue of any of the foregoing provisions of this paragraph shall, for the purpose of the enactments relating to superannuation, be deemed to <Col N="1052" /> have been removed from office by the council for a cause other than misconduct or incapacity.</P>
+    <P>Amendment agreed to.</P>
+    <P>Question&mdash;&ldquo;That the Third Schedule, as amended, be the Schedule to the Bill&rdquo;&mdash;put and declared carried, Deputies Hurley, Everett and Corish recorded as dissenting.</P>
+    <P>Title agreed to.</P>
+    <P>Bill reported with amendments.</P>
+    <P>Report Stage ordered for Wednesday. 10th April, 1940.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Seeds and Fertilisers Supply Bill," RHead="1940&mdash;Report and Final Stages">
+    <Title>Seeds and Fertilisers Supply Bill, 1940&mdash;Report and Final Stages.</Title>
+    <P>Question&mdash;&ldquo;That the Bill be received for final consideration&rdquo;&mdash;put, and agreed to.</P>
+    <P>Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>At some stage when this Bill was before the House, Deputy Belton suggested that there should be a consultation with the Minister about some points that he raised and that he considered were not met.  The Minister then said that he would be satisfied to consult the Deputy.  I do not know what happened at the consultation.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I met Deputy Belton and Mr. Early, solicitor to the county council.  Deputy Belton was under the impression that rates took priority over other debts.  That is not so, and when the Deputy heard that, he said he had no further interest in the matter.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>Did he not raise a point about giving authority to councils to lend money?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>He made some point like that in the House, but he did not make it when he came to see me.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Local Government (Remission of Rates)" RHead="Bill, 1940&mdash;Second Stage">
+    <Title>Local Government (Remission of Rates) Bill, 1940&mdash;Second Stage.</Title>
+    <Col N="1053" />
+    <Speaker pid="PatrickJosephRuttled" hpid="Minister for Local Government and Public Health (Mr. Ruttledge) Patrick J. Ruttledge">
+      <NameTxt>Minister for Local Government and Public Health (Mr. Ruttledge)</NameTxt>
+      <P>I move that the Bill be now read a Second Time.  The purpose of this Bill is to give partial remission of rates on new residences completed within two years from the 1st October, 1939.  The remission, which is two-thirds of the full rates for a period of five years, or until the next general revision of valuations, whichever period is the shorter, will also be given in respect of the improvement of residences.  It is a continuation of the legislation embodied in the Local Government Act, 1927, as extended, but confines remissions to buildings or parts of buildings constructed and designed as residences for separate families.  Local authorities must satisfy themselves that the building getting remission is used as a residence before giving a remission in any year.</P>
+      <P>The procedure with respect to determining the houses that are entitled to remission will be the same as hitherto. The Commissioner of Valuation will indicate the houses on the valuation list.  There will be the same right of appeal against these determinations as there is against valuations under the Valuation Acts.  The Bill will not affect exemptions or partial exemptions from rates granted under other Acts.  Under the Housing (Financial and Miscellaneous) Act, 1932, remission of rates on houses in respect of which State grants are paid was allowed for a period of seven years.  This will still continue, and these grant-aided houses do not therefore come within the present Bill.  Neither do houses which under the Housing (Gaeltacht) Act, 1929, have got relief from rates for 20 years.  The remaining classes that do not come within that definition of residences for the purposes of the Bill are houses erected under the Housing of the Working Classes Acts and Labourers Acts.</P>
+    </Speaker>
+    <Speaker pid="ErnestEdmondsonBenso" hpid="Mr. Benson Mr. Benson">
+      <NameTxt>Mr. Benson</NameTxt>
+      <P>Under Section 2 (3) does the levying of rates by local authorities cover all money raised by rates for whatever purpose?  If so, it includes unemployment assistance, a question <Col N="1054" /> that has been discussed at some length, and which I do not propose to go into now.  I ask the Minister to consider seriously that whatever case might be made for the benefits which new buildings may eventually give local authorities, and therefore encourage them to do without a certain amount of rates from these buildings for a period, there is no such argument in saying that on new buildings a local authority may levy only one-third of the amount they have to collect for the Government for unemployment assistance, while the rest of the ratepayers have not only to pay their own contribution but, in addition, two-thirds on all new buildings.  In this case the local authorities get no benefit whatever from the fund.  They are merely acting as a collecting agency for the Government.  The Minister should consider whether that section should not be amended, by allowing unemployment assistance to be levied on the full value, and not on the reduced value as is suggested by the Bill.</P>
+    </Speaker>
+    <Speaker pid="RichardCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Will this Bill affect houses built by local authorities?  I have in mind the case of a local authority that built what might be described as better-class houses, on which no subsidy was given, and which were sold on the hire-purchase system. I think that should be encouraged, and that this Bill should apply to such cases.  No subsidy was given by the local authority or by the Government. People of that class should be encouraged to buy their houses.  The case I am referring to is one where they did that, and I consider they should get the same consideration as other people got.  I am not referring to houses that are let in the ordinary way at a rent, and on which the local authority got a subsidy, but to houses that were sold at the economic value on the hire-purchase system.  Some consideration should be given to such people.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I will consider that matter, but I do not think it would come under this Bill.</P>
+    </Speaker>
+    <Speaker pid="RichardCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>There will not be many cases of the kind.  I think they should get every encouragement.</P>
+    </Speaker>
+    <Col N="1055" />
+    <Speaker pid="" hpid="Mr. A. Byrne Mr. A. Byrne">
+      <NameTxt>Mr. A. Byrne</NameTxt>
+      <P>Will the Minister reply to the question asked by Deputy Benson?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I told the Deputy that I would consider the matter.  I do not think, however, that this is the right Bill for that.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>When will the opportunity arise for dealing with Deputy Benson's point?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>On the Committee Stage of this Bill.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee Stage ordered for Wednesday, 10th April, 1940.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Enforcement of Court Orders" RHead="Bill, 1940&mdash;Second Stage">
+    <Title>Enforcement of Court Orders Bill, 1940&mdash;Second Stage.</Title>
+    <Speaker pid="GeraldBoland" hpid="Minister for Justice (Mr. Boland) Gerald Boland">
+      <NameTxt>Minister for Justice (Mr. Boland)</NameTxt>
+      <P>I move that the Bill be now read a Second Time.  The objects of the Bill are to make certain amendments of the law relating to instalment orders, maintenance orders, and affiliation orders, and to provide for the release in proper cases of persons imprisoned for non-payment of debt.  An explanatory memorandum has been circulated with the Bill, and perhaps all I need do at this stage is to refer to what I think are the three principal defects in the existing law which the Bill is intended to remedy.  The first is that under the existing law arrears of weekly sums due under maintenance orders and affiliation orders have to be sued for in the same way as ordinary civil debts. This is an expensive and cumbersome procedure, and I understand that women who obtain maintenance orders and affiliation orders often make no attempt to enforce them when they discover the difficulties involved.  As will be seen, in the Bill we are providing that a person against whom an instalment has been made can be brought up for examination.  If a satisfactory explanation is not given, he may be committed to prison for three months. If he can show that he is not in a position to pay the instalment, it can be varied.  The court will decide that question.</P>
+    </Speaker>
+    <P>The second defect in the present law is that when a man is imprisoned under <Col N="1056" /> Section 18 of the Enforcement of Court Orders Act, 1926, for failure to pay an instalment of a debt, he cannot be released before the expiry of the period for which he is committed unless he pays the whole debt.  Payment of the instalment in respect of which he is committed is not sufficient.  I think that that is not right.  We want to remedy the law there so as to provide that if the person pays the instalment of the debt that has accrued due, he may be released.  There is no power to do that at present.</P>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>You want to release him?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>To have power in a proper case.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>What would be a proper case?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>It will have to be inquired into to see if it is a proper case. There are cases where even the creditor has said that it is a hard case.  A man is committed for non-payment of, say, £5 per month, or something like that.  He allows the instalments to accumulate until there is a committal order made, and the man is sent to prison.  As the law stands at present, he would have to pay the whole of the debt or he could not be released until the period for which he has been imprisoned has expired.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>Has he to pay the whole debt?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I am advised that it is necessary for him to pay the whole of the debt&mdash;payment of the instalment will not do.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>What machinery does the Minister propose to deal with that?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>The Minister may release him.  He first consults the justice. Section 9 (1) says:</P>
+    </Speaker>
+    <P>(1)  Where a person is in prison in pursuance of an order of a court made on account of the failure of such person to pay a sum of money, the Minister for Justice may, at any <Col N="1057" /> time and for any reason which appears to him sufficient, direct that such person shall be released either (as the said Minister shall think proper) forthwith or after payment of a specified part of the said sum of money.</P>
+    <P>Sub-section (3) of that section provides:</P>
+    <P>(3)  The Minister for Justice shall not direct under this section the release from prison of a person until or unless either the said Minister has consulted the Judge or Justice by whom the order for the imprisonment of such person was made as to the propriety of such release or the said Minister is satisfied that such consultation is impracticable in the circumstances.</P>
+    <P>I think that will make the law more satisfactory than it is at present.</P>
+    <P>The third defect is that there does not appear to be any clear authority for the release of a person imprisoned for non-payment of debt, even in a case where the creditor asks for the release, or in a case where, for health reasons, it is undesirable that the debtor should be detained in prison. These are the main changes which are being made.  I do not propose to take the Committee Stage until the end of next month, say the 24th April, or longer.  We want to make the law as satisfactory as possible in cases of this kind, and I invite Deputies to put down any amendments which they may think necessary.</P>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>The Minister's desire to amend the present law seems very reasonable from what he said.  But it is very questionable if the way he proposes to make the amendment is so desirable.  With regard to affiliation orders, it is quite possible, and I think probable, as a rule that these orders are not being enforced because the person who is entitled to the money finds the machinery too expensive or too difficult.  Perhaps the Minister could find some better way than having the man brought up for examination. After all, we have collected the land annuities on the basis of the sheriff sending out notices, and we have made that very simple.  Perhaps in this case something similar could be done.</P>
+    </Speaker>
+    <P>
+      <Col N="1058" /> With regard to the releasing of prisoners, I am not at all enamoured with the machinery which the Minister proposes to set up.  Persons may be in jail under a court order, and if the Minister says that at the moment the Act is so straightly drawn that a man cannot be released even though it is desirable that he should be released, something ought to be done to amend it.  But that the Minister himself should have the power to do that does not appear to be equitable.  The fact that the Minister must consult the justice does not appear to me to be a safeguard at all.  If the Minister consults the justice, and if it is the Minister's wish to release the person, he will probably be released, and that will be the end of it.  Perhaps the Minister could find some way whereby such a person would be brought before a court.  Why should he not be brought before a court?  Is there not plenty of machinery to bring him before a court?  Why should not a man whom the Minister thinks it is desirable to have released be brought before a court, and the Minister put up his case there, or someone for him?  There ought to be some machinery found in that way to meet that case.  I do not think it is desirable that the Minister should have the last word or the only word as to whether a man should or should not be released, because I am afraid, if it did not lead to abuse it would certainly lead to suspicion.</P>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>Perhaps the Deputy is not aware that that has been the practice in all cases.  I am not saying that that makes it any better.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>I am afraid we are at sixes and sevens about the matter. Whatever the Minister is suggesting as a remedy is not what he said.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I mean that in an ordinary case of imprisonment, quite apart from this case of debt, the Minister is the person who can do it.  He has not the power in this case.  I do not think the Deputy is aware of that.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Brennan Mr. Brennan">
+      <NameTxt>Mr. Brennan</NameTxt>
+      <P>They are different matters altogether.  This is a matter of money&mdash;a matter of debts.  I do not think that the Minister should set himself <Col N="1059" /> up as a judge in that case.  It would not be wise for him to do so. The thing would be open to suspicion on every occasion.  The Minister should devise some machinery whereby the man could be marched back to court for some kind of examination and then released.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>On that point, I have an open mind.  I shall consider any proposal designed to improve the Bill. No Minister wants to take any power in a matter of this kind that he can avoid taking.  Between now and the Committee Stage, I shall have the matter considered.  I invite any Deputy who thinks he can improve the Bill to put down amendments for consideration in Committee.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee stage ordered for 24th April.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Dáil">
+    <Title>Business of Dáil.</Title>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I understand that the leader of the Opposition desires to put a question to the Minister.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I should like to put two questions to the Minister.  I should like to know, in the first place, <Col N="1060" /> the approximate date of the introduction of the Budget.  The second matter on which I should like information concerns an Emergency Order, issued under the Minister's name, authorising the Guards to stop cars and, furthermore, authorising them to use firearms for that purpose.  My opinion is that the Minister has not got that power and, if he has not the power, he cannot pass it on.  The use of firearms by any servant of the State is a very serious matter and; in view of the fact that the Minister has not got the power to authorise the use of firearms, he cannot issue such a power to the Guards.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>The question has only been put into my hands now.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>If I had heard of it in time, I would have raised it on Friday last.  I do not want an immediate answer.  I simply put it to the Minister as a serious matter.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Perhaps the Deputy would be satisfied if the Minister would communicate with him later on the matter?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I shall do that.</P>
+      <P>The Dáil adjourned at 4.25 p.m. until Wednesday, 10th April, at 3 p.m.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="28" Month="Apr" Year="1965" Vol="58" No="16" DateIrish="Dé Céadaoin, 28 Aibreán 1965" DateEnglish="Wednesday, 28 April 1965" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1301">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1301" /> Do chuaigh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Nomination and Appointment of the Taoiseach and Members of" RHead="the Government: Appointment of Parliamentary Secretaries">
+    <Title>Nomination and Appointment of the Taoiseach and Members of the Government: Appointment of Parliamentary Secretaries.</Title>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Sula gcromfar ar Orduithe an Lae, tá orm na nithe seo a leanas a chraoladh:&mdash;</P>
+      <P>Fuair mé litreacha dar dáta an 21 Aibreán, 1965, ó Rúnaí Roinn an Taoisigh agus ó Rúnaí an Rialtais ag cur ainmniú agus ceapadh an Taoisigh agus comhaltaí an Rialtais agus ceapadh Rúnaithe Parlaiminte in iúl dom.</P>
+    </Speaker>
+    <P>
+      <Col N="1302" /> Tá treoracha tugtha agam cóipeanna de na litreacha a leagan amach <i>in extenso</i> ar an ngnáthmhodh i gCin Lae an Tí.  De dhroim an chraolta seo, clófar iad freisin i dTuairisc Oifigiúil na nDíospóireachtaí.</P>
+    <P>Before entering on the Orders of the Day, I have to make an announcement as follows:&mdash;</P>
+    <P>I have received letters dated 21st April, 1965, from the Secretary to the Department of the Taoiseach and from the Secretary to the Government informing me of the nomination and appointment of the Taoiseach and members of the Government and of the appointment of Parliamentary Secretaries.</P>
+    <P>I have given directions to have copies of the letters referred to set out <i>in extenso</i> in the usual manner in the Journal of the House.  Consequent on this announcement, they will also be printed in the Official Report of the Debates.</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Fuarthas ón Rúnaí Roinn an Taoisigh an litir seo a leanas:&mdash;</entry>
+            <entry rowsep="1">The following letter was received from the Secretary to the Department of the Taoiseach:&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">S.17805.</entry>
+            <entry rowsep="1">ROINN AN TAOISIGH,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>(Department of the Taoiseach),</entry>
+          </row>
+          <row>
+            <entry>BAILE ÁTHA CLIATH 2.</entry>
+          </row>
+          <row>
+            <entry>Dublin 2.</entry>
+          </row>
+          <row>
+            <entry>21 Aibreán, 1965.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Cléireach an tSeanaid.</P>
+    <P>Tá orm a chur in iúl duit go bhfuil</P>
+    <P>(1)  an tUachtarán, ar ainmniú Dháil Éireann, tar éis Seán F. Lemass a cheapadh inniu, de bhun Airteagal 13.1.1º den Bhunreacht, chun bheith ina Thaoiseach;</P>
+    <P>(2)  an tUachtarán, ar ainmniú an Taoisigh, le comhaontú Dháil Éireann roimh ré, tar éis na daoine seo a leanas a cheapadh inniu, de bhun Airteagal 13.1.2º den Bhunreacht, chun bheith ina gcomhaltaí den Rialtas agus chun bheith, i dteannta an Taoisigh, ina Rialtas:&mdash;</P>
+    <P>Proinsias Mac Aogáin,</P>
+    <P>Erskine Childers,</P>
+    <P>Seán Ó Loinsigh,</P>
+    <P>Niall Bléine,</P>
+    <P>Caoimhghín Ó Beoláin,</P>
+    <P>Micheál Ó Móráin,</P>
+    <P>Micheál Hilliard,</P>
+    <P>Pádraig Ó hIrighile,</P>
+    <P>Cathal Ó hEochaidh,</P>
+    <P>Brian Ó Luineacháin,</P>
+    <P>Seosamh Ó Braonáin,</P>
+    <P>Donnchadh Ó Máille</P>
+    <P>agus</P>
+    <P>Seoirse Ó Colla;</P>
+    <P>(3)  an Taoiseach tar éis Proinsias Mac Aogáin a ainmniú, de bhun Airteagal 28.6.1º den Bhunreacht, chun bheith ina Thánaiste; agus</P>
+    <P>(4)  an Taoiseach, i bhfeidhmiú na cumhachta a thugtar dó le halt 4(1) den Acht Airí agus Rúnaithe (Leasú), 1946, tar éis na Ranna Stáit seo a leanas a shannadh inniu do na comhaltaí faoi seach den Rialtas a luaitear a n-ainmneacha os coinne ainmneacha na Ranna:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+              <Col N="1303" />
+              <Col N="1304" />An Roinn Gnóthaí Eachtracha</entry>
+            <entry rowsep="1">Proinsias Mac Aogáin,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>An Roinn Iompair agus Cumhachta</entry>
+            <entry>Erskine Childers,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Airgeadais</entry>
+            <entry>Seán Ó Loinsigh,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Rialtais Áitiúil</entry>
+            <entry>Niall Bléine,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Leasa Shóisialaigh</entry>
+            <entry>Caoimhghín Ó Beoláin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Tailte agus Roinn na</entry>
+            <entry>Micheál Ó Móráin,</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">Gaeltachta</entry>
+          </row>
+          <row>
+            <entry>An Roinn Cosanta</entry>
+            <entry>Micheál Hilliard,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Tionscail agus Tráchtála</entry>
+            <entry>Pádraig Ó hIrighile,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Talmhaíochta</entry>
+            <entry>Cathal Ó hEochaidh,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Dlí agus Cirt</entry>
+            <entry>Briain Ó Luineacháin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Poist agus Telegrafa</entry>
+            <entry>Seosamh Ó Braonáin,</entry>
+          </row>
+          <row>
+            <entry>An Roinn Sláinte</entry>
+            <entry>Donnchadh Ó Máille agus</entry>
+          </row>
+          <row>
+            <entry>An Roinn Oideachais</entry>
+            <entry>Seoirse Ó Colla.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>(Sínithe) N.G. Ó NUALLÁIN,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Rúnaí.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Fuarthas ó Rúnaí an Rialtais an litir seo a leanas:&mdash;</entry>
+            <entry rowsep="1">The following letter was received from the Secretary to the Government:&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">S.17805.</entry>
+            <entry rowsep="1">ROINN AN TAOISIGH,</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>(Department of the Taoiseach),</entry>
+          </row>
+          <row>
+            <entry>BAILE ÁTHA CLIATH 2.</entry>
+          </row>
+          <row>
+            <entry>Dublin 2.</entry>
+          </row>
+          <row>
+            <entry>21 Aibreán, 1965.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Cléireach an tSeanaid.</P>
+    <P>Tá orm a chur in iúl duit go bhfuil an Rialtas, ar ainmniú an Taoisigh, tar éis gach duine faoi leith acu seo a leanas a cheapadh inniu chun oifig an Rúnaí Parlaiminte a luaitear os coinne a ainm, le héifeacht i ngach cás ón 22 Aibreán, 1965:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Micheál Mac Cárthaigh, T.D.,<br />(Michael Carty, T.D.)</entry>
+            <entry rowsep="1">Rúnaí Parlaiminte an Taoisigh agus an Aire Cosanta;</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Seán Ó Flannagáin, T.D.,<br />(Seán Flanagan, T.D.)</entry>
+            <entry>Rúnaí Parlaiminte an Aire Tionscail agus Tráchtála;</entry>
+          </row>
+          <row>
+            <entry>Pádraig Ó Braonáin, T.D.,<br />(Paudge Brennan, T.D.)</entry>
+            <entry>Rúnaí Parlaiminte an Aire Rialtais Áitiúil;</entry>
+          </row>
+          <row>
+            <entry>Séamus Mac Giobúin, T.D.,<br />(James Gibbons, T.D.)</entry>
+            <entry>Rúnaí Parlaiminte an Aire Airgeadais.</entry>
+          </row>
+          <row>
+            <entry>Pádraig Ó Fachtna, T.D.,<br />(Pádraig Faulkner, T.D.)</entry>
+            <entry>Rúnaí Parlaiminte Aire na Gaeltachta;</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">agus</entry>
+          </row>
+          <row>
+            <entry>Pádraig Ó Leathlobhair, T.D.,<br />(Patrick Joseph Lalor, T.D.)</entry>
+            <entry>Rúnaí Parlaiminte an Aire Talmhaíochta.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>(Sínithe) N.G.Ó NUALLÁIN,</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>Rúnaí an Rialtais.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Members Elected" RHead="to Dáil Éireann">
+    <Title>Members Elected to Dáil Éireann.</Title>
+    <Col N="1305" />
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Tá orm freisin a chur in iúl don Teach gur toghadh na comhaltaí seo a leanas ina gcomhaltaí de Dháil Éireann agus, dá réir sin tá éirithe acu as a n-ionaid i Seanad Éireann:&mdash;</P>
+      <P>Tomás Mac Giolla Phádraig,</P>
+      <P>Aguistín Ó hÉaluighthe,</P>
+      <P>Gearóid Stráinse,</P>
+      <P>Pádraig Mac Loingsigh,</P>
+      <P>Tomás Ó Nualláin.</P>
+      <P>I have also to acquaint the House that the following members have been elected members of Dáil Éireann and accordingly they vacate their seats in Seanad Éireann:&mdash;</P>
+      <P>Thomas J. Fitzpatrick,</P>
+      <P>Augustine A. Healy,</P>
+      <P>Gerald L'Estrange,</P>
+      <P>Patrick J. Lindsay,</P>
+      <P>Thomas Nolan.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>No. 1 on the Order Paper.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>Is there any possibility of finishing the motion on education?  We have the Minister&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>We have not got the Minister: that is the point.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>It is a most unsatisfactory situation to leave education hanging in mid-air.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>There is no possibility of finishing it this evening, anyhow.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>Is there any possibility of finishing it this session?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>One motion asks that the Minister will make a statement; he made one.  Another motion asks that more money be spent on secondary education; it is being spent. What more does the Senator want?</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>I have the right to reply and to say that the consultation the Minister alleges took place with the University did not take place.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Your election address is printed now.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Mines and Quarries Bill, 1964&mdash;" RHead="Committee and Final Stages">
+    <Title>Mines and Quarries Bill, 1964&mdash; Committee and Final Stages.</Title>
+    <P>
+      <Col N="1306" /> Sections 1 and 2 agreed to.</P>
+    <P Just="Center">SECTION 3.</P>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Before I come to the substance of the amendment, one of the definitions in the Bill is that &ldquo;the Minister&rdquo; means the Minister for Industry and Commerce.  The particular meaning of &ldquo;Minister for Industry and Commerce&rdquo; has changed since the Second Reading.  I should like to welcome Dr. Hillery on his first occasion here as Minister for Industry and Commerce and to wish him well in his relations with this House in the discharge of his duties.</P>
+      <P>I move amendment No. 1:</P>
+      <P>In subsection (3), line 33, after &ldquo;on&rdquo; to add: &ldquo;otherwise than for the purpose of the working of the mine or quarry&rdquo;.</P>
+      <P>The purpose of this amendment is to clarify the position in regard to operations which are carried on at a mine or a quarry and in regard to which there might be some doubt as to whether they should properly be covered by the Mines and Quarries Bill or by the Factories Act.  The position is that, as the section stands, works on manufacturing are excluded through this particular Bill, they being covered by the Factories Act.  The form of amendment which I have put down would amend subsection (3) of section 3 in order to bring certain operations within the scope of this Bill, namely, operations which might otherwise be thought as purely manufacturing operations.  However, where the manufacturing of certain articles for the purpose of mining is concerned, it might be much better to lead to a unified code in regard to mines and quarries if these particular things were clearly under the Mines and Quarries Bill rather than under the factory code. I should be obliged if the Minister would give us his views on the position as it would be under the section as it stands and under the section as amended.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Minister for Industry and Commerce (Dr. Hillery) Patrick J. Hillery">
+      <NameTxt>Minister for Industry and Commerce (Dr. Hillery)</NameTxt>
+      <P>I think the amendment might not be necessary because of the <Col N="1307" /> words &ldquo;subject thereto&rdquo; in line 32 which bring in any procedures ancillary to the processing of mines.  It does what the Senator wants.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I see.  The Minister, then, is quite satisfied that the inclusion of the words &ldquo;subject thereto&rdquo; gives the clarification which the amendment looks for?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I withdraw the amendment in that case.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Sections 3 and 4 agreed to.</P>
+      <P Just="Center">SECTION 5.</P>
+      <P>Government amendment No. 2:</P>
+      <P>In subsection (1), page 9, to delete line 53 and in page 10, to delete lines 1 to 5.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>This is only a matter of deleting an interpretation contained in the subsection.  It was used at an early stage in drafting but was subsequently removed.  It is just a matter of deleting something which perhaps should have been deleted earlier.</P>
+      <P>Amendment agreed to.</P>
+      <P>Question proposed: &ldquo;That section 5, as amended, stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>The section deals with certain definitions and it is largely parallel with the corresponding section of the British Act of 1954, section 182. However, there are certain differences on which I should like clarification. There is a definition of &ldquo;parent&rdquo; on page 10, line 16.  The first question I should like to ask is quite a minor one. In the drafting of the section, &ldquo;parent&rdquo; is defined as the person with whom the child is living.  My question is whether it is clear that this defines a specific individual in a case where the child is living with both parents.  Are both parents covered by the definition?  If they are, is there any doubt as to which parent should act?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It means primarily the person having legal custody and in the <Col N="1308" /> absence of that person, an individual with whom the child is living.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Which of the parents would have the legal custody?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>This is a matter of law and I do not know the law on it.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Presumably it is the father.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I assume it is the father.  Up to now either parent had inalienable rights in dealing with children.  I assume the father would be regarded as the legal guardian.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>In a case where a child was living with a couple but where he is not legally adopted &mdash; it does not arise if he is &mdash; could the Minister say that no difficulty would arise as to the specific one person involved?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think so.  The words &ldquo;having actual custody&rdquo; are used and refer to the person with whom the child is living.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>The wording is different from the corresponding provision in the British Act and I take it there was good reason for the variation. The definition in the British Act proposes the idea of the person who is receiving a direct benefit from the wages of the young person employed in the mine or quarry.  I am perfectly satisfied with the Minister's assurance on the point.  One other point involves the use of the word &ldquo;prescribed&rdquo;. What is its meaning in this context? Does it mean prescribed under this Act or prescribed under any other Act?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>By regulation made under this Act.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 6 and 7 agreed to.</P>
+      <P Just="Center">SECTION 8.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 3:</P>
+      <P>In page 11, line 51, to delete &ldquo;(other than a special regulation)&rdquo;.</P>
+    </Speaker>
+    <P>The position under section 8 is that the regulations made under the Bill <Col N="1309" /> shall be laid before each House of the Oireachtas.  However, it is provided in section 8 that special regulations need not be laid before each House of the Oireachtas.  The special regulations to be made under this section are regulations which do not apply to all the mines or all the quarries of a particular class.  There is a reasonable case that these regulations should not be laid before the Houses of the Oireachtas, that a regulation which might apply only to some minor matter involving some small mine is not a matter which should properly become the concern of both Houses.</P>
+    <P>Nevertheless, is there not some small danger here in completely excluding all special regulations?  It may well be that if the Minister made a special regulation under the Act which did not cover all mines or all quarries of a particular type, nevertheless it might cover a very large majority of mines and quarries.  He might make special regulations in respect of three-quarters of the mines or quarries of a particular type and would thereby be laying down regulations covering the greater part of the industry.  The reason I put down the amendment is to point out that we may be drawing the line a little hard and a little too far away from parliamentary review of the regulations by excluding all special regulations.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>A special regulation is a regulation applicable to one mine or quarry only, so there would have to be a series of special regulations to bring about the effect the Senator mentioned. As the Senator says, it would be a bit much to ask that both Houses of the Oireachtas should have a copy of every special regulation.  There is a wide arrangement for consultation and, as the Senator knows, every application must be accompanied by a draft, and the Minister must give notice to the person affected of his intention to make the regulation.  He must also make arrangements for the provision of copies of the draft and for facilities for lodging objections.  He must consider objections which are made, and if an objection is made by the owner of a mine or a quarry, there must be an inquiry, so <Col N="1310" /> clearly there is a wide arrangement for full inquiry and consultation.  It is hardly necessary to put in the amendment which the Senator suggests.  Again we go back to the fact that the special regulation applies to one mine.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>The Minister appreciates that the necessity for coming to the Dáil and the Seanad could be circumvented by making a series of special regulations.  If a Member of either House thought a special regulation should properly come before the House, I wonder could the Minister give an undertaking that he would be prepared to deal with it expeditiously.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>If the Senator feels strongly that there is any danger that the Minister would use the device of having a series of special regulations made to cover an area of policy rather than an individual mine, I think the amendment could be accepted, but I do not think there is any such danger.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I must say I would feel happier if the amendment could be accepted.</P>
+      <P>Amendment put and agreed to.</P>
+      <P>Section 8, as amended, agreed to.</P>
+      <P>Sections 9 and 10 agreed to.</P>
+      <P Just="Center">SECTION 11.</P>
+      <P>Question proposed: &ldquo;That section 11 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Section 11 provides for the carrying into operation, on the coming into force of the new Act, of certain provisions in previous Acts, which will be repealed on the commencement of the new Act.  I should like to ask the Minister how does he intend to implement the new Act.  Apparently the position is that on the commencement of the new Act all the regulations now in force in regard to mines and quarries, will become regulations prescribed under the new Act.  We would then have all the regulations coming into force, and they would not have had the benefit of the procedure outlined in the Second <Col N="1311" /> Schedule.  There is a very excellent procedure outlined in the Second Schedule for proper review, and for submissions by all interested parties. In regard to the new procedures, is it intended to have any review, any consultation, and to take advice from interested bodies before the commencement of the new Act, or does the Minister intend to bring in all the existing regulations holus-bolus in their present form?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is essential that all the existing regulations should come into force at once or there would be a gap.  I should imagine that after that certain repeals would be considered.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>There will be a period during which the Act will be in force and the old regulations will be in force.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>To prevent a gap.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>The only other point I should like to raise is the question of the great necessity for an informative publication of what precisely the position is when the new Act comes into operation. This is a complex and rather technical measure.  It is difficult to study it and to find out what exactly it means.  I had great difficulty when I was attempting to study it in finding out the position in regard to mines and quarries legislation.  As soon as this Bill comes into force all the regulations will be regulations under the Act.  I think it is highly desirable that there should be a digest of information and a summary of the position under the Act.  In Britain the position in regard to the Mines and Quarries Act, 1954, is very clear.  Actually there are four volumes which give an explanation of the mines and quarries code.  I think we might well follow suit, perhaps not in such detail, but I think a volume should be issued of the new code for mines and quarries which would cover the statutory position and also the regulations.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I shall note the suggestion made by the Senator.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <P Just="Center">
+      <Col N="1312" /> SECTION 12</P>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 4:</P>
+      <P>In subsection (1), line 38, to delete &ldquo;planned, laid out&rdquo;.</P>
+      <P>I put down this amendment because as the section now reads it mentions the duty of the owner to secure that the mine or quarry &ldquo;is planned, laid out, managed and worked...&rdquo; I was a little worried that there might be a danger of ambiguity as the section is drafted.  It is drafted as if the words &ldquo;planned&rdquo; and &ldquo;managed&rdquo; were mutually exclusive terms.  I do not think that this is so, and I think it might be well if we could distinguish between planning which is done before the mine is in operation and planning done after the mine comes into operation. It seems to me that planning and laying out done after a mine comes into operation is part of the managing function, and as the part of the managing function should be reserved to the qualified manager appointed under section 13.  As the section stands, there might be some doubt as to the powers of management which are delegated to the qualified manager.  The manager must be qualified; the owner need not be.  If we leave the power of planning to the owner, who need not be a qualified person, there is a danger that a dispute could arise.  It might have to be determined in court whether or not a certain operation after the mine has started to produce was a function of planning or a function of management.  The purpose of the amendment is to clear that point.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not see the ambiguity.  I imagine the owner has an overall responsibility for everything to do with the mine.  The manager has prescribed responsibilities under the owner.  I do not see that there can be ambiguity in respect of responsibility.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>My worry is that there is no doubt that any planning done in advance of the working of the mine before operations start is properly the preserve of the owner.  There is no doubt about that.  What I am worried about is, after a mine has started to operate there might be certain <Col N="1313" /> functions and there could be doubt as to whether these were planning for the continued operation of the mine or management.  A question arises as to whether the owner can intervene over the head of the qualified manager on matters which could be held as planning, since they were long term rather than managing, which might be held to be the day to day operation of the mine.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>This section covers the original lay-out of the mine.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>That is my reading of it too.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Another section would place the responsibility of planning changes in the mine.  There is provision in the Bill for the Minister's inspectors to see after faulty planning. I do not think in actual operation there can be ambiguity.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>In the hope that planning will be interpreted as advance planning, in which case no ambiguity would arise, I withdraw the amendment.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section 12 agreed to.</P>
+      <P Just="Center">SECTION 13.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Amendments Nos. 5 and 8 will be taken together. They are cognate.  There can be separate decisions if necessary but the two can be taken together for discussion.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 5:</P>
+      <P>In subsection (1), line 4, to delete &ldquo;(if any)&rdquo;.</P>
+    </Speaker>
+    <P>I shall make a case first in regard to the amendment to section 13.  Subsection (1) of section 13 reads: &ldquo;...no mine shall be worked unless there is a sole manager of the mine, being an individual duly appointed and having such qualifications (if any) as are required under this Part&rdquo;.  There is no doubt that the whole spirit of the Bill is that there should be more close control over the particular qualifications which the manager of a mine should have.  I do not know if there <Col N="1314" /> will be any difficulties on the commencement of the Act in regard to this &mdash; that regulations have not been made.  If there were any difficulty of that sort, I think it is very undesirable that it should be left open as it is now open under this subsection, that there would be no regulations in regard to the qualifications of managers.</P>
+    <P>The whole spirit of this particular Bill is that managers must be highly qualified persons.  I know the parliamentary draftsman likes to leave a number of loopholes of this sort by putting in &ldquo;if any&rdquo;?  but I think it would be a most reprehensible position if at any period this Bill were in force as an Act and there were no regulations in regard to the qualifications of mine managers.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>In section 15 it is specified that qualifications are required only in places where fourteen persons work underground.  You can have managers who have no academic qualifications or specified qualifications, but in all cases the Minister would require that they would be suitable persons from experience or otherwise. I think the amendment would go against the spirit of section 15 which provides that a mine manager must have qualifications only if more than fourteen persons are employed underground.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I appreciate that there will be, and there has been in the past, different degrees of qualifications for different types and sizes of mines.  It is absolutely reasonable that there should be different qualifications where more than fourteen people are employed than where there are fewer than fourteen people.  I think that is no reason why we should have a position that there is no one single regulation for the qualifications of a person who is going to manage a mine in which twelve people are employed.  I feel, even if there are only half a dozen people employed in a mine, there should be some regulation in this regard. There is no need for us to say that in a small mine a person should have a mining diploma or so many years of experience of mining underground.</P>
+    </Speaker>
+    <P>
+      <Col N="1315" /> I think it is entirely reasonable to say that no mine should be worked in this country unless there is some definition of what the qualification of the manager is.  We should not lose sight of the fact that we will probably find under the operation of this Bill that there may be more accidents and more danger in the smaller mines than in the larger ones.  For the protection of the workmen there should be some qualifications. The Minister has ample power under this Bill to differentiate between the qualifications for the different types and sizes of mines.  I feel it is setting an extremely bad headline if we leave this open.  There should be no class of mine for which there is no qualification.  In other words, an owner can employ anybody.  He can put in his unqualified and perhaps not too competent son as manager of a mine just because not more than fourteen people are employed.</P>
+    <Speaker pid="CorneliusDesmond" hpid="Mr. Desmond Mr. Desmond">
+      <NameTxt>Mr. Desmond</NameTxt>
+      <P>I should like to support Senator Dooge on this point. I think it is most important that the manager of a mine should be a fully qualified man.  The question of the number of men has never been specifact is it is a mine, a serious business, and as everybody knows all over the world where mines are operated the number of men have never been specified. I am surprised at the point made by the Minister regarding the small number of men involved.  The fact is it is a mine and men are underground and need to be protected.  We know the greater the number of men the greater the responsibility.  The principle is the same; there should be a qualified man performing a job of that kind.  In most jobs not so serious as this, management generally see that they get a qualified man to run the industry.  The first thing they do is see whether a man is qualified to do a particular job so that everything will go right.  For that reason, I think Senator Dooge has made a very important point.  It is a serious matter to allow a provision such as section 13 go through in the Bill in that way.  An owner might decide that he had not many men employed and it did not <Col N="1316" /> matter who his manager was.  The principle is the same, the dangers are the same and the reasons are the same why we should see that no risks are taken whether it involves one life or a thousand lives.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Surely the words &ldquo;if any&rdquo; are not required in the subsection. If no qualifications are prescribed, then there are no qualifications prescribed for the post.  Why should &ldquo;if any&rdquo; be prescribed?  Surely the word &ldquo;qualifications&rdquo; does not mean academic qualifications.  One might be qualified for a post by experience, by apprenticeship or other means.  I think if the Minister took out the words &ldquo;if any&rdquo; there would be no difference in the meaning.  If no qualifications are prescribed, then no qualifications are prescribed.  I cannot see any point in having the words &ldquo;(if any)&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not know if this amendment would achieve what Senator Dooge wants.  Section 15 brings in this question of 14 persons.  A mine employing more than 14 persons below ground requires the manager to have qualifications which may be prescribed. A mine smaller than that does not require these qualifications.  I do not consider the changing of the words &ldquo;(if any)&rdquo; would have any effect.  The point being raised might be raised on section 15.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I accept what the Minister says.  My reaction to the words &ldquo;(if any)&rdquo; is that they set an extremely bad headline.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is a logical follow-on to the conception that there will be mines where no qualifications are required because of their size.  I would point out that there are other parts of the Bill which give protection to the workers.  We could discuss this matter on section 15 and leave it as it is.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>What good are the words to the Minister?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>If you accept the section, &ldquo;(if any)&rdquo; comes in as a fact.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>I do not think so.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>If we let section 15 stand, then the two words &ldquo;(if any)&rdquo;<Col N="1317" /> must in fact go into this section because then there will be some mines for which qualifications are not required.  When discussing section 15, if we decide to go away from the figure of 14 persons, which is something inherited from existing legislation, and decide to change it, then we could take away those two words.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>The difficulty is that the House has to make up its mind whether or not to accept section 13 before section 15 is raised.  It would help us on this matter if the Minister would give some indication as to whether he is willing to consider the amendment on Report Stage on section 15 before we make up our minds on section 13.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I shall accept the Senator's amendment.  It means a change later on.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Thank you.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 6 not moved.</P>
+      <P>Question proposed: &ldquo;That section 13, as amended, stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Again, I am a little anxious about the position on the commencement of the Act, particularly in regard to the question of qualification. It may be that this is more appropriate to a later section but it is as well to raise the matter at the first available opportunity.  As I read the Bill before us, on the commencement of the operation of the Bill, the Act of 1911 will be withdrawn and the protection in regard to qualifications given under section 2 of that Act will no longer be available.  The Minister has already indicated that as he sees it the Bill will come into force and no new regulations will be made. Therefore, it looks as if there would be an interregnum during which the protection of section 2 of the 1911 Act would have been repealed and the special qualifications made by the procedure under this Act would not yet be in force.  There would therefore be between the period of commencement of the Act and the period of making regulations, in regard to qualifications, no statutory provisions in regard to qualifications of mine managers.</P>
+    </Speaker>
+    <Col N="1318" />
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The Act will be brought into operation by Ministerial Order and the regulations will be brought into operation at the same time.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This will meet the difficulty.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 14.</P>
+      <P>Question proposed: &ldquo;That section 14 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I should like to express welcome for the amendment which was introduced by the Minister during the proceedings in Dáil Éireann.  Every one of us will agree that the safety and health of workers should not be jeopardised in any way. This requires the necessity of employing qualified managers.  This was a most excellent amendment.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 15.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 7:</P>
+      <P>In line 22, before &ldquo;as&rdquo; to insert &ldquo;as were prescribed before the passing of this Act subject to such amendments, alterations or additions&rdquo;.</P>
+    </Speaker>
+    <P>This amendment is again to cover the transition period between the mines and quarries code which we have at the moment and the new code which we will have on the coming into operation of the regulations under the Bill. If this amendment were accepted, it would mean that the position would be that we would start off with the assurance that we had all the safeguards and all the necessary qualifications laid down which we had under the 1911 Act.  If there happened to be any interregnum between the passing of the Bill and the making of regulations, this amendment would provide that during the interregnum the qualifications which must be held by mining managers would be the qualifications of the repealed section of the 1911 Act.  It would also provide that these would remain in force until such time as they were either modified by extension <Col N="1319" /> or reduction in any respect.  This amendment would be an added safeguard in case the Minister finds himself unable to bring in the Act and the regulations on the same day.  It would also provide that during the interregnum we have the regulations under the 1911 Act carried out.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think this will arise.  We will not have an interregnum. I do not think, in general, the amendment would change the law very much. It is not intended to change the law. It is only intended to meet the interregnum and I do not think that question will arise because the Act is brought into force by order and control of the regulations is also brought into operation by order.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It is some months since I studied this Bill in detail.  What would happen if the Minister makes an order?  He could annul regulations by order by either House of the Oireachtas. Surely there would be an interregnum.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>An order will be operative immediately I make it but it could be annulled.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Surely the position would be that there would be no regulations until the new regulations were made?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I still do not think this is necessary.  If any of the regulations are annulled, they are annulled immediately. You cannot have two sets of regulations running side by side.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>My amendment states that until the new regulations are made, the regulations under the code prior to the commencement of the Act still hold.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>Senator Dooge is defeating his own argument.  If the regulations were made under this Act, then immediately previous regulations go out.  In other words, the regulations you are trying to bring in now will cancel the regulations already there on the commencement of this Act. <Col N="1320" /> Although the new regulations may be annulled by either House of the Oireachtas, you cannot do anything about it because they have already cancelled the regulations under the previous Act.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Surely if the regulations were brought before both Houses of the Oireachtas, it would have the added effect of amending the regulations which come in.  Then, if these are annulled by the Houses, surely their amending effect is annulled?  Surely their negative as well as their positive aspects are annulled?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Until regulations are made under this Bill, the regulations under former Acts continue to operate.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>But the statutory provisions in section 2 of the 1911 Act will be repealed.  The actual section of the statute will be repealed.  That is my worry.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Powers are taken in this Bill to continue the regulations.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>If the Minister is confident that the regulations can be made on the same day as the commencement of the new Act, these difficulties do not arise.  If the Minister is completely confident on that point, I shall withdraw the amendment.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I am sorry, I misled the House.  This Bill will not be brought into operation until regulations are made so that until the Bill comes into operation the regulations under older Acts continue to operate.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>If this is a completely positive intention&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I shall not bring this Bill into operation until regulations are made.  It might be that such regulations would be annulled by both Houses of the Oireachtas: it is unlikely. However, I do not know if it will protect&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>If the Minister is confident that they will come in on the same day, I shall withdraw the amendment.</P>
+    </Speaker>
+    <P>
+      <Col N="1321" /> Amendment, by leave, withdrawn.</P>
+    <P>Question proposed: &ldquo;That section 15 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Certain very definite qualifications are laid down under the 1911 Act.  The Minister is confident that he will make his regulations on the same day as the new Act comes into force and these would then be the regulations when the Act commences.  I should like if the Minister could give some indication as to what his policy will be, in the new regulations, in regard to qualification. It is tremendously important that any new regulations made under section 15, and any qualifications to which section 15 gives effect, should be not less stringent in any way than the regulations set up over 50 years ago under the 1911 Act.  I realise that the Minister has not had time to make up his mind about many matters of this sort. I must ask him if he is prepared to state now that the qualifications will be not less than those in force on the passing of the Act.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>There will be no reduction in the standard of the qualifications required.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I am very happy to have that assurance from the Minister.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 16 agreed to.</P>
+      <P Just="Center">SECTION 17.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 8:</P>
+      <P>In subsection (1), line 47, to delete &ldquo;(if any)&rdquo;.</P>
+      <P>In view of what happened to the previous amendment, I take it that &ldquo;(if any)&rdquo; will go the way of all flesh here also?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Yes, that would be logical.</P>
+      <P>Amendment agreed to.</P>
+      <P>Question proposed: &ldquo;That section 17, as amended, stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Col N="1322" />
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>There is one omission here&mdash;I thought it might be just as well to mention it&mdash;and that is the question in regard to deputies. There is provision I think somewhere in this code for the appointment of deputies.  Nowhere else do we find in the Bill any provision for the qualification of deputies.  What is the position in regard to that?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It seems to me that the same procedure would stand for a deputy&mdash;that a qualification would be prescribed for a deputy by the Minister.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I take it that these would be the same as the qualifications for managers?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Yes, the same as for the manager in that particular mine.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Yes, the same class of mine, the man he is replacing.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 18.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 9:</P>
+      <P>In subsection (1), to add a new paragraph as follows:</P>
+      <P>&ldquo;( ) the preparation of such plans, sections and other documents as may be required.&rdquo;</P>
+      <P>In this Bill, as it stands here at the moment, it seems to me that there is a presumption that no owner and no manager of a mine will employ a specialised surveyor.  In the Bill, the provision is that, in the event of the Minister's inspector not being satisfied with certain surveys and drawings, the Minister will appoint a surveyor.  No option, it seems, is given to the owner or manager of the mine to employ a surveyor on his own behalf.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>He is quite free to have the work done either by an expert or by a member of his staff.  The position is that the Minister can deal with faulty planning.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I am glad to have the Minister's assurance on this particular <Col N="1323" /> point.  Under section 18, the duties of different people are laid down.  There is no duty on the managers of mines to appoint surveyors because their operations are not covered by the various paragraphs here in section 18 which provides that the managers shall appoint people to secure this, that and the other.  It seems to me that there might well be some special provision whereby there is a duty to appoint surveyors.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It would restrict the manager of the mine too much, I think, to specify it.  The other appointments mentioned here are for safety reasons.  Faulty planning is dealt with under another section.  The managers of mines may appoint somebody on their own staff capable of dealing with this particular type of planning or some outside agency or expert.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It is probably covered by subsection (2), anyway.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think the manager should be restricted.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>My amendment, as drafted, puts a rather severe obligation on all managers and it might not be proper to do so.  With the permission of the House, therefore, I beg leave to withdraw the amendment.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question proposed: &ldquo;That section 18 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>There is provision here for under managers.  In the British Act under managers must be appointed in mines unless the inspector recommends this is not so.  It will be appreciated that there is not the same necessity for under managers in mines in Ireland because of the lesser scale of operations but it does seem that if we leave out altogether any mention of under managers some difficulties might arise. I raise the point in order to ascertain if the Minister is completely satisfied that no difficulties will arise in this connection.</P>
+    </Speaker>
+    <Col N="1324" />
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I mentioned that this would be covered by the heading &ldquo;such officials&rdquo;.  I do not foresee any difficulties arising.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 19.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 10:</P>
+      <P>In line 32, to delete &ldquo;his duties&rdquo; and substitute &ldquo;the duties of that person&rdquo;.</P>
+      <P>The section says:</P>
+      <P>It shall be the duty of the manager of every mine to ensure to the best of his ability that every person appointed by him in pursuance of this Act or of regulations understands the nature and scope of his duties.</P>
+      <P>I put down the amendment because I think there is a very real ambiguity. There are two people involved, the manager and the person appointed by the manager.  The final words of the section are &ldquo;his duties&rdquo;.  According to the rules of grammar as I learned them quite some time ago, &ldquo;his&rdquo; here refers to the person last named.  Section 19 in that sense would read that it shall be the duty of the manager of every mine to ensure to the best of his ability that every person appointed by him understands the nature and scope of the duties of the manager.  That is clear from an absolutely grammatical reading of the section.  My amendment has been tabled to remove that ambiguity.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The word &ldquo;person&rdquo; has been used previously.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I agree with the Minister but there is this ambiguity&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I am informed the parliamentary draftsmen are satisfied there is no ambiguity.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I hope they will not find themselves wrong.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Sometimes they do.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>There is no ambiguity as regards legal phraseology.</P>
+    </Speaker>
+    <Col N="1325" />
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>There could be sea lawyers in underground mines. However, if the Minister is happy with the parliamentary draftsmen's grammar&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I am happy with their meaning.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Sections 19 to 21, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 22.</P>
+      <P>Question proposed: &ldquo;That section 22 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I should like to refer here to the appointment of a surveyor. I am not quite sure how this would work out in practice.  The point at issue is that where plans were unsatisfactory the Minister's inspector could investigate.  The section gives the Minister power to appoint a surveyor to make a new plan or section.  Can I take it that in practice the Minister's inspector might make a recommendation to the manager?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It empowers the Minister to employ and it does not say to employ through a surveyor.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It says the Minister may appoint.  It does not give the mine manager freedom.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>He would be able to do it himself.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Therefore, the provisions of this section are provisions of the last resort.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Yes.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 23 to 31, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 32.</P>
+      <P>Question proposed: &ldquo;That section 32 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Section 32 deals with the means of ingress to and <Col N="1326" /> egress from mines.  On comparing this with the provisions of section 22 of the 1954 British Act, the provisions proposed by the Minister here appear to be somewhat more severe than those of a relatively recent Act in Britain.  It seems to me that the provisions here in this respect are a little too severe.  There is a statutory restriction which calls for the fact that there shall be at least two shafts of egress from every seam being worked. On the Second Stage I dwelt at some length on the particular position of mining in this country, on the fact that mining in Ireland very often consists of small seams.  There are many cases in this country where we have several small pits being worked in the same mine.  Under the British code as I read it, these very small pits are part of the same mine and could use a common exit.  However, it appears from this section that small pits, no matter how adjacent, must have separate exits.  Maybe I am reading this as being a little more severe than it actually is.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Subsection (7) provides for exemptions which would take the apparent severity out of the section.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I agree that that will meet it.  It is better to be severe and to give exemptions than to be lax at the beginning.  One other point on the section is the provision that will apply following the accidental closure of an exit.  The position under the section is that the manager is bound to maintain at least two outlets from every seam being worked.  What is the position of the manager in the event of the accidental closure of one?  There is no doubt that work must immediately cease but they have had a great deal of experience in Britain in this field and they are not particularly careless, yet they provide that the manager has discretion, if he posts special notices and sends notice to the Minister's inspector, to allow the shift to be worked out and safety workers to go underground for 24 hours.  This is a case in which special exemption might be made under subsection (7). It would be desirable in this case.</P>
+    </Speaker>
+    <Col N="1327" />
+    <Speaker pid="CorneliusDesmond" hpid="Mr. Desmond Mr. Desmond">
+      <NameTxt>Mr. Desmond</NameTxt>
+      <P>I referred to a similar difficulty earlier in cases where ten or more persons are employed at the same time.  If we have nine we are not compelled to provide two exits. My suggestion is that when there are fewer than ten men working they should not be permitted to work apart or at any great distance from the one exit.  Some distance should be laid down.  It could easily happen that a small number might be scattered and work apart.  It might only be one but there could be 20 or 30 working together and they need not be near an exit.  I am concerned with the principle. There is a great danger and a great risk where the management are free to have only one exit.  The principle appears to be wrong.  The manager is free to extend the area where they work.  Something may happen away from the exit and nine people, or the ten who are allowed under this Bill, may not be near the exit and can easily get lost.  I do not like to have that principle in the section, once it involves more than one, two or three people.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 33 agreed to.</P>
+      <P Just="Center">SECTION 34.</P>
+      <P>Question proposed: &ldquo;That section 34 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I rise on this section as a matter of pure curiosity. My question is: what on earth is the need for two subsections in section 34?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is a consolidating Bill.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It was duly consolidated in the United Kingdom in 1954 in precisely the same words, written in one subsection.  I admit this is curiosity concerning the ways of the parliamentary draftsman.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is the draftsman's way of doing it.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 35 agreed to.</P>
+    </Speaker>
+    <P Just="Center">
+      <Col N="1328" /> SECTION 36.</P>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 11:</P>
+      <P>Before subsection (4), page 21, to insert a new subsection as follows:</P>
+      <P>&ldquo;( ) Every road which is used at the beginning or end of a shift by not less than six persons shall be kept free from obstructions and the floor thereof shall be kept in good repair.&rdquo;</P>
+      <P>This is an important section.  It deals with the construction and maintenance of underground roads, and we all appreciate that is a matter of extreme importance.  Many things are prescribed which must be done by the manager in regard to underground roads, but there is no provision in this section under which such roads must be kept clear and free from obstruction.  There should be a definite obligation, not only that the roads should be properly constructed, but that they should be kept clear and not obstructed by equipment, by dumped materials, or by anything else.  I think it necessary that this obligation should be inserted in the section.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I accept that.</P>
+      <P>Amendment agreed to.</P>
+      <P>Section 36, as amended, agreed to.</P>
+      <P Just="Center">SECTION 37.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Section 37 deals with height and width of travelling roads.  I mentioned on Second Stage that in all probability the position will be that whereas in this instance we are being absolutely specific in regard to what is required, in that a certain height is mentioned, almost inevitably every coalmine in the country will seek exemption from this section.  In subsection (2) the height of five feet six inches is prescribed but that will be almost impossible of fulfilment in the various coalmines.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think the Senator spoke on the amendment.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I was talking on the section.  I move amendment No. 12:</P>
+      <P>In subsection (3), line 24, before &ldquo;this&rdquo; to insert &ldquo;subsection (1) of&rdquo;.</P>
+    </Speaker>
+    <P>
+      <Col N="1329" /> Section 145 lays down the procedure in regard to certain notices which inspectors may serve.  This point was discussed on Second Stage.  Section 145 refers to occasions on which an inspector requires an owner or a manager of a mine to do something more than is specifically laid down by statute.  Where an inspector lets off an owner or a manager by giving an exemption, or by requiring something less, there is no need for this appeal procedure.  Under section 37, it seems to me that this is the only section where we can have an increase of standard, and any exemption given under subsection (2) is not an appropriate exemption for the procedure of section 145.  The point of the amendment is that unnecessarily elaborate procedure has been invoked in regard to exemptions under subsection (2).</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is unlikely that it will be used.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Elaborate procedure has been invoked which was a protection for the manager when an inspector asked him to do something particularly difficult.  This is the only place in the Bill where it applies to an exemption and not a requirement.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>What the Senator requires is that we apply it not where an appeal would be required, but where the situation represents an easement.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Throughout the Bill it has never been invoked where there is an easement.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I will accept that.</P>
+      <P>Amendment agreed to.</P>
+      <P>Question proposed: &ldquo;That section 37, as amended, stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I apologise for having dealt with the section before the amendment.  The point I made was that this is the one place in the Bill where we are imposing a regulation which I think will be virtually impossible of application to coalmines.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Provision has been made at an earlier stage for having <Col N="1330" /> another look at the requirements.  I think it was on Committee Stage in the other House.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I just wished to comment on it, in passing.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 38.</P>
+      <P>Question proposed: &ldquo;That section 38 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I should like to raise a point on which I might well have put down an amendment, but I forbore to do so because the list was becoming rather long.  As it stands, section 38 is identical with the similar provision in the United Kingdom code, but it omits subsection (2) of the corresponding section which allows a statutory defence to a manager or an owner, on the ground that the vehicles have been used on the roads for the sole purpose of repair, or in the case of sudden subsidence.  The position is that the statutory defences which are allowed in the United Kingdom are not allowed here, and I should like to ask the Minister is there any significance in their omission.  Does he agree it is reasonable that certain roads which would not be used during the time of normal mining should be used for the purpose of repair, or might need to be used in the case of sudden subsidence?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I have information on roofs and sides but not on subsidence of floors.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Subsidence of roofs would be involved.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I am not clear as to the point made by the Senator.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I raise this because on comparison I found a distinct difference between the section here and the corresponding section of the British code, in that a statutory defence which is allowed on a prosecution under this section in the British code has been omitted from this code.  It seems severe that we do not allow our mine manager in this country to use these <Col N="1331" /> particular roads for the purposes of repair.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Section 136 sets out the different defences.  That is probably the reason for not having it in this subsection. Section 136 is a blanket defence section.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It is a blanket all right but not thick enough to keep the manager warm.  The defence is that it was impracticable to define, or to avoid contravention.  Let us take the case for the purposes of repair, where a manager wishes to allow a particular vehicle to be run on a particular road which is relatively narrow. You have allowed him a defence.  He will contravene section 38 by doing this and the defence you allow him is that it would be impracticable to avoid it.  In Britain, he would be allowed the defence that if he used it not for the purposes of mining but for the purposes of sending in a man to repair, he is then allowed a proper defence.  It is a deliberate act on his part to do it for the purposes of repair. I feel that the blanket defence in section 136 is not quite sufficient and I think the code is rather severe on managers.  I would hope that this provision would not be invoked in practice by the Minister's inspectors, where certain things were done purely for the purposes of repairs.  As I have no amendment, I do not want to press it further.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 39 to 43, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 44.</P>
+      <P>Question proposed: &ldquo;That section 44 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>When this measure was being debated in Dáil Éireann, the Minister of the time undertook to consider a certain matter under subsection (2) of section 44.  I should be glad to know if the Minister has any statement to make on it.</P>
+    </Speaker>
+    <Col N="1332" />
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Could the Senator say what the Minister undertook to consider?</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I am very sorry, but my note just says that the Minister undertook to reconsider the matter. My memory is that it is a matter in regard to the ages of certain persons undertaking certain duties.  I think we could let the matter go, if the Minister has nothing on it.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>An amendment was inserted by the Dáil.  In subsection (3) of section 44, it says that an inspector may, on notice served by the manager of a mine, exempt any apparatus from subsection (2).</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This means an inspector could by notice actually remove the restriction on any people undertaking certain of these dangerous duties.  Is that the position under the amended section?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The amendment refers to an apparatus and also, of course, to the ages of the persons involved.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I think we could leave it to the good sense of the inspectors.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 45 to 48, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 49.</P>
+      <P>Question proposed: &ldquo;That section 49 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This section prescribes certain duties for the manager of a mine in regard to support of the mine.  Certain measures must be taken if there is any movement of the strata. I should like to ask the Minister whether this imposes an obligation on the person who is manager of an idle mine, or a person who would be manager of a mine, parts of which have been abandoned.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>What the Senator means is: if the mine ceases to be a working place, does responsibility devolve on the manager?  I think this question arises in the section relating <Col N="1333" /> to abandoned mines.  Part VII of the Bill says that owners must fence abandoned and disused mines.  It is a responsibility of owners of mines not being worked.  As the Senator knows, the Local Government (Sanitary Services) Act empowers the sanitary authorities to make dangerous places safe, places such as mine shafts and quarries, whether abandoned or not. I think what the Senator wants done is covered in both.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Part VII imposes the onus on the owner to fence an abandoned mine, but section 49 imposes a duty on a person who has been manager of a mine which became idle.  He has a duty to maintain the support within that mine.  There is the instance of a mine, part of which has been abandoned, where unless the manager's authority is revoked, he has a duty to maintain the support in this abandoned mine, or the abandoned parts of a mine.  I raise this particulary because there is no provision in this section for an inspector to give an exemption order.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think this would give rise to the point the Senator makes.  If a mine is abandoned, it is covered by Part VII which I have mentioned.  If there is an abandoned part of a working mine he has the responsibility to keep the working part of the mine safe and to ensure that the abandoned part would not endanger the working part in any way.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>My trouble is that section 49 does not make any distinction between a working mine and an abandoned mine or parts of a working mine which are abandoned.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Would the Senator like to achieve the situation where this was clearly stated as a working part?</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This could be achieved if the Minister's inspectors were given power to grant exemption from the duty of section 49.  The Minister's inspectors could give an exempting order for the abandoned part where they were satisfied that it did not endanger <Col N="1334" /> the working parts.  Unfortunately, there is no escape subsection.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The existence of disused mines would ensure that the responsibility to interfere was taken.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>My worry is that we are placing too great an onus on the managers.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Does the Senator want it stated clearly that this applies only to working mines when another part of the Bill deals with disused parts as a separate consideration?</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I have this anxiety naturally in examining the section. While I am looking at it in this way I feel this point is not clear.  When a point is not clear I feel it should be put beyond doubt.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Perhaps the Senator would feel it could be interpreted as referring to the security of workers. If there are no people in actual fact working there the security of the workers does not arise at all in abandoned mines.  I think the word &ldquo;secure&rdquo; would meet the Senator's point.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It is a minor point and I have no wish to press it.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The question of security in an abandoned shaft would hardly arise.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 50 to 63, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 64.</P>
+      <P>Question proposed: &ldquo;That section 64 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This section deals with the provision for lights and safety lighting in mines.  At the present moment this is not terribly important in regard to mining in this country because we do not have gassy mines here.  I am sure all of us hope that mining will expand as an industry and it may be that in future we will have to deal with the question of gassy <Col N="1335" /> mines.  Therefore, we should deal with this section as if it were equally as relevant as all others.  There is a provision here in regard to safety lamps and similar apparatus but the position is that there is no provision similar to the provision which occurs in the codes of other countries whereby it is an offence to interfere with safety lamps or lighting equipment of any type.  This is a matter of such prime importance in other countries that it is actually made an offence to damage, interfere or tamper in any way with safety lamps which are used in gassy mines.</P>
+      <P>During the Second Stage of the Bill there was some discussion as to whether mine managers should be given power to introduce certain regulations on their own or to be able to fine workmen for breaches of the regulations.  The Minister's predecessor felt it would be undesirable to do this. If we do not introduce any ruling here which makes it an offence to interfere with safety lamps or to tamper with them in any way then there is no provision for this.  Amendment 13, which I shall move on section 75, seeks to repair this in some way.  I thought it well to mention this matter on this section.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Section 140 covers the position of a person wilfully interfering with any man's appliance so this would cover the Senator's point.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It does not revoke any section in regard to the person who does so.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is an offence.  Such a person could be prosecuted for an offence against the Act.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 65 to 74, inclusive, agreed to.</P>
+      <P Just="Center">NEW SECTION.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 13:</P>
+      <P>Before section 75 to insert a new section as follows:</P>
+    </Speaker>
+    <P>&ldquo;(1)  A person employed at a mine who contravenes&mdash;<Col N="1336" /></P>
+    <P>(a)  any transport or support rules having effect with respect to the mine; or</P>
+    <P>(b)  any directions given to him by or on behalf of the owner or manager of the mine or any rule made by the manager of the mine for regulating the conduct either of all persons employed thereat or any class of persons so employed to which that person belongs, being directions given, or a rule made, for the purpose of securing compliance with this Act, orders made thereunder or regulations or any transport or support rules having effect with respect to the mine or of securing the safety or health of that person or any other person employed at the mine;</P>
+    <P>shall be guilty of an offence.</P>
+    <P>(2)  A person who negligently or wilfully does at a mine anything likely to endanger the safety of the mine or the safety or health of persons thereat or negligently or wilfully omits to do at a mine anything necessary for securing the safety of the mine or the safety or health of persons thereat shall be guilty of an offence.</P>
+    <P>(3)  A person (not being an official of the mine) who, without permission granted by such an official, removes, alters or tampers with anything provided at a mine for the purpose of securing the safety or health of persons employed thereat shall be guilty of an offence.&rdquo;</P>
+    <P>This amendment proposes that a new section be inserted before section 75 in order to make it clear and put beyond any doubt that people who break any regulations which are made, whether they be transport rules, safety regulations or any other regulations which are imposed by the manager, shall be punished in accordance with the offence committed.  It may well be that this is covered by section 140 but on my reading of the Bill I felt that this amendment would make this particular matter clear beyond any doubt. I should be interested to have the Minister's comment on it.</P>
+    <Col N="1337" />
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I have been advised that it would not be constitutional to allow rules made by managers of mines automatically to become law.  It is open to the owner to make rules for his mine and to transmit them to the Minister as a draft for the making of special regulations.  I think the matters covered in this suggested new section are covered in section 40, in the event of their becoming special regulations.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I am interested in what the Minister has to say on this particular point.  May it be taken, then, in regard to regulations made in respect of a particular mine, that the Minister would make these the subject of special regulation?  Would this become a normal thing or would it be an unusual thing?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>He would have to publicise his intention of making such regulations and give interested parties an opportunity to object.  He could then make the regulations or amend draft regulations.  It is open to him to do it, subject to that consideration of allowing interested parties&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>The Minister anticipates that this would be the best way in order to maintain these regulations?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It would be unconstitutional to allow a manager's regulations to become law without&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>It is very desirable that the hands of managers, who carry very great responsibility under this Bill, should not be weakened in any way in regard to the carrying out of the regulations which they themselves make.  I think the suggestion of the Minister that these could become special regulations is a most excellent one and I hope it becomes the practice. Accordingly, I beg leave to withdraw the amendment.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 14:</P>
+      <P>In subsection (1), line 38, before &ldquo;,that&rdquo; to insert &ldquo;or it is reported to him&rdquo;.</P>
+    </Speaker>
+    <P>
+      <Col N="1338" /> Section 75 deals with the duties of the manager and other persons in the case of danger arising in a particular mine. As the section reads at the moment, if the manager or other authorised person finds out that there is any danger of inflammable or noxious gas he can take certain precautions.  It seems to me that, as the section reads, the manager is asked to take these precautions only if he knows this thing of his own knowledge.  The amendment proposes that the manager may immediately take all the safety precautions that he can, and withdraw all the workmen from the mine and do all the other things necessary to be done as soon as it is reported to him by anybody and that there is no necessity for him to know this thing of his own knowledge.  I think that is what would happen in practice.  There is, I think, a slight danger that a manager who withdrew workmen needlessly might be subject to action by his owner for having done so when he did not personally know there was a real danger.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think so.  There is, generally, under the Bill a placing of responsibility on the shoulders of the managers and they are at liberty to evacuate a mine if they wish to do so. But the law should not, I think, require them to do it on a report, in so far as there could be many rumours and reports which would be better investigated by the manager before making a decision.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I think that is reasonable and I beg leave to withdraw the amendment.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question proposed: &ldquo;That section 75 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>What is the position in the event of danger being discovered by some other person who is perfectly competent to determine whether there is danger?  For example, what is the position if a Minister's inspector sees danger arising, or sees danger arising very rapidly, during the time he is inspecting a mine?  Is it necessary for him then to report to the manager?</P>
+    </Speaker>
+    <Col N="1339" />
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think you would have to legislate for that.  Somewhere else in the Bill, inspectors have rights to take action at once.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I suppose that, if they took action, nobody would disagree.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>In an immediate danger, I imagine you would not question your legal authority.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 76 to 88, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 89.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>It is suggested that we take amendments Nos. 15, 16, 17 and 18 together.</P>
+      <P>Government amendment No. 15:</P>
+      <P>Before section 89 to insert a new section as follows:</P>
+      <P>It shall be the duty of the manager of every mine to provide and maintain, for the use of persons employed thereat, an adequate supply of drinking water at suitable points conveniently accessible to all such persons.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The section provides that regulations may require provision for washing and changing, canteen facilities and an adequate supply of drinking water.  It was suggested on the Committee Stage in the Dáil that the provision of some of these amenities should be made a statutory requirement and the Minister undertook to look at the section to see if it would be possible to separate the minimal requirements from the desirable ones.  As a result of the examination which was made, it was considered that the supply of drinking water should be a statutory requirement.</P>
+      <P>Amendment agreed to.</P>
+      <P>Government amendment No. 16:</P>
+      <P>In line 10, to add &ldquo;and&rdquo; at the end and in line 14 to delete &ldquo;and&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>What I have said in <Col N="1340" /> relation to Government amendment No. 15 applies here also.</P>
+      <P>Amendment agreed to.</P>
+      <P>Government amendment No. 17:</P>
+      <P>To delete paragraph (d), lines 15 to 17 inclusive.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>My remarks on the two previous amendments apply here also.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>In view of the Government amendments in regard to the provision of drinking water, I shall not move amendment No. 18, which seeks to do the same thing.  I wish to express thanks to the Minister for meeting this point.  Mining is a thirsty business, probably more thirst provoking than discussing a Mining Bill.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is very doubtful.</P>
+      <P>Amendment No. 18 not moved.</P>
+      <P>Section 89, as amended, agreed to.</P>
+      <P>Sections 90 to 94, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 95.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 19:</P>
+      <P>Before section 95 to insert a new section as follows:</P>
+      <P>&ldquo;(1)  Where the person in charge of a part of a quarry is of opinion that a danger exists at any place in that part, he shall comply with the following requirements, namely:&mdash;</P>
+      <P>(a)  he shall forthwith cause all persons employed in so much of that part as appears to him to be affected (hereinafter referred to as the &ldquo;affected area&rdquo;) to leave it;</P>
+      <P>(b)  unless he is a manager of the quarry, he shall, forthwith ofter complying with the foregoing paragraph, inform his immediate superior or, in a case where he is responsible to two or more immediate superiors, each of them within whose jurisdiction any part of the affected area is situated, that the danger exists;</P>
+    </Speaker>
+    <P>(c)  so soon after complying with paragraph (b) of this subsection <Col N="1341" /> section (or, in a case where that paragraph does not apply, paragraph (a) of this subsection) as it is possible so to do without undue risk, he shall himself ascertain, or cause some competent person to ascertain, the condition of the affected area and the measures that it is necessary to take for the purpose of rendering it safe.</P>
+    <P>(2)  Where, on any occasion, persons have been caused to leave an affected area in pursuance of the foregoing subsection, no person shall thereafter be permitted to enter it so long as the person in charge of it is not satisfied that it is free from all danger:</P>
+    <P>Provided that nothing in this subsection shall be taken to prohibit a person from entering an affected area for the purpose of saving life, giving effect to paragraph (c) of the foregoing subsection, rendering that area or any other part of the quarry safe, or ascertaining either the effectiveness of any measures taken for the last-mentioned purpose or whether, apart from this proviso, persons may lawfully be permitted to enter the affected area.</P>
+    <P>(3)  Where persons have, on any occasion, been caused to leave an affected area in pursuance of subsection (1) of this section, the person who caused them to leave it shall record in a book to be provided for that purpose by the owner of the quarry particulars of the reason for his causing them to leave that area and of the matters disclosed as a result of giving effect to paragraph (c) of that subsection and subscribe his signature thereto.&rdquo;</P>
+    <P>There is adequate and very good provision in the Bill for the withdrawal of workmen in the case of danger in mines.  There is no provision in the Bill for the withdrawal of workmen from a quarry in the case of danger suddenly arising.  I have sought in this amendment to provide that, in the case of quarries, the manager should have the duty to withdraw the workmen.  If we look at what is happening in this country <Col N="1342" /> at the moment and at what is happening in our mines and quarries we must agree that there is probably greater danger to life and limb in the operation of quarries than mines in the country.  Accordingly, I think this would be a useful provision to have in the Bill.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I think the Senator is equating section 75 in relation to mines.  With regard to danger from noxious gases and inflammable gases, it is a danger which does not arise in the case of quarries.  Generally, the dangerous working conditions in quarries can be covered by section 90 and by general regulations.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I probably have been attempting to go too far in this particular amendment.  I see no reason to press it.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section 95 agreed to.</P>
+      <P>Sections 96 to 99, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 100.</P>
+      <P>Question proposed: &ldquo;That section 100 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>My point here is a very minor one.  It seems to me that the provision in paragraph (e) in regard to the people who will have power to appear at an inquest differs from other provisions.  There is no definition of a friend of the deceased person on whom the inquest is being held.  There is a particularly loose provision by comparison with appearances in respect of the workers.  In one instance the provision is very strict whereas elsewhere it is loose.  Here you are restricted to a person appointed in writing by the majority of the persons employed at the mine or quarry, whereas any person may turn up claiming to be a friend.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>This runs right through the Bill.  The protection of the workers is always on the basis of a majority of the workers in the mine or quarry. Presumably at an inquest which sets out to determine the cause of death, any question concerning the workers <Col N="1343" /> in the mine or the owners of the mine would be in relation to conditions of working.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 101 to 103, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 104.</P>
+      <P>Question proposed: &ldquo;That section 104 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This refers to people who may be appointed as inspectors on behalf of workmen and who have certain rights in regard to the inspection of a mine.  Under the 1911 Act there was no method of appointment and in Britain in the 1954 Act they limited the provision.  How does the Minister anticipate the workmen's inspectors will be appointed under this section?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Conditions are laid down but it is left to the workers in the quarry or mine to appoint their inspectors.  They are not directed as to how to do it.  Conditions and qualifications are laid down but otherwise the workers are expected to appoint.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>If the workers were organised in two separate unions would the position then be that one might appoint one inspector and another union another inspector?  It appears to me there may be some difficulty.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>They would appoint two.  However, this has not been used for a long time.  In practice it does not arise.  In this particular work I do not think the allegiance of the electorate would have anything to do with it.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>I imagine the reason this provision has not been invoked has been because it would be at their own cost.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 105.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 20:</P>
+      <P>In line 33, before &ldquo;as&rdquo; to insert &ldquo;and maintained&rdquo;.</P>
+    </Speaker>
+    <P>
+      <Col N="1344" /> We should insist specifically on the responsibility to maintain the abandoned mine in a safe condition. That is the reason for my amendment. It appears to me that there is a possibility the duties under section 105 could be discharged by making the entrance safe once and for all but that there would be no liability to maintain it.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It might be desirable but it would be very hard to enforce it. You can, of course, propose that every abandoned or unused mine be sealed and fenced by the owner but if, after some years, you find that the seal has broken down it might not be possible to put the onus on an individual to maintain it.  I would refer the Senator to another Act of the Oireachtas, the Local Government (Sanitary Services) Act, 1964, which empowers the sanitary authorities to undertake the onus to make dangerous places such as mines safe and, if possible, to recoup the cost from the owners.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I do not wish to press this point too hard but it seems to me better if we placed the onus under this Bill.  If it became impossible to trace the owner, then the provision could not be enforced.  If an owner is abandoning and closing down a mine he can do certain work.  He can do it in two ways.  He can do a job that might cost more money initially but which would need very little or no maintenance afterwards, or he could do the job at a lesser initial cost but which would need maintenance later. By leaving out the duty to maintain we are encouraging owners to do a skimpy job initially at less cost. It seems to me it would be far better if we put the onus on the owner to maintain.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>I should like to support the amendment.  It involves a matter of life and death.  Some child may enter a mine and lose his life. Even if it is not intended to enforce it on every occasion, it would be better to add here the words suggested in the amendment.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I would refer the Seanad to the fact that owners are <Col N="1345" /> required to make an efficient sealing off which will be subject to inspection. If the owner can be found he can be required to contribute to the cost of maintenance under the Local Government (Sanitary Services) Act, 1964, and I do not think this amendment is, therefore, necessary.  We have an Act under which maintenance can be ensured and we can here require that the first sealing off is efficient.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>But it will not have the advantage of being in this Bill so the owners of mines and quarries would have their minds and attention directed to it here and now.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Nor shall we have the advantage of knowing that the person appointed to carry out the inspection on behalf of the Minister to see that the first sealing off is efficient will be a person qualified from the point of view of intimate knowledge of mines and quarries.  The Minister should make things doubly safe.  There may be a case of a child's life and it would be far preferable to have provision under two Acts than that the life of one child should be lost.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I can guarantee that the intention of the inspector of mines would be to ensure that the first sealing off would be efficient.  I still feel it would not always be possible to implement this. There is another Act under which places can be made safe, and if the owner is able to contribute, or available to contribute, he can be made to contribute under that other Act.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>If it is possible to enforce it under another Act, I do not see why it is not possible to enforce it under this Act.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is a matter of inspection. We can guarantee to the Seanad that the first sealing off will be efficient, but to accept the amendment would mean continued inspection by inspectors of the Department of Industry and Commerce, whereas in the other case the onus would be on the local sanitary authority, which would be much more convenient.</P>
+    </Speaker>
+    <Col N="1346" />
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>The onus should remain where they are in a better position to know where there are abandoned mines.  All abandoned mines will be known and listed in the Minister's office, in the office of the mining inspector.  Having made the initial inspection, they would be in a position to look at the sealing off and say: &ldquo;This is a good job but it should be inspected in 12 months time.&rdquo;  They may say of another case: &ldquo;This sealing off has been done properly, and it need not be inspected for three years.&rdquo; They would be in a better position than the sanitary inspector of a local authority to judge the condition of the sealing off of the mines.  I do not like to differ from the Minister on this point, but I feel he is being unwise in not accepting the amendment.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>This Bill is intended to protect the actual workers in mines and quarries, and still I feel that this matter, which is a very serious matter, has been quite reasonably dealt with under the other Act.  I will undertake to the Seanad to see that the local sanitary authority are always advised where a mine is sealed off within their area by an inspector of the Department of Industry and Commerce.  I still feel that disused quarries and mines should come within the sanitary services rather than under a Bill calculated to protect the workers.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This section refers to mines only.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The Bill refers to the protection and welfare of workers in mines and quarries rather than to the protection of people from accidents in abandoned mines, which is already covered in another Act.  I will undertake to have the local sanitary authority advised of the existence of sealed off mines which may require inspection from time to time, but I still prefer them to be dealt with under the Local Government (Sanitary Services) Act, 1964.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>Can we be sure the Minister's successors will do the same thing?  Secondly, why should the section be in the Bill at all if it is not to be a good section?  As it stands, <Col N="1347" /> it does not refer specifically to workers, and the effect of the section is much more likely to be on people wandering around in the district.  There will not be any workers if the mine is disused.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>Sealing off operations have been the business of the inspector of mines, but accidents which may arise in a disused mine after one, two or three years, can hardly be considered to be the business of the inspector of the conditions of employment in the mines.  As I have said, this is already covered in another Act.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>In other words, one can put it this way: here the responsibility of the Minister for Industry and Commerce ends, and someone else takes over that responsibility.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>What I am offering the Seanad is that I shall arrange for the transfer of responsibility in each case to the local sanitary authority in the district where a mine is closed.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>I think that is fair.</P>
+    </Speaker>
+    <Speaker pid="SeanODonovan" hpid="Seán Ó Donnabháin Seán Ó Donnabháin">
+      <NameTxt>Seán Ó Donnabháin</NameTxt>
+      <P>I do not think we should disagree at this stage. Surely the sealing off of the approach to or the exit from a mine should be a permanent operation.  I am appealing to the Senator not to divide the House at this hour of the day.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I have no intention of dividing the House.</P>
+    </Speaker>
+    <Speaker pid="SeanODonovan" hpid="Seán Ó Donnabháin Seán Ó Donnabháin">
+      <NameTxt>Seán Ó Donnabháin</NameTxt>
+      <P>Small as it is.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I withdraw my amendment with grave reluctance.  I am still of the opinion that this work could be most efficiently done within the Minister's Department.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I want to make it clear that we will require a standard of efficiency in the sealing off, and that we will see to the transfer of responsibility.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Thank you.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <P>
+      <Col N="1348" /> Sections 105 to 108, inclusive, agreed to.</P>
+    <P Just="Center">SECTION 109.</P>
+    <P>Question proposed: &ldquo;That section 109 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Section 109 deals with restrictions on the employment of women and young persons.  I understand that the hours of employment which are prescribed here arise from an ILO Convention to which this country was a party.  I also understand the hours which are prescribed in accordance with that ILO Convention will make things extremely awkward for mine owners due to the fact that the hours of shift work here do not suit these particular hours.  As I understand it, the ILO Convention was originally drafted and passed on the basis of shift hours of work in British mines.  The position is that our hours of shift work are different from the hours in British mines.  Accordingly we find ourselves creating a very awkward situation for our mine managers because of our adherence to the ILO Convention.  I would ask the Minister that in future when any ILO Conventions of this type which involve hours of work, are being discussed, to see that extreme care is taken to ensure there are not any circumstances in a particular industry which would make it awkward to apply the Convention here.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 110 agreed to.</P>
+      <P Just="Center">SECTION 111.</P>
+      <P>Question proposed: &ldquo;That section 111 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JosephMooney" hpid="Mr. Mooney Mr. Mooney">
+      <NameTxt>Mr. Mooney</NameTxt>
+      <P>What redress, if any, has a miner in the event of his being turned down by a mine owner on the basis that he is affected by coal dust? Coming, as I do, from a mining area, I find that a miner affected by coal dust is black-listed.  He goes from one mine to another seeking employment, and fails to get it.  I do not think there was any provision in the old Act for a medical inspection.  It may be said that he is looked after by the mining company through workmen's compensation, but I know of a case recently <Col N="1349" /> where a man did not get workmen's compensation.  He applied to the Department of Social Welfare for unemployment benefit but, according to the Department, he was fit and capable of working, although he had been ostracised and turned down by the various mines.  Unfortunately, there is a black-list.</P>
+      <P>There are various degrees of coal dust.  I understand some men may be more affected by it than others.  I also understand a man may have that complaint for years and yet live a normal life.  Some provision should be made in the Bill for people who may be affected by coal dust.  It is a terrible hardship on a man, after working in a mine for 40 years from the age of 16, to find he cannot continue in that employment. I am quoting an actual case.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think compensation would be relevant in this Bill.</P>
+    </Speaker>
+    <Speaker pid="JosephMooney" hpid="Mr. Mooney Mr. Mooney">
+      <NameTxt>Mr. Mooney</NameTxt>
+      <P>I do not mean compensation, but some redress.  If he cannot get a job in another mine because he is affected by coal dust, has he any redress?  Can he fight his case on the basis that his complaint is not malignant?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It is for his own protection that a miner who is suffering from the beginnings of a disease should not be permitted to work.  I do not think what the Senator mentions arises in the Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>On that point, it might interest the Minister to know that in the explanatory memorandum given out originally, under section 111 provision is made for (a) compulsory medical examination of all persons seeking employment, and (b) compulsory medical examination of serving miners at regular intervals, with provision for suitable or alternative employment or compensation for those found to be suffering from respiratory disease.  There is nothing in the section dealing with that point.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It was found that it could not be dealt with in this Bill.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>On the Second Stage of the Bill I made certain <Col N="1350" /> remarks about the position here in regard to the treatment of those suffering from pneumoconiosis suggesting that it should be possible in this country to set up a scheme whereby we could avoid the very undesirable position which exists at the moment where workers continue working until an advanced stage of the disease and then take civil actions for damages against the owners of the mine.  I think it should be possible to set up a scheme which would have the backing of the owners, the workers and the Department.  I would ask the Minister to examine the remarks I made on the Second Stage.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The section provides for compulsory frequent medical examination.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I think we should go further in the direction of the scheme in Britain where a tribunal of the workers, employers and the Minister is set up.  This tribunal could re-allocate a person a particular type of work rather than allow him to become completely incapacitated. Steps could be taken early on so that a man could remain in employment in his own locality and in his own industry.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 112 to 121, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 122.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I move amendment No. 21:</P>
+      <P>To add a new subsection as follows:</P>
+      <P>&ldquo;( ) In the event of the publication by the Minister of a book containing such portions of the Act, orders and regulations made under the Act as apply to any particular class, the manager shall give a copy of such book (if he has not already done so) to each person of that particular class who is employed in the mine at the time of publication of the book or who is newly employed in the mine after that time.&rdquo;</P>
+    </Speaker>
+    <P>I adverted earlier to the position we <Col N="1351" /> will have when this Bill becomes law. It is a good code in regard to mines and quarries in this country but it will, by the time the Minister has made regulations under the Act, be a complex code.  I think there is a duty on the Minister to publish in a convenient form what the particular code will be. It is in anticipation of the Minister seeing the necessity to publish a book containing certain statutory provisions, orders and regulations under the Act that I move this particular amendment. It ensures that in the event of the Minister providing these publications it would then be the duty of the managers to make them available to the people to whom they apply.  Accordingly, this amendment not only imposes a duty on the manager to make the publications available but in a sense it also looks in the direction of the Minister strongly urging that such publications should be made.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>As the Bill stands the manager is required to keep copies of the Acts, orders, regulations and rules affecting the mines and to permit employees to read these.  It would be difficult to justify employees being given copies of all these.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I should like to ask the Minister to exercise all the commonsense we all know he has.  To make a copy of an Act convenient at all times to a man who is handling explosives underground is not meeting the particular case in this manner.  I think the Minister should not leave completely behind him his zeal for education. What I would envisage being done is that there should be a series of publications so that the man whose job it is to light a fuse underground would be able to have a publication which would tell him the statutory duties appropriate to his particular conditions in the operation of the mine.  It is no use handing a ganger a series of roneoed sheets, which are statutory orders so-and-so, or refer him to <i>Iris Oifigiúil.</i></P>
+    </Speaker>
+    <P>I think there is a job here not only of laying down a proper code for mines and quarries but also to undertake the <Col N="1352" /> task of making it available.  This has been done in Britain for many years. Every person at every level in operation in Britain can secure details of his particular work.  I should like to state the different volumes which are issued in Britain.  There is a volume issued which applies to the duties of all underground workers.  Volume two applies to the duties of surface workers.  Volume three applies to the duties of winding engine men.  Volume four applies to the duties of mechanics and electricians.  Volume five refers to the duties of deputies and shotfirers. Of course, there are the larger volumes which will specify the duties of managers, deputy managers and the like.  It would be as well if the Minister brought some of his zeal for education into the Department of Industry and Commerce.  Here is an excellent opportunity to lay down a code to educate the members of a team in an industry as to what their duties are so that we can get away from the idea that you can go to the Post Office and look it up provided you go at a particular hour of the day.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>If the Senator undertakes to withdraw the amendment I shall undertake to exercise the commonsense he prescribes for me in informing the workers.  Of course, any such arrangement for giving these publications out would not relieve the manager of making known to the workers what their duties are.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>Having the Minister's assurance on this and taking cognisance of the fact, we shall keep an eye out to see how he operates and I withdraw the amendment.  I see here a great opportunity for the managers to do a particular job which needs doing in every industry in this country.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Sections 122 to 128, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 129.</P>
+      <P>Amendment No. 22 not moved.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I move amendment No. 23:</P>
+    </Speaker>
+    <P>
+      <Col N="1353" /> Before subsection (2) to insert a new subsection as follows:</P>
+    <P>&ldquo;( ) Inspectors appointed for the purposes of this Act to inspect mines and quarries shall have had practical experience as miners or quarriers as the case may be.&rdquo;</P>
+    <P>I suggest that this should be in the Bill.  No doubt the Minister will make regulations but I think the man appointed should have practical experience. It will put an onus on the inspector that such and such may have to be done.  It might be an emergency. Very probably the manager of a mine might use bad language and he will have to bow to the will of the inspector who may never have had any practical experience.  I feel an inspector should at least have practical experience of mines.  I have no idea what type of man the Minister would appoint but it should be set out in the statute that he shall have practical experience.  We have set it out in section 104 that the employees must have practical experience.  I am sure anybody working in a mine, where perhaps an emergency regulation was about to be made by an inspector, would prefer to work under one who had practical experience of mines or quarries.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>It has been the practice to require inspectors to have this type of experience.  I consider this amendment would perhaps restrict the Minister somewhat if it were taken as a matter of course that suitable practical experience would be required of a person who was to be an inspector. I might say it has not been the practice to make the differentiation in the case of mines or quarries.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>It is all right if the Minister thinks it is not necessary.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>What the Senator is seeking is already practice and will continue to be so as far as practicable.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question proposed: &ldquo;That section 129 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>This section deals with the provision of inspectors and <Col N="1354" /> I take it that an inspector will have the functions of promoting the prevention of accidents and also the promotion of productivity in mines.  I should like to ask the Minister how many inspectors does he envisage will be appointed and what does he accept will be the average number of inspections per year of a working mine?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>In the first place, I do not think the inspector, under this Act, would have any function in relation to productivity except in so far as safety and the welfare of the workers are concerned.  He would have no direct responsibility for productivity. The position under this Act is that we wish to ensure the safety and welfare of the workers.  With regard to the number of inspections, I shall have to inquire.</P>
+    </Speaker>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>I understand the position at present is that there are two inspections and the second has only just been authorised.  Does the Minister anticipate that further inspections will take place?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The position here is not the same as regards mines and quarries in other countries.  Inspections are not on the same scale.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 130.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I move amendment No. 24:</P>
+      <P>In subsection (1) (d) (i), page 54, to delete all words from and including &ldquo;so&rdquo; in line 37 to the end of the subparagraph and substitute &ldquo;provided that no one shall be required by virtue of this section to answer any question or to give any evidence tending to criminate himself.&rdquo;</P>
+      <P>The Bill reads:</P>
+      <P>so, however, that no answer given by a person in pursuance of a requirement imposed under this subparagraph shall be admissible in evidence against him in any proceedings.</P>
+    </Speaker>
+    <P>The wording of the amendment is, I <Col N="1355" /> think, more usual and has been used in other Bills.  It is, if anything, slightly broader than the words used in the Bill.  This has been used in the Factories Act.  The words as they stand in the Bill might possibly be used in an unfair manner against a person being questioned.  I can think of a conspiracy charge against two people working in a mine.  The evidence of each of them could be used against the other under this subsection.  If those people were charged with conspiracy and both were compelled to answer questions, each of them could give evidence against the other.  The evidence might be unfair against one of them.  I put this amendment down because I do not see why there should be a change in wording from that in previous Bills.  I do not know why the draftsman could not keep to the same wording as has been used in previous Bills.  It would be much more suitable to do so.</P>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The intention was to put in a phrase additional to that in the Factories Act by saying no answer given would be admissible as evidence. The Factories Act says that a person need not answer a question which may incriminate him.  This leaves an anxiety or responsibility on the person being questioned to determine what might incriminate him and might have the effect of completely wrecking the person's answer because of the fear of incrimination.  As this section is drafted, no answer given by the person questioned can be used in evidence against him.  It would have the effect of protecting him completely and relieving him of the responsibility of determining whether such evidence could incriminate him.  This seems to me to be better than the Factories Act, even though it is a change.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I see that.  Could it be used in the case of a conspiracy charge?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I imagine if a conspiracy charge arose under the Factories Act, they would have to sign a declaration but a person would avoid answering a question which might incriminate <Col N="1356" /> him.  Under this Bill he need not answer it at all.  His answer is negative or positive.  This is more like a coroner's inquest.  This type of investigation is to find out something rather than incriminate a person.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section 130 agreed to.</P>
+      <P Just="Center">SECTION 131.</P>
+      <P>Amendment No. 25 not moved.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I move amendment No. 26:</P>
+      <P>Before subsection (2) to insert a new subsection as follows:</P>
+      <P>&ldquo;( ) If the responsible person objects to the remedy required by the inspector under this section he may within seven days appeal to the Minister in writing stating his objections to the said remedy and the Minister's decision thereon shall be final.&rdquo;</P>
+      <P>This amendment is put down simply to give a person the right to make an appeal to the Minister.  I think that otherwise matters could be held up for a considerable time in a mine if an inspector and a manager-owner disagreed over some important point.  The inspector could indicate a requirement of any kind whatsoever under the section as it stands.  It might take a long time for any change to be made in that requirement if there is no right of immediate appeal to the Minister.  It might hold up the whole working of the mine.  I would ask the Minister to consider whether some immediate method of dealing with perhaps a disputed requirement by an inspector under that section could be provided.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The Senator appreciates what my objection would have been. The appeal machinery already contained in this Bill would be cumbersome and slow.  This section is aimed at a position of imminent danger or disaster which has to be dealt with at once.  An appeal with any slow-moving machinery, at a time like that, would be very undesirable.  But, having once taken action, the owner could then appeal to the Minister.  This is erring on the safe side.  The Senator can see <Col N="1357" /> why it would be more desirable to close down a working, while awaiting the outcome of an appeal, than to allow people to work in imminent danger of catastrophe.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I agree, but I am seeking appeal to the Minister within seven days and an inspection.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>They can appeal, but it is essential for safety to allow the inspector to take whatever action is necessary.  Then the owner can appeal to the Minister for a reversal of the inspector's order if he thinks that necessary.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>A speedy appeal?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The ordinary administrative appeal to the Minister, which is provided for in the Bill, will be open.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>That is what I wish to provide for.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>That exists, in practice, not necessarily in the Bill, that a person can appeal to the Minister.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>Has he any right?</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I gather it is an established custom that people can appeal to the Minister and that it is not necessary to legislate for it.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I have no doubt that the person who felt the decision of an inspector was wrong would immediately write to the Minister but if he had no actual legal support for it, he might find the matter could be delayed by an inspector for a very long time.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I imagine that the only circumstances of appeal would be when a man would consider the decision of the inspector unreasonable.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>The inspector might want one remedy and the manager might suggest another.  It might be very important that the mine should not stop for a long time or that the dispute&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>The Senator appreciates that it concerns a matter of imminent danger?  It would be in the event <Col N="1358" /> of some condition of imminent danger or catastrophe or accident that the inspector would do this.  If he acted unreasonably, you could not delay his action: you would have to let him act in your view unreasonably and then you could appeal to the Minister on that basis and assume that a Minister of State would act.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>So long as it is agreed that he has that right of appeal to the Minister.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think it necessary to legislate for it.  He has it, in practice.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>You might have danger and a manager might say: &ldquo;I will take such and such precautions,&rdquo; while the inspector might say: &ldquo;You must not take those steps but these other precautions which I am suggesting,&rdquo; precautions with which the manager might not agree at all.  Somebody must then make a decision as to which precaution is the one to take in the immediate time because, as the Minister now says, perhaps there is imminent danger in the mine.  The whole working must stop or either of two precautions must be taken&mdash;and the inspector indicates one and the manager indicates the other.  I think an immediate appeal is necessary.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>You want more.  In a clash of opinions, you want a referee. In cases of imminent danger, I think you have to take the chance of the work slowing down and stopping to prevent a catastrophe.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I agree, but we do not want the works closed for two months.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>I do not think that would happen, in practice.  How does the Minister make up his mind?  Does he send down another inspector?</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>He does.</P>
+    </Speaker>
+    <Speaker pid="PatrickJohnHillery" hpid="Dr. Hillery Dr. Hillery">
+      <NameTxt>Dr. Hillery</NameTxt>
+      <P>This would be done. I do not think any Minister would want mines or quarries closed down.</P>
+    </Speaker>
+    <Speaker pid="JohnCole" hpid="Mr. Cole Mr. Cole">
+      <NameTxt>Mr. Cole</NameTxt>
+      <P>I shall withdraw my amendment.</P>
+    </Speaker>
+    <P>
+      <Col N="1359" /> Amendment, by leave, withdrawn.</P>
+    <P>Section 131 agreed to.</P>
+    <P>Sections 132 to 150, inclusive, agreed to.</P>
+    <P>First and Second Schedules agreed to.</P>
+    <P>Bill reported with amendments and received for final consideration.</P>
+    <P>Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    <Speaker pid="JamesDooge" hpid="Professor Dooge Professor Dooge">
+      <NameTxt>Professor Dooge</NameTxt>
+      <P>At this stage I <Col N="1360" /> should like to thank the Minister, on this his first appearance in the House having charge of this Department, for having dealt with this complex Bill with such good humour.  I should like also to thank him for meeting the amendments which were proposed.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Gach rath go raibh ar Sheanadóirí.</P>
+      <P>The Seanad adjourned at 5.45 p.m. <i>sine die.</i></P>
+    </Speaker>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,2580 @@
+<committees>
+  <committee xmltla="SOS">
+    <sdate>2011-04-20</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>Standing Order 103 Select Committee</entext>
+    <irtext>Roghchoiste Bhuan-Ordú 103
+</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>SO</cid>
+  </committee>
+  <committee xmltla="ACC">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>COMMITTEE of PUBLIC ACCOUNTS</entext>
+    <irtext>COISTE um CHUNTAIS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>AC</cid>
+  </committee>
+  <committee xmltla="ACC">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>COMMITTEE OF PUBLIC ACCOUNTS</entext>
+    <irtext>COISTE UM CHUNTAIS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>AC</cid>
+  </committee>
+  <committee xmltla="ACC">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>COMMITTEE OF PUBLIC ACCOUNTS</entext>
+    <irtext>COISTE UM CHUNTAIS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>AC</cid>
+  </committee>
+  <committee xmltla="ACC">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>COMMITTEE OF PUBLIC ACCOUNTS</entext>
+    <irtext>COISTE UM CHUNTAIS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>AC</cid>
+  </committee>
+  <committee xmltla="JAC">
+    <sdate>2010-02-17</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT ADMINISTRATION COMMITTEE</entext>
+    <irtext>COMHCHOISTE RIARACHÁIN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>JA</cid>
+  </committee>
+  <committee xmltla="JAC">
+    <sdate>2011-06-20</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT ADMINISTRATION COMMITTEE</entext>
+    <irtext>COMHCHOISTE RIARACHÁIN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>JA</cid>
+  </committee>
+  <committee xmltla="AGS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON AGRICULTURE, FOOD AND THE MARINE</entext>
+    <irtext>ROGHCHOISTE UM THALMHAÍOCHT, BIA AGUS AN MHUIR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON AGRICULTURE AND FOOD</entext>
+    <irtext>ROGHCHOISTE UM THALMHAÍOCHT AGUS BIA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON AGRICULTURE, FISHERIES AND FOOD</entext>
+    <irtext>ROGHCHOISTE UM THALMHAÍOCHT, IASCAIGH AGUS BIA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGS">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-18</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON COMMUNICATIONS, NATURAL RESOURCES AND AGRICULTURE</entext>
+    <irtext>ROGHCHOISTE UM CHUMARSÁID, ACMHAINNÍ NÁDÚRTHA AGUS TALMHAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGS">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON AGRICULTURE, FOOD AND THE MARINE</entext>
+    <irtext>ROGHCHOISTE UM THALMAÍOCHT, BIA AGUS MUIR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON AGRICULTURE, FOOD AND THE MARINE</entext>
+    <irtext>COMHCHOISTE UM THALMHAÍOCHT, BIA AGUS AN MHUIR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON AGRICULTURE AND FOOD</entext>
+    <irtext>COMHCHOISTE UM THALMHAÍOCHT AGUS BIA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON AGRICULTURE, FISHERIES AND FOOD</entext>
+    <irtext>COMHCHOISTE UM THALMHAÍOCHT, IASCAIGH AGUS BIA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGJ">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON COMMUNICATIONS, NATURAL RESOURCES AND AGRICULTURE</entext>
+    <irtext>COMHCHOISTE UM CHUMARSÁID, ACMHAINNÍ NÁDÚRTHA AGUS TALMHAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="AGJ">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON AGRICULTURE, FOOD AND THE MARINE</entext>
+    <irtext>COMHCHOISTE UM THALMAÍOCHT, BIA AGUS MUIR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="HEA">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on Alcohol Misuse</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEA">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on Alcohol Misuse</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="JUB">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>Sub-Committee on the Barron Report</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUB">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-07-06</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>Sub-Committee on the Barron Report</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUB">
+    <sdate>2010-07-07</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DLÍ AGUS CEART, COSAINT AGUS CEARTA NA MBAN</irtext>
+    <subnameeng>Sub-Committee on the Barron Report</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="BUS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON ENTERPRISE AND SMALL BUSINESS</entext>
+    <irtext>ROGHCHOISTE UM FHIONTRAÍOCHT AGUS MIONGHNÓTHAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON ENTERPRISE AND SMALL BUSINESS</entext>
+    <irtext>ROGHCHOISTE UM FHIONTRAÍOCHT AGUS MIONGHNÓTHAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUS">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-07-04</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON ENTERPRISE, TRADE AND EMPLOYMENT</entext>
+    <irtext>ROGHCHOISTE UM FHIONTRAÍOCHT, TRÁDÁLA AGUS FOSTAÍOCHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUS">
+    <sdate>2010-07-05</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON ENTERPRISE, TRADE AND INNOVATION</entext>
+    <irtext>ROGHCHOISTE UM FIONTAIR, TRÁDÁIL AGUS NUÁLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON ENTERPRISE AND SMALL BUSINESS</entext>
+    <irtext>COMHCHOISTE UM FHIONTRAÍOCHT AGUS MIONGHNÓTHAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON ENTERPRISE AND SMALL BUSINESS</entext>
+    <irtext>COMHCHOISTE UM FHIONTRAÍOCHT AGUS MIONGHNÓTHAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-07-04</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON ENTERPRISE, TRADE AND EMPLOYMENT</entext>
+    <irtext>COMHCHOISTE UM FHIONTRAÍOCHT, TRÁDÁLA AGUS FOSTAÍOCHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUJ">
+    <sdate>2010-07-05</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON ENTERPRISE, TRADE AND INNOVATION</entext>
+    <irtext>COMHCHOISTE UM FIONTAIR, TRÁDÁIL AGUS NUÁLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="CPJ">
+    <sdate>2006-07-19</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON CHILD PROTECTION</entext>
+    <irtext>AN COMHCHOISTE UM CHOSAINT LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>CP</cid>
+  </committee>
+  <committee xmltla="HEC">
+    <sdate>2010-11-15</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on Children</subnameeng>
+    <subnameir>Fochoiste um Leanaí</subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="CLJ">
+    <sdate>2007-11-12</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON CLIMATE CHANGE AND ENERGY SECURITY</entext>
+    <irtext>COMHCHOISTE UM ATHRÚ AERÁIDE AGUS ÁIRITHIÚ FUINNEAMH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>CL</cid>
+  </committee>
+  <committee xmltla="FOD">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>Sub-Committee on Development Co-Operation</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOD">
+    <sdate>2003-01-01</sdate>
+    <edate>2002-12-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>Sub-Committee on Development Co-Operation</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOD">
+    <sdate>2007-09-01</sdate>
+    <edate>2008-12-31</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>Sub-Committee on Development Co-Operation</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="SCB">
+    <sdate>1997-06-06</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>STANDING JOINT COMMITTEE ON CONSOLIDATION BILLS</entext>
+    <irtext>BUAN-COMHCHOISTE UM BILLÍ COMHDHÚITE</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>SC</cid>
+  </committee>
+  <committee xmltla="SCB">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-05-24</edate>
+    <dailno>29</dailno>
+    <entext>STANDING JOINT COMMITTEE ON CONSOLIDATION BILLS</entext>
+    <irtext>BUAN-COMHCHOISTE UM BILLÍ COMHDHÚITE</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>SC</cid>
+  </committee>
+  <committee xmltla="SCB">
+    <sdate>2007-05-25</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>STANDING JOINT COMMITTEE ON CONSOLIDATION BILLS</entext>
+    <irtext>BUAN-COMHCHOISTE UM BILLÍ COMHDHÚITE</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>STCOM</atype>
+    <cid>SC</cid>
+  </committee>
+  <committee xmltla="CNS">
+    <sdate>2003-07-01</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON THE CONSTITUTION </entext>
+    <irtext>ROGHCHOISTE AR AN mBUNREACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>CN</cid>
+  </committee>
+  <committee xmltla="CNS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON THE CONSTITUTION </entext>
+    <irtext>ROGHCHOISTE AR AN mBUNREACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>CN</cid>
+  </committee>
+  <committee xmltla="CNJ">
+    <sdate>2003-07-01</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON THE CONSTITUTION </entext>
+    <irtext>COMHCHOISTE AR AN mBUNREACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>CN</cid>
+  </committee>
+  <committee xmltla="CNJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON THE CONSTITUTION </entext>
+    <irtext>COMHCHOISTE AR AN mBUNREACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>CN</cid>
+  </committee>
+  <committee xmltla="CCJ">
+    <sdate>2007-11-21</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON THE CONSTITUTIONAL AMENDMENT ON CHILDREN</entext>
+    <irtext>COMHCHOISTE UM AN LEASÚ BUNREACHTA MAIDIR LE LEANAÍ
+</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>CC</cid>
+  </committee>
+  <committee xmltla="PCJ">
+    <sdate>2011-11-01</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SEANAD PUBLIC CONSULTATION COMMITTEE</entext>
+    <irtext>COISTE COMHAIRLIÚCHÁN POIBLÍ AN TSEANAID</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>PC</cid>
+  </committee>
+  <committee xmltla="CTC">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE on PUBLIC ENTERPRISE and TRANSPORT</entext>
+    <irtext>ROGHCHOISTE um FHIONTAIR PHOIBLÍ agus IOMPAIR</irtext>
+    <subnameeng>Sub-Committee on CTC Signalling</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="PRD">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>COISTE UM NÓS IMEACHTA AGUS PRIBHLÉIDÍ</irtext>
+    <subnameeng>Sub-Committee on Dáil Reform</subnameeng>
+    <subnameir>Fochoiste um  Atheagar na Dála</subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="PRD">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>COISTE UM NÓS IMEACHTA AGUS PRIBHLÉIDÍ</irtext>
+    <subnameeng>Sub-Committee on Dáil Reform</subnameeng>
+    <subnameir>Fochoiste um  Atheagar na Dála</subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="PRD">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>COISTE UM NÓS IMEACHTA AGUS PRIBHLÉIDÍ</irtext>
+    <subnameeng>Sub-Committee on Dáil Reform</subnameeng>
+    <subnameir>Fochoiste um  Atheagar na Dála</subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="EPS">
+    <sdate>2011-05-06</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON EUROPE DAY</entext>
+    <irtext>ROGHCHOISTE UM LÁ NA HEORPA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EP</cid>
+  </committee>
+  <committee xmltla="ERJ">
+    <sdate>2007-12-17</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON ECONOMIC REGULATORY AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ RIALÁLA GEILLEAGAIR A BHUNÚ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ER</cid>
+  </committee>
+  <committee xmltla="EDS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON EDUCATION AND SCIENCE</entext>
+    <irtext>ROGHCHOISTE UM OIDEACHAS AGUS EOLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON EDUCATION AND SCIENCE</entext>
+    <irtext>ROGHCHOISTE UM OIDEACHAS AGUS EOLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDS">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-06-30</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON EDUCATION AND SCIENCE</entext>
+    <irtext>ROGHCHOISTE UM OIDEACHAS AGUS EOLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDS">
+    <sdate>2010-07-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON EDUCATION AND SKILLS</entext>
+    <irtext>ROGHCHOISTE UM OIDEACHAS AGUS SCILEANNA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDS">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON EDUCATION AND SOCIAL PROTECTION</entext>
+    <irtext>ROGHCHOISTE UM OIDEACHAS AGUS COIMIRCE SHÓISIALACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON EDUCATION AND SCIENCE</entext>
+    <irtext>COMHCHOISTE UM OIDEACHAS AGUS EOLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON EDUCATION AND SCIENCE</entext>
+    <irtext>COMHCHOISTE UM OIDEACHAS AGUS EOLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-06-30</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON EDUCATION AND SCIENCE</entext>
+    <irtext>COMHCHOISTE UM OIDEACHAS AGUS EOLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDJ">
+    <sdate>2010-07-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON EDUCATION AND SKILLS</entext>
+    <irtext>COMHCHOISTE UM OIDEACHAS AGUS SCILEANNA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="EDJ">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON EDUCATION AND SOCIAL PROTECTION</entext>
+    <irtext>COMHCHOISTE UM OIDEACHAS AGUS COIMIRCE SHÓISIALACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="BUS">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON JOBS, ENTERPRISE AND INNOVATION</entext>
+    <irtext>ROGHCHOISTE UM POIST, FIONTAIR AGUS NUÁLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUJ">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON JOBS, ENTERPRISE AND INNOVATION</entext>
+    <irtext>COMHCHOISTE UM POIST, FIONTAIR AGUS NUÁLAÍOCHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="ENS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON ENVIRONMENT AND LOCAL GOVERNMENT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL AGUS RIALTAS ÁITIÚIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="ENS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON ENVIRONMENT AND LOCAL GOVERNMENT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL AGUS RIALTAS ÁITIÚIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="ENS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON THE ENVIRONMENT, HERITAGE AND LOCAL GOVERNMENT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, OIDHREACHTA AGUS RIALTAS ÁITIÚIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="ENS">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON ENVIRONMENT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="ENJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON ENVIRONMENT AND LOCAL GOVERNMENT</entext>
+    <irtext>COMHCHOISTE UM CHOMHSHAOL AGUS RIALTAS ÁITIÚIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="ENJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON ENVIRONMENT AND LOCAL GOVERNMENT</entext>
+    <irtext>COMHCHOISTE UM CHOMHSHAOL AGUS RIALTAS ÁITIÚIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="ENJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON THE ENVIRONMENT, HERITAGE AND LOCAL GOVERNMENT</entext>
+    <irtext>COMHCHOISTE UM CHOMHSHAOL, OIDHREACHTA AGUS RIALTAS ÁITIÚIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="ENJ">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON ENVIRONMENT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>COMHCHOISTE UM CHOMHSHAOL, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="EUS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EORPACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="EUS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EORPACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="EUS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EORPACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="EUS">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON EUROPEAN UNION AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ AN AONTAIS EORPAIGH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="EUJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EORPACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="EUJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EORPACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="EUJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EORPACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="EUJ">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN UNION AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ AN AONTAIS EORPAIGH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="FAS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON FAMILY, COMMUNITY AND SOCIAL AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ TEAGHLAIGH, POBAIL AGUS SÓISIALACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON SOCIAL AND FAMILY AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ SÓISIALACHA AGUS TEAGHLAIGH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAS">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-07-06</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON SOCIAL AND FAMILY AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ SÓISIALACHA AGUS TEAGHLAIGH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAS">
+    <sdate>2010-07-07</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON SOCIAL PROTECTION</entext>
+    <irtext>ROGHCHOISTE UM COIMIRCE SHÓISIALACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON FAMILY, COMMUNITY AND SOCIAL AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ TEAGHLAIGH, POBAIL AGUS SÓISIALACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON SOCIAL AND FAMILY AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ SÓISIALACHA AGUS TEAGHLAIGH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-07-06</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON SOCIAL AND FAMILY AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ SÓISIALACHA AGUS TEAGHLAIGH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAJ">
+    <sdate>2010-07-07</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON SOCIAL PROTECTION</entext>
+    <irtext>COMHCHOISTE UM COIMIRCE SHÓISIALACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FIS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON FINANCE AND THE PUBLIC SERVICE</entext>
+    <irtext>ROGHCHOISTE UM AIRGEADAS AGUS AN tSEIRBHÍS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FIS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON FINANCE AND THE PUBLIC SERVICE</entext>
+    <irtext>ROGHCHOISTE UM AIRGEADAS AGUS AN tSEIRBHÍS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FIS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON FINANCE AND THE PUBLIC SERVICE</entext>
+    <irtext>ROGHCHOISTE UM AIRGEADAS AGUS AN tSEIRBHÍS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FIS">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM</entext>
+    <irtext>ROGHCHOISTE UM AIRGEADAS, CAITEACHAS POILBÍ AGUS ATHCHÓIRIÚ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FIJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON FINANCE AND THE PUBLIC SERVICE</entext>
+    <irtext>COMHCHOISTE UM AIRGEADAS AGUS AN tSEIRBHÍS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FIJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON FINANCE AND THE PUBLIC SERVICE</entext>
+    <irtext>COMHCHOISTE UM AIRGEADAS AGUS AN tSEIRBHÍS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FIJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON FINANCE AND THE PUBLIC SERVICE</entext>
+    <irtext>COMHCHOISTE UM AIRGEADAS AGUS AN tSEIRBHÍS PHOIBLÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FIJ">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM</entext>
+    <irtext>COMHCHOISTE UM AIRGEADAS, CAITEACHAS POILBÍ AGUS ATHCHÓIRIÚ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FOS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOS">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON FOREIGN AFFAIRS AND TRADE</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EACHTRACHTA AGUS TRÁDÁIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOJ">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS AND TRADE</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHTA AGUS TRÁDÁIL</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="GFJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON THE IMPLEMENTATION OF THE GOOD FRIDAY AGREEMENT</entext>
+    <irtext>COMHCHOISTE UM FEIDHMIÚ CHOMHAONTÚ AOINE AN CHÉASTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>GF</cid>
+  </committee>
+  <committee xmltla="GFJ">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON THE IMPLEMENTATION OF THE GOOD FRIDAY AGREEMENT</entext>
+    <irtext>COMHCHOISTE UM FEIDHMIÚ CHOMHAONTÚ AOINE AN CHÉASTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>GF</cid>
+  </committee>
+  <committee xmltla="EUF">
+    <sdate>2008-10-07</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EORPACHA</irtext>
+    <subnameeng>Sub-Committee on Ireland's Future in the European Union</subnameeng>
+    <subnameir>Fochoiste um Thodhchaí na hÉireann san Aontas Eorpach</subnameir>
+    <atype>SCOM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="HES">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>ROGHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HES">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>ROGHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HES">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>ROGHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HES">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>ROGHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEJ">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HRS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE on HERITAGE and the IRISH LANGUAGE</entext>
+    <irtext>ROGHCHOISTE um OIDHREACHT agus an GHAEILGE</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HR</cid>
+  </committee>
+  <committee xmltla="HRJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON HERITAGE AND THE IRISH LANGUAGE</entext>
+    <irtext>COMHCHOISTE UM OIDHREACHT AGUS AN GHAEILGE</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>HR</cid>
+  </committee>
+  <committee xmltla="FOH">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>Sub-Committee on Human Rights</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="FOH">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>Sub-Committee on Human Rights</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="EU1">
+    <sdate>2012-02-01</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN UNION AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ AN AONTAIS EORPAIGH</irtext>
+    <subnameeng>Sub-Committee on the Referendum on the Intergovernmental Treaty on Stability, Coordination and Governance in the Economic and Monetary Union</subnameeng>
+    <subnameir>An Fochoiste um an Reifreann ar an gConradh Idir-Rialtasach ar Chobhsaíocht, ar Chomhordú agus ar Rialachas san Aontas Eacnamaíoch agus Airgeadaíocht</subnameir>
+    <atype>SCOM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="NVJ">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-07-16</edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON INVESTIGATIONS, OVERSIGHT AND PETITIONS</entext>
+    <irtext>COMHCHOISTE UM IMSCRÚDUITHE, FORMHAOIRSIÚ AGUS ACHAINÍOCHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>NV</cid>
+  </committee>
+  <committee xmltla="NVJ">
+    <sdate>2012-07-17</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON PUBLIC SERVICE OVERSIGHT AND PETITIONS</entext>
+    <irtext>COMHCHOISTE UM FHORMHAOIRSIÚ AR AN TSEIRBHÍS PHOIBLÍ AGUS ACHAINÍOCHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>NV</cid>
+  </committee>
+  <committee xmltla="JUS">
+    <sdate>1997-01-01</sdate>
+    <edate>1999-12-08</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON JUSTICE, EQUALITY AND WOMEN'S RIGHTS</entext>
+    <irtext>ROGHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUS">
+    <sdate>1999-12-09</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>ROGHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>ROGHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUS">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-07-06</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>ROGHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUS">
+    <sdate>2010-07-07</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON JUSTICE, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>ROGHCHOISTE UM DLÍ AGUS CEART, COSAINT AGUS CEARTA NA MBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUS">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON JUSTICE, DEFENCE AND EQUALITY</entext>
+    <irtext>ROGHCHOISTE UM DHLÍ AGUS CEART, COSAINT AGUS COMHIONANNAS</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUJ">
+    <sdate>1997-01-01</sdate>
+    <edate>1999-12-08</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, EQUALITY AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUJ">
+    <sdate>1999-12-09</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-07-06</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUJ">
+    <sdate>2010-07-07</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DLÍ AGUS CEART, COSAINT AGUS CEARTA NA MBAN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUJ">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, DEFENCE AND EQUALITY</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COSAINT AGUS COMHIONANNAS</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="MAS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON COMMUNICATIONS, MARINE AND NATURAL RESOURCES</entext>
+    <irtext>ROGHCHOISTE UM CHUMARSÁID, MUIR AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="MAS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON COMMUNICATIONS, ENERGY AND NATURAL RESOURCES</entext>
+    <irtext>ROGHCHOISTE UM CHUMARSÁID, FUINNIMH AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="ICT">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON COMMUNICATIONS, MARINE AND NATURAL RESOURCES</entext>
+    <irtext>COMHCHOISTE UM CHUMARSÁID, MUIR AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>Sub-Committee on Information Communications Technology</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="ICT">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON COMMUNICATIONS, ENERGY AND NATURAL RESOURCES</entext>
+    <irtext>COMHCHOISTE UM CHUMARSÁID, FUINNIMH AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>Sub-Committee on Information Communications Technology</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="MAJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON COMMUNICATIONS, MARINE AND NATURAL RESOURCES</entext>
+    <irtext>COMHCHOISTE UM CHUMARSÁID, MUIR AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="MAJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON COMMUNICATIONS, ENERGY AND NATURAL RESOURCES</entext>
+    <irtext>COMHCHOISTE UM CHUMARSÁID, FUINNIMH AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="MIS">
+    <sdate>2010-06-24</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON MEMBERS' INTERESTS OF SEANAD ÉIREANN</entext>
+    <irtext>ROGHCHOISTE UM LEASANNA CHOMHALTAÍ SHEANAD ÉIREANN</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>MI</cid>
+  </committee>
+  <committee xmltla="HEO">
+    <sdate>2005-02-23</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on Orthodontics</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEO">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on Orthodontics</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="FOO">
+    <sdate>2008-04-29</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON FOREIGN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EACHTRACHA</irtext>
+    <subnameeng>Sub-Committee on Overseas Development</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FO</cid>
+  </committee>
+  <committee xmltla="JUW">
+    <sdate>2009-06-23</sdate>
+    <edate>2010-07-06</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, EQUALITY, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>ROGHCHOISTE UM DHLÍ AGUS CEART, COMHIONANNAS, COSAINT AGUS CEARTA NA mBAN</irtext>
+    <subnameeng>Sub Committee on Women's Participation in Politics</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JUW">
+    <sdate>2010-07-07</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, DEFENCE AND WOMEN'S RIGHTS</entext>
+    <irtext>COMHCHOISTE UM DLÍ AGUS CEART, COSAINT AGUS CEARTA NA MBAN</irtext>
+    <subnameeng>Sub Committee on Women's Participation in Politics</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="JU1">
+    <sdate>2011-11-01</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON JUSTICE, DEFENCE AND EQUALITY</entext>
+    <irtext>COMHCHOISTE UM DHLÍ AGUS CEART, COSAINT AGUS COMHIONANNAS</irtext>
+    <subnameeng>Sub-Committee on Penal Reform</subnameeng>
+    <subnameir>An Fochoiste um Athchóiriú ar an gCóras Pionós
+</subnameir>
+    <atype>SCOM</atype>
+    <cid>JU</cid>
+  </committee>
+  <committee xmltla="HEP">
+    <sdate>2006-05-09</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on the Adverse Side Effects of Pharmaceuticals</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEP">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on the Adverse Side Effects of Pharmaceuticals</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="BUE">
+    <sdate>2008-11-01</sdate>
+    <edate>2010-07-06</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON ENTERPRISE, TRADE AND EMPLOYMENT</entext>
+    <irtext>COMHCHOISTE UM FHIONTRAÍOCHT, TRÁDÁLA AGUS FOSTAÍOCHTA</irtext>
+    <subnameeng>Sub-Committee on Job Creation Through Use of Renewable Energy Resources</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="BUE">
+    <sdate>2010-07-07</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON ENTERPRISE, TRADE AND INNOVATION</entext>
+    <irtext>COMHCHOISTE UM FIONTAIR, TRÁDÁIL AGUS NUÁLAÍOCHT</irtext>
+    <subnameeng>Sub-Committee on Job Creation Through Use of Renewable Energy Resources</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>BU</cid>
+  </committee>
+  <committee xmltla="EUR">
+    <sdate>2010-03-23</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EORPACHA</irtext>
+    <subnameeng>Sub-Committee on the Review of the Role of the Oireachtas in European Affairs</subnameeng>
+    <subnameir>Fhochoiste um Athbhreithniú ar Ról an Oireachtais i nGnóthaí Eorpacha</subnameir>
+    <atype>SCOM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="AG2">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON COMMUNICATIONS, NATURAL RESOURCES AND AGRICULTURE</entext>
+    <irtext>ROGHCHOISTE UM CHUMARSÁID, ACMHAINNÍ NÁDÚRTHA AGUS TALMHAÍOCHT</irtext>
+    <subnameeng>Select Sub-Committee on Agriculture, Food and the Marine</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="SDN">
+    <sdate>2002-04-01</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON COMMUNICATIONS, MARINE AND NATURAL RESOURCES</entext>
+    <irtext>COMHCHOISTE UM CHUMARSÁID, MUIR AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>Sub-Committee on Salmon Drift Netting</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="SDN">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON COMMUNICATIONS, ENERGY AND NATURAL RESOURCES</entext>
+    <irtext>COMHCHOISTE UM CHUMARSÁID, FUINNIMH AGUS ACMHAINNÍ NÁDÚRTHA</irtext>
+    <subnameeng>Sub-Committee on Salmon Drift Netting</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>MA</cid>
+  </committee>
+  <committee xmltla="TR1">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, IOMPAR, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>Sub-Committee on Arts, Heritage and the Gaeltacht</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="AG1">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON COMMUNICATIONS, NATURAL RESOURCES AND AGRICULTURE</entext>
+    <irtext>ROGHCHOISTE UM CHUMARSÁID, ACMHAINNÍ NÁDÚRTHA AGUS TALMHAÍOCHT</irtext>
+    <subnameeng>Select Sub-Committee on Communications, Energy and Natural Resources</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>AG</cid>
+  </committee>
+  <committee xmltla="TR2">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, IOMPAR, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>Sub-Committee on the Environment, Community and Local Government</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="SCR">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EORPACHA</irtext>
+    <subnameeng>Sub-Committee on European Scrutiny</subnameeng>
+    <subnameir>Fochoiste um Iniúchadh Eorpach</subnameir>
+    <atype>SCOM</atype>
+    <cid>EU</cid>
+  </committee>
+  <committee xmltla="SRJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON EUROPEAN SCRUTINY</entext>
+    <irtext>COMHCHOISTE UM GHRINNSCRÚDÚ EORPACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>SR</cid>
+  </committee>
+  <committee xmltla="FI4">
+    <sdate>2012-02-01</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM</entext>
+    <irtext>COMHCHOISTE UM AIRGEADAS, CAITEACHAS POILBÍ AGUS ATHCHÓIRIÚ</irtext>
+    <subnameeng>Joint Sub-Committee on European Scrutiny - Finance and Public Expenditure
+</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="PRS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>COISTE UM NÓS IMEACHTA AGUS PRIBHLÉIDÍ</irtext>
+    <subnameeng>Sub-Committee on Seanad Reform</subnameeng>
+    <subnameir>Fochoiste um  Atheagar an tSeanaid</subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="PRS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>COISTE UM NÓS IMEACHTA AGUS PRIBHLÉIDÍ</irtext>
+    <subnameeng>Sub-Committee on Seanad Reform</subnameeng>
+    <subnameir>Fochoiste um  Atheagar an tSeanaid</subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="PRS">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>COISTE UM NÓS IMEACHTA AGUS PRIBHLÉIDÍ</irtext>
+    <subnameeng>Sub-Committee on Seanad Reform</subnameeng>
+    <subnameir>Fochoiste um  Atheagar an tSeanaid</subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="FA1">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-18</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON JOBS, SOCIAL PROTECTION AND EDUCATION</entext>
+    <irtext>ROGHCHOISTE UM POIST, COIMIRCE, SHÓISIALACH AGUS OIDEACHAS</irtext>
+    <subnameeng>Select Sub-Committee on Education and Skills</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="ED1">
+    <sdate>2012-06-19</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON EDUCATION AND SOCIAL PROTECTION</entext>
+    <irtext>ROGHCHOISTE UM SHÓISIALACH AGUS OIDEACHAS</irtext>
+    <subnameeng>Select Sub-Committee on Education and Skills</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>ED</cid>
+  </committee>
+  <committee xmltla="TR4">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, IOMPAR, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>Select Sub-Committee on the Environment, Community and Local Government</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="EN1">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON ENVIRONMENT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>Select Sub-Committee on the Environment, Community and Local Government</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>EN</cid>
+  </committee>
+  <committee xmltla="PRM">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>
+    </irtext>
+    <subnameeng>Sub-Committee on Members Services</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="PRM">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>COMMITTEE ON PROCEDURE AND PRIVILEGES</entext>
+    <irtext>
+    </irtext>
+    <subnameeng>Sub-Committee on Members Services</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>PP</cid>
+  </committee>
+  <committee xmltla="FI2">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM</entext>
+    <irtext>ROGHCHOISTE UM AIRGEADAS, CAITEACHAS POILBÍ AGUS ATHCHÓIRIÚ</irtext>
+    <subnameeng>Select Sub-Committee on Public Expenditure and Reform</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="FI1">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM</entext>
+    <irtext>ROGHCHOISTE UM AIRGEADAS, CAITEACHAS POILBÍ AGUS ATHCHÓIRIÚ</irtext>
+    <subnameeng>Select Sub-Committee on Finance</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="HE1">
+    <sdate>2011-12-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>ROGHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Select Sub-Committee on Health</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="FA2">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON JOBS, SOCIAL PROTECTION AND EDUCATION</entext>
+    <irtext>ROGHCHOISTE UM POIST, COIMIRCE, SHÓISIALACH AGUS OIDEACHAS</irtext>
+    <subnameeng>Select Sub-Committee on Jobs, Enterprise and Innovation</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAS">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON JOBS, SOCIAL PROTECTION AND EDUCATION</entext>
+    <irtext>ROGHCHOISTE UM POIST, COIMIRCE, SHÓISIALACH AGUS OIDEACHAS</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FAJ">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON JOBS, SOCIAL PROTECTION AND EDUCATION</entext>
+    <irtext>COMHCHOISTE UM POIST, COIMIRCE, SHÓISIALACH AGUS OIDEACHAS</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="FA3">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON JOBS, SOCIAL PROTECTION AND EDUCATION</entext>
+    <irtext>ROGHCHOISTE UM POIST, COIMIRCE, SHÓISIALACH AGUS OIDEACHAS</irtext>
+    <subnameeng>Select Sub-Committee on Social Protection</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FA</cid>
+  </committee>
+  <committee xmltla="TR3">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, IOMPAR, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>Select Sub-Committee on Transport, Tourism and Sport</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="FI3">
+    <sdate>2011-06-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM</entext>
+    <irtext>ROGHCHOISTE UM AIRGEADAS, CAITEACHAS POILBÍ AGUS ATHCHÓIRIÚ</irtext>
+    <subnameeng>Select Sub-Committee on the Department of the Taoiseach</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>FI</cid>
+  </committee>
+  <committee xmltla="SMI">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE on the STRATEGIC MANAGEMENT INITIATIVE</entext>
+    <irtext>An COMHCHOISTE maidir leis an TIONSCNAMH um BAINISTÍOCHT STRAITÉISEACH</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>SM</cid>
+  </committee>
+  <committee xmltla="HEH">
+    <sdate>2005-10-04</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on High Levels of Suicide in Irish Society</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="HEH">
+    <sdate>2007-09-01</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>COMHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Sub-Committee on the High Level of Suicide in Irish Society</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+  <committee xmltla="TOS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON TOURISM, SPORT and RECREATION</entext>
+    <irtext>ROGHCHOISTE UM TURASÓIREACHT, SPÓRT AGUS ÁINEAS</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TOS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON ARTS, SPORT, TOURISM, COMMUNITY, RURAL AND GAELTACHT AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EALAÍON, SPÓIRT, TURASÓIREACHTA, POBAIL, TUAITHE AGUS GAELTACHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TOS">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-06-28</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON ARTS, SPORT, TOURISM, COMMUNITY, RURAL AND GAELTACHT AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ EALAÍON, SPÓIRT, TURASÓIREACHTA, POBAIL, TUAITHE AGUS GAELTACHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TOS">
+    <sdate>2010-06-29</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON TOURISM, CULTURE, SPORT, COMMUNITY, EQUALITY AND GAELTACHT AFFAIRS</entext>
+    <irtext>ROGHCHOISTE UM GHNÓTHAÍ TURASÓIREACHTA, CULTÚIR, SPÓIRT, POBAIL, COMHIONANNAIS AGUS GAELTACHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TOJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON TOURISM, SPORT and RECREATION</entext>
+    <irtext>COMHCHOISTE UM TURASÓIREACHT, SPÓRT AGUS ÁINEAS</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TOJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON ARTS, SPORT, TOURISM, COMMUNITY, RURAL AND GAELTACHT AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EALAÍON, SPÓIRT, TURASÓIREACHTA, POBAIL, TUAITHE AGUS GAELTACHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TOJ">
+    <sdate>2007-09-01</sdate>
+    <edate>2010-06-28</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON ARTS, SPORT, TOURISM, COMMUNITY, RURAL AND GAELTACHT AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ EALAÍON, SPÓIRT, TURASÓIREACHTA, POBAIL, TUAITHE AGUS GAELTACHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TOJ">
+    <sdate>2010-06-29</sdate>
+    <edate>2011-06-01</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON TOURISM, CULTURE, SPORT, COMMUNITY, EQUALITY AND GAELTACHT AFFAIRS</entext>
+    <irtext>COMHCHOISTE UM GHNÓTHAÍ TURASÓIREACHTA, CULTÚIR, SPÓIRT, POBAIL, COMHIONANNAIS AGUS GAELTACHTA</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TO</cid>
+  </committee>
+  <committee xmltla="TRS">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>SELECT COMMITTEE ON PUBLIC ENTERPRISE AND TRANSPORT</entext>
+    <irtext>ROGHCHOISTE UM FHIONTAIR PHOIBLÍ AGUS IOMPAIR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRS">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>SELECT COMMITTEE ON TRANSPORT</entext>
+    <irtext>ROGHCHOISTE UM IOMPAR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRS">
+    <sdate>2007-09-09</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>SELECT COMMITTEE ON TRANSPORT</entext>
+    <irtext>ROGHCHOISTE UM IOMPAR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRS">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-17</edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>ROGHCHOISTE UM CHOMHSHAOL, IOMPAR, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRS">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON TRANSPORT AND COMMUNICATIONS</entext>
+    <irtext>ROGHCHOISTE UM IOMPAR AGUS CUMARSÁID</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRJ">
+    <sdate>1997-01-01</sdate>
+    <edate>2002-06-05</edate>
+    <dailno>28</dailno>
+    <entext>JOINT COMMITTEE ON PUBLIC ENTERPRISE AND TRANSPORT</entext>
+    <irtext>COMHCHOISTE UM FHIONTAIR PHOIBLÍ AGUS IOMPAIR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRJ">
+    <sdate>2002-06-06</sdate>
+    <edate>2007-08-31</edate>
+    <dailno>29</dailno>
+    <entext>JOINT COMMITTEE ON TRANSPORT</entext>
+    <irtext>COMHCHOISTE UM IOMPAR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRJ">
+    <sdate>2007-09-09</sdate>
+    <edate>2011-06-07</edate>
+    <dailno>30</dailno>
+    <entext>JOINT COMMITTEE ON TRANSPORT</entext>
+    <irtext>COMHCHOISTE UM IOMPAR</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRJ">
+    <sdate>2011-06-08</sdate>
+    <edate>2012-06-18</edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT</entext>
+    <irtext>COMHCHOISTE UM CHOMHSHAOL, IOMPAR, CULTÚR AGUS GAELTACHT</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="TRJ">
+    <sdate>2012-06-18</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>JOINT COMMITTEE ON TRANSPORT AND COMMUNICATIONS</entext>
+    <irtext>COMHCHOISTE UM IOMPAR AGUS CUMARSÁID</irtext>
+    <subnameeng>
+    </subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>COM</atype>
+    <cid>TR</cid>
+  </committee>
+  <committee xmltla="HE2">
+    <sdate>2011-12-08</sdate>
+    <edate>
+    </edate>
+    <dailno>31</dailno>
+    <entext>SELECT COMMITTEE ON HEALTH AND CHILDREN</entext>
+    <irtext>ROGHCHOISTE UM SHLÁINTE AGUS LEANAÍ</irtext>
+    <subnameeng>Select Sub-Committee on Children and Youth Affairs</subnameeng>
+    <subnameir>
+    </subnameir>
+    <atype>SCOM</atype>
+    <cid>HE</cid>
+  </committee>
+</committees>

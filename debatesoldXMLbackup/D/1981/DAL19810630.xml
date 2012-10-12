@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Tue" Date="30" Month="Jun" Year="1981" Vol="329" No="1" DateIrish="Dé Máirt, 30 Meitheamh 1981" DateEnglish="Tuesday, 30 June 1981" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="FORÓGRA" RHead="PROCLAMATION">
+    <Title>FORÓGRA  PROCLAMATION</Title>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">
+De bhun comhairle a thairg an Taoiseach dom faoi alt 2 d' Airteagal 13 den Bhunreacht, déanaimse, PÁDRAIG Ó hIRIGHILE, Uachtarán na hÉireann, Dáil Éireann a lánscor leis seo Déardaoin, an 21ú lá de Bhealtaine, 1981, agus Dáil Éireann (a mbeidh a comhaltaí arna dtoghadh san Olltoghchán seo chugainn) a ghairm agus a chomóradh chun teacht le chéile i gcathair Bhaile Átha Cliath Dé Máirt, an 30ú lá de <Col N="3" />Mheitheamh, 1981, ar a 3 a chlog san iarnóin chun cibé gnó a dhéanamh a chuirfear faoina bráid.</entry>
+            <entry rowsep="1">
+Pursuant to an advice tendered to me by the Taoiseach under section 2 of Article 13 of the Constitution, I, PATRICK J. HILLERY, President of Ireland, hereby dissolve Dáil Éireann on Thursday, the 21st day of May, 1981, and summon and call together Dáil Éireann (the members whereof shall have been elected at the forthcoming General Election) to meet in the city of Dublin on Tuesday, the 30th day of June, 1981, at the hour of <Col N="4" /> 3 o'clock in the afternoon for the despatch of such business as shall be submitted to it.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>ARNA THABHAIRT FAOI MO LÁIMH AGUS FAOI MO SHÉALA AN 21ú LÁ SEO DE BHEALTAINE, 1981.</entry>
+            <entry>GIVEN UNDER MY HAND AND SEAL THIS 21st DAY OF MAY, 1981.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>PÁDRAIG Ó hIRIGHILE<br />Uachtarán na hÉireann<br />(President of Ireland)<br />CATHAL Ó hEOCHAIDHTaoiseach</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">
+      <b>Tuarascáil ón gCléireach i dtaobh Eascairí a chur amach agus Craoladh i dtaobh Freagraí.</b>
+    </P>
+    <P Just="Center">
+      <b>Report by Clerk as to issue of writs and Announcements as to Returns.</b>
+    </P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">I gcomhlíonadh Bhuan-Ordú Uimh. 3 de Bhuan-Orduithe Dháil Éireann i dtaobh Gnó Phoiblí, tá orm a thuairisciú go ndearna mé, díreach tar éis don Uachtarán Forógra an 21ú lá de Bhealtaine, 1981, a chur amach ag lánscor Dháil Éireann an lá sin, m'eascairí a chur amach, de bhun alt 12 den Acht Toghcháin, 1963, do na Dáilcheantair seo a leanas go dtí na Cinn Chomhairimh atá ainmnithe i ndiaidh seo:-</entry>
+            <entry rowsep="1">In compliance with Standing Order No. 3 of the Standing Orders of Dáil Éireann relative to Public Business, I have to report that immediately upon the issue by the President of the Proclamation of the 21st day of May, 1981, dissolving Dáil Éireann on that day, I issued my writs, pursuant to section 12 of the Electoral Act, 1963, for the following Constituencies to the Returning Officers named hereafter:-</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Dáilcheantair</entry>
+            <entry rowsep="1">Cinn Chomhairimh</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Constituencies</entry>
+            <entry>Returning Officers</entry>
+          </row>
+          <row>
+            <entry>Ceatharlach-Cill Chainnigh<br />Thomas G. Crotty<br />Carlow-Kilkenny</entry>
+            <entry>Thomas G. Crotty</entry>
+          </row>
+          <row>
+            <entry>An Cabhán-Muineachán<br />Cavan-Monaghan</entry>
+            <entry>Thomas P. Owens</entry>
+          </row>
+          <row>
+            <entry>An Clár<br />Clare</entry>
+            <entry>Thomas F. O'Reilly</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Thoir<br />Cork East</entry>
+            <entry>William F. O'Connor</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Thuaidh-Lár<br />Cork North-Central</entry>
+            <entry>Patrick C. Powell</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Thiar Thuaidh<br />Cork North-West</entry>
+            <entry>William F. O'Connor</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Theas-Lár<br />Cork South-Central</entry>
+            <entry>Patrick C. Powell</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Thiar Theas<br />Cork South-West</entry>
+            <entry>William F. O'Connor</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="5" />Dún na nGall Thoir Thuaidh<br />Donegal North-East<br />Dún na nGall Thiar Theas<br />Donegal South-West</entry>
+            <entry>
+              <Col N="6" />Brendan A.J. Murrin</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Láir<br />Dublin Central</entry>
+            <entry>Michael Hayes</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thuaidh<br />Dublin North</entry>
+            <entry>John M. Fitzpatrick</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thuaidh-Lár<br />Dublin North-Central<br />Baile Átha Cliath Thoir Thuaidh<br />Dublin North-East<br />Baile Átha Cliath Thiar Thuaidh<br />Dublin North-West</entry>
+            <entry>Michael Hayes</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Theas<br />Dublin South</entry>
+            <entry>John M. Fitzpatrick</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Theas-Lár<br />Dublin South-Central<br />Baile Átha Cliath Thoir Theas<br />Dublin South-East</entry>
+            <entry>Michael Hayes</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thiar Theas<br />Dublin South-West<br />Baile Átha Cliath Thiar<br />Dublin West<br />Dún Laoghaire<br />Dun Laoghaire</entry>
+            <entry>John M. Fitzpatrick</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Gaillimh Thoir<br />Galway East<br />Gaillimh Thiar<br />Galway West</entry>
+            <entry>Seán C. Ó Domhnaill</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>
+            </entry>
+          </row>
+          <row>
+            <entry>Ciarraí Thuaidh<br />Kerry North<br />Ciarraí Theas<br />Kerry South</entry>
+            <entry>Louise Mc Donough</entry>
+          </row>
+          <row>
+            <entry>Cill Dara<br />Kildare</entry>
+            <entry>Tadhg R. Brennan</entry>
+          </row>
+          <row>
+            <entry>Laois-Uíbh Fhailí<br />Laoighis-Offaly</entry>
+            <entry>James E. Cahill</entry>
+          </row>
+          <row>
+            <entry>Luimneach Thoir<br />Limerick East<br />Limneach Thiar<br />Limerick West</entry>
+            <entry>Proinsias B. Ó Gadhra</entry>
+          </row>
+          <row>
+            <entry>An Longfort-An Iarmhí<br />Longford-Westmeath</entry>
+            <entry>Leo Branigan</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="7" />Lú<br />Louth</entry>
+            <entry>
+              <Col N="8" />Brendan Breathnach</entry>
+          </row>
+          <row>
+            <entry>Maigh Eo Thoir<br />Mayo East<br />Maigh Eo Thiar<br />Mayo West</entry>
+            <entry>Bernard Daly</entry>
+          </row>
+          <row>
+            <entry>An Mhí<br />Meath</entry>
+            <entry>Marie Tehan</entry>
+          </row>
+          <row>
+            <entry>Ros Comáin<br />Roscommon</entry>
+            <entry>Anthony McCormack</entry>
+          </row>
+          <row>
+            <entry>Sligeach-Liatroim<br />Sligo-Leitrim</entry>
+            <entry>Patrick P. Devins</entry>
+          </row>
+          <row>
+            <entry>Tiobraid Árann Thuaidh<br />Tipperary North<br />Tiobraid Árann Theas<br />Tipperary South</entry>
+            <entry>Patrick J. McCormack</entry>
+          </row>
+          <row>
+            <entry>Port Láirge<br />Waterford</entry>
+            <entry>John Cooke</entry>
+          </row>
+          <row>
+            <entry>Loch Garman<br />Wexford</entry>
+            <entry>Maurice J. Phelan</entry>
+          </row>
+          <row>
+            <entry>Cill Mhantáin<br />Wicklow.</entry>
+            <entry>Philip P. O'Reilly</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Is iad seo a leanas ainmneacha na ndaoine a toghadh chun fónamh sa Dáil, mar aon le hainmneacha na nDáilcheantar dar toghadh iad:&mdash;</entry>
+            <entry rowsep="1">The following are the names of the persons returned to serve in the Dáil together with the names of the Constituencies for which they have been elected:&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Dáilcheantair</entry>
+            <entry rowsep="1">Comhaltaí</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Constituencies</entry>
+            <entry>Members</entry>
+          </row>
+          <row>
+            <entry>Ceatharlach-Cill Chainnigh<br />Carlow-Kilkenny</entry>
+            <entry>Liam Aylward<br />Kieran Crotty<br />Desmond Governey<br />Séamus Pattison<br />Tom Nolan</entry>
+          </row>
+          <row>
+            <entry>An Cabhán-Muineachán<br />Cavan-Monaghan</entry>
+            <entry>John P. Wilson<br />Tom Fitzpatrick<br />John F. Conlan<br />Rory O'Hanlon<br />Kieran Doherty</entry>
+          </row>
+          <row>
+            <entry>An Clár<br />Clare</entry>
+            <entry>Brendan Daly<br />Sylvester Barrett<br />Madeline Taylor<br />Bill Loughnane</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Thoir<br />Cork East</entry>
+            <entry>Myra Barry<br />Paddy Hegarty<br />Joe Sherlock<br />Carey Joyee</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="9" />Corcaigh Thuaidh-Lár<br />Cork North-Central</entry>
+            <entry>
+              <Col N="10" />Toddy O'Sullivan<br />Liam Burke<br />Bernard Allen<br />Seán French<br />Denis Lyons</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Thiar-Thuaidh<br />Cork North-West</entry>
+            <entry>Donal Creed<br />Frank Crowley<br />Tom Meaney</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Theas-Lár<br />Cork South-Central</entry>
+            <entry>Peter Barry<br />Pearse Wyse<br />Gene Fitzgerald<br />Eileen Desmond<br />Hugh Coveney</entry>
+          </row>
+          <row>
+            <entry>Corcaigh Thiar Theas<br />Cork South-West</entry>
+            <entry>Jim O'Keeffe<br />Flor Crowley<br />Patrick Joseph Sheehan</entry>
+          </row>
+          <row>
+            <entry>Dún na nGall Thoir Thuaidh<br />Donegal North-East</entry>
+            <entry>Patrick D. Harte<br />Neil Terence Blaney<br />Hugh Conaghan</entry>
+          </row>
+          <row>
+            <entry>Dún na nGall Thiar Theas<br />Donegal South-West</entry>
+            <entry>Clement Eunan Coughlan<br />James White<br />Pat Cope Gallagher</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Láir<br />Dublin Central</entry>
+            <entry>Bertie Ahern<br />Michael Keating<br />George Colley<br />Michael O'Leary<br />Alice Glenn</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thuaidh<br />Dublin North</entry>
+            <entry>Raphael P. Burke<br />John Boland<br />Nora Owen</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thuaidh-Lár<br />Dublin North-Central</entry>
+            <entry>Charles J. Haughey<br />George Birmingham<br />Noel Browne<br />Vincent Brady</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thoir Thuaidh<br />Dublin North-East</entry>
+            <entry>Michael Woods<br />Michael Joe Cosgrave<br />Liam Fitzgerald<br />Seán D. Alderman Dublin Bay Rockall Loftus</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thiar Thuaidh<br />Dublin North-West</entry>
+            <entry>Jim Tunney<br />Michael Barrett<br />Hugh Byrne<br />Mary Flaherty</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Theas<br />Dublin South</entry>
+            <entry>Niall Andrews<br />Séamus Brennan<br />Nuala Fennell<br />John Kelly<br />Alan Shatter</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Theas-Lár<br />Dublin South-Central</entry>
+            <entry>John O'Connell<br />Ben Briscoe<br />Fergus O'Brien<br />Tom Fitzpatrick<br />Gay Mitchell</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="11" />Baile Átha Cliath Thoir Theas<br />Dublin South-East</entry>
+            <entry>
+              <Col N="12" />Garret Michael Desmond FitzGerald<br />Gerard Brady<br />Seán Moore<br />Richie Ryan</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thiar Theas<br />Dublin South-West</entry>
+            <entry>Seán Walsh<br />Larry McMahon<br />Mervyn Taylor<br />Mary Harney</entry>
+          </row>
+          <row>
+            <entry>Baile Átha Cliath Thiar<br />Dublin West</entry>
+            <entry>Jim Mitchell<br />Brian Lenihan<br />Brian Fleming<br />Dick Burke<br />Eileen Lemass</entry>
+          </row>
+          <row>
+            <entry>Dún Laoghaire<br />Dun Laoghaire</entry>
+            <entry>David Andrews<br />Seán Barrett<br />Liam T. Cosgrave<br />Barry Desmond<br />Martin O'Donoghue</entry>
+          </row>
+          <row>
+            <entry>Gaillimh Thoir<br />Galway East</entry>
+            <entry>Paul Connaughton<br />Michael Paschal Kitt<br />John Callanan</entry>
+          </row>
+          <row>
+            <entry>Gaillimh Thiar<br />Galway West</entry>
+            <entry>Robert Molloy<br />Michael D. Higgins<br />John Donnellan<br />Máire Geoghegan-Quinn<br />Mark Killilea</entry>
+          </row>
+          <row>
+            <entry>Ciarraí Thuaidh<br />Kerry North</entry>
+            <entry>Thomas McEllistrim<br />Denis Foley<br />Dick Spring</entry>
+          </row>
+          <row>
+            <entry>Ciarraí Theas<br />Kerry South</entry>
+            <entry>Michael Moynihan<br />John O'Leary<br />Michael Begley</entry>
+          </row>
+          <row>
+            <entry>Cill Dara<br />Kildare</entry>
+            <entry>Paddy Power<br />Charlie McGreevy<br />Joe Bermingham<br />Bernard J. Durkan<br />Alan Martin Dukes</entry>
+          </row>
+          <row>
+            <entry>Laois-Uíbh Fhailí<br />Laoighis-Offaly</entry>
+            <entry>Oliver J. Flanagan<br />Liam Hyland<br />Ger Connolly<br />Thomas W. Enright<br />Bernard Cowen</entry>
+          </row>
+          <row>
+            <entry>Luimneach Thoir<br />Limerick East</entry>
+            <entry>Tom O'Donnell<br />Desmond O'Malley<br />Michael Noonan<br />Jim Kemmy<br />Peadar Clohessy</entry>
+          </row>
+          <row>
+            <entry>Luimneach Thiar<br />Limerick West</entry>
+            <entry>Gerard Collins<br />Willie O'Brien<br />Michael J. Noonan</entry>
+          </row>
+          <row>
+            <entry>An Longfort-An Iarmhí<br />Longford-Westmeath</entry>
+            <entry>Albert Reynolds<br />Patrick Mark Cooney<br />Gerry L'Estrange<br />Seán Keegan</entry>
+          </row>
+          <row>
+            <entry>Lú<br />Louth</entry>
+            <entry>Bernard Markey<br />Eddie Filgate<br />Patrick Agnew</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="13" />Maigh Eo Thoir<br />Mayo East</entry>
+            <entry>
+              <Col N="14" />Seán Calleary<br />P. J. Morley<br />Paddy O'Toole</entry>
+          </row>
+          <row>
+            <entry>Maigh Eo Thiar<br />Mayo West</entry>
+            <entry>Padraig Flynn<br />Denis Gallagher<br />Enda Kenny</entry>
+          </row>
+          <row>
+            <entry>An Mhí<br />Meath</entry>
+            <entry>John Bruton<br />Brendan Crinion<br />James Tully<br />Jim Fitzsimons<br />John V. Farrelly</entry>
+          </row>
+          <row>
+            <entry>Ros Comáin<br />Roscommon</entry>
+            <entry>Seán Doherty<br />Terry Leyden<br />John Connor</entry>
+          </row>
+          <row>
+            <entry>Sligeach-Liatrom<br />Sligo-Leitrim</entry>
+            <entry>Ray MacSharry<br />Ted Neylon<br />John Ellis<br />John Joseph McCartin</entry>
+          </row>
+          <row>
+            <entry>Tiobrain Árann Thuaidh<br />Tipperary North</entry>
+            <entry>Michael Smith<br />John Ryan<br />David Molony</entry>
+          </row>
+          <row>
+            <entry>Tiobraid Árann Theas<br />Tipperary South</entry>
+            <entry>Seán Treacy<br />Brendan Griffin<br />Seán McCarthy<br />Carrie Acheson</entry>
+          </row>
+          <row>
+            <entry>Port Láirge<br />Waterford</entry>
+            <entry>Martin Austin Deasy<br />Jackie Fahey<br />Edward Collins<br />William Kenneally</entry>
+          </row>
+          <row>
+            <entry>Loch Garman<br />Wexford</entry>
+            <entry>Michael D'Arcy<br />Ivan Yates<br />Lorcan Allen<br />Brendan Corish<br />Hugh Byrne</entry>
+          </row>
+          <row>
+            <entry>Cill Mhantáin<br />Wicklow</entry>
+            <entry>Ciaran Patrick Murphy<br />Godfrey Timmins<br />Paudge Brennan<br />Liam Kavanagh</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">De bhua alt 14 den Acht Toghcháin, 1963, measadh Pádraig Ó Fachtna a bhheith tofa mar dhuine do na comhaltaí do Dháilcheantar Lú.</entry>
+            <entry rowsep="1">By virtue of section 14 of the Electoral Act, 1963, Pádraig Faulkner has been deemed to have been elected as one of the members for the Constituency of Louth.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>I gcomhlíonadh Bhuan-Ordú Uimh. 4 de na Buan-Orduithe i dtaobh Gnó Phoiblí, táim tar éis cóipeanna de na hEascairí toghcháin agus de na freagraí a formhuiníodh orthu a leagan os comhair na Dála.</entry>
+            <entry>In compliance with Standing Order No. 4 of the Standing Orders relative to Public Business.  I have laid before the Dáil copies of the Writs of election and the returns endorsed thereon.</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="15" /> Go dtí seo tá an Rolla sínithe de réir na mBuan-Orduithe ag na Comhaltaí thuasluaite go léir, ach amháin iad seo a leanas:&mdash;</entry>
+            <entry>
+              <Col N="16" /> All the above-named Members have to date signed the Roll in accordance with Standing Orders, with the following exceptions:&mdash;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">An Cabhán-Muineachán<br />Cavan-Monaghan</entry>
+            <entry rowsep="1">Kieran Doherty</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Lú<br />Louth</entry>
+            <entry>Patrick Agnew</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election of Ceann" RHead="Comhairle">
+    <Title>Election of Ceann Comhairle.</Title>
+    <Speaker pid="" hpid="Cléireach na Dála Cléireach na Dála">
+      <NameTxt>Cléireach na Dála</NameTxt>
+      <P>De réir na mBuan Orduithe, is é an chéad ghnó eile ná Ceann Comhairle a thoghadh.  Glacfaidh mé anois le tairiscintí.  In accordance with Standing Orders, the next business is the election of a Ceann Comhairle, and I shall now receive motions.</P>
+    </Speaker>
+    <Speaker pid="PeterBarry" hpid="Mr. P. Barry Mr. P. Barry">
+      <NameTxt>Mr. P. Barry</NameTxt>
+      <P>Tairgim go dtóghfar ar Teachta Seán O Conaill agus go rachaidh sé i gceannas na Dála anois mar Cheann Comhairle.  I move that Deputy John O'Connell be elected to take the Chair of the Dáil as Ceann Comhairle.</P>
+    </Speaker>
+    <Speaker pid="JamesTully" hpid="Mr. Tully Mr. Tully">
+      <NameTxt>Mr. Tully</NameTxt>
+      <P>I formally second the Motion.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cléireach na Dála Cléireach na Dála">
+      <NameTxt>Cléireach na Dála</NameTxt>
+      <P>Tá mé ag cur na ceiste go dtoghfar an Teachta Seán Ó Conaill agus go rachaidh sé i gceannas na Dála anois mar Cheann Comhairle.  I am putting the question that Deputy John O'Connell be elected and do now take the Chair of the Dáil as Ceann Comhairle.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cléireach na Dála Cléireach na Dála">
+      <NameTxt>Cléireach na Dála</NameTxt>
+      <P>Iarraim anois ar an Teachta Seán Ó Conaill, Comhalta do Dháil Ceantar Baile Atha Cliath Theas-Lár, dul i gceannas an 22ú Dáil Éireann. I now call on Deputy John Ó Connell, Member for the Constituency of Dublin South-Central, to take the Chair of this 22nd Dáil Éireann.</P>
+      <P>
+        <i>Whereupon Members rose in their places and remained standing while the Ceann Comhairle proceeded to the Dais.</i>
+      </P>
+      <P>
+        <i>Standing beside the Chair, the Ceann Comhairle, addressing the Dáil said:</i>
+      </P>
+    </Speaker>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Firstly, I would like to thank my proposer and seconder and also the House for the great honour you have conferred upon me in electing me Ceann Comhairle.  It is a great honour. It is also a position which is fraught with great problems.  It is a position of great responsibility.  I give you my word that I will endeavour to discharge this responsibility to the very best of my ability. I shall try at all times to be impartial and I would seek your help and guidance on this matter.  I would hope to continue in office and perform the duties as befits this very important post.  Thank you all.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Nomination of" RHead="Taoiseach">
+    <Title>Nomination of Taoiseach.</Title>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The next business is the nomination of Taoiseach.  I will now receive motions.</P>
+    </Speaker>
+    <Speaker pid="GeorgeColley" hpid="Mr. Colley Mr. Colley">
+      <NameTxt>Mr. Colley</NameTxt>
+      <P>On behalf of the Fianna Fáil Party, I propose Deputy Charles J. Haughey as Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>Ba mhaith liom cuidiú leis sin.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. O.J. Flanagan Mr. O.J. Flanagan">
+      <NameTxt>Mr. O.J. Flanagan</NameTxt>
+      <P>Molaim duit, a Cheann Comhairle, an Teachta Gearóid Mac Gearailt agus molaim go n-ainmneoidh an Dáil é le dul os comhair an Uachtaráin le bheith againn mar Thaoiseach agus Ceann an Rialtais.  It gives me very great pleasure and is, indeed, an honour to propose the name of Deputy Garret FitzGerald as Taoiseach and Head of the Government of the Republic of Ireland.  Deputy FitzGerald possesses all the excellent qualities for this very high office, especially the great quality of leadership which is recognised internationally, <Col N="17" /> as well as within the State.  I ask Dáil Éireann to approve of my proposal for his nomination to the President of Ireland for appointment as Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="IvanYates" hpid="Mr. Yates Mr. Yates">
+      <NameTxt>Mr. Yates</NameTxt>
+      <P>I formally second the proposal of Dr. Garret FitzGerald as Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I am now putting the question that Deputy Charles Haughey be nominated as Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="NoelCBrowne" hpid="Dr. Browne Dr. Browne">
+      <NameTxt>Dr. Browne</NameTxt>
+      <P>On a point of information, surely we will be allowed to speak on the question?</P>
+    </Speaker>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Yes, as there were no speakers when the names were mentioned, I thought there was to be no discussion.  I gladly allow discussion.</P>
+    </Speaker>
+    <Speaker pid="NoelCBrowne" hpid="Dr. Browne Dr. Browne">
+      <NameTxt>Dr. Browne</NameTxt>
+      <P>It is important that those of us who are taking positions independent of the big parties should say why we are taking up these positions in respect of the two people proposed for the very important position of Taoiseach.  It is very rarely that I have found myself in this position.  The Members will appreciate that it is unusual that, as a Member of a minority party and an independent Member, we should have the power which we appear to have at present.  We owe it to the country, to the electorate and to the Deputies for whom this honour is proposed, to say why we intend to support them or vote against them, or even to abstain.</P>
+    </Speaker>
+    <P>Everybody will recall that, some 18 months ago when Deputy Haughey, following the strange episode of his assumption of power in the Fianna Fáil Party, was proposed as Taoiseach I opposed his nomination on that occasion.  I gave a number of reasons and will not go into them again.  I gave my reasons, based on my knowledge of Deputy Haughey over a very long time, going back to the fifties. Strictly on a political analysis of his policies and his defects, I came to the conclusion, having watched him in many ministries, ministries which one could only envy him for having had the privilege of holding&mdash;Finance, Justice, Agriculture, <Col N="18" /> Health&mdash;that he did not acquit himself to the extent that would have merited his being considered seriously for the position of Taoiseach.  I said at that time that those factors, together with other considerations, led me to conclude that Deputy Haughey would be a person unsuited to be Taoiseach and would, in fact, be a bad Taoiseach.  Events have supported that belief.  He has just gone to the country, although he had the magnificent majority of 20 Deputies won for him by his predecessor whom he displaced, Deputy Jack Lynch.  He had approximately 18 months left to run and surprisingly he went to the country.  Inexplicably he decided not to wait his full term.  We later found out the reasons for his decision to go to the country and I am informed reliably on this. The economy was in such serious disarray as a result of the profligate borrowing policies followed by the Taoiseach and his Government that he had no alternative but to go to the country and seek a new mandate so that he might have three, four or five years in which to impose the very penal, severe fiscal policies needed to put the economy right again.  As we know, he received neither a personal mandate nor a mandate for his party.</P>
+    <P>Over the last four years I raised a number of important issues&mdash;matters of private morality and private conscience, matters particularly affecting minorities, matters important in the context of the Northern Ireland question&mdash;matters like divorce, contraception, capital punishment and so on&mdash;and I found Deputy Haughey's attitude to be completely rigid, unyielding, uncompromising and totally intransigent.</P>
+    <P>During a debate in this House on the disreputable subject of the arms trial, in which the Leader of the Opposition and the Leader of the Labour Party contributed&mdash;and I attach a lot of importance to this&mdash;Deputy Haughey treated the House with total contempt.  He refused to attend the House; he refused to reply to the debate and, much more important, he refused to reply to the very serious charges impugning his honour and his reputation, which I felt it was his responsibility to do.  To me it seemed he was either contemptuous of what we thought <Col N="19" /> of his position or integrity, or he was afraid to come in here and reply.  Because of all these things and because of his failure on the economy and on social and other matters, I find I must vote against Deputy Haughey's nomination as Taoiseach.</P>
+    <P>On the question of the nomination of Deputy FitzGerald as Leader of a Coalition Government, most people will know I have had special experience of being a member of the first Coalition Government.  At that time I welcomed the introduction of this form of Government to our political life because as a young man I hoped it meant the end of the total stagnation of civil war politics in our society.</P>
+    <P>I learned a salutary lesson from my experience in that inter-Party Government&mdash;I am not referring to the mother and child scheme but to something much more important&mdash;which was composed of four parties.  It is worth looking back and asking Members of this House who know more about politics than anybody else in the country if they can remember the names of those parties.  I will tell them.  Clann na Poblachta&mdash;where are they now? What happened to them? Clann na Talmhan&mdash;where are they? What happened to them?  The National Labour Party&mdash;where are they? What happened to them?  Deep down in the maws of the Fine Gael Party rest the remains of those parties.  Where are the Irish Labour Party, then a strong and growing powerful party but now a shrinking, small, getting smaller, relatively impotent party?  I say this with the deepest regret and the greatest sorrow. Should we not learn something from that?</P>
+    <P>On the other hand, we should learn from this.  The newly formed Fine Gael Party had just emerged from the Cumann na nGaedheal Party.  I recall one of the Fine Gael Ministers coming into the Cabinet Room and delightedly telling me he had just come back from the Ard-Fheis in the Mansion House which had been packed to the doors.  In those days it was a great achievement to pack the Mansion House with an Ard-Fheis.  He said that <Col N="20" /> the previous year the Fine Gael Ard-Fheis could have been held in Buswells Hotel.  It gets worse.  In 1981 the Fine Gael Ard-Fheis could hardly fit in the enormous exhibition room of the RDS. Further, we saw Deputy FitzGerald &mdash;and it is to his credit&mdash;producing a Fine Gael Party, growing, powerful and deeply conservative&mdash;do not mind the cosmetic changes&mdash;with 65 Deputies taking their fourth&mdash;and will it be their last &mdash;bite of the Labour cherry.  Are we to see in this Dáil the end of Connolly's Labour Party as we saw the end of other small parties?</P>
+    <P>I had hoped the Labour Party might decide to negotiate either with Fianna Fáil or Fine Gael to get the best bargain they could and stay out of office, but they have not done that.  That was their decision, and it is none of my business, but I suspect it was an unwise decision.</P>
+    <P>I do not think that this Coalition, with all the very grave economic problems left to them by the incompetence of the Fianna Fáil Government, can, because of their belief in the monopoly capitalist system, create the kind of society which possibly many of them would like to create within that system.  There is no reform of the capitalist system and the evils that it creates.  Capitalism must be abolished and replaced by a socialist society.  I am glad to say that for the first time in the 60 years of our Dáil we have at last three, if not four, serious socialists in the Dáil.</P>
+    <P>For this reason, therefore, I intend to abstain in the voting on the nomination of Deputy FitzGerald as Taoiseach.</P>
+    <Speaker pid="JimKemmy" hpid="Mr. Kemmy Mr. Kemmy">
+      <NameTxt>Mr. Kemmy</NameTxt>
+      <P>Contrary to what some people might believe, it has been very difficult for me to reach a decision on the election of Taoiseach.  I have been influenced by a number of factors in making my decision.  One of those factors was the performance of the Fianna Fáil Government during the past four years.  Their sweeping victory was bought at too high a price.  They bought the election with grandiose promises which could not be fulfilled and could not be paid for.  This has been realised by the people.  Fianna Fáil went to the country in the recent <Col N="21" /> election seeking a mandate but they were not given that mandate.  The people voted in their fashion for change, although it may have been in a strange and inconclusive way.  I respect the decision of the people.</P>
+      <P>I have also been governed in my decision regarding the election of the Taoiseach by Fianna Fáil's policies over the years, especially during the past 18 months.  I recently described their policy as being dangerous and mischievous and I have no reason to change that opinion. Dangerous and mischievous policies can result in civil war and the past ten bloody years in Northern Ireland should make us all face the reality of the situation.</P>
+      <P>It will be very difficult to win the trust and confidence of the Northern Protestant community while we continue to claim jurisdiction over them in Articles 2 and 3 of our Constitution.  These Articles represent a real barrier to dialogue and to peace, progress, co-operation and harmony on this island.  To talk about uniting our territory while ignoring people is to fly in the face of reality.  One can only talk about uniting people, not about jurisdiction over people when we have no right to make such a claim.  Neither have we the will, the strength or the muscle to carry out that exercise.  We must break down sectarian barriers in all parts of this island and above all we must break down denominational education whereby the minds of the respective communities are poisoned.  These barriers can be broken down only through genuine friendship, good neighbourliness and good relations between the two communities. We must play a role in the coming together of peoples in this island.</P>
+      <P>We have had Government here by public relations and, at times, Government by default instead of Government in the interest of the people.  We have become very skilled at Government by public relations if one is to judge by the media.</P>
+    </Speaker>
+    <P>I also have reservations about voting for Deputy FitzGerald and a Coalition Government.  Indeed, I have my reservations about the Labour Party as well. In my talks last week with Deputy O'Leary, the newly elected Leader of the <Col N="22" /> Labour Party, I said that as a socialist I did not want the Labour Party to be revolutionary or ultraradical but at least they should be serious about the attainment of socialist objectives, no matter how long-term they are, and should work towards those objectives with a serious purpose and intent.  Labour have not shown that seriousness during the past decade and have gone backwards.  Some party members have blamed the people for the rejection of Labour in the city areas.  However, I believe that Labour have failed to be relevant to the people, especially in urban areas.  My own progress in Limerick, modest though it has been, shows that if one sticks to one's socialist policies through thick and thin the people will have respect and will respond when leadership is given.  Perhaps in my election there is some lesson for the Labour Party.</P>
+    <P>I would not expect Deputy FitzGerald to change the essential nature of the party he leads but I would expect from him and from the Labour Party in coalition honest and decent government in telling the people where we stand.  I am also concerned with the matter of employment and any support I may give today will be conditional and qualified and will be, above all, critical support.  My decision is made freely.  I am my own man, have always been and will continue to be in this House.</P>
+    <P>I found my foot in some strange doors last week and my foot will stay inside those doors.  If I vote today for a Government I will do so intending to exercise my role as a guarantor of the package put before the people last weekend and to see that those proposals are carried through.  If Deputy FitzGerald is elected Taoiseach I will be a frequent visitor to his door because I intend to use my voice and all the strength I have to ensure that we pull the Irish people into the modern world and tell them the truth about the many questions facing us.</P>
+    <P>I am concerned also about taxation and I am not happy with the package put before us.  In due course I will have something to say on that matter.</P>
+    <P>I expect better relations with Northern Ireland and I feel that the Articles I have <Col N="23" /> mentioned are offensive to certain people in the North.</P>
+    <P>It has been said that the independent Members can play the role of king-makers. I have read a little about history and sometimes king-makers do not last as long as kings.  I am very conscious of that and I do not intend to let this fleeting moment of notoriety go to my head.  I intend to use my position not in any reckless way but in a serious way to attain some of the objectives towards which we must work.  My vote will be based on that decision and if there is any attempt by Fine Gael or Labour to go back on the agreement they have reached I will be the first person to pull the rug from under them.  I can go back to my hammer and trowel in a few weeks or a few months as the case may be.  I have suffered defeats in the past, so the prospect of defeat and a Government falling does not frighten me in the least.</P>
+    <P>I say to Deputy FitzGerald and Deputy O'Leary that if they have my vote today it is freely and willingly given and no price has been paid for it.  My hands are totally clean and no deal has been done or pact reached.  That vote is given on condition that they will have a good and decent Government who will respect the Irish people as they have not been respected in the past.</P>
+    <Speaker pid="SeanDLoftus" hpid="Mr. Loftus Mr. Loftus">
+      <NameTxt>Mr. Loftus</NameTxt>
+      <P>A Cheann Comhairle and fellow Members of the twenty-second Dáil, I believe that the country needs a national Government, the pooling of the brains of the best men and women, putting their country before their party.  The economy is in such a bad state that if we are not careful we will find that whatever Government come to power will not actually govern the country but that the World Bank will be telling us what we must do as the IR£ is devalued and inflation and unemployment get worse.  The three parties have fine talents and they should pool their resources in the national interest.  I floated this idea in &ldquo;Day by Day&rdquo; on radio a few days ago and the feedback has been tremendous. I asked RTE to articulate this idea and explain the concept.  They refused, <Col N="24" /> although they allowed me on to a few radio programmes and it got a mention on television.</P>
+      <P>Last Saturday I went to the races and met businessmen&mdash;&mdash;</P>
+      <P>(<i>Interruptions.</i>)</P>
+    </Speaker>
+    <Speaker pid="SeanDLoftus" hpid="Mr. Loftus Mr. Loftus">
+      <NameTxt>Mr. Loftus</NameTxt>
+      <P>&mdash;&mdash;who were very concerned about the state of the economy and who feared that, if we did not get a Government who would manage our economy for at least two or three years, the country would be in a dire position. In this regard I objectively considered the talks which took place between Fine Gael and Labour the other day.  Before the election two parties presented us with policies which would save our country and after the election they were prepared to dilute their policies to put Fianna Fáil out of office and because they were lusting for power.  That is not a good enough reason.  Fine Gael and Labour should have approached Fianna Fáil in an effort to get the best talents of the three parties to govern for two or three years.  The precedent is there in Switzerland, the oldest democracy in Europe.  We could have Deputy Haughey as Taoiseach for the first year, Deputy Dr. FitzGerald for the second year and Deputy Michael O'Leary for the third year.</P>
+      <P>(<i>Interruptions.</i>)</P>
+    </Speaker>
+    <Speaker pid="SeanDLoftus" hpid="Mr. Loftus Mr. Loftus">
+      <NameTxt>Mr. Loftus</NameTxt>
+      <P>We would have good stable Government for at least three years and by then the people would have sorted them out and we would have a general election.  We are now faced with a situation in which the Government will not be able to manage our economy, or the Northern situation.  In relation to the North a national Government should look at the Northern situation and, instead of condemning the atrocities as they occur and brushing the whole thing under the carpet, they should face it as a political question to be solved immediately in justice to the Nationalists, the Loyalists, the Republicans and the Unionists.  The Government should face the fact that the Unionists fear domination from Dublin in a united Ireland concept. <Col N="25" /> However, we need a united Ireland on a federal basis, and we can get it.  My friends in America will support this.  Britain imposed Partition on Ireland 60 years ago as a temporary measure and the Unionist Party in the North consolidated it.</P>
+      <P>I have been involved in this question for many years.  I asked Mr. Edward Heath to study the Unionist injustices in Ireland going back 50 years and when Mr. Hook of the Foreign Office in London said that he was going to Rome and would visit the Pope and tell him of Britain's rights in the province of Ulster, I wrote to the Pope and told him my views in terms of a federal solution in justice to all parties.  The Papal Nuncio gave me the usual acknowledgement and informed me a few weeks later that my letter had reached its high destination. Archbishop Ó Fiach was called to Rome and he afterwards made a statement about the North.  Until Ireland is free, until Partition is faced squarely by all the political parties, innocent people will die.</P>
+      <P>Deputy Dr. Browne, my colleague, said that Fianna Fáil have not delivered. There are various reasons why we have not been able to make progress in terms of our economic situation and in terms of our political situation, much of which have to do with Mrs. Thatcher coming into our backyard one week before the election and rubbing our noses in the dirt. Mrs. Thatcher, as a Prime Minister, should never have come into the Taoiseach's backyard in that manner one week before an election.  That is one reason why Fianna Fáil did not get the mandate. I credit Fianna Fáil with the fact that they put the interests of the country and the joint talks first.  Things have been done behind the scenes in relation to the H-Blocks issue.  I would ask the three main political parties to seriously consider pooling their resources in a national Government in order to continue to deal with this and our economic problems.</P>
+    </Speaker>
+    <P>Last Tuesday <i>The Irish Times</i> did a survey which showed that all that the people want is a Government which will manage our economy, which will deal with the Northern question in justice to all the parties and to get the British Government <Col N="26" /> to undo what they did 60 years ago as a temporary arrangement.  They want a Government which will implement a policy of real decentralisation, a policy of accepting the role of agriculture in our economy and which will pursue consensus politics and so on.  They do not want this extraordinary situation in which one person can bring this new Government down.  It is a wrong situation to allow party politics to divide us when we should have an approach towards national politics for the good of the country. For the past 20 years I have been above the concept of divisive party politics as we are too small a country for it.</P>
+    <P>I thank God for giving me this seat, although it is a very dicey situation as I may be out in a matter of weeks or months.  I also thank my wife, Una, who stood beside me through thick and thin over 20 years.</P>
+    <P>(<i>Interruptions.</i>)</P>
+    <Speaker pid="SeanDLoftus" hpid="Mr. Loftus Mr. Loftus">
+      <NameTxt>Mr. Loftus</NameTxt>
+      <P>But for her I would not be here today.  I thank all voters who supported me across party divisions.  I cannot take part in a situation where the parties will not take up the suggestion to put the good of their country before their party interests.  Too many political assassinations have occurred in the three parties and it will take perhaps years to cool the political situation.  We should cool the political situation and look to the interests of our country.</P>
+    </Speaker>
+    <Speaker pid="JoeSherlock" hpid="Mr. Sherlock Mr. Sherlock">
+      <NameTxt>Mr. Sherlock</NameTxt>
+      <P>As a Deputy for Sinn Fein the Workers Party I welcome an opportunity to state my position in relation to the vote on the Taoiseach.  Having been involved at local government level since 1974 and having judged the Fianna Fáil performance and their failure to give attention to the issues affecting working people particularly, and in the light of the mandate given by the electorate.  I will vote against the Fianna Fáil nominee.  My party's total opposition to Coalition has been justified.  If it took a whole week to bring about a situation in which agreement could be reached between the two parties, it means that at the outset there must have been a wide difference.  It is <Col N="27" /> surprising that at election time when issues are identified there is no problem getting commitment at party meetings, but when it comes to the implementation of whatever agreements are made it is a different matter.  My purpose as a Sinn Fein the Workers Party representative is to build a strong workers' opposition in the Dáil and I have decided not to support the Fine Gael nominee.  For the purpose of forming a Government I will abstain on that vote.  By giving no commitment to coalition I make it clear that I will judge each vote on its merits.  The workers must be made to feel that this is their country and it is my intention to ensure that that is done by supporting the issues which were the issues in the election.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>We are here today after an election which in my estimation never should have been fought.  The last thing this country needed was an election.  The result given, which is anything but clear, perhaps is the verdict of the electorate on the rather foolish, unwanted chore we were all put to, the people particularly, and the cost to and neglect of our community and the economy in the meantime. Perhaps that is their verdict, no clear verdict one way or the other.</P>
+      <P>We find ourselves here today also minus two Members of the new expanded Dáil of 166.  Those two are in the H-Blocks of Long Kesh.  I would wish to have it go from here&mdash;from me if from nobody else&mdash;that we regret their absence, their inability to attend.  I would hope that collectively we, as an elected new Dáil, whatever form the Government may take, will henceforth and forthwith clearly and in the open come out and be seen to be concerned about the tragedy that is unfolded by their absence here today.</P>
+    </Speaker>
+    <P>I should say that the unwanted election we had is nothing compared with how unwanted a further election would be.  I do not say this because I am afraid of an election; I say it because I knew from the people before we had an election that we did not need or want one.  I know <Col N="28" /> even more clearly now, since the campaign, that we certainly do not need or want another one.  All I can hope is that the workings, programmes and operations of this House will be such that we do not have a precipitate election, going back to the people who have so many other matters of grave importance with which to deal rather than having to deal with another election in a matter of weeks or months.  However, that may happen and if it does well and good.  Let us hope that it will not and that the incoming Government will set about rectifying a situation that has reached disastrous proportions. I am not the one to attribute those disastrous proportions in regard to our economy and economic ills of today solely to the Government of either the last 18 months or that led by Jack Lynch in the previous two and a half years.  Do not forget that in 1977 the last Coalition Government had started to preside over the rot from which we are now suffering to an even greater degree in an international economic situation that is anything but promising and has indeed been difficult for several years.</P>
+    <P>During the election campaign the electorate had the sad, unenviable task of trying to choose between bad and worse. It is a matter of which way one might lean as to which one could describe as bad and which as worse.  In so far as the pre-1977 and post-1977 Governments are concerned both have done a grave disservice to this country and its economy.  It is our duty, as an elected Parliament, to try to undo&mdash;in haste&mdash;some of the damage that has been done before we find ourselves in the position outlined by a previous speaker a few moments ago of not having any real say in what we are to do about our economy in the future but rather have it dictated to us, as indeed our sister island, England, had it so dictated not so very long ago, and she is a much bigger entity.</P>
+    <P>In so far as voting in this contest, as it were&mdash;on the choice of Taoiseach&mdash;is concerned, despite what I have been saying I am realistic enough to realise that whether we have bad or worse, this is what we have and from that we must choose.  I am a full believer&mdash;and indeed <Col N="29" /> I forecast during the election that we would have a close finish&mdash;that despite that close finish in this House I should respond responsibility to the needs of the country in not trying to frustrate the formation of a Government but indeed, if at all possible, aid the election of a Government in order that we could get back to work and get something done about our economy.  It is not easy for me, no more than for anybody else in this House, to make a decision, and not just one because we have two propositions before us, each of which will be taken separately.  Up to perhaps a few days ago my mind was very much: a plague on both your houses.  I say that with no disrespect meant in any undue way to either Deputy Charles Haughey, our Taoiseach of today, or to Deputy Garret FitzGerald, the leader of the Opposition.  My thought, perhaps mischievous, was that I would love to have the opportunity of my vote being capable of beating both of them and sending them around the house again.  However, that is perhaps as one thinks after an election, before one gets down to the hard realities which the election was about, a Parliament from which a Government must emanate.</P>
+    <P>It is not on the basis of the operations of Fianna Fáil under Deputy Charles Haughey in the past 18 months or, indeed, before it, that I would subscribe my vote on their performance.  Their performance has been poor, to say the least of it.  On the other hand, I have had discussions with the Taoiseach.  I have had discussions&mdash;if such they could be called; they were rather short but I think quite fruitful&mdash;with the leader of the Opposition, Deputy Garret FitzGerald. I have had the opportunity of reading the joint programme, as all Members will have had, of the proposed Coalition Government.</P>
+    <P>In talking to the Taoiseach I was indeed impressed by his belief on two points which above all others concern me and I am sure most Members of this House.  Despite my criticism of the lack of progress in regard to the economy&mdash;employment being the under-pinning situation there&mdash;and the North, the Six Counties, Partition, call it what you <Col N="30" /> will, despite my not being at all satisfied and in fact being very dissatisfied in recent years in regard to the performance of the present Government, I did receive from the Taoiseach a commitment&mdash;and I do not think I am wrong in saying this&mdash;if Fianna Fáil did return, in regard to two things&mdash;which among many others I and my small party have been seeking, not in the last week or month but indeed for the last five years, and before the 1977 election&mdash;on the economic side and on the employment side.  There would be what I believe would be the only answer at this point in time, a massive construction programme involving houses, roads, sewers, water schemes, piers, schools, hospitals extensions, all the things for which our growing population are calling out and which we are unable to provide because, we are told, of lack of money at present.  At the same time we have almost 130,000 pairs of idle hands, each costing&mdash;-though of course they are not getting it&mdash;an average of £4,500 per annum.  Half of that number are quite capable of building, and desire to build, the things we need, things which will cost three or four times what they would today when we come to do them in five, 10 or 15 years time, as the case may be.</P>
+    <P>I do not believe there is any other way we can get ourselves out of the mess we are in.  Admittedly not all of it was of our own making but was contributed to by our passive attitude, our feeling that so long as we can have social welfare without regard to where the money comes from we can continue until somebody else does something in some other part of the world that will cure our depression. I am a complete believer in the adage that we cannot idle our way out of the depression, that we must work our way out of it.  I believe this is the way.  I am satisfied that if the present Taoiseach and his party were the Government a massive construction programme, designed not only to provide the things we need for our growing population but also to provide much-needed employment, would have been undertaken.  I also believe that on the sad story of the Six Counties, of which the H-Blocks are only a symptom, there would be a more definitely open <Col N="31" /> operation in regard to that matter <i>vis-á-vis</i> Mrs. Thatcher and the British Government than there has been up to now. On the basis of those two beliefs I would be prepared to support Deputy Charles Haughey as Taoiseach in the coming term.</P>
+    <P>I have got from the Taoiseach an answer to a memorandum of requests put forward by the six Independents, who met and formed themselves into a group for procedural purposes so that we can assist each other procedurally in the House to play a fuller part in it than individual Independent Members can do.  I have got a favourable response from the Taoiseach in regard to the six matters we discussed as a group last Friday.  I know, as far as Deputy Dr. Garret FitzGerald, the leader of the Opposition, is concerned, that the memo did not reach him until sometime very late today.  I am sorry about that, but it was not our fault.  The memo went but apparently it got lost on the way, like so many other things.  I am relying on getting a favourable response from all parties, whoever is in Government, because they will form the Committee on Procedure and Privileges, on which we are seeking to get representation so that we will know what is going on and can help to get things going better. I am taking this as likely to be agreed by all three parties.  We would be very thankful for this.</P>
+    <P>With regard to Deputy Dr. Garret FitzGerald as Taoiseach, the Coalition programme which has been agreed contains an amazing amount that was in my election programme of 1977.  I will not say that anybody picked it out of my programme, but it is certainly there.  I can show Deputies copies of both.  The programme contains proposals such as the reintroduction of reconstruction grants. The worst thing that was ever done was to do away with those reconstruction grants, because preserving houses is equal to building houses and it can be done for much less.  We have been seeking this.</P>
+    <P>With regard to the stay at home wife's allowance, we are one better than the <Col N="32" /> Coalition on that.  We are talking about £20, taxable, rather than tax credits.  The purpose behind this is not only to redress something which we are all aware of over the years, the neglect to provide money for wives even in well-off households, but also to make it attractive enough to those who must work at the moment to come back home and not alone care better for their young families but relinquish a job outside which would then be available for some young person now idle.  A sum of £9.60 will not do that, but £20 might.  I give full credit to those who have put this in the programme.</P>
+    <P>The sheep subsidy contains the same figure as mine.  We are rooting for the cow subsidy because it is badly needed. We also need the calf subsidy.  I hope they are all only temporary measures to bring up our declining herd numbers. There is an increased lime subsidy in the programme.  We have been seeking that also.  There are also improved silage grants.  They are not being sufficiently improved, although they are better than nothing.</P>
+    <P>With regard to the change in third level education, we have been talking over the years about discrimination and that only the children of the well-off people could afford to avail of third level education. Now we have turned the wheel almost full circle and no longer is there equal opportunity.  We are not concerned about choosing those who are capable of benefiting from third level education but by our points system we are putting it on a competitive basis and saying to those who are able to avail of it, even if they are prepared to pay for themselves that because they have not got the points they are not acceptable.  I accept the point of matriculation running side by side with the points system, which would remain for the purpose of giving education grants to those who need them.  I fully agree with that.  The youth training programme and employment schemes for youth are also very attractive.</P>
+    <P>However, I do not believe that the tax arrangements which have been proposed, and which would take quite a lot of research to work out, are capable of funding what I have gone over.  There are <Col N="33" /> quite a number of things which will cost money additional to what we are spending at the moment.  We are spending money at the moment which we have not got.  We are borrowing and we should not be doing that.  I am prepared to be educated on this and I hope that the tax arrangements will be capable of funding many of those very desirable things in the programme.</P>
+    <P>There is no mention of the H-Block tragedy, of our hunger strikes, our colleagues who are there today and may not be there very long unless something is done urgently.  I cannot accept this as being the full collective thinking of two parties.  I cannot understand how they can really brush over that and have platitudes and cliches about reconciliation, something which we all desire.  We cannot ignore the running sore which is there at the moment.  I find that a grave fault in the programme.</P>
+    <P>The second fault I find relates to the economy, and it is linked with the commitments I spoke about earlier that I felt I got from the present Taoiseach.  There are no real proposals in the Coalition document that will produce jobs on any sizeable scale.  The proposed youth employment and training schemes do not seem very satisfactory: we will be spending <Col N="34" /> more money in giving them further training but at the end of that they will join the dole queue.  We must find work. I believe we know where the work is.  We are not like other countries in Europe where people can excuse themselves by saying they are all in the same boat.  They are not.  They have more houses in Europe than they need.  They have roads that will do them for the next 50 years. They have water and sewerage services. They have a declining population.  We have a rising population, and a shortage of all those things.  Our unemployed people are capable of doing things and we are spending almost as much money in keeping them in idleness as would put them to work.  I think we are daft.  Perhaps at the end of the day I will be the one to be seen to have been daft, but I do not think so.</P>
+    <P>They are the two major points at issue, apart from other odds and ends which will have to be hammered out here.  They are the points which seem to me to stick out like sore thumbs.  Because of them, if Deputy Haughey does not become Taoiseach I will not be prepared to support Deputy FitzGerald to preside over a programme which has those two major holes in it.</P>
+    <P>Question put.</P>
+    <P Just="Center">The Dáil divided; Tá, 79; Níl, 83.</P>
+    <P Just="Center">Tá</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Acheson, Carrie.<br />Ahern, Bertie.<br />Allen, Lorcan.<br />Andrews, David.<br />Andrews, Niall.<br />Aylward, Liam.<br />Barrett, Michael.<br />Barrett, Sylyester.<br />Blaney, Neil T.<br />Brady, Gerard.<br />Brady, Vincent.<br />Brennan, Paudge.<br />Brennan, Seamus.<br />Briscoe, Ben.<br />Burke, Raphael P.<br />Byrne, Hugh.<br />(Wexford).<br />Callanan, John.<br />Calleary, Seán.<br />Clohessy, Peadar.<br />Colley, George.<br />Collins, Gerard.
+<Col N="35" />Geoghegan-Quinn, Máire.<br />Harney, Mary.<br />Haughey, Charles J.<br />Hyland, Liam.<br />Joyce, Carey.<br />Keegan, Seán.<br />Kenneally, William.<br />Killilea, Mark.<br />Kitt, Michael P.<br />Lemass, Eileen.<br />Lenihan, Brian.<br />Leyden, Terry.<br />Loughnane, William.<br />Lyons, Denis.<br />McCarthy, Seán.<br />McCreevy, Charlie.<br />McEllistrim, Thomas.<br />MacSharry, Ray.<br />Meaney, Tom.</entry>
+            <entry rowsep="1">Conaghan, Hugh.<br />Connolly, Gerard.<br />Coughlan, Clement.<br />Cowen, Bernard.<br />Crinion, Berndan.<br />Crowley, Flor.<br />Daly, Brendan.<br />Doherty, Seán.<br />Ellis, John.<br />Fahey, Jackie.<br />Faulkner, Pádraig.<br />Filgate, Eddie.<br />Fitzgerald, Gene.<br />Fitzgerald, Liam.<br />Fitzpatrick, Tom<br />(Dublin South-Central.)<br />Fitzsimons, Jim.<br />Flynn, Padraig.<br />Foley, Denis.<br />French, Seán.<br />Gallagher, Denis.<br />Gallagher, Pat Cope.
+<Col N="36" />Molloy, Robert.<br />Moore, Seán.<br />Morley, P.J.<br />Murphy, Ciarán P.<br />Nolan, Tom.<br />Noonan, Michael J.<br />(Limerick West).<br />O'Donoghue, Martin.<br />O'Hanlon, Rory.<br />O'Leary, John.<br />O'Malley, Desmond.<br />Power, Paddy.<br />Reynolds, Albert.<br />Smith, Michael.<br />Tunney, Jim.<br />Walsh, Seán.<br />Wilson, John P.<br />Woods, Michael J.<br />Wyse, Pearse.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Allen, Bernard.<br />Barrett, Seán.<br />Barry, Myra.<br />Barry, Peter.<br />Begley, Michael.<br />Bermingham, Joseph.<br />Birmingham, George.<br />Boland, John.<br />Browne, Noël.<br />Burton, John.<br />Burke, Dick.<br />Burke, Liam.<br />Byrne, Hugh.<br />(Dublin North-West).<br />Collins, Edward.<br />Conlon, John F.<br />Connaughton, Paul.<br />Connor, John.<br />Cooney, Patrick M.<br />Corish, Brendan.<br />Cosgrave, Liam T.<br />Cosgrave, Michael J.<br />Coveney, Hugh.<br />Creed, Donal.<br />Crotty, Keiran.<br />Crowley, Frank.<br />D'Arcy, Michael J.<br />Deasy, Martin A.<br />Desmond, Barry.<br />Desmond, Eileen.<br />Donnellan, John F.<br />Dukes, Alan M.<br />Durkan, Bernard J.<br />Enright, Thomas W.<br />Farrelly, John V.<br />Fennell, Nuala.<br />FitzGerald, Garret.<br />Fitzpatrick, Tom.<br />(Cavan-Monaghan).<br />Flaherty, Mary.<br />Flanagan, Oliver J.<br />Fleming, Brian.<br />Glenn, Alice.</entry>
+            <entry rowsep="1">Governey, Desmond.<br />Griffin, Brendan.<br />Harte, Patrick D.<br />Hegarty, Paddy.<br />Higgins, Michael D.<br />Kavanagh, Liam.<br />Keating, Michael.<br />Kelly, John.<br />Kemmy, Jim.<br />Kenny, Enda.<br />L'Estrange, Gerry.<br />McCartin, John J.<br />McMahon, Larry.<br />Markey, Bernard.<br />Mitchell, Gay.<br />Mitchell, Jim.<br />Molony, David.<br />Moynihan, Michael.<br />Nealon, Ted.<br />Noonon, Michael.<br />(Limerick East).<br />O'Brien, Fergus.<br />O'Brien, William.<br />O'Donnell, Tom.<br />O'Keeffe, Jim.<br />O'Leary, Michael.<br />O'Sullivan, Toddy.<br />O'Toole, Paddy.<br />Owen, Nora.<br />Pattison, Séamus.<br />Ryan, John J.<br />Ryan Richie.<br />Shatter, Alan.<br />Sheehan, Patrick J.<br />Sherlock, Joe.<br />Spring, Dick.<br />Taylor, Madeleine.<br />Taylor, Mervyn.<br />Timmins, Godfrey.<br />Treacy, Seán.<br />Tully, James.<br />White, James.<br />Yates, Ivan.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá, Deputies Moore and Briscoe; Níl, Deputies L'Estrange and B. Desmond.</P>
+    <P>
+      <Col N="37" /> Question declared lost.</P>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I am now putting the question: &ldquo;That Dáil Éireann nominate <Col N="38" /> Deputy Garret FitzGerald for appointment by the President to be Taoiseach&rdquo;.</P>
+      <P Just="Center">The Dáil divided: Tá, 81; Níl, 78.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Allen, Bernard.<br />Barrett, Seán.<br />Barry, Myra.<br />Barry, Peter.<br />Begley, Michael.<br />Bermingham, Joseph.<br />Birmingham, George.<br />Boland, John.<br />Bruton, John.<br />Burke, Dick.<br />Burke, Liam.<br />Byrne, Hugh.<br />(Dublin North-West).<br />Collins, Edward.<br />Conlon, John F.<br />Connaughton, Paul.<br />Connor, John.<br />Cooney, Patrick M.<br />Corish, Brendan.<br />Cosgrave, Liam T.<br />Cosgrave, Michael J.<br />Coveney, Hugh.<br />Creed, Donal.<br />Crotty, Kieran.<br />Crowley, Frank.<br />D'Arcy, Michael J.<br />Deasy, Martin A.<br />Desmond, Barry.<br />Desmond, Eileen.<br />Donnellan, John F.<br />Dukes, Alan M.<br />Durkan, Bernard J.<br />Enright, Thomas W.<br />Farrelly, John V.<br />Fennell, Nuala.<br />FitzGerald, Garret.<br />Fitzpatrick, Tom.<br />(Cavan-Monaghan).<br />Flaherty, Mary.<br />Flanagan, Oliver J.<br />Fleming, Brian.<br />Glenn, Alice.</entry>
+            <entry rowsep="1">Governey, Desmond.<br />Griffin, Brendan.<br />Harte, Patrick D.<br />Hegarty, Paddy.<br />Higgins, Michael D.<br />Kavanagh, Liam.<br />Keating, Michael.<br />Kelly, John.<br />Kemmy, Jim.<br />Kenny, Enda.<br />L'Estrange, Gerry.<br />McCartin, John J.<br />McMahon, Larry.<br />Markey, Bernard.<br />Mitchell, Gay.<br />Mitchell, Jim.<br />Molony, David.<br />Moynihan, Michael.<br />Nealon, Ted.<br />Noonan, Michael.<br />(Limerick East).<br />O'Brien, Fergus.<br />O'Brien, William.<br />O'Donnell, Tom.<br />O'Keeffe, Jim.<br />O'Leary, Michael.<br />O'Sullivan, Toddy.<br />O'Toole, Paddy.<br />Owen, Nora.<br />Pattison, Séamus.<br />Ryan, John J.<br />Ryan Richie.<br />Shatter, Alan.<br />Sheehan, Patrick J.<br />Spring, Dick.<br />Taylor, Madeleine.<br />Taylor, Mervyn.<br />Timmins, Godfrey.<br />Treacy, Seán.<br />Tully, James.<br />White, James.<br />Yates, Ivan.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Acheson, Carrie.<br />Ahern, Bertie.<br />Allen, Lorcan.<br />Andrews, David.<br />Andrews, Niall.<br />Aylward, Liam.<br />Barrett, Michael.<br />Barrett, Sylvester.<br />Brady, Gerard.<br />Brady, Vincent.<br />Brennan, Paudge.<br />Brennan, Seamus.<br />Briscoe, Ben.<br />Burke, Raphael P.
+<Col N="39" />Doherty, Seán.<br />Ellis, John.<br />Fahey, Jackie.<br />Faulkner, Pádraig.<br />Filgate, Eddie.<br />Fitzgerald, Gene.<br />Fitzgerald, Liam.<br />Fitzpatrick, Tom.<br />(Dublin South-Central).<br />Fitzsimons, Jim.<br />Flynn, Pádraig.<br />Foley, Denis.<br />French, Seán.<br />Gallagher, Dennis.<br />Gallagher, Pat Cope.<br />Geoghegan-Quinn, Máire.<br />Harney, Mary.<br />Haughey, Charles J.<br />Hyland, Liam.<br />Joyce, Carey.<br />Keegan, Seán.<br />Kenneally, William.<br />Killilea, Mark.<br />Kitt, Michael P.<br />Lemass, Eileen.<br />Lenihan, Brian.<br />Leyden, Terry.</entry>
+            <entry rowsep="1">Byrne, Hugh.<br />(Wexford).<br />Callanan, John.<br />Calleary, Seán.<br />Clohessy, Peadar.<br />Colley, George.<br />Collins, Gerard.<br />Conaghan, Hugh.<br />Connolly, Gerard.<br />Coughlan, Clement.<br />Cowen, Bernard.<br />Crinion, Brendan.<br />Crowley, Flor.<br />Daly, Brendan.
+<Col N="40" />Loughnane, William.<br />Lyons, Denis.<br />McCarthy, Seán.<br />McCreevy, Charlie.<br />McEllistrim, Thomas.<br />MacSharry, Ray.<br />Meaney, Tom.<br />Molloy, Robert.<br />Moore, Seán.<br />Morley, P. J.<br />Murphy, Ciarán P.<br />Nolan, Tom.<br />Noonan, Michael. J.<br />(Limerick West).<br />O'Donoghue, Martin.<br />O'Hanlon, Rory.<br />O'Leary, John.<br />O'Malley, Desmond.<br />Power, Paddy.<br />Reynolds, Albert.<br />Smith, Michael.<br />Tunney, Jim.<br />Walsh, Seán.<br />Wilson, John P.<br />Woods, Michael J.<br />Wyse, Pearse.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá, Deputies L'Estrange and B. Desmond; Níl, Deputies Moore and Briscoe.</P>
+    <P>Question declared carried.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="Dr. FitzGerald Dr. FitzGerald">
+      <NameTxt>Dr. FitzGerald</NameTxt>
+      <P>Ba mhaith liom fíorbhuíochas a chur in iúl don Dáil as ucht mé d'ainmniú mar Thaoiseach.</P>
+      <P>I do not propose to comment on the points made in this debate at this time although they are points to which I should ordinarly have liked to reply.  I would like to say that I found the debate constructive and helpful and will certainly take note of a number of the points made.</P>
+      <P>I wish simply to say at this point that I am conscious of the very great honour being conferred on me and I want to thank the Dáil for nominating me to this high office, the leadership of a State which in 60 years has won repute worldwide which far transends its small size.  I am also conscious of the many grave and urgent problems facing us not just in this State but in this island.  I have no illusions about their magnitude and approach them with a sense of humility.  I will try, as Taoiseach, to deal with them to the best of my ability in the interests of all the people of this island.</P>
+      <P>It is necessary that I should now go and inform the President of my nomination so that he may appoint me.  I would accordingly suggest that the Dáil adjourn until 7.30 this evening.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>I would like on behalf of myself and my party to congratulate Deputy FitzGerald on his election as Taoiseach and to convey to him my personal good wishes in undertaking the onerous responsibility of this high office. I want to assure him that it will be our intention to provide constructive opposition devoid of personal rancour or antagonism&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Deputies Deputies">
+      <NameTxt>Deputies</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>&mdash;&mdash;and to facilitate wherever necessary the passage of that which is essential in the national interest.</P>
+    </Speaker>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>At this juncture I would like to announce that, in accordance with precedent, when the Dáil resumes at 7.30 p.m.  Members on my left will take their seats on my right and Members on my right will take their seats on my left.</P>
+      <P>Sitting suspended at 5.05 p.m. and resumed at 7.30 p.m.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Appointment of Taoiseach and" RHead="Nomination of Members of Government">
+    <Title>Appointment of Taoiseach and Nomination of Members of Government.</Title>
+    <Col N="41" />
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Ba mhaith liom cead a chur in iúl mar eolas don Dáil gur chuir mé m'ainmniú mar Thaoiseach in iúl don Uachtarán agus gur cheap sé mé dá réir.</P>
+      <P>I wish to state for the information of the Dáil that I have informed the President that the Dáil has nominated me to be Taoiseach and that he has appointed me accordingly.</P>
+      <P>I move:&mdash;&ldquo;That Dáil Éireann approve the nomination by the Taoiseach of the following Deputies for appointment to be members of the Government&rdquo;:</P>
+      <P>Deputy Michael O'Leary</P>
+      <P>Deputy Peter Barry</P>
+      <P>Deputy James Tully</P>
+      <P>Deputy Tom Fitzpatrick (<i>Cavan-Monaghan</i>).</P>
+      <P>Deputy Eileen Desmond</P>
+      <P>Deputy John Bruton</P>
+      <P>Deputy Liam Kavanagh</P>
+      <P>Deputy Patrick Mark Cooney</P>
+      <P>Deputy John Kelly</P>
+      <P>Deputy John Boland</P>
+      <P>Deputy Paddy O'Toole</P>
+      <P>Deputy Jim Mitchell</P>
+      <P>and</P>
+      <P>Deputy Alan Dukes.</P>
+      <P>It has been the practice to indicate at this stage the Departments to which the Ministers will be assigned.  They are as follows:</P>
+      <P>Department of Energy&mdash;Deputy Michael O'Leary.  I also propose to nominate him as Tánaiste.</P>
+      <P>Department of the Environment &mdash;Deputy Peter Barry.</P>
+      <P>Department of Defence&mdash;Deputy James Tully.</P>
+      <P>Department of Fisheries and Forestry &mdash;Deputy Tom Fitzpatrick.</P>
+    </Speaker>
+    <P>
+      <Col N="42" /> Department of Health and Department of Social Welfare&mdash; Deputy Eileen Desmond.</P>
+    <P>Department of Finance&mdash;Deputy John Bruton.</P>
+    <P>Department of Labour and Department of the Public Service&mdash; Deputy Liam Kavanagh.</P>
+    <P>Department of Transport and Department of Posts and Telegraphs&mdash; Deputy Patrick Cooney.</P>
+    <P>Department of Industry, Commerce and Tourism&mdash;Deputy John Kelly.</P>
+    <P>Department of Education&mdash;Deputy John Boland.</P>
+    <P>Department of the Gaeltacht&mdash;Deputy Patrick O'Toole.</P>
+    <P>Department of Justice&mdash;Deputy Jim Mitchell.</P>
+    <P>Department of Agriculture&mdash;Deputy Alan Dukes.</P>
+    <P>I wish to indicate also my intention to re-assign functions in relation to industry in the Department of Industry, Commerce and Tourism to Deputy Michael O'Leary who, when the assignment is completed, will be Minister for Industry and Energy.  Deputy John Kelly will be Minister for Trade and Tourism.  There will be a re-assignment also to the Department of the Public Service which will be linked with the Department of Labour.</P>
+    <P>I wish to inform the House also of my intention to appoint in due course as Minister for Foreign Affairs Professor James Dooge.  I will be nominating him to the new Seanad when that opportunity arises and in the meantime Deputy John Kelly will be Minister for Foreign Affairs.</P>
+    <P>I propose also to nominate for appointment by the Government the following Members as Minister of State&mdash;these are the appointments I am making at this stage:</P>
+    <P>Deputy Gerry L'Estrange</P>
+    <P>Deputy Michael Begley</P>
+    <P>Deputy Joe Bermingham</P>
+    <P>Deputy Eddie Collins</P>
+    <P>Deputy Donal Creed</P>
+    <P>
+      <Col N="43" /> Deputy Michael D'Arcy</P>
+    <P>Deputy Barry Desmond</P>
+    <P>Deputy Mary Flaherty</P>
+    <P>Deputy Michael Keating</P>
+    <P>Deputy Ted Nealon</P>
+    <P>Deputy Fergus O'Brien</P>
+    <P>Deputy Jim O'Keeffe</P>
+    <P>and</P>
+    <P>Deputy Dick Spring.</P>
+    <P>I propose to nominate Mr. Peter Sutherland, S.C., for appointment by the President as Attorney General.</P>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>First, may I offer to each of these newly appointed Ministers my congratulations and good wishes?  I hope that during the debates that lie ahead we will all be able to distinguish between Ministers in their political and ministerial capacities and themselves as individuals and that our criticisms&mdash;and I am sure there will be many&mdash;will be accepted in that spirit.</P>
+      <P>We will vote against the appointment of this Government.  In doing so we will indicate our opposition in principle to Coalition and also to the political haggling and bartering that have brought this Government into office.  In this way we will be indicating also our opposition to the mixed bag of irreconcileables that the parties opposite purport to put forward as a Government programme of action.</P>
+    </Speaker>
+    <P>I wish to point out that in the recent general election campaign we fought an honest campaign.  We asked in a straight-forward manner for a mandate on the basis of a realistic programme.  We put that programme before the people and we made no special promises or offered any election bribes or inducements.  We did not receive the full mandate or the clear endorsement that we sought but neither did anyone else.  Neither of the parties opposite can claim any public endorsement for their original election manifestos and still less for this latest political <i>pot pourri</i> that we are asked to accept as the Government's programme. <Col N="44" /> We will be dealing in detail with that programme later but at this stage I merely wish to underline that many of its major elements do not enjoy the support of anything even approaching a majority of the electorate.  This programme is opposed by the trade union movement, to mention but one important element in our society.  The programme is dishonest. It is not capable of being implemented. It was put together for the sole purpose of selling coalition to a particular Labour Party conference.  Any objective assessment will show that the Government who have just left office brought the country through a most difficult economic period.  In the face of an unprecedented recession we rejected deflationary monetarist policies which would only have plunged us deeper into trouble and increased unemployment to unacceptable levels.</P>
+    <P>To a great extent we succeeded in our efforts to protect jobs and living standards and in investing in infrastructure to lay the basis for recovery later.  Our period of Government was marked by a determination to maintain national progress. New modern high technology industry has been obtained against keen world competition and has been established with Government support all over the country.  We have created thousands of jobs and have initiated major new programmes. We undertook the essential modernisation of our country's infrastructure. Of course, many of our plans will only come to fruition in the years ahead.  For the first time we have formulated a coherent and comprehensive national energy policy.  Our telephone system has been radically overhauled to give us the most modern equipment in Europe.  The road development plan for the eighties provides for major improvements in our national road system.  The national transport system is also undergoing major renewal and is being given a new role in our economic life.  New schools, colleges and hospitals are being built in every area of the country.</P>
+    <P>We instituted a process of continuing consultation, discussion and co-operation with the trade unions, with farmers and with employers, a process which was <Col N="45" /> both beneficial and fruitful.  We did not forget the less well-off sections of our community&mdash;the pensioners, the widows, the disabled and the handicapped. All of those in receipt of social welfare benefits will remember the real increases they received in the last two Fianna Fáil budgets.  We instituted a new approach and brought urgency to the solution of the problem of Northern Ireland.  That tragedy continues unabated.  In Opposition we will continue to do all in our power to assist in securing a solution.</P>
+    <P>Fianna Fáil remain the largest party in the Dáil and enjoy the support of nearly half of the Irish people.  We hold ourselves in readiness to resume office when called upon and I believe such a call will not be too long delayed.  In the meantime I want to assure the House and the country that we will honourably and faithfully discharge our democratic duty as a vigilant and effective Opposition in Dáil Éireann, supporting that which we regard as beneficial and vigorously opposing that which we consider unjust, unrealistic or detrimental to the best interests of our country and its people.</P>
+    <P>We will vote against the Government for the reasons outlined.  However, we wish each individual Minister every success in his or her appointment.</P>
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I should like to thank the leader of the Opposition for the congratulations he conveyed to individual members of the Government and for his courtesy in doing so.  That was the only part of his remarks with which I can in any way concur.</P>
+    </Speaker>
+    <P>Fianna Fáil were rejected at the polls basically because of the perception by the people that that party failed to govern, a failure to govern that has no precedent in the annals of this country and which has led to the near collapse of our public finances.  In the couple of hours since I was appointed Taoiseach I have had many things to do because the nature of the changeover on this occasion was such that tasks that might have been undertaken earlier could not be undertaken until this afternoon.  However, even in that brief time I have learned something of the scale of the damage done.  I have <Col N="46" /> to say I am shocked to find the position is even worse than our most pessimistic&mdash;&mdash;</P>
+    <P>
+      <i>(Interruptions.)</i>
+    </P>
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I do not say that without careful consideration.  It is not a propagandist remark; it is a factual remark. When the facts are disclosed they will validate what I have to say.  This Government have an enormous task ahead of them.  It is many decades since any Government faced the kind of problems we face.</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The scale of the mess is beyond anything that had to be faced previously.  All governments have a difficult task at the start.  We face major problems.  However, we have the advantage of coming into government with a clear charter in the common programme of our two parties, worked out on the basis of our two election programmes and between which there existed such a wide measure of common agreement.  In fact, one of the first tasks I undertook after the election was to prepare a concordance of the two and in going over the several hundred items involved it was encouraging to find the extent to which we found ourselves in agreement&mdash;as we had found ourselves in agreement so often on the Opposition benches in the past four years on very many issues against the Government of the day.</P>
+    </Speaker>
+    <P>There were matters to be sorted out and different approaches to be reconciled but none of these posed an insuperable problem.  The reception generally to the common programme has indicated clearly how much common ground there was and reconciliation of the different approaches has met with a wide measure of public acceptance.  It provides a basis for sound government&mdash;sound government but reforming government.  In the past four years two Fianna Fáil administrations did little or nothing in the area of reform where the previous National Coalition had been so active.  Fianna Fáil have left behind them so much to be done that this Dáil will have to become the <Col N="47" /> hardest working Dáil, as was the Dáil when the National Coalition Government were in power, in terms of the volume of legislation enacted and the amount of work done.</P>
+    <P>I am glad to have assembled a team whose talents will see us through this difficult period.  I believe we can overcome the difficulties that have been left to us and I believe that in doing this we will get the support of the people.  It is clear that tough measures will be needed but I believe we will get their support because the decision of the electorate was that they were tired of not being governed and they wanted to be governed. We shall govern by the process of listening and leading.  We shall not cut ourselves off from the people.  We shall remain sensitive to their views and wishes as we have sought to be in Opposition. In keeping in touch with the wishes and desires of the people, at the same time we shall give the leadership that is needed but which has been absent during the past 18 months of the former disastrous Government. I have to say these things at this stage because of what the former Taoiseach said and also because I think the country needs to be told how difficult is the situation.  The full measure of this will have to await a fuller study of the situation.</P>
+    <P>I am grateful to those who have given us the support necessary to be in government. I believe we have the support necessary to sustain this Government through difficult times.  Like other administrations that did not have an overall majority, this Government will see through their term of office.  There have been some such governments that have done very good work.  As I have had occasion to remark recently, one such Government was led by the former Taoiseach's distinguished father-in-law, Deputy Séan Lemass, from 1961 to 1965.  That Government put through the Second Economic Programme.  They did not face the same problems we face but during the four years they did much good work for the country.  I have always recognised that fact and I am willing to say so publicly. <Col N="48" /> I hope when we have completed our term of office in four and a half or five years' time we will have behind us a record, first, of having put the finances of the country in order, and second, of having put us back on to the path of prosperity with employment available which so many people are now deprived of and, third, a record of social reform which will improve upon that of the National Coalition Government and give the people grounds upon which to return us to office so that during the eighties the country may be led by a Government competent in carrying out their functions, concerned for the least privileged and concerned to create in our society something better than the materialistic society which has grown up so rapidly in recent years.</P>
+    <P>I should like to say a word about Northern Ireland.  I shall, as Taoiseach, dedicate myself to this problem which for me has always been a major preoccupation. It will come first as far as I am concerned and I will ensure that it will come first as far as the Government are concerned. Nothing in this State can take precedence over trying to resolve the tragedy of Northern Ireland.  Whatever action and leadership is needed and however unpopular that action may be we will take it. If there are times when it is best to be silent in order to help a solution and there are voices calling on us to speak and if by speaking we could do damage, we will have the courage to be silent.  When there are times to speak out and speak out strongly we will do so and seek to reestablish the relationship that was created under the previous Coalition Government with both sections of the community in Northern Ireland and that had existed previous to that with one section of the community but not the other.</P>
+    <P>We will endeavour to strengthen our links with the minority who have suffered so deeply in the last 12 years and reestablish the link with as wide as possible a spectrum of the majority section of the community.  It is only through the development of personal links, trust and confidence between the people and the political leaders of the two sections of our island that we will resolve the problem. Through that and the co-operation of the <Col N="49" /> Government of the neighbouring island which has been brought into discussions with us&mdash;and I acknowledge this freely&mdash;by the leader of the Opposition as Taoiseach, those discussions will be continued and, I hope, brought to a successful conclusion which will strengthen the relationship between our two islands which have shared so much history, most of it, unfortunately, tragic but which has left strong links between us upon which we can build.  In establishing those links we should be concerned above all to maintain the trust and confidence of both sections of the community in Northern Ireland.  To create that trust and confidence and build on it will be our primary aim.</P>
+    <P>I express the hope that when my time comes to leave politics something significant will have been achieved towards reuniting the people of the country. It is only in recent years that most of us have come to understand that that is the task.  It is a question of bringing together people and not reuniting territory.  That is the task we have to tackle and I dedicate myself to it.  I say to the people of the State that, if necessary, it will take precedence over domestic matters here, even if that is not the popular thing to do. At the same time we will tackle domestic problems with energy and dedication so as to recreate financial stability and prosperity and create a caring society.  Much of the sense of community and people helping each other which was such a deep characteristic of Irish society of long ago has been lost and must be restored.  We will endeavour through our leadership to do that.</P>
+    <P>I thank the House for its indulgence in listening to our necessarily <i>extempore</i> remarks during the pressures of the last few hours.  There is another item of business to be dealt with before we adjourn. For the benefit of the House, I should say it is my intention that we resume next <Col N="50" /> week.  There is legislation carried over from the previous administration which needs to be put through.  The proposals are non-controversial in character.  They were proposed by the previous administration and were acceptable to us so they should not be controversial.  We will have legislative proposals to make in order to put into effect as early as possible the programme set before the electorate.</P>
+    <P>Those aspects of the programme which relate to issues of income taxation have to await a budget in the income tax year but there are other proposals relating to agriculture, industry, tourism, third level education, reconstruction grants and so on which we want to put into effect as soon as possible.  It will be necessary to introduce legislation to raise money for this purpose because there is no question at this stage of any increase in borrowing. I understand, from a brief encounter with the press before I came here, that there had been remarks on this subject today from a very authoritative source.  I have not had a chance to study that but any legislative action we take or action by other means to fulfil our programme will require finance to be provided and we will be introducing measures along the lines set out in our programme.  I cannot say any more at this stage until I have had a chance to study the financial situation.</P>
+    <P>The Dáil will meet next week.  It will be necessary to make an order to revert to the hours that the Dáil has been working for some time past.  Technically the hours are until 10.30 p.m. and we must take some action to revert to the 8.30 p.m. pattern which by general consensus of the House has been operating successfully. I am not sure what that action is but someone will advise me on the exact terms of what I have to move.</P>
+    <P>There is another item of business which the Tánaiste will bring before the House in a moment.</P>
+    <P>Question put.</P>
+    <P Just="Center">The Dáil divided: Tá, 82; Níl, 78.</P>
+    <P Just="Center">Tá</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Allen, Bernard.<br />Barrett, Seán.<br />Barry, Myra.
+<Col N="51" />Birmingham, George.<br />Boland, John.<br />Bruton, John.<br />Burke, Dick.<br />Burke, Liam.<br />Byrne, Hugh.<br />(Dublin North-West).<br />Collins, Edward.<br />Conlon, John F.<br />Connaughton, Paul.<br />Connor, John.<br />Cooney, Patrick M.<br />Corish, Brendan.<br />Cosgrave, Liam T.<br />Cosgrave, Michael J.<br />Coveney, Hugh.<br />Creed, Donal.<br />Crotty, Kieran.<br />Crowley, Frank.<br />D'Arcy, Michael J.<br />Deasy, Martin A.<br />Desmond, Barry.<br />Desmond, Eileen.<br />Donnellan, John F.<br />Dukes, Alan M.<br />Durkan, Bernard J.<br />Enright, Thomas W.<br />Farrelly, John V.<br />Fennell, Nuala.<br />FitzGerald, Garret.<br />Fitzpatrick, Tom.<br />(Cavan-Monagham).<br />Flaherty, Mary.<br />Flanagan, Oliver J.<br />Fleming, Brian.<br />Glenn, Alice.<br />Governey, Desmond.<br />Griffin, Brendan.<br />Harte, Patrick D.<br />Hegarty, Paddy.</entry>
+            <entry rowsep="1">Barry, Peter.<br />Begley, Michael.<br />Bermingham, Joseph.
+<Col N="52" />Higgins, Michael D.<br />Kavanagh, Liam.<br />Keating, Michael.<br />Kelly, John.<br />Kemmy, Jim.<br />Kenny, Enda.<br />L'Estrange, Gerry.<br />McCartin, John J.<br />McMahon, Larry.<br />Markey, Bernard.<br />Mitchell, Gay.<br />Mitchell, Jim.<br />Molony, David.<br />Moynihan, Michael.<br />Nealon, Ted.<br />Noonan, Michael.<br />(Limerick East).<br />O'Brien, Fergus.<br />O'Brien, William.<br />O'Donnell, Tom.<br />O'Keeffe, Jim.<br />O'Leary, Michael.<br />O'Sullivan, Toddy.<br />O'Toole, Paddy.<br />Owen, Nora.<br />Pattison, Séamus.<br />Ryan, John J.<br />Ryan, Richie.<br />Shatter, Alan.<br />Sheehan, Patrick J.<br />Sherlock, Joe.<br />Spring, Dick.<br />Taylor, Madeleine.<br />Taylor, Mervyn.<br />Timmins, Godfrey.<br />Treacy, Seán.<br />Tully, James.<br />White, James.<br />Yates, Ivan.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Acheson, Carrie.<br />Ahern, Bertie.<br />Allen, Lorcan.<br />Andrews, David.<br />Andrews, Niall.<br />Aylward, Liam.<br />Barrett, Michael.<br />Barrett, Sylvester.<br />Brady, Gerard.<br />Brady, Vincent.<br />Brennan, Paudge.<br />Brennan, Seamus.<br />Briscoe, Ben.<br />Burke, Raphael P.<br />Byrne, Hugh.<br />(Wexford).<br />Callanan, John.<br />Calleary, Seán<br />Clohessy, Peadar.<br />Colley, George.<br />Collins, Gerard.<br />Conaghan, Hugh.<br />Connolly, Gerard.<br />Coughlan, Clement.
+<Col N="53" />Keegan, Seán.<br />Kenneally, William.<br />Killilea, Mark.<br />Kitt, Michael P.<br />Lemass, Eileen.<br />Lenihan, Brian.<br />Leyden, Terry.<br />Loughnane, William.<br />Lyons, Denis.<br />McCarthy, Seán.<br />McCreevy, Charlie.<br />McEllistrim, Thomas.<br />MacSharry, Ray.<br />Meaney, Tom.<br />Molloy, Robert.<br />Moore, Seán.<br />Morley, P.J.</entry>
+            <entry rowsep="1">Cowen, Bernard.<br />Crinion, Brendan.<br />Crowley, Flor.<br />Daly, Brendan.<br />Doherty, Seán.<br />Ellis, John.<br />Fahey, Jackie.<br />Faulkner, Pádraig.<br />Filgate, Eddie.<br />Fitzgerald, Gene.<br />Fitzgerald, Liam.<br />Fitzpatrick, Tom.<br />(Dublin South-Central).<br />Fitzsimons, Jim.<br />Flynn, Pádraig.<br />Foley, Denis.<br />French, Seán.<br />Gallagher, Denis.<br />Gallagher, Pat Cope.<br />Geoghegan-Quinn, Máire.<br />Harney, Mary.<br />Haughey, Charles J.<br />Hyland, Liam.<br />Joyce, Carey.
+<Col N="54" />Murphy, Ciarán P.<br />Nolan, Tom.<br />Noonan, Michael. J.<br />(Limerick West).<br />O'Donoghue, Martin.<br />O'Hanlon, Rory.<br />O'Leary, John.<br />O'Malley, Desmond.<br />Power, Paddy.<br />Reynolds, Albert.<br />Smith, Michael.<br />Tunney, Jim.<br />Walsh, Seán.<br />Wilson, John P.<br />Woods, Michael J.<br />Wyse, Pearse.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá Deputies L'Estrange and Mervyn Taylor; Níl, Deputies Moore and Briscoe.</P>
+    <P>Question declared carried.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Filling of Vacancy in the European Parliament" RHead="for the Constituency of Dublin: Motion">
+    <Title>Filling of Vacancy in the European Parliament for the Constituency of Dublin: Motion.</Title>
+    <Speaker pid="MichaelOLeary" hpid="The Tániste The Tániste">
+      <NameTxt>The Tániste</NameTxt>
+      <P>I move:</P>
+      <P>That Dáil Éireann hereby appoints Frank Cluskey of 1 Glanevin Park, Ballymun, Dublin, 11 (who has been nominated in accordance with section 15 of the European Assembly Elections Act, 1977 by the Labour Party) to be a representative in the Assembly of the European Communities for the Constituency of Dublin in the place of Deputy Michael O'Leary who was elected as a candidate of The Labour Party and who has resigned as a representative in the Assembly with effect from 30 June, 1981.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>We have no particular objection to approving of this final little piece of chicanery in the sealing of the Coalition bargain.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Nomination of Leas-Cheann Comhairle:" RHead="Notice of Motion">
+    <Title>Nomination of Leas-Cheann Comhairle: Notice of Motion.</Title>
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I propose to give the requisite notice under Standing Orders and to nominate Deputy Patrick Harte for the post of Leas-Cheann Comhairle, the motion to be taken next week.</P>
+    </Speaker>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is it agreed to take it next week?</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Yes, that is what I said. I am just giving you notice.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>Does he think that he will win our agreement just by putting you up, Paddy?</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>Where is the decisive Government?</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Messages" RHead="from Seanad">
+    <Title>Messages from Seanad.</Title>
+    <Speaker pid="JohnFOConnell" hpid="An Ceann Comhairle An Ceann Comhairle">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The following messages have been received from Seanad Éireann:</P>
+      <P>Seanad Éireann has accepted the Finance Bill, 1981, without recommendation.</P>
+      <P>Seanad Éireann has passed the following Bills without amendment: Hallmarking Bill, 1981; Employers' Employment Contribution Scheme Bill, 1981; Turf Development Bill, 1980; Family Law Bill, 1981 and Family Law (Protection of Spouses and Children) Bill, 1981.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="The" RHead="Adjournment">
+    <Title>The Adjournment.</Title>
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I wish to move the adjournment of the Dáil until 2.30 p.m. <Col N="55" /> next Tuesday when, I understand, the necessary time motion will be taken to change the times of sitting.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>Before agreeing, could we have some indication of what business we will be taking next week?</P>
+    </Speaker>
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I have already given a general indication and the Whips will be in touch on the details.  There will be Bills outstanding of which I have been notified and some measures of legislation of our own.  The Whips will be in contact and will arrange the details.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>I suppose it is not proposed to take any major financial measures next week.</P>
+    </Speaker>
+    <Col N="56" />
+    <Speaker pid="GarrettFitzgerald" hpid="The Taoiseach The Taoiseach">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>No. Adequate notice will be given and arrangements made through the Whips with regard to the legislation to be done by agreement.</P>
+    </Speaker>
+    <Speaker pid="CharlesJHaughey" hpid="Mr. Haughey Mr. Haughey">
+      <NameTxt>Mr. Haughey</NameTxt>
+      <P>Will the Taoiseach be certain that he will have all his tortured independents here to support him?</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+    </Speaker>
+    <Speaker pid="MarkKillileaJnr" hpid="Mr. Killilea Mr. Killilea">
+      <NameTxt>Mr. Killilea</NameTxt>
+      <P>I see some long faces at the back.</P>
+      <P>
+        <i>(Interruptions.)</i>
+      </P>
+      <P>The Dáil adjourned at 8.30 p.m. until 2.30 p.m. on Tuesday, 7 July 1981.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Tue" Date="11" Month="Oct" Year="1927" Vol="10" No="1" DateIrish="Dé Máirt, 11 Deireadh Fómhair 1927" DateEnglish="Tuesday, 11 October 1927" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P Just="Center">
+      <Col N="1" />
+      <Col N="2" /> Do chuaidh an Cathaoirleach i gceannas ar 3 p.m.</P>
+    <P Just="Center">
+      <b>THE PROCLAMATION.</b>
+    </P>
+    <P>The Clerk read the Proclamation convening the Oireachtas as follows:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Furógra Ó Thadhg O hEaluithe, duine d'Abhcóidí a Shoillse, Seanas- cal Shaorstáit Eireann.</entry>
+            <entry rowsep="1">Proclamation by Timothy Michael Healy, one of His Majesty's Counsel, Governor-General of the Irish Free State.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>DE BHRI gur dineadh leis an bhfurógra uaim ar an dáta so Oireachtas Shaorstáit Eireann do scur agus Toghachán Generálta i gcóir Dháil Eireann d'fhógairt ach ní i dtreo go ndéanfaidh baill Sheanaid Eireann do chur as a Suidheacháin ná toghachán i gcóir na mball san a bheith riachtanach.</entry>
+            <entry>WHEREAS by my proclamation of this date the Oireachtas of the Irish Free State was dissolved and a General Election for Dáil Eireann declared but not so as to vacate the Seats or require an election of members of Seanad Eireann.</entry>
+          </row>
+          <row>
+            <entry>ANOIS AR AN ABHAR SAN, do réir agus de bhua na comhachta agus an údaráis atá agam dinim-se, an Seanascal roimh-ráite, leis an bhfurógra so in ainm a Shoillse an Rí agus comhairle Ard-Chomhairle Shaorstáit Eireann agam chuige sin Oireachtas Shaorstáit Eireann agus gach Tigh den Oireachtas san do ghairm agus do ghlaoch le chéile chun teacht le chéile i gCathair Bhaile Atha Cliath, Dia Máirt an 11adh lá de Dheire Fomhair, 1927, ar a 3 a chlog um thráthnóna chun pé gnó a leagfar fé bhráid na dTithe fé seach do dhéanamh.</entry>
+            <entry>NOW THEREFORE under and by virtue of the power and authority in me vested I, the Governor-General aforesaid, by this proclamation in the name of His Majesty the King do hereby by and with the advice of the Executive Council of the Irish Free State summon and call together the Oireachtas of the Irish Free State and each House of the said Oireachtas to meet at the City of Dublin on Tuesday, the 11th day of October, 1927, at the hour of 3 o'clock in the afternoon, for the despatch of such business as shall be submitted to the respective Houses.</entry>
+          </row>
+          <row>
+            <entry>Tugtha fém Láimh agus Séaluithe le Mhór-Shéala Shaorstáit Eireann i mBaile Atha Cliath an 25adh lá so de Lúnasa, 1927.</entry>
+            <entry>Given under my hand and Sealed with the Great Seal of Saorstát Eireann at Dublin, this 25th day of August, 1927.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Sighnithe) T.M. HEALY,</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Signed) Seanascal Shaorstáit Eireann.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Governor-General of the Irish Free State.)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="THE ASSISTANT CLERK" RHead="OF THE SEANAD">
+    <Title>THE ASSISTANT CLERK OF THE SEANAD.</Title>
+    <Col N="3" />
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>The House may recollect that last year, I think about the month of April, I was able to inform it that the President of the Executive Council, on the recommendation of myself and the Minister for Finance, had appointed Mr. Coffey for a year as Assistant Clerk of the House. Since then, on the recommendation of myself and the Minister for Finance, the President has appointed him to the permanent position of Assistant Clerk.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="APPOINTMENT OF" RHead="DEPUTY CHAIRMEN">
+    <Title>APPOINTMENT OF DEPUTY CHAIRMEN.</Title>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>I might mention that in August last Senators Counihan and Dowdall were appointed under Standing Order No. 3 to form a panel of Chairmen, who would be prepared, if called upon, to act in the event of the unavoidable absence of the Cathaoirleach or Leas-Chathaoirleach. In view of the short tenure of office that these two Senators enjoyed, perhaps the House might be prepared to renew their appointment.</P>
+    </Speaker>
+    <Speaker pid="SamuelBrownKC" hpid="Mr. BROWN Mr. BROWN">
+      <NameTxt>Mr. BROWN</NameTxt>
+      <P>I move that Senators John C. Counihan and J.C. Dowdall be appointed to form a panel of Chairmen pursuant to Standing Order No. 3.</P>
+    </Speaker>
+    <Speaker pid="OsmondGrattanEsmonde" hpid="Sir THOMAS ESMONDE Sir THOMAS ESMONDE">
+      <NameTxt>Sir THOMAS ESMONDE</NameTxt>
+      <P>I second.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="APPOINTMENT OF COMMITTEE" RHead="OF SELECTION">
+    <Title>APPOINTMENT OF COMMITTEE OF SELECTION.</Title>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>The outgoing Committee of Selection consisted of Senators James G. Douglas, J. C. Dowdall, Michael Fanning, Thomas Farren. Rt. Hon. Andrew Jameson, Sir John Keane, Michael F. O'Hanlon, and Bernard O'Rourke.</P>
+    </Speaker>
+    <Speaker pid="SamuelBrownKC" hpid="Mr. BROWN Mr. BROWN">
+      <NameTxt>Mr. BROWN</NameTxt>
+      <P>I move that the Committee of Selection be reappointed.</P>
+    </Speaker>
+    <Speaker pid="OsmondGrattanEsmonde" hpid="Sir THOMAS ESMONDE Sir THOMAS ESMONDE">
+      <NameTxt>Sir THOMAS ESMONDE</NameTxt>
+      <P>I second</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="JOINT COMMITTEE ON" RHead="STANDING ORDERS">
+    <Title>JOINT COMMITTEE ON STANDING ORDERS.</Title>
+    <Col N="4" />
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>The next business is the appointment of three members of the Seanad to serve on the Joint Committee on Standing Orders to be set up in pursuance of Order 7 of the Standing Orders relative to Private Business.  I might mention that the outgoing members of the Joint Committee were Senators Brown, Hooper and Farren.</P>
+    </Speaker>
+    <Speaker pid="JohnMacLoughlin" hpid="Mr. McLOUGHLIN Mr. McLOUGHLIN">
+      <NameTxt>Mr. McLOUGHLIN</NameTxt>
+      <P>I move that Senators Brown, Hooper and Farren be reappointed to serve on the Joint Committee on Standing Orders.</P>
+    </Speaker>
+    <Speaker pid="OsmondGrattanEsmonde" hpid="Sir THOMAS ESMONDE Sir THOMAS ESMONDE">
+      <NameTxt>Sir THOMAS ESMONDE</NameTxt>
+      <P>I second.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="THE PUBLIC SAFETY" RHead="ACT, 1927">
+    <Title>THE PUBLIC SAFETY ACT, 1927.</Title>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>&ldquo;That in the opinion of the Seanad the administration of the Public Safety Act, 1927, has proved in practice to be dangerously subversive of the liberty of the subject; and that, in particular, the action of the Executive under that Act in regard to Messrs. P.J. Tuohy, John Murphy and Seán MacBride and Brigadier-General Eamon Horan has been contrary to the principles of justice.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>In reference to this motion, I might mention that I have drawn the attention of the Senator to the fact that the cases of two of the persons named in the motion, Seán MacBride and Brigadier-Gen.  Eamon Horan, are <i>sub judice,</i> and therefore, it would be quite contrary to constitutional practice and usage to allow any discussion with regard to them.  That is a long-established principle, and one established in the interests of the accused themselves, because if there was an open debate on the merits of their cases things might be said that might seriously prejudice them on their subsequent trial, if brought to trial, in fact.  In regard to these two cases I have explained this to the Senator, and <Col N="5" /> with his usual courtesy he has seen the force of my point, and he is satisfied that these two names should be withdrawn from the motion.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>As the Chairman has stated, after discussion with him I have agreed to do what he suggests. In any case, I did not intend to go into the merits of these cases, or as to whether these people were right or wrong.  My intention was to draw the attention of the House to the methods employed against them.  I will leave their cases out now.  I have no apology for presenting these cases to the House. I will read what the President stated in the Seanad, as it seems to govern these cases to a great extent.  Dealing with the Public Safety Act, the President said:&mdash;</P>
+      <P>The ordinary peace-loving citizen going about his business need have no fear whatever at the passing of this Bill.  There is no fear in the mind of any man as regards the operations of this measure, and there need be no fear when you have the two Houses of the Oireachtas, except in the minds of the panicky and of those who are unused to government and unfit to govern.</P>
+    </Speaker>
+    <P>It seems to me that is a statement of a very supercilious and concerted kind, because this Act gives power to a policeman to do whatever he likes.  I will not go into the question of whether that is right or wrong, but, at all events, for hundreds of years the law has been endeavouring to protect the citizen against the act, not only of a policeman, but of any individual person, whether King or soldier.  and insisting that he should be given fair play and be judged only by the evidence. That method has been adopted in England, and I daresay Senators may remember that within the last month there have been cases in London in which two or three persons were brought before a court and condemned. The question as to whether people should be arrested and brought before a court merely on the authority of an individual policeman is under consideration there.  In discussing the Public Safety Act I remember I stated that Ministers did not seem to have any <Col N="6" /> foresight.  They seemed to have no idea what the effect of such an Act would be, and that they lacked understanding of the very elements of statecraft.  I think I can repeat that statement now, because what I am going to read will show that the Act has not been administered in a way that leads to justice. Senators will remember that the President adjourned the Dáil for two months immediately after the passing of the Act; then, without the knowledge of the Dáil, and, indeed, the Dáil being very much deceived, he called a general election, to my mind straining the Constitution to the very utmost, and perhaps breaking it.</P>
+    <P>There is a time when such an Act as the Public Safety Act or any Act of that sort ought not to be applied, and that is during a general election.  It is the custom and practically the law that during an election people should be given a great deal of latitude as to what they say, more perhaps than is usually given&mdash;within certain limits, of course&mdash;without the interference of anyone, even the police.  The Ministry has constantly stressed that and have expressed the wish that people should be allowed to say what they wanted, that there should be freedom of speech. I want it to be understood quite clearly that in raising this matter I have no intention of attacking the Gardaí; I have no intention of attacking the police as a force; I confine myself to the actions of a very few people, certain individuals who seem to me to have acted very improperly in these cases. The very fact that some individuals do that shows that the President was wrong in his view as to what would happen.  The police have been given, it seems to me, even more power than a judge; in fact, a judge has to obey the orders of a policeman as to what he will do.  A man is brought before a judge&mdash;&mdash;</P>
+    <Speaker pid="JohnMacLoughlin" hpid="Mr. McLOUGHLIN Mr. McLOUGHLIN">
+      <NameTxt>Mr. McLOUGHLIN</NameTxt>
+      <P>I would like to draw your attention, sir, to the fact that there is not a quorum.</P>
+    </Speaker>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>I think there are twelve Senators present.  Will you proceed, Senator?</P>
+    </Speaker>
+    <Speaker pid="ThomasForan" hpid="Mr. FORAN Mr. FORAN">
+      <NameTxt>Mr. FORAN</NameTxt>
+      <P>There will be more envelopes going around.</P>
+    </Speaker>
+    <Col N="7" />
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>The very fact of raising this question shows the efforts of those who approve of the Act to prevent it being discussed now.  I am glad to see that one Senator was not a party to it.  As I have said, the judges are put quite in a secondary position.  A policeman can order a judge to imprison a man, and he has to do it whether he likes or not.  I would have thought, especially before the election, that any experienced Ministers, looking ahead and seeing what was likely to happen, seeing that there are a number of men who are not easily controlled, should have been warned to be very careful not to interrupt elections and not to interfere with freedom of speech.  Either that was not done or it certainly was not followed up, if I am correct in what I state.  I will record, as concisely as I can, what did happen, as far as I know it, and as far as it appeared in the public court, and what I am going to say was not in any way denied in the public court; it was practically admitted, because the men to whom I am going to refer have been released, and in that way practically cleared of the matter, so that their imprisonment, or anything else, would not have been approved of.  I will read what happened with regard to Mr. P. J. Tuohy, of Dawson Street, Dublin. He is Secretary of the Fishermen's Association, and he has come very closely under my own observation, because I was at one time Chairman and am now Assistant Chairman of that organisation.  He is a man of repute and of considerable thought.</P>
+    </Speaker>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>At present there is no constituted Executive Council; there are no Ministers, and consequently the House cannot have the <Col N="8" /> benefit of the presence of a Minister here to-day.  Under these circumstances I would suggest that it might be wiser for you to adjourn your motion to a future date, when it would be open to the Minister for Justice to attend.  If you intend to go through all the details of some particular prosecution or case, it is quite possible that the Minister might want to say something on the other side.  At present that is impossible, because there is no such Minister, as you know.  I only throw out the suggestion that it might be more consonant with the principles of justice and of ordinary debate if the matter stood over until the Executive Council is completed, if it is to be completed.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>In reply to that, I would call your attention to the fact that outgoing Ministers remain in office until new Ministers are appointed.</P>
+    </Speaker>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>That is not so. As a matter of fact there is no Minister for Justice, unfortunately, as we all know, in office to-day.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>On the other hand, I saw the appointment of Mr. Fitzgerald-Kenney announced the other day.</P>
+    </Speaker>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>None of these appointments is effective until it is ratified by the Dáil.  I do not intend to stop you at all, but I throw out the suggestion for your consideration.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel MOORE Colonel MOORE">
+      <NameTxt>Colonel MOORE</NameTxt>
+      <P>Very well.  If the House wishes it I am agreeable.</P>
+      <P>Debate adjourned.</P>
+      <P>The Seanad adjourned at 3.25 p.m.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

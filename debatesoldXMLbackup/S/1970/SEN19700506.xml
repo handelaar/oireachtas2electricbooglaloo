@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="6" Month="May" Year="1970" Vol="68" No="2" DateIrish="Dé Céadaoin, 6 Bealtaine 1970" DateEnglish="Wednesday, 6 May 1970" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="79">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="79" /> Chuaigh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>As a consequence of events in another place over which I have no control, I regret that I am unable to proceed with the business on the Order Paper today and I shall ask you, a Chathaoirleach, to summon the Seanad to deal with this business as early as possible.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I wonder could the Leader of the House give any indication <Col N="80" /> of what he means by &ldquo;as early as possible&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Next week, I hope.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I gather the event he is referring to is an acute shortage of Ministers and I think the House would welcome some clarification of how this House stands in this situation.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>This House, I hope, will meet next week.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Will the other House?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I hope so.</P>
+    </Speaker>
+    <Speaker pid="PatrickJReynolds" hpid="Mr. Reynolds Mr. Reynolds">
+      <NameTxt>Mr. Reynolds</NameTxt>
+      <P>Faith without good works is dead.</P>
+      <P>The Seanad adjourned at 3.5 p.m. <i>sine die.</i></P>
+    </Speaker>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="7" Month="Nov" Year="1947" Vol="108" No="11" DateIrish="Dé hAoine, 7 Samhain 1947" DateEnglish="Friday, 7 November 1947" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1599" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="PN" LHead="Private Notice Question&mdash;" RHead="- General Election">
+    <Title>Private Notice Question&mdash; - General Election.</Title>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>asked the Taoiseach if he will state whether it is proposed to hold the next general election on the basis of the constituencies provided for in the Electoral (Amendment) Bill, 1947.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The answer is yes. Of course that depends on whether there will be no undue delay in passing the Bill that is before the House.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Could the Taoiseach go further and tell us what will be the date of the election?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>That is beyond me to tell even though it is my duty.  I could not tell definitely just now.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>May I take it, arising out of what the Taoiseach has said, that the election will then be fought on the current electoral register?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>On the current electoral register, in all probability.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Can the Taoiseach say what are the circumstances preventing him making a statement on the matter now?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>There are a whole lot of things in connection with registers and things like that.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>If, as the Taoiseach says, the election will be fought on the present register what difficulty arises?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I am told that there are difficulties.  There is a holiday period coming in which will help to add to the difficulties and there is a good <Col N="1600" /> deal of preparation which must be made.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>Is it the intention of the Government to enact legislation for the reform of the Seanad before the general election?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>Yes, quite possibly.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>What does the Taoiseach actually mean by the present register? Is it the register of last year and the year before?</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>The current one.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>This is the month for the preparation of the register.</P>
+    </Speaker>
+    <Speaker pid="EamonDeValera" hpid="The Taoiseach Eamon de Valera">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>On the current register.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>That is, the old register of last year.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The present register.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is proposed to take business in the following order:&mdash;No. 1 and Nos. 10 to 17, except No. 15, with the Money Resolutions in the appropriate place.  It is proposed that public business will not be interrupted.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Seanad Electoral (Panel Members)" RHead="Bill, 1947&mdash;First Stage">
+    <Title>Seanad Electoral (Panel Members) Bill, 1947&mdash;First Stage.</Title>
+    <P>Leave granted to introduce a Bill entitled an Act to regulate elections of the members of Seanad Éireann who are required to be elected from panels of candidates and elections to fill casual vacancies occurring amongst those members and to provide for matters incidental to or connected with such elections.&mdash;(Minister for Local Government.)</P>
+    <P>Ordered that Second Stage be taken on Tuesday, the 18th November, 1947.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Finance (No. 2) Bill," RHead="1947&mdash;Second Stage (Resumed)">
+    <Title>Finance (No. 2) Bill, 1947&mdash;Second Stage (Resumed).</Title>
+    <Speaker pid="FrankAiken" hpid="Minister for Finance (Mr. Aiken) Frank Aiken">
+      <NameTxt>Minister for Finance (Mr. Aiken)</NameTxt>
+      <P>Deputy Norton&mdash;I am sorry that he has left the House&mdash;has described this Budget as being &ldquo;politically unwise&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Agreed.</P>
+    </Speaker>
+    <Col N="1601" />
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>And Deputy MacEoin agrees with him.  So Deputy MacEoin thinks that this is a politically unwise Budget.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>And so does Deputy Flanagan.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>If the people of this country were so foolish as to believe that everything that is physically desirable is also financially possible then this Budget would fail to attract their votes.  If it were the object of this Government to remain in office by pandering to the foolishness of the most foolish in the country then the Budget is unwise.  But as it is the object of this Government to endeavour to estimate the physical realities and the social necessities of the people and to explain them fairly and clearly to the people then it is a wise Budget. I make a gift to the splinter Parties of the Opposition of the votes they think they are going to get because of what they call the political unwisdom of the Government in introducing this Budget.  The people of this country know&mdash;not perhaps the majority of them, but those who think on political, economic, financial, social and cultural affairs&mdash;and are keenly aware of the economic condition of the country and the economic condition of the world.  They are, in my opinion, wise enough to know that it is foolish to put a twist on what the famous economist in England, the late Lord Keynes, said&mdash;&ldquo;what is physically possible is financially possible&rdquo;&mdash;the twist that what is physically desirable should be financially possible, and they know that the Governments of the various countries which acted upon that twist have led, and are leading, their countries into political, economic and financial chaos.</P>
+    </Speaker>
+    <P>The Government here, if it merely wanted to &ldquo;scrounge&rdquo; votes, to remain in office, to win the three recent by-elections, could have produced a Budget which would have stood comparison with the Budget in any other country in the world that I know of. It could have added £4,750,000 to the national debt, instead of taking £4,750,000 from the cinema-goers, the pipe smokers, the people who drink, <Col N="1602" /> the people who pay surtax, the people who own motor cars, who buy furs and cosmetics and who pay income-tax. The Government did not do it, because we believed that it would be only fooling the people to pretend that the cure for the restriction in world supplies and under-production here is the pumping out of more money.  I believe most strongly that the volume of money should fit the volume of goods available for sale.  I believe there should be sufficient money at all times to enable the volume of goods available for sale to be distributed, but I believe most strongly too that, if the volume of money is in excess of that amount, it would be foolish to add to it, and criminal for a Government who knew the truth to pretend to the people that they could get out of their difficulties by adding to it.  We have imposed certain rates of taxes in the various Budgets and in this Supplementary Budget, in order to collect sufficient money, without having recourse to increased bank credit or increased Government debt, to enable the existing supply of goods to be distributed in a socially wise and just way.  There are Governments in other parts of the world who have similar schemes of taxation, although most of them in the past few years or during the war have not collected in taxation anything like the percentage of their expenditure that we have.</P>
+    <P>Deputy Norton accused me of being engaged in a capitalist conspiracy because I increased the tax on the workman's tobacco, cigarettes and pint of beer, and, at the same time, gave back £4,500,000 to the profiteers, as he called them, who paid excess corporation profits tax during the war.  I asked Deputy Norton last week, when we were discussing the Budget Resolutions and yesterday, to explain to me if he thought it was because of a capitalist conspiracy in the British Labour Government that they increased the tax on the workman's tobacco to the point at which the price is practically twice the price here, that they added a shilling to the price of cigarettes to bring them from 2/4 to 3/4, and that they are charging such taxation as results in the bottle of stout or beer being sold at 1/- to 1/3 in England as against 8½d. here? <Col N="1603" /> If it is a capitalist conspiracy here, why is it not a capital conspiracy in England?  Would a Labour Government here, heading some of these splinter groups, follow the Labour Government's example in England and increase the price of tobacco to nearly 4/-, the price of cigarettes to 3/4, and the bottle of beer from 8½d. to 1/1 or 1/3, or what would they do?  The people at least know what we will do&mdash; we have told them.  The Labour Party may sit silent here, but when they go down to the crossroads, they will not be so silent.</P>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>What fools they would be.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The country has a right to know what they are going to do, in the event of the people being so foolish as to elect them to form portion of a coalition of the splinter groups in the Dáil.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>What are you getting worried about?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>What will be their policy with regard to taxation?  Will they follow the policy of the Labour Government in England and increase the prices of tobacco, beer and cigarettes? They have accused the Fianna Fáil Government of giving £4,500,000 to the bloated capitalists here.  Will they, in some fashion or other, follow the example of the Labour Government in England who gave £325,000,000 to the bloated capitalists there by way of abolition of excess corporation profits tax?  I think that that is a fair question to ask.  The people should not be asked to buy a pig in a poke.  Would the Labour Party, if they had a Government of the splinter groups, give £325,000,000 to the bloated capitalists?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Are you referring to Fianna Fáil and Córas na Poblachta as splinter groups?  Those are the first two splinters they broke into and they will break into many more.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I was delighted to see Deputy Dillon welcoming with open arms and almost kissing the Kingstown republican who came in here the other day.</P>
+    </Speaker>
+    <Col N="1604" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Deputy MacBride and I were at school together under Father Sweetman.  Anybody from that school&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The Deputy is coming to school to you again, so far as I can see.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>You will be going to school to him before long.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>He learned outside the Deputy's &ldquo;corruption&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Anything he knows, he learned from the Minister.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>That is as far as I can see.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>May I ask the Miniter to repeat what he said about corruption? Is he making a charge of corruption against Deputy Dillon or myself?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>We may as well get this right.  What I charged I charged to the Opposition groups.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Specify.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Including Deputy Dillon.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Courage.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>And including Deputy Mulcahy.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I thought the Minister was on Deputy MacBride.  Do not run away.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Deputy MacBride is only the political child of Deputy Mulcahy&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>On a point of order&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Perhaps the Minister will be allowed to explain.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>On a point of order, are we discussing economic matters or is the Minister being invited to continue on the lines on which he has just embarked?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister was replying to an interruption by Deputy Dillon.  Deputies cannot expect to interrupt without getting an answer.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister's discourse is broken now.</P>
+    </Speaker>
+    <Col N="1605" />
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The Kingstown republican who came in here the other day&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>On a point of order, is the Minister in order in taking individual Deputies and applying nicknames or sobriquets to them?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy in question has been duly elected for County Dublin.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>And his name is MacBride.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Will the Minister withdraw the remark?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The Deputy who came in here the other day and who was welcomed so effusively by Deputy Dillon, the Deputy who was elected by 8,000 votes from Fine Gael&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>On a point of order, in the interest of decorum in debate, is it in order for a Deputy to describe another as &ldquo;the Kingstown republican?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I do not see any insult in describing any Deputy as a republican&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I resent&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>If Deputies do not want to hear the Chair, the Chair will not rule on any point of order. Deputies might observe Standing Orders.  I do not know where Kingstown is.  It is no insult to call a Deputy a republican, but a Deputy should be referred to as Deputy for the constituency which he represents, if he is referred to at all, and the reference should not be limited to one particular town in his constituency.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I shall explain what I mean by saying &ldquo;Kingstown.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I do not know where &ldquo;Kingstown&rdquo; is.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Dun Laoghaire.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>It is a place where the word &ldquo;republic&rdquo; cannot be mentioned.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>If the Minister indicated a particular Deputy by a name which he ought not to have <Col N="1606" /> applied, is it in order for him to proceed to elaborate and explain why he used that epithet in respect of the Deputy in question?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I heard nothing unparliamentary from the Minister.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Good enough.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>If the Deputy who was elected in County Dublin the other day with the votes of Fine Gael&mdash;8,000 of them&mdash;will explain to me why, in his election address to the voters of County Dublin, he did not mention the word &ldquo;republic&rdquo;&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>On a point of order&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>Perhaps you, a Chinn Comhairle, would allow me, on a point of order, to ask you to rule out, in the course of a discussion on the Finance Bill, personal references to or attacks upon members of this House.  I refrained from making personal attacks on any member of this House since I came in here and I ask you to rule out personal attacks.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It is not advisable that the Minister should follow the line of what happened in the election.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I contest the statement that the member for County Dublin, recently elected, made no reflection on members of this House.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Do you not know where&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>His election address contained an allegation, following Deputy Dillon and Deputy Mulcahy, of corruption against the members of this Government.  I will read the address to you.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I think that the Minister had better not.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>This is election stuff.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Does the Deputy recently elected for County Dublin withdraw the charges of corruption?</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Let him go to Dun Laoghaire and read it.</P>
+    </Speaker>
+    <Col N="1607" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>As I said last night, the stock in trade of these splinter groups&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>You refer to yourself, of course.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>&mdash;&mdash;which Deputy Dillon and others hope to head some time or other&mdash;Deputy Dillon at £4,000 per year and others of them somewhat cheaper &mdash;is &ldquo;corruption&rdquo; or &ldquo;cor-ruption&rdquo;, as Deputy Dillon would say&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>A poor imitation.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Or &ldquo;coruption&rdquo; as the latest Deputy for County Dublin would say.  I want to say this&mdash;that the most dastardly form of corruption is an allegation of corruption against honest men.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>Where are the honest men?  Point them out.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Last night again, Deputy Flanagan accused the Taoiseach of corruption. He put him on the same plane as the dictator of the Union of Soviet Republics in Europe and Asia.  I wish that the 11,000 or 12,000 voters in Laoighis-Offaly who elected the Deputy as their No. 1 representative and sent him into this Dáil to accuse Eamon de Valera of corruption could see him in operation here in front of foreign visitors.  If Deputy Flanagan, LaoighisOffaly's No. 1 Deputy, were put on the stage in Laoighis-Offaly and behaved there as he behaves here, the theatre would be wrecked, because it would be said that he was a stage Irishman.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>On a point of order, I respectfully ask you to rule out discussions of members of this House in the course of a discussion on the Finance Bill.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is something in the point of order but, if a Deputy in the course of a debate on the Financial Bill, makes charges of corruption, the Minister is entitled to answer them.  If the Deputy referred to, in the course of a discussion on this Bill, made charges of corruption&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I was here for portion of Deputy Flanagan's speech on this <Col N="1608" /> Bill yesterday, and I did not hear any specific charge of corruption being made by the Deputy.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>May I inform the Minister that, last night, in the course of my speech, I made no charge of corruption against the Taoiseach?  I ask the Minister to be good enough to quote my words.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Does the Deputy withdraw his charge of corruption against the Government?  He repeated it this morning.  I want to point out to the latest arrival from County Dublin that he heard only portion of my speech.  I commenced at 10.30.  That was too early for him.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Where are the rest of the boys?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>When the members were at their tea yesterday evening, the Deputy called for a count of the House. When the House assembled at 10.30 this morning, he was not here.  I want to say this, that when we go out to this general election the people are going to know where we stand.  There is going to be no hugger-mugger about it.  I know where Deputy Kinane stands, who was elected from Tipperary. Deputy Kinane said that he stood for a 32-County Irish-speaking Republic.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>And rightly so.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>On a point of order.  Are we discussing financial business here or are we opening the general election campaign?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I hope the election campaign will be ruled out here between now and the election.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Could we begin this morning, Sir?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>May I be permitted to pass this remark?  For two days I sat here listening to election speeches.  I never once interrupted&mdash;not once.  I listened to the Government being accused by Deputy Flanagan of corruption. I never said a single word.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>What accusation like that did I make?</P>
+    </Speaker>
+    <Col N="1609" />
+    <Speaker pid="DanielORourke" hpid="Mr. O'Rourke Mr. O'Rourke">
+      <NameTxt>Mr. O'Rourke</NameTxt>
+      <P>You never said anything like that.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>And Deputy Flanagan, during this election, will go down through the country and from every platform will again accuse the Government of corruption.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>If we cut out the election campaign it will make for better order here.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>It would, of course, a Chinn Comhairle.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>We will meet you down there.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>But, as I have been asked to withdraw this Budget because of the result of the by-elections, and as Deputy Norton has advised me that it was &ldquo;politically unwise&rdquo; to face a general election on the basis of it, I think I am entitled to make an odd remark, which will be merely <i>en passant,</i> if it does not draw interruptions, as to the reason that the Government are not going to withdraw this particular Budget even though there is a general election in the offing.</P>
+      <P>Again I invite Deputy Norton or any member of his Party to say, if by any chance the people of this country are so foolish in the next general election to elect them, what they will do in the matter of the excess corporation profits tax.  Will they proceed to reimpose the excess corporation profits tax?  Will they not be content to abolish it, as we did, or will they go as far as the Labour Government in England went and give £325,000,000?  Will they abolish the present duties on tobacco or will they do as the Labour Government in England did, increase the price of cigarettes from 2/- to 3/4?  Will they in the matter of income-tax impose the same rates on the working people as they do in England and make the £4 a week single man here pay three times as much as he is at present paying in order to bring him up to the Labour standard in England?  Will they make the married man with no children, who has £350 a year here, pay eight times as much as he is paying at present in order to bring him up to the British standard of income-tax?</P>
+    </Speaker>
+    <Col N="1610" />
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>There was a war in England.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Will they make the married man with three children pay four times as much as he is at present paying in order to bring him up to the British standard?  Will they impose a tax on the married man with three children&mdash;on £500 a year, at present paying nothing here&mdash;in order to bring him up to the British standard?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Tell us all about the old age pensioners and the agricultural labourers while you are at it.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister did not interrupt in two days.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>He is very impudent this morning.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister did not interrupt in two days.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Will the Labour Party do something to cut down the rate per hour of bricklayers, masons, carpenters and joiners from the 2/11½ here to the 2/10½ London rate or the 2/7½ rate in Manchester, Liverpool and all the large cities and, in addition to that, step up their income-tax, step up their tobacco and step up their beer?  Deputy Norton says the Budget is &ldquo;politically unwise&rdquo;.  Is it because the Labour Party think it would be &ldquo;politically unwise&rdquo; for them to give an answer to these questions that they remain silent?  Was it because it was &ldquo;politically unwise&rdquo; for Deputy Norton to answer the question which I asked him last week that he remained silent about these matters when he was discussing this Budget last night?</P>
+    </Speaker>
+    <P>Deputy Dockrell joined in the propaganda of both wings of the Labour Party and endeavoured to drive our people out of this country by promises of an El Dorado in England by saying, why should bricklayers, masons and building trade operatives remain here when by going to England they could get a higher standard of wage and a higher standard of income?  What is the reason that Deputy Dockrell made that allegation?  Is Deputy Dockrell not in touch with the building trade?  Does he want to see more of our building trade operatives go over to England because <Col N="1611" /> of these rosy promises of an El Dorado that he, in conjunction with the Labour Party, is holding out?  Does Deputy Dockrell not know that the big reason that there is not a bigger output of houses is that there is a bottle neck in skilled labourers who are getting higher rates per hour here than they are getting in England and who have lower income-tax and lower prices for the luxuries, or essentials, as some Deputies have called them, of tobacco, beer, and so on?  I am prepared to admit, and have never denied, that the cost of existence in England is lower than it is here, but the cost of living is higher.  You can get a few ounces of meat per week for a shilling or so on the ration card, but try to get a little bit beyond that, to get as much as the Dublin working man or tradesman eats, and how much will you pay for it?  You would need to be a millionaire in order to do so.</P>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>But what does he pay for his eggs?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The egg a month, is it?</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>The eggs, in Dublin.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The 12 eggs a year they get in England.</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>I am asking what does the Dublin man pay for his eggs.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>What would the Englishman pay for the Dublin man's eggs&mdash; that is the question.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>What is he paying for them at the present time?  What is the Englishman paying at present for the Dublin man's eggs?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>He gets one egg a month.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>That is no reply to the question I asked the Minister.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>If he wanted to get the same supply of eggs as the Dublin man has, he would pay probably four times as much as the Dublin man.</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>There are a whole lot of people in the country getting no eggs at all.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>That brings me to one point and I might as well follow it up&mdash;<Col N="1612" /> the suggestion about the tax on tourists.  I think I have taxed tourists who come over here with plenty of money very severely in this Budget and in the last one.  If there is anyone who has a concrete suggestion as to how we could segregate the tourists, the English millionaires, who come over here, from the Irish people who have gone over to England and return for a holiday, I am prepared to consider it. In the first Budget this year I doubled the tax on wines and in this Budget I have doubled it again.  I considered other forms of taxes that would be paid largely by tourists who eat luxury meals here and I could think of no better way than to collect it by a tax on wines and spirits.  If any Deputy has a better idea, let me have it and I will examine it.  I do not propose to tax the ordinary Irishman who goes over to England and comes back here for a holiday.  I wish to goodness they would stay at home.  I would like more of them to come back, to look round and see that the allegations and propaganda by Deputy Dockrell are not true, that if they came back here&mdash;building operatives, particularly&mdash;they would get a much higher rate of wages per hour and a much higher standard of living.  Quite a number of them who came back here without being taxed, these alleged tourists, came home and stayed at home.  I hope there will be a lot more of that form of tourism.</P>
+      <P>The editorial youngster of the <i>Irish Times</i> accused the Government of being old and tired.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>A skelp at Mr. Smyllie.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The sprightly editor of the <i>Irish Times</i> accused the Government of being old and tired.  One rather wearying thing on the Government is a repetition of the essential principles of a sound economy.  We have time and again told our people that we can have a higher standard of life here when we increase our production.  If we do not increase our production and attempt to have a higher standard of life by going on a spending spree, we can have a higher standard for a time provided we dissipate all our capital assets.  The people who have no capital assets in the world at the moment are <Col N="1613" /> doing all sorts of things in order to accumulate them.  I would not advise our people to dissipate their capital assets at the moment, or to spend them except to the extent that is necessary to keep body and soul together and to acquire further capital assets in the form of increased machinery, better machinery, better farm equipment, better industrial equipment and raw materials.</P>
+      <P>Deputy Hughes last night said that the Government were doing nothing for production.  I think his leader said that down in Carrick-on-Suir.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I had very good reason for saying it, if I did&mdash;and I am sure I did.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>What induces the increased production?</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Does the Minister want me to tell him?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I think the Deputy told me already.  Deputy Hughes told me last night&mdash;increased price.  If increased price induces production, I take it that decreased price would discourage production.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Listen to the mighty brain working.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The Minister is getting adventurous in his thoughts.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>We want to know from Deputy Mulcahy does he think that if we went back to his price level to the farmers it would be an incentive to increase production.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>We would be a lot better off if we could get back to those times.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Go back to the 5/- a barrel for oats instead of 40/- or 42/-; go back to the barley at 8/- or 9/- a barrel and go back to the wheat coming from America at 12/- a barrel.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>What year are we in now?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>We are in the El Dorado of Fine Gael &mdash; or Cumann na nGaedheal, as it was then&mdash;it went through a few shifts but it is still the same Party.  Are we to offer the Irish <Col N="1614" /> farmer prices of that kind, to compete with wheat from the United States at 12/- a barrel, oats from Germany at 5/- a barrel and bacon from Poland at 40/- a cwt.?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>There is no bacon at all now, from Poland or anywhere else.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Would that be the Fine Gael policy to increase production?</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I would hate to interrupt the Minister.  I want to see how his clear, continuous mind works.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>We will have an opportunity from now on for the next couple of months and I ask him to go down the country and say: &ldquo;Look here, boys, when we were in power that last time, you got 5/- a barrel for oats, 20/- a barrel for wheat and 8/- or 9/- a barrel for barley and we are going to ask you to increase production and we are going to give you the same prices again.&rdquo;  I challenge Deputy Mulcahy in any election speech that he likes to make down the country to read out the list of prices for farm produce that obtained in 1931.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>You have pushed Deputy Flanagan off the stage now.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The Deputy is not going to get me on to Deputy Flanagan for a moment.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>You painted a picture of Deputy Flanagan on the stage a moment ago.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I am not going to deal with Deputy Flanagan.  I am dealing with Deputy Mulcahy and his production.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister started by pushing out his chest and roaring.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I am not going to deal with Deputy Dillon even though he tries to save Deputy Mulcahy.  I am sticking to the point of production.  We got a list of prices from the leaders of Fine Gael last night.  We got it from Deputy Mulcahy on many occasions. He said the right thing for the Government to do was to increase production and get further production.  I remember, when Deputy Mulcahy was on <Col N="1615" /> these benches, that we discussed at one time the production of houses.  We asked him to do something about the production of houses.  His reply was that very little could be done about the production of houses until the price of wages fell and the price of materials fell to a point at which houses could be let at an economic rent at the then level of wages.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>And you have never yet found the quotation.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I have and I published it, and I will publish it again.  Do not let Deputy Mulcahy ride away with that.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Get me the quotation.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I will get you the quotation.  I heard the Deputy say it. Is the Deputy denying that he did say it?  Is he denying that when he was Minister for Local Government in Fine Gael he said, in effect, that they could not do much about house building until the price of wages fell and until the price of building materials fell to a point at which houses could be let at an economic rent in relation to the then level of wages?</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>You want an answer to that?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Did you say that?</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I have received insults and suggestions from the far side of the House that I have considered it beneath me to answer.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Silence gives consent.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I wonder would you give us production.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>One of the things that the Fine Gael Government would not give was production.  It would give you the production of empty factories as it did during its ten years in office. One hundred of them became crows' nests, and it would give you more grass.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>That is what the world is looking for.</P>
+    </Speaker>
+    <Col N="1616" />
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Deputy Hughes yesterday said that we anticipated 103,000 hectares of wheat in 1951.  That was what he called Fine Gael policy.  Will he tell me how many hectares of wheat were grown in 1931?  If he does not I will.  It was 8,000 or 9,000 hectares, so that the 103,000 hectares would be ten or 12 times that amount.  To go back to the Fine Gael policy in relation to wheat would be to leave this country with not sufficient seed to grow one-tenth of the wheat annually required. We do not intend to go back to it, and even if Deputy Mulcahy should get a job under Deputy Norton or under Deputy Dillon &mdash;if he gets back at all&mdash;the people of the country would not let him go back to it, and neither would they let him go back to the 5/- a barrel for oats or the 8/- or 9/- a barrel for barley. The Fine Gael policy of production was seen in operation for a period of ten years.  They accuse us of having driven a number of people out of the country to work in England.  Every man that went, went against my will and my advice.  During their term of office 300,000 went to America, and when they were asked why they said that they were going over to see their friends.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I presume that the Minister has done with me personally?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>A question was raised by Deputy Hughes and I think by somebody else about a statement made by the British Chancellor of the Exchequer that, in the last year, there were capital movements from England to here of £10,000,000.  Deputy Hughes misinterpreted what is a capital movement by thinking that what was meant was capital investments.  Capital movements, in the last analysis, can only take place when goods or services are delivered. A capital investment by an Englishman here leaves a corresponding credit to some Irish person or body corporate in England.  The only way capital movements can take place is if we are taking more goods as a community from England than we are sending them in return. As Deputies are aware, the visible adverse trade balance in the last 12 months has been pretty high, and as a result certain of our capital assets fell in order to pay for the goods <Col N="1617" /> we imported.  As far as I can find out &mdash;and we have kept a very close and strict eye on capital investments by English residents here&mdash;such investments would not come to anything like one-tenth of that figure, and even the one-tenth of that figure would have to be split up again into investments made here by English citizens and Irish citizens resident for a time in England or resident in the Six Counties.  Those classes combined account for three-quarters of the investments made by people outside this State during this last year.</P>
+      <P>Now, related to that matter was the question of stamp duty.  There were two things that I claimed for that.  One was that this 5 per cent. stamp duty was going to take some of the inflated values in property changing hands into the Exchequer, and secondly that it was going to put Irish citizens in a better competitive position to acquire land here when they were faced with bidders from England and when the Englishman would have to pay 20 per cent. more.</P>
+      <P>Deputy Dillon often declares, indeed in every speech of his I have listened to for the last week or two he repeated it, that with a Fianna Fáil Government two and two make three three-quarters or three seven-eights or three thirty-one-thirty twos.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>No, in De Valera mathematics. They are not all as cute as that boy.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>We will put it that way. In the Taoiseach's mathematics, two and two never make four; they always make something else.  In regard to this stamp duty, Deputy Dillon went a little bit further than that, because he succeeded in proving to his own satisfaction that two plus nought make four. He proved to his own satisfaction the other night that the purchaser and the vendor were going to pay this tax.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Rubbish.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>There is only one tax to be paid and both the vendor and the purchaser cannot pay it; only one can pay it.  If the tax is £2, £2 will be on the stamp, not £4.  Yet, Deputy Dillon, <Col N="1618" /> in the case of the young married couple who are anxious to get a home, said they were going to pay the stamp duty.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Because they were anxious to get a home.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>In the case of the Sudeten British who come here to buy houses from people who have hung on to large estates for a long number of years under great difficulties, it is the vendor who is going to pay.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Who is anxious to sell the house.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy must not interrupt.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The purchaser in one case and the vendor in the other; the purchaser and the vendor are going to pay; two plus nought make four.  It will be news for the Revenue Commissioners that the purchaser is going to pay and the vendor is going to pay. There is only one way to get houses for young married people and that is to build them.  No amount of tricking around with the price of the existing houses or the stamp duties on the existing houses is going to add one house to the number.  The Minister for Local Government is bringing forward a Housing Bill which will give large increases to people who are going to build houses for themselves, not to speculative builders.  The man who builds a house for himself, either directly or through a utility society, will get increased grants somewhat corresponding to the grants which have been made available to local authorities in order to increase the number of houses.  Everyone knows that we are short of houses.  If Deputy Mulcahy's policy had been in operation until now, we would be short 140,000 more houses, because at no time did the cost of wages and materials fall to a price at which houses could be let at an economic rent to working men since 1931, when he laid down the principles upon which houses should be built.  We are at least 140,000 houses better off now than we would have been had his policy continued.</P>
+    </Speaker>
+    <P>
+      <Col N="1619" /> I trust that the Labour Party and the trade unions will co-operate with the Government in getting an increased output of houses.  After all, there was nothing wrong in the building employers in England asking their work people to agree to a system of output payment for house building.  Trade unions that had steadfastly objected to piece rates being introduced into building have agreed in the last week or so to try out all sorts of schemes of incentive payments in order to increase the output per man hour.  If we are to get cheaper and better houses for rich and poor in this country, we will have to try to get an increase in the output of work per man hour and per man year.  I think it is not displaying too much capitalist mentality to ask trade unions here to do for the Fianna Fáil Government or any other Government that is elected what trade unions are prepared to do under the guidance of a Labour Government in England. I ask trade unionists to discuss that matter and to realise that, if there is not a fair output of work per man hour, in the last analysis the persons who will have to pay are the working people of the country.  They will pay it either directly as rents or through taxation for increased subsidies in order to make up for the increased price of houses.  If there is anybody fundamentally interested in getting a high output on the building site, in the factory, or on the farm, in the last analysis it is the people who work with their hands.  I would ask all the splinter groups who are going to go into this election&mdash;&mdash;</P>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>Back to the election again.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>We have two new splinters now.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>&mdash;&mdash;to explain to the people why the Budget was &ldquo;politically unwise&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>Deputy Seán McCarthy believes that.  He said it the other day.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Will the Deputy keep order and let the Minister conclude?  These interruptions are out of order.</P>
+    </Speaker>
+    <Col N="1620" />
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I ask them to explain why this Budget is &ldquo;politically unwise&rdquo;. I ask them to explain why, if it is not bad economics to add further to the volume of money when goods are in short supply, what is the alternative? Are they going to go around the country sympathising with everybody who is paying taxes, with everybody who wants a higher wage, a higher salary, a higher income or a higher profit, and say: &ldquo;Boys, we will give you everything?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>You said that yourselves.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>&ldquo;We are going to give the farmers higher prices for their produce; we are going to give the workmen higher wages; we are going to give them shorter hours; we are going to give them more subsidies for consumer goods; and we are going to give them less taxation&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&ldquo;Better social services, lower taxation, bring home the emigrants, work for everybody&rdquo;, et cetera, et cetera.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Deputy Norton and the splinter groups are going to increase the volume of money by about £100,000,000 a year so far as I can calculate, and they are going to lower taxation.  So they must be going to go to the old printing press, or to bank created credit, for the £100,000,000.  All I want them to do is to explain to the people the results of that, to explain what happened in France.  When they issued another few billion francs from the Central Bank, prices went up by 25 per cent. in a week.  Of course they will not do that.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>May I suggest to the Minister&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Deputy Dillon is trying to please the Sudeten Britishers on the Border by shouting &ldquo;corruption&rdquo; against the Government.  His one stock-in-trade is to please the Sudeten British in County Monaghan by suggesting that this country is run by some low-down Government.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>On a point of order&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>That is your line of argument.</P>
+    </Speaker>
+    <Col N="1621" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>On a point of order, is it permissible in this House for a Minister to describe a section of our people in terms such as would suggest that they should be, and will be, driven out of this country as the Sudeten Germans were driven out of Czechoslovakia as soon as the Government have power to do so?  I do not think it is a proper statement to make in this House.  I do not believe there is any such intention but it is a monstrous thing to say.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I do not think that any such implication can be taken from the Minister's remarks. He referred, I think to the Border Irishmen&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&ldquo;Sudeten&rdquo; was the word.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>&ldquo;Sudeten&rdquo; was the word and &ldquo;Sudeten&rdquo; is the word. The Sudeten British are the people to whom Deputy Dillon is appealing. They are the class of people to whom the latest arrival in the House from County Dublin was appealing when he did not mention the word &ldquo;Republic&rdquo; or the Irish language in his election address.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>On a point of order.  I think it is highly improper for a Minister to use the term &ldquo;Sudeten&rdquo; in reference to any citizens of this country who are obeying the law, paying their income-tax and doing all things necessary in the interests of the country as good citizens.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I think the Deputy is reading into the Minister's remarks a meaning which was not intended.  I shall rule out any further references to the Sudeten British.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&ldquo;Sudeten Irish&rdquo; were the words.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>&ldquo;Sudeten British.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>In your absence, Sir, the Ceann Comhairle already ruled that the Minister should not indulge in a discussion on the recent by-election on this Bill.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I think that was a very proper decision and I <Col N="1622" /> thoroughly agree with it.  I hope that any personalities or any interchanges that have been impeding the progress of the Minister's speech will now cease and that Deputies will confine themselves to the subject matter of the debate and not indulge in personalities. I would suggest to Deputies who do not want to listen to the Minister that they might leave the House.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Not to the words &ldquo;Sudeten Irish&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Sudeten British.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>You are running for cover now.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The Deputy may be running for cover again.  If I asked the people to go into a war I would be prepared to go and fight in that war myself.  I would not, like the Deputy, urge that they should enter the war and then dive for the bed in Ballaghaderreen.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I would ask the Minister to confine himself to the subject matter of the debate.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The subject matter of the debate yesterday was a declaration of war against Russia by Deputy Dillon.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister's statement is a carefully considered falsehood.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Will Deputy Dillon go into that war?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister's statement is a carefully considered falsehood.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I would respectfully ask you, Sir, to rule personal attacks out of the discussion on this Bill.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I have appealed to all sides of the House that Deputies should confine themselves solely to the subject matter of this Bill, the Finance Bill.  I must once more ask the Minister and Deputies to confine themselves to that matter alone.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>In view of that ruling, I would ask you not to allow the Minister to take up and discuss the election address of some individual.</P>
+    </Speaker>
+    <Col N="1623" />
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I think you might leave these matters to the Chair to decide.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Has the word &ldquo;Republican&rdquo; not been bastardised already in this House?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I hope that the young people who are being led into Clann na Poblachta will get a copy of the election address that was delivered by their would-be Leader to the people in Kingstown.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Read it out.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Chair is definitely ruling out any further allusions by implications or direct speech to the recent election.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I did not introduce the matter first.  They interrupted me about it and then they would not listen. I know they want to forget the election address circulated during the last by-election.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Look at the election addresses you circulated in 1932 and 1933.  Fianna Fáil wants to have them forgotten.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>Has the Chair ruled and will the Chair enforce its ruling on the Minister?</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Chair will certainly do so.  There are to be no further allusions to the election.  The Minister might conform to the suggestion of the Chair already made to confine himself to the subject matter of the debate, in concluding.</P>
+    </Speaker>
+    <Col N="1624" />
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>As a last word, I want to ask the splinter groups, as we are going to have an election, to explain their policy in detail to the people. The people know where we stand.  We told the people straight where we stand.  We could have avoided introducing this Budget if we wanted to fool the people.  We told the people that if they want anything in this world they have got to pay for it.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>You cannot fool all the people all the time.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Let us have order, please.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Will the Minister read a few election addresses?</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>If Deputies do not want to hear the Minister in silence they have my permission to leave the House.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Even though the Opposition may think this Budget a foolish one, I say the Irish people are sufficiently intelligent to understand what it really means and that it will eventually prove to have been a very wise one.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>The Minister, quite justifiably, in the course of his speech, asked me for suggestions in relation to the manner in which&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I am sorry, Deputy, but I cannot allow you to continue.  The debate has concluded and I must put the question.</P>
+      <P>Question put.</P>
+      <P Just="Center">The Dáil divided: Tá, 56; Níl, 33.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Aiken, Frank.<br />Bartley, Gerald.<br />Beegan, Patrick.<br />Blaney, Neal.<br />Boland, Gerald.<br />Bourke, Dan.<br />Brady, Brian.<br />Brady, Seán.<br />Brennan, Martin.<br />Brennan, Thomas.<br />Breslin, Cormac.<br />Briscoe, Robert.<br />Buckley, Seán.<br />Burke, Patrick (County Dublin).<br />Butler, Bernard.<br />Carter, Thomas.
+<Col N="1625" />Lemass, Seán F.<br />Little, Patrick J.<br />Loughman, Frank.<br />Lydon, Michael F.<br />McCann, John.<br />Moylan, Seán.<br />O Briain, Donnchadh.<br />O'Connor, John S.<br />O'Grady, Seán.<br />O'Loghlen, Peter J.<br />O'Reilly, Matthew.<br />Ormonde, John.</entry>
+            <entry rowsep="1">Childers, Erskine H.<br />Colbert, Michael.<br />Colley, Harry.<br />Corry, Martin J.<br />Crowley, Honor Mary.<br />Derrig, Thomas.<br />De Valera, Eamon.<br />De Valera, Vivion.<br />Flynn, Stephen.<br />Fogarty, Andrew.<br />Friel, John.<br />Gorry, Patrick J.<br />Harris, Thomas.<br />Healy, John B.<br />Kilroy, James.<br />Kissane, Eamon.
+<Col N="1626" />O'Rourke, Daniel.<br />O'Sullivan, Ted.<br />Rice, Bridget M.<br />Ruttledge, Patrick J.<br />Ryan, James.<br />Ryan, Mary B.<br />Ryan, Robert.<br />Smith, Patrick.<br />Traynor, Oscar.<br />Ua Donnchadha, Dómhnall.<br />Walsh, Laurence.<br />Walsh, Richard.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Beirne, John.<br />Bennett, George C.<br />Browne, Patrick.<br />Byrne, Alfred.<br />Coburn, James.<br />Cogan, Patrick.<br />Corish, Brendan.<br />Costello, John A.<br />Dillon, James M.<br />Dockrell, Maurice E.<br />Donnellan, Michael.<br />Doyle, Peadar S.<br />Fagan, Charles.<br />Finucane, Patrick.<br />Flanagan, Oliver J.<br />Giles, Patrick.<br />Hughes, James.</entry>
+            <entry rowsep="1">Kinane, Patrick.<br />MacBride, Seán.<br />MacEoin, Seán.<br />McFadden, Michael Og.<br />McMenamin, Daniel.<br />Mongan, Joseph W.<br />Mulcahy, Richard.<br />Norton, William.<br />O'Leary, John.<br />O'Reilly, Thomas.<br />O'Sullivan, Martin.<br />Reidy, James.<br />Reynolds, Mary.<br />Roddy, Martin.<br />Sheldon, William A.W.<br />Spring, Daniel.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá: Deputies Kissane and O Briain; Níl: Deputies P.S. Doyle and Bennett.</P>
+    <P>Question declared carried.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Electoral (Amendment) Bill," RHead="1947&mdash;Committee">
+    <Title>Electoral (Amendment) Bill, 1947&mdash;Committee.</Title>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I think that an amendment stands in my name on the Order Paper and that the Ceann Comhairle has ruled that amendment as being out of order on this Bill.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It is not in order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I shall, therefore, not move it.</P>
+      <P>Sections 1 to 5, inclusive, agreed to.</P>
+      <P Just="Center">SECTION 6.</P>
+      <P>Question proposed: &ldquo;That Section 6 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Local Government (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Local Government (Mr. MacEntee)</NameTxt>
+      <P>In regard to Section 6, I want to give notice in order to facilitate the work of the returning officers in connection with the forthcoming general election that I will move a small amendment on the Report Stage to enable the new voters' lists to be prepared in any constituency which may be substantially changed.</P>
+      <P>Question put and agreed to.</P>
+      <P>Sections 7 to 10, inclusive, agreed to.</P>
+      <P Just="Center">FIRST SCHEDULE.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I move amendment No. 1:&mdash;</P>
+      <P>In page 4, in the second column opposite the mention of Dublin North (East) in the first column, to delete &ldquo;and Mountjoy Place, thence along Mountjoy Place to Charles Street Great, and thence in an easterly direction along Charles Street Great&rdquo; and substitute &ldquo;, thence along Hutton's Place, Mountjoy Place, Mountjoy Square East and Belvedere Place&rdquo;.</P>
+    </Speaker>
+    <P>This is an amendment designed to adjust the inequality in population between Dublin North (East) and Dublin North (Central) constituencies. On rechecking we found that the population of Dublin North (East) constituency was slightly below 20,000 <Col N="1627" /> people per member, and it is proposed to bring the small piece of territory around Mountjoy Place into Dublin North (East).  If the amendment is accepted it gives a better line of division and means that the ratio of population in Dublin North (East) will be 20,060 persons per member and in Dublin North (Central) 20,620 per member.</P>
+    <P>I have also given consideration to the point raised by Deputy O'Sullivan on the Second Stage of the Bill in regard to the position of Donnycarney which the corporation is going to develop as a housing site.  I understand that the corporation has already moved to bring this area within the city boundaries. Accordingly, on the Report Stage I shall ask the House to accept an amendment which will bring the Donnycarney housing site into the Dublin North (East) Constituency.  I think that this will equalise the ratios as between Dublin North (East) and Dublin North (Central).</P>
+    <Speaker pid="MartinOSullivan" hpid="Mr. M. O'Sullivan Mr. M. O'Sullivan">
+      <NameTxt>Mr. M. O'Sullivan</NameTxt>
+      <P>I am glad that the Minister took notice of what was said in connection with the constituencies of Dublin North East and Dublin North Central, but he has now explained that he is making the alterations because of the questions of insufficient population in the north-east constituency and that he is taking a slice off the Mountjoy Ward.  I hoped, when I raised the question first, that he would straighten out the Mountjoy Ward to Summerhill, leaving it with its natural division at the North Circular Road.  Now he has straightened it out undoubtedly but at the expense of the central area.  If that is justified on the question of population, then that is all right.  I would have expected that the transfer or incorporation of Donnycarney would have given the Minister what he required in the population of the north-east constituency, rather than by taking off the slice at Mountjoy which he referred to. The alteration I suggested would be a more natural alteration.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I move amendment No. 2:&mdash;</P>
+    </Speaker>
+    <P>In page 4, in the second column <Col N="1628" /> opposite the mention of Dublin South (East) in the first column, to insert &ldquo;, the portion of the Rathfarnham Ward lying to the east of a line drawn along Dartry Road&rdquo; before &ldquo;and the portion&rdquo; and to delete &ldquo;Road, thence southerly along Rathmines Road and Rathmines Upper to Highfield Road, thence in a straight line to and along Dartry Road&rdquo; and substitute &ldquo;Road Lower, thence southerly along Rathmines Road Lower and Rathmines Road Upper&rdquo;.</P>
+    <P>The sole purpose of this amendment is to define more accurately the boundary between the Dublin South (East) and Dublin South (West) constituencies. The Bill as circulated referred to Rathmines Upper and Rathmines Road, while the correct titles of these places are Rathmines Road Upper and Rathmines Road Lower.</P>
+    <P>Amendment agreed to.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I move amendment No. 3:&mdash;</P>
+      <P>In page 4, in the second column opposite the mention of Dublin South (West) in the first column, to delete &ldquo;, Rathfarnham&rdquo; and to insert &ldquo;, the portion of the Rathfarnham Ward which is not included in the borough constituency of Dublin South (East)&rdquo; before &ldquo;and the portion&rdquo;.</P>
+      <P>This is consequential on amendment No. 2.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I move amendment No. 4:&mdash;</P>
+      <P>In page 5, in the second column opposite the references in the first column to &ldquo;Cork West&rdquo; to delete the words: &ldquo;Bealanageary, Cleanrath, Derryfineen, Gortnatubbrid, Inchigeelagh, Slievereagh&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It could be more properly discussed with amendment No. 5.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I do not intend to press the amendment unless the Minister accepts it.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am afraid that could not be done.</P>
+    </Speaker>
+    <Col N="1629" />
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Could you not consider it?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I could not because it would throw out the ratio.  Where we had to alter the existing boundaries we have tried to arrange new boundaries so that the population will be equal as far as possible.  The estimated population of the area which it is proposed to transfer is 3,242.  If you take those out of West Cork and bring them into North Cork, it would increase the population of North Cork from 59,270 to 62,512 and would correspondingly reduce the population of West Cork from 58,620 to 55,378.  At the moment the ratio of population per member between North Cork and West Cork is almost equal&mdash;it is 19,707 in the case of North Cork and it is 19,540 in the case of West Cork&mdash;but if we were to accept the amendment the position would be that North Cork would have 20,917 persons per member and West Cork would have 18,379 persons per member. I would very strongly urge the Deputy to withdraw the amendment.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I am not going to press the amendment, Sir.  However, I am afraid that the Minister's proposals are based entirely on, shall I say, figures and squared paper.  Definitely West Cork is not simply a squared paper area.  With regard to the area of Bealanageary and Cleanrath, Derryfineen and Gortnatubbrid, if the Minister will look at the ordinary half-inch map he will see that a small pocket of people there are completely cut off from West Cork by the mountains and by the hills that circle in the Keimaneigh Pass and that they are thrown into a constituency with which they have no natural connection.  As any-one who knows the district round the Keimaneigh Pass, Bealanageary and Inchigeelagh will agree, the most natural arrangement would be to include it with Macroom because the trend of their mind is to fall in with Macroom.  They are cut away from the rest of the constituency.  The Minister says that to take them away from the West Cork area would reduce numbers. Look further south to Clonakilty and to the east of it.  He is taking in the Timoleague dispensary district which in itself is a natural entity.  He is dividing <Col N="1630" /> it up and throwing it almost artificially into South Cork.  As far as West Cork is concerned, knowing the district and having received certain representations in the matter, I think that there are two sections of people being rather inconvenienced.  I refer to those who live north-east of the mountains, say in the Bealanageary on to Inchigeelagh district on the one hand and on the other hand the people who are lying immediately to the east of Clonakilty, say in the Timoleague dispensary district. One section there might even off the other as far as South Cork being affected is concerned by taking away the Inchigeelagh district or part of the Timoleague dispensary district and it might be possible to make an accommodation in that respect elsewhere.  I only put before the Minister the suggestion that anybody looking at the map or anybody living in the district ought to realise that the proposal in the Bill as far as Timoleague and Bealanageary are concerned is going against the natural fall both of the activities and the mind of the people.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 5 not moved.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I move amendment No. 6:&mdash;</P>
+      <P>In page 6, in the second column opposite the mention of North Kerry in the first column, to delete: &ldquo;Carker, Cordal, Derreen, Millbrook, Scartaglin&rdquo;, and to insert the following group of district electoral divisions, that is to say: &ldquo;Kilnanare, Kilfelin and Currans;&rdquo; before &ldquo;and the Urban Districts of Listowel and Tralee&rdquo;.</P>
+    </Speaker>
+    <P>This is an amendment to restore the old boundary between the North and South Kerry constituencies.  When we were drawing up this we proceeded on the basis of an electoral division because we thought it might be more convenient if we brought it in the Cordal district.  We find that having done that we caused a certain amount of inconvenience to the people who have been accustomed to voting in the several constituencies.  Not only that, we have proved that in the ratio of population as between North and <Col N="1631" /> South discrepancies existed in the existing scheme.  At the moment there are 19,651 people per member in North Kerry and there are 18,470 people per member in South Kerry.  If the Bill without this amendment were to go through there would be 19,900 people per member in North Kerry and 18,772 in South Kerry and I think, on consideration, that we had better let the old constituency stand.</P>
+    <P>Amendment agreed to.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I move amendment No. 7:&mdash;</P>
+      <P>In page 7, in the second column opposite the mention of West Limerick in the first column, to insert the following group of district electoral divisions, that is to say: &ldquo;Askeaton East, Askeaton West, Aughinish, Ballyallinan, Ballynacarriga, Castletown, Craggs Croagh, Dromard, Dunmoylan East, Dunmoylan West, Iveruss, Kilconann, Kildimo, Kilscannell, Lismakeery, Loghill, Mohernagh, Nantinan, Pallaskenry, Rathkeale Rural, Rathkeale Urban, Riddlestown, Shanagolden, Shanid.&rdquo; after the group beginning &ldquo;Athlacca&rdquo;.</P>
+      <P>This is to correct a printer's error.  The whole of this Rathkeale rural district was inadvertently not included and it is proposed to put it in with the West of Limerick.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>The Minister may remember that on the Second Reading of this Bill I said that it would seem that he did not take particular care when he was drafting this Bill.  I said that he did it in a rush and it would seem that he did.  I give the Minister the credit that I think that if he himself had carefully gone over the Bill it would not have come to the House in the condition in which it did come.  Apparently, as a result of my hint to the Minister that a revision was desirable, he did so and found that a whole bloc had been left out.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I mentioned that on the Second Reading.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>The Minister says that it is a printer's or a draftsman's error. <Col N="1632" /> The printer did not get it to print because it was completely forgotten.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>It would be a terrible loss to them.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>The Minister forgot that places 60 or 70 miles away from the City of Limerick were included in the area.  He will probably remember that on the Report Stage.  I want to remind the Minister that it is sometimes dangerous to endeavour to rush a Bill through this House.  In this instance in his hurry he overtook himself and tripped himself.  I know the Minister did not do it intentionally but nevertheless he did it.  The important question is how is the population going to be affected by this amendment.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>No change.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>You mean the numbers were included but the areas were not?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It was entirely a printing error.  The Deputy knows where those places are.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>I know everything about them quite well.  I know every inch of these places.  I would remind the Minister that he should have been more careful in presenting a Bill of this character to the House.  No doubt Deputies who represent other constituencies will eventually find discrepancies also.  It is rather dangerous to rush a Bill of this kind through the House without giving it full consideration.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>I do not know much about Limerick but I think it is certainly dangerous not to have very clearly defined boundaries between constituencies.  My attention was drawn some time ago to a case of two Deputies of the Fianna Fáil Party who were going forward in an election.  The senior Deputy sent the junior Deputy into a district which had been cut completely out of the constituency although they had canvassed there for a whole week for first preference votes. I would not like such a thing to happen again.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Col N="1633" />
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>I move amendment No. 8:&mdash;</P>
+      <P>In the first column, on page 8, to delete the words &ldquo;East Galway&rdquo; and substitute the words &ldquo;North Galway&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I accept that amendment.</P>
+      <P>Amendment put and agreed to.</P>
+      <P>Question proposed: &ldquo;That the Schedule, as amended, stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>On the Second Stage of this Bill I asked the Minister some questions.  He did give an answer but I do not think it was quite satisfactory when I compare Wexford constituency, having four members, with two other constituencies &mdash; Longford-Westmeath and Mayo South &mdash; which are five member constituencies.  The explanation given by the Minister with regard to Mayo South was that there was a temporary decrease in population there and he anticipated that it would increase within the next few years thereby justifying the allocation of five seats to Mayo.  I would suggest to the Minister that the increase in South Mayo will not be in such proportion that it will come up to the 91,000 which is the present population of Wexford with four seats.  So far as I know Mayo County as a whole is a congested district and the Government is endeavouring to relieve congestion there by moving some of the population to other parts of the country.  The population of South Mayo is 88,579.  It has five seats for those 88,000 odd.  Wexford County has 91,704 people and it has only four seats.  I would remind the Minister, too, that Wexford has suffered a decrease in population to the extent of 2.8 per cent. mainly due to emigration in the last ten years.  Does the Minister expect that that population will come back to Wexford as he expects the population that has been lost will come back to Mayo South?  I am beginning to have some suspicions about this Bill.  Cavan, which is a four member constituency, has a population of 70,323.  Roscommon, also a four member constituency, has a population of 72,511.  Wexford has a bigger <Col N="1634" /> population than Cavan to the extent of 21,381.  Surely, if Cavan is entitled to four seats and Wexford has 21,000 more people that 21,000 should have some representation.  Roscommon is in somewhat the same position.  I do not want to take out any particular constituencies merely for the sake of taking representation from them but I do want to point out where the Minister has erred in the allocation of seats.  Wexford has 19,193 more of a population than Roscommon.  Wexford has only four seats.  Roscommon has four seats.</P>
+      <P>Perhaps if I present this in another way the Minister may understand the situation better.  Galway County with a population of 165,196 has nine seats. After eight seats have been given to Galway they are given a ninth seat for 5,196.  Mayo with a population of 148,200 has eight seats.  After giving them seven seats they get an eighth seat for 8,200.  Roscommon with a population of 72,511 has four seats; after giving them three seats they get a fourth seat for 12,511 of the population. Donegal with a population of 136,136 after getting six seats are given a seventh seat for 16,136.  When we compare these constituencies with Wexford and consider the treatment meted out to it the position arises that it can be suggested quite seriously that there has been some gerrymandering. In the case of Mayo South the Government did suffer a defeat in the by-election of 1945.  I think the representation there at the present time is three Clann na Talmhan and two Fianna Fáil.  It looks as if the Government say to themselves: &ldquo;We are not going to get a third Fianna Fáil seat here.  If we are a four member constituency&mdash;&mdash;&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>We would get two.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>&ldquo;&mdash;&mdash;we would get only one with four.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Oh, no.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>&ldquo;But we have a very good chance of getting two out of five.&rdquo; In Wexford Fianna Fáil have held only two seats since, I think, 1927.  They have got two seats since at least 1932. They argue with themselves that there <Col N="1635" /> have always been three of an opposition in County Wexford.  At the height of their fame and power they could never get any more than two no matter how much they tried.  They believe that with four they will still get two, but they will cut down the Opposition by one.</P>
+      <P>I do not like mentioning these things but it would appear as if there has been some gerrymandering with these constituencies. It may be a colossal task to revise constituencies at the present time but I would ask the Minister to consider these matters on the Report Stage.  The Minister quoted the Constitution but the Minister framed his Bill not on what is in the Constitution but on what is not in the Constitution.</P>
+      <P>Article 16 of the Constitution says that the total number of seats shall not be fixed at less than one for 30,000 or more than one for 20,000.  In the White Paper the Minister himself admitted:&mdash;</P>
+      <P>&ldquo;It does not lay down rules to determine details of the distribution although it does suggest that seats should be settled not only on equitable but on a practical basis as well.&rdquo;</P>
+      <P>I suggest he has not done that in the case of Wexford especially when one compares it with a constituency like Cavan.  Wexford has 21,000 more people than Cavan and yet it has only the same number of seats.  Wexford has 3,000 of a population more than South Mayo but South Mayo has one seat more.  Wexford has about 1,000 population more than Longford-Westmeath. Longford-Westmeath has five seats while Wexford has only four.</P>
+      <P>I would ask the Minister for some explanation about this.  I do not think it can easily be explained away when one considers the allocation of seats in other constituencies.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>What Deputy Corish has said now more or less bears out what I said on the Second Reading of this Bill.  I said then that it was an ill-considered and hastily thought-out measure.  Quite obviously it did not get the care and attention so desirable for a measure of this importance.  It it had received that care and attention anomalies like Wexford would not arise.  I can sympathise with Deputy <Col N="1636" /> Corish inasmuch as his county has been very badly treated.  In my own particular county I pointed out to the Minister that the distribution was inequitable and could not be defended. In one area they included in the city part of the country with a population of 40,000 or 50,000 which made the city area a four member constituency thereby giving a preponderance to the city as against the county which practically left the county with only three members on a vote not affected by the urban vote.  Places within a mile of the city were included in West Limerick while places 40 miles away were included in the city division.  The Minister defends that by saying that he could not do something which would be to the disadvantage of the county people if he took them away from Limerick.  I suggest that he could easily have arranged it, if it was necessary to increase the area of Limerick City, so that the city would have representation, and nobody denies that it should have, by taking places around the city equidistant from the city and not by taking a place 40 miles away and another place a mile away.  Certain areas in the county would then have gone into the city, but we would have to agree to that.  It is inevitable that portion of the county must go in. A large portion which does not go in now is, in reality, part of the city, just as much as Rathfarnham is part of Dublin, and nobody has any objection to these being included.  The Minister saw the discrepancy and made attempts to remedy the position in other amendments in relation to other constituencies.</P>
+    </Speaker>
+    <P>I am not making any suggestion of gerrymandering, but I am suggesting that the Bill was not sufficiently considered. If there was any truth in the suggestion of gerrymandering&mdash;and I do not believe there is&mdash;the bottom has been knocked out of it because what applied a month ago would not apply to-morrow.  If there had been any such intention, I do not believe the Minister would have proceeded with the Bill, because he would have realised that it would not be wise to proceed with such a Bill.  On the face of it, we must absolve the Minister of any guilt in <Col N="1637" /> that matter.  I never made that suggestion, but I do make the suggestion that the Bill was not sufficiently considered. Undoubtedly, Wexford, on the basis of distribution of population, is not getting a fair crack of the whip, and Limerick is being divided in a manner which is not at all equitable, so far as a great many of the areas are concerned.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>As between Mayo and Wexford, Deputies may take it from me that I have no bias whatever. We were faced with a situation in which we had a limit of 147 seats within which to work, in which there were three constituencies, Mayo, Longford-Westmeath and Wexford, where the circumstances and conditions were fairly equal so far as population was concerned and in which we had to decide which of them was to be reduced from a five seat to a four seat constituency. In the case of Mayo, it was clear, and we all know, that, due to the special circumstances of the time, there has been abnormal emigration. The population in that county has fallen by 13,000 as compared with 1936. There has been a certain amount of emigration from Wexford, but the population has fallen by only 2,500. We know that Mayo men have gone to turf camps, to the Army, and so on, and, in consequence, the population of Kildare has gone up by 6,000.  Bearing that fact in mind, I came to the conclusion, rightly or wrongly, that the emigration there was temporary and that on the whole it would be more equitable to allow Mayo to preserve its existing five members rather than to reduce them to four.</P>
+    </Speaker>
+    <P>There may have been another thought in my mind.  As Deputy Corish pointed out, there are at present three Clann na Talmhan Deputies and two Fianna Fáil Deputies sitting for Mayo South. If I had reduced the representation in Mayo from five to four, it could have been alleged that I did so in order to deprive the Clann na Talmhan Deputies of one of their three seats.  A case could have been made on the basis on which I have made it here for retaining the five-member constituency in Mayo. I suppose there might be reasons why I might prefer Wexford to have five. <Col N="1638" /> Fianna Fáil has had three of the seats there on occasion and we are not at all despondent that we might not have them again.</P>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Only as a result of byelections.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Oh, no.  If the Deputy&mdash;he will have to fight Clann na Talmhan on it&mdash;will put down an amendment to increase the Wexford representation to five and reduce the Mayo representation to four, so far as I am concerned, I will ask the Whip to leave it to a free vote of the House. As between the two constituencies I have no bias and there is no <i>arriére pensée</i> in what I am saying.  One of them had to go and we had to decide, and, rightly or wrongly, wisely or unwisely, but I can tell the Deputy, fairly, as far as we could be fair, we decided that Mayo should have it, and, so far as I am concerned, I will leave it to a free vote as between the two constituencies.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Is the Minister's offer confined to a redistribution of the number of seats between these two constituencies?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes, because we cannot go back and start to redraw these boundaries.  We have seen how convenient it is.  We are to have this general election on the old register and we could never have done that if we had not got back to the administrative counties, the existing electoral units and the existing administrative areas. If we had not done so, it would have been physically impossible to carry out the election on the basis of the old register.</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>Why did you change them?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That is another matter.  I am trying to restore what I think is a rational position.</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>It is gerrymandering of seats to suit your own purposes.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That matter should have been raised on the Second Reading.</P>
+    </Speaker>
+    <Col N="1639" />
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>We can expect nothing from the North or from any man coming from the North but gerrymandering. You brought in Carlow at one time&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy is out of order and will sit down.</P>
+    </Speaker>
+    <Speaker pid="JohnOLeary1943" hpid="Mr. O'Leary Mr. O'Leary">
+      <NameTxt>Mr. O'Leary</NameTxt>
+      <P>You are trying to make it safe for two now, but we will give you a run for it.  We are not a bit afraid of you.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy can associate himself with Deputy Corish if he wants to persuade the House that there should be five seats in Wexford and four in Mayo.  So far as I am concerned, I can do nothing more about it.  I have put the measure before the House, and, if it comes to a vote, I will vote to retain the existing position, but everybody else can have a free vote on it.</P>
+      <P>With regard to Limerick, Deputy Bennett complains that we did not put Kilbeheny in with what I would have to call West Limerick.  We tried to draw a line.  When dealing with a county borough with 40,000 or 45,000 people, the whole basis of the constituency tends to orient towards that area.  We had to choose between creating a four-seat constituency around Limerick or a four-seat constituency mainly rural.  If we had done the latter, as the Deputy admitted on Second Reading, we would have a constituency running north west and south east.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>No; I did not admit any such thing.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It would run from Kilbeheny to Rathkeale and the shortest diagonal we could get for any four-seat constituency based entirely on a rural area would have been something like 50 miles.  The Deputy complains that Kilbeheny is 30 miles from Limerick, but at least it is nearer to Limerick than it is to Rathkeale, and I assume that the general character and the general interest of the eastern half of rural Limerick are more closely associated with Limerick City than with Rathkeale. <Col N="1640" /> There is this further advantage&mdash;at least, it is made certain that the rural population in the constituency, which includes Limerick City, will have an opportunity of returning at least two members.  If we had the arrangement the Deputy suggests&mdash;a three-seat constituency based on the City of Limerick &mdash;then the City of Limerick would, undoubtedly, dominate the whole situation. It is doubtful that even one representative of the rural community would be returned for a three-seat constituency which included Limerick City. Looking at the matter from the point of view of trying to preserve, as I said in my Second Reading speech, the representation of rural Ireland in Dáil Éireann, I decided that, on the whole&mdash; there are always pros and cons in a matter of this sort&mdash;the rural population would do better, so far as representation is concerned, if I were to make the constituency which includes the City of Limerick, a four-member constituency, because the rural population would then be voting on much more even terms than they would in a three-seat constituency.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>In view of the fact that the seats have been allocated, I suppose the Minister could not make a more reasonable offer.  The Minister should, however, have used a little more discretion before he allocated the seats.  That must be obvious to him and to every member of the House now.  I suggested that it was the Government's intention to relieve congestion in Mayo.  The Minister did not reply to that at all.  The temporary decrease in population which the Minister has mentioned has occurred during the past ten years.  Is it not reasonable to assume that Mayo will not regain its normal population within, at least, another period of ten years.  There was an Electoral Amendment Act in 1935&mdash;12 years ago.  Why should any constituency, such as Wexford, suffer for ten years more?  If the population of Mayo does come back to normal in ten years, nobody will have any objection to the bringing in of an amending Bill to give South Mayo, five seats.  At present, South Mayo, as against Wexford, is not entitled to five seats.  It will take ten years at least <Col N="1641" /> to regain its former population&mdash;possibly, 15 years.  I appeal to the Minister to reallocate the seats on Report Stage.  I am taking out Mayo as a particular example but I submit that the Minister did not use very sound discretion in his allocation of seats.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>The Minister misrepresented the case with regard to Limerick.  He suggested that, if we had any other arrangement, it would interfere with a certain section of the rural population in Limerick.  Suppose we base a three-member constituency on the City of Limerick.  If they say they cannot get proportional representation unless they increase their area, we shall say, though we do not like it, that we will give the area in order to afford such representation.  Take portion of a circle for five or six miles around the City of Limerick.  I believe that that would give all the population needed to make a three-member constituency for Limerick and people from the rural areas who would be taken into the city area would not be at all as much inconvenienced as those people of other areas whose interests are largely connected with Mitchelstown, County Cork.  Most of the people even in my district sell their stuff in Mitchelstown, County Cork.  The people nearer to Mitchelstown have no connection whatever with Limerick City and it is very unfair to bring them into an area the members for which will not be interested in them.</P>
+    </Speaker>
+    <P>The Minister suggested that, if he made Limerick a three-member constituency, the rural people would not get a member at all.  That might happen but it might also happen in the case of a four-member constituency. Limerick has a population of 42,000. With the north rural, south rural and suburban area, Limerick will have a preponderating vote and anybody who stands as a city representative will have an unfair advantage.  The fairest method would be to make a semi-circle. around the city, as I have suggested, and to put in places like Ballycummin, which were left out.  They market in the city and their connections are with the city.  None of them, I think, will have a grievance if included in <Col N="1642" /> the city area.  Their grievance would not be as great as that of Kilbeheny, Ballylanders and other districts.  The thing was done in a hurry.  I do not suggest that there was any attempt to gerrymander and I am not making the case for political reasons.  I do not mind one whit, personally, whether the position is left as it is or not.  But, when we are making a change, I think we should do it in a fair manner.  If you are going to take in an area to give the city representation, take an area near the city and do not go 40 or 50 miles out.  The Minister asked if I suggested that the people of Kilbeheny were not as much attached to the City of Limerick as the people of Rathkeale.</P>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>He did not say that.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>I might ask if people of Dooradoyle were not as attached to Limerick as the people of Glin.  The suggestion is ridiculous.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>If the Minister has still an open mind with regard to the allocation of seats as between constituencies, I should like to draw his attention to the position of Wicklow and Carlow-Kilkenny. Three seats have been allocated to Wicklow and five to Carlow-Kilkenny. I am in favour, as a general principle, of adhering to the county boundaries.  In most cases, that is desirable for administrative reasons, and the people, probably, favour it. A section of Carlow was brought into the Wicklow constituency for the last general election.  That section of Carlow is a sort of pocket, extending over the County Wicklow border, so to speak.  The particular area added to Wicklow conforms very closely to the type of farm in Wicklow and the agricultural conditions that prevail there. It is typical of Wicklow soil and agricultural conditions.  In addition, it fits closely into the County Wicklow.  The distribution of seats according to population would favour adding a little to Wicklow constituency and taking a small amount from Carlow and Kilkenny, as far as my reading of the figures goes.</P>
+    </Speaker>
+    <Col N="1643" />
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>They are very nearly equal.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>They are very nearly equal but the number of population in proportion to each seat is less in Wicklow than in Carlow and Kilkenny. That is only a small matter and it is only in the event of there being reconsideration of constituency divisions that I put it forward.  I was interested as an outsider, in the point raised in connection with Limerick.  It seems to me that the ideal solution of that problem would be that as there are ten seats in the whole county of Limerick, including the borough&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>Nonsense.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>There are only seven.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>And there are three constituencies.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>No; there are only two.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>The Deputy has not read the Bill.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECOND SCHEDULE.</P>
+      <P>Amendment No. 9 not moved.</P>
+      <P>Second Schedule and Title agreed to.</P>
+      <P>Bill reported with amendment.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>When is it proposed to take the Report Stage?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>On Tuesday.  I do not know whether it has been decided yet to meet on Tuesday or not.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Up to what time will amendments be accepted for Report if we meet on Tuesday?  Will amendments be accepted on Tuesday morning?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I will say Wednesday.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>Are we meeting on Tuesday?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I thought there was some possibility that we might.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>There has been no notice so far, I think.</P>
+    </Speaker>
+    <Col N="1644" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>If we do meet on Tuesday, it is all right to take it on Tuesday provided the Chair will accept amendments up to Tuesday morning.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>We will take the Report Stage on Wednesday.</P>
+      <P>Report Stage ordered for Wednesday, 12th November.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Superannuation" RHead="Bill, 1947&mdash;Money Resolution">
+    <Title>Committee on Finance. - Superannuation Bill, 1947&mdash;Money Resolution.</Title>
+    <Speaker pid="FrankAiken" hpid="Minister for Finance (Mr. Aiken) Frank Aiken">
+      <NameTxt>Minister for Finance (Mr. Aiken)</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That it is expedient to authorise such payments out of moneys provided by the Oireachtas as are necessary to give effect to any Act of the present Session to amend and extend certain enactments relating to superannuation.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I want again to plead with the Minister not to close the door against a claim by those who retired prior to 1940 for an increase in the inadequate scales of pension allowed to them.  So far as this Bill is concerned, every person superannuated since 1943 will, as from that year, have his pension related to a cost-of-living index figure of 170 and future pensioners, unless there is an inordinate swing up or down in the cost-of-living index figure, will have their pensions related to the same index figure.  Therefore, the State will have two main classes of pensioner&mdash; one, those whose pensions will be related to an index figure of 170&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Is it not 270?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>I am taking 1914 as nought.  The figure 170 is technically better known in the Civil Service than 270.  They will have their pensions related to an index figure of 170 if they retired since 1943 and retire at any future date, whereas there will be others, those pensioned before 1923, whose pensions will be related to an index figure varying from, say, 50 to 165.  That latter class of pensioner, whose pensions are based on index figures swinging between 50 and 165, will tend to be a disappearing class. For instance, those whose pensions are related to an index figure of 50 are <Col N="1645" /> those who retired about 1932.  Those who retired in that year under the age limit of 65 years, are now 15 years over 65 and are on the border of 80 years of age.  Those who retired subsequent to 1932 and who retired on pensions related to an index figure something higher than 50 but lower than 170 are also advancing in years. Those who retired between 1932 and 1943 will tend to be a dwindling class and will be replaced by a new type of pensioners whose pensions will be more or less standardised, if present circumstances continue, on an index figure of 170.  The Minister must know that if a person retires on a pension related to an index figure of 50 points over the 1914 level of prices and who is compelled to live in circumstances in which the cost-of-living index figure is 219 over the 1914 level of prices, he is not getting a pension adequate to the circumstances or sufficient to maintain him in the altered circumstances.  If a person retires on a pension related to an index figure of 50, it is assumed that the pension is adequate to maintain him when the level of prices is 50 per cent. over the 1914 level; but quite clearly a pension which might be contended to be reasonable in relation to price levels 50 per cent. over 1914 and related to that 50 per cent. increase, cannot be held to be adequate compensation where you precipitate the pensioner into a condition of life in which he has to try to make ends meet at a time when the index figure is 219 over the 1914 level.</P>
+    </Speaker>
+    <P>I said on the last occasion&mdash;and I think the accuracy cannot be challenged, if one adverts to the facts&mdash; that practically every country in Europe I know of has been compelled to increase pre-war pensions.  In Britain, of which the Minister was so fond for debating purposes this morning, and in the Six Counties, pensions have been increased, born of a recognition of the fact that it is unfair to ask persons to try to subsist in existing circumstances on their low, preemergency rates of pension.  Increases have been granted to State pensioners and municipal pensioners there, notwithstanding the fact that the British <Col N="1646" /> cost-of-living index figure shows an increase of only 33 per cent. on the 1939 level, whereas our cost of living has increased by 84 per cent. on the 1939 level.  The British nevertheless recognised the necessity for increasing pensions there and the Six-County Government has done the same.  Yet so far the Minister has shown no appreciation whatever of the difficulties of those who retired prior to 1940 and whose position is certainly a very bad one where they were in receipt of low salaries during their period of employment in the State service and who have received no compensation for the increase in prices since 1939.</P>
+    <P>The Minister may contend that it is not possible for the Exchequer to meet this charge.  The charge, according to the Minister's figures, would be a trifling one and a dwindling one; and there is no insuperable difficulty whatever in the Minister being able to find the necessary money.  It seems extraordinary that the claims made by such persons have convinced Governments all over Europe, but we remain absolutely obdurate.</P>
+    <P>I plead with the Minister again that he ought to examine the matter sympathetically and, if he is not prepared to recognise the general principle of a claim for increased pensions, at least he might make some special effort to give an increase to those who retired on very low rates and who are in a desperate plight to-day.  Most of them gave at least 40 years' service to the State, many of them more.  The least the State ought to do is to recognise the value of the service they gave and to try, especially as the cost is not inordinately high, to relieve them by granting a percentage increase on pre-emergency pensions.  It will not cost much and there will be widespread support for the proposal, as the Minister is being pressed, even by his own Party, to recognise the justice of this claim.</P>
+    <Speaker pid="JohnACostello" hpid="Mr. Costello Mr. Costello">
+      <NameTxt>Mr. Costello</NameTxt>
+      <P>I would like to repeat what I said on the Second Reading and to add my voice to that of Deputy Norton on behalf of those pensioners who retired in 1940 and whose plight is very serious indeed.  The arguments in <Col N="1647" /> favour of bringing them within the scope of this measure have been fully put on the Second Reading and it is not necessary to repeat them.  In the course of his reply then, the Minister was asked what it would cost to equate the position of pre-1940 pensioners with that of those who retired between 1940 and 1946 and he said he was not in a position to give the figures.  I do not know if he is now able to do so.  Deputy Norton has said the amount is trifling. At all events, it is not so large that the Exchequer cannot afford to meet it, when justice requires that the claim should be met.  It has been judicially decided that the bonus is not so much additional remuneration or emoluments as something intended to equate salary with actual conditions having regard to the cost-of-living figure.</P>
+      <P>The Minister puts, as the only argument he was able to put in answer to the arguments put up on the Second Reading, that the contract of these men did not permit of or require the adjustment of their pensions when the cost of living soared.  The Minister said in his reply, as given in column 1214 of the Official Debates, Volume 108:&mdash;</P>
+      <P>&ldquo;There never was anything in a civil servant's contract or a teacher's contract that the pension he would draw at the end of his days would be sufficient to keep him at any particular standard of life.&rdquo;</P>
+    </Speaker>
+    <P>The fallacy of that argument is perfectly apparent.  The fact that it was the only argument that the Minister was able to advance shows the weakness of his case.  There is no real argument against the justice of the demands put forward by these people. They served normally 40 years of their lives in the Civil Service.  The pension is really a deferred pay and at the time when these people entered into their contracts or quasi-contracts in the public service, £1 was able to purchase a pound's worth of goods.  Conditions have varied since that time and that basic salary which they got was admitted, by the introduction of the cost-of-living bonus system, to be entirely out of relation to the facts. The very introduction of the bonus <Col N="1648" /> system destroys any possible force there is in the Minister's argument. They never bargained, when they entered the service, to get a bonus, but they got the bonus.  How can the Minister say that, because they never again bargained to get a bonus on their pension when the cost of living increased, they should be deprived of it?</P>
+    <P>Deputy Norton has pointed out that the class of people affected is a very small and dwindling one.  Many of them are probably over 70 and some are getting on for 75 and 80 years of age and they are all having a very tough and strenuous time.  When the cost of living fell it meant a fall in their pensions level, so it is only just in equity that when it rises the pension should rise accordingly.  It is no answer to say that their contract did not provide for that matter.  The very fact that the salaries of other public servants has been increased, although there was no contract&mdash;in fact, it was against their contract that those salaries have been increased&mdash;clearly destroys the very tenuous basis of the arguments on which the Minister rests.  All Parties in the House are in favour of an increase. It will not impose any great burden on the Exchequer and whatever the burden is it will be a dwindling one.  The claim is one that justice requires and that all Parties should support.</P>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I did not get an opportunity, unfortunately, of speaking on the Second Reading of this Bill and so I avail of this occasion to add my voice to the pleas made on behalf of these people by the Deputies who spoke on the Second Reading and those who have already spoken to-day.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy will bear in mind that this is not a Second Reading debate.</P>
+    </Speaker>
+    <Speaker pid="MauriceEDockrell" hpid="Mr. M.E. Dockrell Mr. M.E. Dockrell">
+      <NameTxt>Mr. M.E. Dockrell</NameTxt>
+      <P>I will.  I want to say that I think the injustice of the Minister's attitude on this matter is quite impossible.  All Civil Service pensions have been held judicially, I think, to be deferred payments.  If they are, in effect, deferred payments then no argument can be put forward by the <Col N="1649" /> Minister, from the financial point of view, that these people have not a right to increased pay, because what we are giving them in the form of a pension is, in effect, a payment for past services, a payment which is to be continued during their retirement.  If those in the Civil Service to-day, and those who retired later than 1940, have been given what I prefer to call increased payment, then the plea which is being made on behalf of those who retired prior to 1940 is, in justice and equity, unanswerable.  I should like to hear from the Minister what the cost of doing that would be.  I consider that, no matter how high the figure may be, in justice we should do it.  I am sorry that an Irish Government should take a niggardly attitude towards people who served the State so faithfully and so well during many years of their lives.</P>
+    </Speaker>
+    <Speaker pid="SeanMacBride" hpid="Mr. MacBride Mr. MacBride">
+      <NameTxt>Mr. MacBride</NameTxt>
+      <P>I wish to endorse everything that has been said by Deputy Costello and Deputy Dockrell, and I appeal very earnestly to the Minister to reconsider this matter.  The people who may be affected are old and feeble.  They have lived a sheltered existence because most State servants and public officials do look upon their position as one of security and safety.  When starting out on their career one of the things they search for is security.  These civil servants, especially in their old age, are particularly weak and defenceless, and are unable to make their voices heard.  They are people who have devoted a lifetime of service to the State, and I suggest that in this era the example that a good employer should give.</P>
+    </Speaker>
+    <P>We all know that the cost of living has more than doubled.  These people in their old age must find it nearly impossible to live on the very small allowances they get.  I think it would be an act of good faith and an act of Christianity to bring their pensions, in the last few years of their lives, up to a level that would enable them to live in reasonable comfort.  Social security can be achieved only by providing wages, salaries and pensions at such a <Col N="1650" /> level as will enable people to acquire the essentials of life.  Since this Bill was introduced the Minister for Industry and Commerce, I think, has quite properly endorsed the suggestion that wages should be based on the cost of living.  I respectfully suggest that is the only way in which you can avoid industrial strife&mdash;that wages should be related to the cost of living.  Likewise, in the case of these old people I suggest that the Minister for Finance should reconsider their position.  In doing so he will have the support of every Party in the House.  I do not think it would cost very much.  He has not indicated how much it would cost, but I think he should reconsider the matter away from political issues.</P>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>The Minister, in moving the Money Resolution, gave the House no information as to the sum that would be required for this.  It seems rather extraordinary that the House should be treated in that manner. Deputy Norton, who has some knowledge of this problem, suggested that the amount that would be required to meet the case of those people on whose behalf Deputies are pleading, would be trifling.  I think the Minister should reconsider the matter, and I want to join with other Deputies in asking him to do so.  After all, it is a matter of justice.  In many cases it is a matter of extreme urgency that some adjustment should be made so as to enable those people, who have given long service to the State, to live in some degree of comfort in their declining years.</P>
+    </Speaker>
+    <P>As regards the lower grades, I can assure the Minister that the conditions, so far as those people are concerned, are appalling.  I know a number of them myself.  Deputies have been approached to try to get something done for them.  The Minister stated that there was no demand for this.  He must know that every decent-minded citizen would support the plea for a favourable adjustment for those who retired prior to 1940 as well as for those who retired between 1940 and 1943.  The Minister is making a discrimination as between those who retired between 1940 and 1943 and those who retired at a later date.  He has made no case whatever for such a discrimination, and <Col N="1651" /> he has made no attempt to reply to the case made for those who retired prior to 1940.  The only argument that is left to him is that there was a contract and that he has honoured that contract. I think Deputy Costello has answered him effectively on that.  I want to say that, according to that contract, if the cost of living goes down the pensioner is obliged under the contract to take reduction in his pension, but if the cost of living goes above the over-riding maximum he cannot benefit, and, accordingly, has to suffer a loss all the time.  That is scarcely a fair contract in present circumstances, especially when one remembers that the contract was made on the basis of an altogether different standard of living from that which we have to-day.  One would scarcely expect that the Minister would come into Parliament and base his arguments merely on an obsolete contract, obsolete so far as the conditions that obtain to-day are concerned.  I would expect that he would be more concerned with the justice of the claim.  I think the claim is reasonable.</P>
+    <P>As I said before, we should consider the struggle that people on low pensions have to make to exist, the difficulty of securing clothes when they want them, the shame of having to appear in public in a shabby condition and perhaps hide it under an overcoat. Then the men who enjoyed a fair salary in the past and who retired formed friendships and associations which they cannot afford to have to-day with a low income.  The good position that they had at that time has to be forgotten and they have to break associations that they had in the past because they cannot afford to have them any longer.  If in our circumstances here we cannot afford to do justice to that class, our circumstances are surely bad.  If the Minister wants the approval of the public for this demand, it is there for him.</P>
+    <P>The Minister merely says that the State never guaranteed that a pension would keep a man for the rest of his life.  If a man gives the best years of his life to a State service and makes some contribution during that period <Col N="1652" /> to provide him with a pension, particularly the man on a low salary who could not make provision for the rainy day and for his declining years, what does the Minister suggest should be done about it?  Surely we all have respect for the people who spent the best years of their lives working hard in the interest of the State and they are entitled to retire in comfort and should not have any worries.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Might I remind the Deputy that this is not a Second Reading debate?  The Deputy has a good idea as to what a Money Resolution is for.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>We were not even told.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I do not think anybody has asked very much about it, if I might make the remark.  A certain number of questions are allowed, but it should not be a Second Reading debate.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I am sure it is not your intention, Sir, to prevent me any more than any other Deputy?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I have said what I intended to say.  I think the House is entitled at least to some information on this resolution and I hope the Minister will give us that information, particularly as to what it would cost to finance what Deputies have suggested should be met.</P>
+    </Speaker>
+    <Speaker pid="PatrickCogan" hpid="Mr. Cogan Mr. Cogan">
+      <NameTxt>Mr. Cogan</NameTxt>
+      <P>I only intervene briefly in this debate for the purpose of depriving the Minister of the only conceivable line of argument which he could adopt against the appeal which has been made to him by all the Deputies who have spoken.  The Minister may contend that when these civil servants who retired prior to 1940 were making their contracts of service they were assured of a certain yearly income whether the value of money went up or down, whether the cost of living increased or decreased.  He may say that if the cost of living had decreased and the value of money was higher to-day than it was when these people entered the service, then they would be gaining a substantial advantage and no attempt <Col N="1653" /> would be made by the State to deprive them of that advantage.  That argument might be suitable if we were dealing with pre-1914 conditions.</P>
+      <P>For 100 years prior to 1914 there were periods of prosperity and periods of depression, periods when the value of money was high and periods when it was low, and these occurred in regular cycles.  Since 1914, there has been a complete world revolution.  The entire cost of living has changed completely; it has increased enormously.  The value of money has declined to an extraordinary extent.  There have been two world wars which have upset the whole position that prevailed prior to 1914. I think the Minister cannot argue on the basis that these people might have benefited if the cost of living had gone down.  There is no comparison between what happened to the cost of living since 1914 and what happened in regular cycles during the previous 100 years.  Civil servants and those who have contracts of service have been affected by this world revolution in the value of money.  The extraordinary situation which has developed since then requires very special consideration. Therefore I think that the Minister ought to listen to the appeals made to him and he ought to ensure that a grave injustice will not be inflicted upon a very weak and numerically small section of the community.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>The Minister's statement, that there was nothing in a civil servant's or teacher's contract which provided that the pension he would draw at the end of his service would be sufficient to maintain a certain standard of life, is a very cynical attitude towards the problem we are discussing. I do not know whether there was ever a contract in the strict sense of the word.  I was a civil servant for a short period and I have no recollection of ever signing a contract or any kind of legal undertaking which could be interpreted as a contract.  But, even admitting for the sake of argument that the Minister's statement is correct, what is the situation?  These people entered into this contract at a time when the pound was really worth a pound and they never envisaged that conditions would arise in which the value of the <Col N="1654" /> pound would be reduced to half or less than half.  If, as the Minister states, there has been a contract, I submit that the Minister is bound by the terms of the contract to equate the pensions of these people to the conditions under which they entered the service.</P>
+      <P>The fact that the Minister introduced this Bill shows that he is prepared to make provision for the people who retired after 1940 so as to ensure that their standard of life should be maintained. But he is meting out different treatment to those who retired prior to 1940.  After all, civil servants belong to a sheltered profession and the community expects them to live according to certain standards.  In fact, I would say that Deputies and members of the Government expect civil servants to live according to certain standards, and, furthermore, they expect them to maintain these standards even when they retire on pension.  This Bill, according to my interpretation, means that the Minister and the community generally want civil servants who retired since 1940 to live according to the standards on which they lived during the period when they were in the service. I cannot understand the Minister's attitude because it is utterly inconsistent, and that is proved by the fact that he is meting out a certain treatment to one section and a completely different treatment to another section.  We know perfectly well that civil servants who retired prior to 1940 find themselves in very poor circumstances to-day.  Take the case of an ex-civil servant who occupied a key position and who retired on a salary of £700 or £800.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy is now making a Second Reading speech.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>I want to deal very briefly with this point.  He was retired on a pension of £350 or £400 but to-day that is worth only £175 or £200.  Surely to goodness it is not possible for that type of man to live in circumstances anyway comparable with those which he enjoyed during the time he was in the service?  I submit that there is a moral obligation on the Ministers and members of the House to see that some reasonable provision is made for <Col N="1655" /> those ex-civil servants who are suffering hardship to-day and I wish to add my voice to those of other Deputies in asking that some special consideration should be given to claims of these people.  I suggest that the dictates of even ordinary humanity demand that their case should be examined and that some provision should be made for them, if not in this Bill, in some other piece of legislation.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>I join with other Deputies in asking the Minister to give favourable consideration to the claims of ex-civil servants who retired prior to 1940.  It is obvious that the high cost of living&mdash;or perhaps I should say the cost of existing, for it is merely an existence, in their case&mdash;presses more heavily on them than on other sections of the community.  Those who retired from 1930 onwards when salaries were small received relatively small allowances and they are suffering great hardships.  I see no gesture on the part of the Minister in this or any measure to give them any consideration. We should bear in mind what happened in the days gone by when a certain number of civil servants, who could have retired in 1922 and who would be to-day in enjoyment of certain rights from the British Government if they had done so, contracted to remain on in the service of the Irish Government.  Some of these men had retired before 1940 and now find themselves in very straitened circumstances. I think that is rather unfortunate.  I would say that it is tantamount to the breaking of a contract as these people were guaranteed that they would be treated on not less favourable terms than had they remained in the British service.  I do know that the Government has something in mind to try under some other measure to take from those civil servants who are still serving and who have certain rights under the Act of 1922&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Not under this Bill.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>Not under this Bill, I agree.  I bow to your ruling but it will do no harm at least to draw attention to the fact that those servants who <Col N="1656" /> remained on in the service of the Irish Government were promised that they would not be retired on pension on less favourable terms than those who went out under the 1922 Act.  There are rumours of legislation to take from these&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy has already been told that that matter is out of order and he should not repeat it.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>I shall leave it then to the Minister.  I know that he would have the backing of every member of his own Party, if they were free to say so, in dealing justly with those ex-civil servants whose cases have been referred to.  They have said privately to myself and others, that they would like to see the old pensioners dealt with generously.  Frankly, I do not like the word pensioner.  I say that these people who retired merely drew from the Government something to which they contributed handsomely themselves. It was really giving them some of their deferred pay after many years of faithful service.  I shall not enumerate the various types of individual affected.  In talking about civil servants one is inclined to mix up civil servants proper with various other types of Government employees, but they are all deserving of the Minister's attention.  They were all promised that they would get the sympathy of their own national Government which they had served so well when they retired on reaching the age limit.  In some cases they received very nice letters of congratulation for the services they had rendered, but letters do not buy bacon or eggs at the price which they are going to-day.  I would put it to the Minister that he will have the support of every section of the House&mdash;unfortunately there is a very small attendance in the House at the moment&mdash;in giving favourable consideration to ex-civil servants who retired prior to 1940.  I put it to him that he has a chance of expressing in a practical way his appreciation of these men who served the country so well.</P>
+    </Speaker>
+    <Speaker pid="DanielBourke" hpid="Mr. D. Bourke Mr. D. Bourke">
+      <NameTxt>Mr. D. Bourke</NameTxt>
+      <P>I should like to join in the appeal made by Deputy Norton <Col N="1657" /> and other Deputies to the Minister to give favourable consideration to the claims of civil servants who retired prior to 1940.  These men have to live on pensions which are entirely inadequate to cover the present cost of living and in my opinion they have equal rights with those who retired subsequent to 1940.  I am sure it would not cost the Exchequer very much to put them on the same basis as regards pensions.  It must be remembered that there are very few of those who retired prior to 1940 now living.  I would ask the Minister to give sympathetic consideration to the claims of those who still survive.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Minister to conclude, on that portion of the debate.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Subject to our right to ask him some questions.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I know the Deputy appreciates what is permitted under the rules of order.  On the Second Stage of a Bill a Deputy may ask questions in regard to certain matters that are not in the Bill. Deputies did so and the Minister made certain advances.  Some Deputies took the opportunity of this discussion to reply to the Minister's statement. Certain concessions were granted but the proceedings now cannot develop into a debate outside the scope of the Bill as read a Second Time.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>This Bill is going to cost the taxpayers an additional £24,000 for pensions, and, in lump sum adjustments, £143,000.  Deputy Hughes has got very generous in a couple of hours. He was not so generous in offering me assistance to-day to provide concessions for the generality of the community by reducing the price of sugar, tea and bread.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Is this on the Bill?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Is not that exactly what it amounts to?  Deputies ask me to do certain things and when I ask them to provide me with money to enable me to do these things they say &ldquo;No&rdquo;.  Am I going to get it out of the air?</P>
+    </Speaker>
+    <Col N="1658" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>It is the way you go about it that we complain of.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>Again, will Deputy Norton, Deputy Hughes or Deputy Roddy tell me the things I am to tax in order to get these additional sums for the civil servants who retired before 1940? That is a different matter.  But they ask me to do this.  Everybody is sympathetic with the classes who are on fixed incomes, the amount of which was fixed before 1940&mdash;the classes who have suffered a decrease in the value of their money owing to the increase in the cost of living.  But there is no rabbit that I can pull out of a hat that will increase production so as to enable the whole community to live at the pre-1940 standard; that cannot be done until our production goes up to the 1939 or the 1940 level.  Deputies are asking me to guarantee for a small section, who had no contract for such a guarantee, and at the cost of the rest of the community, that their £1 will always be worth its value at the date of their retirement. There is only one way in which we can do that, and that is, to keep the volume of production up to that level and distribute it in the same way.</P>
+      <P>I dealt with this thing very fully on the Second Reading and I do not intend to go into it again.  It could not be dealt with as a single issue.  Civil servants who retired prior to 1940&mdash;all pensioners, excluding old age and blind pensioners&mdash;are already costing the State £2,400,000 a year.  I think that in the present circumstances we should be very slow to add to the bill that the people have to pay for pensioners of all types.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>How much would the Minister have to pay?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I could not say off-hand. I am saying that State pensioners, excluding old age and blind pensioners, are costing £2,400,000.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>Would it be possible for the Minister to make an approximate estimate?</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>We are doing our best to facilitate the Minister, but he seems disposed to-day to be unreasonably irritable.</P>
+    </Speaker>
+    <Col N="1659" />
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I am not.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>The Minister may be of that opinion, but it is the fact.  The Minister cannot see his way to increase the pensions of persons who retired prior to 1940 until production comes up to a certain level.  That is the Minister's viewpoint.  If that is so, why did he come in recently without a request from anybody and propose increased allowances for Ministers, Deputies, judges and various other people?  If the Minister takes that stand, why not offer some increase to the unfortunate people who are endeavouring to live on £2 or £3 a week?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy will not be allowed to pursue that line.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Very well; I will have the Minister on the hustings shortly.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>We will meet you there.</P>
+      <P>Question agreed to.</P>
+      <P>Money Resolution reported and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Superannuation Bill," RHead="1947&mdash;Committee and Final Stages">
+    <Title>Committee on Finance. - Superannuation Bill, 1947&mdash;Committee and Final Stages.</Title>
+    <P>Sections 1 to 4, inclusive, agreed to.</P>
+    <P>Question proposed: &ldquo;That Section 5 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Some of the increases proposed in this Bill have already been paid, but there are other increases which have not yet been paid.  I understand the position is that they are under examination in the Department of Finance.  Could the Minister indicate when all the payments due under this Bill will be made?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>As soon as possible. There must be some snag in the particular payments that are held up.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>Will the Minister be able to tell us on the Report Stage?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>I can promise the Deputy that there will be no undue delay in connection with this matter.</P>
+    </Speaker>
+    <Col N="1660" />
+    <Speaker pid="WilliamNorton" hpid="Mr. Norton Mr. Norton">
+      <NameTxt>Mr. Norton</NameTxt>
+      <P>May we assume that there will be some information within a month?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>There will be.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>This is a very important Money Resolution and I should like to know if 13 Deputies form a quorum.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Money Resolution has been passed and we are now on the Committee Stage of the Bill.</P>
+    </Speaker>
+    <Speaker pid="AlfredByrne" hpid="Mr. Byrne Mr. Byrne">
+      <NameTxt>Mr. Byrne</NameTxt>
+      <P>But there is no House.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>If the Deputy officially draws attention to that fact, we will get a quorum.</P>
+      <P>
+        <i>Notice taken that 20 Deputies were not present; House counted, and 20 Deputies being present,</i>
+      </P>
+      <P>Question put and agreed to.</P>
+      <P>Section 6 and the Title agreed to.</P>
+      <P>Agreed to take the remaining stages to-day.</P>
+      <P>Question&mdash;&ldquo;That the Bill be received for final consideration&rdquo;&mdash;agreed to.</P>
+      <P>Question put: &ldquo;That the Bill do now pass.&rdquo;</P>
+      <P>Division challenged.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I should like to know, before I declare tellers, that a sufficient number of Deputies signify their wish to have such a division.</P>
+      <P>
+        <i>No Deputy rose.</i>
+      </P>
+      <P>Question declared carried.</P>
+    </Speaker>
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>This Bill has been certified a Money Bill by the Ceann Comhairle in accordance with Article 22 of the Constitution.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Civil Service (Transferred Officers)" RHead="Compensation (Amendment) Bill, 1947&mdash;Committee and Final Stages">
+    <Title>Committee on Finance. - Civil Service (Transferred Officers) Compensation (Amendment) Bill, 1947&mdash;Committee and Final Stages.</Title>
+    <P>Bill passed through Committee without amendment, received for final consideration, and passed.</P>
+    <P>The Dáil adjourned at 2 p.m. until 3 p.m. on Wednesday, 12th November, 1947.</P>
+  </MainHeading>
+</Debate>

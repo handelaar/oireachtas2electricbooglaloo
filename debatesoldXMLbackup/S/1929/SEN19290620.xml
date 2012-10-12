@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="20" Month="Jun" Year="1929" Vol="12" No="15" DateIrish="Déardaoin, 20 Meitheamh 1929" DateEnglish="Thursday, 20 June 1929" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="829">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="829" /> Do chuaidh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Business. - Bank of Ireland" RHead="Bill, 1929&mdash;Report Stage">
+    <Title>Private Business. - Bank of Ireland Bill, 1929&mdash;Report Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bank of Ireland Bill, 1929, be considered on Report.&rdquo;</P>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I object.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>As this Bill has already been objected to twice, it devolves on me to fix a date for taking this Stage.  I will have it on the Order Paper for Wednesday next.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. -" RHead="Election of Senators">
+    <Title>Public Business. - Election of Senators.</Title>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>The House will now proceed to elect a Senator to fill the vacancy caused by the death of Senator Mrs. Stopford Green.  The following are the candidates, with their qualifications:&mdash;</P>
+      <P>Miss Kathleen A. Browne, Rathronan Castle, Bridgetown, Co. Wexford.</P>
+      <P>Qualifications: Practical farmer; Historian; Archæologist; Peace Commissioner for County Wexford; Member of Committees of County Council, Agricultural and Co-Operative Societies.</P>
+      <P>Nominators: Senators Mrs. Costello and Sir Thomas Esmonde.</P>
+      <P>Mrs. Mary Cosgrave, &ldquo;Woodside,&rdquo; Cowper Gardens, Dublin.</P>
+    </Speaker>
+    <P>Qualifications: Vice-Chairman, Dublin County Council (4 years); Member of Committee on Technical Education; Chairman, Libraries Committee, County Dublin; Chairman (acting), Scholarships Committee; Chairman, Irish Women's Citizens' <Col N="830" /> Association; Chairman (acting), Tuberculosis Committee; Vice-Chairman, Meath Hospital, Dublin; Examiner under Intermediate Board for several years; Leader of Irish Delegation to Women's International Congress at Paris, 1926.</P>
+    <P>Nominator: Senator Henry L. Barniville.</P>
+    <P>Mrs. Julia Anne O'Donovan, 2 Garfield Terrace, Rathgar.</P>
+    <P>Qualifications: Active supporter of all national movements for many years; pioneer in co-operative marketing of dairy produce.</P>
+    <P>Nominator: Senator O. St. J. Gogarty.</P>
+    <P>The first poll was as follows: Miss Browne, 25; Mrs. Cosgrave, 19; Mrs. O'Donovan, 25.</P>
+    <P>The second poll was as follows:&mdash; Miss Browne, 26; Mrs. O'Donovan, 22.</P>
+    <P>Miss Browne was declared elected.</P>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>The House will now proceed to elect a Senator to fill the vacancy caused by the resignation of Senator the Marquess of Lansdowne.  The following are the candidates, with their qualifications:&mdash;</P>
+      <P>Arthur Kenlis Maxwell, Lord Farnham, Farnham, Co. Cavan.</P>
+      <P>Qualifications: Major, North Irish Horse; D.S.O. (European War), 1918; Irish Representative Peer since 1908; interested in agricultural development.</P>
+      <P>Nominator: Senator Andrew Jameson.</P>
+      <P>Major-General Sir George McKenzie Franks, K.C.B., Ballyscaddane, Knocklong, Co. Limerick.</P>
+      <P>Qualifications: Landowner and farmer.</P>
+      <P>Nominator: Senator Sir William Hickie.</P>
+    </Speaker>
+    <P>
+      <Col N="831" /> Rt. Hon. Laurence O'Neill, Portmarnock, Co. Dublin.</P>
+    <P>Qualifications: Lord Mayor of Dublin.</P>
+    <P>Nominator: Senator Alfred Byrne.</P>
+    <P>The first poll was as follows:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="40*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="10*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Lord Farnham</entry>
+            <entry rowsep="1">22</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Sir George Franks</entry>
+            <entry>12</entry>
+          </row>
+          <row>
+            <entry>Mr. O'Neill</entry>
+            <entry>31</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>The second poll was as follows:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="40*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="10*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Mr. O'Neill</entry>
+            <entry rowsep="1">26</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Lord Farnham</entry>
+            <entry>23</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P>Mr. O'Neill was declared elected.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Civic Guards (Acquisition of" RHead="Premises) (Amendment) Bill, 1929&mdash;Second Stage">
+    <Title>Public Business. - Civic Guards (Acquisition of Premises) (Amendment) Bill, 1929&mdash;Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Civic Guard (Acquisition of Premises) (Amendment) Bill, 1929, be read a Second Time.&rdquo;</P>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Minister for Justice (Mr. Fitzgerald-Kenney) James Fitzgerald-Kenney">
+      <NameTxt>Minister for Justice (Mr. Fitzgerald-Kenney)</NameTxt>
+      <P>This Bill proposes to extend for another year the period during which the Board of Works may exercise the powers of compulsory acquisition of premises which were conferred on them by the Civic Guard (Acquisition of Premises) Act, 1923.  The total number of cases in which these powers have been exercised by the Board of Works is 85, and in 45 of these cases the premises have since been evacuated by the Guards, leaving 40 still occupied.  In most of these 40 cases the Board have succeeded in arranging terms of tenancy amicably.  In a few cases they were compelled to fix rents under the powers conferred upon them by the Act.  A considerable amount of progress has been made in housing the Guards, but there are still a number of stations, roughly, about 200, in which the premises now occupied by the Guards are not suitable for permanent occupation, and the Board of Works are of opinion that the powers which they have under this temporary Act should be extended for another year.</P>
+    </Speaker>
+    <P>
+      <Col N="832" /> These powers are only exercised in cases where the owners have proved very unreasonable, and in no case have they or will they be exercised where it would mean any hardship on the owner or owners.</P>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I would like to point out some extravagances about these buildings.  In a certain town in the West of Ireland a fine building was used as a barracks.  It was the best building in this small town, but it was destroyed.  It has since been restored.  When it was burned the roof fell in.  It was a remarkable building, and in a small way, was an ornament to the town.  If the roof had been restored in the way it had stood, it would have done.  Instead of that two or three months were spent in pulling down part of the top storey and lowering the walls nearly to the windows of the upper floor.  I happen to know that the house was in good order.  The walls were strong, but they were lowered, although no damage had been done to them.  There was no object whatever in pulling down the walls and wasting two or three months labour. The Minister is not responsible for that, but it has been done, and there has been waste of labour and waste of time.  Not only has that been done but the building now looks ridiculous&mdash;the roof sitting down on a level with the windows.  The arrangement was a most absurd and ludicrous one, and the result is that the building has a bad appearance, and that there has been an absurd waste of money.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>That matter hardly arises on this Bill, which merely enables houses to be taken compulsorily for a short time, until the Board of Works are able to provide proper housing for the Guards in various localities.  I presume the Board of Works engineers in the case referred to&mdash;and I do not know what town Senator Moore is referring to&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>The town of Balla. I am sure the Minister knows it well.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>I know <Col N="833" /> the town well, and I know the barracks, but I must frankly confess no alteration in the appearance of the barracks has caught my eye.  The Board of Works have got a very competent staff of engineers, and I imagine that their engineers, after inspection, decided what should be done.  I imagine that the engineer, who is a trained man, would see what should be done and he is in a better position to judge than a person who walks along the street and takes a casual glance at it.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I am not in that position&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>You have made your speech, Senator.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee Stage fixed for to-morrow.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Increase of Rent and Mortgage" RHead="Interest (Restrictions) Bill, 1929.&mdash;Second Stage">
+    <Title>Public Business. - Increase of Rent and Mortgage Interest (Restrictions) Bill, 1929.&mdash;Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Increase of Rent and Mortgage Interest (Restrictions) Bill, 1929, be read a Second Time.&rdquo;</P>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>This Bill aims at preserving the status quo between landlord and tenant in house property.  The Seanad, no doubt, is aware that a class of houses will become decontrolled under the existing law on the 24th June of this year.  We are engaged in preparing a comprehensive scheme of legislation dealing with the entire question of landlord and tenant in town property and with housing generally, and it is considered desirable that the present relationship should be carried on unchanged until the new legislation is brought before the Dáil and the Seanad, and becomes law, if the Dáil and Seanad approve of its provisions.  The proposed Bill is not yet completed, but I hope to introduce it in the autumn session. Meanwhile this Bill carries on the existing law for another period of twelve months.  I trust that considerably before that period will have expired our new legislation will be in force, and I ask the Seanad to pass this Bill as quickly <Col N="834" /> as is reasonably possible, because there is a certain shortness of time. I am afraid we have left it, possibly, towards the end of the session, but I do not think that this will be in any way regarded as a contentious measure, because it is not a measure which of its own nature is really susceptible of amendment.  It is merely carrying on the existing law.  It does not make any alteration in the existing law, and any alterations which any Senator thinks should be made in the existing law either in the interests of landlords or of tenants would be germane to the proposed new Bill but not to this Bill.</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>After what the Minister has said, I cannot very well ask the House to reject this Bill, but I should be very much interested to know, in the case of what the Minister describes as a non-contentious measure, whether a minority of one makes it contentious. I certainly cannot accept the fact that this Bill is non-contentious and does not contain features of great hardship and injustice.  There is an old saying that &ldquo;Hope deferred maketh the heart sick.&rdquo;  If there is any body of people whose hearts should be sick to-day it is house-property owners who, alone of any class in the community, are prevented by this legislation from operating under the free laws of supply and demand.  Why should the necessities of life, such as clothing and food, have a free and open market, and why alone should rent be fixed at a figure which is far below that represented by the actual rise in wages, or by the reduced purchasing power compared with pre-war days?  There has never been any explanation of that except this&mdash;and it will not be given officially&mdash;that house owners are a negligible number of the community and that their voting power is very weak. There is the further injustice that while the man who built the house, and the man who has to repair it, is restricted to a temporary increase in the pre-war rent, those who occupy the house are allowed to put <Col N="835" /> in a few sticks of furniture and profit by sub-letting, and in some cases charge for one room rent that is higher than the whole rent paid to the landlord.  That is going on year after year that this thing is being deferred.  At the present time I can only content myself with this protest, which I wish to make on every possible occasion against the injustice of this legislation.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>I would like to make the point that the injustice of not passing this Bill would be a thousand times greater than any injustice that could be conceived, even from the point of view of the Senator who has just sat down.  One does not want to discuss his point of view, which is, that the owner of what is, in effect, a monopoly should have the right to squeeze the people, to whom the commodity is a necessity, of the utmost that the owner could get out of the tenant.  I would press this point of view upon the Minister when he is considering future legislation: whatever may be the method, there must be some restriction, and an easily utilised restriction, upon the price that is capable of being charged for a necessity when there is an inevitable shortage of the supply of that necessity.  I hope the Minister will bear in mind that in this matter we are, and shall be for a considerable time, in a state of partial famine, and the owner of the commodity which is short should not be able to charge famine prices.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Can the Seanad take the Committee Stage to-morrow?</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>Could the convenience of the only Senator interested in the passage of this Bill be consulted?  I could not possibly be here to-morrow.  I recognise that there is very little prospect of amendments being carried, but, on the other hand, I should like to make points in Committee and to elaborate the various injustices in more detail.</P>
+    </Speaker>
+    <Col N="836" />
+    <Speaker pid="ThomasFarren" hpid="Mr. Farren Mr. Farren">
+      <NameTxt>Mr. Farren</NameTxt>
+      <P>In view of the statement that has been made, and in view of the fact that the existing Act expires on the 24th instant, it would be impossible to hold this Bill over after to-morrow, if there is any intention of putting it into operation at all.</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>I do not want to be vexatious about the matter by standing on my strict rights.  I would like to know if there is power under the Standing Orders for the other stages to be taken to-morrow without notice.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>There is power to have the Committee Stage taken to-morrow. I would like to have the opinion of the House on the matter and I will be guided by that.</P>
+    </Speaker>
+    <Speaker pid="ThomasFarren" hpid="Mr. Farren Mr. Farren">
+      <NameTxt>Mr. Farren</NameTxt>
+      <P>I move that the remaining stages be taken to-morrow.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>I will take a motion to take the Committee Stage.</P>
+    </Speaker>
+    <Speaker pid="ThomasFarren" hpid="Mr. Farren Mr. Farren">
+      <NameTxt>Mr. Farren</NameTxt>
+      <P>I move that the Committee Stage be taken to-morrow.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>I second.</P>
+    </Speaker>
+    <Speaker pid="HonJameson" hpid="Mr. Jameson Mr. Jameson">
+      <NameTxt>Mr. Jameson</NameTxt>
+      <P>We had many cases where urgency was quoted as a reason why we should hurry up matters, but for a good while now we have not had such cases.  Here is a Bill put before us to-day, and we are told by Senator Farren that we must pass it by the 24th June.  This is the 20th June.  Is there any reason why we could not have received this Bill last week, or the week before? I am not complaining about this Bill, but I think the Seanad ought to ask the reason why the Bill is brought in only three days before the Act expires. Most of us did not know that we would have to sit again to-morrow, but now we are told that we must take the Committee Stage. I wonder could the Minister tell us why it was not brought in before? I think it is the business of the House to know that.</P>
+    </Speaker>
+    <Speaker pid="JohnOFarrell" hpid="Mr. O'Farrell Mr. O'Farrell">
+      <NameTxt>Mr. O'Farrell</NameTxt>
+      <P>I am in agreement with Senator Jameson with regard to the late stage at which the Bill was brought before the House.  One, <Col N="837" /> of course, has to admit the urgency of the question now, seeing that the powers of the existing Act cease on Monday next, and that it will then be in the power of landlords to increase rents unless this Bill becomes law immediately.  At least a lacuna would occur for which there would be no legislation, and which might lead to all sorts of legislative difficulties. I think some explanation is necessary as to the delay in bringing forward this Bill.  It is not a Bill that involved any considerable drafting, and is one that, from the beginning, might be considered as being practically non-controversial. There has been some pressure brought on the Government for its introduction, and I think questions were raised about it.  It is surprising that the Bill did not come forward earlier.  This involves sometimes an injustice to minorities, which do not get reasonable time for considering amendments.  I would be in favour of giving them every opportunity of doing so on this occasion were it not for the extreme urgency of the matter, and because of circumstances over which the House has no control.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>I have a motion that the Committee Stage should be taken to-morrow.  It is for the House to decide.</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>Can I raise a point of order?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>What is the point?</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>Whether it is possible to have all the Stages to-morrow without notice.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>We will decide that to-morrow.</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>I shall not be here to-morrow.</P>
+    </Speaker>
+    <Speaker pid="SamuelBrownKC" hpid="Mr. Brown Mr. Brown">
+      <NameTxt>Mr. Brown</NameTxt>
+      <P>We must recognise that unless the Report and Final Stages are taken to-morrow this Bill cannot be passed before June 24.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>I am sure that some of us recognise that.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>I did.  I gave notice <Col N="838" /> that I would move that all stages of the Bill be taken to-morrow.</P>
+      <P>Question put and declared carried.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Censorship of Publications" RHead="Bill, 1928&mdash;Fifth Stage">
+    <Title>Public Business. - Censorship of Publications Bill, 1928&mdash;Fifth Stage.</Title>
+    <P>Question&mdash;&ldquo;That the Censorship of Publications Bill, 1928, be received for consideration and do now pass&rdquo;&mdash;put and agreed to.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Legal Practitioners" RHead="(Qualification) Bill, 1928&mdash;Fifth Stage">
+    <Title>Public Business. - Legal Practitioners (Qualification) Bill, 1928&mdash;Fifth Stage.</Title>
+    <P>Question proposed&mdash;&ldquo;That the Legal Practitioners (Qualification) Bill be received for final consideration and do now pass.&rdquo;</P>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>There are occasions on which, in my opinion, at at least, things can be said on the Final Stage of a Bill more appropriately than on the earlier stages, and this Bill is a case in point.  I am painfully aware that in certain quarters I have the unfortunate habit of saying things in a somewhat provocative manner, but hoping that this Bill might have led to a large measure of conciliation and agreement I abstained from speaking as I felt on the earlier stages.  But as no conciliation, and, in my opinion, no betterment of the Bill has come about, I feel that I must now say certain things which I might perhaps have better said before.</P>
+      <P>I am not concerned specially or mainly with the effect of this Bill, even upon the legal profession.  I am more concerned with the indirect and more damaging effect that the measure may have upon certain classes in this country.  After all, if you conceivably reduce the status all round of the legal profession by an arbitrary measure of 33 per cent., I do not suppose it matters very much either to the lawyer or the litigant.  You can have as good a race, you can have as close a finish, and you can have as good a bet, if you like, between half-breeds as between thoroughbreds, and the result generally may be the same. But I do consider there is a danger which requires notice, a notice which the Bill has not yet received.</P>
+    </Speaker>
+    <P>
+      <Col N="839" /> I find it hard to believe that this measure is wholly or even mainly inspired by a desire to do justice to the language.  Else why has one profession, and one profession only, been selected?  Why has a profession, moreover, been selected which does not come into very close and intimate intercourse with the citizens, nothing like as close and intimate intercourse as the profession of the Church or that of medicine?  Presumably, it may be said that their turn will follow.  I am far more concerned to feel that this measure is directed&mdash;I do not say consciously directed&mdash;against a class of citizens who mainly, not entirely, can avoid compulsory education in Irish as it is enforced in this country.  The legal profession is drawn largely from a class in the community who, if they do not wish to learn the national language &mdash;and I submit they have every right to use their choice in the matter&mdash;can afford to be educated elsewhere, and can come back and be called to the Bar or can enter the solicitors' profession in the ordinary way.  As one of a minority&mdash;not as one who contemplates entering the legal profession&mdash;I think it is an injustice to those who wish to enter the legal profession to be forced by this means to conform to a certain national mould.  After all, we all have different views of national ideals.  I do not think any man is a worse Irishman because he does not conform to a certain test which other people feel very strongly.  He should be perfectly free to take whatever course he may wish in the interests of his country and of the community at large.</P>
+    <P>After all, there is the point of view, rightly or wrongly, that every citizen should be allowed to indulge in&mdash;the cosmopolitan point of view. In these days when travel is so easy, when we have wireless and world intercourse, we have the increased call of the world and a vast intellectual range of opportunity of operating, as it were, and a person should <Col N="840" /> not necessarily be forced into any sort of mould, territorial or political, or into any form of thought.  Let those who wish by all means do so, but those who do not wish should be free to choose otherwise.</P>
+    <P>Whether it is intended or not, I believe that this Bill will have the effect of preventing a large number of the minority class in this country from entering the legal profession&mdash; not of preventing them directly, but in the sense that they can only enter by learning the Irish language.  They will not, for one reason or another, submit to this language test, and they will, therefore, have the legal profession closed to them.  You may say, and some do say: &ldquo;Why all this squealing?  Why not take your medicine like a man; realise that conditions are changed, and not have all this fuss about it?&rdquo;  I assure you, sir, that the fuss I am making is not on my behalf.  Many of my friends will not be in any way affected by this measure.  But I do say that the country will be poorer if, by indirect methods of this kind, you exclude any section, and, I think, a considerable section of the minority, from entering an honourable profession like that of the law.  They have always entered that profession in large numbers, but do not think, and do not let it be assumed, that because they have always entered that profession in large numbers that profession has always stood for ascendancy.  By no means.  If you search through the list of men who have done great service to Irish nationalism you will find that many of them were drawn from the Bar&mdash; names like Curran, Flood, Plunkett, the Healy brothers, O'Connell, and many others, and last, but by no means least, our present Chief Justice Kennedy.  All of these men have been ornaments of the legal profession and have done great service in the cause of Irish nationality.  Is it in the country's interests that, through a measure of this kind, you should instantly set up a state of affairs which will prevent&mdash;I admit of their own free will&mdash;a large number of a certain class, a class contributing <Col N="841" /> very largely to the welfare of the country, from entering the legal profession, and, I am afraid, will have the effect of driving quite a number either into obscurity or into exile?  That is the reason why I think this Bill is so bad, and it is for that reason that I felt it my duty to make the remarks that I have just made.</P>
+    <Speaker pid="MichaelOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>I thought that Senator Sir John Keane intended to make some harsh remarks judging by the way he started; but his comment does not call for much in the way of reply, except to state that, as far as I am concerned, and I am sure I am speaking for many others, we had no purpose in our attitude to this Bill, and were not making any attempt to exclude the class to which he belongs from taking their part, as they did in the past, in the legal profession.  Men of the class to which he may be said to belong have taken their part in that profession.  I am sure that they will take their part in the ranks of those who profess the calling of law in this country in the future.  Many of those who belonged to Senator Sir John Keane's class have studied the Irish language; many of them have become very proficient in the Irish language; and many of them will become very proficient in the Irish language.  In that respect we have no fears whatsoever.  It is not our purpose to inflict any particular hardship on any class; and if I thought that this Bill was intended to inflict hardship on any class, I would be opposed to it instead of for it.  I will say this much for Senator Sir John Keane, that he has stated his opinions frankly.  Senator Douglas, speaking on another occasion, took to himself and to those for whom he spoke certain credit for expressing their opinions frankly. We welcome frank expression of opinion; there is no repression whatsoever in regard to the expression of any opinion.  We preach and practise, in so far as we can, the policy of tolerance, and in these matters we want to go easy.</P>
+    </Speaker>
+    <P>I am not going to say that because <Col N="842" /> a man is an extremist on the Irish question he is a much better Irishman than those who are opposed to the study of the language.  He is not necessarily, for that reason alone, a better Irishman.  There are men who do not stand fundamentally for the Irish language who are better citizens, and perhaps better Irishmen, than those who take what might be considered a very narrow and short-sighted point of view on it.  I concede that.  But we have to go a little further in our consideration of this matter.  We are striving to be reasonably tolerant, and we want to make haste slowly. There is no policy of repression or oppression, and the frank expression of opinion to which we have</P>
+    <P>I would call attention, by way of just listened is welcome. comparison, to the fact that there are countries where, if any attempt is made to slight the national language, to slight the national anthem, to slight the customs and traditions or the national flag, those who are responsible are treated very differently from the way in which they are treated in this country.  We close our eyes to a number of things here, and we do not want to be taunted with being over-extreme in other respects. I submit that we are not. This measure is not extreme.</P>
+    <P>I spoke at length on this matter before, and I want to make a few comments on it to-day, as well as on one thing which struck me recently when considering this measure. That is that two years has been added to the course at the King's Inns.  If two years has been added to that course, it must be for one of two reasons.  One reason must be because the general standard of education of those who aspire to the legal profession is not particularly high, and it needs, if I may put it that way, to be toned up a little.  On that line of reasoning there can be no particular objection to this Bill. The Bill in itself makes for a higher standard of general education in aspirants to the legal profession than obtained under the old system.  The second reason for the addition of these two years to the course might <Col N="843" /> be that there are too many aspirants to the legal profession; that there are too many lined up, wanting to seek the plums which apparently fall to those who practise law; that perhaps it is necessary that there should be some little bar, and accordingly these two years have been added.  I think that this measure will rather help to raise the bar a little to a point higher than it has been.</P>
+    <P>Senator Sir John Keane, speaking here a few days ago, and referring particularly to what I stated, said that when it suited us those of us who were making the case for this measure were able to refer to the sanctity of the Constitution, and that so far as the Constitution was concerned, the Constitution had been trenched upon and amended in a very drastic fashion, but notwithstanding the fact that the Constitution had been trenched upon and had been amended in a very drastic fashion, we were able to refer to the sanctity of the Constitution in respect of Article 4 of the Constitution when it suited our purpose.  If I may say so, Senator Sir John Keane lost sight of the circumstance that in the Constitution itself provision has been made for the alteration of the Constitution. It embodies a clause which admits of the alteration of the Constitution, and if it does admit of alteration, surely there is nothing very wrong in altering it.  On the other hand, Article 4 still remains in the Constitution unaltered, and Irish is still the national language.  The national policy is to develop Irish, and until the Constitution is altered in keeping with the will of the majority of the people, as expressed by both Houses of the Oireachtas, that Article of the Constitution will remain, and I think we are quite justified in pointing to it in support of our contention that Irish is the national language and that our policy must be to establish it on the lines of the Constitution&mdash;&mdash;</P>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>I rise to a point of personal explanation.  What I referred to was where an Article of the Constitution has been allowed to <Col N="844" /> stand, but by specific legislation a case that arose was excluded from that Article.  I refer to a case that went before the Privy Council.</P>
+    </Speaker>
+    <Speaker pid="MichaelOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>The question of the Privy Council has been raised, and Senator Sir John Keane points to one particular instance.  He may put forward a case in respect to that instance, but he can go no further than that; he cannot prove the one particular case which might justify his contention.  That is a case which could be argued.  As I said, in my opinion no great hardship will be inflicted on any class by this measure. I can understand the contention being made that hardship would be inflicted if, for instance, this Bill provided that we should change in one year's time and have Irish the language in the courts then.  I could understand this measure inflicting hardship if it set out to ensure that Irish should be the language of the courts in five or six years' time.  I could understand the Bill inflicting certain hardships on persons if it tried to establish that in five or six years time all solicitors should have a competent knowledge of it.  But what are you taking?  You are taking the last degree; you are taking the one degree which inflicts the least hardship.  You are meeting the position which Senator Brown set up when he pointed to the absence of legal terms, as if this Bill were attempting to establish it that Irish should be the spoken language of the courts in five or six years' time.  This Bill does nothing of the sort.  All it is endeavouring to do is to establish that, in keeping with the national policy, there is to be a development in respect of the language, that those who practise the legal profession should be in a position to use the language in the courts if developments seem to require it.  I think that that is perfectly reasonable.  All that you are asking is that those who are now at school and at college who are setting themselves out to follow the legal profession should take up the study of the language, should at least acquire a competent knowledge of it, and should be able to pass a certain <Col N="845" /> examination in five or six years' time. That is not inflicting any great hardship; as a matter of fact, it inflicts a hardship only in the very least degree.</P>
+      <P>Those who brought the Irish Free State into existence made use of certain implements and instruments in bringing that result about.  They were dependent upon certain things. I suppose they were dependent upon the the proper utilisation of their own brains, on the loyalty of the Irish people, and on their disregard of suffering and hardship.  They were dependent upon a number of things: they had a number of companions on the road, and one of the things they depended upon in their endeavours to bring the State into being was the language movement.  It would be a sad commentary on this State and on the people who brought this State into being if, now that the State is actually operating, those people who had the companion of the language along the hard road which they had to travel, were now to drop the language.  I do not think they could do that if they are to act in keeping with the policy to which they were committed in other days.  Our policy in this is one of tolerance; we want to be fair to all people and to all classes in the State.  This is a critical day for the Irish language.  In other days the language was suppressed and driven under ground.  A few people kept the language alive, and made themselves responsible for keeping it alive when it was suppressed and driven under ground.  The force making for that suppression was a force which did not arise in this country.  But now, if we do turn down the language and allow it to die, it will fall by the wayside through the action of our own people. The least we can do is to be reasonably true to the policy mainly upon which this State was brought into being.  Article 4 is still in the Constitution; Irish is the national language, it is our own tongue, and upon us rests the responsibility for making, at any rate, a reasonable attempt to restore that language rather than allow it to die.</P>
+    </Speaker>
+    <Col N="846" />
+    <Speaker pid="JamesDowdall" hpid="Mr. Dowdall Mr. Dowdall">
+      <NameTxt>Mr. Dowdall</NameTxt>
+      <P>I was rather pleased to hear Senator Sir John Keane referring to the Irish language as the national language.  If we want an object lesson in the necessity for the language a trial which is now proceeding would provide one.  There is a case in the courts at the moment in which two persons stand in peril of their lives&mdash;a murder trial&mdash;and it is clear from the evidence in that case that it would be infinitely better if the judge, the jurors and counsel had a knowledge of the Irish language, because some of the questions put to witnesses and some of the evidence has had to be translated into Irish, and possibly some of the witnesses and some of the jurors are not sufficiently conversant with the Irish language to understand the proceedings.</P>
+      <P>It is difficult to appreciate the opposition to this very reasonable and moderate Bill.  Senator Sir John Keane holds out a possibility which does not in any way frighten me, because I do not believe that it will ever happen that a class of persons who have done service to the nation, or shed lustre on the profession, will now be prevented and deterred from going into the profession by reason of having to acquire a knowledge of the Irish language.  I have no doubt that exactly the same bogey was put up to deter lawyers from practising in the English language when Norman-French was the language of the courts.  That is really an analogous case.  It would be an extraordinary thing if Norman-French were still the language of the courts in England. There is no valid case against this moderate Bill, and I was pleased to see that it has been received almost with unanimity.</P>
+    </Speaker>
+    <Speaker pid="RichardWilson" hpid="Mr. Wilson Mr. Wilson">
+      <NameTxt>Mr. Wilson</NameTxt>
+      <P>Before entering this House every Senator has got to take an oath to the Constitution.  I am wondering how far the opposition to Irish is impinging upon that oath. Article 4 of the Constitution says that the official language is Irish, and if you oppose Article 4, are you not, in effect, perjuring yourselves? How far in your opposition can you go without impinging on that oath?</P>
+    </Speaker>
+    <P>
+      <Col N="847" /> I bring that forward in view of Senator Sir John Keane's speech here on a previous occasion.  Senator Sir John Keane said that he was morally bound by the Constitution, but that he could see no sanctity in it, and the reason why he could not was because it had been changed by Parliament in various ways, and that citizens of the Free State were deprived of the right of appeal to His Majesty on account of the action taken in connection with the Lynam and Butler case.  I daresay he argued from that that as we changed that to suit ourselves he would not obey Article 4, though he has not said that that was his conclusion.  I was one of the people in the Provisional Parliament who passed Article 66 of the Constitution, and I want to assure this House that it was never contemplated that there was to be appeal to the Privy Council on a question of domestic legislation. I can prove that.  That Article, which is one of the essential Articles placed in the Constitution by the other contracting party, was brought before the Dáil.  I was a member of the small Farmers' Party, and I was asked if I was going to support it.  We said we wanted to know from some authority whether that Article was in exact accordance with the Treaty.  We were brought to Merrion Street in the night-time, and the present Chief Justice and several other lawyers explained to us the meaning of Article 66.  Article 66 definitely states that there is no appeal whatever from a decision of the Supreme Court in this country.</P>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>You really cannot discuss that, Senator.  It is outside this Bill.</P>
+    </Speaker>
+    <Speaker pid="RichardWilson" hpid="Mr. Wilson Mr. Wilson">
+      <NameTxt>Mr. Wilson</NameTxt>
+      <P>I want to show that there is nothing in Senator Sir John Keane's statement that everyone was deprived of the right of appeal.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>You should leave it at that.</P>
+    </Speaker>
+    <Speaker pid="RichardWilson" hpid="Mr. Wilson Mr. Wilson">
+      <NameTxt>Mr. Wilson</NameTxt>
+      <P>Just one moment, if you please.  The law, custom and constitutional usage of Canada were <Col N="848" /> supposed to be the law, custom and constitutional usage of this State, but in connection with that particular Article the law, custom and constitutional usage of South Africa were to apply in the case of a domestic question, and this case of Lynam and Butler was concerned only with the ownership of a plot of land.  It went to the Privy Council, and the Executive Council had no other course open to them but to quash it, so there has been no change in the Constitution in that respect. Senator Sir John Keane is bound by the Constitution, and he is bound not to oppose Article 4, because Article 4 says, in effect, that the national language is Irish, and therefore it should not be opposed by us.</P>
+      <P>Senator Sir John Keane also referred to cosmopolitanism and said that this Bill was contrary to the idea of the community of nations, which is also in the Constitution. That is no argument, because in South Africa everybody knows that Afrikaans is an essential language.  I was in South Africa for a long time and I had to learn it.  It is essential for all public appointments&mdash;just as essential as English.  Nobody here has ever said that that is against the idea of the community of nations, and therefore there is no argument in saying that Irish is against the free communication which should take place among the British Commonwealth of Nations.  As Senator O'Hanlon has explained, the Bill as it leaves the House is not an intolerable Bill.  We have endeavoured to meet in every way the points that were put up by Senator Brown.  We would not agree, and I did not agree last week, on the question of ten years of age, because if we had done so the Bill would be unworkable in out time.  I believe that the Bill is now a workable one, and in view of the fact that we have sworn to the Constitution, I believe that we should give the Bill a unanimous vote and that Senators should not oppose that which they have sworn to uphold.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>I do not propose to go into with any great detail the remarks of Senator Sir John Keane <Col N="849" /> and the other speakers.  I merely want to stress one point, and I put it to Senator Sir John Keane and to other Senators who, if one might so describe them, belong to his class or party.  I would ask them to remember that this is Ireland, and that in any examinations in any other country it is the generally accepted rule that those who sit for those examinations take their papers in the national language.  It seems to upset quite a number of people to think that the youths who belong to families who have been settled in this country for 200, 300 or 400 years should be asked to take up the Irish language as one of their subjects at examinations; but these people should remember that but for the activities of their predecessors these youths would be sitting for examinations set entirely in Irish.  That would be the natural thing.  We are not to be blamed and we make no apology for trying to restore the language to that position.  I hope that many of us will live to see the time when in all the examinations, whether for the Universities or for professions, the entire papers will be set, not in English with an examination in Irish, but entirely in Irish, and that students sitting for these examinations will have to take them in Irish.</P>
+      <P>There is no undue haste in putting through this Legal Practitioners Bill, which, as we have continuously stressed, is really only asking that boys at present 14 years of age should take up enough Irish to qualify at an examination.  If these people, instead of taking the perspective that they do take, would put themselves, so to speak, into the skin of an Englishman and try to look at the question from that point of view and could conceive English people setting their examinations in French and making English a single subject for an examination, then they might try to understand what the ordinary average Irishman feels about this. That is the position they have got to reach, and whether it is going to come sooner or later I cannot say, but at all events, in my opinion there is no undue haste being shown.</P>
+    </Speaker>
+    <P>
+      <Col N="850" /> Senator O'Hanlon has spoken with regard to tolerance.  I believe that tolerance is a very desirable and praiseworthy thing, but I am also forced to the conclusion that what we exhibit as tolerance here is very often misinterpreted and that it is looked upon as the slave spirit. When the showing of this tolerance is actually imposed on the people, it then becomes the slave spirit.  That is something that we cannot look upon with equanimity.  Surely a great deal of tolerance has been exhibited in every Department of the Free State towards people who are hostile and opposed to the aspirations of the Irish people.  They have not to go out of this country to find a contrast. They can find that contrast in the North of Ireland, and in the position of the minority there.  It is not pleasant for me to have to say those things, but one is forced to say them, because one continuously comes up against them.</P>
+    <P>Senator Sir John Keane made what I might call a rather unhappy reference, but perhaps it was not untypical of the Senator.  What he said had not much bearing on the Fifth Stage of this Bill.  But, in a semi-aside, he suggested that one could have as good a race between half-breeds as thoroughbreds, and as good a bet about half-breeds as thoroughbreds. I agree, but I ask the House to remember that the half-breeds in this country are not the people who are the descendants of the ascendancy gang planted in this country but that the real thoroughbreds in this country are to be found in the Gaeltacht, and are at present speaking Irish.</P>
+    <Speaker pid="SeanMilroy" hpid="Mr. Milroy Mr. Milroy">
+      <NameTxt>Mr. Milroy</NameTxt>
+      <P>I thought that this Bill was going to make its exit from this House quietly and unostentatiously. Certainly it would have done so without any further comment from me were it not for the rather pathetic note that was struck in the swan song of Senator Sir John Keane.  Now I am not sorry that he made the remarks he did make, because his doing so affords me the opportunity of adding one or two observations <Col N="851" /> which I think it well should be made before this Bill leaves the Seanad.  I want to disclaim very deliberately and very emphatically certain rather heated arguments that were made by certain supporters of the Bill during some stages of its passage through this House.  Certain supporters of the measure seemed to think that it was necessary to import into their remarks denunciations of the attitude of other members of the House, and to ascribe that attitude to unworthy and unpatriotic motives.  I think that no greater disservice could be done to the language than to introduce that tone into the discussion on the Bill here.  Certainly anything which should serve to utilise the language as a line of further cleavage and of further estrangement between different sections in this country would in my judgment be exceedingly regrettable.  We are seeking in this Bill not to impose penalties on a particular profession. We are seeking to enact legislation which will ensure that the services and talents of the members of that profession shall be enlisted on the side of the Irish language and of the Irish nation.  Senator Sir John Keane spoke of a measure directed against a class of citizens.  Much as I deprecate certain, as I think, extravagant and nonsensical things said in support of this Bill I deprecate much more that kind of description. A measure directed against&mdash;I emphasise the word &ldquo;against&rdquo;&mdash; certain classes of citizens.  The Senator went on to say that he supposed that as regards other professions and other classes that their time would come, too.  I can conceive no more malignant approach of mind towards this subject than to describe the development of the Irish language in any walk of life as being something directed against a certain class of citizens as if its development was something obnoxious, something evil, and something to be deprecated.  There is no intention in any steps taken to promote the language whether it be <Col N="852" /> in this Bill or in any other part of the State's life that can be so construed. This is not a measure directed against any class, but rather a measure directed to secure that at the expiration of a certain reasonable period of time the energies and the life and the functions of the members of the profession with which it deals shall be directed through an Irish mould which will bear the impress of a national personality, a national entity, a national distinctiveness and a national characteristic.</P>
+    </Speaker>
+    <P>This State has undertaken no easy task in attempting to revive the Irish language.  It took three or four centuries to root out the language by statute and other means.  From area to area, and from house to house the hand of the exterminator of the language worked until it was almost rooted out of the land and until one of those tongues in which are enshrined some of the most memorable messages of civilisation was almost extinguished.  It is no easy task to restore that language to-day to the position which it ought to occupy, and the position which it ought to occupy is a position equivalent to that which it did once occupy in this land.  Are we to be charged when we undertake a task like this, we, the legislators of a Free State, of a liberated country that claims the heritage of that language, are we to be charged with trying to enact measures against a particular class of our fellow-countrymen or against a particular profession?  I say it is wrong and that it is utterly fallacious to say that.  If it were said deliberately I should say that it is an utterly malignant thing to say, but I cannot really believe that it is so meant.  I can only regard it that Senator Sir John Keane does not appreciate what is the real meaning and motive power behind this.  It is not to destroy but to build up, not to extinguish anything within this State which it is worth while to retain, but rather to bring back into the functions of the national life that well-spring of national thought and inspiration which was the motive power of anything <Col N="853" /> that was really valuable in our country's past.  Certainly it is not in any spirit of antagonism to any section of our countrymen, or to any profession, that I have sponsored this Bill in this House.  I believe that the development of the language&mdash;at the moment it may be the cause of hostility to some, but eventually I believe its influence will be perhaps the most unifying influence in this State, and that it will do more to bring about the unity of this nation, such as all sections of the people desire, than any other influence that we can conceive at the moment.  It is devoid of political significance.  If it is anything it is essentially and vitally national.  It is the language of the country, and it is in the hope that this measure will do something to produce the results to which I have referred that I have sponsored the Bill in this House.  For these reasons I hope that the Bill will receive no further obstruction.</P>
+    <P>Question put and declared carried.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Secondary Teachers'" RHead="Superannuation Scheme, 1929&mdash;(Resumed)">
+    <Title>Public Business. - Secondary Teachers' Superannuation Scheme, 1929&mdash;(Resumed).</Title>
+    <P>Debate resumed on the following motion in the name of Senator Milroy:&mdash;</P>
+    <P>That the Secondary Teachers' Superannuation Scheme, 1929, made by the Minister for Education with the consent of the Minister for Finance and laid before the Seanad on Wednesday, 12th June, 1929, under the Teachers' Superannuation Act, 1928 (No. 32 of 1928), be approved.</P>
+    <Speaker pid="WilliamCummins" hpid="Mr. Cummins Mr. Cummins">
+      <NameTxt>Mr. Cummins</NameTxt>
+      <P>There are a few points on this motion that I would like to deal with.  I think the Minister is already in possession of some of the matters that I propose dealing with, and therefore I will not delay the House to any great length.  This pension scheme does not compare favourably with the pension scheme for civil servants, for instance. Secondary teachers, though not large in numbers, constitute, it will be agreed, a very important body, and every effort should be made as regards the salaries and pensions paid <Col N="854" /> to them to induce the best brains of the country to enter that profession. On them depends in great measure the future advancement of the country, especially as regards discoveries that will lead to scientific and economic advancement.  I believe that no contribution the country can make in the way of encouraging secondary teachers would be too great.  We have had an example of that recently.  Discoveries recently made promise to bring great benefit to the nation.  The proposal is that the secondary teachers will have to contribute 4 per cent. of their salaries and the schools in which they teach two and a half per cent.  The State will be responsible for the balance.  A contribution on that percentage basis will, I understand, have to be made over a period of 40 years before a teacher will be entitled to his full pension.  The amounts paid to secondary teachers who retire do not compare favourably with the amounts paid to civil servants who retire.  In some cases, in addition to their pensions, civil servants are entitled to get a retiring bonus equal to one and a half times their retiring salary.  No such proposal has been entertained in the case of secondary teachers.  The secondary teachers, in my opinion, should be regarded as being as important to the State as the great majority of civil servants who receive this consideration.  One of the suggestions put forward is that in addition to the ordinary pensions which secondary teachers will become entitled that they should be given a bonus if for some reason or other they are obliged to resign after an agreed number of years' service, let those years be ten, fifteen, or twenty.  There is no provision made in the scheme, as far as I can see, for a teacher who dies while on active service except as regards the return of his contributions with compound interest.  I think in the case of a man who dies after fifteen years' service his dependents should surely be entitled to better treatment than that provided in this scheme.  It is only in the case of a teacher who dies that compound interest is added to the contributions <Col N="855" /> that are returned.  I think that arrangement should apply in the case of any teacher who retires from any other cause except, of course, that he is obliged to retire for misconduct. In all other cases I think the contributions should be returned with compound interest.  Teachers' contributions may very well be regarded, I think, as a form of insurance against the period when they may be compelled through ill-health to retire. A teacher who has ten years' service gets his contributions returned.  In that case, too, I think the contributions should be returned with compound interest.  In a case where a teacher's contributions are not as great as the salary he is earning at the time he goes out, it is suggested that his year's salary be paid in lieu of the contributions if the year's salary be the greater amount.  There is another case of great hardship, and that is where a teacher contributes for 35 years' service or more and only draws his pension for a period of two or three months.  I do not know if any provision is made to meet such a case.</P>
+    </Speaker>
+    <Speaker pid="ProfJohnMarcusOSulli" hpid="Minister for Education (Professor O'Sullivan) John Marcus O'Sullivan">
+      <NameTxt>Minister for Education (Professor O'Sullivan)</NameTxt>
+      <P>The full amount of the contribution is given.</P>
+    </Speaker>
+    <Speaker pid="WilliamCummins" hpid="Mr. Cummins Mr. Cummins">
+      <NameTxt>Mr. Cummins</NameTxt>
+      <P>There are a few secondary teachers who, I understand, are working for less than the basic salary laid down in the code that applies to secondary teachers. They are expected, while receiving that small salary, to pay their contributions of four per cent. on the basic salary.  I think the obvious remedy for that would be for the Minister to take steps to see that the salaries which they are earning will be raised to the basic figure.  These are the only points that I wish to raise.  I think that the Minister is already in possession of them.</P>
+    </Speaker>
+    <Speaker pid="JohnOFarrell" hpid="Mr. O'Farrell Mr. O'Farrell">
+      <NameTxt>Mr. O'Farrell</NameTxt>
+      <P>I do not know if this fund is established on a strictly actuarial basis or not, or whether it is intended to be a self-supporting fund.  If it is, the terms of the pensions provided for and to be granted seem to me, from my experience of <Col N="856" /> other funds, to be on the niggardly side.  One of the biggest funds with which I am acquainted is the London, Midland and Scottish.  That is a company with 48,000 salaried employees. It was only established a few years ago, and is a new fund. The basis of contribution to that fund is two-and-a-half per cent. from the employees with an equal contribution from the company.  That is, in the case of a clerk joining the fund at the age of 18.  Of course, there is a graduated scale with a higher rate of contribution up to the age of 45, which is the age limit at which a person can be admitted. Anyone entering the fund at the age of 25 or thereabouts would pay a contribution of about three-and-a-half per cent.  There is an equal contribution from the company. They pay pensions on the basis of an eightieth with a maximum of one-half. They are also able to give a bonus equivalent to a thirtieth for each year of service, with a maximum of 45-30ths, or one-and-a-half year's salary.  A man, say, who retires with a salary of £400 a year gets £200 of a pension and a lump sum of £600 if he has 45 years' service. In that way, the conditions under that fund are better than the conditions outlined under this scheme&mdash;at least to the extent of the lump sum.  In the case of those who get that lump sum in the London, Midland and Scottish Fund, provided that they join up at the age of 18, 19, or up to 21, they only pay two-and-a-half per cent. on their salaries, while under this scheme the secondary teacher will have to pay four per cent. on his salary.</P>
+    </Speaker>
+    <P>In connection with this fund there is a point I would like to emphasise, and it is this, that it should be made compulsory on new members to join the scheme.  The success of a fund very often depends on the numerical strength of it, and I think it should be made compulsory on anybody whom the State pays or partly pays, that he should make some provision for his retiring years.  If the State is prepared to assist him he should be compelled to join whatever fund <Col N="857" /> is in existence.  In the case of the railway fund to which I have referred, it is compulsory on those concerned to join, and equally in this case, I think, it should be compulsory on the members to join, seeing that the State is contributing towards the fund.  While the teachers are obliged to pay 4 per cent. on their basic salary, I observe that they will have no voice in the management of the fund.  I do not think that is fair or just.  In the case of the Railway Superannuation Fund a committee of management is made up of an equal number of people from each side, the employers and the employees.  That means a lot in the way of the smooth working of the fund, because every other month there are applications for pensions.  There are applications for ordinary retiring pensions, for break-down pensions, for refunds of contributions, and so forth.  A great deal of the success of a fund depends on the point of view taken by the committee of management.  I think it is only right that those who contribute to a fund should have some representation on the committee administering it, who will be there to put one point of view as against the official point of view from the other side.  In view of the fact that the members contribute half the amount in the way of contributions, it would be only fair, I think, that they should have representation on the committee of management.  The committee of management should be composed, I think, of representatives of the State, of the secondary schools, and of the teachers.  In that way attempted abuses of the funds would be effectively checked.  There would also be greater confidence on the part of the subscribers in the fair administration of the fund, and there would probably be a greater disposition on the part of those concerned to join the fund.  The fund, I observe, is largely based on the provisions that apply to similar funds in other services, except that the provisions are, as I have said, rather niggardly from the point of <Col N="858" /> view of the maximum amount of pension paid, seeing that no lump sum goes along with them.</P>
+    <Speaker pid="ProfJohnMarcusOSulli" hpid="Minister for Education (Professor O'Sullivan) John Marcus O'Sullivan">
+      <NameTxt>Minister for Education (Professor O'Sullivan)</NameTxt>
+      <P>I will deal first with the points made by Senator O'Farrell.  This, of course, will be a Government-administered fund.  It was understood all along by the different parties interested that it would be a Government administered fund, and no representation has ever been made, either by the teachers or the schools, to modify that particular suggestion.  The Senator must bear in mind that there are points of difference between this scheme and the fund to which he referred.  We have tried to cover all the cases we can, and that has made the scheme, perhaps, somewhat complicated.  In the case to which the Senator referred, the people interested are the railway companies on the one hand, and the railway employees on the other.  To a certain extent they control the conditions of service.  That is not the case so far as secondary teachers are concerned.  With regard to employment in secondary schools, the State has no influence whatever.  There was the question whether the scheme should be compulsory or not.  I did consider that.  If you were simply drawing up a scheme on paper, a great deal might be said for making the scheme compulsory.  In the actual conditions that prevail in this country in connection with secondary education, it would seem to be ignoring those conditions to attempt anything of the kind.  A large number, possibly the bulk, of the people engaged in secondary education in this country may not wish to enter into any fund.  We cannot compel them to do so.  Certainly I doubt if we have the power under the Constitution to compel them to enter any such fund.  Even if we had, we ought not to compel them to do so. You have a great number of secular priests engaged in secondary education in various seminaries throughout the country.  As a rule, very few of them reach a pensionable age, and to make it compulsory on them <Col N="859" /> to contribute to such a fund, would simply be foolish.  It would mean the establishment of an elaborate system for the collection of money from them, and paying it back again, and not for the purpose of a pension. Then you have a far more numerous body of people engaged in secondary education who may not wish to join the scheme&mdash;I refer to the members of the various religious orders.  These are considerations that ruled out, so far as we are concerned, any possibility of making the scheme compulsory. When the Senator was referring to the Railway scheme, did he mean only three-and-a-half per cent. of the salary that a person receives in any year is paid to the fund? Would a man at 60 who has a higher salary than when he joined the fund at 18 or 21 pay only three-and-a-half per cent. on that salary?</P>
+    </Speaker>
+    <Speaker pid="JohnOFarrell" hpid="Mr. O'Farrell Mr. O'Farrell">
+      <NameTxt>Mr. O'Farrell</NameTxt>
+      <P>It depends on the year in which he joined; but the same rate applies.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Professor O'Sullivan Professor O'Sullivan">
+      <NameTxt>Professor O'Sullivan</NameTxt>
+      <P>I indicated on the last day, I think, in reply to Senator Johnson, that we have not yet had anything like an actuarial investigation of the scheme made. The reason is that we know very little about the fund at present, or what it is likely to be.  Take the analogy, with which Senator Cummins will be familiar, of the recent investigations made by actuaries in the case of the North of Ireland and in the case of the Saorstát National Teachers' fund, in the case of a person who has contributed for 40 years, as I think generally happens in the case of a national teacher, the benefits are very much the same.  As regards the North of Ireland it is not quite easy to follow the figures, but in the case of the Saorstát National Teachers' Fund I think he gave what was equivalent to between seven and eight per cent. of the actual salaries.</P>
+    </Speaker>
+    <Speaker pid="WilliamCummins" hpid="Mr. Cummins Mr. Cummins">
+      <NameTxt>Mr. Cummins</NameTxt>
+      <P>Not in the Free State.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Professor O'Sullivan Professor O'Sullivan">
+      <NameTxt>Professor O'Sullivan</NameTxt>
+      <P>I do not want to urge that, because I am not <Col N="860" /> quite clear about it, but I am prepared to take it at eight per cent. Deputations on which, I think, most Parties in the Dáil were represented, did come to see me on behalf of the secondary teachers in connection with this scheme, as well as some members of the organisation, who have come frequently.  They put various recommendations before me, and I adopted a number of them.</P>
+    </Speaker>
+    <P>I indicated in the Dáil to-day an increase of the fraction for the non-contributory years from one hundred and twentieth to one hundredth, which gives an appreciably higher pension here in the case of teachers with 40 years' service than I understand they enjoy in the North of Ireland.  That is a very big concession.  With regard to another point, secondary teachers are in no sense civil servants.  I admit that they are doing important work, if you like, important national work.  They are employed by private institutions.  The secondary school system as it applies here is essentially a private system.  The State helps it.  That is a consideration which must be borne in mind when any comparison is made between the pensions that this scheme gives to secondary teachers and the pensions given by the State to civil servants.  There is another consideration that has also to be borne in mind: it is that when the salaries of civil servants are being fixed the question of pension is always taken into account, and to say that their pensions are noncontributory may or may not be the subject of debate, but I know that civil servants are very keen in saying that their pensions are contributory. They quote Lord Balfour as conclusive evidence on that point. Technically the matter has never been admitted by the Government, but undoubtedly the fact that they do get pensions is taken into account in the fixing of their salaries. Another point raised was in regard to allowances.  We followed the provisions of the various other pensions schemes and felt that we could not very well depart from <Col N="861" /> them.  In many cases if a person retires through ill-health after a number of years' service he will not get much more than a year's salary. The Senator said that these contributions were looked upon as a kind of insurance.  If you do look upon them as a kind of insurance, what happens in the case of an ordinary insurance premium when, owing to circumstances he cannot control, a person loses his employment and he is no longer able to contribute?</P>
+    <Speaker pid="ThomasFarren" hpid="Mr. Farren Mr. Farren">
+      <NameTxt>Mr. Farren</NameTxt>
+      <P>He gets a surrender value.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Professor O'Sullivan Professor O'Sullivan">
+      <NameTxt>Professor O'Sullivan</NameTxt>
+      <P>Which is not equal to the paid-up premium. If the Senator knows of any company with a surrender value of that kind, personally I would like to know of it.  I hope that the Seanad will pass this scheme.</P>
+      <P>Motion put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Betting" RHead="Bill, 1929&mdash;Second Stage">
+    <Title>Public Business. - Betting Bill, 1929&mdash;Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be read a Second Time.&rdquo;</P>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Minister for Justice (Mr. Fitzgerald-Kenney) James Fitzgerald-Kenney">
+      <NameTxt>Minister for Justice (Mr. Fitzgerald-Kenney)</NameTxt>
+      <P>This is a Bill to extend merely until 31st December next the existing betting law. In the ordinary way the existing law would expire on the 30th June.  Recently there has been a report by a Committee which examined the whole question of betting. That was published some three or four weeks ago.  It is being carefully considered by the Minister for Finance, and it is the intention of the Minister to introduce in the autumn session a Bill permanently regulating betting in this country. To carry on the existing legislation, a Bill of this nature is required, and I would ask the House to pass it.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee Stage ordered for Friday.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Juries (Protection)" RHead="Bill, 1929&mdash;Second Stage">
+    <Title>Public Business. - Juries (Protection) Bill, 1929&mdash;Second Stage.</Title>
+    <P>Motion proposed: &ldquo;That the Bill be read a Second Time.&rdquo;</P>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>This is a <Col N="862" /> Bill for the protection of juries.  Its introduction has been necessitated by some very terrible happenings which have recently taken place in this country.  I suppose there is no member of the Seanad who is not aware that there exists in this country a certain body of men who are striving by armed force to break down the administration of justice.  These men are not numerically very strong. They have within the last year steeped their hands on at least three occasions in innocent blood.  They have on two occasions murdered, and on another occasion attempted to murder, men whose only crime was that they did their duty as loyal citizens of this State.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>Has the Minister any reason for supposing these people have done so?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>I have.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>As I understand, there is no evidence of that.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Yes, I have.  As recently as last week, in the County of Clare, a very diabolical outrage was perpetrated in which a poor young Guard, an excellent Guard, was the victim.  As the Seanad, no doubt, is aware, a trap mine was laid.  This young man&mdash;a fine type of young Irishman&mdash;on opening the mine, was blown to pieces.  The attack was made not only on the Guards whose duty it is to detect crime and to bring criminals to justice, but an attack has also been made upon witnesses. A witness in a case supposed to be of a political nature&mdash;what is called a political crime&mdash;a young man of the name of Armstrong, was foully murdered a few months ago in this city of Dublin.  On another occasion an attempt was made&mdash;fortunately unsuccessfully&mdash;to murder a juryman who had served on a jury which had brought in a verdict in accordance with the testimony before them. There has been for some years past a deliberate effort to tamper with jurymen in this country to prevent them from doing their duty, and to prevent them from administering the <Col N="863" /> law fairly between the people of the Free State and the persons who are charged with crime.</P>
+      <P>As far back as June, 1926, armed men raided the offices of the city under-sheriff and took away copies of the jury panel.  One man was arrested, charged, and convicted for that offence in April, 1927.  From that time onwards, all through the months, deliberate attempts have been made to intimidate and frighten juries, to urge on jurymen not to do their duty but to violate their oaths. I have here a large number of documents dealing with the matter.  I have here a very large number of notices which have been served on jurymen.  I do not intend to read the whole of them, but I intend to read just a few, so that Senators will understand clearly the growth of this conspiracy, culminating as it did in the murder of Mr. Armstrong and in the attempted murder of Mr. White. There were some very shocking statements in newspapers on that occurrence, and it will be necessary for me to bring them under your notice.  The policy which is being pursued in this respect was very clearly put in a document captured on a certain lady who was tried for that offence and convicted.  I have the original document, but I am reading from a perfectly accurate copy published in &ldquo;An Phoblacht&rdquo; on the 28th April, 1928.  The policy is there laid down as follows:&mdash;</P>
+    </Speaker>
+    <P>&ldquo;All our energies should be directed towards securing the collapse of the Free State Courts for many reasons.  One reason is that it would be easier to get workers if convictions were fewer.  Another reason is that the Free State's great argument is that it is the will of the people of Ireland to remain a British Dominion.  When juries acquit our prisoners it proves that the people, if they will not assist, at least approve of others who fight the old fight.  Therefore, juries ought to be bombarded with literature of all sorts.  It is an excellent opportunity of bringing home to everyone his responsibility <Col N="864" /> and duty towards his country.  In future lists of juries will be read out to our members, so that if any men are known personally to our members they may approach them. As much information as possible about character, etc., will be procured. Some can be persuaded, others intimidated.  The &lsquo;Ex.&rsquo; will see that addresses of jurors who convict are known, so that our members may paint their houses, paste up their names, etc.&rdquo;</P>
+    <P>That document shows very clearly the view that was taken that jurymen should be intimidated and prevented by all means from doing what is their duty by the State.</P>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>Is that document advocated by &ldquo;An Phoblacht&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>That document is printed in &ldquo;An Phoblacht.&rdquo; There were other articles in that paper which I propose to read.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I understand that that is not advocated.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>I have not said that it was advocated.  I have said I am simply reading a report contained in the particular issue of that paper.  Following on that, various documents were sent to jurymen, not only in Dublin, but in other parts of the country.  A certain man called Con Healy was put upon his trial and found guilty.  The charges which were brought against Healy were that on two separate and different occasions he fired at certain members of the Guards with intent to murder, and other counts that on these two separate occasions he fired at these two members of the Guards with intent to do them grievous bodily harm.  He was found not guilty of shooting at with intent to murder, but he was found guilty of shooting at with intent.  The evidence was clear and decisive. One of the jurymen who served on that jury was Mr. White.  As Senators are aware, Mr. White escaped providentially with his life, but I must read to the Seanad to show the prevalence of this conspiracy certain <Col N="865" /> leaflets which were issued by an association which calls itself &ldquo;The Ghosts.&rdquo;  Here is one:&mdash;</P>
+      <P>&ldquo;To Irish citizens.  Break the connection with the British Empire. The Irish Republican Army are striving to-day as Tone strove in another generation to free Ireland from British rule.  This can only be achieved by overthrowing the two British imposed Governments in Ireland to-day.  The enemies of Ireland are imprisoning the men and women who are carrying out the only practical programme to attain freedom. Unfortunately, some of Dublin's degenerate and slavish citizens assist them in this work.&rdquo;</P>
+      <P>Then it sets out the names of twelve jurymen.  The first name on the list is that of Mr. White.  Then it goes on to state that they</P>
+      <P>&ldquo;helped Carrigan and the infamous Judge Sullivan to send the Irish patriot, Con Healy, to penal servitude for five years. These men are traitors to their country.  Death would be their fate in any free country of the world.&rdquo;</P>
+      <P>That is the man who was tried and found guilty of shooting at members of the Civic Guards with intent. That man who fired at members of the Civic Guards was held up to be an Irish patriot, and the statement is made regarding the jury who found him guilty on clear evidence that death would be their fate in any free country in the world.  In another document published by the same persons, they mention again the twelve jurymen and say:</P>
+      <P>&ldquo;These twelve national renegades who are responsible for sending Con Healy to five years' penal servitude, are spending their lives guarded day and night by England's paid gun-men.  This is Dublin's opinion of traitors.&rdquo;</P>
+    </Speaker>
+    <P>Here are deliberate attacks made upon jurymen, and which, as the <Col N="866" /> Seanad knows, culminated in the attempted murder of one man.  Unfortunately, these documents do not stand alone, because not merely this association, but newspapers in this country&mdash;&ldquo;An Phoblacht,&rdquo; and another paper called &ldquo;The Nation,&rdquo; which though it is not the official organ, we are told, of the Fianna Fáil Party, is edited by one of the leading Fianna Fáil Deputies in the Dáil, expressed jubilation about the terror which was endeavoured to be spread amongst jurymen.  In &ldquo;An Phoblacht&rdquo; of the 23rd February, 1929, this statement appears: &ldquo;In Maryborough Hogan and Con Healy are being treated as ordinary convicts.&rdquo; Hogan is a man who was found guilty of murder, and his death sentence was commuted to penal servitude for life.  Healy's offence was firing at with intent.</P>
+    <P>&ldquo;The slave-minded jurors who convicted them are responsible, and are paying for their treachery.  One is lying in a Dublin hospital, and the others have to be protected by England's Secret Service men.&rdquo;</P>
+    <P>In &ldquo;The Nation&rdquo; of the same date, February 23rd, 1929, this statement appears:</P>
+    <P>&ldquo;As the &lsquo;Prisoners' Notes&rsquo; are often too gloomy, I am going to improve them this week by a few cheering items.  If anyone wants an amusing sight, let him venture out on a cold, wet day and view sad and shady-looking C.I.D. men standing outside the houses and also the business premises where the jurymen live or are employed who were cowardly and misguided enough to convict of treason that Tipperary volunteer, Con Healy&mdash;&rdquo;</P>
+    <P>He was not convicted of treason.  He was convicted of shooting with intent&mdash;</P>
+    <P>&ldquo;who has devoted his whole life to unselfish service of the nation, and thus handed him over to British vengeance &mdash; five years in Maryborough hell.  The employers of some of these jurymen are not at all flattered <Col N="867" /> by the assiduities of the C.I.D.  They have to do business in the Irish nation, and it is never a good business advertisement to be watched by the police; people seem to take polite pleasure in asking them why their premises are being watched.&rdquo;</P>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>Can the Minister say whether that quotation is part of the same article?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>I read one quotation from &ldquo;An Phoblacht&rdquo; and the other from &ldquo;The Nation.&rdquo;  They are different weekly papers.  In an edition of the &ldquo;Nation&rdquo; of May the 18th, 1929, the following statement appears:</P>
+      <P>As long as the law is used as an instrument of political tyranny, as in the case of Con Healy, and as long as colour is given to the suspicion that juries are packed, so long will juries and witnesses be unsafe.</P>
+    </Speaker>
+    <P>I have other notices here, which, as I say, were sent round to jurymen, but I do not intend to read any more of them.  I think these extracts show clearly that there is in existence a conspiracy directed towards injuring the person, injuring the property, and, as far as they can, making life unliveable for men who do their duty to the State.  The juryman is an ordinary citizen, chosen to hear and determine between the State and whoever may be charged with crime.  A panel of ordinary citizens is struck, and from that panel the jurymen are selected. It is a duty that most citizens have got to perform.  It is not a pleasant duty, but it is a duty in which, when they are performing it, jurymen have got a right to look to the State for protection.  It would be indeed a terrible state of affairs, it would mean the end of all ordered government in this country, if a certain number of persons might succeed in breaking down the jury system; if they might, by intimidating jurymen, by murdering jurymen or by injuring jurymen in a lesser degree in their property, in their trades or <Col N="868" /> in their professions; in allowing the guilty to go free, and crime to walk open, naked, unabashed and unpunished. It is our duty to see that such protection as the law and as the Oireachtas can give to jurymen shall be given to them, and for that purpose we have introduced this Juries (Protection) Bill.</P>
+    <P>It is obvious that if juries are to be intimidated, if juries are to be injured in their person or in their property then the names of the jurymen must be known, and this Bill has this object in view, that it will be difficult to the verge of impossibility for persons of criminal intent to know the names of jurymen. We trust that jurymen will be emboldened to do their duty as jurymen have well done, fairly between the State and the prisoner, and at the same time that they will have the sure confidence that in doing so they are not running any risks which jurymen should not be asked to run.  At the present moment the jury panel is a document which any member of the public can get.  That has been so since the passing of the Juries Act, about 1871, and it is the same under our recent Juries Act.  Any person who likes can on payment of a small sum of money obtain the jury panel.  That made it very easy for those persons who have intimidated jurymen, who attempted to murder jurymen, to obtain the names of jurymen.  If any person can obtain a jury panel then it is easy to approach a person whose name appears on the panel and it is easy to intimidate that person.  It is easy to know what jurymen have actually served upon any particular jury.  Under this Bill we propose to make the jury panel a document which will be an official public document.  That is to say, only those persons shall know the names of the jurymen on the panel whose duty it is to prepare the panel, and the court officials and other persons connected with the administration of justice.</P>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>Will the Minister make that point quite clear?</P>
+    </Speaker>
+    <Col N="869" />
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>I will. It will be a confidential official document and that confidential official document cannot be supplied to any person without leave or permission.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>It will be accessible to the prosecution?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>May I ask how it will then be a public document?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>It is a confidential official document.  It is not a document available to the public.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>You said a moment ago that it would be a public official document.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>If I said &ldquo;public&rdquo; I meant to say &ldquo;official.&rdquo; I might have used the wrong word. It is an official document not available to the public.</P>
+    </Speaker>
+    <Speaker pid="" hpid="A Senator A Senator">
+      <NameTxt>A Senator</NameTxt>
+      <P>Not even to the accused.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>No.  If anybody shows that in the interests of justice he requires an inspection of the panel permission could be given him to inspect it.  But that is a permission which for the protection of jurymen should only be given to reputable persons, persons who can be trusted not to allow information to leak into the possession of those individuals who desire to break down the jury system, who desire to intimidate jurymen, or who desire to injure jurymen in their property or in their persons.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>Who will control that?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>The Minister for Justice.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>Would it be available to the solicitor or counsel for the accused?</P>
+    </Speaker>
+    <Col N="870" />
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Not as a general principle.  Unless permission was given it would not, and it is perfectly obvious that if there is to be that secrecy in the names of the jurymen which in present circumstances is necessary for the safety of jurymen, it should not be given out.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>Even to a member of the legal profession?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Even to a member of the legal profession.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>So much for that.</P>
+    </Speaker>
+    <Speaker pid="MichaelComynKC" hpid="Mr. Comyn Mr. Comyn">
+      <NameTxt>Mr. Comyn</NameTxt>
+      <P>Is that on the assumption that they are not reputable persons?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>The Minister has made it clear that it will not be a public document.</P>
+    </Speaker>
+    <Speaker pid="MichaelComynKC" hpid="Mr. Comyn Mr. Comyn">
+      <NameTxt>Mr. Comyn</NameTxt>
+      <P>On the assumption that they are not reputable persons.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>There are certain members of both professions who are reputable, but there are others to whom I cannot apply that term.</P>
+    </Speaker>
+    <Speaker pid="MichaelComynKC" hpid="Mr. Comyn Mr. Comyn">
+      <NameTxt>Mr. Comyn</NameTxt>
+      <P>Can you put the cap on yourself?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>When the panel has been struck the jurymen will be summoned by post, and each juryman will have an alternative before him.  He can either go before the County Registrar, mention that he is in Court, and have his name ticked off, or he can wait until the County Registrar calls the names in court, but that would not be in public court.  There will be only a certain number of persons as provided by Section 4 in court when the names are being called.  From that time onward the jurymen shall be called by numbers, and by numbers only.</P>
+    </Speaker>
+    <Speaker pid="EugeneDoherty" hpid="Mr. Doherty Mr. Doherty">
+      <NameTxt>Mr. Doherty</NameTxt>
+      <P>Would the Minister for Justice supply masks to them?</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>The Senator is trying to be humorous, but I think his joke is not very successful. <Col N="871" /> It will be almost impossible for the persons who wish to injure jurymen to obtain the names of the jurymen on the panel.  It will also be very difficult for them to know the names of the jurymen who serve upon a particular jury.  But in case they might be known, and also because in my own view it is an improvement on the existing law, we have brought in a provision in Section 5 for a majority verdict.  A verdict of nine out of twelve shall be sufficient to secure acquittal or conviction of a person, as the case may be.  Nine for a conviction shall be sufficient for a conviction, and nine for acquittal shall be sufficient for acquittal.  That is a new departure in this country, because heretofore the law has required the unanimous verdict from a jury of twelve.  That is the British system.  In England and in all countries except, I understand, certain parts of the United States, where the law is based on English law, a unanimous verdict is required. But a unanimous verdict is not required in places where English law is not in force.  For instance, a unanimous verdict is not required by Scots law.  As far as I have been able to discover, a unanimous verdict is not required by any continental country.  In all these cases a majority verdict is considered sufficient.</P>
+    </Speaker>
+    <P>I might also point out that nowadays many alterations have been made in criminal administration, and a Court of Criminal Appeal has been set up which is a great safeguard to the person charged, because the State never can bring a case before the Court of Criminal Appeal; it is only the person charged who can bring his case to that Court, and if there has been any miscarriage of justice, anything wrong in the direction given by the Judge, or if the finding of the jury was not justified by the evidence, then the Court of Criminal Appeal can set that verdict aside.  In addition to that, comparatively recently prisoners have been allowed to give evidence in their own defence. As to whether that is an advantage or a disadvantage to persons charged <Col N="872" /> with crime I will not debate here. Power is also given under this Bill that in the trial of cases of a certain kind when &ldquo;an officer of the Gárda Síochána not below the rank of superintendent states on oath to the Judge presiding that in the opinion of such officer it is necessary for the protection of the witnesses and jurors concerned in such trial that the public should be excluded from the Court during such trial, the Judge shall order the Court to be cleared.&rdquo;  The result of that is that nobody will be in court except the persons actually concerned in the trial, except correspondents of newspapers, that is to say, the case can be fully reported.  But there are certain provisions as follows:&mdash;</P>
+    <P>Whenever... an officer of the Gárda Síochána not below the rank of Superintendent produces to the Judge presiding in such Court one or more then recent issue or issues of a particular newspaper or a document or documents appearing and purporting to be such issue or issues and the Judge is of opinion that any articles or other matter contained in such issue or document or any of such issues or documents is calculated to intimidate jurors or witnesses either generally or in the particular trial then in progress or to prevent or discourage such jurors from performing their duty according to their oath without fear or favour or to prevent or discourage such witnesses from giving their evidence freely, fully and truthfully, the Judge shall forthwith order that all persons claiming to be representatives of or reporters for such newspaper be excluded from the Court so long as such Court continues to be cleared under this section.</P>
+    <P>If &ldquo;a representative of the Press is known to be or is suspected of being concerned or associated in acts of intimidation of jurors or witnesses or acts of a treasonable or seditious character or is known generally to associate with persons concerned or suspected of being <Col N="873" /> concerned in any such acts the Judge shall forthwith order all such persons to be excluded from such Court.&rdquo;</P>
+    <P>The result of that is that reporters on papers in sympathy with attacks on jurors shall not be allowed into court during the hearing of a certain class of case, but the ordinary journalist who is not connected in any way with these criminal associations will be able to remain in court and give a full, entire, and an impartial report of the proceedings that take place in court.  But apart from journalists, apart from barristers who are bona fide practising members of the Irish Bar, the court will be cleared in certain cases of every person.  Power is also given to the Judge to adjourn a case if he is satisfied that jurors or witnesses are being intimidated.  It is also made an offence to publish</P>
+    <P>&ldquo;the names either in writing or by word of mouth the statement in regard to any other person (whether such statement is true or is false) that such other person was called, sworn or engaged as a juror in the trial of any particular criminal issue.&rdquo;</P>
+    <P>Certain provisions are laid down in Section 11 with regard to penalties for dealing with the intimidation of of jurors, and by Section 12 persons are not allowed to loiter in the vicinity of criminal courts, that is, of course, that those individuals whose desires are directed towards breaking down the administration of criminal law in this country might easily have their touts and other persons scouting for them in the vicinity of the court to discover who served upon the jury, possibly following individuals home and leaving them open to attack by evilly disposed persons. This Bill, as it now stands, is not a permanent measure.  It will terminate upon December 31st, 1931.  It is our hope to try the Bill for a period of two years.  There are many things in this Bill which, when it is seen working, I believe will be regarded as real improvements upon the existing criminal law, and will <Col N="874" /> then, if it is the opinion of the Oireachtas that it should be done, become part of the permanent administration of criminal law in this country.  At the present moment, however, it is only proposed to continue it in operation until the 31st December, 1931.  It is our hope that under this Bill it will be possible for our courts to work smoothly, effectively, and fairly to administer justice as it should be administered between the State and the people charged with crime.  If this Bill does not prove effective for its purpose, if for a certain class of crime and under certain circumstances it is necessary that the jury system should go, then in those circumstances, and for that class of crime, we will have to bring forward proposals that some system other than the jury system shall be set up, because it is the duty of this Government, as it is the duty of the two Houses of the Oireachtas, to see that justice is done between the State and persons charged.  It is their duty to see that guilty persons do not go free; it is their duty to see that crime cannot walk unchecked, unpunished through this land, and it is also their duty&mdash;a very strong, potent duty, which devolves upon us all&mdash;to see that persons who do their duty, like jurymen and witnesses, who, if jurymen, bring in fair verdicts upon the evidence before them, or who, if witnesses, bear true testimony against criminals, that these jurymen and these witnesses shall remain safe.  It is the duty of the State to provide protection for jurymen and for witnesses, and I am sure if it becomes necessary for us to apply for strong powers to provide that safety we will receive those strong powers from the Oireachtas.</P>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>&ldquo;That the Bill do come up for consideration in six months' time.&rdquo;</P>
+    </Speaker>
+    <P>I put down this motion in order that the Minister might have time to reconsider what seems to me not only a bad but a very foolish Bill.  The difference between the Minister and myself is one between causation and <Col N="875" /> effect.  The Minister talks of effects. I will talk of causation which, I think, is going more to the root of the matter than any talk of the results which come from bad administration. I oppose the Bill because it is bad in its essence, and because it will do infinite harm.  It is brought forward in entire misjudgement of the causes of these crimes, if crimes they can be called, as no doubt they are crimes, but as yet there has been no proof in court with regard to the people who are supposed to have committed them. There have merely been statements. However, the Minister presumes that these people have been guilty of these crimes.  Supposing that is correct, I do not think it is due to any inherent wickedness in these particular people, because I do not believe that in this or any other country there is very much inherent wickedness.  These results are caused by misgovernment of various sorts.  If you go back in history and examine what happened&mdash;and after all that must guide us&mdash;it is certain and clear that whenever assassinations took place and secret conspiracies arose, it was always as a result of bad and unjust administration.  That is the ultimate causation of all the things the Minister has been condemning. For instance, within my memory, there were murders in the Phoenix Park which everybody at that time condemned and which were generally condemned by the world. They were caused by the terrorism instituted by &ldquo;Buckshot&rdquo; Forster, and by that alone.</P>
+    <Speaker pid="SeanMilroy" hpid="Mr. Milroy Mr. Milroy">
+      <NameTxt>Mr. Milroy</NameTxt>
+      <P>On a point of explanation, I ask the Senator if he means to imply that the same kind of terrorism has been going on under the present Executive as went on under Forster&mdash;I would like to know that for my own information.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>If the Senator will listen, I will answer his question at the proper time.  I will not go through the whole of our history; I will take the history of the ten years' war in Italy.  That was a war of <Col N="876" /> assassination caused by Austrian tyranny in Italy, and it was pursued unrelentingly for ten years.  It is not only the results we must consider, it is the causes of these results, and time which has exposed the causes in these things will in time expose the causes which have arisen in this country.  In my opinion the administration of so-called justice in this country is essentially and thoroughly bad.  So far as the detective force are concerned they are practically supreme in regard to the carrying out of administration. They have been given practically complete power to do what they like.  They can arrest man, woman, or child just as they choose. Whether these men are in plain clothes or in uniform they can go to any person and say: &ldquo;You are engaged in criminal practices.&rdquo;  That is a very wide discrimination.  In all civilised countries these detective forces are carefully trained and carefully selected as to the class of people taken into them.  They are expected to know something of the law as far as their work is concerned; they are expected to have great tact, and they are expected to be of a high character and to be incorruptible. When any of these qualities are absent the results are bad.</P>
+    </Speaker>
+    <P>I might, as an example, quote what is happening in London at present.  The London police at one time had the highest character in the world.  Certain incidents happened, one after another, and British Ministers themselves at once took the matter in hands and had investigations made, as a result of which they made great changes in the whole administration of that force.  They put it under the control of a military officer of high distinction who had been accustomed to control large numbers of men, and they gave him power to make whatever alterations might be necessary.  I think the Minister would be very wise if he adopted somewhat similar methods.  Unfortunately, the very opposite methods have been applied here.  Many of the people who are employed in this <Col N="877" /> force are unsuitable in character; they are quite untrained, and they are quite unacquainted with the law.  Their only qualification, as far as I can see, is the making of wholesale arrests and, very often, beating and ill-treating persons whom they arrest.  That is notorious.  But what is worst of all is that no efforts have been made to restrain that force.  A free hand has been given to them, with unlimited powers to do what they like, and even when they act brutally they have been sustained and excused.  I could quote instances where the Minister has sustained them in this House, and, no doubt, he will sustain them still and attack us with the same sort of phrases that General Macready and Buckshot Forster used in advocating their methods, because he has only to look up the Parliamentary Debates to see the very full vocabulary of coercion that is available, words which can be applied by the Minister to-day whenever it suits him to do so. Here is this Bill as a justification of what he has done and of what he intends to do.</P>
+    <P>Some time ago in this House I called attention to a case in Kerry where a member of the detective force went into an hotel during an election and gave a member of the Fianna Fáil Party a brutal beating. I happened to be in the hotel at the time, and I saw the effects of it; I saw the man covered with blood, practically unrecognisable, with all his clothes covered with blood.  That man was put out of action for the rest of the election.  He was in the infirmary, and, of course, that was a very good thing for the Government from the electioneering point of view.</P>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Do you approve of the murder of that detective?</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>Do I approve of his murder?  I did not know that he was murdered.  This is the first I have heard of it.  All I know is that I saw this man after he had <Col N="878" /> been horribly beaten.  He must have beaten this man with something.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>There was a row between these two men, and this friend of Senator Moore's got the worst of it, having started the business.  This detective, whom the Senator is now attacking in this fashion, is the poor man who was blown to pieces the other day in Clare.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>The Minister says that the person who was attacked in that case was the attacker. That was not the case, as was proved in Court, when the Judge strongly condemned the action that was taken by this man.  If he had been treated as he ought to have been treated&mdash;dismissed from the force&mdash;he probably would not have been murdered.  I am sorry that he has been murdered.  I think it was very shocking, and I do not in any way attempt to justify it.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Do you condemn it?</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I knew this man well, but when I went into his room the next morning, I did not know who he was.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>Do you condemn the murder?</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>It was done during the election, and in order to put him out of action during the election.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>Might I intervene for a moment?  I know how this will look in the Official Report.  The Minister has asked Senator Moore if he condemned the murder.  I doubt very much whether Senator Moore heard that question.  He went on to make other references. It will appear in the Official Report, and no doubt it will be quoted against him that he evaded the question.  I think that Senator Moore should have an opportunity of answering the question.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I think I did answer his question&mdash;that I had <Col N="879" /> never heard of his murder until now.  Is that the point?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>The Minister asked the Senator whether he condemned the murder.</P>
+    </Speaker>
+    <Speaker pid="JamesFitzgeraldKenne" hpid="Mr. Fitzgerald-Kenney Mr. Fitzgerald-Kenney">
+      <NameTxt>Mr. Fitzgerald-Kenney</NameTxt>
+      <P>I asked it three times.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. Johnson Mr. Johnson">
+      <NameTxt>Mr. Johnson</NameTxt>
+      <P>I think it was asked in such a way that the Senator did not hear it, and I know how it will look in the Official Report.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>Of course I condemn the murder.  I began by saying I regretted it.  I said I regretted it.  Even if he did the horrible thing that I say he did, I would not shoot him for it or sanction such a shooting.  There was an election some months later in County Kerry and this man took part in it.  These detectives who were attending meetings arrested that man, who had been beaten fiercely, with half a dozen agents of Fianna Fáil, and they were kept in prison for a considerable time. They were only released by order of the Minister himself.  An action in connection with the matter was tried, and if I remember rightly, these arrests were condemned by the judge as illegal.  There was no occasion whatever for these men to be arrested.  That is not the only case of the kind&mdash;far from it. There was a case in Leix-Offaly with which I also happened to be more or less connected in the way of finding out things about it.  It was the case of an old lady of about seventy and of a man who worked for her.  This man, who managed her farm for her, was attacked; the two of them were very badly treated for some considerable time and boycotted, and the man was shot in the hand.  I am not alleging that he was shot by the detectives. He came up to Dublin and complained to the former Minister for Justice that he was not properly protected by the police&mdash;a very justifiable complaint to make; whether it was true or not he had the right to complain.  Some time afterwards the place was set on fire. There were some investigations, and <Col N="880" /> as a result the detectives arrested both the lady and the man on the charge of having set fire to the lady's house.  They were let out after a time.  I am not sure whether the lady was imprisoned or not, but the man was put in prison and was later released on bail.  Several months elapsed during which both were under this charge, but eventually they were both honourably acquitted.  This charge was brought against them by the police, merely because they had reported them, but the action of the man was highly praised by the judge, who said that he had behaved honourably and straightforwardly and had defended his employer as best he could, for which he deserved every credit.  Several police gave evidence in the case, and not one of them was believed, either by the jury or by the judge.  As far as one can see, it was a case of conspiracy for a certain purpose.</P>
+    </Speaker>
+    <P>Take the case of McBride, who was arrested about eight or nine months ago, I think, just as everybody else is arrested, by a man who says he is guilty of certain practices and who puts him in prison.  This man was kept in prison for many months, but at last was brought up for trial, with some others.  Certain detectives gave evidence against them.  When one of them was cross-examined it turned out that he was already under suspension for having beaten prisoners. I presume that the suspension was by order of the Minister or of the police authorities.  The judge and jury disbelieved every word that the detectives said and found the man not guilty.  Then, again, we come across the case in North Dublin to which the Minister has been more or less referring.  A man was shot in January.  There was no political talk about the matter.  The detectives were attempting in the ordinary way to discover the murderer, if the man had been murdered, or whatever the cause of his death was.  Then an election came on, and immediately out went the detectives to arrest people here and there all over North Dublin.  Sometimes the same person <Col N="881" /> was arrested, put in jail, released, and the moment he was out arrested again and put in prison, and released, sometimes in the middle of the night, when he could not find any place to go to.  It is impossible to say how many cases of this kind there were, because the Minister declined to give any particulars or any names, but it is believed that at least 150 people were arrested at that time.  Then President Cosgrave, after being silent for many months, chose to come to a meeting and to make an election speech on this very case.  The police went about arresting any people&mdash;girls or anybody else.  The detectives when going along in a motor-car would pull up beside some girl, jump out, put her into the motor-car, carry her off without notice, put her in jail and cross-question her&mdash;a thing that is absolutely forbidden in England&mdash;to extract whatever evidence they could get out of her, and the same thing applied in the case of men.  That was a sort of mental torture.  That happened in the middle of the North Dublin election, and what was the result of the appeal to the electors? Nearly half of the electors, having all these acts of the police in front of them day by day during the election, voted against the Government, which had only a majority of 150 when formerly they had many thousands. That was a condemnation of the action of the police and of the administration of the law.  In effect, it was a vote of no confidence in the detectives and in the Minister.</P>
+    <P>Not only in North Dublin, but all over the country great numbers of people&mdash;in one case nearly half the electors&mdash;do not believe that prisoners get fair play.  They believe that they are recklessly put in prison, and that they may be condemned by false evidence got up by the police, as in the case I mentioned. Let us consider what that means in any country.  I do not care what country it is.  When the great part of the people believe that justice is not properly administered, the result always is that crimes and conspiracies arise, and <Col N="882" /> very likely assassinations follow them.  It is with the causation of these crimes that I am dealing.  The Minister deals only in a short-sighted way with what happens as a result of the causation, but I go to the root of the matter.  The Minister has not been very long in office.  I admit that he came into office when there was a difficult situation, but if he had the courage and the strength to meet that situation, he would at once have set to work to reform that particular part of the administration of justice.  I can imagine no better seed-bed for crime, conspiracy and assassination than that such a large number of the people should be dissatisfied with the actions of the Guards, people who think that their friends and associates are stuck in prison without justice or reason, and that they may be condemned, perhaps sentenced to death, through false evidence.  Naturally&mdash;very wrongly&mdash;but naturally the result of such a state of affairs in any country is that people try to strike back.  That is the general experience&mdash;however regrettable it may be &mdash;that people who believe themselves to be ill-treated attempt to strike back.  I deplore that fact, but I am not astonished.  I have only to look at history to know that that happens, that it always has happened, and that it probably always will happen as long as human nature exists as it is.  Men who know how to govern foresee that kind of thing, and regulate their conduct accordingly.  Anybody who has had to do with the control of men knows the best way of controlling them, but there are a great many people who do not know how to control them.  None of the present Ministers has any experience whatsoever of controlling men.</P>
+    <Speaker pid="" hpid="A Senator A Senator">
+      <NameTxt>A Senator</NameTxt>
+      <P>General Mulcahy?</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>I do not consider that he has.  I am not speaking after the event.  At the time when these things were happening I did my best; I repeatedly went to Ministers, privately and publicly, <Col N="883" /> and begged of them to alter their line of conduct.  I told them that they must not look to the immediate results, but to the ultimate results, and that I believed that the line of conduct they were pursuing would not lead to good results in the long run.  Of course they did not believe me; I did not expect they would, but I did the best I could in the circumstances. The result of all this seems to me, if the Minister's statements are all true and if these conspiracies do exist and are undermining justice, that what I have said has been borne out.  Year after year we have coercion Acts, one after another.  Sometimes in one year we have two or three of them, and sometimes only one.  It is not so very long ago since something happened and a coercion Act was brought in which we were told would settle the whole thing.  Detectives were given full power to arrest anybody they liked.  Has that succeeded?  Everybody knows that these things are inadvisable if they can be done without, but have they succeeded?  The Minister for Justice has said that the present Bill may not succeed and that he has something in his pocket&mdash; another revolver in his pocket, I am afraid&mdash;that he will take out.</P>
+    </Speaker>
+    <P>I think that one of the worst aspects of this matter is the attempts made by Ministers to fasten these charges on Fianna Fáil, who they know perfectly well do not approve of any of these acts, and use them at elections.  The very fact of their doing so undermines the essence of them.  I daresay I shall be attacked for making these statements, but it is better to get at the root of this question, to see what we are doing and to see what the results will be.  All the coercion Acts passed by England years ago were probably advocated in just the same way as this Bill, with just as good reason, or just as bad.  Ministers advocated them, but not one of the Ministers now in power in England would justify the past, and in a few years not one of the Ministers who will be in power here will <Col N="884" /> justify what is being done now, because it is being done on false lines.  I do not mean to say that Ministers do not believe it will succeed. The Minister for Justice has had absolutely no control over men, has had no experience and no knowledge of them.  He came out of the West country: he has never been a politician, but he has been put in office and put into a very difficult position.  I can see no chance of peace and quietness until some Government starts with a clean slate, abolishes political stunts in such matters as these, and makes a thorough reform of the detective department, as has been done in other countries.</P>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>I rise to second the motion.  Senator Moore has gone into a great deal of detail and has quoted concrete instances of various causes which have, perhaps, begotten some of the trouble with which the Minister&mdash;in my opinion, in a rather futile way&mdash;is trying to deal.  I am not going to reiterate the various things that Senator Moore has dealt with, but I would suggest to the Minister and to the House that the terms of this Bill show very little hope of effecting any possible result in the country and may, perhaps, vitiate what the Minister himself claims is already a vicious position.</P>
+      <P>Whether the position is vicious or not, we are not in a position to say.  The Minister makes certain statements.  Since he assumed office he has continued to make certain statements.  I think it is only right and fair to say that there is at least very considerable doubt cast on most of the defence that the Minister has put up for the detective organisation, or the C.I.D., in this country.  To defend anything which the people of the country know is practically indefensible, is one of the inevitable root causes of crime.</P>
+    </Speaker>
+    <Speaker pid="WilliamBarrington" hpid="Mr. Barrington Mr. Barrington">
+      <NameTxt>Mr. Barrington</NameTxt>
+      <P>On a point of order, what has all this to do with the Juries Bill that we are discussing?</P>
+    </Speaker>
+    <Col N="885" />
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>I think it has a great deal to say to it.</P>
+    </Speaker>
+    <Speaker pid="JamesDowdall" hpid="Mr. Dowdall Mr. Dowdall">
+      <NameTxt>Mr. Dowdall</NameTxt>
+      <P>I do not think the Senator heard the Minister's speech.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>I suggest that we are having a new régime of Greenwoodism in Ireland, and those of us who lived through Greenwoodism before, believe that we will survive this attack of Greenwoodism, and that we will possibly emerge from it cleaner and purified, and, perhaps, more like what the Minister would wish us to be.  But to come down to the practical issues in this Bill, I cannot see any decent citizen going on a jury as a willing juror.  In the first place he is not allowed to be seen.  In the second place his name is not to appear in any list which can be seen by anybody except by those people who have a certain definite point of view, and a certain object in view. The Minister admitted on examination here that even the defendant's counsel or solicitor will not be allowed to see this confidential jurors' list which he described as a public document and a confidential one at the same time.  Now I cannot conceive how any administration of justice is to take place if the defendant's solicitor or counsel is not going to be allowed to intervene or to say who is to act as a juryman.  It is of the quintessence of packed juryism to have it otherwise. It means that twelve men, twelve officials if you like, can be organised by any Department, by the Department of Justice perhaps, and kept there ready to walk into the jury box and walk out like so many puppets on the stage to bring in the verdict they wish for.  I do not suggest that that is going to happen.  I do suggest that it can be charged against the administration, that such a thing was happening. The fact that the defendant's solicitor, counsel or the prisoner himself is not going to have sight or view of the jury or is to know anything about those who compose it, can make it possible to charge against the administration or the <Col N="886" /> Minister for Justice that he had twelve puppets ready to carry out his will at the behest of the Cabinet, which in turn controls him.  In my opinion, that is a dangerous state to get into.  The Minister has admitted that English law and United States law has always held for a unanimous verdict of the jury.  I do not know what the Minister's point of view would be on the question of a life and death issue, where a prisoner was standing trial for his life.  It has been generally accepted that a unanimous verdict of the jury was at least essential before a man's life was taken away as punishment for a crime.  I think it would be a very serious thing for the law not only in this country, but all over the world if we broke down that tradition. It is ironical to find that it is in Ireland, in the Free State section of Ireland, that this break which I suppose has not taken place since Magna Charta, is going to be first established in this country, in this alleged Free State.</P>
+    </Speaker>
+    <P>The Minister has explained that the judge must, on the suggestion of a superintendent of the Guards, clear the court.  There are a good many of the legal fraternity here and I wonder just how they feel about that.  I wonder how the Chief Justice feels about it, and how the various judges feel about it, that any superintendent of the Guards is going to get the ear of the judge and say to him: &ldquo;There is a certain undesirable person here, and it is not desirable that the court should proceed with its business while that person is here.  Accordingly I, as a superintendent of the Guards&rdquo;&mdash; what I would call a super-peeler or a policeman&mdash;&ldquo;order you, one of the judges administering justice in this court, to clear the court and do as I tell you.&rdquo;  According to the Act the judge will have no alternative but to do so.  That is certainly a pretty pass for legal administration in this country to come to.  The Minister went on to say that he thinks that this will be a great improvement in the criminal law.  In the same breath almost he suggested that if he is not <Col N="887" /> successful in this that he has still other parts to play.  I would like to be quite frank about this, and say to the Minister for Justice that if he feels that the jury system has broken down in Ireland and that he cannot protect jurors, I want to assure him first of all that this Bill is not going to protect them.  In no court in Ireland and in no district in Ireland will a man serve on a jury without it being known to his immediate neighbours, or to the people beside him, that he has been on a jury. Take the position in any country town.  A man dresses up to go to the court he is summoned to attend. The people there know that he has been away.  They know that a trial has been on at that time, and they know the result of the trial.  They know who have been on that jury. With the exception of the City of Dublin, I would say that there will not be any man attending on a jury in Ireland where it will not be known that he has been sitting on a jury. Therefore, I say that this is no protection for jurors.  If the Minister feels that he cannot get the jury system to work in Ireland in all those terrible circumstances which I, like Senator Moore, believe have been carried on mainly for political propaganda and have always been launched at the time of a by-election, I would say to him: &ldquo;Go the whole hog now, establish your Star Chamber, make your Star Chamber the Cabinet itself, and let them take the trial on their shoulders and run courtsmartial.&rdquo; They have legal fraternity on it.  They have men on it who seem to have the interests of the State at heart.  Do not throw this dirty work on a lot of unfortunate jurors covered up in a dark room in a secret court, and then pretend to the country that you are protecting them.  You are not doing that.  If you want to face the thing, take off your coats yourselves and do the thing unashamed. Go out nakedly and have your courts-martial.  Maxwell held his courts-martial and he made no bones about it.  He went right on with <Col N="888" /> them.  If you argue that the present state of the country is in such a way that you cannot carry on the administration and cannot trust a jury, that there are the hidden hands we heard about in the &ldquo;Daily Express,&rdquo; and the inspired interviews which had to be repudiated afterwards on account of the tourist traffic&mdash;if we have all these things going on, let us in God's name do without jurors altogether, forget about juries and judges, hold your courts-martial and get on with the work.  If that day has arrived, then we can face it.  In these circumstances it is rather queer, too, that the Minister for Justice should suggest that he wants fair verdicts and fair evidence.  The system that he is trying to establish by this Bill is a direct incentive to anything but fair evidence and fair verdicts.  I, for one, cannot see how he hopes to achieve his purpose.  We all, I feel, want order and decency to prevail in Ireland.  This Bill, to my mind, is a provocative Bill, and will not do what it is supposed to do, namely, to protect jurors.  On the other hand, it will create bad feeling and bad blood everywhere it is operated, and will never last to the end of the time suggested by the Minister, 1931. This Bill is opposed to all that the people would stand for in the way of decent freedom.  Remember that in this Bill we are setting back the clock some 300 or more years.  On the Minister's admission, we are the first country in Europe to try to do so.  I think that is a most retrogressive step to take, and a step that must be condemned by the Seanad.  I have great pleasure in seconding the motion moved by Senator Moore.</P>
+    <Speaker pid="SeanMilroy" hpid="Mr. Milroy Mr. Milroy">
+      <NameTxt>Mr. Milroy</NameTxt>
+      <P>If it be proposed that we should have an adjournment this evening and resume later, I suggest that this would be a suitable time for the adjournment to take place.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>That is a matter for the House to decide.</P>
+    </Speaker>
+    <Speaker pid="MichaelComynKC" hpid="Mr. Comyn Mr. Comyn">
+      <NameTxt>Mr. Comyn</NameTxt>
+      <P>I move that the House adjourn until to-morrow.</P>
+    </Speaker>
+    <Col N="889" />
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>There are one or two points referred to that I would like to deal with.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Is it agreed that we should hear the President before we adjourn?</P>
+      <P>Agreed.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>One or two charges have been made here that the occasion was seized on by me to utilise the by-election in the city of Dublin to make a certain rather remarkable and rather momentous statement. That statement was made, I believe, on the 5th March, thirteen days' after Mr. Armstrong met his death at the hands of scoundrels in this city.  There are people, I suppose, who would describe that incident as an accident.</P>
+      <P>It was a very serious accident for Mr. Armstrong.  It was a very serious accident for his aged mother and father.  It was a very serious thing for the administration of law in this country when a witness in a case, some two months after his evidence had been given, was murdered within a few yards of his own home. He was murdered on the 20th February, 1929.  A few minutes after he had been murdered, two statements were made in the Dáil: one was by Deputy O'Kelly.  In dealing with the matter which affected one of the members of his Party, he said:</P>
+      <P>&ldquo;The Executive Council themselves had two men political prisoners in jail for what, if they are anything at all, are very shadowy political offences.&rdquo;</P>
+      <P>The other is Deputy Cooney's statement, column 167 of the Dáil Debates of the 20th February, 1929:</P>
+      <P>&ldquo;On the other hand, we have in this city the Executive Council imprisoning men who tore down the Union Jack.&rdquo;</P>
+    </Speaker>
+    <P>Perhaps to Senator Connolly that statement is not very remarkable&mdash; these statements are not very remarkable, perhaps, to Senator Moore &mdash;but the speech to which we have just listened is very much on a par <Col N="890" /> with those two statements.  Here is a Senator, occupying his position and accepting his responsibility, talking as if this State was something he looked upon endeavouring to function. He enjoys his position as a member of the Seanad.  He enjoys the privileges and rights of a citizen of this country.  I presume he benefits to some extent by being a citizen of this country, and yet he stands out and says: &ldquo;You can establish courtsmartial in this country.&rdquo;  That is evading one's responsibility and ignoring one's position as a Senator in the State.</P>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>On a point of order, I said the courtsmartial would at least deal with the thing frankly and openly, and that the Juries Bill has no chance of doing what it sets out to do.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>I presume the Senator would support a proposal to set up courtsmartial?</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>In preference to this Bill, yes.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>My statement made on the 5th of March to a much higher court than the Oireachtas&mdash; the court of the people&mdash;was that the rights of juries ought to be preserved and that that ought to be the privilege and prerogative of any and every party in the State.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>What answer did the people give?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>The answer I expected.</P>
+    </Speaker>
+    <Speaker pid="MauriceMoore" hpid="Colonel Moore Colonel Moore">
+      <NameTxt>Colonel Moore</NameTxt>
+      <P>You got your majority reduced from 8,000 to a couple of hundred.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>The Senator will find that, as far as the real majority is concerned, the figures are the same as in the previous election.  That, however, is beside the point, which is that the citizens in the North City constituency stood for a decent livelihood in this country, and the rights of citizens to put down such dastardly attempts at the taking of life as had been successful in the case of Mr. Armstrong.</P>
+    </Speaker>
+    <Col N="891" />
+    <Speaker pid="SeamusRobinson" hpid="Mr. Robinson Mr. Robinson">
+      <NameTxt>Mr. Robinson</NameTxt>
+      <P>Has it been proved that Mr. Armstrong was killed by anybody in particular?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>That is proving my case more clearly.  Persons like the Senator who has just spoken are incapable of dealing with this matter in the way in which it should be dealt with&mdash;as a problem.  Does the Senator suggest that Mr. Armstrong was shot by some other person?</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>I did not refer to Armstrong at all.  I dealt with the Juries Bill.  I said this Bill meant packed juries, and unless they are carefully packed it will not protect jurymen.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>The Senator explained himself at some length, and he contradicted himself in the explanation. In the first place, the Senator addressed himself to the uselessness of this Bill, and said that it might be alleged the Minister packed juries, but that he would not go so far as to say that that was his view, but that it would be the view of many people.  Then the Senator went on to say that every man would be known who served on a jury even in Dublin.  If the Senator reads his speech he will realise the utter mess he has made of his comparison.</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>What I said was that everybody who served on a jury outside of Dublin would be known.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>Inside Dublin people have a peculiar faculty of identifying people they do not know.  Citizens who act on a jury are well known.  I have never met a case where one man on a jury did not know some other man on the jury.  The Senator has taken an extraordinary line.  He has taken the line of the real slave-minded people in this country.  He is the mouthpiece of the Party which stands for the slave mind.  He appeals to the Magna Charta and says we are going to lose the fruits of the Magna Charta.  Is a unanimous verdict necessary in Scotland?</P>
+    </Speaker>
+    <Col N="892" />
+    <Speaker pid="JamesDowdall" hpid="Mr. Dowdall Mr. Dowdall">
+      <NameTxt>Mr. Dowdall</NameTxt>
+      <P>In open court.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>So the Senator fell into that mess also.  Now we are coming to the open court.  Was Mr. Armstrong entitled to go into open court?  Was he entitled to go out of it?  Was he entitled to immunity in carrying out his obligations as a citizen of the State?  Has a person a right to own whatever property there is in his house?  Are people who are determined to take the lives of men like Mr. Armstrong, to be entitled to go into any house in the city and take away any emblem to which they take exception?  Senator Connolly said he was in favour of law and order.  Does he stand for the right of people in this State to enter premises and take away property which does not belong to them?</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>I have not attempted to defend anybody who has committed a crime.  We are not dealing with a specific crime.  I am dealing with the Juries (Protection) Bill and nothing else.  With all respect, I suggest that the President is evading the point and is pouring abuse.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>It is not my intention to evade the point or to give abuse.  Out of what does the Bill arise?  Why did we introduce it?  I say deliberately and solemnly that nothing would give me greater pleasure than to leave public life when peace, law and order run in the country.  As long as I occupy my position, as long as there is a problem to be dealt with, such as we have been faced with for the last year or two, I would be evading my responsibilities and acting as a coward if I did not bring into the Oireachtas such an Act as appeared in the wisdom of the Executive Council sufficiently comprehensive to deal with any and every occasion that would arise.  What are the occasions that have arisen? We have had in twelve or eighteen months several attempts at embracery. What is embracery?  It is the means used by misguided, and unfortunately evil-minded, people to influence juries in the verdicts they <Col N="893" /> should bring in; in other words, it is an attempt to sap the integrity of juries.  Do members of the Fianna Fáil Party stand for that?  Are they in favour of it?  Do they believe the courts ought to be furnished with juries uncanvassed and uninfluenced by organisations outside?</P>
+    </Speaker>
+    <Speaker pid="JosephConnolly" hpid="Mr. Connolly Mr. Connolly">
+      <NameTxt>Mr. Connolly</NameTxt>
+      <P>The Fianna Fáil Party are not on their trial.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>It so happens that they have put themselves on trial. That is the unfortunate position.  It is by reason of these two statements that I had to go to the North City and to the country, and tell the people what the situation was.  I invited from that platform a pronouncement from every person who spoke in favour of the jury system for law and order, and for free ingress to and egress from the courts, and not having to suffer embracery. For two years young ladies, as I suppose they would call themselves, served terms of imprisonment for embracery.  We had this attempt on the life of a juryman.  We had printed up all over the county and the city of Dublin the names of jurymen. We had an attempt, fortunately not successful, fortunately some dud gun-man was employed and was not able to effect the foul purpose of shooting the man dead. With that situation and with the names of the jurymen published, we are criticised for bringing in a Bill to protect the lives of jurymen against these scoundrels, and endeavouring to secure immunity for people who had sufficient sense of citizenship to discharge in the courts the duties that fell to jurymen.  We have had it suggested to put on courts martial, that they are respectable, that Sir John Maxwell held courts martial and they were respectable. That is the slave mind.</P>
+    </Speaker>
+    <P>The laws here are made by the representatives of the people.  They <Col N="894" /> are made in their interests, and they are made to secure decent and ordered livelihood for the people of the country.  I would much prefer, in the interests of that order to which Senator Connolly addressed himself a moment or two ago, that he would look at this matter not so much through the Fianna Fáil spectacles, but to see in what way public opinion could be brought to bear on every citizen as to the advisability of maintaining the jury system.  If we are to take it the Senator is right, and that we should go on with courtsmartial, that is disposing of the jury system.  I may say that so far as his observations are concerned regarding a unanimous verdict that he is wrong. The rule as to a unanimous verdict does not prevail in France.  It may so happen that it is as much in the interest of the accused person as it is against him.</P>
+    <P>It is the responsibility of the State and not of the Government alone, but of every man in the State to secure that our courts should be allowed to function without interference and without any organised conspiracy against them either in respect to jurymen or witnesses.  I submit that if there be an objection taken towards the exhibition of any emblems, change the law and give the people the right to enter the premises and take down any emblems to which they object.  Give them that right by law, but until you give them that right have none of this sob-sentimentality about prosecuting people for tearing down something.  That is dishonest pleading.  It is not a case that should be put up by any free man, and it is not a case that could be put up by any man who says he stands for law and order in the country.</P>
+    <Speaker pid="JamesDowdall" hpid="Mr. Dowdall Mr. Dowdall">
+      <NameTxt>Mr. Dowdall</NameTxt>
+      <P>I move the adjournment until to-morrow.</P>
+      <P>The Seanad adjourned at 7.20 p.m. until Friday, June 21st, at 3 p.m.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

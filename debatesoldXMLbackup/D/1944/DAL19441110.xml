@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="10" Month="Nov" Year="1944" Vol="95" No="7" DateIrish="Dé hAoine, 10 Samhain 1944" DateEnglish="Friday, 10 November 1944" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="935">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="935" /> Do chuaidh an Ceann Comhairle i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>Before you take the Order of Business to-day, I beg permission to protest&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Order of Business will be taken first.  I may then hear what the Deputy has to say.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Minister for the Co-ordination of Defensive Measures (Mr. Aiken) Minister for the Co-ordination of Defensive Measures (Mr. Aiken)">
+      <NameTxt>Minister for the Co-ordination of Defensive Measures (Mr. Aiken)</NameTxt>
+      <P>It is proposed to take business on the Order Paper, Nos. 2 and 3, including No. 1.</P>
+    </Speaker>
+    <Speaker pid="HenryMDockrell" hpid="Mr. H.M. Dockrell Mr. H.M. Dockrell">
+      <NameTxt>Mr. H.M. Dockrell</NameTxt>
+      <P>What is the Order of Business?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Nos. 2 and 3.</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>No. 2 will be interrupted at 6.30 to dispose of Nos. 1 and 3.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Arterial Drainage Bill first.  At 6.30, No. 3, with the Money Resolution, will be taken.  Then, if necessary, we resume the Arterial Drainage Bill.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Is it proposed to finish all stages?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is it proposed to take all stages of the Diseases of Animals Bill?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>No; only the Committee Stage.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Expiring Laws Bill," RHead="1944&mdash;First Stage">
+    <Title>Expiring Laws Bill, 1944&mdash;First Stage.</Title>
+    <P>Leave granted to introduce a Bill entitled an Act to continue for a limited period certain expiring enactments&mdash;(Minister for the Co-ordination of Defensive Measures).</P>
+    <P>Second Stage ordered for Wednesday, 29th November.</P>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Would the Minister <Col N="936" /> say what other business there will be on the 29th?</P>
+    </Speaker>
+    <Speaker pid="FrankAiken" hpid="Mr. Aiken Mr. Aiken">
+      <NameTxt>Mr. Aiken</NameTxt>
+      <P>The Mental Treatment Bill and some Report Stages.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>With your permission, I wish to protest against the attitude of Deputies who are members of the Government in the House last night making cat-calls and yells while Deputy McGilligan was speaking on the Adjournment.  It showed disrespect, first, to the Chair, and, secondly, to the Deputy.  Furthermore, I think it is very unfair for the Taoiseach or the Government to have all the Deputies here for the purpose of rising and applauding the Taoiseach.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy is proceeding to make charges against the Taoiseach.  He has made his protest.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>I wish to make a protest against Deputies rising and clapping and applauding a Minister.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is nothing in the Standing Orders to forbid such expression of approval.</P>
+    </Speaker>
+    <Speaker pid="OliverJFlanagan" hpid="Mr. Flanagan Mr. Flanagan">
+      <NameTxt>Mr. Flanagan</NameTxt>
+      <P>Is there anything in the Standing Orders against making cat-calls and yells?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I have not heard anything like that.  It would not be seemly, to say the least of it.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Arterial Drainage Bill, 1944&mdash;" RHead="Committee Stage (resumed)">
+    <Title>Arterial Drainage Bill, 1944&mdash; Committee Stage (resumed).</Title>
+    <P>Debate resumed on amendment No. 144.</P>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>What is the position with regard to amendment No. 69? Deputy Norton has not been here all the week.  Will the amendment be taken on the Report Stage?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>A very nice point arises.  A Deputy cannot ensure the acceptance of an amendment on Report merely by not moving it on Committee.  If an amendment is withdrawn by leave of the House it may possibly be put in on Report Stage. <Col N="937" /> Obviously a Deputy may not table important amendments for Committee, not move them, but put them down for Report.  However as there was some understanding with Deputy Norton, I am prepared to allow two or three of these amendments on Report.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>Deputy Norton did approach you about this amendment and explained to you that he would not be able to be present on the particular day that the amendment would come up for discussion.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Yes.  I shall consider that.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>You agreed.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I was approached informally in the Chair and am prepared to consider the matter favourably.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>Can we discuss amendment No. 69 now, on Committee?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>We have passed it and cannot go back.  Would the Deputy state what is the purport of the amendment?</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>It is in connection with the funding of arrears of unpaid drainage rates.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I expect it will reappear on Report.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>It will be in order then to bring it up on Report Stage?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I think so.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>I am interested in this amendment as well as Deputy Norton.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Was the Deputy's amendment, No. 72, not moved?</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>I did not move it on the understanding that Deputy Norton's amendment would be allowed on Report.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I shall admit them on Report Stage but that is not a precedent to be followed.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>We were informed <Col N="938" /> there was an understanding about it and we did not move it.</P>
+      <P>Amendment No. 144 declared negatived.</P>
+      <P>Amendment No. 145 not moved.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 146:&mdash;</P>
+      <P>To add at the end of sub-section (5) the words &ldquo;and conclusive&rdquo;.</P>
+      <P>This is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+      <P>Question proposed: &ldquo;That Section 49, as amended, stand part of the Bill.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>What is the necessity for the section at all?  Existing legislation requires that notification should be sent to the interests concerned in the construction of a bridge before it is constructed.  The effect of the section seems to be to give over-riding power to the Commissioners.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I think it is a very useful section.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Is that what you are claiming&mdash;an over-riding power for the Commissioners over everyone else?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>What we seek to achieve by the section is that work of this nature will not be done without consultation with us, because it might happen that, while work carried out might be sufficient for the purpose for which it was designed, it might not be sufficient for our purpose and expensive alterations might be called for afterwards.  Is it not better to ensure that it will serve both purposes when constructed originally?</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Is the Parliamentary Secretary satisfied that existing legislation is not sufficient to cover it?  I understand that, if you propose to construct a bridge you are bound to notify all interested parties and obviously the commissioners would be interested parties.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>They would after the passing of this measure.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>And prior to its passage.</P>
+    </Speaker>
+    <Col N="939" />
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>This is a section which I regard as vital.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECTION 50.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I move amendment No. 147:&mdash;</P>
+      <P>To delete sub-section (2).</P>
+      <P>I raised this point already on another part of the Bill.  Take the case of a small farm which is protected by an embankment.  If the embankment breaks, very severe damage may be caused to that land.  It is not our intention to make any insurance provision to compensate the owner for damages and we obviously should concern ourselves about his interests in the event of severe damage caused by the breakdown of a drainage work.  If he were a man in poor circumstances, it might destroy all he possessed. Would it not be wise to consider the provision of some form of insurance, some insurance fund, to cover such cases?</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>What does the Parliamentary Secretary mean by the phrase &ldquo;accidental overflowing&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>The Deputy's property, my property, and Deputy Hughes' property are exposed to storms over which we have no control.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>We are exposed to the natural dangers, acts of God and the like, but here we construct something, such as an embankment, which may possibly bank up water at a higher level than would normally be the case if nature had not been interfered with. If that artificial work gives way, the property owner will suffer greater damage than he would suffer if there had been no interference.  It would be very useful to consider some sort of insurance fund to cover such cases.  I do not expect the Parliamentary Secretary to give me an answer now, but he might look into it before Report Stage.</P>
+    </Speaker>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>This section should be divided into two parts.  The latter part is quite all right, but if the Commissioners bring water near my land and damage arises therefrom, there is <Col N="940" /> an action for negligence.  Here it is put in with general matters, such as acts of God.  The two things are dovetailed, which is not right.  If a person is guilty of negligence which gives rise to an accident, he is liable and must pay for it.  He cannot be called on to repair or pay for damage arising from a storm, but he should be responsible for anything which arises from his negligence.  If anything is done carelessly, if there is misfeasance on the part of the commissioners, they should pay for it the same as everybody else.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Deputies will notice that, in amendment No. 149, we are removing the word &ldquo;accidental,&rdquo; and I think we are meeting the point in doing so.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I do not know whether the deletion affects the position to any extent.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>Does that amendment mean that, in the event of the accidental over-flowing of a stream, river or watercourse, the commissioners will be liable for any damage caused?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>No, and if the roof is blown off the Deputy's house nobody but he will be responsible.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>The removal of the word &ldquo;accidental&rdquo; leaves it very much wider.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>It is an additional safeguard for the commissioners.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>That is a new way of looking at it.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>The Parliamentary Secretary cannot deny it.  It is being widened to cover accidental or other kind of flooding.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I do not think it makes much difference.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>It covers any sort of over-flowing, accidental or otherwise.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Read amendment No. 149.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>That deals with where <Col N="941" /> you have been absolutely negligent.  My argument is that it might happen through no fault of the Commissioners that an embankment might break down and the flooded water get out over an area, doing irreparable damage.  Surely it would be very useful and beneficial to provide some sort of insurance to cover cases of that sort, if it is possible. I am merely asking for an examination of that possibility.  I think it would be a good thing to have it, if we could have it.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Have you read the amendment we are inserting here?</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I do not think it covers it.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>The amendment reads:&mdash;</P>
+      <P>&ldquo;In sub-section (2), page 34, line 2, to delete the words &lsquo;for any consequential&rsquo; and substitute the words and brackets &lsquo;(save where it is proved that their officers, servants, or agents have been guilty of carelessness or neglect) for any&rsquo;, and in line 3 to delete the word &lsquo;accidental&rsquo;&rdquo;.</P>
+      <P>Surely you would not expect us to go any further than that.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>That is what I am doing.  In the event of an embankment breaking down, through no fault of the Commissioners and doing serious damage to a lot of people living behind it which would put them out of business completely, I think we should provide some sort of insurance against that, an insurance against something over which you have no control.  No one can foresee the bank breaking down and inundating, say, half-a-dozen small farms.  Is it not possible to provide any insurance against that sort of thing?  You are only providing for negligence on the part of the commissioners. There can be legal proceedings in that case to fix the negligence. I want to go further.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>We know that it would be a grand thing if we could devise some scheme whereby we could insure everybody against everything.  We have examined this.  We are accepting responsibility for any damage which <Col N="942" /> may result from our proved negligence. Further than that it would not be reasonable to expect us to go.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Is there any liability there at present?  Are county councils liable?  Is the Land Commission liable in any way for works they have constructed?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I do not think so.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Or in the case of construction by their predecessors?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I suppose not, unless they are responsible for the maintenance in some way of the works they have constructed.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 148 not moved.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 149:&mdash;</P>
+      <P>In sub-section (2), page 34, line 2, to delete the words &ldquo;for any consequential&rdquo; and substitute the words and brackets &ldquo;(save where it is proved that their officers, servants, or agents have been guilty of carelessness or neglect) for any&rdquo;, and in line 3 to delete the word &ldquo;accidental&rdquo;.</P>
+      <P>Amendment put and agreed to.</P>
+      <P>Section 50, as amended, agreed to.</P>
+      <P>Amendment No. 150 not moved.</P>
+      <P>Section 51 agreed to.</P>
+      <P Just="Center">SECTION 52.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 151:&mdash;</P>
+      <P>In sub-section (6), page 35, line 44, to insert the words &ldquo;purporting to be&rdquo; before the word &ldquo;sealed&rdquo;.</P>
+      <P>It is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+      <P>Section 52, as amended, agreed to.</P>
+      <P Just="Center">SECTION 53.</P>
+      <P>Question proposed: &ldquo;That Section 53 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>This section states:&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="943" />&ldquo;Whenever land acquired by the Commissioners under this Act is subject, in conjunction with other land, to a land purchase annuity or other annual payment payable to the Irish Land Commission or to the Commissioners, the Irish Land Commission or the Commissioners (as the case may be) may apportion such annuity or annual payment in such manner as they consider proper between the land so acquired and such other land...&rdquo;</P>
+    <P>That is all right in my opinion, but then we have the latter portion of this section:</P>
+    <P>&ldquo;...or may charge the whole of such annuity or annual payment on any part of the land subject thereto in exoneration of the residue of such land.&rdquo;</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>That is a common thing.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>What is the justification for it?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>If it is a small matter it would not be worth making any apportionment.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Why not redeem the other portion?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Why go to the trouble when it is only a matter of a few pounds?  So far as I understand the attitude of the Land Commission it is this, that where it does not affect the security of the holding for the amount of the advance still outstanding they do not apparently worry about it.  It is a very wise course.  If it was only a matter of a few shillings, why should they go to the bother?</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>In fact they always redeem it.  You are taking a bad example.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Not always.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>For local government purposes.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>That is a different thing.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>The Land Commission redeem it for the Local Government Department.</P>
+    </Speaker>
+    <P>
+      <Col N="944" /> Question put and agreed to.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Amendment 152 is out of order.</P>
+      <P>Amendment No. 152 not moved.</P>
+      <P>Sections 54 and 55 agreed to.</P>
+      <P Just="Center">SECTION 56.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 153:&mdash;</P>
+      <P>In sub-section (1), page 37, line 20, to insert before the words &ldquo;to every&rdquo; the words &ldquo;as on and from the day appointed under Section 21 of this Act&rdquo;.</P>
+      <P>This is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 154:&mdash;</P>
+      <P>In sub-section (2), lines 31 and 32, to delete the words &ldquo;has already paid to such council the poor rate payable in that year&rdquo; and substitute the words &ldquo;is rated to the poor rate payable in that year in respect of the said land and has already paid such poor rate or if he is not rated to such poor rate,&rdquo; and in line 35 after the word &ldquo;he&rdquo; to insert the words &ldquo;is rated to the said poor rate payable in that year in respect of the said land and&rdquo;.</P>
+      <P>It is a question of clearing up a matter as between the occupier and the proprietor.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 155:</P>
+      <P>In sub-section (2) to delete in line 32 the words &ldquo;be entitled&rdquo; and to delete in line 35 the word &ldquo;be&rdquo; and in line 36 the word &ldquo;entitled&rdquo;.</P>
+      <P>This is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 156:&mdash;</P>
+      <P>Before sub-section (3) to insert a new sub-section as follows:&mdash;</P>
+    </Speaker>
+    <P>(3)  Where a person who is the occupier of land (situate in the State) which is rated to drainage <Col N="945" /> rate in a drainage district to which this section applies but is not himself rated to such drainage rate in respect of such land pays in any year the said drainage rate in respect of the said land, the following provisions shall apply and have effect, that is to say:&mdash;</P>
+    <P>(a)  such occupier shall be entitled to relief under the next preceding sub-section of this section as if he had been rated to the said drainage rate in that year in respect of the said land;</P>
+    <P>(b)  the person actually rated to the said drainage rate in that year in respect of the said land shall not be entitled to relief under the said sub-section;</P>
+    <P>(c)  such occupier shall not be entitled to recover the said drainage rate so paid by him or any part thereof from the said person so actually rated thereto.</P>
+    <P>This covers the same point as amendment No. 154.</P>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Have you many cases where land is occupied and the occupier is not rated?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Yes.  It is a matter of making a refund, and we do not want to make a refund to two people in respect of the same land.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 157 not moved.</P>
+      <P>Section 56, as amended, agreed to.</P>
+      <P Just="Center">SECTION 57.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 158.</P>
+      <P>Before Section 57 to insert a new section as follows:&mdash;</P>
+      <P>57.&mdash;(1)  In this section:&mdash;</P>
+      <P>the expression &ldquo;the Act of 1925&rdquo; means the Arterial Drainage Act, 1925 (No. 33 of 1925), and the expression &ldquo;the Act of 1929&rdquo; means the Arterial Drainage (Amendment) Act, 1929 (No. 18 of 1929).</P>
+    </Speaker>
+    <P>(2)  Notwithstanding anything to the contrary contained in the Act of 1925, the following provisions shall <Col N="946" /> apply and have effect in relation to the Mulkear and Cappamore Drainage Scheme (in this sub-section referred to as the scheme) prepared by the Commissioners under the said Act and confirmed by the Minister for Finance on the 20th day of October, 1933, that is to say:&mdash;</P>
+    <P>(a)  Section 14 and sub-sections (1) to (4) of Section 15 of the Act of 1925 shall not apply or have effect in relation to the scheme;</P>
+    <P>(b)  as soon as may be after the passing of this Act, the Commissioners shall prepare a final award in respect of the scheme;</P>
+    <P>(c)  the Commissioners shall, in and by the said final award, declare:&mdash;</P>
+    <P>
+    </P>
+    <P>(i)  that the total amount of the costs and expenses incurred by the Commissioners in the execution of works in pursuance of the scheme and generally in carrying out the scheme is the sum of £36,951 0s. 4d., and</P>
+    <P>(ii)  that the Minister for Finance has paid, out of moneys provided by the Oireachtas, the sum of £18,475 10s. 2d. towards the said costs and expenses, and</P>
+    <P>(iii)  that the council of the County of Limerick has paid to the Commissioners the sum of £13,425 10s. 9d. towards the said costs and expenses, and</P>
+    <P>(iv)  that the balance of the said costs and expenses over and above the said sums paid by the said Minister and the said council respectively amounts to the sum of £5,049 19s. 5d., and was advanced by the Commissioners, and</P>
+    <P>(v)  the amount of the terminable annuity by which the sum advanced by the Commissioners is to be repaid in accordance with Section 16 of the Act of 1925.</P>
+    <P>(d)  the drainage district constituted by the said final award shall be an existing drainage district for the purposes of this Act and the provisions of this Act in relation <Col N="947" /> to existing drainage districts shall apply thereto accordingly, and the said final award shall be in such form and shall contain such provivisions as shall appear to the Commissioners to be requisite in consequence of the said application of the said provisions of this Act;</P>
+    <P>(e)  subject and without prejudice to the foregoing provisions of this sub-section and so far as is not inconsistent therewith, the said final award shall contain all such provisions as are required by the Act of 1925 to be contained in a final award under that Act, and shall be deemed to be the final award made in pursuance of the said Act in respect of the scheme, and sub-sections (5) and (6) of Section 15 of the said Act shall apply and have effect in relation to the said final award accordingly.</P>
+    <P>(3)  Immediately upon the passing of this Act the Council of the County of Limerick shall pay to the Commissioners such sum as with the sums heretofore paid by the said council to the commissioners on foot of the advances made by the commissioners in respect of the said council's contribution towards the costs and expenses of the Mulkear and Cappamore Drainage Scheme and the interest on those advances will make up the following sums, that is to say:&mdash;</P>
+    <P>(a)  the sum of thirteen thousand, four hundred and twenty-five pounds, ten shillings and ninepence (being the total amount of the said advances), and</P>
+    <P>(b)  interest on each of the sums making up the said advances from the respective dates on which such sums were made available by the Commissioners up to the date of repayment thereof, such interest being calculated, in respect of each such sum, at the rate at which interest was charged on loans from the Local Loans Fund at the time when such sum was made available as aforesaid.</P>
+    <P>(4)  Money payable by the Council of the County of Limerick to the Commissioners under the next preceding <Col N="948" /> sub-section of this section may be paid by such council out of their county fund or by borrowing, and Section 22 of the Act of 1925 shall apply and have effect in respect of the said money as if such money were directed by that Act to be paid out of the said county fund or by borrowing.</P>
+    <P>(5)  Every final award made or purported to have been made by the Commissioners under the Act of 1925 or under that Act as amended by the Act of 1929 or under any other Act before the passing of this Act (other than the final award purported to have been made by the Commissioners on the 29th day of July, 1942, in respect of the Mulkear and Cappamore Drainage Scheme) is hereby confirmed and declared to be and always to have been valid and incapable of being questioned on any ground notwithstanding the invalidity (if any) of the relevant draft award or any discrepancy between such final award and such draft award and notwithstanding, in the case of the final award made by the Commissioners on the 9th day of July, 1941, in respect of the Maigue and Loobagh Drainage scheme, any order of the High Court made after the 18th day of October, 1944, and before the passing of this Act.&rdquo;</P>
+    <P>This amendment has been rendered necessary because of a decision given recently in the High Court in connection with the Mulkear and Cappamore Drainage Scheme.  By that award the draft and final awards were set aside and the district is more or less hanging in the air, as it were, with nobody responsible for it, and we have to make another final award in relation to it.</P>
+    <P>I suppose the House understands the procedure that was laid down in the Act of 1925.  That procedure was followed to the best of their knowledge and belief and ability by the Commissioners of Public Works.  In this case the court decided that that procedure did not conform with the law.  The district is there, and nobody is made responsible for its maintenance, although quite a substantial amount of money, some of which was provided by the State, some by the local authority, <Col N="949" /> and some by riparian owners, was expended on the construction of these works.  The law provides for the issue of a final award and, as the original final award was upset by the court, it is necessary to have this amendment so that the district may be treated in the same manner as districts similarly constructed under the 1925 Act.</P>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>We are resisting this amendment, and I am going to argue against it on two lines.  I will deal with it first so far as County Limerick is concerned, and later on I shall speak on the matter in a more general way.</P>
+      <P>It might be as well if the House had some little idea of what happened in the County Limerick which induces the Parliamentary Secretary to bring in this extraordinary amendment.  I have been in this House for some 20 years, and never in any piece of legislation have I come across an amendment so far-reaching, and directing itself so definitely, even by name, to a past item, as this amendment.  The history of the Mulkear Drainage Scheme is something like this.  Somewhere about 20 years ago the village of Cappamore in the County Limerick was flooded to such an extent that lives were in danger. In fact, one or two lives were lost, and there was an agitation by the villagers of Cappamore to have some action taken to save the village.  That agitation went on for some time.</P>
+    </Speaker>
+    <P>Immediately I became a Deputy I was pestered, like other Deputies, by the residents of Cappamore, to appeal to the Government, to local bodies, or indeed anywhere, in order to get the conditions prevailing in Cappamore through flooding, relieved.  The county council in Limerick were approached, but they could not see their way to do anything; they said they had no machinery.  I raised the matter in the Dáil, with very little effect, and I remember saying at the time&mdash;I have not the actual words&mdash;that surely, if there were lives in jeopardy in this country, if a little village was in danger of being swept away by floods, it was the duty of someone, either on local bodies or in the Government, to provide a <Col N="950" /> remedy.  Eventually, the Press took the matter up.  There were columns in the papers about the disappearing village, and by and by the Government and the county council and the Board of Works came together and they instituted a drainage scheme the primary object of which was to relieve the village of Cappamore.</P>
+    <P>I can say quite definitely that nobody&mdash;the Board of Works, the members of the local council, or any of the residents in the portion of Limerick concerned&mdash;believed that a small drainage scheme, affecting a part of that river, could be rightly described as comprehensive.  Most of us who knew anything about the Cappamore river knew that any piecemeal scheme attempting to drain a portion of that river without dealing with its outlet could not possibly lead to a lasting improvement so far even as the ordinary riparian owners were concerned.  Anyhow, the scheme was put into operation. It would never have been carried through were it not for the danger of lives being lost at Cappamore.</P>
+    <P>When the scheme was prepared it was estimated by the Board of Works that it would cost £22,000 odd, of which they would subscribe as high a proportion as they subscribed to any scheme&mdash;50 per cent.&mdash;and the county council would contribute 36 per cent. The Board of Works were to pay £11,425 and the county council £8,302, and the balance of £3,000 odd was to be borne by the riparian owners &mdash;that is, the farmers on the banks of the river whose holdings, it was claimed, would be improved by the drainage.</P>
+    <P>Eventually the scheme was completed&mdash;as the Board of Works contended&mdash;satisfactorily. The local council did not agree with that contention. They said the scheme was incomplete, that it was not well done.  I believe that at that period the Board of Works had some improvements made on the scheme.  The whole thing went on for years until ultimately the cost imposed by extensions of the scheme increased considerably.  The cost was increased from £22,000 to £36,951, or, in <Col N="951" /> rough figures, £37,000.  The liability of the county council was increased by something like £7,000 or £8,000.  It is calculated that under this legislation the county council liability will be increased to £18,475, or an increase of £10,000 over the original estimate.</P>
+    <P>The county council felt then, and feels now, that in reluctantly agreeing to spend £8,000 primarily for the relief of Cappamore river, they have done all that they could reasonably be asked to do; and they do not care to spend any more money.  They argued that the upkeep of the river would be expensive in any case and that the proposed estimate of £500 odd per year for the maintenance of that river would not be at all sufficient to maintain it in a condition that would even relieve the village.  Notwithstanding the resistance of the county council, the Commissioners of Public Works prepared to issue their final award.  We had deputations one after another to the present Parliamentary Secretary's predecessor and eventually to the Parliamentary Secretary himself, with no particular result.  Law proceedings were then instituted by the county council to resist the issue of final award.  Even up to the hearing of the case, however, every effort was made by the county council to settle the matter without appealing to the law.</P>
+    <P>A very short time before the case was heard there was another deputation to the present Parliamentary Secretary, accompanied by the Deputies for the county, who argued the case as forcibly as they could.  They were willing and anxious to settle the case out of court, if it could be so settled and in regard to the £8,000 they had agreed to expend &mdash;whatever the result of the action&mdash; they were prepared to forego it.  They submitted to the Parliamentary Secretary that, now that a new Drainage Bill for the whole of the country was being considered, it was within the province of the Parliamentary Secretary to put some sub-section in the Bill to get over the difficulty, as it appeared to them and to him.  The Parliamentary Secretary could not see his way to do that, and the action went on.</P>
+    <P>It was tried in the High Court, which <Col N="952" /> held with the county council and gave a verdict in favour of the county council; so, as the Parliamentary Secretary said a moment ago, the matter lies now &ldquo;in the air.&rdquo;  No final award has been issued, or can be issued in the present circumstances.  The county council contend, even now, that the scheme is not well done.  If this amendment is carried, of course, they will have to accept a scheme, willy-nilly&mdash; judge's verdict or no judge's verdict.</P>
+    <P>Most of the agitation went on in the years when the county council was an ordinary county council, before the managerial system.  We have now a county manager who, I may say, is imbued with great commonsense and integrity.  He is one of the best county managers in Ireland and I am glad to say that, whatever pressure a county manager may be subject to, he has backed the county council in regard to this award.  When it was issued, a special meeting was held in Limerick to protest against it.  Amongst other things, the manager said that &ldquo;it would mean an increase on the ratepayers of the county of £10,000 and a great deal extra for maintenance.  More money would have to be expended if the scheme was to be made effective as, in its present condition, it was of very little benefit&rdquo;.  These are the words of the Limerick County Manager, not mine.</P>
+    <P>The two councillors who live nearest to the Cappamore river and village also spoke.  One of them, Mr. Ryan, who lives almost in the village said that he agreed with what had been said and, in regard to the statement that £500 a year would cover the maintenance costs, in his opinion it would take that sum to repair one of the existing breaches in the embankments. Another councillor adjacent to Cappamore said that the position was worse to-day than ever before, that the conditions were so bad that they did not know what would become of the people, who were losing crops and whose cattle were in constant danger. He said the whole question would need to have immediate attention.</P>
+    <P>Here we have a case of a scheme which the local council argues is ineffective, <Col N="953" /> completed at a cost far and away above the original estimate, and mulcting them in costs and expenses greater than they ever agreed to pay. They are backed up by the verdict of the High Court in their favour, and we have the Parliamentary Secretary coming to ask the House to-day to annul the judge's verdict and compel the Limerick County Council to take over an ineffective scheme and maintain it in perpetuity.  Was there not another way out of this difficulty?  It would have been possible for the Parliamentary Secretary to include the Mulkear scheme in this Bill as one of the incompleted schemes, as it is an incompleted scheme.  Any money that was expended on the scheme would have been well spent, as when the complete drainage of the Mulkear comes to be taken&mdash;as it will come about some day &mdash;the money expended by the county council, by the Board of Works and whatever the riparian owners have already expended, will have gone and will go in the future towards the reconstruction cost of the complete scheme, as the success of the whole scheme will lie in draining the whole river.  That is roughly the position of the local bodies.</P>
+    <P>This amendment is contempt of court&mdash;pure, naked, unadulterated contempt of court.  If an ordinary citizen were in the same position as the Commissioners of Public Works are at this moment and resisted the verdict of the court, as given in favour of the Limerick County Council, he would be immediately arraigned for contempt of court.  Apparently, what is denied to the ordinary citizen is given to a Government Department.  For my part, I am not quite sure that the action of the Parliamentary Secretary is even constitutional.  I think a citizen or any body of citizens has a right to the protection of the law; just as citizens have to abide by the penalties of the law, they have a right to whatever benefits the law confers.  The only remedy the ordinary citizen has, if he is in difficulty, is to appeal to the courts for the interpretation of the law.  I think it is wise sometimes that people should take advantage of that remedy when they are in doubt and apply to the courts to interpret the law for them. <Col N="954" /> I am borne out in that view by a sentence in the learned judge's award in this case.  Mr. Justice Overend, giving his award, stated:&mdash;</P>
+    <P>&ldquo;I may add that it has often occurred to me to be unfortunate that corporations, public bodies, companies and other incorporated bodies, when they find themselves in doubt or difficulty as to the true construction of any statute, charter, memorandum or other document which governs or controls their actions, do not more often seek the assent of the courts before taking some important step.&rdquo;</P>
+    <P>That was the advice of a learned judge of the High Court.</P>
+    <P>What company, what body, what individual will ever again in this country seek the interpretation of the courts of any Act if this House accepts the amendment that we are asked to accept to-day?  As I said a moment ago, this is naked, unadulterated contempt of court.  Nobody denies the right of the Government to amend the law.  Amendment of the law is necessary from time to time, but the citizen is entitled to the benefit of the law as it exists, just as he has to bear the penalty of the law as it exists.  No Government and no court has any right to impose a penalty or deny him the right that he has under the existing law, and to pass an Act denying the citizen that right is, to my mind, unconstitutional. It is certainly immoral, and it is worse than immoral when it is done in a behind-the-ditch fashion as an amendment to a Bill like this.  I do not think that I need argue the matter very much further.  I leave it to the sense of the Deputies of this House whether an amendment of this character should be passed here now, to-morrow, or at any time in this State. Remember that an enactment like this with retrospective effect is in effect penalising in anticipation.  I ask any Deputy has any Minister or the Government the right to say to you or to me: &ldquo;Such and such an act is wrong, and you must be punished&rdquo;? You answer: &ldquo;There is no law to punish me.&rdquo;  The Minister or the Parliamentary Secretary says: &ldquo;I will <Col N="955" /> make a law, and make you subject to the law I am going to make.&rdquo;  Is there any Deputy in this House now&mdash; I hope there is not and never will be&mdash; who will stand for that?</P>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh O Briain Donnchadh O Briain">
+      <NameTxt>Donnchadh O Briain</NameTxt>
+      <P>This amendment in a way is local in its character in so far as it applies to a drainage scheme that was carried out by the Board of Works in County Limerick. It was a scheme which was started in 1933, known as the Mulkear-Cappamore drainage scheme.  There was a good deal of talk and a good deal of agitation about that scheme before it was introduced, and the agitation was accelerated a short time after the scheme was introduced.  The facts of the case are substantially as Deputy Bennett stated.  The Board of Works originally estimated the cost of the scheme to be £22,000.  Limerick County Council agreed to bear its share of that estimated cost, and the county council set about raising a loan of £8,000 odd to provide for their share of the cost.  The Board of Works was to bear 50 per cent. of the cost, and the riparian owners who would benefit were to bear the balance.  As the scheme went ahead, the Board of Works, it seems, found the original estimate would not do the job that it was necessary to do in order to make the scheme anything like a success.  It was eventually found that the Board of Works bill for the completed scheme had reached a figure of £36,000, in other words, nearly £14,000 in excess of the original estimate.  The Limerick County Council agreed to provide its share of the first estimate, but never agreed to the additional expense that was being incurred by the Board of Works.  When the Board of Works set about making a draft award, the Limerick County Council took legal action to prevent the board doing so.  The case was eventually heard before the High Court, and the county council was successful in their legal action.  Now this amendment, as I understand it, is for the purpose of nullifying the decision of the High Court in favour of the Limerick County Council making the draft award of the board null and void.</P>
+    </Speaker>
+    <P>
+      <Col N="956" /> This matter has been discussed a good deal at meetings of the Limerick County Council and in the local Press in Limerick.  I am not influenced, I must say, by a good deal of the hot air that we have had from certain gentlemen, but I do think that in this amendment the Limerick County Council is getting a raw deal from the Board of Works and the Parliamentary Secretary, and that this amendment should not be introduced at all into this Bill.  This drainage scheme, the Parliamentary Secretary will say, was one of a big number carried out by the Board of Works under the 1925 Act.  That is so.  The Parliamentary Secretary may also say that the procedure adopted in the case of the Mulkear-Cappamore scheme was the same procedure that was adopted by the board in all the other schemes. That is probably so.  But this is the only case in which the action of the Board of Works with regard to making this draft award was challenged in the High Court and challenged successfully, and it is not fair and it is not just to the Limerick County Council and to the ratepayers of County Limerick, who are more concerned even than the county council, that this amendment should be introduced into this Bill now for the purpose of nullifying the decision secured in the High Court on behalf of the ratepayers.  As I said, it is the only case that was contested and the county council should be entitled to have the benefit of the decision they secured in the High Court.  The county council's whole case was based on the extra expenditure connected with the execution of this scheme.  As things are now, the expenditure on the ratepayers will amount to £10,000.  The scheme, itself, as I understand it, has not been altogether the failure that it has been made out to be.  It has been reasonably successful but not the success that would be desirable.  It improved and made the position of the village of Cappamore safe.  That was one of the principal reasons the agitation started.  It has done that much, at any rate.  In other respects I understand the scheme is not altogether a great success.  It has brought a good deal of relief all right but it is not true to <Col N="957" /> say as some people have been doing and has been stated at the county council meetings &mdash; and I have the authority of the county council expert, the county surveyor, for this &mdash; that the scheme has been the failure it has been made out to be.  Another difficulty that will arise in regard to this scheme is the difficulty of maintenance and the figure estimated by the Board of Works will not by any means meet the actual cost of maintenance that the county council will have to bear.</P>
+    <P>Now I am asking the Parliamentary Secretary not to proceed with this amendment.  There should be some other way out, and the Limerick County Council should have the benefit of the decision it secured in the High Court.  I do not see why the Parliamentary Secretary could not accept that decision as far as this drainage scheme is concerned and give the benefit that has been secured to the Limerick County Council. I hope that this amendment is not his final word in regard to this scheme and that the ratepayers of Limerick will not be treated unfairly or unjustly as I feel they will be treated if this amendment is proceeded with and given the force of law.  I ask him to drop the amendment and to say that this is not his last word.</P>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>At the outset I desire to congratulate Deputy O Briain on the eminently reasonable and satisfactory statement that he has put before the House on the merits or demerits of this particular question, especially having regard to the fact that he is a member of the party in control.  I congratulate him on the reasoned statement that he has put before the House.  I do not think that I could make any more reasoned appeal to the House than that which has been put before it.  The Deputies from the County Limerick, irrespective of Party affiliations, have been concerned for more than seven years with this question of the Mulkear and Cappamore drainage scheme.  They have unanimously, and with a fine spirit of local patriotism, approached the question from the angle of what was best to be done to get a solution to the drainage problem there.  Vast <Col N="958" /> areas of land are being flooded and one village has been flooded to the detriment of the health of the people. All the political Parties united in a good spirit to see what could be done to relieve the situation.  On several occasions the Deputies from the County Limerick approached the Board of Works and put the case before them. We were all unanimous in our approval of what was done by the Board of Works up to a certain point.  Then the stage was reached when, so far as the banks are concerned, the work done would appear to give much needed relief to the drainage ratepayers in the Cappamore district.  But, suddenly, the banks fell in, and, so to speak, shook hands in midstream.  The county council was then asked by the Board of Works to take over the scheme and maintain it in future as a completed scheme.  The House will not be surprised to learn that it could not agree to do that.  All the Deputies from the constituency walked over the scheme and saw how the banks had fallen in. The position there was worse than it was before.</P>
+      <P>It is hardly necessary to say that in these circumstances the Limerick County Council refused to take over control of the scheme.  They were informed by the Board of Works that they were going to make their draft and final award.  The county council indicated that it was not going to accept that, and told the Board of Works that if they proceeded with their draft and final award they would fight them in the courts.  It notified the Board of Works that it could not take over the uncompleted work. Deputy O Briain has given details of the estimates.</P>
+    </Speaker>
+    <P>The first estimate was £22,000, of which £11,000 was contributed by the State.  The remainder was to be contributed equally by the county council and the drainage ratepayers.  That figure grew to £36,000.  That is the sum it stands at now, with the added costs.  We contend that the job is not yet completed.  The banks are broken and cattle are being swept down from the Shannon.  The suggestions of the Limerick county surveyor, a very competent drainage engineer, were completely <Col N="959" /> set aside.  We were told that the only people competent to do drainage work in this country were in the Board of Works.  All knowledge on drainage work was concentrated there.  The late Parliamentary Secretary, Deputy Flinn, with his officers told us that openly in the Board of Works.  The county surveyor suggested putting in three sand-traps between Bilboa and Cappamore.  Two rivers contribute to make the Mulkear: the Bilboa river, which comes down in a torrent from the mountain, and the other, which is called the Dead river, it flows so slowly.  When they join near Pallasgreen they make the Mulkear.  Suggestions of the local engineer were completely overruled.  The suggestion for the three sand-traps was ignored.  The Board of Works put in their four by four to build up beautiful angles, never contemplating the force of the artillery of the Bilboa river.  As I have said, the banks collapsed.</P>
+    <P>The Deputies of all Parties are anxious to have a drainage scheme there.  The Board of Works, however, took up the attitude that they had a monopoly of knowledge so far as drainage work is concerned and ignored the recommendations of the county surveyor.  With all their tinkering at it the estimates have gone up from £22,000 to £36,900, thereby increasing the cost on the county council, the drainage ratepayers, and their own costs incidentally.  The job is not yet complete.  Surely the Board of Works is no more entitled to claim exemption from liability than a contractor who undertakes to do a job for a private employer and fails to complete it satisfactorily?  Why should the Board of Works hand over an uncompleted job to the Limerick County Council and say they will have to maintain it in the future?  The county council told the Board of Works that they had not completed the job, and, consequently, would refuse to take it over.  On failing to get satisfaction from the Board of Works, the county council sought what is the right of every citizen on any public question, and that is, to have recourse to the courts of the country.  They notified <Col N="960" /> the Board of Works that they were going to seek an injunction against the making of their draft and final award. Notwithstanding that, the board proceeded to make their draft and final award.  That matter was dealt with subsequently in the proceedings before the High Court.  The reference made by Judge Overend is, I think, worthy of going on the records of this House.  I propose to quote from his judgment. The Deputies from the County Limerick represent every section of the community.  We are here trying to carry on a democratic Parliament and to inculcate respect for the laws of the country.  We are now being asked to adopt the amendment of the Parliamentary Secretary which, in effect, is going to annul a decision of the High Court.  Laws have been passed by the Government now in control so that action might be taken against subversive elements in the country.  Are not the members of this House being asked to take subversive action in overruling a decision of the High Court?</P>
+    <P>I will quote only relevant portions from Judge Overend's remarks on this case.  He said:&mdash;</P>
+    <P>&ldquo;The commissioners in this case took a very unusual course, for on the 29th July, 1942, long after this action had been commenced seeking an injunction to restrain the making of a final award, they purported to make the document containing the astounding alterations now before me, without notice to the plaintiffs or application to the court.  I am not apprised of the circumstances under which this step was taken and it may well be that an impasse had been reached in which the commissioners or their advisers came to the conclusion that no other course was open to them.  Be that as it may, the plaintiffs have not been in any way prejudiced, for it is not easy to think of anything more advantageous to them than that the commissioners should have demonstrated under their Seal the extraordinary length to which they were prepared to go in the assumption of power, and their impartial and unhesitating disregard of the right of citizens, the county council, the Minister, and <Col N="961" /> even the State itself.  It is clear upon the evidence that the works which have been done have resulted in very substantial benefit, though not perhaps commensurate with their ultimate cost, and I assume that all the work done was expedient, beneficial and proper to be done pursuant to the scheme and that the sum of £36,951 was expended entirely on such works, as is recited in the final award, but it is also clear that at the date of the inquiry these works were incomplete.  It was proved before the inspector, who was satisfied that there was important work which still required to be done, for instance, the grading of the Cunnagavale and Coolnapisha drains.  In these circumstances the draft award was, as I have already indicated, premature, <i>ultra vires</i> and a nullity and it follows that the so-called final award, of which there was never any draft, which could comply with the Statute, was and is also <i>ultra vires</i> and void.&rdquo;</P>
+    <P>Deputy O Briain has indicated the additional costs involved in the amendment to the ratepayers of the County Limerick.  There is a complete remission of charges on the drainage ratepayers and it is passed on to the county ratepayers at large.</P>
+    <P>Great as that is, I am more concerned with the principle involved of transference to the ratepayers than with the £14,000 to £18,000.  I do not wish that this House, which professes to be and ought to be the protector of democracy in this country, should lend itself, under the guise of a very innocuous-looking amendment introduced by the Commissioners of Public Works, to an Act which to my mind undermines the right to statutory authority in this country.  If we in this House do not show respect for the laws we make, how can we expect other elements in the country to have respect for them?  We have been told that it is not the first time the Dáil has made retrospective legislation.  Two wrongs do not make a right.  If the Dáil has erred in the past in passing resolutions and amendments, or in making decisions here which upset decisions of the courts, that is not a precedent to follow.</P>
+    <P>
+      <Col N="962" /> I warn Deputies to-day, irrespective of Party, that they are asked to do a very serious thing.  The Board of Works, as a Department of State, under the authority of this House, have carried on a certain transaction and have been found guilty before the High Court, and are liable for damages to the County Council of Limerick.  The county council, as a local authority, were particularly entitled to go into court.  The citizens of this country are entitled to go into court.  If the time comes when this House will say that a private individual or a public authority can only go into court knowing that if he wins, the decision will be upset by Parliament, then that day means anarchy in this country.  I am much more concerned with the principle than with the amount of thousands of pounds unduly and unjustly fixed upon the ratepayers of County Limerick, and I ask Deputies seriously to consider before they vote for the amendment introduced by the Parliamentary Secretary to annul the decision of Judge Overend.  If the Board of Works do not agree with that decision, why not take it to the Supreme Court? They should take what is coming to them when they are beaten in the courts.  If they do not do that, I suggest that this country has no right to charge anybody else, whatever their banner, as being guilty of subversive action.  We have played the game. We have protested by way of Parliamentary deputations and, in every way we possibly could, we have argued the case with the Board of Works.  Then we went to the courts and won in the courts, and I ask this House not to upset the decision of the courts of justice.</P>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>For about 24 hours this House has very earnestly discussed in Committee this very comprehensive Bill to deal with national drainage. Deputies who are interested in this work have applied themselves earnestly to the problem without any spirit of partisanship.  There were many big principles involved.  There were many principles in regard to which we found ourselves in violent disagreement with the Parliamentary Secretary, but the one outstanding blot on this Bill is the <Col N="963" /> introduction of this amendment.  We have argued the necessity of putting in essential safeguards so far as the individual and the local authority are concerned.  There is one outstanding proof of that necessity, namely, the introduction of this obnoxious amendment. We have conceded to the Parliamentary Secretary that exceptional powers are necessary for the drainage authority, but having given those extraordinary powers, we contend that there should be very essential safeguards to ensure that these exceptional powers are not abused either by the drainage authority or by any inspector acting on behalf of the drainage authority.  That recommendation was contained in the report submitted by the Drainage Commission set up by the Government.  The Parliamentary Secretary, on behalf of the Government, saw fit to ignore that very important recommendation.  We have fought hard to have those safeguards introduced.</P>
+    </Speaker>
+    <P>Do we believe in democracy?  We hear a lot of talk in this country and throughout the world at the present time about democratic institutions, the right of the individual, the protection of his liberty and freedom, the free exercise and execution of justice.  Is all that rank, blatant hypocrisy, or are we sincere when we speak in that way? Are we going to permit this Parliamentary institution to be prostituted? Are we going to say to the eminent judge who gave a decision between the local authority of County Limerick and the Board of Works that his decision was so much &ldquo;cod&rdquo;, that it counted for nothing so far as this legislative Assembly is concerned?  Is it in the interests of this Parliamentary institution that we should behave in this fashion?  As far as the individual is concerned, judicial decisions must be rigidly and strictly observed, and he cannot with impunity show contempt for judicial decisions.  Are we going to behave in that contemptible fashion we who should set the good example, we who make the laws for the country? Are we going to have contempt for the law?  In our Constitution we provide very elaborate machinery to ensure that the Judiciary will be independent <Col N="964" /> of the executive authority, to ensure that the Judiciary stood in an independent position between the individual and the State, or between one individual and another, so that the individual's interests could be safeguarded, and that, if any individual felt he had a grievance at any time, he could get a strictly impartial decision in the court.  We have argued time and again during the past 24 hours how fundamental that is.</P>
+    <P>Running right through the Report of the Vocational Commission set up by the Government is condemnation of the trend in recent legislation towards bureaucratic control, towards a denial of liberty and freedom to the individual. If we believe in the doctrine about which we talk so much, the preservation of freedom and liberty, the ensuring that justice is done in every case, that an individual shall not be allowed to suffer injustice but will have opportunities of taking his case into court and getting a fair and impartial decision, this House should not be asked to pass such an amendment as this.  Here is a case which was submitted to an eminent High Court judge, who gave his decision.  Not merely is the amendment objectionable in its relation to the particular case, but it contains an objectionable omnibus sub-section, sub-section (5), which says:</P>
+    <P>&ldquo;Every final award made or purported to have been made by the commissioners under the Act of 1925 or under that Act as amended by the Act of 1929 or under any other Act before the passing of this Act (other than the final award purported to have been made by the commissioners on the 29th day of July, 1942, in respect of the Mulkear and Cappamore Drainage Scheme) is hereby confirmed and declared to be and always to have been valid and incapable of being questioned on any ground notwithstanding the invalidity (if any) ...&rdquo;</P>
+    <P>We are to make everything valid notwithstanding the invalidity which existed before.  We are asked to do that by legislative act, to set an example for the people of contempt for the administration of justice in the <Col N="965" /> country.  We do not propose to do it; we will be no party to it; but are Deputies of the Fianna Fáil Party prepared to do violence to their consciences and to prostitute the Parliamentary institution to that extent, to the extent of validating anything that was invalid prior to this?  The sub-section continues:</P>
+    <P>&ldquo;... of the relevant draft award or any discrepancy between such final award and such draft award and notwithstanding, in the case of the final award made by the commissioners on the 9th day of July, 1941, in respect of the Maigue and Loobagh Drainage Scheme, any order of the High Court made after the 18th day of October. 1944, and before the passing of this Act.&rdquo;</P>
+    <P>Retrospective legislation in any sense is contemptible, but surely the most contemptible example in the history of this House is the amendment we are now discussing.  We have been told time and again that the people up in Stephen's Green could do no wrong, that we could trust them in every possible way to exercise justice and fair play when an individual's interests were at stake.  In relation to various provisions in the Bill providing compulsory powers in regard to the acquisition of land and water rights, and in relation to sections which have been thrown wide open to give the people in Stephen's Green absolute arbitrary power, we suggested repeatedly that they are not infallible, that they can do wrong and that the necessary safeguards should be provided by the House.  We were told by the Parliamentary Secretary that they were not essential, that they were a lot of decent men who would be quite fair.</P>
+    <P>Is there any spirit of decency, honesty, fair play or justice in this amendment?  Surely, we should hang our heads in shame when we talk about democracy and liberty and freedom, and when we read such a contemptible proposal as this.  No decent man could stand over it, and I am not surprised that the Parliamentary Secretary hangs his head.  Our Party has discussed this measure absolutely free from politics of any sort.  It was a proposal which was generously subscribed to by every side of the House <Col N="966" /> in an anxiety to shape and mould this piece of legislation in the best interests of the people living in rural Ireland in bad conditions.  It was generously agreed to provide public funds to relieve these people and is it not a pity that, at the zero hour, we should have the introduction of this sort of amendment which inevitably is bound to give rise to heat and to loss of temper? Surely, the Parliamentary Secretary should have considered the matter.</P>
+    <P>I must say that I think the Limerick Deputies have been extraordinarily quiet in this respect.  I am fighting on the principle more than on the detail, but, if it were applicable to my county, I would move heaven and earth, I would go out and agitate all over the country and see whether the people stood for that sort of legislation.  It is time we dropped all our &ldquo;cod&rdquo; talk about democracy and were honest.  If the Department have done wrong, and they have, let them take their medicine as any individual must take it when he gets a judicial decision.  Why should we burk the thing; why should we resist a High Court decision; and why should we, as legislators, be asked to stultify ourselves and to prostitute this first institution of the State in defence of the infallibles in the Department in Stephen's Green?</P>
+    <Speaker pid="MichaelColbert" hpid="Mr. Colbert Mr. Colbert">
+      <NameTxt>Mr. Colbert</NameTxt>
+      <P>Like other Deputies, I regret that the Parliamentary Secretary has decided to take this action in regard to the Mulkear and Cappamore drainage scheme.  It is not the first time we have had retrospective legislation in this House, during either the period of this or previous Governments, but two wrongs do not make a right.  I had hoped that this problem would have been dealt with in some other way, for instance, by including the scheme as an unfinished scheme in the Bill, and thereby making it part of the whole national drainage scheme which is to be operated.  I was a member of the Limerick County Council at the time at which this scheme was initiated, and, as Deputy Bennett has pointed out, what decided the matter for us was mainly the flooding of this village of Cappamore.  Deputation <Col N="967" /> after deputation representing the inhabitants of this village came to us to tell us of the danger to life from the incessant flooding of the village.  There were, in fact, I believe, two lives lost on one occasion.  We thought that the scheme was rather a big scheme for the county council, and that it might involve expenditure beyond the capacity of our ratepayers, but we nevertheless felt that we were under an obligation to the people of Cappamore village particularly, and to various other parties.</P>
+      <P>The estimated cost of the scheme, as has been mentioned, was originally £22,000 odd.  The council's contribution was £8,000, a very generous one in the circumstances. Where the difficulty arose in the first instance was at the inquiry in October, 1936, when the Board of Works' inspector refused to pay heed to the objection raised by the agent on behalf of the Limerick County Council in regard to the unfinished character of the scheme.  Section 14 of the Act of 1925 provided that the commissioners could not proceed to make a final award until the whole work specified in a scheme had been completed.  I was one of a number of councillors who walked along by that river at the time and we were able to see the condition of the works. Deputy Keyes has pointed out that in many cases the banks had slipped in on both sides.  Even from the layman's point of view, we had no difficulty in deciding that it would be bad business for the county council to take over this scheme.  Following the impasse with the commissioners there was further expenditure on the works and the excess expenditure, as pointed out, amounted to £14,000 odd.  The county council's case is that they did not consent to the expenditure of that excess figure and various other parties concerned were not consulted either. That is their case.</P>
+    </Speaker>
+    <P>There was correspondence with the Board of Works.  Deputations were received and an effort was made to settle the matter.  Every effort failed, however, and the next step was that <Col N="968" /> the commissioners proceeded to make the final draft award providing for a total cost of £36,000 odd.  The county council had no option then but to seek to protect their interests in the High Court.  Action was taken in the High Court and the decision, portion of which has been read by Deputy Keyes, was given by Mr. Justice Overend.  I do not agree at all that the decision of the High Court would solve the problem that existed.  But I do say that, by a reasonable approach on both sides, a solution could have been arrived at.  The county council, not having consented to the excess expenditure, felt that that portion of the expenditure should be borne by State funds and, if that were done, I think it would end the difficulty.</P>
+    <P>I appeal to the Parliamentary Secretary, together with other Deputies, to withdraw this amendment and to introduce on the Report Stage some other proposals that will have respect for the decision of the High Court and that will also meet in some way the rights of the Limerick County Council and the ratepayers of County Limerick.  The Limerick County Council are merely the custodians of the rights of the people whom they represent and, if the present course is proceeded with, I can see that council presented with very great difficulties. Their authority and influence in the county will be weakened at a time when it is a vital matter that they should be strengthened.  It would be deplorable, to my mind, if a situation like that were to arise.</P>
+    <P>The ratepayers of Limerick will be faced with largely increased payments in future to meet schemes of one kind or another, and the cost of these schemes which is to be the responsibility of the local authority, as well as this scheme in its unfinished state which we are discussing here will place a further burden on the council also. The maintenance of that scheme is to be the responsibility of the council under the Bill and, if it is handed over in its present state, the maintenance cost will be very much greater than has been maintained.  I therefore appeal to the Parliamentary Secretary to withdraw the amendment and to deal <Col N="969" /> with the matter in an equitable fashion on the Report Stage of the Bill.</P>
+    <Speaker pid="EamonnCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>In introducing this amendment, the Parliamentary Secretary merely stated that the purpose of the amendment was to set aside the draft award prepared by the Commissioners of Public Works and to enable the final award to be made.  He advanced no further reason.  But it is quite clear from the amendment as drafted that there is a further purpose and that is to prevent any local authority which has a similar grievance against the Board of Works from bringing that grievance before the courts of this country.  I understand that a similar difficulty exists in Limerick over the drainage of the Maigue and Loobagh rivers.  It is clear that sub-section (5) of this amendment has been drafted to prevent the Limerick County Council from taking action as they did in the case of the Mulkear scheme.  Therefore, you not only have an amendment designed to circumvent and set aside the decision of the High Court, which in itself is very reprehensible, but you have also an amendment designed to prevent any county council, and in particular the Limerick County Council, from ventilating any grievances which they have in respect of any scheme.</P>
+    </Speaker>
+    <P>This is a type of legislation which, I think, should be condemned from all sides of the House.  In the first place, it is calculated to bring the courts into contempt.  In the second place, we here are setting ourselves up as an authority not alone to pass laws, but to interpret the law and to execute the law.  We are legislators, we are judges, and we are executioners all in one.  I think that that is the principle that has to be attacked on this amendment, irrespective of what imposition it may place on the local authorities concerned.  If nothing else was calculated to cause us anxiety and fear about the administration of this measure, this amendment certainly emphasises all the fears which we have expressed throughout the passage of this Bill, because here you have a State Department, which quite obviously has forfeited the confidence of the local authorities, making a certain <Col N="970" /> bungle, being brought to the High Court of the land, the award being set aside, and coming to the House in these circumstances to trample not only on the local authority, but on the High Court decision.</P>
+    <P>Our Constitution in Article 15 (5) says that no Act shall be passed by this House which is calculated to make anything an infringement of the law which was not so at the date of its commission, and this provision has invariably been interpreted to apply merely to the criminal law.  But I have grave doubts whether in this Bill the Parliamentary Secretary has not overstepped the constitutional limits.  I have grave doubts of the constitutionality of this Bill.  I believe it is repugnant to Article 15 of the Constitution for, in effect, it imposes a penalty of £10,000 upon the ratepayers of the County Limerick and anything which, in essence, imposes a penalty, offends against Article 15.  You are declaring to the people of Limerick that what they did, though it was upheld by the High Court of Éire, was wrong at the time that they did it, and you are penalising them to the extent of £10,000, though the High Court has decided otherwise.  I say it is definitely repugnant to Article 15, because it imposes a penalty and it is, in essence, <i>ex post facto</i> legislation, which has been a principle fought against in every country in the world. All written constitutions, or nearly all written constitutions, provide against <i>ex post facto</i> legislation of this kind. It has another unsavoury feature.  It is not only <i>ex post facto</i> legislation, retrospective legislation, but it is <i>ad hoc</i> legislation of a very obnoxious character.</P>
+    <P>I could quite agree with the Parliamentary Secretary if he had confined his provisions to sub-section (5) so as to prevent anything of this kind happening in the future.  I could quite agree with that, but when you get the position that you are not only preventing something of that kind happening in the future, but that you are actually setting aside the decision of the High Court in a particular case, then you have a very obnoxious principle introduced.  If this principle is extended, it will simply mean that any <Col N="971" /> citizen who wins an action against a State Department will find himself circumvented by retrospective legislation, and if Government Departments feel that they can administer the affairs of State in these circumstances, always with the possibility that they can get away from their difficulties by inserting a section or sub-section in some particular measure that is before the House, then we get a very sorry position in this country in which a State Department will override all authorities, all courts, and, in fact, all Acts.</P>
+    <P>In this particular case you have a consensus of opinion against this action of the State.  The county manager, the members of the Fianna Fáil Party in this House who are also members of the Limerick County Council, the Fine Gael and Labour members, are all at one on this issue.  They have expressed themselves publicly as being dead against it, and if ever there was a case where a section should be withdrawn, surely you have one here.  Is the Parliamentary Secretary going to violate the consciences of these men by compelling them to vote, not only against their own consciences on this measure, but against the interests of the constituents who sent them here?  I think it is reducing democracy to a farce when we get this position.  I think it is also reducing the courts to a farce.</P>
+    <P>Perhaps the Parliamentary Secretary is imbued with some of the constitutional spirit of the late Bagehot, one of England's constitutional authorities.  Once upon a time, when he was describing the supremacy of the British Parliament, he said that Parliament could do anything except make a man a woman or a woman a man.  What he had in mind was that, except to create physical or legal impossibilities, Parliament could do anything; it was paramount.  The State, in other words, was paramount and could override all authorities, all past legislation and could always be supreme.  But remember, that Bagehot was speaking of an unwritten Constitution which was not hedged around with constitutional restrictions, whereas <Col N="972" /> here we have a written Constitution which, to some extent, restricts the power of the Legislature.</P>
+    <P>I am not concerned with what is imposed upon the local ratepayers by this particular amendment, but I am concerned with the introduction of this principle, because throughout the passage of this Bill we have argued that bureaucracy will run amok, that the local authorities will be ignored, and that the voice of the local ratepayers will be silenced, as it is silenced by this Bill.  In practice, under this Bill when it comes to be administered it will be the officials of the local authority and the Board of Works who will implement it.  I can see no case where a county manager or a county surveyor will refuse to see eye to eye with the officials of the Board of Works, particularly if this amendment is passed into law.  All these functions under the drainage scheme will be executive functions under the County Management Act and the county council, as such&mdash;that is, the elected representatives of the people&mdash;will have now no voice whatever in these matters. Year in and year out they will simply have to strike the rate for the amount of the maintenance cost or find themselves abolished and commissioners put in their places.</P>
+    <P>When you look at it in that light the powers under this Bill are very drastic, and it is with the County Management Act in the background that I criticise this amendment, because here you have a definite case of a bungle having been made.  The Board of Works were definitely culpable in this matter, at least to the extent that they did not put the sand traps into the Mulkear scheme.</P>
+    <P>I understand that the result was to pile additional expense on to the local ratepayers.  Similar bungles may take place in the future, but there will be no rights whatever.  The county council will get its bill and it will either have to take the risk of abolition or strike a rate for the cost.  In other words, the Board of Works becomes judge, jury and high executioner.</P>
+    <P>If that is the principle upon which <Col N="973" /> we are to function in this country, we are rapidly approaching the totalitarian system.  This drift to give powers to officials took place in other countries&mdash;in Germany and Italy&mdash;and, in every case where power was transferred from the elected representatives of the people to bureaucrats there followed the dire results we find in Germany and Italy to-day.  I do not wish to detain the House very much further on this matter, but would like to read what the county manager said when this matter was discussed before the Limerick County Council:&mdash;</P>
+    <P>&ldquo;It would appear to me that Government Departments will not trouble themselves with such scruples, when they feel confident that retrospective legislation will be introduced to cover up their errors.&rdquo;</P>
+    <P>That is the kernel of the matter.  A mistake has been made in a State Department, at the expense of the ratepayers of a county, and we are asked to cover up that mistake here by supporting the Parliamentary Secretary in carrying amendment No. 158.</P>
+    <P>In view of the fact that everybody in Limerick of every shade of political opinion has voiced a united opinion in the Limerick County Council on deputations to the Parliamentary Secretary and in this House, I would ask him in all seriousness, not to divide the House on this amendment, but to withdraw it and find some alternative for the Report Stage.  I suggest that he withdraw all except, perhaps, sub-section (5), as I think he has enough of his legal pound of flesh in that sub-section, without forcing the other provisions on the House.</P>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>When this Bill was introduced, the House accepted it as a measure designed to deal with the drainage problem of the country.  As such a Bill, all Parties gave it a Second Reading without a division.  It was only when the Committee Stage was reached that Deputies who considered the Bill might be improved by amendments opposed in any way the Bill as it stood.  In their opposition on various sections, they in no way withdrew the general consent and approval which the Bill met at first.</P>
+    </Speaker>
+    <P>
+      <Col N="974" /> It was introduced in the summer and, subsequent to its introduction, a High Court decision was given which affected a certain river under the control of the Limerick County Council.  After that decision was given, the Parliamentary Secretary introduced this amendment.  It is quite likely that, if the decision had been deferred until a later stage, no amendment would have been introduced and the Bill might have become law before an amendment became possible.  It is a nice question to ask whether or not in future, when decisions are given in the courts in this country, retrospective legislation annulling those decisions is to be introduced.</P>
+    <P>So far as I am concerned, I oppose this amendment on principle, rather than on the detail as it affects Limerick County Council.  I sympathise with the Limerick Deputies, in the injustice being done to their constituents, and I sympathise particularly with the Limerick Deputies who are placed in the invidious position of having to vote against the interests of their constituents.  At any rate, we have yet received no assurance from any of them that they intend to vote against the amendment&mdash; except in the case of the Deputies who are outside the Government Party.</P>
+    <P>When this amendment was introduced, the Parliamentary Secretary spoke a few words in a rather nonchalant fashion, saying it was necessary as a result of the High Court decision. So far as he went, that was perfectly true.  But surely, an amendment which strikes at the very root of the institutions of this State, and the respect due to them, deserves a fuller explanation from the Government than a paltry few phrases to the effect that it is introduced merely because a High Court decision involved the Board of Works in expenditure which they might well have met if they discharged their obligations more effectively?  Whether or not the Board of Works was liable because of their own fault, or because of previous legislation it is surely a most undesirable principle that, in future&mdash;if we are to take this Bill as an example&mdash;any decisions of the courts on any matter will give no <Col N="975" /> guarantee to the individual or the corporation that takes action.  A person may take action on his own behalf, he may apply to the court to secure a decision, or to interpret the law, but if that decision in any way mulets or affects a Government Department, then so long as Fianna Fáil is in power, that individual or corporation will have no guarantee that the Government will not introduce retrospective legislation, annulling and bringing into contempt the decision of the court.</P>
+    <P>It has become customary in this country to talk glibly about democracy. I am not a devotee of democracy or dictatorship.  I believe that both may suit in certain conditions, and that where the one is suitable the other might be equally unsuitable.  However, when you have the Head of the Government going around making dishonest speeches about democratic institutions, about the faith in democracy, about the rights that the citizens of this country have under democracy, and see the amendment introduced by the Parliamentary Secretary and recommended to this House in a few insignificant sentences, then my faith and my belief in democracy&mdash;and I am sure the belief, the faith and the hope of any citizens who think that, under the law, they have a right to protection&mdash;will be gravely shaken.</P>
+    <P>As Deputy Coogan mentioned, it is quite possible that this amendment is contrary to the Constitution.  The Government were equally certain, on the introduction of the Education Bill, that it was not contrary to the Constitution; but, on its submission by the President to the Supreme Court, the Government's knowledge of law and belief in themselves, so far as that Bill was concerned, were considerably altered.</P>
+    <P>Now, the sum of money involved here is not very considerable, generally speaking, though it is considerable so far as Limerick is concerned. The real question here is the principle whether the Legislature and its decrees, when they are enacted, are to <Col N="976" /> be supreme and whether the courts, when they give a decision on a matter, are to be supreme; or whether they can be annulled by a decision, not even brought in as a Bill, but stuck in in a kind of back-door method, as an addendum to a Bill after it has been introduced.</P>
+    <P>If the Fianna Fáil Deputies, some of whom give so much lip service to democracy and to the freedom under this Constitution, have any respect for it they will vote against this amendment. Mere talk will not avoid their responsibility to their constituents to see that justice is done and to see that no enactment or amendment introduced in this House results in injustice to the citizens.  The citizens have only certain safeguards.  They have, first of all, Parliament, the Executive, and the courts.  If these safeguards are allowed to be swept away it is only a short step to anarchy.  Once the step is taken time is not long passing before it becomes a general degeneration. If we want to secure respect for public institutions, public order and the law, it is our duty to make our legislation as just as we possibly can, and, having enacted it, to ensure respect for it, by force, if necessary.</P>
+    <Speaker pid="DanielBourke" hpid="Mr. D. Bourke Mr. D. Bourke">
+      <NameTxt>Mr. D. Bourke</NameTxt>
+      <P>It was my intention to congratulate the Parliamentary Secretary on this Drainage Bill but I must confess that I cannot congratulate him on this amendment in connection with the Mulkear drainage scheme.  As other Deputies who are in the Opposition and Deputies of our own Party have spoken and condemned the Parliamentary Secretary, I also do so on behalf of the ratepayers of County Limerick for introducing this amendment to annul the decision of the High Court.  I would strongly advise him even at this late moment to withdraw the amendment, and perhaps he may see a way out with the aid of the Minister for Finance to aid the Limerick County Council in some other manner.  I heard Deputy Cosgrave and other members of his Party strongly condemning the Parliamentary Secretary <Col N="977" /> for introducing retrospective legislation, but I would remind them that when Cumann na nGaedheal were in office they had no hesitation in introducing retrospective legislation.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I was not here then.</P>
+    </Speaker>
+    <Speaker pid="DanielBourke" hpid="Mr. Bourke Mr. Bourke">
+      <NameTxt>Mr. Bourke</NameTxt>
+      <P>The Deputy was not here undoubtedly.  I would ask the Parliamentary Secretary not to follow that bad example and to withdraw the amendment.</P>
+    </Speaker>
+    <Speaker pid="MartinRoddy" hpid="Mr. Roddy Mr. Roddy">
+      <NameTxt>Mr. Roddy</NameTxt>
+      <P>I cannot quite see how the Parliamentary Secretary will have the temerity to proceed with this section in view of the united opposition of all the Deputies from County Limerick.  What intrigues me, after listening to the discussion, so far as the position in which the members of the Limerick County Council will find themselves should this section become law, is this: The judge apparently was satisfied, the members of Limerick County Council are satisfied apparently, and all the people in County Limerick interested are satisfied, that this scheme has not been fully completed. What aggravates the situation is that the section which the Parliamentary Secretary has asked the House to pass is, goodness knows, bad enough, but the position is rendered worse by the fact that the Parliamentary Secretary is taking power to issue a final award to the members of Limerick County Council for a scheme that has not been completed. The position would not be so bad, nor would the offence be so great in the eyes of the members of the House if the scheme had been completed, but on the findings of the High Court judge the scheme, it appears, has not been completed and, notwithstanding that fact, the Parliamentary Secretary proposes to ask this House to give him authority to issue a final award to members of Limerick County Council to bear the cost of a fully completed scheme.  It would be interesting to know what will happen in the future. Assuming the section is passed and becomes the law of the land what then will be the position of Limerick County Council?  When effect has been given to this section and when the Limerick <Col N="978" /> County Council has met the full demand on them by the Board of Works, the Drainage Commissioners may come along later on, and, if they do not think that the Mulkear river has been maintained in a condition which they consider to be suitable and adequate, they may insist on the county council spending a further large amount to bring the maintenance of the river up to the standard required by the commissioners.</P>
+    </Speaker>
+    <P>The members of the Limerick County Council and the people in Limerick who are affected find themselves in this extraordinary position that they will be completely at the mercy of the Drainage Commissioners and they will have no redress whatsoever because this section, if it becomes law, gives the Drainage Commissioners complete and absolute power to do whatever they like in regard to the scheme in the future.  It may be that the cost of the final award will be, as Deputy Keyes said, £36,000, but it may be that two months after the county council have met and paid that bill the Drainage Commissioners will come forward again and say that the Mulkear river has not been maintained in the way and in the manner required by the Drainage Commissioners.  They may insist that the members of Limerick County Council meet another bill of £36,000 for the purpose of bringing the maintenance of the river up to the standard required by the commissioners. That is the position.  I have said already that in this Bill the Drainage Commissioners surrounded themselves with all kinds of safeguards. The unfortunate individuals down the country and the members of the local boards affected have no safeguards whatsoever.  In view of the attitude of the Drainage Commissioners in trying to force through this House a section of this character, what attention is likely to be paid to complaints made to the commissioners by members of local bodies or aggrieved individuals down the country, when drainage schemes are being carried out?  What sympathy, what respect are their complaints likely to receive from the Drainage Commissioners especially when the commissioners are <Col N="979" /> insisting that they be given the extraordinary powers which this section will give them if it becomes the law of the land?  Listening to the discussion I was amazed to hear of the efforts made by the Deputies for Limerick to bring about some kind of understanding between the Commissioners of the Board of Works and the county council in regard to this scheme.  According to Deputy Keyes, for the past seven years they have been approaching the board with the object of bringing about some understanding or settlement in regard to this particular drainage scheme. One can infer, because of the attitude taken by the Drainage Commissioners, that it was not possible for the Deputies of County Limerick to come to any adequate or reasonable understanding with them.</P>
+    <P>One can only assume that, because of the bureaucratic attitude of the commissioners and officials of the Board of Works, it was impossible for them to make any reasonable arrangement in regard to this particular scheme.  Because of that unreasonable attitude, the Limerick County Council was eventually forced into the courts and got there a decision from Judge Overend some 12 months ago, or even more recently.  After the Deputies from the County Limerick and the members of the county council had utilised every opportunity of arriving at some reasonable understanding in regard to this particular scheme, they were forced, because of the bureaucratic attitude of the Board of Works, to go into the courts in order to get some redress.</P>
+    <P>Now, the Board of Works proceed to set aside that court decision, thereby leaving the members of the county council in a worse position than they were in even at the time they were trying to negotiate a settlement.  As long as I have been a member of the House I have never heard of such an extraordinary set of circumstances, or even of one case remotely resembling this particular one.  It would appear that at every turn the Deputies from the county and the members of the county council were thwarted by the officials of the Board of Works.  Apparently, <Col N="980" /> the latter would not listen to the reasonable proposals that were put before them or come to any compromise. Eventually, the county council was forced to take the case into the courts.  Now that it has succeeded in getting a favourable decision there, the Commissioners of the Board of Works ask this House to give them the power to set aside that decision.  It is a most amazing state of affairs.  I do not think any member of the House has ever heard of a case surrounded with so many extraordinary circumstances as this one.</P>
+    <P>I agree with Deputy Bennett that the Parliamentary Secretary, in having the audacity to come and ask the House to pass a resolution of this character, is doing something which is equivalent to contempt of court.  In the preamble to our much-boasted new Constitution, we ask God to witness the fact that we will carry out to the very best of our ability the conditions in that Constitution, one of the most important of which is that the individual is free, if he feels aggrieved, to appeal to our courts for justice.  The Parliamentary Secretary and all the members of his Party gave that solemn undertaking when they voted for the Constitution.  But to-day, in the most audacious manner, they ask the House to set aside that undertaking.  They ask Deputies to deny, notwithstanding the asseverations which they made on that occasion, that the ordinary humble citizen has no such right as that which is set out in the Constitution.</P>
+    <P>Another thing that has emerged from the discussion is that it appears that local opinion in Limerick was completely ignored.  After all, the Limerick example may be a headline for what will happen under this Bill when it comes to be operated.  It may happen that the commissioners or engineers of the Board of Works, when carrying out schemes under this national drainage Bill, will also ignore local opinion, and especially local engineering opinion. In this particular case it appears that the views of the local engineer were completely ignored, as well as the views and opinions of members of the Limerick County Council.  The engineers of the Board of Works refused <Col N="981" /> to listen to any opinion at all in the County Limerick.  That is what we have heard here to-day.  The result is that huge sums of public money were wasted and squandered.  There appears to have been extravagance right along the line in order to bolster up that incompetency and inefficiency.  In that set of circumstances we are being asked by the Parliamentary Secretary to give our sanction to legislation such as this.  It is quite conceivable that something of the same kind may happen when this Bill becomes law.  It may be that, in regard to some future scheme, the engineers of the Board of Works may refuse to listen to local opinion or to local engineers.  I hope it does not happen.  But if it should, and if there is the same degree of inefficiency and of extravagance as there has been in this particular case, then the House will be faced with a situation somewhat similar to that which is before us to-day.</P>
+    <P>It is quite obvious that this question of the Mulkear drainage has raised some very strong and vigorous expressions of opinion in the County Limerick.  It is perfectly obvious that all the T.D.s from County Limerick, regardless of politics, are united in their demand to the Parliamentary Secretary to find some other way out of his difficulty rather than by asking the House to pass an amendment of this character.  In view of that demand, and of the fact that there is such vigorous opinion in the County Limerick on this subject, I think it is due to the people of that county, and above all to the Deputies from the county, that the Parliamentary Secretary should meet their wishes and devise some other method of dealing with this case.</P>
+    <Speaker pid="DanielMcMenamin" hpid="Mr. McMenamin Mr. McMenamin">
+      <NameTxt>Mr. McMenamin</NameTxt>
+      <P>I feel rather loath to interfere in this matter.  I have already said some very hard things about this Bill.  What I am amazed at is that the Deputies who have spoken should ask the Parliamentary Secretary to find some other way out of this. In my opinion, there is a very simple way out, the way that the ordinary citizen has, and that is to obey the judgment of the court.  That is the way to settle this matter.  I <Col N="982" /> am horrified, humiliated and mortified when I think of certain aspects of life in this country, of certain things that are going on according to the evidence given in cases that we read in the newspapers, that a Government Department should come into this House with an amendment of this kind. What answer have we to give to the law-breaking elements in this country when we do this?  Do those who have proposed this amendment think of what they are doing?  There is the old saying that those whom the gods wish to destroy they first drive mad.  When one thinks of the history of this country, should not the most scrupulous care be taken by those in positions of authority to conform to the law?  I have already said that in my opinion some parts of this Bill are <i>ultra vires.</i> In this section we are blatantly parading the fact that this House is going to break the law.  I am not concerned about the amount that is involved in this case.  I do not mind whether it is one farthing or £1,000,000.  That is not the issue.  The question is: are we going openly and blatantly to defy a decision of the courts of this country? That is the issue.  We ask poor misguided creatures who are supposed not to have the direction and the conditions that we have to obey the law.  We use the force of the State against them, to crush them, and we set this example ourselves.  Is it any wonder that one reads the evidence that is given at certain trials in this country?  Is it any wonder that the condition exists?  Why should there be any respect for the law in this country, why should there be any respect for the laws made by this House, when we trample, first, on the Constitution, and then, on the decisions of the courts?  A Government Department puts that amendment before Deputies in this House and asks them to enact it.  It horrifies me.  It certainly comes very badly, in my opinion, from the present Government. They are the one Party that should take scrupulous care that every step of theirs is in conformity with the law and with the Constitution, in view of the headlines they set in this country, from which they now try to turn away. Every citizen of this State, irrespective of the position he occupies, should <Col N="983" /> take scrupulous care that he sets a good example of obedience to the law.</P>
+      <P>Here we are blatantly upsetting a judgment of the courts.  I am not concerned about the amount of money.  I do not mind whether it is one farthing or one million pounds.  What amazes and astounds me is that a Government Department hands that Bill to the Parliamentary Secretary and says to him: &ldquo;If you alter one comma, we will deal with you.&rdquo;  When they get the Bill, when the bad example is set, he will be thrown in the ashbin, and they will have no more respect for him than they have for the dust on his boots. But he will have set the bad example. He will have been the tool in setting the example of lawlessness in this country, justifying the lawless elements that already exist&mdash;far too many of them.  One is appalled by this amendment that is so blatantly introduced. There is no subterfuge.  It is put blatantly before the House, and we are asked to vote for it.  Is this House going to do that?  Deputy Ryan said he will be bound by his Party ties&mdash;bound by Party ties to break the law, to commit a wrong, and defy a decision of the courts of this country.  Good luck to him.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>Although I am not familiar with the details of the position which prevails in Limerick so far as drainage is concerned, I cannot allow this opportunity to pass without voicing my protest against this amendment. I regard the amendment as audacious, and as one fraught with the gravest danger, an amendment which sets a bad example to all the lower elements in this country.  One cannot understand why, in this young nation, an amendment of this kind should be submitted by a Government which calls itself democratic, a Government at whose head is a man who spends the whole year going around the country indicating that we are the most democratic State, and who, when it suits his purpose, as it did in May last, tells us that he must go to the people, that he must get the views of the people on various subjects.  On this occasion he permits a Parliamentary <Col N="984" /> Secretary in his Government to flout the wishes of the people.</P>
+      <P>I have been a member of Dáil Eireann for 23 years, and I have never before heard such an appeal from all parts of the House as there has been on this occasion.  I am wondering why, in face of that, the Parliamentary Secretary is so adamant.  I am wondering if the amendment proposed to-day has been submitted to the Government. I am wondering are the Government beginning to lose their heads, are they beginning to lose respect for the people who sent them here?  The Parliamentary Secretary seemed to me to be ashamed of the attitude he had to take up in proposing the amendment.  Somebody said that this amendment was <i>ultra vires.</i>  I agree.  I suggest also that it is extraneous in so far as the Bill is concerned.</P>
+      <P>This Bill was introduced on two occasions.  The object of the Bill is to make a serious effort to have drainage carried out.  One would think that in introducing a Bill of this kind the Government would have in mind what they were going to do in future rather than that they would take advantage to bolster up bad engineering because, as far as I am able to infer from Limerick Deputies, that is the position in Limerick. What would be the attitude of the Government if a citizen, a criminal, took up an attitude similar to the attitude the Parliamentary Secretary takes up on this matter?  I can imagine the indignation which would be voiced by the Taoiseach should any ordinary individual adopt such an attitude.  I do not want to preach but I suggest to the members of the Fianna Fáil Party who find themselves representing Limerick on this occasion that, in order to save democracy, their obvious duty to the people of Limerick is to carry their protest&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh O Briain Donnchadh O Briain">
+      <NameTxt>Donnchadh O Briain</NameTxt>
+      <P>The Deputy need not tell us at all.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>&mdash;&mdash;into the Division Lobby.  That is the only way to get this Government to realise that we are jealous of democracy, that we want <Col N="985" /> democracy carried out as it should be carried out, that we are not going to permit a Bill of this kind to be used for the purpose of upsetting a decision of the courts, a decision given by a judge who was appointed by the Government. I would ask the Parliamentary Secretary, even at this late stage, to take cognisance of what has been said by members of every Party in the House and, in the interests of democracy, to withdraw the amendment.  I suggest that every vote given for this amendment is a nail in the coffin of democracy.  I hope democracy will be safeguarded and that those who feel deep down in their hearts that wrong is being done to democracy in this country will go into the appropriate Division Lobby to save it.</P>
+    </Speaker>
+    <Speaker pid="RobertRyan" hpid="Mr. R. Ryan Mr. R. Ryan">
+      <NameTxt>Mr. R. Ryan</NameTxt>
+      <P>As representing the Mulkear area, I must voice my protest against the amendment as introduced by the Parliamentary Secretary. About four or five weeks ago, we had a deputation to the Parliamentary Secretary and he did not indicate to us at that interview that he contemplated bringing in an amendment nullifying the decision of the High Court.  Much has been said this evening as to the <i>pros</i> and <i>cons</i> of that amendment and I do not intend to prolong the discussion but I certainly say that I feel my position.  I feel the painful necessity of having to vote for the amendment. I signed a Party pledge.  Of course, we have to face our obligations but I feel keenly having to vote against the interests of my constituents.  I should like to ask the Parliamentary Secretary to consider the withdrawal of the amendment which appears to be without favour in any part of the House.</P>
+    </Speaker>
+    <Speaker pid="DenisHeskin" hpid="Mr. Heskin Mr. Heskin">
+      <NameTxt>Mr. Heskin</NameTxt>
+      <P>I support the views expressed by the various members of the House, particularly members from Limerick, of all Parties, who have demonstrated this evening, in one voice, their objection to this amendment. In order to make the situation quite easy for everybody, I ask the Parliamentary Secretary to consider withdrawing this amendment.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>Some time prior to the High Court decision to which many <Col N="986" /> Deputies have referred, I met, at their own request, a deputation of Deputies of all Parties from County Limerick, and during the discussion which took place between us, every aspect of this matter was examined.  Every point of view which could be expressed upon the merits of the scheme, the alleged incompetence of the Board of Works, the alleged lack of co-operation on the part of the Limerick County Council, and indeed every possible aspect of this matter was discussed.  I am now accused of failing to make the attitude and the position of the Board of Works known in advance.  I think I can claim &mdash;it will not be denied by those who were present as representing the people of Limerick on that occasion&mdash; that I did say to them, and this was prior to the decision of the High Court: &ldquo;This Mulkear and Cappamore scheme must go to award,&rdquo; and that I did say to them: &ldquo;It is quite possible that the High Court may decide in your favour, but, still, this Mulkear and Cappamore scheme must go to award.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>That is what you said all right&mdash;that you would be the dictator over all.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I made that position clear for the simple reason, in answer to the irrelevant interruption of Deputy Keyes&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>Not irrelevant at all.  It was your own statement that you would have to prevail.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>&mdash;&mdash;because the Act of 1925 lays it down that when a scheme is completed, a final award must be made in order to hand that scheme over to the local authority for maintenance.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>On a point of explanation, I do not want to be taken as interrupting the Parliamentary Secretary&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>No, but you are at it all the same.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>You are speaking about the scheme when completed.  We argue <Col N="987" /> that it was not completed and the court said that it was not completed, but you say that you are to prevail over the court.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I have rights here.  I have listened for the last two hours and I propose to assert those rights.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>You have been doing that for a long time.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I say that there could be no justification at all for the allegation made here that I did not make known what would be our attitude in the event of certain things happening.  We have got a history for the last two hours, and, when we get a history, we should get a complete history. I am not complaining against the Limerick Deputies.  They are Limerick Deputies, and members of all Parties, and it would I think be unusual if Deputies would not take a plum if it could be got for the ratepayers of their own county, and it would be unusual if agreement were not forthcoming between members of all Parties in a particular constituency, if, by that agreement amongst themselves, advantages could be secured for the ratepayers of their county.</P>
+      <P>I am not complaining about their attitude, or indeed the manner in which the case for Limerick has been presented by the Limerick Deputies, but I am complaining about the legal men who have spoken as to the effects of this decision, the advice they have tendered, the piffle they have spoken about the Constitution and the nonsense they have talked here for hours about this challenge to democracy.  I challenge these lawyers and budding lawyers to say now what in fact was the effect of this decision by Mr. Justice Overend.  Do they know it, and, if they do not know exactly what was the effect of that decision, why do they stultify themselves by talking about the Constitution, about this being <i>ultra vires</i> and so on and so forth?  Let us ask ourselves what was the effect of Mr. Justice Overend's decision in that case.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>The introduction of this amendment is the result of it.</P>
+    </Speaker>
+    <Col N="988" />
+    <Speaker pid="EamonnONeill" hpid="An Leas-Cheann Comhairle Eamonn O'Neill">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy must allow the Parliamentary Secretary to speak without interruption.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>When people begin to lose their tempers, I always feel inclined to get more cool than I would be in the ordinary way.  There is no necessity for Deputy Keyes to behave as apparently he has made up his mind to behave.  If I am making my case too effectively, I cannot help it. If I am going to make this case so effective that it is distasteful to the Deputy and to the point of view he would like the House to accept, I am not to be blamed.</P>
+    </Speaker>
+    <P>I asked a question and I propose to answer it.  What was the effect of this decision about which we have heard so much of what I can only call piffle? The procedure in relation to the Act of 1925, under which the Mulkear and the Cappamore scheme was carried out, which was followed by the Board of Works in the execution of the 50 odd schemes carried out under that Act was this: An estimate was prepared in respect of a certain district, and, after confirmation of that scheme, work was started.  The further procedure was that when the Board of Works had reached the stage at which they felt the work was completed, they proceeded to hold a draft award inquiry. What is a draft award inquiry? A draft award inquiry is an inquiry held for the purpose of enabling the local authority or local authorities and the individual or individuals whose lands are affected to come before the inquiry and to be represented there, if necessary and if they think fit, by counsel or solicitor in order to make a case as to whether the work has been properly and efficiently carried out. The further procedure followed under the 1925 Act was, that following the holding of that draft award inquiry, and after both the county council and the individuals concerned, who felt dissatisfied with the work as it was, had put forward their complaints, an inspection of these works was again carried out by those who heard these complaints and recommendations were made on the basis of that inquiry as <Col N="989" /> to whether or not additional work should be carried out.</P>
+    <P>I have listened in this House since the start of this Committee Stage to complaints from members of the Opposition Party because I was not giving to individuals and local authorities the right to make their case, the right to be heard, the right to do this and that, the right to complain, the right to say: &ldquo;This is not well done,&rdquo; the right to say: &ldquo;This is so-and-so and that is something else.&rdquo;  The case made against me during all these days and hours is my alleged failure to provide in this measure for the very thing which we did provide for in the Act of 1925, and the very procedure that we did follow under that Act.  After the draft award inquiry was held into the Mulkear and Cappamore scheme, we proceeded to amend and to improve upon the work, as was our custom. When we had reached the stage that we had, as we believed, met all these requests to the extent that they could reasonably be met, we proceeded, as was our custom, to issue the final award, and after making that final award, to do as we had done in every other case under the Act, to hand that district over to the local authority in that area.</P>
+    <P>What was the decision of Mr. Justice Overend?  I have explained about the background and the basis of the Act of 1925 and, not only the background and the basis, but the actual procedure that we followed.  The decision of Mr. Justice Overend on that procedure which I have explained was merely this&mdash;and I challenge any of the lawyers or budding lawyers either in the Labour Party or in Fine Gael Party or any other Party, to say the contrary&mdash;that we were not entitled to spend one penny of money on any scheme after we had held the draft award inquiry.  Again I refer to the piffle which has been spoken in relation to this amendment, the references to constitutional rights and democracy and all the other nonsense.  I did not mention the word &ldquo;democracy&rdquo; since we started.  The position as a result of the decision of Mr. Justice Overend is that, if amendment No. 158 was never inserted in this Bill, we could proceed <Col N="990" /> on the day following the giving of that decision to have a new draft award inquiry based upon the full and actual expenditure incurred and that we could put the further expense, the further costs, with all the unnecessary trouble, on the shoulders of the ratepayers of Limerick.  We could follow that draft award inquiry by a final award and we could hand over the scheme as it is, costing £36,000 odd, the amount shown here, together with the cost of the second draft award inquiry, and pile all that on the shoulders of the ratepayers of Limerick. That is the effect of the decision of the High Court about which we have heard so much nonsense.</P>
+    <P>I have said that I sympathise with the Deputies from Limerick.  I sympathise with them for more reasons than one, and one of the reasons is that, so far as I know Limerick and the people of Limerick, and especially the Limerick County Council, and indeed all the local authorities of County Limerick, have always been fairly generous in meeting their obligations and in taking advantage of any legislation passed here for the general improvement of all classes of their community.  I have before me figures which go to show that under the 1925 Act Limerick was one of the counties that did the most work and expended the largest sum of money on drainage.  It is because of that history that I found it somewhat difficult to understand the attitude adopted on this particular occasion.  I said that both for the purpose of the records of this discussion in this House and the importance of whatever may result from it to the people of County Limerick, it is no harm that the history of this whole matter should be gone into.  But, as I stated in my opening remarks, when you proceed to give the history, let it be as nearly complete as possible.</P>
+    <P>I propose to go back a little further about this whole matter.  This Mulkear district was originally constituted under the Drainage Act of 1863, and it went to award some time in 1877.  The works were put in charge of a drainage board which functioned for a while, but was not satisfactory.  People were complaining that the condition of the <Col N="991" /> district was bad and that flooding was occurring.  The riparian owners lost confidence in the board, and in the year 1919, this district was transferred for maintenance purposes under the Act of 1898 to the County Council of Limerick.</P>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>Before this present year?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>In the year 1919 this Mulkear district, which did not include Cappamore, and which had been constituted under the 1863 Act, was handed over to the Limerick County Council under the Act of 1898.  That local authority of Limerick was from that year forward responsible for the maintenance of that district in respect of which the board that originally controlled it was unable to do effective work.</P>
+      <P>To those Deputies from Limerick, to those critics from Limerick, I am going to put this further poser.  What was the condition in which the Limerick County Council maintained that district between the years 1919 and 1932? What was the result of the maintenance of that district by the Limerick County Council, the county council that has been, for some mysterious reason, jabbed, forced and driven into taking up, for the first time in my limited experience, this unreasonable attitude? How did they maintain this district? What happened in the village of Cappamore? What happened in the year 1932, before we dug a sod, before these incompetent engineers of the Board of Works, these people who can do nothing right and who know nothing, came on the scene?  What happened to the county council, with all the magnificent engineering advice which we are now told they had at their disposal? How did they maintain the district?  What happened in 1932, I ask Deputy Bennett?  What do the riparian owners think of the job that the Limerick County Council was doing in those areas?</P>
+    </Speaker>
+    <P>They hauled the Limerick County Council into the court&mdash;all the farmers living in the Mulkear area&mdash;<Col N="992" /> and got a decision there, with costs and expenses.  They got damages to the extent of £60 and there was a queueing up of farmers outside waiting to go into the court to get further damages.  Not only that, but these same farmers could go into that court every time there was an exceptionally heavy fall of rain and they could have continued to get these damages from the Limerick County Council if it had not been for the pleadings and beggings of the county council.  Realising the difficult position in which they were placed &mdash;not only the difficult position in which they were placed, but, I would say, the impossible position in which they were placed, having regard to their legal responsibilities and the financial commitments the legal responsibilities would entail&mdash;they came to us.  I have it here on record.</P>
+    <P>Our engineers, those incompetent men who know nothing, those dictators, those people who simply go down to Limerick and every other place for the purpose of placing burdens on the people and hurting and hindering and doing injustice to everybody they met, were the men who, when they went down on that scheme, gave it as their advice&mdash;it is on record here&mdash;that it was a scheme that could not be undertaken with any certainty that a perfect job could be made of it.  As a matter of fact, those men advised against the carrying out of the scheme in that particular area.  Because of the financial liabilities that were going to attach to the ratepayers of Limerick on foot of the decisions that had been given in the Court in 1932, and the hundreds of other decisions that would follow, we were prepared to meet the county council, as we did, and say: &ldquo;Gentlemen, in view of this very difficult position in which you are placed, in view of the impossibilities of the position in which you are placed we are prepared, in co-operation with you, to undertake a scheme of work on the Mulkear and Cappamore river, to do the best job we can, to do that job at the least possible cost, and to do it on condition that, as provided by law, the State and the local authority and the riparian owners will co-operate on a certain defined basis as to the financial <Col N="993" /> commitments that will be undertaken.&rdquo;</P>
+    <P>That is the background of this scheme, and that is the history of this district.  It is on that history that we have had all this talk of injustice and the silence and the doubt that is in the Parliamentary Secretary's mind, and the shame that a man should feel who is called upon to take responsibility for an amendment of this kind.  What has happened in the 50 other districts in which the 1925 Act has operated?</P>
+    <P>Much play has been made of the fact that the rough estimate of £22,000 odd has been exceeded to the extent mentioned. That has, in fact, been pointed to as a further indication of the incompetence of those who designed that scheme.  Those who talk in such terms fail to remember that, in the ordinary way, if the co-operation that I feel should have continued to exist between the Limerick County Council and the authority responsible for the execution of the work had existed, having regard to the history to which I have referred, that scheme would have been handed over completed in 1937, and the cost in the final award would not have had to include expenditure by the Commissioners on maintenance works since then.</P>
+    <P>It is claimed here that I have some reason to feel I am doing some injustice, that I am doing something about which I ought to be ashamed. I honestly say this, that 50 schemes were carried out under the Act of 1925 in almost every county in Eire, that the procedure that was followed in the Mulkear and Cappamore scheme was followed in every one of these schemes, that in 35 out of 50 schemes carried out under the 1925 Act we exceeded the estimate of the confirmed scheme, and that the county councils concerned were called upon to pay their share, just exactly as the County Council of Limerick has been called upon to pay its share of the Mulkear and Cappamore scheme.</P>
+    <P>It is suggested here that I should waive this point in regard to Limerick and that I should satisfy myself with consolidating the position in a legal <Col N="994" /> respect in relation to other schemes, that I should, as it were, allow one county council to reap a benefit to the extent of £10,000, a benefit that other county councils have had to meet, without their being in any way better equipped to meet such an additional charge than are the ratepayers of County Limerick.</P>
+    <P>As a matter of fact, I would clearly and openly admit that, if I were foolish enough to accede to the request being made to me by the members of Fine Gael and Labour Parties and by members of my own Party, I would feel as Deputy Hughes felt yesterday when speaking about embankments in respect of which funds were in existence for maintenance purposes. Indeed, I would feel ten times worse in relation to this matter than he felt in relation to the matter to which he referred.  I would feel that, under this Bill, we had forced other county councils to increase their contributions &mdash;and, naturally enough, Limerick was not the county in which the greatest amount of money was spent under the 1925 Act.  I can claim that for my own county, which is a poor one, we, too, had to increase our contribution.  We had to do so in respect of one scheme which was over £20,000, and we had to pay our share of it.  If I were to give way on this, then, instead of doing justice to the people of Limerick, as is claimed by Deputies, I believe I would be doing something that would have the opposite effect.</P>
+    <P>Some lectures have been given to Fianna Fáil Deputies from County Limerick as to how they are to conduct themselves in the course of any division that may take place on this amendment.  Some of those Deputies have been in this House for the last 17 years and have been meeting their constituents in Limerick frequently since then, and I have no hesitation in saying that they will know how to behave themselves now.  They will also know how to go back, having heard the real case and, if they cannot do so from memory, they will be able at least, from the records of this House, to restate that case to their constituents.</P>
+    <P>
+      <Col N="995" /> To those who apparently have a very keen sense of principle which is beyond my understanding, to those who are concerned with the principle side of this matter, let me emphasise again that the judgment to which they have referred was a judgment which merely stated that the Board of Works was not legally entitled to spend a penny on that or any other scheme after the holding of the draft award inquiry. The judgment, in effect, means that we, on reaching the end of the £22,000 odd which was included in the confirmed scheme, could have held our draft award inquiry, although the works as executed would have been completely inadequate and entirely and absolutely inefficient to do anything in the way of effecting any improvement on the condition of affairs from the drainage point of view.  According to that position, we could have held our draft award inquiry, have issued the final award and have handed the job over to the county council.</P>
+    <P>That decision meant, in addition, that, even an hour after it was given, we could have notified all those concerned as to our intention to hold a draft award inquiry, and the only thing that would result from proceeding in that way would be greater expense, greater trouble and greater annoyance to the people of Limerick. However, as we could not do any additional works following the draft award inquiry it would make no difference what representation was made as to the condition of the district.  We would only have to hold the draft award inquiry and, according to the judge, we would carry out no work, but without then proceeding to work, we could issue a final award and the district would be in the hands of the Limerick County Council and it would be their responsibility.  All that would accrue to the council would be the additional cost of the holding of that extra draft award inquiry.  I do not think I have any need to be ashamed of the attempt to save the ratepayers of Limerick from that additional charge.</P>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>In his opening remarks the Parliamentary Secretary attempted to lecture those budding lawyers for <Col N="996" /> their interpretation of a decision of the High Court.  In doing so, he has demonstrated himself as being the most competent lawyer in the country.  I do not presume to be a lawyer or to put any interpretation on the award given by Mr. Justice Overend except the cold facts of what he said as set down in his judgment.  That simply states that, by their own terms of reference under the Act quoted by the Parliamentary Secretary, before they proceeded to have a draft award inquiry as a basis for a final award, certain works as estimated for in the schedule must have been carried out.  I think that is plain language which a layman can read, apart from being a lawyer.  Mr. Justice Overend held that the Board of Works had not carried out the necessary works scheduled to entitle them to bring in a draft award inquiry as a basis for a final award, and, on that assumption, he passed judgment, telling the Board of Works where they should stop, and what he thought about their disregard of every institution in the country&mdash;the Minister, Parliament, and the State itself.</P>
+      <P>I do not propose to read the award again, but, on the cold facts of the basis of that judgment, I am accusing the Parliamentary Secretary of having made a statement here that, made outside, would be regarded as contempt of court.  Though I am not a lawyer, I believe that, if he said the same thing outside the House, it would be contempt of court.  He is not yet elevated to the position of being a Supreme Court judge, but his Department had not the courage to go to the Supreme Court to challenge the decision of Mr. Justice Overend in the High Court. He asked what the effect of the decision of the High Court was, and my relevant interjection is countered by the Parliamentary Secretary's answer that his introduction of this section is the answer.  The result is the unwarranted and illegitimate method of counteracting the High Court decision.</P>
+    </Speaker>
+    <P>The Parliamentary Secretary had not the courage to go to the Supreme Court to test the legality of the award, but comes into this Parliament and asks Parliament to prostitute itself by overriding any decision of the judge, <Col N="997" /> to defeat a public authority which has used every legitimate means for more than seven years.  Deputations from every Party in this House have been before the Board of Works, the late Parliamentary Secretary, the chairman of the commissioners, and prominent officials present in the House to-day, contesting this right.  When the present Parliamentary Secretary himself came into office, they still continued to plead, and everything reasonable was done before the county council eventually was forced to take action in the courts.</P>
+    <P>This public authority feels that it is being wronged by a Department of State which entered into a solemn contract to do a job of work which they claimed they were the only competent people to do.  It was to cost £22,000 and they said: &ldquo;We will pay 50 per cent. and you will pay 33? per cent. and the remainder will be paid by the drainage ratepayers.&rdquo;  Everybody agreed and the job was carried out. Limerick County Council would not have objected to 5 per cent., 10 per cent or even 15 per cent. extra cost on the job, because it was rather unique as a drainage scheme, but when it jumped from £22,000 to £36,951, and when the job is not completed to-day surely we are entitled to ask a question: &ldquo;Is it because you are the Board of Works you can spend all the money you like on the job, and give us the job in any old state of completion?&rdquo; That was the attitude of the board.  We had asked them to give us a reasonably decent job we could maintain, and we estimated the annual figure would be something related to commonsense, and we proved by our experts that the figure of the Board of Works could not be said to be related to commonsense. The Parliamentary Secretary has said that if there had been the co-operation he expected in 1937 this position would not have arisen at all.  How can we he expected to take over a river in 1937, when we have in fact to take it over when some of the banks have collapsed? Are we seriously asked to take over a job when the banks have been swept away or collapsed?  That is the co-operation the Parliamentary Secretary asks should have been given in 1937. What we did ask was this: &ldquo;Will you <Col N="998" /> put the banks back in the original position before they were swept away? Then the county council will be able to contemplate being responsible for its maintenance.&rdquo;  The Parliamentary Secretary has told us that they got the draft award then, and it implied that they had completed sufficiently the work to justify the council taking over, but the county council protested and withdrew from the inquiry.  They protested and said: &ldquo;We will take you into court&rdquo;, but the board came along to do a lot of tinkering on the job, incurring expenditure which was perfectly unjustifiable.  They came along here patching it up and tinkering with it and they proceeded to make a final award.  They were brought into court, having misinterpreted the law, and the Parliamentary Secretary, their budding lawyer, tells us what he thinks, no, not what he thinks, what he knows the correct interpretation of the law is.  I suggest that if he is the great legal authority he professes to be, he should tell us why he did not take that decision of Judge Overend to the Supreme Court.  We are not a bit impressed by the legal definitions given by the Parliamentary Secretary because the meaning of that decision stands out. You do not want to be a legal luminary to interpret it at all.  Any ordinary layman can read it.  The Parliamentary Secretary cannot explain it away. I regret his necessity to lecture his friends.</P>
+    <Speaker pid="DonnchadhOBriain" hpid="Donnchadh Ó Briain Donnchadh Ó Briain">
+      <NameTxt>Donnchadh Ó Briain</NameTxt>
+      <P>He did not lecture us.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKeyes" hpid="Mr. Keyes Mr. Keyes">
+      <NameTxt>Mr. Keyes</NameTxt>
+      <P>They gave expression to their consciences.  I am quite sure they have made appeals to the Parliamentary Secretary and if he wishes to override the appeal of Limerick's elected representatives on every side of the House and to take the highhorse attitude that we have all been wrong and unreasonable and that Limerick people are ungenerous, narrowminded and selfish although they have the character of being generous, then the Limerick people will be able to bear that.  The Limerick people will meet their responsibilities when they get a square deal, but I trust they will have the guts to fight <Col N="999" /> for a square deal, because they are not getting a square deal from the Parliamentary Secretary.  The Parliamentary Secretary is maintaining the tradition of his predecessor, which he has not changed one iota.  He has not shown the slightest tendency towards reconciliation in face of the very reasoned case that has been made. The Parliamentary Secretary wants to quarrel with the decision of the High Court and thinks that retrospective legislation is a matter of no account and anticipatory legislation is of no account.  We have had previous experience of retrospective legislation, but it comes from the Parliamentary Secretary for the first time in this country that we should have anticipatory legislation preventing the High Court from coming to a decision.  That is what we call democratic legislation in Eire to-day.  Some of the other speakers coming from Limerick have been concerned with the expenditure that is to be imposed on the citizens. I am not concerned with the expenditure of the £14,000 so much as with the principle involved because in asking the House to bolster up the inefficiency and colossal failure of the Board of Works on that scheme, their failure to treat with the county council and their failure to make a case before the High Court and their having been defeated there the Parliamentary Secretary is showing the supreme contempt he feels for democratic institutions. I only hope that the people will record in due course what is Fianna Fáil's conception of democratic principles.</P>
+    </Speaker>
+    <Speaker pid="GeorgeCBennett" hpid="Mr. Bennett Mr. Bennett">
+      <NameTxt>Mr. Bennett</NameTxt>
+      <P>When the Parliamentary Secretary spoke I confess I was surprised because I expected that the House, having debated this amendment for three hours and not a single Deputy of any Party on any side of the House having said one good word for it, but every Deputy who spoke having spoken against it, the Parliamentary Secretary was going to accede to the universal wish of every section of the House and withraw the amendment. The Parliamentary Secretary alone defended this section and accuses some of us of being unfair in <Col N="1000" /> that we did not give the whole story. I confess myself that the Parliamentary Secretary was fairly fair in the facts he gave as far as he went, but he had no right to accuse me of not giving the whole story.  I think I was fair when I started speaking on this amendment.  I said&mdash;and the Parliamentary Secretary has confirmed me, and in confirming me has given away his whole case&mdash;when speaking first that the drainage of the Mulkear was taken up for a certain purpose and only for that purpose.  The Parliamentary Secretary said it was for another purpose, but we will come to that later on.  It was undertaken for that purpose and not for the purpose of making a job of the Mulkear river, because everybody knew that could not be done unless the whole river were dealt with.  It was only a makeshift scheme to clean up another difficulty. The Parliamentary Secretary comes now and says: &ldquo;When we considered this scheme in 1931 we knew it could not be done and we advised the county council that it could not be done.&rdquo;  The Parliamentary Secretary says that this drainage scheme which could not be undertaken was undertaken to get them out of a difficulty, and they proceeded to do it, mind you, to get the county council out of a difficulty.  The scheme they could not satisfactorily do in 1931 and that the Board of Works engineers knew could not be done is now, according to the Parliamentary Secretary, satisfactorily completed.  I am not an engineer.  I am a man with common sense who can walk the banks of the river with Deputy Keyes and the Deputies of the Fianna Fáil Party, honest Deputies, and judge for myself.  I saw the condition of the Mulkear river in 1927, long years before 1927, but first in an official capacity as a member of a board in 1927, in 1930, 1931, 1932, 1935, 1936, 1937, 1939, 1940, 1941, 1942, 1943 and 1944.  And I say that the condition of the Mulkear river is in much the same state in 1944 as it was in 1942, it is in much the same state as when the Minister said there was to be an action taken against the Limerick County Council in 1919.  The Parliamentary Secretary says that it was to save the Limerick County Council from many <Col N="1001" /> possible future actions that the Board of Works consented to the scheme which they themselves agreed and the Parliamentary Secretary says was a scheme which should not be undertaken and could not be satisfactorily done.</P>
+      <P>The engineers of the Board of Works agree with the common layman like myself that the drainage of a part of the Mulkear river was an impossibility as a complete scheme.  I am glad that the engineers of the Board of Works agree with me for once, and that the Parliamentary Secretary has perforce to agree with me in the end.  In spite of that, the Parliamentary Secretary has the audacity to come to the House and say that this is a complete scheme, and that the Board of Works have done everything that they possibly could, but that they lacked the real co-operation of the Limerick County Council during all those years.  I suggest in the light of the speeches that have been made here, that everyone knows that if ever a Department of State got co-operation and help from local Deputies, local councillors and local engineers to help a scheme, it was the Board of Works in the case of the Mulkear.</P>
+    </Speaker>
+    <P>I do not want to be drawn into an argument about certain things.  Certain discussions took place when deputations came up here about this.  I always consider such discussions confidential, and I am not going to go into them.  If I were free to go into them I do not think any impartial listener would say that there was no co-operation, no good will or advice even between the people of Limerick, their representatives and the Board of Works and the Parliamentary Secretary of that time and the present time. The Parliamentary Secretary has not given the whole facts in regard to this matter, nor do I propose to give them. I gave all the facts necessary for this discussion.  I did not think it right to give the underlying facts which we sometimes discuss in private conversation with the officials.  I did not hide this: That the drainage of the Mulkear was, in my opinion, impossible.  The Parliamentary Secretary went back to 1863.  The Mulkear drainage was <Col N="1002" /> started then and implemented in 1877. Does he suggest that we hid that fact? I did not mention it, because it had no bearing on this particular debate. The Limerick County Council took over control of the works in 1919.  The Parliamentary Secretary and Limerick County Council found that the maintenance of the Mulkear in a proper way was almost impossible, in fact that it was impossible &mdash; that is to maintain the Mulkear river in a way that could reasonably please everyone. That was so in 1919.  There were actions threatened, and, I believe, levied against the county council because it did not maintain the Cappamore or Mulkear river in a proper way.  The Parliamentary Secretary said that it was because of that that the Board of Works agreed in 1932 to set up a scheme to drain part of the Mulkear.  I say it was only because the county council in Limerick was threatened with actions that it consented to undertake a scheme which the Board of Works knew could not be done.</P>
+    <P>If that is the only answer that the Parliamentary Secretary can give to the House as regards the facts there is very little use in argument with him.  The real fact is that it was not to save the County Limerick from damages that the Board of Works undertook the scheme, but because some of us threatened the county council, the Board of Works and Departments in this State that something would have to be done to save the lives of the people in Cappamore who were being drowned or flooded out of their homes.  We said that a remedy should be found somewhere, and we forced the county council and the Board of Works to take on a scheme which was not a real drainage scheme at all.  The officials of the Board of Works, as is now admitted by the Parliamentary Secretary, knew that it could not be carried out and completed as an ordinary drainage scheme.  In spite of that, the Parliamentary Secretary has the audacity to come here at this hour and tell the House that the Mulkear scheme was proceeded with and completed in a satisfactory manner, although the engineers of the Board of Works and every man with common <Col N="1003" /> sense knew full well that the scheme as drawn up could never be completed until the whole river was done to the outlet&mdash;until it was cleaned and repaired.</P>
+    <P>It was because of that position that the Limerick County Council refused to accept the final award issued by the Board of Works.  It knew that the maintenance costs would be an impossible burden on the county, and that the works could not be maintained in proper order until there was a completed scheme.  Under this Bill such a scheme could be carried through.  The money spent on the partial solution of the Cappamore scheme could be more usefully spent on the full scheme that is yet to come. The county council was forced to go to court and get a verdict.  I suggest to the Parliamentary Secretary that he could have found another remedy instead of the one that he has found here, which I have no hesitation in describing as complete unadulterated contempt of court.  In view of the facts that I have given, I ask if there is any Deputy on any side of the House who would have the audacity to support the Parliamentary Secretary in saying that this is an efficient scheme well carried out and well done, and that the verdict given by the High Court was contrary to all common sense?  If there is, then I will be satisfied with the verdict of this House. The big and important question for Deputies and the country is this: Whether the Parliamentary Secretary or the Government has the right&mdash; whether anybody has the right&mdash;in the fashion adopted here, in a behind-theditch fashion under an amendment to a Bill like this to bring in this revolutionary proposal to defy a High Court judgment in this State.  If anybody thinks that a right thing to do then, as Deputy Keyes asked, how can we expect respect for the law?</P>
+    <P>I said that I believed it was unconstitutional. I do not profess to be a lawyer but somebody with greater knowledge of the law hinted to me afterwards that he had his doubts about it also.  Whether it was or was not unconstitutional, it is a moral breach of the God-given right of everybody <Col N="1004" /> in this country to the benefits of the law.  The citizen is entitled to the benefits of the law just as he is subject to its penalties and no Government, no court, has the right to take that privilege from him.  It is on that principle alone, apart altogether from the case as it concerns Limerick County Council, that we ask every decent Deputy to cast his vote.</P>
+    <Speaker pid="EamonnCoogan" hpid="Mr. Coogan Mr. Coogan">
+      <NameTxt>Mr. Coogan</NameTxt>
+      <P>I move to report progress.</P>
+      <P>Progress reported; Committee to sit again.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Diseases of Animals" RHead="Bill, 1944&mdash; Money Resolution">
+    <Title>Committee on Finance. - Diseases of Animals Bill, 1944&mdash; Money Resolution.</Title>
+    <Speaker pid="JamesRyan" hpid="Minister for Agriculture (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Agriculture (Dr. Ryan)</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That it is expedient to authorise such payments out of moneys provided by the Oireachtas as are necessary to give effect to any Act of the present Session to amend and extend the Diseases of Animals (Ireland) Acts, 1894 to 1938.</P>
+      <P>Question agreed to.</P>
+      <P>Resolution reported and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Diseases of Animals" RHead="Bill, 1944&mdash; Committee Stage">
+    <Title>Committee on Finance. - Diseases of Animals Bill, 1944&mdash; Committee Stage.</Title>
+    <P>Sections 1 and 2 agreed to.</P>
+    <P Just="Center">SECTION 3.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 1:&mdash;</P>
+      <P>To delete in each sub-section the words &ldquo;being so slaughtered, and the said sub-section shall apply and have effect accordingly in relation to such animals&rdquo; and to substitute in such sub-section for the words so deleted the words &ldquo;they can be slaughtered and also to carcases which, consequent upon an outbreak of disease, have been seized on behalf of the Minister, and the said sub-section shall apply and have effect accordingly in relation to such animals and carcases&rdquo;.</P>
+    </Speaker>
+    <P>In the Principle Act it is not laid down that compensation should be paid except where an animal is slaughtered.  In the recent outbreak <Col N="1005" /> here of foot-and-mouth disease we did pay compensation in the case of carcases that were discovered, either in the abattoir or the butcher's shop, to be diseased.  We paid that compensation <i>ex gratia</i>, after receiving the permission of the Department of Finance. There is no reason why carcases should not be put on the same level as animals that were to be slaughtered. That is one point in the amendment. It merely brings carcases on to the same plane, as it were, with animals. There is another point in the amendment. In the four sub-sections of the section in the Principal Act there are words used&mdash;&ldquo;before being so slaughtered&rdquo;.  That is, where the animal dies before being so slaughtered. Of course, if the animal dies it is not &ldquo;slaughtered&rdquo; and so we say in the amendment &ldquo;before it can be slaughtered&rdquo;, which looks better.</P>
+    <P>Amendment agreed to.</P>
+    <P>Section 3, as amended, agreed to.</P>
+    <P Just="Center">SECTION 4.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 2:&mdash;</P>
+      <P>Before Section 4 to insert a new section as follows:&mdash;</P>
+      <P>The power vested in the Minister by virtue of sub-section (7) of Section 20 of the Principal Act to withhold, either wholly or partially, compensation or other payment shall</P>
+      <P>(a)  extend to animals which have been directed to be slaughtered under the Principal Act and have been valued for that purpose but die before they can be slaughtered, and</P>
+      <P>(b)  be exercisable in relation to an animal slaughtered or directed to be slaughtered whether such animal was or was not diseased, and</P>
+    </Speaker>
+    <P>(c)  be exercisable in relation to an animal slaughtered or directed to be slaughtered (in addition to the cases mentioned in the said sub-section) where the Minister is of opinion that the owner or person in charge of such animal did not take, in relation to the relevant outbreak of disease, adequate <Col N="1006" /> precautions to prevent the spread of disease, and</P>
+    <P>(d)  extend to every case in which compensation could be paid by virtue of Section 3 of this Act in respect of a carcase (whether diseased or not diseased) where the Minister is of opinion that the owner or person in charge of the carcase has been guilty, in relation to the carcase, of an offence against the Principal Act or any Act amending that Act or did not take, in relation to the relevant outbreak of disease, adequate precautions to prevent the spread of disease.</P>
+    <P>This proposed new section is to replace the present Section 4.  There is not very much difference until we come to paragraph (d).  Paragraphs (a), (b) and (c) are practically the same as in the original section.  Paragraph (d) is additional to Section 4 in the Bill as introduced. Part of that paragraph is necessary in view of the amendment we have just passed because logically we must cover the case of carcases. The difference between this proposed new Section 4 and the Principal Act is that in the Principal Act compensation could be withheld in relation to slaughtered animals.  The effective words in the Principal Act are contained in Section 20, sub-section (7), which give the Minister or the local authority power to withhold compensation where, in the judgment of the board&mdash; that is the Board of Agriculture&mdash;or the local authority, as the case may be, a person has been guilty &ldquo;in relation to the animal&rdquo; of an offence against the Act.  We want to alter those words &ldquo;in relation to the animal&rdquo;.  As a matter of fact that is the whole point of this amendment.  We are changing that to the words &ldquo;in relation to the outbreak&rdquo;.  There is no reason why a man should get compensation because he could say &ldquo;in relation to the animal I was careful but not in relation to the outbreak.&rdquo; For instance, there could be negligence &mdash;as we had in the last outbreak&mdash;in connection with the removal of farmyard manure from the city to the country or in relation to the removal <Col N="1007" /> of hay or straw.  That is not in relation to the animal but it is in relation to the outbreak.  The whole purpose of this amendment is to make it in relation to the outbreak rather than in relation to the animal and we can withhold compensation if the person has been negligent in any way in relation to the outbreak.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Hughes has an amendment on the Order Paper to the Minister's amendment. We will take a decision on that first.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I move amendment No. 3:&mdash;</P>
+      <P>To delete paragraph (c), lines 22 to 27.</P>
+      <P>I move this amendment really to give an opportunity of discussing a certain aspect of this whole matter.  The principle contained in this paragraph (c) is, as the Minister knows, embodied in the Principal Act, and of course I could not table an amendment to delete part of the Principal Act.  You, Sir, would rule it out of order.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Possibly, yes.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I refer to the principle of authorising a Minister to make what I regard as a judicial decision.  The practice is creeping into our affairs in this country of having a further judicial inquiry by a Minister or a Department of State, and a further penalty imposed after a person has been brought into court and after a decision has been given by a judge qualified to sit in judgment, to measure the offence and to fix a penalty.  That is what I object to.  In my view, the only tribunal that should try an offence is the court of justice, and the person best qualified to make a decision as to the magnitude of the offence and of the punishment that is due is a judge. That power should not be arrogated by a Minister or anyone else.</P>
+    </Speaker>
+    <P>I want to remind the Minister that during the last outbreak one particular case occurred in connection with the stock of Mr. Flood, of New Hall, near Newbridge.  An outbreak occurred <Col N="1008" /> there and was detected by a Guard. He saw cattle on the land that were dripping from the mouth.  Mr. Flood was very ill, in bed, at the time, and he had as steward in charge of the farm a man who had passed through Ballyhaise.  Mr. Flood is now dead. So far as Mr. Flood's responsibility was concerned, he did his best to ensure that his stock was being properly looked after by employing a qualified man.  He was prosecuted, severe penalties were fixed by the court, his cattle were destroyed, and the normal operations of trying to fight and eradicate the disease occurred on his farm.  Afterwards the Minister, in the exercise of his right under the parent Act, withheld a very substantial sum of money in that case.  I personally approached the Minister, and other people as well made representations to the Minister, because it was a very hard and unjust position.</P>
+    <P>So far as Mr. Flood was concerned, he did everything he possibly could in the matter.  He had employed what appeared to him, to other persons and to me, to be a competent person, a man qualified in the manner shown.  The Minister thought otherwise.  We argued that Mr. Flood was unable to look after his stock because he was in bed ill.  Indeed the proof that he was ill and unable to be personally responsible was that he died afterwards. Notwithstanding all the pressing representations made to the Minister he was not prepared to budge in the matter. It is merely to bring that principle before the House, and to show how unwise the law is in that respect&mdash;and it is being extended here in a small way&mdash;that I have tabled this amendment. Standing Orders of the House do not permit me to amend the parent Acts, but I have tabled this amendment to draw the attention of the House to these facts.  In the event of any future outbreak of foot-and-mouth disease the Minister would be well advised in any inquiry as to an offence committed by an individual in looking after his stock, and taking the safeguards that are essential and vital to ensure that the outbreak is eradicated at the earliest possible moment, to see that justice is done in all cases.  That <Col N="1009" /> should be the fundamental principle in all events.  No matter how essential or vital it is in the interests of the health of the cattle population, and in the slaughter and destruction of cattle on an individual farm a man should feel that he has rights, and that he has a right to justice and fair play. Two different types of courts ought not to operate, in my opinion.  There should be a proper place to have an impartial decision made so that a man can rest assured that justice is done, and that he is tried for his offence in the courts of the country by men qualified to judge and to devise a penalty according to the merits of the case.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I think that on the purely academic aspect of the case Deputy Hughes will get a good deal of support, but when we come down to practical points dealing with an outbreak like that I am afraid that this power, which the Minister has had under this Act for 50 years, was considered by all legislators, both in the British House of Commons and here, necessary to deal with an outbreak of foot-and-mouth disease.</P>
+    </Speaker>
+    <P>It is rather strange to read the powers given in the 1896 Act not to the Minister alone, but to the Board of Agriculture and the local authorities as well.  I do not want to read the whole sub-section, but the words I refer to are &ldquo;that the person in the judgment of the board or of the local authority, as the case may be, has been guilty in relation to animals of an offence against this Act&rdquo;.  Mind you, it does not say found guilty by the court, but guilty in the judgment of the board or the local authority, so that the power is there all the time.  Academically, perhaps we could argue like Deputy Hughes that the power should never have been there but that so far as this amendment is concerned, it is only making another logical provision &mdash;that if a person is going to be victimised because he exposed his animals to danger, then he should be equally victimised if he took hay or straw from an affected farm or if he went to the affected farm himself without any need to do so&mdash;as people did here in the last outbreak of foot-and-mouth <Col N="1010" /> disease&mdash;and so bring back the disease from the affected farm. These things should be all arranged whatever way we do it, but I think it is necessary to have very drastic powers to deal with an outbreak of foot-and-mouth disease.  It is like a case where there is turmoil in a country and where you have practically martial law.  You would, practically, need to have martial law to deal with this disease or at least it would be necessary to quell an outbreak when it becomes very, very bad, as it did here in 1941.  Remembering what Deputy Hughes has said, I must say I think this power is necessary, and apart from the particular circumstances concerned in this case, it is only merely following logically what was the law all the time in making all offenders equally liable to certain penalties.</P>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I agree with what the Minister has said about the whole matter being brought in line and about the need for drastic powers if you want to fight a dangerous disease.  Dangerous diseases require desperate remedies.  You want the drastic powers, but when you give the Department those drastic powers it is our duty as legislators here to provide safeguards so that the man operating the drastic powers will not overlook that fact.  It is merely an academic discussion because we cannot amend the Principal Act.  It is for the purpose of drawing the Minister's attention to these matters that I raise them. I am glad that the Minister has admitted there is a principle here.  This decision to which he has referred was made 50 years ago, but it does not follow that if the people who made this decision were right 40 or 50 years ago, that we should not consider amending the Act in this respect.  I am glad the Minister has met me to that extent and that there is room for discussion on the principle because it is a very big principle.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It is, certainly.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is 2 (a) withdrawn?</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <P>
+      <Col N="1011" /> Amendment No. 2 agreed to.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That, of course, will delete Section 4.</P>
+      <P Just="Center">SECTION 5.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 4:&mdash;</P>
+      <P>In sub-section (1), page 3, line 29, to insert before the words &ldquo;no such ground&rdquo; the words &ldquo;a veterinary inspector is satisfied that&rdquo;.</P>
+      <P>There are five similar amendments to this section and Section 6&mdash;4, 6, 7, 10 and 12.  The idea in amendment No. 4 is to change the word &ldquo;inspector&rdquo; into &ldquo;veterinary inspector&rdquo;.  Inspectors of local authorities acted last time, but I am not sure whether we might not be challenged in court on the grounds that they were not actual inspectors of the Minister.  I move that we make the change.</P>
+      <P>Amendment put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I move amendment No. 5:&mdash;</P>
+      <P>To delete sub-section (2) and substitute therefor the following new sub-section:&mdash;</P>
+      <P>No ground shall be acquired for the reception and slaughter of animals other than on the land or premises on which the animals existed prior to the order to slaughter until the inspector of the Minister has satisfied himself by a thorough inspection made by himself or on his behalf that no suitable ground for burial is available on such lands or premises.</P>
+      <P>It is merely to point out that for the purpose of convenience it might be a very objectionable thing to have a burial place and a slaughter place created on another man's farm where there was no outbreak of foot-and-mouth disease at all.  That might be done for the purpose of convenience, but the amendment is designed to ensure that the ground for slaughter and burial should be on the land or premises on which the animals were prior to slaughter, that the inspector will satisfy himself that there are no facilities there before he operates the section.  I think it is reasonable.</P>
+    </Speaker>
+    <Col N="1012" />
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I made a mistake with regard to amendment No. 4.  That amendment was really to meet Deputy Hughes' point to some extent.  It more or less embodies what Deputy Hughes has in mind.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I should like to see it a little stronger.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Perhaps the Deputy would allow the amendment to pass and see how it looks before Report Stage.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Would the Minister promise to draft it a little more strongly?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I would prefer the Deputy to do it.  I have no objection to his bringing it up again on Report Stage, if the Ceann Comhairle has no objection.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Chair would not object.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It is not altogether as strong as the Deputy wants.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I suggest that the Minister ought to put in the safeguard there again.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy may submit an amendment to amend it.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>To be frank, I do not want the bother of doing it.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That is a matter between the Minister and the Deputy.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 6:&mdash;</P>
+      <P>In sub-section (2), page 3, line 35, to delete the words &ldquo;inspector of the Minister&rdquo; and substitute the words &ldquo;veterinary inspector&rdquo;.</P>
+      <P>Amendment put and agreed to.</P>
+      <P>Section 5, as amended, agreed to.</P>
+      <P Just="Center">SECTION 6.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 7:&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="1013" /> In sub-section (1), page 3, lines 37 and 38, to delete the words &ldquo;an inspector of the Minister&rdquo; and substitute the words &ldquo;a veterinary inspector&rdquo;.</P>
+    <P>Amendment put and agreed to.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 8:&mdash;</P>
+      <P>In sub-section (1), page 3, to delete in lines 42 and 43 the words &ldquo;isolated, and to be placed and kept for the purposes of such isolation&rdquo; and substitute the words &ldquo;placed and kept in isolation therein or to be removed therefrom and placed and kept in isolation&rdquo;.</P>
+      <P>As the section stands, it would appear as if, on the discovery of an outbreak of foot-and-mouth disease at a fair or market, the inspector would have to find a place in which these animals could be isolated.  It may be necessary to isolate them where they are, without moving them, and this amendment gives the inspector that power.</P>
+      <P>Amendment put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I move amendment No. 9:&mdash;</P>
+      <P>In sub-section (2) (a), at the end of line 51, to add the following words:&mdash;&ldquo;and shall use such suitable place which in the opinion of the owner causes the least inconvenience&rdquo;.</P>
+      <P>This is merely to ensure that the least inconvenient place will be used, with the consent of the owner.  There might be two or three convenient places available, but the selection of one might be a great inconvenience to an owner.  The amendment would enable the inspector to say: &ldquo;There are two or three places which would suit me; which is the least inconvenient for you?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>The Deputy will understand that the insertion of this amendment might cause trouble, because the owner might claim that he should have been consulted.  He may not be easily accessible at the time.  Secondly, under the amendment, he would have the last word; in other words, he could <Col N="1014" /> say: &ldquo;Why should you put them there?  It would be more convenient to put them elsewhere.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>&ldquo;Such suitable place&rdquo; implies that the inspector is satisfied. Obviously, the inspector will decide whether it is suitable or not.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I was reading the amendment on the basis of the owner having the last word.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>He would, after the inspector has pointed out three places which are suitable.  The inspector would say: &ldquo;I want to isolate an animal which I suspect, and I want to use one of three places.  Which is the least inconvenient for you?&rdquo; This merely gives the owner the option of saying: &ldquo;You can use that place; I want the other house for some other purpose.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>We might put in some such words as these: if the owner is accessible, his views should be given way to.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I am satisfied.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>We shall have to say &ldquo;if the owner is accessible&rdquo;, because we cannot wait to look for him.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I agree.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 10:&mdash;</P>
+      <P>In sub-section (2), to delete in line 56, page 3, and line 1, page 4, the words &ldquo;an inspector of the Minister&rdquo; and substitute the words &ldquo;a veterinary inspector&rdquo;.</P>
+      <P>Amendment put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I move amendment No. 11:&mdash;</P>
+      <P>To delete sub-section (3).</P>
+    </Speaker>
+    <P>The Minister is given ample powers to do certain things and again I urge the principle of the right of the individual his right, if he feels aggrieved, to take you into court and see whether you have exceeded your powers.  If he fails to win his case, he has to pay the piper.  I grant that it may be inconvenient without it, but I am concerned <Col N="1015" /> for the preservation of a big principle.  There is no use in paying mere lip-service to that principle. Let us embody it in our legislation and provide an ample safeguard.  We agree that certain powers are necessary in fighting a dreadful disease, but the individual is entitled to ample safeguards and it is our duty as legislators to provide those safeguards.  If the Minister does not see eye to eye with me, I shall have to divide the House.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am not very particular about it.  The history of it is that there was a principle at one time that the king could do no wrong.  That came down later to the principle that a Minister could do no wrong.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I hope we are going to bury that.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Under the new Constitution, that was done away with, so it must be put into each Act now that a Minister can do no wrong.  I am not a bit particular about it, as I say, because if a person has a grievance, even with this section in, I am told that he has his remedy, if we do anything wrong.  It is merely inserted as a deterrent against bringing forward trivial claims.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I congratulate the Minister on his attitude.  I have been fighting it for the last two days and could not get a budge out of the Parliamentary Secretary.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It might be more important in that case&mdash;I do not know.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I am glad the Minister is setting a headline.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 12:&mdash;</P>
+      <P>In sub-section (3), page 4, line 5, to delete the words &ldquo;inspector of the Minister&rdquo; and substitute the words &ldquo;veterinary inspector&rdquo;.</P>
+      <P>Amendment agreed to.</P>
+      <P>Section 6, as amended, agreed to.</P>
+      <P>Section 7 agreed to.</P>
+    </Speaker>
+    <P Just="Center">
+      <Col N="1016" /> SECTION 8.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 13:&mdash;</P>
+      <P>In page 4, to delete paragraph (c) of sub-section (3) and substitute the following paragraph:&mdash;</P>
+      <P>(c)  the appeal shall be referred by the Minister to such person as may be agreed upon by the applicant and the Minister or, in default of agreement, to an official arbitrator for the purposes of the Acquisition of Land (Assessment of Compensation) Act, 1919, and the person to whom the appeal is so referred shall report on the matter to the Minister and shall send a copy of the report to the applicant.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>The Minister meets my point there, and I am satisfied.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 14 not moved.</P>
+      <P>Section 8, as amended, agreed to.</P>
+      <P Just="Center">SECTION 9.</P>
+      <P>Question proposed: &ldquo;That Section 9 stand part of the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>This is grabbing the little bit of money that is in the Cattle Diseases Fund.  In the interests of the farmers I would expect the Minister to resist that and not let the Minister for Finance rake it into the Exchequer.  At least he should have left a little bit to the credit of the farmers.  Perhaps the Minister is in a generous mood and might still do it.  I expect that a man defending the agricultural interests here would do that and not let the Minister for Finance get hold of every little capital sum available.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I want to remind the Deputy that under the Principal Act the finances necessary in connection with outbreaks of disease were supposed to come out of the Cattle Diseases Fund.  That would have meant, even if we had to go back to 1941, a very heavy charge on all the counties to make up the deficiency. <Col N="1017" /> When I did persuade the Minister for Finance, he said it had to be one way or the other.  As we got him to foot the £450,000, if he says that as against that we must give this £3,000 or £4,000, I think it is not unreasonable.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>What happened in connection with the second last outbreak of disease?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am not sure.  It may have been done at that time, too.  I know that on the last occasion it was said: &ldquo;This is supposed to be done out of local funds, but if we do it at <Col N="1018" /> least let us get whatever is coming in&rdquo;.  I think that is reasonable.</P>
+      <P>Question put and agreed to.</P>
+      <P>Section 10, 11 and Title agreed to.</P>
+      <P>Bill reported with amendments.</P>
+      <P>Ordered: &ldquo;That the Report Stage be taken on Wednesday, 29th November.&rdquo;</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Arterial Drainage" RHead="Bill, 1944&mdash; Committee (Resumed)">
+    <Title>Committee on Finance. - Arterial Drainage Bill, 1944&mdash; Committee (Resumed).</Title>
+    <P>Question put: &ldquo;That the new section be therein inserted.&rdquo;</P>
+    <P Just="Center">The Committee divided: Tá, 51; Níl, 17.</P>
+    <P Just="Center">Tá</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Aiken, Frank.<br />Allen, Denis.<br />Bartley, Gerald.<br />Beegan, Patrick.<br />Blaney, Neal.<br />Boland, Gerald.<br />Bourke, Dan.<br />Brady, Brian.<br />Brady, Seán.<br />Breathnach, Cormac.<br />Brennan, Thomas.<br />Breslin, Cormac.<br />Briscoe, Robert.<br />Butler, Bernard.<br />Carter, Thomas.<br />Childers, Erskine H.<br />Colbert, Michael.<br />Colley, Harry.<br />Daly, Francis J.<br />Derrig, Thomas.<br />De Valera, Eamon.<br />Flynn, Stephen.<br />Fogarty, Andrew.<br />Fogarty, Patrick J.<br />Furlong, Walter.<br />Harris, Thomas.</entry>
+            <entry rowsep="1">Kennedy, Michael J.<br />Kilroy, James.<br />Kissane, Eamon.<br />Lemass, Seán F.<br />Little, Patrick J.<br />Loughman, Frank.<br />Lydon, Michael F.<br />Lynch, James B.<br />McCann, John.<br />McCarthy, Seán.<br />Morrissey, Michael.<br />O Briain, Donnchadh.<br />O Ceallaigh, Seán T.<br />O'Grady, Seán.<br />O'Loghlen, Peter J.<br />O'Rourke, Daniel.<br />Rice, Bridget M.<br />Ryan, James.<br />Ryan, Mary B.<br />Ryan, Robert.<br />Skinner, Leo B.<br />Smith, Patrick.<br />Traynor, Oscar.<br />Walsh, Laurence.<br />Ward, Conn.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Bennett, George C.<br />Coogan, Eamonn.<br />Corish, Richard.<br />Cosgrave, Liam.<br />Doyle, Peadar S.<br />Heskin, Denis.<br />Hughes, James.<br />Keating, John<br />Keyes, Michael.</entry>
+            <entry rowsep="1">McMenamin, Daniel.<br />Mulcahy, Richard.<br />O'Donnell, William F.<br />O'Higgins, Thomas F.<br />O'Leary, John.<br />Redmond, Bridget M.<br />Reidy, James.<br />Roddy, Martin.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash;Tá: Deputies Kissane and Kennedy; Níl: Deputies P.S. Doyle and Bennett.</P>
+    <P>Question declared carried.</P>
+    <P>Section 57 agreed to.</P>
+    <P>First Schedule agreed to.</P>
+    <P Just="Center">SECOND SCHEDULE.</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 159:&mdash;</P>
+      <P>In paragraph 1, page 38, to delete in lines 37 and 38 the words &ldquo;an Order made by the Minister under&rdquo;.</P>
+    </Speaker>
+    <P>
+      <Col N="1019" /> This is a drafting amendment.</P>
+    <P>Amendment agreed to.</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I move amendment No. 160:&mdash;</P>
+      <P>In paragraph 5, page 39, to delete in line 23 the words &ldquo;become and&rdquo; and to insert in line 24 the word &ldquo;become&rdquo; before the words &ldquo;the property&rdquo;.</P>
+      <P>This also is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>We have already argued the subject-matter of amendment No. 161.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>The amendment, which is in my name, reads:&mdash;</P>
+      <P>Before paragraph 6 to insert a new paragraph as follows:&mdash;</P>
+      <P>Where the services of existing officers or servants of a &ldquo;dissolved body&rdquo; are not required by a &ldquo;transferee council or councils&rdquo; such officers or servants shall having regard to their services be entitled to superannuation allowance or gratuity.</P>
+    </Speaker>
+    <P>We have already discussed this, as the Parliamentary Secretary says.  The <Col N="1020" /> point is that the local authority should have power to provide a superannuation allowance or gratuity.  I do not know whether the Parliamentary Secretary has considered this matter or is prepared to look into it.  Perhaps he will look into it between this and the Report Stage?</P>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>I will look into it, but I am terribly anxious not to allow people to get something to which they have no just claim.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I am with you, but supposing a man can establish a claim?</P>
+    </Speaker>
+    <Speaker pid="PatrickSmith" hpid="Mr. Smith Mr. Smith">
+      <NameTxt>Mr. Smith</NameTxt>
+      <P>If he has a claim, he is protected.  That is my point, but I will look into it further.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 162 not moved.</P>
+      <P>Second Schedule, as amended, agreed to.</P>
+      <P>Third Schedule and Title agreed to.</P>
+      <P>Bill reported with amendments.</P>
+      <P>Report Stage ordered for Wednesday, November 29th.</P>
+      <P>The Dáil adjourned at 7.25 p.m. to 3 p.m. on Wednesday, 29th November, 1944.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Tue" Date="21" Month="Mar" Year="2000" Vol="516" No="3" DateIrish="Dé Máirt, 21 Márta 2000" DateEnglish="Tuesday, 21 March 2000" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="473" /> Chuaigh an Ceann Comhairle i gceannas ar 2.30 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="Bertie" hpid="The Taoiseach Bertie Ahern">
+      <NameTxt>The Taoiseach</NameTxt>
+      <P>I wish to inform the House that it is intended that expressions of sympathy on the death of Deputy Michael Ferris shall be taken before the Order of Business tomorrow and that, as a mark of respect to Deputy Ferris, the following arrangements shall apply in relation to today's sitting. It is proposed, notwithstanding anything in Standing Orders or the resolution of the Dáil of 26 June 1997 setting out the rota in which ques<Col N="474" /> tions to members of the Government are to be asked, that questions for oral answer by the Minister for Enterprise, Trade and Employment shall be taken at 3.45 p.m. on Thursday, 23 March and shall conclude after one hour and that the sequence established by the said resolution shall continue tomorrow with questions to the Minister for the Marine and Natural Resources; questions for oral answer, following those next set down to the Minister for Foreign Affairs shall be set down to Ministers in the following temporary sequence &ndash; Minister for Defence, Minister for Public Enterprise, Minister for Finance, Minister for Agriculture, Food and Rural Development &ndash; whereupon the sequence established by the said resolution shall continue with questions to the Minister for Health and Children; and, as a mark of respect to Deputy Ferris, the Dáil shall adjourn forthwith until 10.30 a.m. tomorrow.</P>
+    </Speaker>
+    <Speaker pid="SeamusPattison" hpid="An Ceann Comhairle Séamus Pattison">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Are the proposals agreed to?</P>
+    </Speaker>
+    <Speaker pid="JohnBruton" hpid="Mr. J. Bruton Mr. J. Bruton">
+      <NameTxt>Mr. J. Bruton</NameTxt>
+      <P>As a mark of respect to our friend and dearly loved colleague, Deputy Michael Ferris, I agree to the arrangements.</P>
+    </Speaker>
+    <Speaker pid="SeamusPattison" hpid="An Ceann Comhairle Séamus Pattison">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The proposals are agreed to.</P>
+      <P>The Dáil adjourned at 2.35 p.m. until 10.30 a.m. on Wednesday, 22 March 2000.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="14" Month="Nov" Year="1952" Vol="134" No="12" DateIrish="Dé hAoine, 14 Samhain 1952" DateEnglish="Friday, 14 November 1952" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1589" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is proposed to take business in the following order: Items Nos. 1, 3, 7, 10.  Private Deputies' Business will be taken at 12 o'clock.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Is the House to meet next week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>The House will meet on Wednesday, and there is agreement <Col N="1590" /> to meet on Thursday from 10.30 a.m. until 10.30 p.m.  The House will meet on Friday until 2 o'clock.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Breanndán Mac Fheórais Breanndán Mac Fheórais">
+      <NameTxt>Breanndán Mac Fheórais</NameTxt>
+      <P>Could we have an indication as to whether the debate on the motion in the name of Deputy MacBride will be resumed at 12 o'clock to-day, or has it been agreed that it should be continued on the debate on the Estimate of the Office of the Minister for Finance?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It will be continued on the Estimate, I understand.</P>
+    </Speaker>
+    <Speaker pid="BrendanCorish" hpid="Breanndán Mac Fheórais Breanndán Mac Fheórais">
+      <NameTxt>Breanndán Mac Fheórais</NameTxt>
+      <P>What Private Members' Business will be taken at 12 o'clock to-day?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>The next motion on the Order Paper is a motion by Deputy Dillon, motion No. 3. If that is not taken, there is a motion in the name of Deputy Keane.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Tuarascáil on gCoiste Roghnaitheoireachta." RHead="Report of Committee of Selection">
+    <Title>Tuarascáil on gCoiste Roghnaitheoireachta.   Report of Committee of Selection.</Title>
+    <Speaker pid="DonnchadhOBriain" hpid="Rúnai Parlaiminte an Taoisigh (Donnchadh Ó Briain) Rúnai Parlaiminte an Taoisigh (Donnchadh Ó Briain)">
+      <NameTxt>Rúnai Parlaiminte an Taoisigh (Donnchadh Ó Briain)</NameTxt>
+      <P>
+      </P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Tuairiscíonn an Coiste Roghnaitheoireachta mar leanas:&mdash;</entry>
+            <entry rowsep="1">The Committee of Selection report as follows:&mdash;</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>1.  Coiste Speisialta ar an mBille Rialtais Aitiúil, 1952.</entry>
+            <entry>1.  Special Committee on the Local Government Bill, 1952.</entry>
+          </row>
+          <row>
+            <entry>D'ainmníodar na comhaltaí seo a leanas chun fónamh ar an gCoiste:</entry>
+            <entry>They have nominated the following members to serve on the Committee:</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">Minister for Local Government, Deputies John Beirne, Joseph Brennan, Patrick Browne, Phelim A. Calleary, Frank Carter, Patrick Cogan, Martin J. Corry, Daniel Desmond, John Flynn, John McQuillan, Michael P. Murphy, Ted O'Sullivan, Patrick W. Palmer and Gerard Sweetman.</entry>
+          </row>
+          <row>
+            <entry>2.  An Buan-Chomh-Choiste um Billí Comhdhlúite.</entry>
+            <entry>2.  Joint Standing Committee on Consolidation Bills.</entry>
+          </row>
+          <row>
+            <entry>D'ainmníodar an Teachta Seán Ó Loinsigh, Rúnaí Parlaiminte an Rialtais, chun fónamh ar an gCoiste seo chun an folúntas a líonadh a tharla de dheasca an Teachta Pádraig Ruitléis d'fháil bháis.</entry>
+            <entry>They have nominated Deputy Jack Lynch, Parliamentary Secretary to the Government, to serve on this Committee to fill the vacancy caused by the death of Deputy P.J. Ruttledge.</entry>
+          </row>
+          <row>
+            <entry>3.  Comh-Choiste na Leabharlainne.</entry>
+            <entry>3. Joint Library Committee.</entry>
+          </row>
+          <row>
+            <entry>D'ainmníodar an Teachta Ailfrid Ó Broin chun fónamh ar an gCoiste seo chun an folúntas a líonadh a tharla de dheasca an Teachta Ailfrid Pádraig Ó Broin d'fháil bháis.</entry>
+            <entry>They have nominated Deputy Alfred Byrne to serve on this Committee to fill the vacancy caused by the death of Deputy Alfred Patrick Byrne.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <Col N="1591" />
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>Now that this Bill has been referred to a Committee, a matter arises in regard to the proceedings of the Committee.  We have had one experience of a Committee in respect of which you, Sir, directed that its proceedings should be recorded.  I think it is important in the public interest that the proceedings of this Committee should be reported and that the Press should be present.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It is a matter for the Committee itself.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I know, but I should like to express my view that the Committee should ensure that the Press is present, so that the proceedings will be open to the public.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It is purely a matter for the Committee.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I agree.</P>
+      <P>Ordered: That the Report do lie on the Table.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Imposition of Duties (Confirmation of Orders)" RHead="(No. 2) Bill, 1952&mdash;First Stage">
+    <Title>Imposition of Duties (Confirmation of Orders) (No. 2) Bill, 1952&mdash;First Stage.</Title>
+    <P>Leave granted to introduce a Bill entitled an Act to confirm certain Orders made under the Emergency Imposition of Duties Act, 1932.</P>
+    <P>Second Stage ordered for Wednesday, 19th November.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Restrictive Trade Practices Bill," RHead="1952&mdash; Second Stage (Resumed)">
+    <Title>Restrictive Trade Practices Bill, 1952&mdash; Second Stage (Resumed).</Title>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>When the debate was adjourned last night, I was referring to the activities of some rings against which this Bill is aimed.  I think it will be agreed by everybody, as it appears to be agreed by every Deputy, that the organisation and activities of these rings are a growing menace to the people.  I have long felt that if the malpractices against which this Bill is aimed were eliminated, there would be a substantial reduction in the cost of living.  The timber ring to which Deputy Norton referred and the other rings in the building industry inflate the price of building materials and make houses much dearer than they ought to be, and a curbing of the activities of the gentlemen operating <Col N="1592" /> these rings in that industry would ensure that the ordinary people, anxious to become owners of their own houses, could purchase these houses at a much lower price than the price they have to pay at the moment.</P>
+      <P>In the clothing industry there are also many rings the main purpose of which is to keep the cost to the consumer up.  If they were curbed and controlled and prevented from operating in the way they do, there would be a very substantial reduction in the cost of clothing.  It is in the public interest that there should be legislation to ensure that these groups of individuals who deliberately set out to rob the public will be dealt with drastically by law for their offences against the public and against the public interest.</P>
+      <P>I referred to one organisation last night, the wireless dealers' association. There have been numerous complaints both here and elsewhere in relation to this association which consists of a small organised body that controls the association in their own interests, refuses to allow newcomers into it and actually prevents people who have been earning their livelihood in that business from getting supplies from the manufacturers or radio supplies generally from the wholesale dealers.</P>
+      <P>The very fact that there is a Bill such as this on the stocks will, I think, make those rings, groups and associations examine into their own practices. Perhaps the threat of the operation of the Bill will have the effect of removing a number of the malpractices to which nearly every Deputy has referred.  There has been a demand from intelligent, organised opinion for this Bill.  We are concerned now with the effectiveness of the machinery provided here.  I think the machinery is too cumbersome.  The operation of the machinery provided under this Bill will take too long.  I would like to see a section in the Bill proscribing certain practices as being both unfair and criminal so that the particular practices about which we all know can be dealt with straight away by the courts.</P>
+    </Speaker>
+    <P>The machinery proposed under the Bill for the examination of fair trading rules could then operate in its own <Col N="1593" /> leisurely way to deal generally with practices of long standing which are not as objectionable as some of the ones to which reference has been made. The organisation of a ring for the purpose of increasing prices should be made a criminal offence punishable as an offence against the public.  A combination of individuals for the purpose of withholding supplies that should be available in the public interest should also be proscribed as a criminal offence in the nature of a conspiracy against the public.  A section such as that in the Bill could be operated immediately and many of the malpractices and the objectionable practices against which the Bill is directed would very quickly disappear.</P>
+    <P>As I understand the structure of the Bill, it is proposed to establish a fair trading commission and that body may, on its own initiative, or at the request of an association representing persons engaged in the supply and distribution of goods prepare and publish fair trading rules.  I think that section should be amplified.  The Minister should have power to direct the commission to prepare such rules.  It may be argued that if the Minister strongly suggests to the commission that such and such an investigation should be made, or that such and such rules should be drawn up those concerned would on their own initiative deal with the matter.</P>
+    <P>If a group of citizens were to make a request to the commission that they would, on their own initiative, as a consequence of requests made to them, prepare and publish fair trading rules, that could be done, but I think that leaves it rather loose and where a substantial body of the public, particularly an organised body, or the representatives of the public here or in local authorities request the commission to prepare these rules the commission ought to do so.  That should be specifically provided in the Bill Where the commission prescribes fair trading rules and where it is discovered subsequently that these rules have lost their effect for one reason or another the commission should be empowered to make new rules in order to amend the old ones.  There should be specific provision for that.</P>
+    <P>
+      <Col N="1594" /> The same remarks would apply to the powers of the commission to make inquiry into the traditions which obtain in regard to the supply and distribution of goods.  That section should also be amplified to make it obligatory on the commission, if there is public demand for it, to hold such investigation.  The commission, having reported to the Minister, may make an order.  I think that Section 8 is one of the most difficult sections in the Bill and that it ought to be examined very carefully.  I may say that I agree with the intention behind the section but I can see the Supreme Court here deciding that the operating of some of the powers in that section might be unconstitutional.  For that reason, I think that the section should be examined very carefully by the best available authorities to ensure that what is intended by the section will be absolutely and without question within the law.</P>
+    <P>The Bill provides that when the Minister makes an Order, the Order will be laid before the House and that it will not have any effect unless there is an Act of the Oireachtas to confirm it, and to give it the force of law.  That is where I can see a great hold-up.  A considerable amount of time would obviously be spent in the investigation of a particular practice, and then the bringing in of a Bill here and in the Seanad to give effect to that Order and to make it lawful would hold up the effectiveness of the Order for a very long time.  I take it that a Bill of this kind would be the same as any other Bill and that it would have to go through all its stages here.  If the Order is directed against a powerful organisation, it is obvious that, no matter what Minister or what Party may be in power, the Opposition for the time being will fight that particular Order tooth and nail in the interests of the powerful organisation concerned.  Not only would it be fought here, but it would also be fought in the other House.</P>
+    <P>From one's experience of the amount of time available for what one might term the ordinary public business of the Dáil, a Bill to give effect to an Order will not be one to which the Government of the day will give <Col N="1595" /> priority and will put forward specifically. Therefore, I can see the gravest of delays in that machinery and I can see the whole effect of the legislation nullified by the procedure which must be adopted in this House before it becomes law.  I suggest that that particular provision ought to be reexamined because if it is left in the Bill it would be a long time before any Order made by the Minister would be given the effect of law and create a criminal offence in respect of which the criminal courts of this country could operate against the offender.</P>
+    <P>In Section 10 the Bill provides that it shall be lawful for a court of competent jurisdiction to grant an injunction on the motion of the Minister to enforce compliance with the terms of an Order made under Section 8.  To my mind that section is phrased wrongly.  It simply says that it shall be lawful for a court to grant the injunction but it does not oblige the court to grant it.  Our courts are just like everybody else.  We hear judges from day to day express their own particular views on matters relating, say, to private property, to the public welfare, and so forth.  The court, after the Dáil has gone into this whole matter, will be left in the following position.  Section 10 simply says that it shall be lawful for them to do it. It does not say that they are obliged to do it but, if they do it, it will not be unlawful.  Some judges, as the public may understand, might consider that they should not grant the injunction although it would be the wish of this House and of the public that such injunction should be granted.  For these reasons, I think that that provision should be looked into again and suitably amended.</P>
+    <P>Some of the later sections make provision for serious punishments for contravention of the Order.  I think everyone will agree that a person who would contravene an Order under those circumstances or an Order properly made in the public interest should be dealt with drastically.  I was surprised at some of the criticism we heard in this House under that particular heading. I think that an offender of that type is the worst conceivable type of <Col N="1596" /> criminal and that he should be visited with the severest punishment which the Constitution of this State would allow.</P>
+    <P>Under the Bill, a person may be dealt with summarily or he may be dealt with by indictment.  I take it that the discretion in that case would be in the Attorney-General to decide whether he would proceed against the offender by way of summary proceedings, or by way of indictment. In the case of summary proceedings, the punishment is limited and laid down here.  The man will be brought before a court of competent jurisdiction, the District Court, and he will be punished if found guilty.  He will have the right to appeal to a Circuit Court judge.  If, on the other hand, he is tried on indictment, the offence is put in the hands of a jury of 12 individuals who will decide whether or not he is guilty.</P>
+    <P>I do not know whether that is the correct form of trial for that type of offender&mdash;a trial before a jury of 12 men, some of whom may be engaged in the same business as he is, and any of whom may, under the law as it stands, prevent the jury arriving at a verdict of guilty.  From the point of view of the accused, it may be a jury of people who are outraged by his conduct and who would be very anxious to find him guilty even on rather slight evidence, so that it is again a matter of consideration as to whether offences of this kind against the public interest should not be dealt with all the time by means of summary procedure.  The difficulty will always arise that the Attorney-General will send one man for trial on indictment and deal with another man summarily, although both perhaps will have committed the same offence.  I think that these provisions of the Bill will require considerable examination on the Committee Stage.</P>
+    <P>Deputy Costello yesterday commented rather drastically on the method of appointment and the responsibilities of the commission.  He did say, in very specific language, that it would be a political tribunal, that it would act in a political way, that the people appointed would be politicans. appointed because of their political views, and he suggested that a fairer <Col N="1597" /> or a better way was to have matters dealt with by the judiciary who are, as he said, independent.  On the basis of appointment, no member of this House will say that judges are not appointed after political considerations are taken into account.</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>They cannot be removed by the Minister.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I am not concerned with that.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>That is what Deputy Costello said.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I think I might be permitted to develop the point.  I am just only at the beginning of it.  We cannot jump to the end just as quickly as that.  If one were to examine the appointment of judges in the past 30 years, one might find instances&mdash;and there have been instances&mdash;where judges were appointed and political considerations did not apply but they are the exceptions to the rule.  I think that if the responsibility of appointing a judge or of recommending the appointment of a judge were on Deputy Costello, political considerations would weigh rather heavily with him.  That being so, the same thing applies in regard to the present Government or in regard to any other Government.  I think that there will be less danger of political considerations influencing the Government in the appointment of a fair trading commission than there is in the appointment, say of a High Court judge.</P>
+    </Speaker>
+    <P>There have been many commissions and committees appointed by different Governments over the last 30 years and, generally speaking, once they were appointed, there has been no interference with them.  I think that any Deputy would have difficulty in bringing to mind instances in which a commission appointed by a Government has been interfered with in the performance of its duties by the Minister or the Government.  The Minister or the Government may come to the conclusion that the members of a commission are not doing their duty as Parliament would wish and may, at the termination of their term of appointment, fail to reappoint them.  I see nothing wrong in that and if the commission <Col N="1598" /> appointed by the Minister, under the authority given to him by this House, does its duty in a fair and impartial manner, does it without fear, favour or affection, it is obvious that on a change of Government that particular commission would be kept in being so that the point that has been made against this method of appointment by Deputy Costello has no substance in fact.  The precedents on which he can base an argument that such a commission would operate unfairly and for political motives and at the dictation or direction of a Minister who would abuse his powers to the extent of endeavouring to influence them in the performance of their duties&mdash;&mdash;</P>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>The Deputy is very innocent.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I am not innocent at all but I have at least as much knowledge of what has happened in this country in the last 30 years as any other Deputy.  I do not see that heads fall so often on the change of Government. As I say, if a commission does its work fairly and honestly, there is no danger that a succeeding Government will remove the members from office simply and solely because they have been appointed by a predecessor.</P>
+      <P>Deputy Corry yesterday made some references to what he termed unfair practices in the professions.  Perhaps it is unfortunate that there is no provision in this Bill to deal with unfair practices in the professions.  The Bill itself provides that an individual charged with an offence may be tried by the Central Criminal Court.  Up to the moment, persons charged in the Central Criminal Court may be defended by a solicitor alone, and have been so defended.  That has been the practice, as I know it, for over 20 years.  In the last week, however, an order has been issued that a person appearing before the Central Criminal Court will not be permitted to be represented by a solicitor alone, that he must be represented by counsel.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>An order by whom?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Surely that is a matter for the court.</P>
+    </Speaker>
+    <Col N="1599" />
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>It is an unfair and improper practice to which I am calling attention.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Who has issued the order?</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>The strange thing is that when Deputy Corry mentioned it, he was told by the Leader of the Opposition that there was no foundation for his charge.  The order was issued during the past week by the President of the High Court who brought before him the solicitor who is appearing to-morrow in one of these cases and told him that, when he had finished this case, it was the last occasion on which a solicitor would be permitted to appear in the Central Criminal Court to defend a person charged with an offence.  That is a very serious matter.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Obviously, we cannot discuss the order on this Bill beyond referring to it.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>I only refer to it because the Bill provides that a person charged with an offence under it can be tried before the Central Criminal Court.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That does not give the House liberty to discuss an order in respect of the courts in general.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>No, but I think it would be within my rights and the rights of any Deputy, to insert into that section in the Bill a clause to the effect that he may be defended by a solicitor.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>We are not discussing that now.</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>On the first available occasion that I get I want that section amended, to provide that even a criminal of the worst dye who would be guilty of an offence under this Bill when it becomes an Act would be entitled to the benefit of being defended by a solicitor in the Central Criminal Court.</P>
+    </Speaker>
+    <Speaker pid="LaurenceJosephWalsh" hpid="Mr. L.J. Walsh Mr. L.J. Walsh">
+      <NameTxt>Mr. L.J. Walsh</NameTxt>
+      <P>We might as well <Col N="1600" /> have the judges indulging in the new national pastime, &ldquo;Strike on here.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="PeadarCowan" hpid="Captain Cowan Captain Cowan">
+      <NameTxt>Captain Cowan</NameTxt>
+      <P>It is an important matter, and it is a pity that professional restrictions of that kind cannot be brought within the ambit of this Bill.  I think that Deputy Corry did a service yesterday in drawing attention to that.  I do not think that he ought to have been summarily dismissed, or told that he was talking through his hat, which was the phrase used by the Leader of the Opposition.</P>
+      <P>I welcome the Bill because it is an effort to give legal sanction to the power of punishing people who act in a criminal way against the community. I think the House will realise that the previous Minister and his Parliamentary Secretary, Deputy Cosgrave, gave a considerable amount of consideration to this problem.  We were told on numerous occasions that the matter was under consideration, and I accepted that.  The fact that it was under consideration for such a long period would indicate how complex and difficult it is.  Where we have, as we have, an almost unanimous desire to put an end to these malpractices, then I think that if on the Committee Stage we all get together and give of our best in co-operation with the Minister, and with his co-operation, we will be able to pass into law a Bill which will put an end to these malpractices, one that will make it very expensive on any member of the community who would use the powers he may have for the purpose of injuring or damaging the public or the public interest.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>We have had a very long discussion on this Bill.  A good part of it has been devoted to the consideration and principles that underlie, or should underlie, any consideration of restrictive trade practices.  Deputy Cowan, with whom I must confess I rarely agree, did at least last night and in the early part of his speech this morning&mdash;it was a pity that he spoiled it in the later part&mdash;attempt to get to the root of certain failures in this Bill.  Last night, we had a rather loud interjection by Deputy Dr. <Col N="1601" /> Browne who seems to consider that it is necessary in every speech that he makes in this House to take the opportunity of venting his personal spleen, regardless of the subject that may be under discussion.  Whatever feeling one may have had for his sincerity, the manner in which he obviously utilises his speeches in this House for the purpose of venting pure personal spleen and nothing else, must detract from the consideration which anyone would otherwise give to his views.</P>
+      <P>I want to approach this Bill not in that spirit but in the spirit of discussing what is in it from an objective point of view and what is not in it also from an objective point of view. I want to congratulate the Minister on a piece of tremendous salesmanship in that he has succeeded in persuading people not merely in this House but elsewhere that there are things in this Bill which are not in it at all.  The Minister was perfectly right when he said, in opening the debate on this Bill, that he would have little difficulty in convincing the members of the House that he believed there was a necessity for some type of legislation to curb restrictive practices.  Anybody, with any experience of the position as it is throughout the country, will realise and understand that it was necessary that some type of measure should be introduced, and equally the Minister himself has, from time to time, indicated that the previous Government, appreciating that, set on foot the inquiries which were taken up and continued by the Minister when he took over office.</P>
+    </Speaker>
+    <P>In my view, the fundamental failing, so far as this Bill is concerned, is that it lays down no principles at all.  There is no difference between this Bill and the setting up of a commission in the ordinary sense of that term.  There is no fundamental difference between it and the commissions which were set up to consider the questions of unemployment, youth unemployment or the commission on folklore.  This is purely a Bill to legalise a commission of inquiry, and it is utterly idle and futile for the Minister to describe a Bill legalising a commission of inquiry as being an instrument to smash rings. Of course, we all know that was merely <Col N="1602" /> a nice political propaganda phrase which he hoped was going to have effect in North-West Dublin but which, we all know now, has had as little effect as the other pronouncements of the Minister in that particular constituency.</P>
+    <P>This Bill does nothing except set on foot an inquiry.  Even if an inquiry were to be started, even if that were the only method of dealing with this problem, it would be up to us to give some lines of approach, some lines of principle, to those who are instituting the inquiry as to what we felt they should proceed with and should examine.  It is no good for us to say what we hope, or for the Minister to say in his introductory speech what he hopes, the commission will do or will not do.  Any commission or tribunal set up should not be concerned with what is in the speeches from either side of the House but with what is in the Bill establishing it, and the Bill establishing it gives no help or assistance whatever.</P>
+    <P>This is not a positive act to deal with these problems.  It is the institution of an inquiry to deal with them.  While it may be the first part of the journey, it is not at all the journey itself which the Minister tried in his opening speech to make us believe it was.  When I say that, I want also to make it perfectly clear that I am far from failing to realise that the laying down of principles is not a very difficult matter, because it is.  But we should give in this Bill before it becomes an Act, and the Minister should have introduced it when bringing the Bill before the House, some line of general approach which, perhaps, might have exceptions. It would be far more preferable, for example, to say that certain things would be illegal practices or unfair trading unless the commission make an order determining otherwise rather than to give no indication whatever in the Bill itself.</P>
+    <P>I want to suggest that in general, quite apart from particular exceptions, there are four illegal practices to which the Minister should have referred specifically in this Bill.  The Minister should have stated that it was illegal for a trade association to fix minimum <Col N="1603" /> prices, that it was illegal for a trade association to combine to restrict production, that it was illegal for a trade association to limit competition amongst its members, and that it was equally illegal for a trade association to restrict entry into a trade, always as I have said originally, with the provision that in certain circumstances there may be exceptions to these four rules.  But it is up to the Government to give a lead to the commission that is to be set up and to say that in general there are certain things that they believe to be illegal, but that there may be exceptions to these cases and that they wish the exceptions to be considered so that there will be power by exception to take away a general rule in particular circumstances.</P>
+    <P>One of the difficulties in regard to the fixation of prices as we know at present is that what is in fact fixed as a maximum price is not just a maximum price but a fixed price.  It is a maximum price, but it is also a minimum price, and it becomes, therefore, merely a fixed price.  It is a fixed price which is made on a marginal basis and the result, therefore, is that it is built up by one margin over another and the more distribution margins there are in any particular trade the higher will be the effective minimum price fixed by the existing machinery of price control.</P>
+    <P>There are obviously cases where, because, say, of bulk buying one particular firm should be enabled to purchase cheaper than another and to have lower overheads and should be permitted to sell to the community at a lower price. We have the system in recent years of &ldquo;cash and carry.&rdquo; Why should people in trade not be permitted to offer their consumers the difference between the two types of service?  You may have one consumer who does not want to go to the trouble of bringing the purchases home and the purchases would be delivered.  You may have another consumer who prefers to pay, if he can, a little less and to do without that service and to bring home the things bought. Yet, there is a wide range of commodities as to which, by reason of trade associations, it is not permitted for individual retailers to make any difference in the price for those who <Col N="1604" /> have the delivery service and those who have not.</P>
+    <P>It is not merely a ban on that type of differentiation that is used by an individual manufacturer, not merely a ban used by one manufacturer in respect of his own branded article.  It is used, not merely by that manufacturer, but by associations who are dealing in kindred articles as well as the particular article concerned.  It is not the fixation by the individual manufacturer which I feel is the real danger, but the fixation by other associations of the stock list of kindred articles which can and does in effect mean that the person must go out of business.</P>
+    <P>I must confess quite frankly that I am an unrepentant believer in free private enterprise, but for private enterprise to be successful in the national interest as such, it must be free, and it is because it is not allowed to be free that it becomes necessary to bring in some method of curbing restrictive practices brought in by trade associations.</P>
+    <P>It was extremely unfortunate that the Minister did not face up to his responsibility when introducing the Bill and lay down in it general lines of principle upon which the commission would have the task of working, and we would know where it was intended to go.  In the whole of the Minister's speech, with the exception of one small paragraph, while he mentioned various practices which appeared to be troubling other people, to be matters of complaint, never once, with, I think, one small exception, did he come out openly himself and say that he and the Government regarded this complaint or that complaint as being one which was injurious and should be curbed.  All of that inevitably forces one to the conclusion more and more that the Minister does not intend this Bill to be an end in itself, but that he intends it merely to be a Bill to set up a roving inquiry and that he is setting it up in this fashion as a sop to public opinion.</P>
+    <P>It would have been quite possible for the Minister to have laid down certain principles in the Bill itself.  Even if he has failed to do that in this Bill, he has done another thing that I think <Col N="1605" /> even worse.  In Section 3 he has given, as the heading in one newspaper this week said, his lead for the voluntary abandonment of restrictive practices. It is an extraordinary thing that in that section he requests trade associations themselves to go to the commission and, working with the commission, to set up rules for the regulation of that trade and not merely for that trade but for the public, the consumer, as well, while throughout the Bill he provides no method whatsoever by which anybody else can ever submit views to the commission on what those fair trading rules should or should not include.  It is also extraordinary that whereas those rules will be binding, it is not provided that they should come before this House to give the House an opportunity of determining whether they are in the public interest or not.</P>
+    <P>The Minister, in introducing the Bill, quite rightly stated that one of his objections to trade associations was that they were arrogating to themselves powers which should be vested only in this House.  He was perfectly right in that regard.  The power of the stock list exercised by trade associations, the power of preventing people from earning a livelihood, are powers which should be vested in the representatives of the people and should not be taken by anybody else.  In Section 3, however, the Minister is giving a closed power to the commission, with the trade associations, without anybody else having even a chance of making representations, to lay down rules by which this House will be bound and by which trading will be carried out.</P>
+    <P>The Minister may say, perhaps, that even though a fair trading rule has been made under Section 3 that does not prevent the commission from reporting adversely under Section 6. That is obviously too shallow an argument even for the Minister to put forward. It is noticeable that whereas any adverse criticism of a practice must be brought to the House, at the same time under Section 3 a restrictive practice can be made permanent without the House having any opportunity under the terms of the Bill of offering an opinion.  I would suggest <Col N="1606" /> that it would be wiser to drop that section entirely from the Bill.  If the Minister hopes that those who have been engaged in unworthy practices up to this will cease those practices then he will get from them and from the public a much greater degree of co-operation if he lays down some principles and asks those concerned to conform to them.  If those concerned feel that those principles could not possibly be worked into their particular trade then he should provide a method of appeal against them.  If he did those things he would be going a far greater distance and making a much more constructive effort.</P>
+    <P>I am not clear whether an inquiry into the whole general position of retail price maintenance will come within the purview of this body.  If there is to be such an inquiry&mdash;and I think an inquiry into how retail price maintenance is affected by and affects our economy is necessary&mdash;then I cannot see any possible hope of the commission's doing anything else for a period of at least three years.  A proper inquiry into the various types of retail price maintenance will take a very considerable time and I do not think this House or even the Minister&mdash;I will give him credit for that&mdash;are prepared to wait such a lengthy time before dealing with some of the practices with which people have come in contact. We have had references during the course of this debate to the Wireless Traders' Association, the Motor Traders' Association and various types of associations.</P>
+    <P>I do not propose to go into the details again to weary the House, but it does seem to me that they are entitled to say: &ldquo; This Bill does not say that anything we have been doing is wrong.  If what we have been doing is wrong it is up to you to state in the terms of the Bill that it is an unworthy practice. Unless you can show some specific reason why the Bill should not refer to our trade then we are entitled to assume that the rules of our trade are reasonable, proper and fair rules, and we see no reason to put our rules before the commission under the provisions of Section 3.&rdquo; Under Section 3 the Minister will not get anywhere <Col N="1607" /> except perhaps, because of the method of inquiry, to make permanent some restrictive rules which he, himself, should not and probably does not wish to make permanent.</P>
+    <P>Deputy Cowan seems to have missed entirely the point of the argument put forward by Deputy Costello about the commission.  It is not a question of the appointment of the members of the commission.  It is a question of their tenure.  As far as their appointment is concerned there are points of view to be considered but as far as their tenure is concerned there are no two points of view.  The difference between, for example, a judge and a member of this commission is that once a judge is appointed his appointment is a charge on the Central Fund and, no matter whom he offends, so long as he carries out his duties and is not disqualified, he cannot be removed, while members of the commission know that they are merely members at the pleasure of the Minister for the time being.  It is an extremely bad thing that people who are given powers such as the powers in this Bill should merely remain in office at the whim or pleasure of a particular Minister.  I am not referring to the present Government only.  I think it would be undesirable in the case of any Government.  It is no good likening this to the terms applied to some body which is set up and asked to consider, say, rent restrictions.  If it is going to be a serious Bill it will have to be dealt with on a different basis.  It would be far better if we would lay down principles and appoint somebody for the administration of those principles, making him, if you like, a really permanent appointee and charging his salary to the Central Fund so that he cannot be responsible or responsive to the whims of any particular Minister at any particular time.</P>
+    <P>We had last night a dissertation by Deputy Briscoe in which he purported to quote a speech that was given by Deputy Dillon at an earlier date.  He purported to put into the mouth of Deputy Dillon phraseology indicating that Deputy Dillon had said that Irish cement was of bad quality.  I went to the trouble of reading, even though I <Col N="1608" /> had heard it, the speech made by Deputy Dillon.  Of course Deputy Dillon said nothing of the kind.</P>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Hear, hear!</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I hope you did not stay up too late.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>No, I read it in bed. What he did say is exactly the antithesis of the case put forward.  He said that it was entirely wrong that the key positions in the company should not be manned by Irishmen.  If the Minister does not subscribe to that view then we know where we are.  I must confess quite candidly&mdash;I am glad Deputy Dillon has come into the House because I would like to say this when he is present&mdash;that I do not myself always subscribe to some of the flowery language used in this speech, but it is an undoubted fact that the kernel of the whole speech that was given by Deputy Dillon was that he complained bitterly that the people who did the lower type of work in the factory are Irish but that the key-men are Scandinavians.  I have no means of ascertaining whether that is so but I assume Deputy Dillon would not have made that statement without knowing it was true.  It was, therefore, a perfectly proper observation to be made.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Is it not a fact that the cement company threatened the last Government that they would withdraw their technicians if the Government insisted on their demands?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>They did not.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I do not propose to follow Deputy Hickey on that line, for this reason, that I think it is undesirable that confidential discussions that took place at Government level should be trotted out here on every occasion as they are by Deputy Dr. Browne, for example, but I want to say this, the management of Cement, Ltd., made it perfectly clear, not merely to the Government, but to other Deputies, including myself, that they were not going to go in for an expansion except on the terms they had put up to the Government of the day.  Personally I <Col N="1609" /> think that having regard to the then capital market, the terms that were suggested by the Government were adequate.  Of course we all know that, since that time, as a result largely of the machinations of the Minister's colleague, the Minister for Finance, the capital market has been completely turned upside down.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Is it not time that Irish technicians were employed having regard to the number of years the factory is manufacturing cement?</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>That seems to me the case that is being made by Deputy Dillon and not a case on the quality of cement as was suggested by Deputy Briscoe.  We all agree that the quality of Irish cement is absolutely first-class.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>It is something like the conditions that were imposed on the poor Persians.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Would Deputy Hickey reserve his comments for his speech?</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I hope Deputy Hickey by intervening will not draw me into the problem of Persia because if that happened the time that is at our disposal in this House would be somewhat short.  I want also to draw the attention of the Minister to paragraph 8 of the Schedule and not merely to the objection that has been put forward by other Deputies about the introduction of Guards into this.  First of all, let me say categorically that the phraseology of that rule means that a Guard can go in at any time to any business and ask whatever questions he thinks desirable or interesting.  The Schedule is phrased in an irresponsible way.  There can be no justification whatsoever for the phraseology that is included now in Section 8.  The individual Guard concerned is given a discretion in that rule that should be given to no ordinary person.  The fact that it should be given to no ordinary person has been recognised time and time again by this House when provisions have been inserted that the powers given shall be exercised by Guards not below the rank of inspector or superintendent.  There is no such <Col N="1610" /> saving sentence here.  I can understand the necessity in individual cases for certain specific questions being answered for the commission or being inquired into for the commission but the commission should be the body giving the specific order.  It should not be left to the roving inquiry of a Guard who thinks that the commission might like to know this and who, as an authorised officer in the loose phraseology that is given here, walks across to the local publichouse and starts to ask questions about the business, the bank balance, and so forth, of the person concerned.  There is no excuse whatever for such a provision being included.</P>
+      <P>There is another provision which is included in clause (c) of paragraph 8 which is nearly as bad, and that is, where there is an inducement given to persons to go and get information from employees before they ask the employer. It seems to me that it is quite outrageous to suggest that an employee would be asked to spy on his employer. I cannot see any reason for the inclusion of the phraseology &ldquo;an authorised officer is hereby authorised to require the person who carries on such activity and any person employed in connection therewith.&rdquo;  I cannot see any reason for the inclusion of those last words except to try to get an employee to spy on the employer.  If that is the spirit in which the Minister hopes to get this Bill operated and carried through, I am afraid he will get very little co-operation from those concerned.</P>
+      <P>The Minister knows perfectly well that if the commission want to get the books of any particular firm or if they want to bring the owner of a particular firm before them, they have proper and adequate power and should be given proper and adequate power to do it.</P>
+    </Speaker>
+    <P>The position could be dealt with quite easily if the other alternative I have mentioned had been brought in, if the principles had been laid down. Even on the Minister's own basis, he could provide quite simply that any owner of a business must produce the books, information&mdash;everything like that&mdash;that is required before the <Col N="1611" /> commission.  If the Minister wishes, wilful failure to produce could be made an offence or, better still, he could provide that after wilful failure to carry out the terms of the summons, the employee who appears to be the next in command would be the person ordered to produce the information, if it was in his power to do so.  But, to provide that an authorised officer can go behind the employer and try to get other employees to pimp and to spy on the persons who are carrying on a business is something that the Minister should not include in a Bill of this nature, and I would have hoped that the Minister would not have allowed such loose drafting.</P>
+    <P>I am disappointed with this Bill.  I think it is only political wrapping for an ordinary commission of inquiry.  It would have been much better, much more honest, if the Minister, under his own hand, under the powers he has already, without a Bill such as this, had set up a commission to make these inquiries and, when he had got the report of the commission, had introduced a Bill.  That would have got just as much result but I appreciate that, from the Minister's point of view, it might not have been such good political propaganda.</P>
+    <P>I am sorry that in a matter as serious as this is the Minister has decided to deal with it in this way, purely for propaganda reasons, and has not really made an effort to do something in the Bill before the House to &ldquo;bust the trusts&rdquo;&mdash;if I may paraphrase a statement of the Minister.</P>
+    <P>This Bill is only starting a chain of inquiry.  It will not of itself do anything to break rings.  On the contrary, what I am worried about is that it may do something to enshrine them. I want to see a system under which really illegal practices that are unfair and unjust to the community are specified and condemned and the ordinary trader who carries on in the national interest and in his own interest nationally given an adequate opportunity to know where he stands and to carry out his business in a proper manner without the pimping <Col N="1612" /> and spying that is introduced in clause 8 of the Schedule.</P>
+    <Speaker pid="PatrickJBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>I thought we would be treated to a more intelligent contribution from Deputy Sweetman.  I ask the House, will any responsible Minister go to the trouble of preparing a Bill of this kind unless there is national necessity or demand for it? Public opinion has been crying out for a Bill of this kind.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Not of this kind.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>But for this purpose.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>For a proper Bill.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>And crying in vain until now.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>And will still cry in vain unless we can amend this in Committee.</P>
+    </Speaker>
+    <Speaker pid="LiamCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>Or change the Government.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>It is coming.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>There is hardly a Deputy who has not come up against what the Minister is trying to cure in this Bill, restrictive practices.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Or racketeering</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>The Minister is to be congratulated and every decent Irishman will support the Minister in introducing this Bill.  In a democracy, no Minister of State wants to interfere with ordinary decent traders or would dream of interfering where trading is carried on properly but a Minister who has the welfare of the country at heart will step in if he sees that rings are formed to restrict trade within narrow limits and it is time then for any Minister to step in, no matter how unpopular that may be.  Any legislation that is introduced is unpopular with some section of the community.  In this country, manufacturers, traders, wholesalers and all other business people have a fair chance.  They have reasonable protection; they have received encouragement from the present Minister in every possible way and all we want of these people is that <Col N="1613" /> they will treat us as fairly as we are treating them and as honourably as we are treating them.  If a few of them get together in order to see that one section of the community is deprived of certain articles, it is time for Dáil Éireann to say that they will not be allowed to carry on in that way.</P>
+      <P>One part of Deputy Sweetman's statement contradicted the other part. He wants the Minister to set up a commission.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>If you had come in and had listened to the whole speech you would be much wiser as to what I said.  You blew in at the end because you are still suffering this morning from the shock of yesterday.</P>
+    </Speaker>
+    <Speaker pid="PatrickJBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>Deputy Sweetman wants a commission set up and, if a commission is set up, Deputy Sweetman is one of the first Deputies who will come into the House and say, as he has said to the Minister this morning, that it is a political sop.  I know the tactics of the Deputy very well.  I move the adjournment of the debate.</P>
+      <P>Debate adjourned.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies' Business. - White Paper" RHead="on Trend of External Trade&mdash;Motion">
+    <Title>Private Deputies' Business. - White Paper on Trend of External Trade&mdash;Motion.</Title>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That Dáil Éireann is of opinion that the White Paper on the Trend of External Trade and Payments, 1951, presented to Oireachtas Éireann by the Minister for Finance, in so far as it purports to draw conclusions from the statistical material set out, is in the main tendentious nonsense; that the White Paper has been presented improvidently and that the Minister for Finance is deserving of censure for having presented this discreditable document to Oireachtas Éireann.</P>
+    </Speaker>
+    <P>At first, it might seem to a casual observer that a motion of this character relating to a Paper issued in 1951, had become irrelevant in November, 1952; but I think I can satisfy the House that it is only now that the impact of the conclusions, the false conclusions, drawn from the statistical <Col N="1614" /> material of this table has come to impinge upon our people.</P>
+    <P>I want to direct the attention of the House to a photograph and a newspaper report which appeared in the <i>Irish Times</i> of Friday, November 7th, 1952.  The photograph is entitled: &ldquo;One of the `Timber Specials' starting out on its journey northwards.&rdquo; Do Deputies of this House know what those timber specials contain?  They contain the building timber that our Government induced the timber importers of this country to bring into Ireland from Canada for the building industry of this country, so that there would be a sufficient supply of timber for those who wished to borrow under the Small Dwellings (Acquisition) Acts in order to build their own houses.</P>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. Lemass)</NameTxt>
+      <P>The Deputy will be relieved to know that it is being replaced by cheaper timber.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The timber that we brought in is to-day being exported from this country&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>And cheaper timber brought in.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&mdash;&mdash;and the reason is that the timber suppliers of this country have been notified by the building contractors that with the increase in the rate of interest chargeable on loans under the Small Dwellings (Acquisition) Acts, the building that was proceeding&mdash;and I will describe it&mdash;is going to peter out, that that timber is at present surplus to our requirements, that it now can be disposed of and that we can hereafter depend on whatever trickle of timber comes in as required.  The fact is that the people who are buying the train loads of timber are buying timber&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Finance (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Finance (Mr. MacEntee)</NameTxt>
+      <P>On a point of order&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>This fellow was not in when I started.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>No, I was not, thank God.  This motion relates to a White <Col N="1615" /> Paper published in August 1951, and I cannot see how a question of the import or disposal of timber has anything to do with the allegation.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>He does not know what is in his own White Paper.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I want to point out what to you, Sir, what is in the motion.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I want to point out what is in the White Paper, which will make the Minister's face red.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The motion says:&mdash;</P>
+      <P>&ldquo;That Dáil Éireann is of opinion that the White Paper on the Trend of External Trade and Payments, 1951,... in so far as it purports to draw conclusions from the statistical material set out, is in the main tendentious nonsense; that the White Paper has been presented improvidently and that the Minister for Finance is deserving of censure for having presented this discreditable document to Oireachtas Éireann.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Hear, hear!</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I do not mind Deputy Dillon rending the heavens and tearing his scanty hair if he wishes in order to prove that, but the question of the export or import of timber has nothing to do with the phrase &ldquo;tendentious nonsense&rdquo; or the phrase &ldquo;presented improvidently&rdquo; or the phrase &ldquo;deserving of censure&rdquo;.  Those are the points, the three main headings, in Deputy Dillon's motion.  I think the question of disposal of timber or the profits which timber merchants may be making has nothing to do with that.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>May I direct your attention to page nine of the White Paper under review?  On the first line of that page there appears: &ldquo;Wood the Timber and Manufactures&rdquo; and the note is:&mdash;</P>
+    </Speaker>
+    <P>&ldquo;The imports of sawn soft timber at £3.1 m. increased by £0.6 m. Volume was down by 9 per cent., but the c.i.f. price was up by 37 per <Col N="1616" /> cent.  Imports of other descriptions were generally higher mainly because of increased prices.&rdquo;</P>
+    <P>I am dealing with that conclusion.</P>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>In the opinion of the Chair, the Deputy would be correct in dealing with the point of timber imports, but to discuss the import or export of timber subsequent to the White Paper being presented would be out of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>There were imports of soft timber and they are referred to on page nine.  What are they?  Is the Minister afraid to say where they are? They are there&mdash;on railway wagons, bound for Belfast.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>If the Deputy wishes to criticise the panic importation of certain commodities, when they began to realise that they were quite unjustified&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Panic?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>&mdash;&mdash;in budgeting for peace&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>A panic in the late part of 1950.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>If he wishes to criticise that, he is quite in order, but I am submitting to you that the export of timber from this country in 1952 has nothing to do with the statement contained in this White Paper.</P>
+    </Speaker>
+    <Speaker pid="DonnchadhOBriain" hpid="Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain) Donnchadh Ó Briain">
+      <NameTxt>Parliamentary Secretary to the Taoiseach (Donnchadh Ó Briain)</NameTxt>
+      <P>Have you given a ruling?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Chair has ruled that that would be out of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister has spoken of &ldquo;panic imports&rdquo; of timber and he readily concedes that this is an issue on which he is prepared freely to join in the context of the motion.  I want to ask what is the meaning of &ldquo;panic imports&rdquo; of timber in 1950?  What was the panic?  What was the purpose of importing the timber, what was the timber for?  Was it to build houses for our people in our country?  Will anyone suggest that we brought in scantlings and floorings for a purpose other than to build houses?  Will anyone suggest <Col N="1617" /> that the word &ldquo;panic&rdquo; can be appropriately applied to the purchase of building materials wherewith to erect houses for our own people in our own country?  If we brought the timber in with that purpose in view and then loaded it on railway trucks and&mdash; having paid for it with hard-earned dollars&mdash;in panic shipped it out to Liverpool and Belfast, to sell it for sterling&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy is beginning to discuss a question that has already been ruled out of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I am beginning to discuss the alleged &ldquo;panic importation of timber&rdquo;.  What is panic? Panic is to act precipitately, without due reflection.  I say that the timber we brought in, referred to on page nine of the White Paper, described by the Minister for Finance to-day as a panic importation of timber had about it no vestige of panic.  It was brought in deliberately.  It was brought in by design.  It was brought in at great expense&mdash;brought in by the public-spirited timber importers whom we asked to bring it in.  If the volume astonishes and shocks the Minister for Finance I can tell him that it was brought in with full deliberation.  We knew the volume.  We knew the cost. We asked the timber importers in a public-spirited way to help us to accumulate in the country a quantity of timber to ensure that, come what might, the building programme we had envisaged over a period of ten years would proceed smoothly and without interruption.  Was there any panic in that?  Where does the Minister see evidence of panic in that?  I could sympathise with the Minister if our conduct subsequent to bringing in the timber had been of a character which might lead him to believe was panic. If we had set fire to the timber that would be evidence of panic.  If we had loaded it on to railway trucks and exported it from this country for sterling when we paid for it with dollars that would be panic, but we did not do that.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Again, Sir, since we <Col N="1618" /> are discussing wood and timber manufactures, may I draw your attention to the passage on page nine of the White Paper, which relates to these particular commodities?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Is this a point of order?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It is.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am going to suggest that the line the Deputy is taking is not in order and in order to prove that I must draw your attention to the specific comment made on page nine, which is as follows:&mdash;</P>
+      <P>&ldquo;Imports of sawn soft timber at £3.1 million increased by £0.6 million. Volume was down by 9 per cent., but the c.i.f. price was up by 40 per cent.&mdash;&mdash;&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>37 per cent.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>By 40 per cent.  It continues:</P>
+      <P>&ldquo;Imports of other descriptions were generally higher&mdash;&mdash;&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>37 per cent. is the figure in the White Paper.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am reading from page nine.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>37 per cent. is the figure, not 40 per cent.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I beg the Deputy's pardon&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister is reading from a badly-typed copy and they have got the wrong figure.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Since the Deputy alleges I am reading from a typed copy &mdash;I have the wrong copy.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>When will I get Fanny right?  He is always wrong, even about his own White Paper.  Let the Minister read it again and read it accurately.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am reading now from the top of page nine:</P>
+      <P>&ldquo;Imports of sawn soft timber at £3.1 million increased by £0.6 million. Volume was down by 9 per cent., but the c.i.f. price was up by 37 per cent.&mdash;&mdash;&rdquo;</P>
+    </Speaker>
+    <Col N="1619" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That is right.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The difference between 37 per cent. and 40 per cent. will not break the Deputy or me.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Is this a point of order?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It says: &ldquo;Imports of other descriptions were generally higher mainly because of increased prices.&rdquo;  I would suggest to the Chair that if the Deputy describes that as &ldquo;tendentious nonsense,&rdquo; as to whether the c.i.f. price was up by 37 per cent. or was not, the fact that the bottom has fallen out of the timber market has no justification for Deputy Dillon addressing himself to the occurrence of 1952 in order that he may avoid addressing himself to the net statement as to whether or not the c.i.f. price was up by 37 per cent.  If the c.i.f. price was up by something considerably less than 37 per cent., then the statement in the White Paper would be tendentious.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister ought to be ashamed of himself.  Surely&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am quoting this under great difficulty.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I submit that the Chair should send for the Ceann Comhairle.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Since Deputy Dillon has chosen&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>That is not a point of order.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>Yes, it is.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Deputy Carter has spoken.  Let all men stand silent.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am endeavouring, if I can to come to the net point.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Deputy Carter should cease interrupting.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The net point is this.  Since Deputy Dillon has chosen to stand on the statement at the top of page nine on the White Paper and since the statement there is that the c.i.f. price went up by 37 per cent. then he must, in order to address himself to his own motion, prove that it was tendentious <Col N="1620" /> to say it was up by 37 per cent.  He must address himself to that net point.  The Deputy is getting away from it.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Deputy Dillon is in order in discussing the imports of wood and timber on page nine.  He is entitled to make his case on that, but not on every point in the White Paper.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>This preposterous little man, the Minister for Finance, was not five minutes in the House when he said by way of intervention: &ldquo;The Deputy is referring to panic imports of timber in 1950.&rdquo;  I think it is beyond doubt or cavil that that intervention was made.  To that interruption I am now going to address myself at length.</P>
+      <P>I want to ask again where is the evidence of panic in dealing with the timber we brought in?  On the score of quantity was there evidence of panic?  I say &ldquo;No.&rdquo;  I say the quantity was such as we could command and if we could have got more timber we would have brought it in.</P>
+      <P>The House will remember that last night when the Minister for Industry and Commerce was discussing wool he said that speaking for himself&mdash;I will deal with wool later in this context&mdash; he wanted stockpiling.  He congratulated the Government of 1950 for having stockpiled and he gladly assumed the task of liquidating the stockpile now that, by the providence of God, it was not required, difficult as that task was, and he made suggestions as to how that could be done.</P>
+    </Speaker>
+    <P>I am talking of the identical decision that we, as a Government, took in respect of building timber.  We went to the importers and asked them to stockpile.  We told them that if, under the providence of God, an emergency did not arise and they were involved in any loss, difficulty or credit problem they could look to this Government to sustain and support them to repair any injury that might have accrued to them as a result of their public-spirited effort to help us to accumulate stocks of timber in order to maintain a steady expansion of the <Col N="1621" /> housing drive.  Was that evidence of a panic?  I think not.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Go in and buy at the top of the market as you did and leave other people to liquidate the position.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister now contends that the purchase of timber was characterised by the quality of panic. I must have the right to rebut that allegation.  You have panic by the conduct of men, by what they do.  Did we jettison the timber?  Did we tell the timber importers in October, 1950, November, 1950, December, 1950, January, 1951, February, 1951, March, 1951, April, 1951, May, 1951, or June, 1951: &ldquo;Get rid of the timber&rdquo;?  Did we tell them to cancel their contract?  Did we tell them to divert the cargoes that were afloat?</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>You had not the authority.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Did we tell them to put the timber on flat cars and send it to Belfast?  Did we tell them: &ldquo;We will lend the Government of Great Britain our money and at 1½ per cent. to buy the timber from you because our people must build their houses with money borrowed at 5 per cent. from the British insurance companies and they will not be able to use the timber?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>We will soon want more timber here if the Deputy continues. Mahogany is very dear&mdash;most expensive.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>We did not.  We said to the financial interests in this country: &ldquo;Our people will get money to build their houses at the same rate as people in Great Britain, and if there is any attempt to deny it to them we will know the reason why.&rdquo;  Do not forget that Dublin Corporation wanted £5,000,000 and could not get it.  The banking interests in this country were interviewed in Government Buildings and Dublin Corporation got their money the following morning.  We did not approach the finance market with the announcement that we were going <Col N="1622" /> to pay a higher rate of interest than had ever been paid on a national loan in this country since the Civil War.  We did not assert that the insurance companies of Great Britain were entitled from our people&mdash;and would get it&mdash;to their pound of flesh and their pint of blood.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>On a point of order. Shall I be in order in discussing national loans on this motion?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>No.  The Deputy is not in order in discussing national loans.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Or any other loans.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The more he interrupts the deeper in the mire he gets.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I should like to call attention to the fact that the terms of the motion relate solely to the White Paper and to asking the House to believe that it was in the main &ldquo;tendentious nonsense.&rdquo;  Deputy Dillon has not said a word about that.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Chair has already pointed that out to Deputy Dillon.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>It was suggested that our import of timber was a panic import.  Surely, when you have allowed the Minister for Finance to intervene for ten or 15 minutes and to make an interim speech as a point of order, then a rebuttal of the suggestion about the import of timber made on page nine of the White Paper as part of the grounds for the conclusions reached by the White Paper is not a subject which must not be touched.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I have ruled&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I know that the Chair will not make a biased ruling at the behest of the Minister for Finance because the Minister for Finance is notoriously a vain, silly little person. But to refer to anything which was done in relation to the timber referred to in the White Paper as in fact having been done with panic and to envisage the various acts that might have been <Col N="1623" /> done which would justify the allegation of panic cannot be irrelevant. Everything we did in relation to the timber referred to on page nine of the White Paper was done&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>With your usual coolness.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&mdash;&mdash;of intent, of purpose and with clear prevision of what was going to transpire.  I am determined to insist on that despite the interruptions of any pretty Fanny who thinks that he can disturb me or break the trend of my discourse.  I knew that the Minister for Finance would not enjoy this exchange but there must be Deputies of the Fianna Fáil Party deluded, affronted and degraded as they have been by their own leaders, who feel with me that, to ship out of this country, building timber that could be used to build houses for our people&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>You can buy it cheaper now.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I am going to explain to this silly little creature Carter&mdash; in any event how can Deputy Carter say&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>Is it in order to call a Deputy &ldquo;a silly creature&rdquo;?  I will not take it and the Deputy can withdraw.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If that offends the Deputy I withdraw it unreservedly.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>I will not take it.  He must withdraw.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It has been withdrawn and Deputy Carter should not interrupt.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If we could buy timber at half the price of this timber why did the people in Belfast buy the timber? If we can buy timber cheaply now why should people in Belfast pay much more for the timber we had in stock than they could buy new timber for?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I should like to point out that the Deputy is continuing to discuss the export of timber which evidently took place after the issue of <Col N="1624" /> the White Paper.  That is not in order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>In consequence of the White Paper.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It was not.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I think it was Deputy Carter who intervened to say that the export of this timber arose from the fact that you could buy timber cheaply.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>Yes.  Any dunce would know that.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Then why should the people in Belfast purchase timber from us if they could buy it more cheaply elsewhere?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>On a point of order. Surely it makes it impossible to discuss any question here in a deliberative way if a Deputy is entitled on a mere interruption to bring an entirely different subject matter before the House.  The matter for discussion, again I would suggest, is whether the White Paper is &ldquo;tendentious nonsense&rdquo; or not.  The export of timber and the rates of the loan are subjects which are entirely out of order.  Even if Deputy Carter or I did interrupt, for Deputy Dillon to begin a discussion on the basis of our interruptions is out of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister is not the first of his Party who discovered that interruptions do not pay, but if he has learned that he should stop interrupting instead of interrupting and encouraging Deputy Carter to interrupt and then making lengthy points of order when he is knocked about the head for interrupting.</P>
+    </Speaker>
+    <P>I ask Deputies of the Fianna Fáil Party what they see of panic in the purchases made by our direction of timber wherewith to build houses?  Was it not well to have it?  Would it not be good to use it?  Would it not be better to put it into houses at current prices than to give it to others to put into houses at current prices?  I wonder do Deputies of this House realise the trend of housing in this country which this White Paper was expressly published to stop.  Remember, the purpose <Col N="1625" /> of that White Paper was to tell the Oireachtas and the country that the use of consumer goods by our people had reached such fantastic heights as to threaten the whole economic fabric of this State and that, unless energetic measures were taken to stop the importation of timber among other commodities, the foundation of the State would be undermined.  The house will remember that our case was: &ldquo;Do not stop the importation of timber.  Buy confidently all that is necessary to house our people.  The expansion of the agricultural industry will create an export surplus amply sufficient to pay for whatever our people require within the reasonable demands which it has been their traditional practice to make.  We think a decent house in lieu of a tenement room or a decent house in rural Ireland in lieu of a condemned cottage is a reasonable demand which by our own exertions and skill we will be able to meet in our own country for our own people.&rdquo;</P>
+    <P>Does this House appreciate how far we were travelling on that road?  Does this House realise that the loans sanctioned under the Small Dwellings (Acquisition) Act in 1947 were £28,673; in 1948 they were £82,675; in 1949, they were £1,795,000; in 1950, they were £2,520,000; in 1951, they were £3,819,000, and in 1952 they were £2,465,000?  Does this House realise the road that policy had carried us on? In 1947, if you exclude Waterford, Limerick, Dublin, Athlone and a few of the larger towns, there were practically no applications under the Small Dwellings (Acquisition) Act at all.  In 1949-50, there was not a single county which did not contribute its substantial demand on the Small Dwellings (Acquisition) Act so that housing was proceeding not only in every town and city but throughout the entire country.  The condemned house was going.  The tenement room was going and our people were beginning to have in their own country a decent house wherein to rear a decent family.</P>
+    <P>Was it panic to tell the timber importers here to bring in timber lest perhaps any crisis might create a shortage and prevent the people in the Twenty-Six Counties, wherein we were <Col N="1626" /> responsible, from realising the dream for which they sought to borrow money under the Small Dwellings (Acquisition) Act?  Was there panic noticeable then?  I do not think so. Remember, it is the conclusions drawn from the statistical material contained in this White Paper that I say are false and show evidence of panic.  What were these conclusions?  Were they not that we could not afford to build all these houses?  Was not one of the conclusions drawn from this White Paper by the Government that steps must be taken to prevent our people using timber in order to build houses?  Is it not true that the Fianna Fáil Party met in Leinster House last week and forced the Minister to reverse the Government's decision and decide, instead of cutting off all loans under the Small Dwellings (Acquisition) Act as on and from 24th October, they would admit all loans in process of negotiation as on that date?  Did not the Minister for Local Government announce their open reversal of policy only two days ago?  Was not the decision&mdash;&mdash;</P>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That has nothing to do with the discussion on this White Paper.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Was not the original decision taken on foot of the White Paper?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>On a point of order. I am not suggesting that Deputy Dillon's statements are true, but surely the occurrences to which they relate took place towards the end of the year 1952 and the White Paper was published in August and September of 1951, over a year ago.  Surely the statements which the Deputy is making are not in order.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>A lot of things have happened since.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I draw your attention to the fact, Sir, that the motion sets out that the White Paper:&mdash;</P>
+      <P>&ldquo;in so far as it purports to draw conclusions from the statistical material set out, is in the main tendentious nonsense.&rdquo;</P>
+    </Speaker>
+    <P>
+      <Col N="1627" /> I say that one of the conclusions drawn from the statistical material in that White Paper was that our people could not afford to buy houses and that they must be stopped building houses in order to reduce imports for the purpose of bringing the balance of trade into equilibrium; and one of the devices used for that purpose, and the Minister has said so, was the raising of the rates of interest.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>On that matter, I made a point of order on the basis that I did not believe Deputy Dillon was so silly as to draw that conclusion. Since he has been as silly as to draw that conclusion I wish to withdraw the point of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I thought the Minister would get tired of his points of order.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Chair would again point out that the motion deals specifically with the White Paper.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Issued, Sir, in 1951 and the conclusions drawn from it.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am not responsible for any silly conclusions Deputy Dillon or Deputy MacEoin may draw.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>God forbid.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>We judge men not on their thoughts but by their actions. It is not what they think, not what they mean to think, and not what they mean to do; it is what they do we are concerned with.  That is the only criterion by which one can judge a Government or a public man.  What did he do?  What were the acts he did?  I can only judge the Minister for Finance and I can only declare him to be deserving of censure on foot of the things he did showing the conclusions he has drawn from this document.</P>
+    </Speaker>
+    <P>Everybody knows that the statistical material contained in the published copy of a White Paper issued by the Department of Finance will be correct. Only the Minister for Finance has recourse to uncorrected proofs and makes himself look silly by producing them in the House, showing he has not <Col N="1628" /> given his own White Paper any serious study and is, therefore, unable to detect printers' errors in an uncorrected proof when he comes across them.  Those of us who have been associated with the public life of this country know beyond doubt that the issue of statistical material over the imprint of our Department of Finance will seldom be found to err.  It is one thing, however, to accumulate statistics; it is another thing to draw inferences from them, and when the unwary or the unscrupulous proceed to marshal statistics to their service, the one they perish, and the other, they destroy.  I charge the Minister and the Tánaiste, when this White Paper first came before the House, with a deliberate studied purpose&mdash;to shift their own leader out of public life and to put Deputy Lemass in his place.</P>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That certainly does not arise on the discussion of this White Paper.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Does the consequence arise on the White Paper that on the day the British Treasury was borrowing £317,000,000 sterling at 1½ per cent. and the British Transport Company was borrowing all it wanted at 4½ per cent. the Irish Government was paying 5 per cent.?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That was certainly subsequent to the White Paper under discussion.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I will proceed then to take the White Paper in detail and to bring the House through it.  Before dropping that point, I would ask the House to dwell on the word &ldquo;panic.&rdquo; Panic is the key-word of this debate.  I want Deputies to ask themselves repeatedly whose actions, not whose thoughts, not whose intentions, but whose actions smell of panic in this country.  I think the first and the most glaring evidence of the disreputable character of the use to which this paper has been put is the reference in it to the prospective deficit in the balance of payments for the year 1951, which is most specifically referred to in paragraph 17.  The paragraph reads as follows:&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="1629" />&ldquo;Prices of our staple exports are much less flexible than world prices and there are no grounds for postulating any pronounced favourable movement in relation to import prices.&rdquo;</P>
+    <P>I would ask you to remember that this is one of the deductions from the statistical material employed in the White Paper.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It is not.  It is a statement of well-recognised economic fact.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Let me quote paragraph 17:&mdash;</P>
+      <P>&ldquo;Prices of our staple exports are much less flexible than world prices and there are no grounds for postulating any pronounced favourable movement in relation to import prices.  Again, the current output figures for our staple exports rule out the possibility of any large increase in the volume of exports in the near future to bridge the gap.&rdquo;</P>
+      <P>Mark those words: &ldquo;No large increase in our exports to bridge the gap.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Now, now.  The Deputy is a stickler for exactitude. Would he not quote that sentence again, please?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&ldquo;Again, the current output figures for our staple exports rule out the possibility of any large increase in the volume of exports in the near future to bridge the gap.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I should like to remind the Deputy that&mdash;I suppose, quite inadvertently&mdash;he omitted the reference to volume.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I beg the Minister's pardon.  I thought I included it.  The paragraph continues:&mdash;</P>
+    </Speaker>
+    <P>&ldquo;The agricultural census returns for the 1st June, 1951, reveal a drop of 50,000 in the numbers of milch cows and heifers-in-calf as compared with June, 1950, and the number of cattle under one year is also down. Notwithstanding higher prices, exports of cattle and foodstuffs of animal origin declined in value in the <Col N="1630" /> first eight months of 1951 as compared with the corresponding period of 1950.  The inescapable conclusion is that substantial relief to the balance of payments can only be achieved by importing less.&rdquo;</P>
+    <P>I want to add timber.  That is my addition.  Building materials&mdash;the materials which go into houses, the materials that have to be imported if houses are to be built.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I gather that the Deputy's idea is to convert this island into a huge timber yard.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>My ideal is to convert this island into a place where our people can live in decency, dignity and peace.  The Minister's public life in this country has been designed to deny them peace, dignity and now decency. He has brought into their lives nothing but acrimony, hatred and war.  He has denied them and seeks to deprive them of the right to a decent house to live in.  His financial policy is based on the proposition that they are eating too much and living too well.  He ought to be ashamed to mention decency, dignity or peace for our people.  His whole public life has been a shameless betrayal of all three.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy ought to forget that purple passage.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I do not forget it and our people will not forget it and our people did not forget it.  Despite the Minister's intervention at Manor Street and his animadversions on General Eisenhower, our people gave him his answer yesterday morning.  Dignity, decency and peace!  The man does not know the meaning of the words so far as he is concerned with people&mdash;our people. If there is one boast we have it is that our indignation was roused against that beastly document, the White Paper, because it was the clarion cry of the Minister to put an end to three years of the work that had been designed by the inter-Party Government to improve the lot of our people.  My gracious, with what rapidity and skill he has achieved his purpose in the past 18 months.  That White Paper is the White Paper that brought us down from a credit-worthiness in the world <Col N="1631" /> comparable with that of London to a credit-worthiness inferior to that enjoyed by Southern Rhodesia.  We are borrowing money to-day on the markets of the world at worse terms than the British Transport Board or Southern Rhodesia&mdash;and 18 months ago we could borrow it foot for foot with the Governments of the British Empire. That was the purpose of that White Paper.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Sir, would we be in order on this motion in discussing the recent financial operations of the British Transport Board and Southern Rhodesia?  They would be very interesting.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It would not be in order to discuss those questions on this motion.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The final sentence in paragraph 17 of the White Paper says: &ldquo;The inescapable conclusion...&rdquo;&mdash; the Minister will not deny that that is a deduction from the statistical material&mdash;&ldquo;... is that substantial relief to the balance of payments can only be achieved by importing less.&rdquo;  What are the facts?  Remember that our task in September, 1951, was to forecast the probable out-turn of 12 months' exports and 12 months' imports but in September, 1951, the figures for nine months were available.  Speculation as to the probable out-turn rested on a correct forecast of what would happen in the remaining three months of the year. Now, bear in mind that we were talking of balance of payments.  We were not talking of the cubic capacity of ships or of the capacity of the docks at Cork or Limerick to discharge ships. We were talking of the ability of our people to pay for the goods they were bringing in.  Therefore, for that limited purpose&mdash;the balance of payments&mdash;the Minister proceeded to draw conclusions as to the probable deficit on the 12 months' payments.  He knew what it was in respect of nine months.  It was left to him to speculate what it would be in respect of the remaining three months.</P>
+    </Speaker>
+    <P>He made his estimate&mdash;and he told us that it was a conservative estimate&mdash;<Col N="1632" /> after having given all possible weight to the most favourable prospective events.  He told us the balance of payments was going to be £70,000,000 adverse.  He has since stated himself that it was £61.5 million.  I believe it was below £60,000,000 but take his own figure of £61.5 million.  In respect of three months' trade he was £8,000,000 out in his calculation, £8,000,000 wrong. What did that mean?  If we relate it to the whole year, it is equivalent to an error of £32,000,000 in our balance of trade.  It was on that conclusion, based on that material, that this House was asked to adjust its whole economic attitude to the years that lay ahead.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy has been very greatly concerned about timber.  I would ask him to remember, as I said before, that mahogany is much more expensive than the white timber.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That Delphic observation gives us the key to the mentality of this silly little man.  I have been talking about timber.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>You have been hammering.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I have been talking about the timber used to build houses for ordinary people who do not use mahogany.  What I have been thinking about, Sir, is in that photograph.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That has been ruled out of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Yes, Sir, but surely it is not mahogany?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It is irrelevant.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If the Minister is in any doubt as to what is in that, I have been only thinking of it and I want to tell him it is not mahogany.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Can mahogany think?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>That much mahogany would build all the counters they want in Belfast and the Minister should be some judge of that.  The conclusion&mdash; the inescapable conclusion&mdash;was that because the adverse trade balance was <Col N="1633" /> going to be £70,000,000 we must import less.  I ask Deputies on the Fianna Fáil Benches just to think&mdash;only to think&mdash;of the commodities of which we were to import less.  Now he was the equivalent of £32,000,000 per annum out in his estimate of the adverse balance of trade for the concluding three months.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy's mathematics are about as extraordinary as his imagination.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Now we come to this year.  Fortified by the statistical material the Minister forecast into the future and decided that the £70,000,000 of 1951 would be overshadowed by the prospect that lay before us of an adverse trade balance of £50,000,000 in 1952.  From this he drew the conclusion&mdash;the inescapable conclusion&mdash; that we must import less.  Again I ask Deputies on the Fianna Fáil benches silently to think of the things of which we must import less.  We increased our imports of raisins from California and we reduced certain other things we were concerned to bring in.  A deficit of £50,000,000 was the conclusion he drew from that White Paper when he brought in his Budget.  That was the figure he told the Irish nation to think of.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy is quite wrong.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I have dwelt on the proposals contained in the Budget.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy is merely deliberately misrepresenting what was said in the Budget statement.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Deliberately?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Is there a single Deputy in the House who does not recall that we were warned that, on the best estimate they had at Budget time, the probable trade deficit in our balance of payments for 1952 would be to the order of £50,000,000?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That is not correct. It is a complete misrepresentation. <Col N="1634" /> What was said in the Budget statement was&mdash;I am only paraphrasing it &mdash;that if it had not been for the measures which we had taken early in 1952, at the opening of the year, reinforced by the measures taken earlier, the deficit would have been £50,000,000.  We took care to make sure that it would not be £50,000,000, and we succeeded in that, no thanks to the Deputy.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Deputies will appreciate now that a figure of £50,000,000 was floating about.  The Minister says that it was only mentioned and that nobody need listen to it.  It was a figure dredged up for the purpose of being able to say: &ldquo;You may think that £50,000,000 will be the adverse trade balance, but you are wrong.&rdquo; It was like a lucky bag out of which you might be told you could draw £50,000,000.  You drew and you were asked what you had drawn and you replied: &ldquo;£50,000,000.  Is that right?&rdquo; The answer was: &ldquo;No; dip again&rdquo;, and so the game continued.  Then you emptied the bran pie and then you were asked to think of several different numbers.  Then perhaps you would be asked what was the colour of the engine driver's beard.  But my simple intellect was coerced to the belief, when the Minister spoke of a possible deficit of £50,000,000, that he was referring to some concrete concept. Having passed round the bran pie, we were warned by his colleague, the Tánaiste, not to pay too much heed to the Minister for Finance, that the deficit was unlikely to exceed £25,000,000.  Then the Tánaiste told us not to mind pretty Fanny, that it was not going to be over £10,000,000.  Then the Tánaiste went down further and said he did not think there was going to be any deficit at all.</P>
+    </Speaker>
+    <P>Remember the remedy prescribed by the Minister for Finance.  In order to produce this desirable result, in order to get substantial relief in the balance of payments, he said we should have to import less.  The last indication we have had from the Government is that the deficit in the balance of payments this year might be something between £10,000,000 and nothing.  When that is achieved, they will all go down to <Col N="1635" /> College Green and bow three times to the north and then, turning round, bow three times to the south. When the residents of Cabra or North-West Dublin demur to the fact that they must continue to live in tenement houses, I am sure a deputation will straight away proceed to St. Peter's, Cabra, under heavy police protection for the purpose of bowing in the general direction of Gardiner Street.  I do not want a situation which would entitle me to proceed to College Green to bow three times.  I think that the Minister's forecast was all wrong, that a substantial relief in the balance of payments was coming up the mountain by reason of the increase in our exports and that the £20,000,000 increase in our exports to date was a handsome testimony to the possibility of substantial relief, without telling our people that they had better spend another while in the tenements and the condemned houses. Remember, we have November and December to reckon with yet.  I venture to prophesy&mdash;I may be wrong but at least my prophecy will not depress ourselves or our neighbours&mdash;that the exports of this country will earn for our people something closely approximating to £100,000,000 sterling in this year, a record figure for all time, and one which will supply substantial relief to our balance of payments problem without condemning one single neighbour of ours to continue abandoned in a tenement room or in a condemned house, or faced with the prospect of not being able to marry at all or have anywhere to bring a wife to, to found a family.</P>
+    <P>I say that the conclusion which the Minister drew from this paper was tendentious nonsense.  I think his resolve, founded on that conclusion to equip himself to bow three times and twice three times down in College Green at the expense of those who had dared to begin to hope that they might house their families in decency here was disreputable and shameless and deserving of the censure of this House.</P>
+    <P>The Minister twitted me when I was reading this paragraph that I had <Col N="1636" /> intentionally omitted the word &ldquo;volume&rdquo;.  I did not mean to omit that word because I want to deal with that particular aspect of the paragraph now.  One of the assumptions he forecast was that the volume of exports would be substantially unchanged in the last four months of 1951.  May I quote from page 13:&mdash;</P>
+    <P>&ldquo;If, again, it is assumed that in the remaining four months of 1951 average export prices rise by 20 per cent., and that volume is unchanged as compared with the levels reached in the corresponding period of 1950 (in the first eight months of 1951 export prices were 15 per cent. higher and volume 3 per cent. lower than in the first eight months of 1950), the value of exports in the calendar year 1951 will amount to £83,000,000 an increase of £10.6 million over 1950.  It will be noted that in arriving at this figure full account has been taken of the normal seasonal increases in both the volume and price of exports in the latter half of the year.  The import surplus for the whole year would on these assumptions amount to £129,000,000.&rdquo;</P>
+    <P>In the last four months, however, of the year the volume did not remain stable nor did it show the decline referred to in the first nine months.  The volume of imports showed an increase of 2.3 per cent.  The volume of exports in the last quarter, that is the last three months as distinct from the last four months&mdash;&mdash;</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>May I ask the Deputy what he is quoting from?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>From a copious note.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It seems to me to be a periodical.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Change your spectacles. The volume of exports showed an increase of 9.6 per cent.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It appears to me to be a periodical.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I propose to read, before this debate concludes, long extracts from <i>The Leader.</i></P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Then I take it that <Col N="1637" /> the copious note which the Deputy was quoting from was, in fact, a periodical.  Is it not the custom for a Deputy to give the source of his quotation?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It is the usual practice for a Deputy to give the reference.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I am not quoting.  You are not bound, if you agree with what is recorded in any article and you speak it in this House on your own authority&mdash;you are not bound to say: &ldquo;I agree with what everybody else has said&rdquo;, but I gladly avail of this opportunity to tell Fianna Fáil Deputies where they may get much instruction.  They will get it by reading the back numbers of <i>The Leader</i> for August 2nd, August 13th, September 13th and September 27th. They will learn a great deal from them.  What a very silly little man the present Minister for Finance has shown himself to be?  I think it is a useful source to which any person might turn for statistical material relevant to the matter which we have now under discussion.  Deputy Carter has said something.  I recommend him to read these articles.  He may succeed in getting his synthesis of it into the <i>Irish Press</i> because in its present mood it is prepared to publish almost anything.</P>
+    </Speaker>
+    <P>The volume of exports for the last quarter, that is, for the last three months as distinct from the last four months, shows an increase of 9.6 on the corresponding quarter of the previous year.  But the White Paper reached the remarkable conclusion that they did not expect there would be any increase.  Am I unjust if I surmise that the thought that there would not be any was not an orphan?  That thought had a parent which, I think, was the wish born in the bosom of the Minister for Finance.  But, unfortunately, that parental wish begot a thought which, in the event, proved to be a stalwart.  He thought that there would not be any increase at all but it is 9 per cent. greater than he foresaw. Now, 9 per cent. in terms of monetary value is a relatively trifling consideration, but 9 per cent. in the volume of <Col N="1638" /> agricultural exports is a very substantial consideration.  I think that this comparison will direct the attention of Deputies to how significant 9 per cent. in volume can be in terms of money. It is money that counts in the balance of payments, because if you look at the volume of figures based on prices ruling in January, 1950 and September, October, November and December, 1951, and January, February, March, April, May and June, 1952, as compared with the corresponding exports in the previous year month by month you will find that, in September owing to the dock strike, there was a decline of 20.6 per cent. in our exports.  In October there was an increase of 19 per cent.; November a minus of 4.1 per cent.; December an increase of 16.4 per cent.; January, 1952, an increase of 41 per cent.; February, an increase of 30.5 per cent.; March, an increase of 30.2 per cent.; April, an increase of 31.1 per cent.; May, an increase of 29.8 per cent. and June, an increase of 43.1 per cent.</P>
+    <P>I call the attention of the House again to the famous paragraph 17 and I think I know the hand that wrote it:&mdash;</P>
+    <P>&ldquo;Again, the current output figures for our staple exports rule out the possibility of any large increase in the volume of exports in the near future to bridge the gap.&rdquo;</P>
+    <P>The House must remember that when you deal with export statistics you deal either with volume or with value, but when you deal with balance of payments figures it is value that matters, because it is money that constitutes the instrument of exchange and no one will contend that our people should refuse to accept a higher price for the merchandise which we are prepared to ship abroad.  What then do we see in connection with the export of our staple industry, agriculture? The figures are detailed, but it may be as well to put them on record.  In the January-June six months of 1948 we exported 14,000 fat cattle; in the same period of 1949 we exported 26,000; in the same period in 1950, 40,000; in the same period in 1951, 24,000; in the same period in 1952, 37,000.</P>
+    <Col N="1639" />
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>On a point of order. I assume that the Deputy is not quoting from any official publication, that the figures which he is giving are not being quoted by him from an official publication?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>They are being quoted by me on my authority.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That is all right.  If it is on Deputy Dillon's authority and no more weight is to be attached to them, I do not mind.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If the Minister can traverse them by .01 per cent. in any matter of substance, I will withdraw the motion.  Deputies will observe that the number of fat cattle does not seem to show the expansion that I would seem to require to sustain the case I have made, but if they will turn to the exports of beef, veal and tinned beef they will find that the patern of our export trade, under the guidance of the inter-Party Government, was changing, and in a desirable direction, because in addition to the fat cattle exported, in each of these half years you find that of beef, veal and tinned beef there were 42,000 cwt. exported in 1948, 56,000 cwt. in 1949, 87,000 cwt. in 1950, 116,000 cwt. in 1951, and 337,000 cwt. in 1952.  Does this bear out the conclusion reached in paragraph 17 of the White Paper which I quoted:&mdash;</P>
+      <P>&ldquo;Again the current output figures for our staple exports rule out the possibility of any large increase in the volume of exports in the near future to bridge the gap.&rdquo;</P>
+    </Speaker>
+    <P>I invite the Minister to check the figures I have given and to bring them up to date, and I venture to tell the House that the nine months of 1952 will fully confirm the tendency here revealed.  I have the July-December figures but the figures cannot yet be computed for the year 1952.  They may not speak so eloquently but they do speak eloquently.  Our exports of fat cattle from July to December of 1948 were 52,000; 1949, 108,000; 1950, 139,000; 1951, 148,000.  In the same period our exports of beef, veal and tinned beef were: 12,000 cwt. in 1948, <Col N="1640" /> 112,000 cwt. in 1949, 212,000 cwt. in 1950, 431,000 cwt. in 1951.  I invite the Minister to bespeak from the statistics office the most recent figure for the remaining six months of 1952 as from June last to see if they justify the statement:&mdash;</P>
+    <P>&ldquo;Again the current output figures for our staple exports rule out the possibility of any large increase in the volume of exports in the near future to bridge the gap.&rdquo;</P>
+    <P>I can call as evidence more arresting statistics still.  Omitting pigs and pork, which have become a very valuable export and are growing greater with the passage of every month, and basing my case on cattle only, I direct the attention of the House to the statistics as to the live-stock population available for export in the approximate future, by which I mean the next five years.  I group for the purpose of immediate export, that is within the next two years, cattle from two-years-old upwards, and I add to them for the purpose of the longer view the cattle between one year and two years and the calves below one year of age for their export potential in the next five to ten years.  In 1947, we had in this country 989,000 cattle other than calves, bulls, milch cows and heifers-in-calf between the ages of two years and upwards.  In 1948, we had somewhat over 1,000,000 and in 1949&mdash;I can give the figure as an approximate one&mdash;1,047,000 cattle; in 1950, we had 1,079,000 and in 1951, 1,132,000 coming within that age category.</P>
+    <P>In the one-year to two-years-old category&mdash;I ask the House very specially to note the figures because they relate to the long term prospect of our industry&mdash;in 1947, we had 846,000, and in June, 1948, 742,000.  I think these figures relate to June, but I cannot be perfectly certain.  They may relate to the January census, but the figures are for the same date in every year, whether in June or January.  In 1949, we had 804,000; in 1950, 912,000; in 1951, 974,000, and in 1952, 968,000.  Let me further direct the attention of the House to the statistical situation in regard to calves.  I have mentioned here before that there is a rough calculation <Col N="1641" /> whereby you compare the number of cattle under one year in one year with the numbers of cattle between one year and two years in the subsequent year, thereby discerning the losses the live-stock industry as a whole has experienced in calves, whether through death, slaughter or otherwise.  Operating that approximate method of estimation, the loss of calves between 1947 and 1948 was 109,000.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Perhaps this is not really a point of order&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Then you should not make it.  I will not give way, if it is not a point of order.  Let the Minister sit down.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am putting it as a point of order.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister said it is not a point of order.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am doubtful, but I am putting it.  In view of the exhausted condition of the House, might the Deputy not content himself with circulating <i>The Leader</i> instead of reading it to us?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If I had them I would, but I have not got sufficient copies, but I do not think this statistical material I am reading is primarily from <i>The Leader.</i></P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy has driven the Labour Party from the House and most of the Fine Gael Party.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>And even the <i>Irish Times</i> would publish only one-fifth of the Minister's stupid letter.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Deputy Dillon might at least give us some relief now by circulating <i>The Leader.</i></P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The statistics I am reading out were circulated to the Minister.  He had them and he used them and he printed them in that White Paper.  Having printed them, he proceeded to explain to the dupes who sit behind him that they meant what that White Paper said.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Will the Deputy not <Col N="1642" /> have mercy on us?  Even Deputy Sweetman has fled.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I am trying to explain to the dupes that the conclusions he drew from the statistical material which I now recapitulate were all wrong.  That is the burden of my charge against him.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>&ldquo;Burden&rdquo; is quite an appropriate word.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It is wrong to refer to Deputies on any side of the House as dupes.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>If the word &ldquo;dupe&rdquo; is ruled unparliamentary, let me see if I can find a parliamentary word which will describe innocent creatures cruelly misled.  If there is any shorter phrase which will describe the sheep led to the slaughter, the innocent abroad beset by the ravening wolf or the man with whose intentions hell is paved, I will gladly employ it.  I thought the word &ldquo;dupe&rdquo; was a parliamentary way of covering all these various descriptions, but should it offend in the slightest degree the susceptibilities of the thinnest-skinned member of Fianna Fáil, pray regard the word as unreservedly withdrawn.</P>
+      <P>Using the basis of calculation which I have described to the House, we lost, in 1948, 109,000 calves.  In 1949, the losses were reduced to 49,000; in 1950, they were reduced to 39,000; in 1951, they were reduced to 9,000 and in 1952, they were still only 10,000.  Did these statistics, which I quite agree with the Minister are universally available, carry conviction to the Minister's mind that current figures for our staple exports ruled out the possibility of any large increase in the volume of exports in the near future to bridge the gap? Will he tell the House, if we had more cattle of exportable age, if we had more cattle between one year and two years old, if we had reduced the annual losses of calves, through death or slaughter, from a maximum of 109,000 to a minimum of 9,000, whether he interprets that evidence as meaning that it rules out of possibility any large increase in the volume of our exports?</P>
+    </Speaker>
+    <P>Do Fianna Fáil Deputies still believe that that conclusion was a valid conclusion <Col N="1643" /> or one on which to found the fiscal and economic policy of an Irish Government?  I do not think it was.  I do not believe that the Minister took reasonable care in arriving at it.  I do not believe the poor little man sat down deliberately to falsify the facts. I believe that the poor little man believed that fantastic deduction which he recorded, but he believed it because he allowed, as he so often does allow, his wishes to be father to his thoughts.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am quite prepared to admit that I underrated&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I do not want you to admit anything at this stage and I will not allow you to interrupt my speech. If he is not making a point of order the Minister should be told to sit down. He must not interrupt.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I admit that I underrated the beneficial effects on Irish agriculture which would flow by reason of the fact that you were ejected from office.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Did the Minister make a reference to the Department of Agriculture?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I said that I underrated the beneficial consequences to Irish agricultural production of your ejection from office.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>We are dealing with a silly, petulant, vindictive man and a little man at that who allows his wishes to be father to his thoughts.  I have just read out to the House figures which show that the reduction in calf mortality in the year 1951 represented a saving of 100,000 as compared with 1947.  Does not the Minister for Finance know that at that time I was Minister for Agriculture?  I am not saying that that result was due to any deed of mine.  It was due in great measure to the zeal, skill and sleepless vigilance&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>&mdash;&mdash;of the new Minister for Finance.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>&mdash;&mdash;of the officers of the Department of Agriculture.  I believe that probably it would have come to <Col N="1644" /> pass whoever was Minister for Agriculture. All I am saying is that it did come to pass.  But this vindictive, silly little man, instead of seeing these facts objectively and allowing those who were competent to view the facts objectively to draw conclusions, took these admitted facts, and because his wishes were father to his thoughts and he wanted to malign and to slander and to inflate his own grotesque vanity, read them, turned them upside down and then, turning his back upon them, saw them through a glass darkly upside down and set down the words: &ldquo;They ruled out the possibility of any large increase in the volume of exports in the near future to bridge the gap.&rdquo;</P>
+    </Speaker>
+    <P>Every member of the Fianna Fáil Party was forbidden to look at the facts but was constrained to turn his or her back on the facts and see them in a glass darkly.  Even though they appeared to be upside down they were told, like the Chinese, to be respectful to their emperor and to ignore the fact that he walked abroad naked as he was born.  At the moment I seem to act the rôle of the unsophisticated infant brought in his mother's arms to admire this scene, and who said to his mother: &ldquo;But, mother, that man has not got a stitch on.&rdquo;  That voice sent the Emperor of China posting back to gather the rags of decency around his person, for he was ashamed of being seen abroad naked as he was born. The Minister for Finance is naked and the fraud for which he has been responsible has been exposed.  The people whom he sought to mislead have departed from their long allegiance to repudiate him.  It was he that North-West Dublin had in mind and the policies he stood for.  They resolved to tell the Fianna Fáil Party in no uncertain way that that silly, vain little man must go because, in the terms of this motion, &ldquo;he is deserving of censure,&rdquo; because the Paper he presented to this House was in the conclusions it drew &ldquo;in the main tendentious nonsense,&rdquo; because &ldquo;the White Paper has been presented improvidently&rdquo; and because the man who presented it to this House as a suitable foundation upon which to build <Col N="1645" /> an economic policy was deserving of censure.</P>
+    <P>Is it not time we told him so by resolution of this House and placed upon him the constitutional obligation of vacating the office for which he is not fit, so that others can put their hand to the task of terrifying difficulty of getting this country back on the economic lines on which it was travelling with such magnificent success 18 months ago?  I say that this resolution is more relevant to-day than it was the day it was first put down.  When I put it down it was my forecast against his.  To-day it is my facts against his forecast.  My facts are fortified by the governing fact that they have been submitted to the people and the people are on my side. Ultimately they are the people who will decide what ought to be the rule in Ireland, and they do not live in College Green, North or South.  They live in Cabra, in Drumcondra and Phibsborough; in Merrion Square, Fitzwilliam Square and Upper Fitzwilliam Place; in Ballaghaderreen and Ballybay; in Munster, Leinster Connaught and part of Ulster.  What is wrong with that silly little man is that he first entered public life believing himself to be the servant of the people but since then vanity has grown upon him.  He is obsessed with the idea that he is their master now and that he must teach them how to live; that he must make them accept a new philosophy; that they have got into the habit of eating too much and living too well and that in aspiring to a house of their own they go beyond the reasonable limits to which peasants and working people should aspire.</P>
+    <P>I do not think that is the will or belief of the bulk of Dáil Éireann. That White Paper was the first stone in the foundation of that philosophy which has been built up in this country over the last 18 months.  The people have knocked down the structure that stone was designed to sustain.  I think it would be incongruous to describe the Minister as a stone.  He would like to appear like a plaster of paris Napoleon if it were possible for him to have Napoleon for a father and Talleyrand for a mother.  All he, in fact, looks <Col N="1646" /> like is a garden ornament in the shape of a gnome.  I speak figuratively of course because there is nothing literally in the Minister for Finance which bespeaks an ornament for a garden or anywhere else.  He would like to believe he represents the pensive figure of Da Vinci's Moses brooding on the fate of the human race and leading them with courage, resolution and solitary dignity into a promised land which is the reward of austerity, forbearance and patience in the desert. In fact he is just a poor little man that has lost his way.  He is going to have a horrible time at the next meeting of the Fianna Fáil Party.</P>
+    <P>It is a very useless Party in the history of this country, but they can justify their existence for the first time since they were established.  They can cut this little man down to his real size, strip him of his grandiose notions, tell him that it is no part of his business to depress our people in their own country to a standard of living appropriate to paupers; tell him that our people will not accept that, that if it is forced upon them by <i>force majeure</i> they will go to where their worth is truly appreciated and they will be well rewarded for their journey; tell him that we do not want them to go; tell him that we want them to have that kind of life in their own country which will induce them to stay freely without <i>force majeure</i> of any kind from anybody; tell him what the voters of North-West Dublin told him, that the time has come, if he will not change, for those who followed him to date to change their old allegiance and, in leaving the Minister, to be loyal to those whom they should really serve, the people of this country.</P>
+    <P>That paper is a great betrayal of our people.  It has been pregnant of much ill.  I do not deny that it successfully sold to a considerable number of our people a falsehood which I most bitterly resented, and that was that the Government of which I was a member had improvidently dissipated the resources of our people committed to our care.</P>
+    <P>Events, facts, and now, the voice of our own people&mdash;and that is what matters&mdash;have proven that we have <Col N="1647" /> caught up with that lie and nailed it down and it will never walk again.  If we had achieved nothing else, I would be satisfied but that paper and all it stands for was buried fathoms deep in Bolton Street Technical School.  I like to believe that, with it rotting in its grave, are the lies born of that paper propagated by the Minister throughout this country, and the falsehoods whereby he hoped to see his own leader supplanted and his own future made secure.</P>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is there a seconder for the motion?</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>I wish to second this motion.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It is customary for the person seconding the motion to reserve his speech.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>No, it is not.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>I have no intention of doing so.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>If he wishes. There is no rule compelling him to do so.</P>
+    </Speaker>
+    <Speaker pid="RobertBriscoe" hpid="Mr. Briscoe Mr. Briscoe">
+      <NameTxt>Mr. Briscoe</NameTxt>
+      <P>After an hour and 45 minutes of filibustering&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Chair has no authority in the matter.  Deputy Collins can make his statement if he wishes</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>His name does not appear as a seconder, Sir.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is no need.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>His name is not attached to the motion.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>I have not got the least intention of giving way to the Minister and he will not get a word in edgeways between this and two o'clock.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The words I will get in will not be edgeways.  I can assure you of that.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Collins is in order in making his speech.</P>
+    </Speaker>
+    <Col N="1648" />
+    <Speaker pid="RobertBriscoe" hpid="Mr. Briscoe Mr. Briscoe">
+      <NameTxt>Mr. Briscoe</NameTxt>
+      <P>I wish to draw attention to the fact that there is not a House.  That will save us five minutes of the Deputy.</P>
+      <P>
+        <i>Notice taken that 20 Deputies were not present; House counted and 20 Deputies being present,</i>
+      </P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There is a House.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Is the Minister making a charge against the Chair&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>We are not bound to listen to Deputy Collins.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>&mdash;&mdash;that he ignored a speaker from the Government side and called on Deputy Collins?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I am not accepting the statement that the Minister is making any charge against the Chair.  The Minister raised a matter as to order and I ruled.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>And I accepted your ruling.  I also wish to point out that Deputy Collins broke the precedent that, when a speech has been made, a rebuttal can be made on the other side.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>He is in possession and is entitled to speak.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I do not think we should listen to him.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>You must have a House with you.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>This is not the first occasion on which the Minister was not anxious to listen to me.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Collins, on the motion.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>If the Fine Gael Deputies want to listen to him, let them come in.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Collins, on the motion.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>In a brief way, on the results&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="A Deputy A Deputy">
+      <NameTxt>A Deputy</NameTxt>
+      <P>They will not go.</P>
+    </Speaker>
+    <Col N="1649" />
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>May I have a count of the House?</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Seán Lemass is going to be annoyed.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The Minister for Defence and some Deputies are leaving the House.</P>
+      <P>
+        <i>Notice taken that</i> 20 <i>Deputies were not present; House counted and</i> 20 <i>Deputies being present,</i></P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The Minister thinks, because he ordered men out, that they went.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Collins, on the motion.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>It is interesting, in the light of experience, and indeed more than interesting in the light of yesterday's salutary answer to the Government, to review now in retrospect the disastrous consequences that flowed from the policy of a Government that found its initiation in this rather discreditable and disreputable effort.  Every gloomy prognostication uttered by the Minister for Finance, Deputy MacEntee, the concerted gloomy wailings of his colleagues in Government&mdash;in particular, the olagoning wail of the Minister for Posts and Telegraphs&mdash;have come home to roost in a way&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I wish the Deputy would go home to roost.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>&mdash;&mdash;that shows itself in the irascibility and unamiability that can only be associated with his uncomfortable position when he was introducing the Budget.  He can be as petulant as he likes to-day and endeavour to play the little petty parliamentarian politician, but he cannot blind either his own Party or the country to the fact that we are to-day getting an opportunity of analysing in a realistic way the consequences that have flown from this bit of petty nonsense. We can now in a realistic way examine the economic structure of which this incompetent Minister was the architect.  We can now test in the light of reality the prognostications that were made.  We can now see <Col N="1650" /> whether the hairshirt policy that he had hoped to sell to the Irish people was ever necessary.  We can now see, in the light of his handling of the public purse, the amount of depression, the amount of retrogression that has taken place as a consequence of that hierarchy of stupidity that started with a White Paper, subsequently a Central Bank Report and then a Budget.</P>
+    </Speaker>
+    <Speaker pid="" hpid="A Deputy A Deputy">
+      <NameTxt>A Deputy</NameTxt>
+      <P>Here we go again.  The Minister is fidgeting.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>May I call your attention to the moving effect of Deputy Collins' eloquence?</P>
+      <P>
+        <i>Notice taken that</i> 20 <i>Deputies were not present; House counted and,</i> 20 <i>Deputies being present,</i></P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>On a point of order, can any notice be taken of the fact that the Minister for Finance deliberately ordered members of the Fianna Fáil Party out, in order to prevent the House doing its business?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>May I point out to you again, in rebuttal of that allegation against me, that Deputy Collins deliberately shut out Deputy Briscoe, who is entitled to speak?</P>
+    </Speaker>
+    <Speaker pid="DenisOSullivan" hpid="Mr. D.J. O'Sullivan Mr. D.J. O'Sullivan">
+      <NameTxt>Mr. D.J. O'Sullivan</NameTxt>
+      <P>That is a charge against the Chair.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I have no function in this matter.  I do not know what the Minister did or did not do. Deputy Collins is in order.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>The Minister did it deliberately, in order to prevent Deputy Collins from speaking when he was entitled to speak.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I must ask you to ask Deputy Donnellan to withdraw that.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Deputy Collins&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I am on a point of order now.  Deputy Donnellan has accused me of improper conduct in the House.</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Certainly.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>In so far as he alleges I made a charge&mdash;&mdash;</P>
+    </Speaker>
+    <Col N="1651" />
+    <Speaker pid="BrendanCorish" hpid="Breanndán Mac Fheórais Breanndán Mac Fheórais">
+      <NameTxt>Breanndán Mac Fheórais</NameTxt>
+      <P>You did, by inference.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>&mdash;&mdash;when the Chair pointed out that the responsibility for this matter lay on Deputy Collins and you had no other option.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Order.  Deputy Collins is entitled to speak.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>What about Deputy Donnellan's remark, that I was guilty of improper conduct?</P>
+    </Speaker>
+    <Speaker pid="MichaelDonnellan" hpid="Mr. Donnellan Mr. Donnellan">
+      <NameTxt>Mr. Donnellan</NameTxt>
+      <P>Of course&mdash;you always were.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I think I cannot let that pass.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>With respect, a Cheann Comhairle, I think the Minister is endeavouring to create a precedent here.  The seconder of a motion may, if he desires, reserve his right to speak.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>And invariably does.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>In many cases in this House I have watched the antics of Fianna Fáil in opposition, where they spoke at once.  There have been dozens of occasions and one of the prime movers&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>We are not discussing procedure.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>&mdash;&mdash;was the little jack-in-the-box.</P>
+    </Speaker>
+    <Col N="1652" />
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputy Collins should proceed with the discussion on the motion and not on procedure. I have ruled on the procedure.</P>
+    </Speaker>
+    <Speaker pid="SeanCollins" hpid="Mr. S. Collins Mr. S. Collins">
+      <NameTxt>Mr. S. Collins</NameTxt>
+      <P>The Minister has tried to sell to the Irish people, in spite and viciousness at the success of his predecessors, a story that there was squandermania, that there was danger to the economy of the country and that there was necessity for a retrenchment, as epitomised in the saying of many speakers.  The Minister felt we were looking too well, we were eating too much, we were having generally too good a time.  We have just had a lovely opportunity, the first time since the Minister pushed up the excise duties, reduced consumption as he was determined to do by increased prices, by raiding the larder of the ordinary working-class people, as he was determined to do.  We have had the first opportunity of getting the opinion of a working-class section in a working-class constituency of this country; and, mind you, never in the history of Fianna Fáil have they got such a salutary lesson; and, on the basis of this White Paper, on the artifice of those lies, you will get your answer.  I move the adjournment of the debate.</P>
+      <P>Debate adjourned.</P>
+      <P>The Dáil adjourned at 2 p.m. until 3 p.m. on Wednesday, 19th November, 1952.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

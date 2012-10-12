@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="16" Month="Oct" Year="1942" Vol="88" No="11" DateIrish="Dé hAoine, 16 Deireadh Fómhair 1942" DateEnglish="Friday, 16 October 1942" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1409">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1409" /> Do chuaidh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanTOKelly" hpid="The Tánaiste Seán T. O'Kelly">
+      <NameTxt>The Tánaiste</NameTxt>
+      <P>It is proposed to take Nos. 3 and 2 on the Order Paper in that order.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I understand the Government wanted accommodation with regard to the time.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Local Government and Public Health (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Local Government and Public Health (Mr. MacEntee)</NameTxt>
+      <P>Yes, we are anxious to get No. 2 to-day.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="The Tánaiste Seán T. O'Kelly">
+      <NameTxt>The Tánaiste</NameTxt>
+      <P>Nos. 3 and 2.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Could the Minister for Justice say how long he will take to reply to the discussion on the Intoxicating Liquor Bill?</P>
+    </Speaker>
+    <Speaker pid="GeraldBoland" hpid="Minister for Justice (Mr. Boland) Gerald Boland">
+      <NameTxt>Minister for Justice (Mr. Boland)</NameTxt>
+      <P>I shall be as brief as possible.  The most I would want would be half an hour. Perhaps twenty minutes would be sufficient, but I do not think it would be extravagant to ask for half an hour. I should like to answer some of the points made.  There were a great number of points made.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>We could take No. 2 at half-past one.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>At 12 o'clock.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="The Tánaiste Seán T. O'Kelly">
+      <NameTxt>The Tánaiste</NameTxt>
+      <P>Would it be agreeable to the House to take No. 2 first?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I should like to get time to reply to-day.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Will No. 2 take long?</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Will it take two hours?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>It might.</P>
+    </Speaker>
+    <Col N="1410" />
+    <Speaker pid="SeanTOKelly" hpid="The Tánaiste Seán T. O'Kelly">
+      <NameTxt>The Tánaiste</NameTxt>
+      <P>If it took two hours it might mean that the Second Stage of the Intoxicating Liquor Bill could not be finished to-day.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Could we not finish with the Intoxicating Liquor Bill by 12 o'clock?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I think we should conclude the debate on the Intoxicating Liquor Bill to-day.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>What is No. 2?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Supplementary Estimate for £100,000.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Will you take that first?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>No. 2 to be concluded by 12 o'clock, noon.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Have you any information as to the number of likely speakers on the Intoxicating Liquor Bill?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>They should be exhausted now.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Twenty-eight Deputies have already spoken on the Bill.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Do the different Parties know how many of their members wish to speak?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>We are finished on this stage, anyway.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It is therefore agreed to conclude the discussion on No. 2 at 12 o'clock, noon.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>When Deputy Davin got up to speak a number of Deputies also rose.  If these Deputies intend to speak, I do not know how we can finish at 12.</P>
+    </Speaker>
+    <Speaker pid="SeanTOKelly" hpid="The Tánaiste Seán T. O'Kelly">
+      <NameTxt>The Tánaiste</NameTxt>
+      <P>No. 3 will be concluded too, allowing 20 minutes for the Minister for Justice to reply.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>No. 2 will be concluded at 12 o'clock, noon, and <Col N="1411" /> No. 3 by 2 o'clock, giving the Minister at least 20 minutes to reply.  Is that generally agreed?</P>
+      <P>Agreed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Supplementary and Additional" RHead="Estimate, 1942-43">
+    <Title>Supplementary and Additional Estimate, 1942-43.</Title>
+    <P>The Dáil, according to order, went into Committee on Finance to consider a Supplementary Estimate for Public Services for the year ending 31st March, 1943.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Vote 41&mdash;Local" RHead="Government and Public Health">
+    <Title>Committee on Finance. - Vote 41&mdash;Local Government and Public Health.</Title>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Local Government and Public Health (Mr. MacEntee) Seán MacEntee">
+      <NameTxt>Minister for Local Government and Public Health (Mr. MacEntee)</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That a supplementary sum not exceeding £65,000 be granted to defray the Charge which will come in course of payment during the year ending 31st March, 1943, for the salaries and expenses of the Office of the Minister for Local Government and Public Health, and certain services administered by that office, including grants and other expenses in connection with housing, grants to local authorities, sundry miscellaneous grants and grants-in-aid, and certain charges connected with hospitals.</P>
+      <P>This Supplementary Estimate relates to two matters.  The first is the grant towards the supply of fuel for necessitous families, and the second, which is merely a token Estimate, is to enable us to implement the provisions of the Housing Act of 1942, which empowered the Government to continue the grants to be made to private builders.  The most important item in the Estimate, of course, is the grant towards the cost of supplying fuel for necessitous families.  The House, no doubt, will recall that, in introducing his Budget in May last, the Minister for Finance indicated that it was his intention to provide the sum of £100,000 to assist necessitous families, living in non-turf areas, to procure a supply of fuel during the coming winter.</P>
+    </Speaker>
+    <P>In furtherance of that, the Government has communicated with the City <Col N="1412" /> and County Managers in the non-turf areas, and a general scheme has been circulated for adoption by them. Under the scheme, it is desired to do two things: first, not merely to supply fuel at specially favourable prices &mdash; and in some instances, indeed, to supply it free of any charge at all&mdash;but also to ensure that those who come within the terms of the scheme will be assured of getting a definite fuel ration over the winter.  It will be recollected that, last year, certain difficulties were alleged to exist in connection with the supply of fuel to poor persons, whereby it was suggested that fuel that had been given to small distributors for sale in the poorer localities had been diverted to the richer localities and sold, more or less, in the black market. One of the aims of the scheme has been to ensure that if that occurred last year, it will not occur again.  Therefore, I should like to lay emphasis on the dual purpose here, which is the ensuring of a supply of fuel to certain necessitous households at a reasonable price.  The general intention, under the scheme, is that the appropriate local authority &mdash; in the case of Dublin City, the Commissioners for the Board of Assistance, and in other districts or areas, the City Managers or County Managers&mdash;will open depots&mdash;at least one depot, where one will suffice, and in the larger areas a number of depots &mdash;where the fuel will be stored, and from which it will be distributed.  It is hoped&mdash;and I do not see any difficulty in this connection &mdash; that the weekly ration will allow at least one cwt. of fuel for each household.  The fuel may be either turf or timber.  In general, I think it will be turf, but in some areas the proposal is that it should be half turf and half timber.  Where it has been customary for the public assistance authority to make a cash allowance for fuel during the winter, it has been suggested that a lump sum should be paid by way of contribution to the scheme and that the turf should be issued free to the recipients of home assistance, but that the recipients of other forms of assistance shall be expected to pay at graduated rates.  For instance, for old age pensioners and widow-pensioners, the rate, I think, will be 6d. per cwt., and for heads <Col N="1413" /> of households, in receipt of unemployment assistance, the rate will be 1/- per cwt.</P>
+    <P>For other households, not in receipt of any form of public assistance, but with a low weekly income, the rate will be 2/- per cwt.  It will be seen that these are particularly favourable rates when it is remembered that in the City of Dublin the probable average cost of supplying fuel to the city it is estimated will be in the neighbourhood of £4 per ton, and to that, of course, would have to be added the cost of distribution to the consumer.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>What does the Minister include in &ldquo;average cost&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The all-in cost&mdash;production, transport and so on.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Does the Minister mean that they will have to pay on an average cost of £4?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I do not want to commit myself to that, but I say that the average cost of fuel delivered in the city will be in the neighbourhood of £4 a ton.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The Minister is speaking only of turf?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes, turf.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Does that include the cost of delivery?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>To consumers, no, I do not think so.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Has the Minister figures as to the cost of delivery?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>No, I have not.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Does this simply include the cost of getting the turf and transporting it to the city?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes, more or less.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>And no city costs at all?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Well, certain city costs, such as the stacking of the turf in the dumps.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The stacking of it?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes, but the distribution <Col N="1414" /> costs to consumers are not included.  As I was saying, the rates suggested are particularly favourable. It will be, however, a condition of the scheme that those who avail themselves of this cheap turf will be expected to take delivery of it at the depôts, and be responsible for bringing it to their own homes.  Where, as in the case of old or inform persons, that is not possible, it has been suggested that arrangements should be made between the local authorities or public assistance authorities and the various charitable organisations to provide for the delivery of the turf from the depôt to the homes of these people, but, in general, those who are able-bodied and able to manage for themselves will be expected to take delivery of the turf from the depôts and take it to their own homes.  For that purpose, the depôts will be sufficiently numerous to ensure that the distance from which the turf will have to be taken will not be unduly long.  So far as Dublin is concerned, the arrangements for initiating the scheme are well advanced, and I anticipate that if this Estimate goes through to-day the scheme should commence to come into operation, perhaps, before the 1st November.  It may be necessary in order to secure smooth working of the organisation that the scheme will only come into operation gradually because every care has been taken to try to cut costs to a minimum so that the greatest possible number of people may be able to avail of the scheme.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Will the Minister say for what period the scheme will operate?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>We can only carry it on under this Vote to the 31st March.  Arrangements will have to be made in regard to each depôt to ensure that the same persons take their ration of turf upon a definite day and take it only from a specific depôt. In that way, as I said, we hope to reduce handling costs and storage charges to an absolute minimum and to ensure, as I have already indicated, that there will be a margin which will enable the greatest number of people to benefit from the scheme.</P>
+    </Speaker>
+    <P>
+      <Col N="1415" /> It will not be possible at the very outset, I should say again, to extend the scheme to necessitous families who are not in receipt of assistance from public funds in one form or another.  We shall have at the beginning in Dublin to confine it to those who are in receipt of home assistance, those in receipt of widows', orphans' and old age pensions and those in receipt of unemployment assistance, but as soon as the scheme is working smoothly in regard to these classes the machinery will be extended, so as to enable other households, where the family income is low, but which do not come within these categories, to get turf at 2/- a cwt.  I anticipate, however, that the extension of the scheme to that category of households will not be very long delayed. So far as the rest of the country is concerned, the arrangements, I think, are fairly well advanced, and in Cork, Wexford, Waterford and other large urban centres, we anticipate that the scheme will come into operation also about the Ist November.  It is a matter of conjecture how many families exactly will be able to benefit by the scheme in the City of Dublin, for instance, but preliminary calculations suggested that perhaps as many as between 35,000 and 40,000 households, if they desire, can avail themselves of the scheme. That is a very considerable percentage of the number of households in Dublin.  How many beneficiaries there would be in the other centres, I am not in a position to say. We have addressed a questionnaire to the responsible authorities there and as soon as we receive the necessary information we will be in a position, if necessary, to give the House some statistics in that regard, but I think it would be reasonable to assume that the figure would bear more or less the same relation to the population of those centres as the figure does to that of Dublin.</P>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Has the Minister anything to say with regard to the housing side?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It is a token Vote, as the Deputy will see, and it is merely <Col N="1416" /> intended to enable us to carry on the grants to private builders.  If the Deputy wants figures, I can give him some.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>We are anxious to see these provisions put into operation at the earliest possible moment, and we hope there is nothing too significant in the Minister's suggestion that these proposals are going to be put into force gradually because, as far as the City of Dublin is concerned, I think the last couple of weeks may be taken as an indication that we are running very quickly into the winter and there is very little time to see the exact extent of the problem that has to be covered and to make the necessary arrangements.  I hope the Minister will not be too rigid in his regulations confining the scheme to the classes that he mentioned because, without going into the matter, there is, say, the class of men who were on the reserve or who joined the Army for the duration and who, as a result of the rigorous training the Army has gone through, have been discharged from the Army on medical grounds. They find themselves unable to get back the type of employment that they had before joining the Army, because the Army certificate that they are medically unfit makes a number of employers rather unwilling to take them back even though they may be quite fit for the type of work they were used to.  These men, who, before they joined the Army, may have enjoyed even a better income than the Army gave them, now find themselves dependent on unemployment insurance alone for a period, and I know a number of cases where they are going from Billy to Jack trying to get some kind of additional assistance to enable them to maintain their families.  Apart altogether from this Estimate, I think that that class of person requires a certain type of consideration.  They ought not to be excluded from the particular provision that is being made here.</P>
+      <P>It may not be entirely in order on this particular Estimate, but I wish to say that just as the provision of fuel is of importance at the present time, provision of lamp oil is also very important.</P>
+    </Speaker>
+    <Col N="1417" />
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy had better not develop that line. Deputy Hughes, for instance, might have something to say about kerosene.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>The purposes for which fuel is being provided during the winter are analogous to the purposes that would be served by oil, particularly in tenement houses where they have neither electric light nor gas.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy might leave it to the Minister to draw the analogy.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>I just want to leave it at that.  Turning to housing, the Minister is asking for a nominal grant to continue the housing progress by private persons and local authorities. When are we going to hear that the Housing Commission has presented its report to the Minister?  I forget how long ago the Housing Commission was set up.  I never considered it a suitable commission.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>1939.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>It was set up certainly before the emergency.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes; it did not begin actually to get down to work until 1940.  It was set up just before the emergency.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>If it was set up in 1939, it was set up very early in 1939 and a very substantial amount of work had been done before ever the emergency arose.  As a matter of fact, the taking of evidence was completed before the emergency arose.  I think we ought to see such report as that commission has to make on the conditions that it examined before they consider the position in the future.  Has the Minister got the report already?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I have not.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>When did the Minister last ask for it?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I have been pressing for it.</P>
+    </Speaker>
+    <Col N="1418" />
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Has the Minister got any real reason from any member of the commission as to why they have not provided the report?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes, I have.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>One thing I take objection to in connection with this Estimate is requiring poor people to have fuel and food dockets, as in that way we are developing a mentality that I consider to be dangerous.  These fuel and food dockets are going to be issued to widows, old age pensioners and necessitous families, and I ask myself why I should have any more privileges than they, and be able to buy the things I want, while other sections, through no fault of their own, are pressed down with poverty.  I do not know of anything so likely to cause social unrest than the method of issuing fuel and food tickets which has been introduced in this House during the past few years.  I am at a loss to understand why the Government should come along with schemes of this kind while, on the other hand, necessitous people are prevented from receiving any allowance from relations who have gone to work in England. Old age pensioners are to get one cwt. of fuel for which they must pay 6d., but the pension of these old people is cut off because their sons or friends working across the water send them some financial assistance.  For some months past some of these old people have been deprived of the pension that they were receiving because their children in America or in England help them.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Does the law do that?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>When this Estimate is passed it will be law also.  I am not objecting to this kind of law being introduced, but it creates a feeling amongst one class of people that they are a class apart.  I have in mind cases of old age pensioners who have been deprived of pensions for the reason I mentioned.  I told the Minister for Industry and Commerce about them yesterday.  In one case a man with seven dependent children, aged from 17 to five years, was getting 29/6 relief <Col N="1419" /> from the local authority, but that has been cut off because the eldest son, who is in England, sent home £3 every four weeks.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is not that the concern of another Minister?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I submit that legislation of that kind is going to create social unrest and dissatisfaction amongst sections of the community.  A widow's pension of 7/6 was reduced to 5/6, because she gets 7/- disablement benefit from the National Health Society. What sense is there in deciding that she should get food tickets when 2/6 is taken off her pension because she gets disablement benefit?  I could mention many cases of that kind.  I submit that we could not indulge in a more dangerous type of legislation than to develop this practice of issuing tickets and making those who get them feel that they are a class apart.  It is time to get down to fundamentals and to ask if people who are compelled to remain unemployed, or if decent working people when they reach 70 years are not entitled to an income as well as other sections of the community.  I am telling the Minister that the feeling amongst these people is that these schemes are a form of pauperism.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>No one is being pauperised.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I want to know if there is anything more likely to make for social unrest than the issue of these tickets, when those who get them have on cold days to wait their turn for supplies.  Deputies can see what will develop.  We are concerned now with people who have no means of buying fuel, and no means of buying sufficient food.  On the other hand, we say by the newspapers in recent weeks, even in the <i>Irish Press</i>, that there was a display in a drapery establishment, and that fur coats value for £650, and others for £190, were on show.  While some people were able to pay up to £600 for fur and seal coats, we have legislation here to provide other members of the community with tickets for fuel and food.  I am opposed to that.  I say that it is <Col N="1420" /> time in a country like this to get down to fundamentals and to see to it that we do not differentiate between one section and another.  We have been told that some people are to be charged 1/-, and others 2/- for the supplies indicated on the tickets. I wish to know what class of turf is going to be deposited in some of these depots.  I am anxious to be helpful, but I say to the Minister that if any people are deserving of getting the right type of turf it is the poor people. There is other turf available in different areas since last year which would not be suitable for poor people who have not wood to make it burn.  If that type of turf was issued to these people I foresee trouble.</P>
+    </Speaker>
+    <P>We have been told that the turf would have to be removed from the depôts to their homes by the holders of tickets.  I saw strangers taking photographs of poor people and children removing coal in old perambulators and home-made box cars last year.  Are we to have a repetition of that during the coming year?  I suggest that the Minister should be careful to see that we are not going to create turmoil and unrest by this proposal. We have been accused of objecting to the issue of fuel vouchers.  We are anxious to see that the people are fed, but, personally, I object to any one section being marked out as the only section entitled to get fuel and food with tickets.  There is no reason why old age pensioners, widows, and others who are the victims of circumstances, and who have given years of useful service to the community, should have to produce tickets to get one cwt. of turf from a depôt.  I am not at all pleased at the manner in which this problem is being tackled.  I had other hopes in years gone by, but I have been disillusioned by the means that are adopted to help the poor.  I consider that a widow who has reared a family, and who is in receipt of a pension of 7/6 or the old age pension should not be penalised because a son or a daughter who is earning in England sends home financial assistance. I say it is unfair and unchristian.  If a member of a family goes to another country, earns some <Col N="1421" /> money there and sends home a little of it to his father or his mother, there is surely no justice in taking that into account so as to prevent the parents from getting some public assistance. There is no other country in the world, I believe, except this one, that would stand for that kind of thing.  If the Minister really wants to help the poor and to maintain peace and stability in the country, then I suggest to him that, instead of trying to help this particular section of the people by food and fuel dockets, he should provide them with a weekly income.</P>
+    <Speaker pid="PeadarSeanDoyle" hpid="Mr. Doyle Mr. Doyle">
+      <NameTxt>Mr. Doyle</NameTxt>
+      <P>I am inclined to go a good deal of the road with Deputy Hickey when he suggests that some change is needed in the dole and voucher scheme.  I think every Deputy would be glad to see some change brought about.  As the Deputy has said, many of our people, through no fault of their own, have been reduced to the condition of paupers, due to the fact that they have to accept this kind of help.  We must, however, take into consideration that we are living in abnormal times.  Therefore, any scheme that will meet the needs of the poor, in present circumstances, should be appreciated.  For that reason I suggest there should be no delay in putting the scheme which the Minister has outlined into operation.  As Deputy Mulcahy has suggested, the Minister should apply it immediately to necessitous people and families not in receipt of help of any kind from public sources.  From my experience of the last six or seven months&mdash; I can only speak, of course, for the City of Dublin&mdash;I can say there is an urgent need to give help to that class.  Many of them are very poor to-day.  In normal times they never wanted a penny from anybody.  They have no opportunity of getting fuel.</P>
+    </Speaker>
+    <P>There is, as we know, an agitation going on in connection with school meals.  I believe it to be justified.  At the moment I am thinking of children returning from schools to homes in which there are no means whatever of cooking a meal.  The Minister should bear in mind the conditions under which such families are living.  They are not able to get a voucher for fuel. <Col N="1422" /> Even if they had the money, they cannot get the fuel unless through some source such as the Minister has in mind.  There is another class that needs immediate help under this scheme, the men who are being discharged from the Army and referred to by Deputy Mulcahy.  Deputies representing the City of Dublin are plagued day after day with numerous cases of that kind.  I appeal to the Minister not to delay in issuing those vouchers even though it has been suggested they ought not to be availed of until the winter.  The weather may be mild now, but that does not make a whole lot of difference to the people I have in mind since, even in the summer time, they have no means of cooking a meal in their homes.</P>
+    <P>If the Minister were to send an inspector to some of the thickly-populated areas in the city, such as Keogh Square, Francis Street and other areas where you have people living in tenements, he could see for himself the conditions under which many large families are living.  Most of them have no means whatever of cooking a meal &mdash;not even gas.  In conclusion, I would ask the Minister to provide immediately for the needs of people in poor circumstances who have no means of cooking a meal, and who are not old age pensioners or in receipt of assistance of any kind from public sources.</P>
+    <P>
+      <i>Mr. Belton rose.</i>
+    </P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I would suggest that the Deputy be mindful of the limited time available for the discussion of this Supplementary Estimate. Other Deputies may wish to participate in the debate.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>The Minister's statement contained a rather strange revelation. I understood him to say that the cost of the fuel is to be in the neighbourhood of £4 per ton, without distribution.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That is the average cost delivered to the city.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>That is a very strange revelation since the controlled price of good fuel is £3 per ton delivered. How does the Minister reconcile the <Col N="1423" /> controlled price with what he now finds to be the average cost of this fuel undelivered?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The Deputy should bear in mind that that cost was fixed in relation to last year's turf.  We are dealing with turf that is going to come into the City of Dublin in the future.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Is it contemplated, then, to raise the price?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That is another matter.  I am not dealing with that.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Will the Minister agree that the all-important matter on this question of fuel is to have it at any cost?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>This is not a general debate on fuel.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>The Minister is uneasy. I am not surprised.  The all-important matter is to have it.  If the controlled price is below that at which it can be produced, then you will not have it:</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy knows that the Minister for Local Government is not responsible in that connection.  This is not a debate on the production of fuel.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I agree.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The question for discussion is whether or not this grant for cheap fuel should be given.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>If the fuel were there, there are a lot of people who would have endeavoured to purchase it, and in that way helped to lighten the burden on somebody else's back in providing cheap fuel.  Somebody will have to pay for this.  If the local authorities are to distribute this fuel, I presume they will have to buy it somewhere. Where will they buy it?  In the matter of price, a headline now has been set for them.  I am not going to deal with the Government's extravagance in the matter of fuel production.  This is only part of the plan to let out Fuel Importers, Limited, as they were let out in the case of the turf.  The Government are asking for £100,000. <Col N="1424" /> Will that cover the cost of the whole scheme, or will any of the cost fall on the local authorities?  I do not think that was mentioned.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>It was.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I mentioned that the home assistance authorities would pay for the home assistance turf, as they have been in the habit of doing.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>So that this turf or wood fuel will cost the local authority £4 per ton.  I challenge the Minister to contradict this statement: that if he had planned and looked ahead, and asked for the delivery of all the turf and all the wood fuel that we required, it would have been delivered into any dump in Dublin &mdash; and I am sure the same is true of Cork&mdash;at £3 a ton.  Now, through the Government's muddling, inefficiency and incompetence it is going to cost £4 a ton.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>This is not the time to discuss fuel production.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>We are being asked to vote a sum of £100,000 for this purpose, while in connection with it the local authorities will have to provide an unspecified sum.  I submit, subject to the ruling of the Chair, that when the Minister comes here to ask for authority to spend this money, we are entitled to ask him what he was doing when the producing season was here. Everybody saw this coming.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy knows full well that this Minister has no responsibility for the matter raised by the Deputy.  That being so, and there having been numerous lengthy debates on fuel production, the Deputy must come down to the Vote before the Committee and leave the production and price of fuel for some suitable occasion.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>This House is being asked to vote £100,000 of public money for a specific purpose.  My criticism is that this Minister or whatever Minister is responsible&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy <Col N="1425" /> must deal with the Vote for the responsible Minister.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>This is the Minister who is asking for this £100,000.  My point is that, if he had shown foresight, he would not require such an amount to do the same work.  I am arguing about the cost, part of which is due to the incompetence of the Minister.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Of this Minister?</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>He has no responsibility for the production of fuel, as the Deputy knows.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>He has some idea of the amount of fuel that is required; he must have that in order to arrive at this figure of £100,000.  If he had got that estimate in time, and asked for tenders for the supplying of that fuel &mdash;there are various dumps in the urban and municipal areas &mdash; I hold that he would have got it at £3 a ton delivered.  Now, as he said himself, he is basing this estimate on a cost, undelivered to the customer &mdash; what might be termed the wholesale cost to the Government or to the local authority &mdash;of £4 a ton, so that the ratepayer will have to pay a quarter of the total cost owing to the incompetence of the Minister.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy may not further discuss turf production, the production of timber or the cost thereof, all of which come under the jurisdiction of another Minister.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I would ask the Minister how he arrived at his costs?  I am not concerned with the fuel that is in any other dump under the jurisdiction of any other Minister.  Once the matter gets the imprimatur of this House, the local authority must carry out the job.  The Dublin Corporation set about this over a year ago.  They got a certain distance and could not get any further.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Would the Deputy tell us what their costs were?</P>
+    </Speaker>
+    <Col N="1426" />
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I could, only I would be disobeying the ruling of the Chair.</P>
+    </Speaker>
+    <Speaker pid="CorneliusMeaney" hpid="Mr. Meaney Mr. Meaney">
+      <NameTxt>Mr. Meaney</NameTxt>
+      <P>The Deputy does not want to?</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I do.  The Minister's Department intervened and said: &ldquo;Do not buy outside.  There is timber in a dump at Inchicore belonging to the Forestry Division, and that will be sold to you.&rdquo;  We asked what their price would be, and the price quoted to us was £3 a ton.  It would cost 14/- to take it from there to the sawmills, then it would have to be cut up and brought back again.  It would cost us about £4 a ton.  It was a by-product of the Forestry Division that they wanted to palm off on us.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I think that the Deputy has sufficiently dealt with the Minister's interruption, which was not relevant either.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Then you are crediting me with more intelligence than the Minister.  I am accepting that.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Chair makes no comparison.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>We will take it for granted.  How will the ordinary organisation of coal merchants and bellmen, and so on, fit in with this scheme?  Will the fuel vouchers be used as money tokens to get bags of turf or bags of logs from the bellmen or the local merchants?  If so, what will be the value of those vouchers in purchasing power?  Are they to purchase fuel at the controlled price or at the cost price as disclosed here by the Minister?  I should like if the Minister would tell us what are his plans for distribution.  With regard to a point raised by Deputy Hickey, I do not think that the maximum emergency has come yet, so I think we should tell those people who come with their barrows and &ldquo;prams&rdquo; and everything else to cart home their fuel&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>They will come without your telling them.  That is the only means they have of taking it home.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I do not think that stage has arrived yet; having gone so far, <Col N="1427" /> I think the extra costs of distribution would be very little.  For the time being anyway, I think the machinery of the coal and fuel organisation that is here should be availed of, and that the recipients of those vouchers should be able to buy their fuel from the merchants.  If many members of the community have to go and fetch their own coal, many people will be thrown out of employment.  Nobody can do a job, no matter how simple it looks, as well as the man who has given years to it, and I would suggest to the Minister that, in the distribution of this fuel, the machinery which already exists in the towns and cities should be availed of, so that in curing one social evil we will not create another.</P>
+      <P>
+        <i>Deputy McCann rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Deputies might limit themselves to five minutes, so as to give an opportunity to a greater number.</P>
+    </Speaker>
+    <Speaker pid="JohnMcCann" hpid="Mr. McCann Mr. McCann">
+      <NameTxt>Mr. McCann</NameTxt>
+      <P>I am sure we all welcome this Supplementary Estimate. While I am at one with Deputy Hickey on a great number of points that he has raised, I suggest that that is work to be done by the Minister for Local Government in formulating a comprehensive social security code on another day.  The Estimate before us, however, deals with a particular problem.  I also dislike the stigma of the voucher, but we must take conditions as we find them.  I welcome particularly the aid that will be given to necessitous families.  In that connection, I should like to ask the Minister whether he has any idea of the income limit that will be fixed in relation to those families.  I have one suggestion to make in relation to the type of fuel to be distributed.  I am wondering if there remain at the dumps any of the peat briquettes.  I understood they were being stored specially as against an emergency.  It is very difficult to kindle a fire in tenement grates but the peat briquette was an excellent fuel.  I understand there is a considerable quantity of that fuel still available and if the Minister could release these briquettes for the cities, they would be very welcome.  I support <Col N="1428" /> Deputy Hickey's suggestion to the Minister that in assessing incomes&mdash; the means test at the moment is, I think, being too rigidly applied &mdash; a little laxity should be allowed in that respect.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>I am very glad that Deputy McCann has struck that note, because the means test is being applied to people with the lowest standard of living &mdash; old age pensioners, widows and orphans and people in receipt of unemployment assistance and home assistance. Their standard of living, low as it is, has been very adversely affected by the means test.  The means test has been most rigidly enforced in recent times, and has brought about the position that many of those families are living below the starvation level.  Anybody who is in touch with the people, as most Deputies are, knows that very well.</P>
+      <P>This scheme has been debated from the Dublin point of view, but I want to put a Cork complexion on it now. The Minister has not told us what the cost of the turf in Cork will be.  We have turf in Cork stored down in the park.  If that is going to be distributed, I do not think it will be of very much use for fuel purposes, especially for the poor people who have no means of getting it kindled.  I want to know what will be the approximate cost of this fuel in Cork?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I do not know.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>The Minister does not know how many families are going to be relieved in Cork, and he has told us already that he does not know how many families are going to be relieved in Dublin.  He strikes this figure of £100,000, which he thinks will go some part of the way to meet the cost of the scheme.  I want to remind the Minister of a few facts in regard to the quality of the turf.  There is no use in dumping fuel into people's homes if they cannot burn it, and I should like to draw his attention to the fact that turf has been lying in Cork Park for 12 months which is not capable of being burned by anybody, no matter what facilities they have.</P>
+    </Speaker>
+    <P>
+      <Col N="1429" /> Has the Minister taken into consideration the fact that there is a large number of families living outside the actual borough boundary?  These people have been shifted from the city to corporation housing areas.  There would be about 600 or 700 in Spangle Hill.  There are also a good many people of this type living in Gurranabraher, where the road is actually the boundary between the city and the county.  That road runs right through the housing scheme.  You will have people within the borough boundary entitled to assistance under this scheme while their neighbours across the way, who will be equally necessitous, will have no provision made for them.</P>
+    <P>Then there are places like Douglas and Blackrock to be considered.  There is also a place known as Horgan's Buildings, which is outside the boundary. You are going to have people living on opposite sides of a road treated differently, though it cannot be argued that their circumstances are different.  I would ask the Minister, when he is replying, to tell us definitely whether all these people will be entitled to the benefits of the scheme, and to give us an assurance that it is not a question of the strict location of their homes according to boundaries, but that it depends on the circumstances of the people to be relieved.</P>
+    <P>I should like to know if the Minister has any intention of extending the scheme to towns and villages throughout the country.  I have in mind portion of my constituency, east of the City of Cork, which is a non-turf area.  There are villages, and some towns too, in that area in which it will be as difficult to procure fuel as in any city or urban district.  Last year the parish council in one particular area, with the assistance of the parish priest, got a number of trees at a nominal price of 1/- each from the Land Commission on an estate on which there were trees for sale.  I think the Minister should not treat this matter on the basis of an isolated scheme but should look into the position of the country as a whole and see what provision can be made, either through parish councils or some other organisation, to ensure that <Col N="1430" /> nobody will be without fuel for the coming winter.  I think that that is the function of the Minister for Local Government and Public Health.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Not at all.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>Public health connotes good housing, good fuel, good food and all the things that go with it. Without fuel you cannot have food cooked properly.  No matter how the Minister may try to shirk responsibility, I say definitely that it is his responsibility to see to it that people, not alone in the cities and large towns, but in villages and small towns, must get consideration under this scheme.  Under the food voucher scheme, the rural areas were denied any assistance.  Now the proposal is to cut them out again under this scheme but I say that in villages and small towns many people are as much in need of assistance as the people in the big towns and cities.  I am rather surprised at the cost of the fuel and certainly the cost of the fuel will have a big bearing on the amount of fuel that will be distributed under this scheme.</P>
+      <P>I think that the Minister, the Government or whoever is responsible, should see that the fuel is produced at the lowest possible figure and that the authorities will not tolerate any exploitation of the unfortunate people who are to receive this assistance by other people who will receive the profits of the scheme.  I would like to ask the Minister to give us an indication as to whether he is going to make any provision for the people I have mentioned, who are living outside the congested portions of the city, from which they have been removed on account of bad housing.  The Minister has the administration of parish councils in his care, and surely he could get them to make provision for people in those villages and towns where the scheme will not apply, so that they will be provided for under some scheme.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>While I agree there may be some stigma attaching to the voucher system, I do not think Deputy Hickey was quite fair in his criticism. <Col N="1431" /> We are passing through very abnormal times, and any social scheme of this sort to help to relieve the poor should be welcome.  Before Deputy Hickey was finished, I think he tried to make out the scheme as being anything but welcome.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Does the Deputy believe in equality of sacrifice?</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>We can carry that a bit too far.  Deputy Hickey went on to say that he objected even to the collection of fuel at depôts.  How many decent, hardworking people have to go to depôts, as they are earning barely a living wage?  They have to go to depôts.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>These people have as good a right to live as you or I.  That is Deputy Hickey's opinion.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Complaint is being made here that fuel is too dear at £4 a ton.  I do not propose to go into that.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I would remind Deputies that the Minister should get a quarter of an hour to reply.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>When there is only a certain amount of money allocated in this direction, the number of people benefiting must be reduced if the cost of distribution has to be added.  There are 35,000 or 40,000 families concerned, and the cost of distribution would be considerable if applied all over.  Certainly, it would reduce the amount of fuel available within a given sum of money.  I think families will be very glad to collect fuel at a nominal figure.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>And be certain of getting it.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Deputies should be realistic about this scheme.  It is not possible to go into the homes and hand them everything.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>And we are not doing it.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>If the State goes part <Col N="1432" /> of the way, that is reasonable enough. The attitude of expecting the State to go the whole way is most unreasonable.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I did not suggest any such thing.  They have as good a right to a standard of living as the Deputy or myself, and they do not get an opportunity of earning a living.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>I do not think the Minister cleared up the point Deputy Belton put, as to home assistance authorities having to make any contribution.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes; in respect of home assistance recipients.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>The full amount?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>To what areas does the scheme apply?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Only non-turf areas.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Will it not apply to turf areas?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I have not got any money for that.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Does the Minister not feel that there are poor people in the turf areas who are hit by the emergency and who have their employment taken from them?  There may be families who have to live without any assistance from the State or any other source.  They were capable of earning their livelihood, and now, through no fault of their own, they are stricken at the present time and have to rely on charity in one form or another.  The turf area is just the same as the non-turf area.  I happen to represent a turf area.  In towns like Naas, Carlow and Newbridge there are people as poor as in the non-turf districts.  I do not see why the Minister differentiates between them.  The fact that a man happens to be living in a turf area and has no money in his pocket does not get him fuel.  I would ask the Minister to reconsider the matter, and not to differentiate between one district and another.  This is a social scheme, to <Col N="1433" /> help the necessitous poor at the present time, to help those people unable to procure fuel, and I think it should apply all over the country.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Would Deputy Hughes agree to let the Minister in now, to conclude?</P>
+      <P>
+        <i>Deputies Hannigan and A. Byrne (Junior) rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It was agreed to conclude this debate at 12 o'clock.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. A. Byrne Mr. A. Byrne">
+      <NameTxt>Mr. A. Byrne</NameTxt>
+      <P>I wish to protest against the farcical system of restricting the time allowed for any debate.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>It was agreed by the House this morning without a dissenting voice.  The Chair is carrying out the wishes of the Dáil.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>Could there be an extension of 20 minutes?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The other Bill has to be concluded also.  I now call on the Minister to conclude.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>If Deputies want to put a couple of questions, provided they do not make speeches, I am prepared to give way.</P>
+    </Speaker>
+    <Speaker pid="MichaelMorrissey" hpid="Mr. M. Morrissey Mr. M. Morrissey">
+      <NameTxt>Mr. M. Morrissey</NameTxt>
+      <P>I wish to put one or two points.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>I have a question.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>A direction from the House should be put into effect.  I will allow a question.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>I am sure the Minister is aware that the Dublin Board of Assistance makes a monetary grant of about 2/6 to recipients of home assistance. Will it be possible for the Minister to ensure that that grant will not be withdrawn?  If it is withdrawn, it would be equivalent to a levy of 2/6 on the worst-off section of the community. I see difficulties in the way and am sorry I had not an opportunity of saying a word or two.  However, I am glad to take this opportunity to congratulate the Minister on introducing the scheme.</P>
+    </Speaker>
+    <Speaker pid="MichaelMorrissey" hpid="Mr. M. Morrissey Mr. M. Morrissey">
+      <NameTxt>Mr. M. Morrissey</NameTxt>
+      <P>I am particularly <Col N="1434" /> interested in the Dungarvan area, which was a non-turf area up to two or three weeks ago.  At that time, the cost of turf was 40/- a ton.  The area has been declared a turf area now and the cost of turf is £3 a ton.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>It has been declared a turf area?</P>
+    </Speaker>
+    <Speaker pid="MichaelMorrissey" hpid="Mr. M. Morrissey Mr. M. Morrissey">
+      <NameTxt>Mr. M. Morrissey</NameTxt>
+      <P>Yes, within the last three weeks.  In the town there are about 250 families on home assistance. These people will feel it very hard if they do not get some relief under the scheme.  In Waterford City, which has ten times the population, there are 300 families on home assistance and these people will not come under the scheme.  It is the only urban area and it is very hard on them to pay extra for fuel and not benefit by the scheme.  As well as that, the county ratepayers will be contributing four-fifths of the cost of the scheme operating in Waterford City and the city people will not benefit by it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. A. Byrne Mr. A. Byrne">
+      <NameTxt>Mr. A. Byrne</NameTxt>
+      <P>May I ask the Minister if he will assure the House that the turf to be distributed from these depôts will be of good quality and that all the good stuff will not be kept for the big traders?  Secondly, will he consider extending the scheme throughout all the year, as turf is just as necessary in June and July as in other months.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I would like to make my position clear.  I have got £100,000 to apply as best I can to a specific purpose and a specific area.  As the Minister for Finance announced in the course of his Budget speech in May last, £100,000 is to be devoted to helping necessitous families in non-turf areas to procure a supply of fuel during the winter.  That is the purpose. Whether a case could be made for extending a scheme of this sort to turf areas or not, I cannot at this moment argue.  I will say this, that one of the justifications for this scheme, apart altogether from the financial justification arising out of the price of turf in non-turf areas, is the physical difficulty of getting fuel into urban centres such as Dublin, Cork and Waterford, which are in the non-turf areas.  We may <Col N="1435" /> assume that in a turf area it is, by comparison with these areas, easy to get fuel, whether timber or turf. To the extent to which people's means will not permit them to get turf in a turf area, we think there is a responsibility on the local communities there. We believe that the existing charitable organisations and parish councils can do in Carlow, as in Limerick and elsewhere; they can organise a supply of turf which can be disposed of at a reasonable price to those whose means do not permit them to pay the ordinary market price. That is the general argument against the suggestion which Deputy Hughes has advanced.</P>
+      <P>Let me go back to the scheme as it stands.  We have got a limited amount of money to allocate.  We are not&mdash; and I should like this to be quite clear &mdash;responsible for formulating schemes for particular areas; we are not responsible for formulating a scheme for Dublin, Cork or Waterford.  It is true that in the case of Dublin my Department did co-operate with the board of assistance in working out a scheme, and in that connection we were assisted by the Parliamentary Secretary to the Minister for Finance. We have had his assistance and co-operation and I am glad to acknowledge it, because it has enabled us to get a very satisfactory scheme worked out for Dublin.  But we are not primarily responsible.  The responsibility for devising these schemes rests upon the local authority from beginning to end.  We have, however, local authorities acting through their managers.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>The members have nothing to say to it, and you cannot get away with these misrepresentations.</P>
+    </Speaker>
+    <Speaker pid="JamesHughes" hpid="Mr. Hughes Mr. Hughes">
+      <NameTxt>Mr. Hughes</NameTxt>
+      <P>Does it mean that you will earmark a sum for each year?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The circumstances in each area are different and we have to consider each proposal on its merits, bearing in mind the difficulties of securing fuel in one district as compared with another.  It is more difficult to provide fuel in the City of <Col N="1436" /> Dublin than in the City of Waterford and it is, perhaps, more difficult to provide fuel in the City of Waterford than it is in the City of Limerick. Therefore, in considering what grants will be made, every proposal which will come to us will be considered on its merits in relation to the difficulties which we know and which the Parliamentary Secretary, the Turf Controller, knows to exist in securing an adequate supply of fuel for the particular district to which the scheme relates.  It is true that we have done here in Dublin a great deal of spade work.  We have worked out a scheme which we would hope can be adopted in relation to local circumstances by most of the local authorities who are going to be responsible for working out these schemes to suit their own districts.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>Why should the Minister endeavour&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I did not interrupt the Deputy.  I gave him certain facilities and I think he should have manners.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>So far as the City Manager is concerned&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I was good enough to give the Deputy a portion of my time.  Quite obviously he wants to keep on interrupting me so that I will not be able to answer the points that have been dealt with.  Deputy Byrne and others have asked about the quality of the turf.  We have no responsibility for the quality of the turf. That responsibility will rest upon those who are operating the schemes and, therefore, the responsibility will be a local one.  Quite clearly the Government could not be responsible for the quality of the turf to be supplied throughout the length and breadth of the country.  We have emphasised to the local authorities the need to ensure that the fuel will be of good quality and I am satisfied that, so far as Dublin is concerned, it will be of good quality and I do not anticipate any objection can be taken to the scheme on that score.  That is the general outline of the scheme.</P>
+    </Speaker>
+    <P>I should like now to get back to the <Col N="1437" /> extraordinary speech made by Deputy Hickey.  Deputy Hickey talked about the old age pensioners whose pensions were cut down if they were getting contributions from their sons and daughters.  I think the Deputy must be completely unaware of the provisions of the Old Age Pensions Act.  So far as the Act is concerned, if an old age pensioner gets a benefit or privilege not of statutory right, it is not taken into consideration in computing his means.  In fact, the Act of 1932, which my colleague, the Parliamentary Secretary, Deputy Ward, was responsible for piloting through the House, provides that benefits or privileges will not be taken into consideration in computing the means of old age pensioners. Let me come to another aspect.</P>
+    <P>Deputy Hickey, as usual, tried to embitter this debate by raising class prejudice and making it a class question. He talked about vouchers and asked why did we require people taking advantage of this scheme to get vouchers.  We do so in order that there may be a certificate to the effect that they really do require help from the community.  He asked why we do not put them on the same plane as the people who are able to buy fur coats at £150.  Does he want the community to provide fuel for people who are able to buy fur coats at £150?  Is that the co-equality that the Deputy wants?</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I did not suggest any such thing.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The fact is that we have limited resources at our disposal and we have to ask people to adduce some proof, when they go to depôts to get fuel, that they are entitled to get the fuel there largely at the expense of the rest of the community.  Let me come to another point that was raised by Deputy Hickey.  It was mentioned that where persons in receipt of unemployment assistance got contributions from their sons and daughters, their unemployment assistance was reduced. What sort of community does Deputy Hickey want to have existing in this country?  First of all, he wants the community to maintain the parents and relieve the children of any responsibility for their parents.</P>
+    </Speaker>
+    <Col N="1438" />
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I suggested nothing of the sort; that is an unfair statement.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Then he wants the community&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I suggested no such thing and I say that is unfair and a misrepresentation.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>&mdash;&mdash;to maintain the children and to relieve the parents of their responsibility.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I said that the State has an obligation to our people&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Under our Constitution the State is founded upon the family and family rights mean family responsibility.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>The whole thing is an absolute contradiction.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>If children can afford to contribute to the support of their parents, they are bound to do so and not leave them a burden on the community. Deputy Hickey never debates a question here without introducing this element of class warfare and class prejudice.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>Give the hot meals and stop talking blather.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Look here now, the Deputy is not on a race-course and he must behave himself and not act like a rowdy.</P>
+    </Speaker>
+    <Speaker pid="FionanLynch" hpid="An Leas-Cheann Comhairle Fionán Lynch">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>This discussion has proceeded on fairly reasonable lines.  Everybody got an opportunity of expressing his views. The Minister has a limited time at his disposal and he ought to be permitted to talk without being interrupted.</P>
+    </Speaker>
+    <Speaker pid="AlfredPByrne" hpid="Mr. Byrne (Junior) Mr. Byrne (Junior)">
+      <NameTxt>Mr. Byrne (Junior)</NameTxt>
+      <P>Some Deputies did not get an opportunity to speak.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I stand over everything I have said here.  I say, with deliberation, that there is not a pagan country in the world that would have the type of legislation we have here in regard to family life.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>This canker of communal responsibility with which <Col N="1439" /> Deputy Hickey is always endeavouring to infect into debates here, can only have the effect of rotting family life in this country.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>Will the Minister ensure that his hand-picked servants on the board of assistance&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I do not propose to answer the Deputy.</P>
+    </Speaker>
+    <Speaker pid="JosephHannigan" hpid="Dr. Hannigan Dr. Hannigan">
+      <NameTxt>Dr. Hannigan</NameTxt>
+      <P>&mdash;&mdash;will not take the 2/6 from the recipients of home assistance who are granted home assistance about this time of year?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The time I might have devoted to answering the Deputy he used up in interrupting.</P>
+    </Speaker>
+    <Speaker pid="JeremiahHurley" hpid="Mr. Hurley Mr. Hurley">
+      <NameTxt>Mr. Hurley</NameTxt>
+      <P>I put a few questions to the Minister to which I have got no reply.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I have been interrupted so frequently that I cannot reply.</P>
+      <P>Vote put and agreed to.</P>
+      <P>Vote reported and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Committee on Finance. - Intoxicating Liquor" RHead="Bill, 1942&mdash;Second Stage (Resumed)">
+    <Title>Committee on Finance. - Intoxicating Liquor Bill, 1942&mdash;Second Stage (Resumed).</Title>
+    <Speaker pid="TimothyJosephODonova" hpid="Mr. O'Donovan Mr. O'Donovan">
+      <NameTxt>Mr. O'Donovan</NameTxt>
+      <P>So much has already been said on the Bill that nothing new can be said by any Deputy speaking at this stage, but a few matters have been stressed by Deputies from all parts of the House which I think cannot be too often stressed, so that I shall not be blamed for repeating them.  I am interested, firstly, in the question of Sunday opening in the rural areas.  The Minister knows the conditions in the country.  Sunday is the only day on which the man who is working from Monday morning until Saturday night and who has not an opportunity of having a drink during those six days, can have that little recreation and enjoy the few pints he can spare the money for, after meeting his other calls for the week.  Everybody knows that the law as it stands is abused in that respect&mdash;that the countryman is having his pint, <Col N="1440" /> although the Guards are watching him. He is going to get it some way, but if the hours asked for by the licensed trade from 4 to 8, or 3 to 7 on Sundays, were granted, that abuse would be removed.  I am not so keen on the 1 o'clock to 2 o'clock opening after Mass, and I think that 3 to 7 would be preferable because the man has then had his dinner, and can take a walk to the public house and drink his two or three pints in comfort and be home for his work afterwards.  I hope the Minister will agree that there should be no differentiation between rural workers and those in city areas.</P>
+      <P>The next point is the <i>bona fide</i> business and I think that the wiping out of that trade is an obnoxious proposal. I do not see why that business could not be carried on from 6 in the morning until 12 at night.  I can visualise a time in the near future when carters with their horses will have to travel long distances.  They may have to start with a ton or 25 cwt. load at 5 o'clock in the morning for delivery 30 miles away or more.  From 6 o'clock until 9 that carter will have to travel and his horse will then need rest and feeding.  He will have to stand at the crossroad for an hour but will not be able to have a drink while his horse is having a rest.  The same thing may happen on the return journey.  He will have to feed his horse four or five times on the road, and in the times we are facing, when such a situation will probably arise, it would be most unfair if the man who is bearing the brunt of the heavy work of the country were to be cut off from a drink.</P>
+      <P>With regard to the question of concessions to seaside resorts, I think the appeal made to the Minister is very fair.  Seaside resorts must be catered for and it is only fair that that should be so.  These are the points stressed by very many other speakers and, as I say, nothing new can be said, but although much has been said from all sides about them, I think it necessary to stress them still further and I hope that when the Bill goes through these concessions for which we are asking will have been granted.</P>
+    </Speaker>
+    <Col N="1441" />
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>I do not propose to add very much to what has already been said, but there are a few points which many Deputies have lost sight of.  They have talked of the <i>bona fide</i> traffic, and have described people going from one village to another in order to get drink.  Does not everybody know that that is not <i>bona fide</i> traffic?  It is merely a method by which the law is evaded, and, even though a learned judge has said that it is, when the legislature was enacting that law, it was never the intention that by simply walking, riding or driving three miles, you became entitled to a drink.  I maintain that when a man with a horse and cart with animals or goods, travels from one point to another, and at some stage requires refreshment, he should be entitled to get it.  I go further and say that not only should he be entitled to get it, but the law should be such that he would be entitled to demand it, and it would be a breach of the licensing laws for a licensed merchant to fail to supply him.</P>
+      <P>Many things have been said in the debate which I think would have been better left unsaid, and I want at this stage to protest against any member of the House, even by implication, giving the impression that it is quite a common practice to leave a church before the ceremony is over for the purpose of getting a drink.  That is untrue. If one or two people walk out of a church with 1,000 people in it, to say that they have gone out for a drink and that they place more importance on the drink than on the ceremonies which they were attending is, I think, a terrible statement to make in this House.  I object to it.  I think it should be withdrawn, and that it should be admitted to have been merely a debating point.  It was properly said that on holidays, when the public houses are open, there is no running out at all, and if one person leaves a church in such circumstances, there is always some valid reason for his doing so.</P>
+    </Speaker>
+    <P>It would be unreasonable, and the law would be unenforceable as a result, to do away with the <i>bona fide</i> traffic altogether.  It would be a physical impossibility <Col N="1442" /> to enforce the law, human nature being human nature.  If people cannot get drink in a public house they will carry it with them.  If they cannot carry it with them, it will be available along the road, and there will be shebeens growing up, so that the damage will be far greater.  I assert that the <i>bona fide</i> traffic should be permitted, but that it should be clearly of such a type that, when a person reached his destination, he would not be entitled to a drink.</P>
+    <P>If, at the end of your journey, you are going to see friends or do some business, it will be tea or a meal you will want, and one should not be expecting drink and, in fact, drink should not be served.  As Deputy O'Donovan said, in these days of horse travel, when people may have to go long distances by road, there is no reason why the traveller should not be entitled to demand at any hour whatever refreshment he requires for both himself and his beast.  He should be entitled to go to a Gárda barracks and insist on a Gárda accompanying him, if necessary, and insisting on his being supplied with the necessary refreshment. If <i>bona fide</i> traffic were defined in that way and the law were enforced, you would cut out the &ldquo;bottle pary&rdquo; that drives from one place to another for the purpose of obtaining drink.  That is not <i>bona fide</i> traffic; it is only a means of evading the law.</P>
+    <P>As regards Sunday opening, it is only reasonable that the same law should extend to the whole country. There should be some period on Sunday in which trading would be legalised in the country.  Everybody knows that there is a certain amount of illegitimate trading in every village in which the publican resides on the premises.  The only place where that does not occur is where the publican is non-resident and, when he closes down on Saturday night, does not open until 10 o'clock on Sunday morning.  The cases in which that happens are very few.  This illegitimate trading is sometimes due to the fact that the farmer is busy up to the hour the premises are closed on Saturday evening &mdash; 9 o'clock, new time, which is only 7.30, sun time. <Col N="1443" /> The getting of the groceries is, in these circumstances, left over until Sunday morning.  The parcels are then made up, and may contain a bottle or a naggin of whiskey.  This business is, of course, illegal.  What you are really doing is forcing the Guard to walk the other way &mdash; to walk up the street when he should be walking down the street to enforce the law.</P>
+    <P>I heard a publican complain that a sergeant of the Gárda was persecuting him &mdash; not prosecuting him.  I knew the sergeant to be a reliable, steady officer.  I thought that it would be no harm, if I met him accidentally, to mention the complaint to him, which I did.  He said:</P>
+    <P>&ldquo;Everybody knows that, on Sunday, I enforce the licensing law until 1 o'clock.  While the <i>bona fide</i> traffic is on from 1 o'clock to 8 o'clock, I do not run into every pub to see who is in it because I know that Paddy and Johnnie, who have been working hard all the week, are getting a pint. I am not going to follow those people.  When the dance hall opens at 8 o'clock and when a bunch of brats come, armed with poteen, take a few glasses, distribute the rest, and then go down to a pub and get a couple of pints to throw on top of it, which sets them mad &mdash; these people I will prosecute and persecute so far as lies in my power.&rdquo;</P>
+    <P>I said: &ldquo;Good luck to you.&rdquo;  That is a situation in which a Gárda sergeant was himself legislating.  I have reason to believe that, in the south, a similar legislature was established in a certain area.  It is reasonable administration but we should not have that situation created.  Therefore, I think that, all over the country, there should be an opening period on Sundays in the middle of the day.  However, there should be one opening period only.  I am not at all impressed with the idea of split-opening periods.</P>
+    <P>I shall not argue whether the opening period should be 1 o'clock to 3 o'clock or 3 o'clock to 5 o'clock.  Whatever period is chosen, there should be a close-down after that, except for the <Col N="1444" /><i>bona fide</i> traffic of the type to which I have referred.  I suggest to the Minister that the <i>bona fide</i> limit should be ten miles, with horse traffic, and 20 or 25 miles, with motor traffic. A person should also have to establish to the Guards that he was going at least five or six miles further.  I question whether this Bill was necessary or not.  I think it would have been better to leave the matter as it was and enforce the law.  There were, however, so many difficulties that it was very hard to enforce it, and I am glad the Minister is taking some steps to make it enforceable.  To do that, he will have to allow provision to remain for legitimate traffic of the <i>bona fide</i> type.  He should legalise opening until 11 o'clock at night instead of 10, including Saturday nights.  Then there should be a close down except for <i>bona fide</i> travellers who, I assert, should be entitled to demand refreshment.</P>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>At what hour?</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Any time.  I heard somebody refer to the removal of a patient in an ambulance from the West of Ireland to Dublin.  He said that it was not drink they were worrying about and that there was no necessity to get something between 12 o'clock and 6 o'clock.  I know of several cases in which patients had to travel by car because there was no ambulance.  The doctor administered morphia to the patient when leaving, but there were several delays, due to punctures and other trouble and, when half a glass of brandy was required, it could not be got.  In a case of that kind, a person should be entitled to go to any public house and insist on being supplied. It is a necessity.  I admit that it is very hard to legislate for that.</P>
+    </Speaker>
+    <P>Surely a definition of the <i>bona fide</i> traffic is not as has been described, namely, two fellows meeting on the one road, one going to one point and the other to another for the purpose of getting drink.  That is sheer nonsense.  I would leave it optional with a publican to engage in the <i>bona fide</i> trade, or not, as he likes, but where it is carried on some kind of food should also be available, such as sandwiches, chipped <Col N="1445" /> potatoes, or anything like that.  That food should be available all the time.</P>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>At all hours of the night?</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>Yes.  There should be a hot meal provided.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Who would be on the roads at that time of the night?</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>If the licensed trade undertake that kind of business, I would make it a condition that they should provide the facilities for which that trade is intended.  I have had representations from temperance societies and others and the general view is that it is better to legalise certain things that are required and then enforce the law vigorously.  If you do that, I think you will have done a good day's work and will create a situation in which the law can be observed and will be observed.  You should punish every Gárda who does not enforce the law and every citizen who does not obey the law.</P>
+    </Speaker>
+    <Speaker pid="PeterJosephOLoghlen" hpid="Mr. O'Loghlen Mr. O'Loghlen">
+      <NameTxt>Mr. O'Loghlen</NameTxt>
+      <P>There are just a few observations which I wish to make on the Bill and I propose to follow those observations by some suggestions to the Minister which, in my judgment, would clothe the administration with power to deal with the evils complained of without imposing the restrictions on the community or the trade that this Bill imposes.  I am satisfied that the Minister has not introduced this Bill for the purpose that Deputy Cogan suggested last night &mdash; for the purpose of doing any political play-acting.</P>
+    </Speaker>
+    <P>I am satisfied that the Minister has introduced the Bill because there are grave evils observable in certain parts of the country and the Minister wants to have power to grapple with these evils.  Since that is the purpose for which the Minister introduced the Bill. I am also satisfied that the Bill will not be hung up, as Deputy Cogan said. There should be no hanging up of the Bill because it has been admitted on all sides that the evils are there.  These evils have to be grappled with and, because the Minister has not power <Col N="1446" /> under existing legislation to do that, he needs the authority that a Bill such as this gives him to do it.  Some Deputies allege that he has power under the existing law to do it and that he failed to make use of it.  I am sure that if the Minister had that power he would not occupy the time of the House with a measure of this kind.  Deputies admitted that the evils exist.  Then Deputy Hannigan asserted that the Bill was discreditable and deplorable, notwithstanding that it is necessary to grapple with the evils which he admits exist.</P>
+    <P>This Bill has within it certain admirable provisions; for instance, the section which permits a licensed trader to obtain a new licence for improved premises.  Many men are compelled to remain in occupation of premises at present which are highly unsuitable, notwithstanding that they are prepared to provide suitable premises where a better standard of accommodation could be provided.  This Bill removes an anomaly in the Licensing Act of 1902, and it permits a new licence to be granted in a case of that kind.  That is a very welcome provision, because it enables licensed persons, so disposed, to acquire new premises and thus cause unsightly licensed premises to disappear.</P>
+    <P>There are 21 sections in the Bill and I have heard criticism directed only against one section of it.  Certainly, the Minister must have performed his task reasonably well when the whole controversy centres round, and the whole criticism, both inside and outside the House, is directed towards this one section of the Bill, namely, Section 7.  Criticism, and I believe reasonable criticism, has been directed towards that section, by the trade, by the community outside, and by Deputies within the House.</P>
+    <P>There has been such a concentration of attack on that section for the last three days that, to use a modern term of war, Section 7 is now &ldquo;scorched earth.&rdquo;  I am sure these criticisms have made an impression on the Minister. Section 7 of the Bill, as I understand it, has for its object the removal <Col N="1447" /> of growing moral and social evils in connection with licensed premises within easy distance of Dublin City. The second main reason advanced by the Minister when introducing this Bill related to the happenings that succeeded the holding of dances on Sunday nights.  I believe that these are the two main reasons for the introduction of Section 7 of the Bill.</P>
+    <P>But the provision in Section 7 goes further, and, while seeking to eradicate these evils, it imposes on the unoffending trade and on the unoffending community an unreasonable restriction. Of course, I recognise clearly that it is very difficult to introduce legislation to remove any evil or any difficulty or any trouble without creating others which you do not foresee at the time. It is immensely difficult in introducing a licensing law to deal with the whole of a country such as ours.  That licensing law, to be uniformly applied, presupposes that the circumstances and conditions are similar all over the country.  Circumstances and conditions are not the same and, therefore, the enforcement of a uniform law must cause hardship and difficulties in certain districts.</P>
+    <P>Section 7 amends or repeals Section 15 of the Act of 1927.  That Act permitted <i>bona fide</i> travellers to be served at any hour of the day or night on week-days.</P>
+    <P>Section 7 of the Bill removes that entirely and compels licensed premises to shut down at 10 p.m., irrespective of whether people are travellers or not, and irrespective of where they came from.  That is a sweeping piece of legislation.  It is the most revolutionary piece of licensing law that has ever been introduced in this country. At present, a <i>bona fide</i> traveller is entitled to be served from the ordinary hours of 10 p.m. to 10 a.m. the following morning.  In other words, there are 12 hours during which he is entitled to be served, and the Minister proposes wholly to remove those 12 hours.  He removes entirely the <i>bona fide</i> trade, and that, obviously, must impose difficulties and hardships on the community, and, as I say, an <Col N="1448" /> unreasonable restriction on legitimate trade.</P>
+    <P>Let us examine what it means from one or two aspects.  There are many aspects, of course, but let us take one or two.  Take the case of health resorts in this country.  A man may travel 50, 60, or 100 miles to one of these health resorts, and, after that journey, he reaches the health resort at 10 p.m., official time, and therefore cannot be served, although it is then only 8.30 by the sun &mdash; two hours or two and a half hours of the sun still to go &mdash; but yet that man cannot be served at any health resort in this country. Again, take the case of men returning from their work on the bog, the farm, or the meadow.  They may be <i>bona fide</i> travellers passing through a town from their work at 10 o'clock, official time, although, according to their time, it is only 9 o'clock, and those men cannot be served.  I am quite sure that the Minister did not intend that this section should operate in that manner.  The complete abolition of the <i>bona fide</i> trade can only have results such as those which occurred in other countries.  For instance, in 1921, the <i>bona fide</i> trade was abolished in England, and one of the immediate consequences that flowed from that was that while, in 1921, there were 10,663 clubs in England, there were, in 1938, 16,951 clubs&mdash;an increase of practically 7,000 clubs in the period from 1921 to 1938&mdash;all due entirely, in the opinion of people who examined the matter impartially, to the abolition of the <i>bona fide.</i></P>
+    <P>Now, since I have criticised the Minister, he may ask me what have I to offer instead, and, of course, criticism is useless unless it is constructive. Well, I am prepared to offer an alternative.  Let us take the two cases which the Minister has indicated to the House have been giving him the greatest trouble.  One is the dance halls, and those who leave these halls and go outside to a neighbouring public house because they can get a drink at 1 o'clock in the morning.  I would say to the Minister that in order to meet that case he should extend the <i>bona fide</i> hours to 12 midnight.  Mind you, he is taking 12 hours from the <Col N="1449" /> legitimate trade that the trader has at the moment, and my suggestion would leave him two.  I do not think it would be very much to extend the <i>bona fide</i> trade to 12 p.m., and then close down the licensed premises to everybody until 6 the following morning.  That would meet the Minister's difficulty, because a man leaving the dance hall on a Sunday night could not be served with any drink between those hours, and I say that that would arm the Minister with power to challenge the evil that now exists.  The Minister may say that that does not protect him against evils that are happening adjacent to Dublin City.  I admit that it does not, but there again there is a difference of circumstances which compels you to introduce a different law, and my suggestion with regard to happenings in the neighbourhood of Dublin City &mdash; much as the Minister may dislike it &mdash; is that he must set down a boundary, and that licensed premises throughout Éire would be permitted to serve travellers up to midnight, save and except within a radius of 12 or 15 miles of the General Post Office in Dublin, and there the provision that the Minister has in the Bill would apply.  That is the suggestion that I have to make with regard to the abuses that the Minister indicated existed, and with which he said he had no power to grapple at the present time.</P>
+    <P>It has been suggested by the Minister that violations of the law occur in local areas on Sundays.  There is, I think, an obligation on most of us to admit that that is so, and if permission were given to serve persons on Sundays, locally, my idea is that the demand there arises more directly from persons who want to be served with ordinary groceries rather than from people who are looking for a drink.  In the country, people attend Mass on Sundays, and the ordinary requirements of the home have to be served.  That is why I am concerned that there should be a brief opening period &mdash; I should say for about an hour and a half &mdash; and only one opening period.  I am inclined to agree with what Deputy MacEoin said, that when you permit people to have something <Col N="1450" /> they desire to have, the anxiety to have it tends to disappear.  That is the psychological reaction.  Remove the barrier and, in many instances, in the case of people who desire to have a drink, the desire disappears.  Many people, on a church holiday, will pass a public house which is open.  They do not go in, but, on a Sunday, because the public house is shut, they want a drink.  That is a matter of practical experience, and I am putting it before the Minister.  I suggest that the closing hour for the whole of Eire should be 12 midnight for licensed premises, and that refers to every kind of licensed premises, whether public houses, theatres, clubs, and so on.</P>
+    <Speaker pid="JamesVictory" hpid="Mr. Victory Mr. Victory">
+      <NameTxt>Mr. Victory</NameTxt>
+      <P>And dance halls.</P>
+    </Speaker>
+    <Speaker pid="PeterJosephOLoghlen" hpid="Mr. O'Loghlen Mr. O'Loghlen">
+      <NameTxt>Mr. O'Loghlen</NameTxt>
+      <P>I am very doubtful if I would give a licence to a dance hall at all.  I say that the sale of drink in any licensed premises or in any place where drink is sold should cease at 12 midnight, and I think that if the Minister would agree to some such provision in this Bill, he would strengthen his power to grapple with the evils which he has mentioned and which we know exist.  I am satisfied that if the Minister finds it possible to adopt my suggestions, he will have sufficient power to deal with those evils, and also to remove some of the hardships and inconveniences that this Bill will impose on the people.</P>
+    </Speaker>
+    <Speaker pid="GenSeanMacEoin" hpid="General MacEoin General MacEoin">
+      <NameTxt>General MacEoin</NameTxt>
+      <P>What would the Deputy do in the case of the traveller going a distance?</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>It is a very small item.</P>
+    </Speaker>
+    <Speaker pid="PeterJosephOLoghlen" hpid="Mr. O'Loghlen Mr. O'Loghlen">
+      <NameTxt>Mr. O'Loghlen</NameTxt>
+      <P>I think the numbers are so few that it is difficult to legislate for the people the Deputy refers to.</P>
+    </Speaker>
+    <Speaker pid="PatrickGiles" hpid="Captain Giles Captain Giles">
+      <NameTxt>Captain Giles</NameTxt>
+      <P>I believe that the Minister for Justice deserves every credit for bringing in a Bill to amend the present liquor laws.  We all know that something was needed.  Some Deputies have suggested that the Minister brought in an election Bill. I do not agree with that because, in my opinion, the Minister has introduced a Bill which will be very detrimental to him in the next election.  I <Col N="1451" /> do not think he will get a vote for what he has done.  That is why I give him every credit for introducing this Bill.  There are certain clauses in the Bill that we expect he will amend and I believe he will do so.  He is a reasonable man and has listened to all Parties in this House.</P>
+      <P>We all know that we require, not so much a tightening up of the liquor laws, as a development of a better public spirit.  We all know that the drunken lout and the dissipated beauty are the star turns in our country to-day.  Until we get a public spirit which will put these people in their proper place, liquor laws are very little use.  I live within 20 miles of Dublin and I see many of the abuses which I know the Minister is trying to deal with.  They are glaring abuses which we, in a Christian country, cannot tolerate.  We know that many people are going down the slippery slope.  We know that this craze for drinking, amongst men and women, started in Dublin about ten years ago.  Even in my own county it has spread very rapidly in the last four or five years. Boys and girls of good breeding and intelligence have got in touch with many of these drunken louts at dances. They start by taking light drinks and in the course of a few years develop into drunkards.</P>
+      <P>I believe that the Minister's object will never be achieved if we have not a decent public spirit in the country. Decent young men and girls should not allow undesirable people into their dance halls and then they would be able to have their legitimate pleasure in comfort.  At the present moment, the presence of undesirable people interferes with the pleasure of decent people who are trying to dance.  I have seen scores of cases of that kind and I know the Minister is trying to deal with them.  For that reason, I welcome some tightening up of the liquor laws.</P>
+    </Speaker>
+    <P>We have plenty of drunkenness and indecency in this country at the present moment.  I noticed that many Deputies mentioned very little of that. I do not know whether it is that they <Col N="1452" /> do not come in touch with it, but I certainly hear of it and see it for myself, and I am satisfied that we are allowing this country to go down the slippery slope.  In the old days, when drink was very cheap, there was a good deal of drunkenness, but it was innocent drunkenness.  A farmer and his workman, after getting a good price for a bullock at the fair, might get a bit drunk, but they got home and, after a sleep, recovered.  The old aristocracy, the idle rich, had their tipsy parties and all those things, which were more or less a public scandal, but that has died out.  There is a new aristocracy in the country &mdash; I shall not say the idle rich &mdash; it has come in, I think, more or less with the industrial development.  Some of these fancy people are getting good wages and, not having very much money in the past, it has gone to their heads. It is a sad state of affairs that we cannot preserve the old original Irish character &mdash; that we must imitate foreign ways.  We know what happened in France and other countries. They have been discredited and humiliated.  We do not want to see our nation discredited and humiliated. I want to see our freedom creating for our people a better standard of living, a better Christian spirit and better public spirit but if we allow the things that I see going on now to continue, I say there is very little use in making any effort to make this country worth living in.</P>
+    <P>The chief danger I see in this country is the hotel &mdash; not the public house.  The abolition of the <i>bona fide</i> trade is a thing we could not stand over because we who took part in the national struggle, know that our struggle for independence would hardly have been a success if it were not for the public spirit, patriotism and nationalism of our publicans.  I believe that, outside of the fighting men, they were the body of men who did most to give us the right to legislate in a free Parliament. They took grave risks and in many cases found themselves financially embarrassed as a result of the help they gave us.  They hid our comrades, fed and clothed them and kept them very often from instant death.  I think that <Col N="1453" /> to interfere with those people in the manner proposed in this Bill would be an injustice that should not be tolerated.  They are honest people and hard-working.  There is not a huge amount of money made by the ordinary publican.  He has many ups and downs.  I would like to see licensing laws introduced to deal with the new type of hotels, that have all the facilities &mdash; lounges, bedrooms, music.  It is these hotels that I would ask the Minister to get after because I see flowing from them iniquity of all kinds.  I know many fine young girls who were innocent and well-behaved who to-day are occupying an unfortunate place all because public spirit did not rise up to deal with those drunkards who are star-turns in our countryside to-day. Many parents do not know what to do with regard to dances.  They want to keep their girls in touch with the ordinary community and want them to have legitimate pleasure, but it is almost dangerous to allow young girls out at all to a dance.  The hotel, with its drink at the bar and its open lounges and bedrooms, should not be tolerated.  It is terrible to see droves of people coming to hotels on hackney-cars, dancing for an hour or two, and then looking around to see what victims they can get.  They will bring them out and set them tipsy.</P>
+    <P>What Deputies from the provinces want is to have the regulations dealing with the <i>bona fide</i> trade amended.  I do not think the Minister would be doing a good thing by doing away with legitimate <i>bona fide</i> trade, which I consider is for the convenience of the people.  If the hours were from 12 to 6, and not in between, they would be suitable.  It is not people in rural districts who bring disgrace on the country.  It happened in the past that there was too much interference with Guards, even with the higher authorities. I do not want to introduce politics into this discussion, but some people appeared to be able to pull strings against Guards who had detected breaches of the law by publicans or found drunken persons on premises. When the Guards were going to prosecute they found that some cases were settled and that they could not proceed. <Col N="1454" /> I met several Guards who asked me what was the use in taking proceedings in these cases.  They said that they could catch some houses twice weekly, but that something happened over their heads and that they could not prosecute.  I am not blaming the Minister.  But that occurred.</P>
+    <P>That is unfair to publicans who obey the law.  If a publican is caught breaking the law, a prosecution against him should proceed to its logical conclusion. If the law is there it should be enforced fearlessly.  There is no use in trying to follow up small technical offences.  Cases will happen every day where the premises may be open for a minute after closing time.  Very often, if a publican had a stick in his hand he would not be able to get people out for five minutes after closing time.  I have deliberately used strong language, but I know what is happening.  I live in an area not far from Dublin, where a small minority are abusing the law. However, they are very vocal, and are what I would describe as &ldquo;star turns&rdquo;.  Until public spirit is aroused to exclude such people from places of amusement, licensing laws are of very little use.  People may say that I have painted a terrible state of affairs.  That is not the position generally, because there are areas in which the authorities have no trouble.  The trouble is being caused by the new type of hotel which provides facilities for all kinds of people.  If these places were made amenable to the law there would be very little cause for complaint. Licences have been given to dance halls. I am convinced that they should not be granted.</P>
+    <P>I saw people at these places who might be described as &ldquo;the upper ten,&rdquo; and at hunt dances where the conduct was not what it should be.  It was not at a dance hall that happened. The conduct was humiliating to many people and they left.  They found it difficult to get out because it was like being in a Rugby crowd.  There was no use in looking for supper there.  I do not want that sort of thing to continue. I want publicans who do an honest trade to get a chance to carry on their business legitimately, but I do not want licenses to be given to dance <Col N="1455" /> halls because it is there the abuse occurs.</P>
+    <Speaker pid="BridgetMRedmond" hpid="Mrs. Redmond Mrs. Redmond">
+      <NameTxt>Mrs. Redmond</NameTxt>
+      <P>I feel that it is the duty of every Deputy to express an opinion on this Bill.  I do not want to criticise it unduly at this stage.  The principal question dealt with concerned the complete abolition of the <i>bona fide</i> trade.  I object to that proposal very strongly, in the first place, because it is an interference with the rights of members of the licensed trade, and also with the value of their premises and, in the second place, because it is, in a general way, filching away the rights of the people.  In my opinion, members of the licensed trade are as decent a body of people as any other section of the community.  Very often they are maligned because there is not due consideration of the facts. I do not think it is fair to penalise a whole section of citizens because it may happen that a few do not conduct their business according to the law.  I urge the Minister to reconsider that section and to bear in mind the points that were put forward by speakers on both sides of the House.  Does the Minister understand the serious effect this measure will have on the licensed trade as a whole?  Does he realise the ineffectiveness of the section to deal with the abuses which he says exist in certain places around the City of Dublin?  In my opinion it will not remedy these abuses and later some other measure will have to be introduced.  Let us consider the position of a farmer or labourer going to a fair in the early hours of the morning.  Surely it is not contended that they are not entitled to refreshments.  Nobody will deny their need for some refreshments before 10 o'clock.  We all realise that farmers are doing good work in the national interest and that their attendance is essential at fairs, yet, according to a section in this Bill they are to be denied the privilege of getting refreshments. This provision will not only penalise them but will have the effect of penalising the rural population who are, in no way responsible for the abuses that occur in connection with the licensing laws.</P>
+    </Speaker>
+    <P>
+      <Col N="1456" /> What are we proposing to do to the licensed trade as a whole?  We are really putting more restrictions on that trade than it is able to bear.  Many people realise, as well as I do, that things in the towns are very bad at present, but when subscriptions are required for any object, publicans are the first people called upon to help. They try to be generous even though, in many cases, they can ill afford to be.  Licensed holders have to earn their living just as doctors, lawyers, shoemakers or any other section of the community must earn a living.  It just happens that that is their rôle in life. They have no intention whatever of trying to evade the law.  There may be a few people who have very little regard for the law, but I consider that it would be much better to find some method for enforcing the law rather than penalise the great majority who comply with it.  I strongly object to the section in the Bill dealing with the <i>bona fide</i> business.  I think it is, a retrograde step and one more instance of filching away the rights of the citizens. In this House we pay much lip-service to liberty and freedom, but it is gradually becoming a habit to take away the rights of the people, without realising what is being done.  I believe that too much interference with the rights of ordinary citizens is not good for the country.  I ask the Minister to give favourable consideration to the points that I have put before him and to make the necessary amendments.</P>
+    <P>Liberty is necessary if we are to have a decent, upright lot of citizens.  The privileges which citizens now enjoy under the existing law ought, in my opinion, to remain unimpaired.  It is a great mistake, I think, to further curtail the liberty of the people.  The proposal seems to be to pass a sweeping law which will affect the people generally, and to do that irrespective of whether you are punishing the right people or not.  If the Bill goes through in its present form everybody will suffer. It will seriously affect the people at the seaside resorts.  At the moment they find it very hard to carry on. Their business is confined to a few months of the year.  They try to keep their doors open from one end of the <Col N="1457" /> year to the other, but as we know they have to live almost entirely on what they make during the holiday season.  We know that owing to present conditions trains are not running to schedule.  When this Bill is passed, if a train arrives at one of these places after 10 o'clock at night, even during the holiday season, it will not be possible for those people, no matter how much they wish to do so, to meet the requirements of visitors who arrive after that hour.  That will not be good for the tourist trade or for a good many others whose means of making a living is directly bound up with it.  I would ask the Minister to consider the points that have been put forward by Deputies on both sides of the House.  I feel certain myself that he will deal fairly with them because he has been most patient during the whole of this debate.</P>
+    <Speaker pid="AlfredPByrne" hpid="Mr. Byrne (Junior) Mr. Byrne (Junior)">
+      <NameTxt>Mr. Byrne (Junior)</NameTxt>
+      <P>The Bill proposes to make two main changes in the existing licensing laws.  The first is the abolition of the <i>bona fide</i> traffic on week-days, and the other an extension of the opening hours for public houses in the cities on Sundays.  A good deal of the debate has centred round the proposal to abolish the <i>bona fide</i> trade.  It has been discussed from almost every angle.  As a result of the views that have been expressed, I hope the Minister will modify that section drastically.  Personally, I have no strong convictions on the matter.  I have often thought that the abolition of the <i>bona fide</i> business might be a good thing for the reason that it might tend to lessen the amount of excessive drinking that goes on.  Many Deputies seem to think that to restrict the opportunities for excessive drinking would be too high a price to pay for its abolition.</P>
+    </Speaker>
+    <P>I am afraid that Deputy O'Loghlen's suggestion to abolish the <i>bona fide</i> trade within a radius of 12 or 15 miles of the General Post Office in Dublin would not work, for the reason that the abuses which the Minister, in this Bill, is endeavouring to do away with, are due in large part to parties who travel around through the country in cars.  An extra half mile or an extra half gallon of petrol will not mean <Col N="1458" /> anything to them.  In any event, the Minister has told the House that in this Bill he is not dealing with Dublin alone, nor has he said that all the abuses occur in and around Dublin. He has assured us that they are taking place all over the country.  Therefore, I think the Deputy's suggestion would not work.  Deputy MacEoin referred to the definition of a <i>bona fide</i> traveller.  I do not know if there is any statutory definition.</P>
+    <Speaker pid="TimothyLinehan" hpid="Mr. Linehan Mr. Linehan">
+      <NameTxt>Mr. Linehan</NameTxt>
+      <P>There is.</P>
+    </Speaker>
+    <Speaker pid="AlfredPByrne" hpid="Mr. Byrne (Junior) Mr. Byrne (Junior)">
+      <NameTxt>Mr. Byrne (Junior)</NameTxt>
+      <P>Well, if there is I think it is being got round.  What I mean is that the person who poses as one is not a <i>bona fide</i> traveller at all. He is not travelling, in most cases at any rate, from one place to another on legitimate business, but solely for the purpose of getting drink.  It would be a good thing, in my opinion, if the Minister could devise some method whereby the genuine traveller such, for example, as men going to a fair or a market in the early morning, could get refreshment.  I do not know whether that is possible or not, but I think we are all anxious to cut out the person who is simply travelling around for the purpose of getting drink, and for no other purpose.  If something on the lines that I have suggested could be done it might help to solve the problem that the Minister is faced with in this section of the Bill.</P>
+      <P>As to our licensing laws in general, I could never understand why there should be any distinction made between town and country; why the countryman, if he feels thirsty, should not have the same facilities as the townsman has for satisfying his thirst. In fact, due to the nature of his work, he may be in far greater need of a drink than the townsman.  I feel that the facilities for obtaining a drink which are available to the townsman should apply equally to the man living in the country.  With regard to the proposal to extend the opening hours on Sundays in Dublin and the other cities, at present, as we know, the opening hours in Dublin on Sundays are from 2 p.m. to 5 p.m.</P>
+    </Speaker>
+    <P>The proposal in the Bill is to have the new opening hours 1 p.m. to 2 p.m. <Col N="1459" /> and 4 p.m. to 7 p.m.  I think that if there is to be an extension of the opening hours it should apply not in the afternoons but in the evenings.  I do not think that any man should stick himself in a public house, or in a hotel between 2 and 5 on a Sunday afternoon. Instead, he ought to be out on the hills, in the Phoenix Park with his wife and children or perhaps at Killiney with his sweetheart.  Deputies may smile at these suggestions.</P>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>It happens.</P>
+    </Speaker>
+    <Speaker pid="AlfredPByrne" hpid="Mr. Byrne (Junior) Mr. Byrne (Junior)">
+      <NameTxt>Mr. Byrne (Junior)</NameTxt>
+      <P>I mean this seriously.  I think that if the opening hours were in the evening, instead of in the afternoon, it would be far better and that if men who take a drink were given the preference they would be in favour of the evening opening.  Instead of being stuck in a public house during the afternoon, they could spend the time down at the Bull Wall, or elsewhere, enjoying themselves. He would be exercising himself playing football, or he would be watching a football match.  Anybody to whom I have mentioned the point&mdash; I have mentioned it on several occasions &mdash; has said: &ldquo;It must be the Church that is behind those objections.&rdquo; I missed some of the Minister's opening speech, and I do not know, whether or not he referred to that matter, but, if it is a fact that the Church objects to the opening of the licensed houses on Sunday nights between 7 and 10 o'clock, I think they are not looking at it from the correct angle, because they are still allowing the cinemas, theatres and dance halls to be open on Sunday nights.  The man who is going to a religious service will go one way or the other, and the man who is not going will not go one way or the other &mdash; whether or not the licensed premises are open.  I do not like the 1 to 2 hour either; I do not think it is necessary.  If the public houses are open, a lot of men would like to have a drink at that time, but, if they are not open, they would just as soon do without it.</P>
+    </Speaker>
+    <P>References have been made to the patronages and preferences and privileges <Col N="1460" /> which are given to clubs, dance halls, hotels and theatres.  I think that now is the time for a select committee to examine those points. There is a lot to be said for the abolition of all kinds of preferences, patronages and privileges; if one person cannot get a drink in one place, another person should not be able to get it in another place.  Of course, there is something to be said for the plea that a weary traveller arriving in Dublin from Galway or Limerick is entitled to have a drink with his meal, but at the same time those things could possibly be sacrificed for the sake of fair play all round.  In regard to clubs, Deputy Fogarty very rightly asked why should the man with the plus-fours and the golf clubs be entitled to get a drink at a time when the working-man cannot get it?  Of course, he forgot that the working-man has his clubs, too, at some of which the subscription is a nominal one.  I do not know that it would be any great disadvantage to do away with the licences attached to those clubs, or at least to cut down the hours during which the clubs would be entitled to serve drink.  The man who is a member of a club is walking down the street on Sunday after Mass, accompanied by some friend who is not a member; he may not really want a drink at all, but he has got into the habit of getting his little appetiser before dinner, so he brings his friend along with him.  If he were not a member of a club, a drink would not cost him a second thought at that time. He would go off for a walk with his friend.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Therefore, he does not need a club?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>I very much deplore the fact that the Leader of the Opposition, who graduated from the same college as myself, has deemed it fitting to absent himself from this discussion on what I consider the most important piece of social legislation ever introduced in this House.  There is no man more qualified than he is to give assistance and advice to the Minister in trying to make this Bill what each and <Col N="1461" /> every responsible Deputy would like to make it.  There is no man, I am sure, who would be more anxious to have a code of licensing laws which would win the respect of the people.  No one will deny that the <i>bona fide</i> traffic, as we have known it in recent years, is an absolute farce.  It has a bad effect, too, on the morale of the Gárdaí.  A young Gárda who has been taught his elementary duties in the depôt goes out into a district &mdash; fortunately, I suppose, for all concerned, he is accompanied by an experienced man&mdash;and he proceeds to operate according to the letter of the law.  Of course we know what happens. He becomes unpopular.  Then he gets soured when he finds that things are not as he was taught&mdash;that they are not according to the book of words.  Therefore, I think the Minister is genuinely entitled to be congratulated on making an effort to remedy what everybody knows is a farce and a glaring disgrace to our social laws at the present time. Like Deputy Fogarty, I hope that, since the discussion on this Bill started, he has learned more about the licensing laws than he ever knew before. Undoubtedly, there is a lot to be learned.  In particular, I want to congratulate a member of the Front Bench Opposition, Deputy Linehan, on the contribution he made to this discussion.  One would almost think he had practical experience of the licensed trade.  I do not believe he has.  At any rate, his speech was a constructive contribution to this problem.</P>
+    </Speaker>
+    <P>There is only one idea motivating the mind of the Minister, so far as I know, and that is to get rid of the abuses which exist at present.  In this discussion, I think every Deputy has done his or her best to make a helpful contribution as to the best method of dealing with the problem.  I would endorse the views expressed by those who appealed to the Minister for the setting up of a Parliamentary committee, but, in the last analysis, that rests with the Minister; if he cannot see his way to give us that all-Party committee, and let those of us who have views and ideas in connection with this matter get <Col N="1462" /> round a table and discuss them, we cannot force him to do so.</P>
+    <P>I understand that there is an arrangement by which this debate will conclude at 2 o'clock, and I regret that very much.  So far as the debate has gone, I do not believe there has been any waste of time on irrelevancies.  I have listened to political speeches here time after time, but I think everyone will agree that every member who has spoken on this particular Bill has endeavoured so far as possible to keep to the matters contained in it.  If that arrangement to which I have referred is to be adhered to, I must make way for the Minister, but I want to make one or two points first.  First of all, in regard to dance licences, we all know the evil of the dance halls, but I would suggest to the Minister that a local publican, a reputable trader, should be given an occasional licence to carry on a bar in the dance hall, under the same restrictions as if he were a licence holder in a club.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>That is a poor solution.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Restrictive legislation will not solve this problem.  If you make legislation too harsh, it will accentuate the problem.  I suggest there is a solution in giving an occasional licence to a reputable responsible licensed trader who will act in a responsible manner.  We all know what is happening by giving it to the dance halls.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Suppose you have no licence at all?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>That would be very harsh.  By that means you are going to create the bottle party.  I hope the Minister will bear in mind the evils which spring from the bottle party because, as some Deputy on the Opposition Benches pointed out, when you come down to the bottle party it is all whiskey drinking, whereas if you give reasonable facilities along the road for genuine travellers, the drinks consumed will principally be stout and beer with, occasionally of a cold night, a half one.  The bottle party in the car is a terrible thing to encourage and may lead to disastrous results.</P>
+    </Speaker>
+    <P>
+      <Col N="1463" /> Coming to the provisions of Section 7, I am in thorough agreement with those who say that the section as it stands is entirely too harsh and impractical. The effect of the enactment of that section would be to create a greater evil than that which the Minister is anxious to abolish at the moment.  I think that the Minister should continue the hours 10 a.m. to 10 p.m. and up to 12 midnight for <i>bona fide</i> travellers.  So far as Sundays are concerned, I am also in agreement with Deputy O'Loghlen that there should be two hours allowed after Mass.  I speak as a person of experience who has travelled up and down the country, as one who has worked behind a bar and who knows the psychology of the consumers. Again I want the Minister to bear in mind the desirability of inculcating respect for the law.  Do not ask the Guards to enforce a law which we know they cannot enforce.  Make the law in conformity with the people's requirements, and then see to it that the Guards will enforce it.</P>
+    <P>Coming to requirements in the city, I cannot understand the attitude of some Deputies who query the right of the capital of the State to have extra facilities in the matter of drinking hours in relation to other districts. There is no analogy between conditions in the capital of the State with 500,000 of a population and conditions in villages and towns with a few hundred or a few thousand people.  You cannot have a flat rule for that situation.  As to the proposed opening hours in the cities on Sundays &mdash; 1 to 2 and 4 to 7, there is one objection, I understand. As I understand the matter, the proposal to open from 1 to 2 is an honest effort to meet the genuine grievance of the honest trader who pays high taxes, licence duties and rates, to enable that trader to compete with clubs.  The clubs, as we all know, open at 1 o'clock on Sundays.  In connection with the proposed 4 to 7 opening, every member of the House is aware that the workers in the licensed trade take a very prominent part in G.A.A. games, the national games. The young men employed in the <Col N="1464" /> licensed trade in the city contend, I understand, that the split hour on Sunday will prevent their practising or carrying on these games.  What I am about to say may not be a popular thing, but I had the honour to be prominently associated with the trade organisation some years ago and I always preached to the assistants that the concern of that organisation was to obtain a guaranteed 48 hour week. Thanks to this Government, that is now the law of the land, and it is no concern of the employees what time the licensed trader opens or closes his premises.</P>
+    <P>The licensed trade is a catering trade and those employed in the licensing trade should be told definitely that they are catering for the people's needs.  It is an essential business; it is something that should not, as some Deputy on the Opposition Benches said, be looked upon as a luxury.  It is an essential adjunct to Irish life. The properly run Irish public house is one of the most ideal institutions in this country, where you meet all the finest types and hear some brilliant ideas.  Many of our greatest writers and orators found inspiration in the local tap rooms.  Everyone knows that. It may not be a popular thing for me to say to those young men who object to the split hour, but I do say this as one who played a little part in those games when I was fit and young and then I worked 16 hours a day, from 7 in the morning until 11 at night.  I say to them: &ldquo;If you get the hours 1 to 2 and 5 to 8 on Sundays, you will have three hours off.  You will have the afternoon and you will have an opportunity of seeing All-Ireland finals which very few workers in that particular trade ever had an opportunity of seeing.  You will have three hours' work in the afternoon, but you will not have to get up early on Sunday morning in order to practise these games.&rdquo;  I put that to the Minister who I know has always been a Gael, and has been associated with the national pastimes.  I know perfectly well that he is very sympathetic to the grievances voiced by the employees in the city in connection with that matter.</P>
+    <P>
+      <Col N="1465" /> I should like to refer to many matters that are not dealt with in the Bill.  That again brings me to the question of appealing to the Minister to allow this to go to an all-Party committee. As regards Saturday night closing, I should like to make one point which is not touched on in the Bill.  Why is it that Saturday night closing has to take place at 9.30?  No case could be made for that remaining as it is in view of the fact that all workers are paid on Friday night, particularly in and around the city. There is another matter not mentioned in the Bill which I should like the Minister to bear in mind with a view to bringing in some amendments later.  I refer to the question of abuses.  I think we should enact legislation to put more responsibility on the customer. In connection with the <i>bona fide</i> business, I would ask the Minister if he is going to allow a 12 o'clock opening in the county, that the public houses in the city should be allowed to open from 11 a.m. to 11 p.m.  I want to point out that by that means you would discourage an undesirable type from travelling in buses or in their cars &mdash;if we ever live to see normal conditions restored &mdash; for the sole purpose of drinking.</P>
+    <P>If you keep these rough types at home in their own local districts in the city and give them reasonable drinking facilities, the local publican has a restraining influence over them that no one can understand.  When they break loose from that atmosphere, some of them run amok.  These are types well known to exist in every city and country and no law can deal with them.  The best thing to do is to facilitate them in their own district and not to hold out an attraction five miles beyond it, where they may go, when they run into a few pounds, to &ldquo;have a good night of it&rdquo;.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>How many families would like to see public houses closed at 10 p.m. instead of 11 p.m.?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>I would like to remind Deputy Hickey that he would not encourage men to remain at home if he knew the conditions in some areas of this City of Dublin.</P>
+    </Speaker>
+    <Col N="1466" />
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>Indeed I do.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>He would appreciate that it is the poor man's only pleasant hour, particularly in slum areas.  We are all trying to solve the problem of the slums and have not solved it yet, particularly in Dublin and Cork.  The little well-lighted Dublin public house is an attraction and a convenience to men.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>That is right, continue the evil; do not try to cut it out.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>It is not an evil, it is a thing that keeps a man normal.  He meets his fellow-workers there and they discuss their particular problems over a pint or two, and they get at least somewhat philosophical.  Leave that man in that slum room, with crying children and a narking wife, and what is the result?  There is a psychological factor there.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>That is not a cure for the slums, surely.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>This Bill is not touching on the slum problem.  Let me refer to the Royal Commission on Licensing (England and Wales), 1929-31.  The report, on page 9, states:&mdash;</P>
+      <P>&ldquo;The Majority Report of the last Royal Commission (1896-1899), in recording a material decrease in drunkenness during the last quarter of the 19th century, cited a variety of contributing causes, among which were specially mentioned the labours of temperance workers, the spread of education, and the recent intensive development of the &lsquo;passion for games and athletics&rsquo;.  This last, it was stated, &lsquo;has served as a powerful rival to &ldquo;boozing&rdquo;, which was at one time almost the only excitement open to working-men&rsquo;.</P>
+    </Speaker>
+    <P>The social developments which have contributed to the much more remarkable improvement during the present century have been still wider. In particular, there has been a marked growth of counter-attractions to drinking which were not, generally speaking, available to the previous generation &mdash; such as <Col N="1467" /> cinemas, wireless, allotments and gardens on new estates, playing fields, travel facilities and so, forth. Better housing conditions, and progressive development of education and of public health and other services, have also played their part.</P>
+    <P>A marked change in general social standards has come about, and this has been reflected in a very appreciable alteration in the public attitude towards drunkenness.  Drunkenness has gone out of fashion, and a drunken person is not tolerated as he used to be.  The vital importance of this change of outlook hardly needs emphasis.&rdquo;</P>
+    <P>I think Deputy Hickey will not quarrel with me when I say that, in that respect, we have to congratulate our ex-Minister for Local Government and Public Health, Mr. Seán T. O Ceallaigh, who has done much to bring about those conditions which discourage the drink traffic.</P>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>The Deputy left out an important item there.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>I did not interrupt Deputy Hickey.  I am sorry that we are limited to time in this debate.  I would like to endorse what Deputy Giles said about the tradition of the licensed trade and those associated with it.  Down through the generations in every national struggle, they have played an important part.  This Bill must adversely affect some of them, but I hope it will beneficially affect the majority.  There are approximately 11,000 public houses in Eire, and, at a round figure, I am told the amount of money invested there is approximately £12,000,000.  I know perfectly well that the Minister has no desire or intention to do damage to that particular trade or the vested interests connected with it; but I am reliably informed that, since the introduction of this Bill, bank managers have been instructed to make a revaluation on the licensed premises which are likely to be affected under the <i>bona fide</i> clause introduced in Section 7 of the Bill. What is the outcome of that to be? It must be the restriction of credit. <Col N="1468" /> The publican is not alone a publican: he carries on a mixed trade, he lends or sells to the farmer implements, seeds, and so on.  That restriction of credit inevitably must hit the farmer. At a time like this&mdash;even at any time &mdash;the farmer requires long-term loans from the local traders until his crops are in and he can market them.  However, I need not develop that point any further.</P>
+      <P>As long as drink can be purchased during the opening hours and consumed somewhere else during the closed hours, it is obvious that the restriction of public house opening hours cannot reduce the consumption of drink but will, on the contrary, lead to its increase&mdash;and in surroundings likely to be more undesirable than those of public houses.  The licensing laws up to the present and the proposed new Bill constitute a grave reflection on the people and a negation of democracy. In the final consideration of this matter, it would be safer to trust the opinion of the simple citizens who know what, where and how they should have refreshments.  I appeal to the Minister again to refer this to an all-Party committee.  If he cannot do that, I appeal to him, in respect of the City of Dublin, to give us the hours, 1-3 and 5-7 and 11 a.m. to 11 p.m., and to allow the county an extra hour.  These are practical suggestions which will, I hope, receive sympathetic consideration.</P>
+      <P>
+        <i>Deputies Belton and Keating rose.</i>
+      </P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>There was an agreement that the Minister should have reasonable time to conclude.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>Leaders of Parties should not ask for an agreement unless they control their members and give everybody a reasonable time to deal with this matter.  I represent a constituency more affected by this Bill than any other in Ireland.  I have been briefed by a certain section to put their case, and I have not got the opportunity.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>Would it be possible by agreement to go on to 2.30?  That would give the Minister half an hour.</P>
+    </Speaker>
+    <Col N="1469" />
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That is for the House to decide.  The Minister was to get 20 minutes, and it is understood, of course, there cannot be a division after 2 o'clock.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I am sure every Deputy wants to hear what I have to say, I have been asked so many questions.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Could we not leave this over until the House meets again?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>An agreement was arrived at this morning to conclude to-day.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I think it is fair to say, as some Deputies have remarked, that this is very largely a Bill which could be dealt with on the Committee Stage, when these controversial sections could be debated at length.  We have been three days discussing it.  I do not want to curtail the debate at all, but I think it is a Bill on which we could have a very wide debate in Committee.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>While that is so, certain suggestions have been made here, in a rather important quarter, which may influence the Minister to embody amendments of his own which would have a very disastrous effect in the constituency I represent.</P>
+    </Speaker>
+    <Speaker pid="JamesHickey" hpid="Mr. Hickey Mr. Hickey">
+      <NameTxt>Mr. Hickey</NameTxt>
+      <P>I suggest that the discussion should be allowed to continue until 2 o'clock and then the Minister would have a chance of concluding the debate before 2.30.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That would mean there could be no division.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>It would mean the Second Reading being agreed to.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Is it agreed that the Minister will have an opportunity of speaking at 2.10 p.m. and that Deputies anxious to participate in the discussion will be as brief as possible in order to allow as many as possible to speak?  Will ten minutes be sufficient for Deputy Belton?</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I shall be satisfied with that.</P>
+    </Speaker>
+    <Col N="1470" />
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I shall call on the Minister at 2.10 in virtue of the agreement made this morning.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>I wish to congratulate the Minister on his courage in introducing this Bill.  I know that some people regard this Bill from one angle &mdash;we can see their comments in the papers &mdash; and other people look at it from another angle, and I say that in a jam of that kind the Minister is to be congratulated on having the courage to introduce this Bill.  Two distinct improvements in the licensing laws are embodied in the Bill, in my opinion and in the opinion of others who know more about this business than I do.  One improvement is the proposal to give discretion to the district justices in certain cases.  Another step forward is the proposal encouraging the improvement of public houses throughout the country by permitting a man, if he has a better site or a building close by, to leave the old hovel where he has been forced by law to carry on his business, and go to the better premises.</P>
+      <P>Criticism of the Bill has ranged mainly around Section 7.  The last speaker, Deputy Cooney, raised a point that the Minister seems to forget. He referred to the hours of trading. People do not keep their houses open for sport, and, in the course of 12 hours, they must take in some money and carry on some business.  In many cases publicans have reconstructed their houses to meet modern requirements. Deputy Cooney mentioned that the banks, which have a large interest in the licensed trade by way of mortgages, are revaluing their securities. That is a very serious matter.  If the Minister is going to curtail the trading hours, he should make some provision for compensation.  From what I have heard from traders, they are not averse to closing at midnight or at 1 o'clock in the morning and opening early next day.  That may be all right, but what about the travelling public? If the publican is to consider only himself, I know he would not be averse, in certain circumstances, to compromise on the present hours, but will the travelling public be satisfied?</P>
+    </Speaker>
+    <P>
+      <Col N="1471" /> A suggestion was made by Deputy O'Loghlen that within 15 miles of some specified limit from Dublin the public houses should be closed altogether. Why Dublin?  Why should he select a centre where there are more people to the square mile than in any other part of the country, and to which people travel from all over the country?  It has been said that certain abuses have grown up around Dublin.  The criticism boils down to this, that people come from clubs and dance halls to the <i>bona fide</i> houses.  There is not a word in this Bill curbing the clubs and the dance halls.  Why should the <i>bona fide</i> traders in Dublin and elsewhere have visited on them the sins of the dance halls and the clubs?</P>
+    <P>The Minister made a very curious case when introducing the Bill.  He said that by abolishing the <i>bona fide</i> trade now there would not be much hardship, and he described this as an opportune moment.  As an old civil servant, I can see the 100 per cent. Civil Service mind behind that statement. Because there is a shortage of drink, owing to the emergency, and these houses are closing automatically because of the shortage of supplies, this is considered an opportune time to shut them up, and the idea is that they will not observe the loss that they will suffer.  I think that is unworthy of the Minister, and I hope he will not base his plans on that idea any further.</P>
+    <P>There is another aspect of the question. If the <i>bona fide</i> traffic is stopped, we must not overlook the fact that the <i>bona fide</i> houses have been valued by the Commissioners of Valuation on the basis of the <i>bona fide</i> trade, plus the ordinary trade.  It is quite obvious that there will have to be a revaluation, or a devaluation, of those premises.  That automatically brings with it a devaluation of the licence.  The licence is based on 50 per cent. of the poor law valuation.  That basis was taken in 1910.  Since then successive British Chancellors have said that it was unfair to maintain that rule because the hours of trading have been curtailed, and that a good case was there for curtailing the <Col N="1472" /> licence paid and making it bear some relation to the curtailment of the working hours.  Even the law recognises that there is a relationship between the working hours and the licence, inasmuch as the six-day licensed premises pays one-seventh less in licence duty than the seven-day licensed premises.  There the Government recognises a full 100 per cent. relationship between the assessment of licence duty and the working hours of the public house.  If there is going to be a reduction of 50 per cent. in the working hours in a <i>bona fide</i> public house, are we, first of all, going to have a devaluation of those premises for ordinary rating purposes and then a devaluation of the licence duty and a further 50 per cent. cut in the licence duty?  The whole matter is not as simple as it looks.</P>
+    <P>I agree that abuses have grown up, and I think what is worrying social reformers and churches most is the growing evil of drinking among girls. There is nobody in this House, I am sure, who will stand in the way of the Minister in regard to any proposals that he thinks would be effective in stopping that evil; but the point has been made &mdash; I do not want to labour it here &mdash; that the dances and the clubs have been more responsible for that than the <i>bona fide</i> houses.  From the moral aspect, I suggest that this should be approached from the angle of prescribing how <i>bona fide</i> houses should be constructed.  There are many <i>bona fide</i> houses in which there are compartments which are not open to the gaze of those in the next compartment, or to the gaze of the general public in the premises, and I suggest that if it were prescribed that the premises should be such that there would be no seclusion or secluded compartments, it would go a long way towards remedying the moral problem which, I am sure, is agitating the Minister.</P>
+    <P>I agree with all that has been said about bottle parties in cars and so on, but the traveller on the road is deserving of consideration, and on no roads in Ireland are there more travellers than on the main roads leading to the City of Dublin.  We all know that, on <Col N="1473" /> the night before the cattle market, if one does not get out of the city before a certain hour, one has difficulty in getting out at all.  One must either start before or after the cattle are on the road.  There is no such congestion of road traffic going to any fair or market in the country as there is going to the Dublin market.  Hay comes to the Dublin hay market a distance of 40 or 50 miles.  Owing to the transport position, it is now coming by horse traffic again and the carters are a couple of days on the road.  On the main roads, the publicans are up early to give these men bread and butter and pints of porter.  That is their refreshment.  Is that all to be shut down?</P>
+    <P>I am not by any means a toper &mdash; I never took a drink until I was 48 years of age and I drink very little still, though some may think I am very little interested in it &mdash; but I am putting the views of my constituents and appealing to the Minister to consider this matter in a reasonable way and to bear in mind that if he takes away an asset, or portion of an asset, which a person holds, that person, apart from this problem altogether, is entitled to compensation. The precedent has been set by this Government and by its predecessor that where a person's rights are interfered with, the person affected is compensated.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I would remind the Deputy that he has spoken for a quarter of an hour.</P>
+    </Speaker>
+    <Speaker pid="PatrickBelton1927" hpid="Mr. Belton Mr. Belton">
+      <NameTxt>Mr. Belton</NameTxt>
+      <P>It is difficult to deal with this matter in the time, but I am trying to condense it as much as possible. I urge the Minister to consider the suggestion made by Deputy Cooney and, I think, by others, as to the appointment of a committee.  There is no political window-dressing about this at all.  It is doubtful whether it will bring the Minister more or fewer votes, and I am sure he does not look at it from that angle.  There are no kudos in it for anybody, and if people want a reform, throw a share of the responsibility on all, and distribute the hostility or the friendship of the various interested parties.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>Most of the speeches during <Col N="1474" /> this debate were directed towards Section 7, the <i>bona fide</i> section of the Bill, and we have had suggestions that the <i>bona fide</i> traffic should not be interfered with.  Another suggestion was that there should be Sunday opening of all licensed premises.  On the question of <i>bona fide</i> traffic.  I think the Minister should be congratulated on having taken this step of closing licensed premises during certain hours at night, because every Deputy knows quite well that there were grave abuses as a result of licensed premises being open from midnight until morning. We saw the growing evil mentioned by the last speaker of numbers of young girls taking strong drink and becoming intoxicated, and it would be a sorry day for this country if the Government responsible for order did not take some steps to remove that evil arising out of the long drinking hours allowed at present.  This Dáil is bound to legislate for future citizens, and if we allow our future mothers and wives to become drunkards at the age of 17 and 18, God help the country of the future.</P>
+    </Speaker>
+    <P>I think this section is unfortunately absolutely necessary.  I only wish that there was no need at all for any licensing laws.  It would be much simpler for everybody if licensed premises were allowed to open for the whole 24 hours.  I am sure the Gárda authorities and the courts would welcome that, but while strong drink is brewed in this country and while the people demand it, it is only right that there should be restrictions on the sale of that drink during certain hours.  We are all subject to restrictions and laws of some kind or another in our lives. Each of our lives is restricted in 101 ways, but for people to say that persons who travel at night need such a lot of drink is all nonsense.  I travel the roads from Dublin to Wexford and in all parts of Ireland in the early hours of the morning and the number of people one sees at that time &mdash; the total in the whole Twenty-Six Counties &mdash;would not be 1,000.  I doubt very much if there are so many and why should this House cater for 500 to 1,000 persons each night and agree to have every licensed premises in the <Col N="1475" /> country open to serve them with drink? There is no necessity whatever for it.</P>
+    <P>In the present age, when people are eating better food and wearing better clothes than was the case 50 or 60 years ago, they are much better fortified for travelling, if they have to travel, at night than were our fathers and grandfathers.  The amount of horse traffic on the roads at night was very small before the emergency. There may be a certain amount of horse traffic since the emergency, but this legislation is not designed merely for the period of the emergency.  It is to be hoped that it is permanent legislation, and if it is found to be harsh in any way, or wanting in any respect, the Dáil will be here to amend it in future, just as it is here to amend the existing legislation.  Let nobody say there is not a need, and a serious need, for this amendment of the law.</P>
+    <P>There is one point which has not been discussed and which was not mentioned by the Minister, that is, the unlimited hours for the sale of drink in hotels and clubs.  I hope the Minister will give that matter consideration. We know what the licensing laws are at present in respect of hotels, and everybody knows that this farce of bringing drink to hotel rooms and serving it after hours is the greatest humbug that ever was.  Drink is served openly in these places, and in clubs also.  I understand that clubs can keep open all night.  I do not know whether that is true or not, but there is no reason why any section of the community should have privileges which are denied to another section. If 12 o'clock, 11 o'clock or 10 o'clock be the closing hour for public houses, let it be the closing hour for the sale of all intoxicating drink in the country.</P>
+    <P>With regard to a Sunday opening outside the cities, this country has got along very well up to the present by having the public houses in the country closed on Sundays and by making provision for <i>bona fides.</i>  I agree that the facilities in that connection have been abused in many directions within certain hours, but I want the <Col N="1476" /> House to consider this matter very carefully before they force the Minister to open public houses, by law, in the country even for a short time on Sundays. I know that there is a certain demand on the part of people coming in to Mass on Sunday to get into certain shops and that there is a certain abuse of the law at present.  I have an open mind on the matter, but I should like to ask whether the abuses which exist at present would not be greater if the public houses were open on Sundays.  If 1,000 or 5,000 persons got drunk on Sunday, would it not be a much greater abuse than that of some people getting in and contriving to get an illegal drink about midday on Sundays, as at present?  We know that there is a certain abuse, but that abuse can be easily rectified. There are a number of small public houses in country districts that are not easily supervised by the Guards, and it is questionable whether it would be wise that they should get an opportunity of opening on Sundays.  The Sunday opening is all right in large centres of population like Dublin and Cork.  I urge the Minister, before agreeing to the opening of public houses in the country on Sunday, to consider the matter seriously because it is a new step, and it might be found to be a step in the wrong direction.</P>
+    <Speaker pid="TimothyLinehan" hpid="Mr. Linehan Mr. Linehan">
+      <NameTxt>Mr. Linehan</NameTxt>
+      <P>You do not see people getting drunk on Church holidays.</P>
+    </Speaker>
+    <Speaker pid="DenisAllen" hpid="Mr. Allen Mr. Allen">
+      <NameTxt>Mr. Allen</NameTxt>
+      <P>There are not many of these holidays.</P>
+    </Speaker>
+    <Speaker pid="JohnKeating" hpid="Mr. Keating Mr. Keating">
+      <NameTxt>Mr. Keating</NameTxt>
+      <P>I agree that the Minister has shown courage in introducing this Bill.  There is one class of people whom the Bill would hit very hard, but I spoke to the Minister privately about this matter and he told me he would make it right.  I refer to farmers and farm workers bringing cattle to fairs. Many farmers in my county have to drive cattle 14 miles to the fairs.  They leave home at midnight and, in present circumstances, their tea allowance, before they leave, is very small.  When they reach the fair green, these people feel like refreshments.  It is only right that these men, when they arrive at 5 o'clock or 6 o'clock in the morning, <Col N="1477" /> should be allowed to go into a public house and get a bottle of stout or minerals and some bread and cheese. At that time, none of the restaurants is open.  If they go to a private hotel, they will be told that they have not time to supply them as they were not staying there the previous night. I am sure the Minister will set that matter right.</P>
+      <P>An industry which is growing daily and bringing a lot of money to the country is greyhound breeding.  If you have not a track on which to test the greyhounds you will have no sale of greyhounds.  Through lack of petrol, people who have to travel to coursing meetings 20 or 30 miles will have to go back to the horse.  Coursing will start at 8 o'clock and will not be finished until after 10 o'clock.  If these people cannot then go into a public house and get a bottle of stout and some bread and cheese, they will not feel very warm by the time they get home at 1 o'clock or 2 o'clock in the morning. I ask the Minister to allow public houses to remain open on coursing nights, at any rate, up to midnight.</P>
+      <P>In the county I represent, country people who have to travel two or three miles to Mass buy their necessaries of life, in many cases, on Sunday morning. That is against the law now. These people will have to go in on Saturday afternoon, which will inconvenience them very much.  In the part of the country I represent, farm labourers are not paid until Saturday night.  That means that, when they reach home with their money, their wives have to travel in two or three miles to do the shopping.  If the country shops were allowed to open after second Mass for an hour it would be of great advantage to the people and I am sure there would be no abuse.</P>
+    </Speaker>
+    <Speaker pid="BenMaguire" hpid="Mr. Maguire Mr. Maguire">
+      <NameTxt>Mr. Maguire</NameTxt>
+      <P>I rise because I think that there may be a chance of getting the Minister to appreciate the utility of the public house service in the country as against the public house service within a short radius of the city.  The Bill has been designed primarily to deal with abuses in respect of licensed houses within a short <Col N="1478" /> radius of the city.  There is unanimity that it is a good thing to do that, if it can be done.  As regards country public houses, I should like to point out that the public house in the country is not a public house in the sense that it merely sells drink or that it is a place in which people get drunk.  That is a condition of things which has long passed away.  The public house in the country is a meeting-place on the eve of fairs.  Farmers and dealers meet there and very often make good bargains.  As there are no facilities for carrying on these transactions except those provided by the public house, the legislation necessary for the city is probably not applicable to the town.  In the same way, official time is not adopted in many parts of the country &mdash; even in the schools or churches.  To the extent that opening hours are fixed by relation to one universal standard of time, it is not fair to the country districts.</P>
+      <P>The service of the publicans in the country to the community there is just part of the general scheme of organisation by which farmers meet their business friends, cattle buyers and pig buyers, and, by the medium of the shelter afforded by the public house, carry through necessary trading transactions. If the Minister could extend the opening hours to meet the time kept by farmers, it would be of substantial benefit to them.  When certain closing hours are fixed for the towns, it means that farm workers have to stop work earlier than they would normally do.  Many of the public houses are also groceries and special arrangements should be made for opening hours suitable to the localities in question.  I merely desired, in rising, to impress on the Minister the usefulness of the public house in the country knowing, as I do, his woeful backwardness so far as knowledge of these institutions is concerned.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I have to admit what Deputy Maguire said, that that is one part of my education which has been badly neglected.  But I never did feel at home standing at a public-house bar, although I have gone into public <Col N="1479" /> houses several times.  Probably I have missed something, but it is rather late in the day now to start learning.  I think, however, that I know something about the problem.  In bringing in this Bill I certainly had misgivings.  Some people said I was courageous in doing so.  I wonder if I have not been foolhardy. Once I tackled this question of the licensing trade I knew I would be met by all sorts of demands such as those which have been put up.  We all remember that the last Government &mdash;I do not blame them for what they did&mdash;allowed a Bill which they brought in to drop.  They brought in a licensing Bill and there was such a barrage of criticism that they thought the best thing to do in the public interest was to drop it.  I knew the danger of bringing in a Bill dealing with the licensed trade.  I probably would not have brought in any Bill if it had not been for a promise I made to the Howth licensed traders.  Their existing rights had been taken away and I did not consider that that was consistent with democratic government.  Therefore, I undertook to examine the matter.</P>
+      <P>Then this problem arose which we have been discussing for the last few days, that is, the so-called <i>bona fide</i> traffic.  I want to emphasise the word &ldquo;so-called.&rdquo;  Everyone who knows a little bit of Latin knows that <i>bona fide</i> traveller means a traveller in good faith, a genuine traveller.  Only a couple of Deputies adverted to that. The first that did so was Deputy MacEoin who said that these people that go from one village to another to get drink during prohibited hours were not entitled to it.  That is so.</P>
+      <P>The same thing applies to people who go out from Dublin or Cork, or any other city or town, to public houses outside in order to get drink after prohibited hours.  They are not entitled to get drink there.  The people who supply them with drink are guilty of illegal conduct, and so are those who take the drink.  The difficulty is that the Gárdaí are not able to prove that a man went out for the purpose of getting drink.  Therefore, the thing was inoperative and could not be enforced.</P>
+    </Speaker>
+    <P>
+      <Col N="1480" /> When I am asked by Deputy McGilligan to produce statistics, I simply say to him that this particular law, which I believe is a very good one, provided for refreshment for genuine travellers, <i>bona fide</i> travellers, and nobody else, and that it is a great pity we had to interfere with that. But the greatest good of the greatest number must be the guiding principle in all these matters.  Undoubtedly, the abuses which have occurred were of such a nature that they had to be tackled by any Minister for Justice who had any sense of responsibility.  I have had complaints, and I know myself what is happening.  It is not confined to Dublin.  I have a letter here from a Cork publican.  He did not ask me to keep his name private.  I do not think I need read the whole letter, but he states:&mdash;</P>
+    <P>&ldquo;As a businessman, closely connected with the business life of Dublin City, I am justified in stating that there is 50 per cent. more drink consumed in Cork during prohibited hours than in Dublin and its environs.&rdquo;</P>
+    <P>From what I heard of Cork, I believe that is true, and that it is true of other parts of the country.  That is the difficulty I am up against.</P>
+    <P>I am most anxious to provide facilities for the <i>bona fide</i> traveller, that is the genuine traveller &mdash; that is what this law tried to do &mdash; but not for the people who want to get drink after hours.  If there is any justification for prohibiting drinking in Dublin or Cork or anywhere else after 10 p.m., there is the same justification for preventing drinking three or four or ten or 20 miles outside these cities.  There seems to be some justification.  I did not start the licensing legislation.  We all know that it has been found necessary.  We have been told about the Continent. I think the people on the Continent have a different moral standard.  If we followed the example of Continental countries, we would have a different standard of morals in this country.  I think the drink we sell here is stronger and that our temperament is different.  Therefore, it has been found necessary to put restrictions <Col N="1481" /> on the consumption of drink in this country.  If the law, as it stands at present, could be enforced, I certainly would not interfere.  I was very anxious and the Government were very anxious to relieve the licensed trade of some petty grievances &mdash; they did not amount to very much &mdash; which they found arose out of the last Act that was passed.  I think that was a splendid Act.  I think the Minister for Justice of the time did magnificent service to this country by the legislation which he brought in in 1927.  He rationalised the whole thing and made it sensible.  His memory should be respected for that.  There are other reasons, but for that in particular he deserves that his memory should be respected.  There would be very little necessity to amend that Act if it could be enforced but, as I say, it cannot be enforced.</P>
+    <P>I admit that I am proposing to take a very drastic step in seeking to abolish entirely the <i>bona fide</i> trade on week days.  But my object was to stop people from getting drink who are not entitled to get drink.  If that object can be attained &mdash; and I am satisfied from what I have heard here that it can be attained&mdash;by stopping the <i>bona fide</i> trade some time at night, I would be satisfied.  I do not see how I could agree to 12 o'clock, because, if you have 12 o'clock closing, the same difficulty I see with regard to the rowdy elements going out from Dublin and Cork and other places for the two hours would continue.  I would be inclined to consider 11 o'clock.  Anyway, that is a matter of detail.</P>
+    <P>I would also be inclined to consider fixing 6 o'clock in the morning.  That would mean prohibiting the sale of drink from, say, 11 p.m. until 6 a.m. I think that would achieve the object I have in view.  I think there is general agreement about that in the House.  Deputy Belton or some other Deputy suggested that the matter should be referred to a Committee of the House.  I have no objection to that, and I will consider that matter, but I do not know that there is much to be gained by it.  If there was a lot of lobbying and members happened to be canvassed, that might force a <Col N="1482" /> decision which I would not be able to stand over.  On the whole, having thought over the matter for the last few days, I think the best way to face the whole problem is to take the Committee Stage in the House, and if any Deputy, no matter on what side of the House he sits, puts down a reasonable amendment I promise to give it fair consideration.  If we are able to arrive at an agreed settlement I think we will have done a good day's work.</P>
+    <P>I have not attempted to revise the licensing laws generally.  I had not any such intention.  That is a matter which has been put up by the House and the House represents the people, I am sure.  The views of Deputies represent those of the people.  But Deputy Allen has sounded a note of warning and I thank him for reminding me of it, and that is that we ought not to embark lightly on any scheme for a general opening on Sundays in the country.  I know there are other practices going on in this country.  I should like to refer to betting.  It is now legal to bet openly. I am satisfied that there are ten or more people making bets to-day in these betting offices for the one who made bets when it was illegal to do so. I know it was a nasty thing to have people running down a laneway in order to make a bet, but only one person would do that for 20 who would go into a betting office.  I may be wrong, but that is my opinion.  I think if we allowed the public houses to open on Sundays in country places where they are not now allowed to open, we would have people who are able to amuse themselves in other ways going into public houses and getting into the habit of drinking.  That is my reaction to that question.</P>
+    <P>I do not think I ought to be asked to make any general revision of the licensing laws at present.  I am not inclined to do it.  The House can do it at any time Deputies wish.  I have been wondering whether I was courageous or foolhardy in tackling this matter at all, because I knew the dangers.  I knew I would be met by this demand.  I ask Deputies not to ask me to go too far in this matter.  As <Col N="1483" /> Deputy Allen said, I think the country has got on very well with the present licensing laws so far as opening on Sundays in country places is concerned. I do not want to discuss the matter much in detail because we can discuss it better on the Committee Stage, but the big thing in the debate was the <i>bona fide</i>, trade, and that is not confined to Dublin.  That letter that I have just read is a genuine letter.  It was not written to me, but to Deputy Flinn, by one of his constituents. There have been abuses everywhere.  As Deputy MacEoin so well put it, a man who has only to get up on a bicycle and travel a few miles in order to get a drink is not entitled to it, whereas the man who is going to a football match or an aeridheacht would be entitled to a drink, and he has up to 8 o'clock in the evening in the summer or 7 o'clock in the evening in the winter.</P>
+    <P>Now, about the question of the Dublin extension on Sunday mornings, I was very much impressed by the deputation from the grocers' assistants who met me.  They pointed out that it was bringing them back to the old days of slavery, and all the rest of it, and they also pointed out that Gaelic games, such as hurling &mdash; in which I myself was always very much interested &mdash; were going to suffer in Dublin. I hope that that is not so.  Deputy Cooney pointed out that this was a catering trade and that the requirement of the public had to be met.  I am not adamant on that, but I say that if the view put forward by the assistants had had much support, I am sure it would have been put forward more vigorously in this House, and I have not heard it put forward here. Therefore, so far as I know, the suggestion of opening up from 1 to 2 in Dublin has been accepted.  With regard to the closing hour of 7 o'clock, I pointed out, when introducing the Bill, that I had two main purposes in view there.</P>
+    <P>My main purpose was to have a difference between the closing hour in the city and in the outlying districts as short as possible, so as not to encourage a rush out to the country. <Col N="1484" /> That was my first, or No. 1, object.  My other object was to provide for people coming to Dublin for big Gaelic or hurling matches, or even Soccer matches.  In Dublin City, there has been a very big increase, in recent years, in the number of Soccer matches that are played on Sundays.  These matches generally start at 3 o'clock, and public houses are open only from 2 to 5, with the result that the people attending these matches cannot have a drink when they come out from the matches.  I think that such people, even if they are not from the country, are entitled to discuss the match over a pint.</P>
+    <Speaker pid="TimothyLinehan" hpid="Mr. Linehan Mr. Linehan">
+      <NameTxt>Mr. Linehan</NameTxt>
+      <P>Is not the man in the country town entitled to do the same?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I am sure he is.</P>
+    </Speaker>
+    <Speaker pid="TimothyLinehan" hpid="Mr. Linehan Mr. Linehan">
+      <NameTxt>Mr. Linehan</NameTxt>
+      <P>Well, that is the whole thing.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I admit this: I do not know why this was brought in in the beginning at all, but I found it there, and I think it has worked fairly well on the whole.</P>
+    </Speaker>
+    <Speaker pid="TimothyLinehan" hpid="Mr. Linehan Mr. Linehan">
+      <NameTxt>Mr. Linehan</NameTxt>
+      <P>Oh, no.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>Well, I think it has.  I am only trying to make the Act of 1927, which was a very good Act, in my opinion, effective.  There were a few little things that might have been done there that were not done.  There was, for instance, the matter of compulsory endorsement of licences.  I think that that has not worked out as the then Minister intended, and I think that if he were here himself to-day, he would admit that there were a few things like that that could be remedied.  Also there is the question of permission to change from bad, old premises to a better one.  There were other things also, such as this matter that has been referred to as &ldquo;the Guiney Clause.&rdquo;  I do not know whether I am supposed to be getting the £50,000 or whether it is our organisation that is going to get it.</P>
+    </Speaker>
+    <Speaker pid="TimothyLinehan" hpid="Mr. Linehan Mr. Linehan">
+      <NameTxt>Mr. Linehan</NameTxt>
+      <P>I think that what was meant was that it was worth £50,000.</P>
+    </Speaker>
+    <Col N="1485" />
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>Well, whatever about that, there were certain of these firms that had a grievance, I think.  Three of them had asked the Department, through their solicitors, to consider their case, and I did so.  These are really small things, but to go into such a large matter as opening generally throughout the country, I am afraid I have not the courage or the pluck to do so.  So far as St. Patrick's Day is concerned, the Minister at that time made his decision on that, and succeeded in getting it put through this House; but when it got to the Seanad it was thrown out, or, at least, amended so as to permit licences at race courses and similar fixtures.  Well, the Government of that day were at least as strong as we are, and I do not see why I should leave myself open to get the same sort of knock.  There are all sorts of things going on outside that we are all aware of, and I shall not put myself up against them, and I will not give a reason for putting anything in this Bill except what I have said, and that is that, in my opinion, the Act of 1927 was a fairly good Act, and that it has been a failure in some respects because of the impossibility of the Gárdaí enforcing it in respect of abuses that have occurred.</P>
+    </Speaker>
+    <P>I think that Deputy O'Higgins was most unfair in saying that there was a breakdown in both the Gárdaí and the courts &mdash; I do not know whether he said either or both, but I think he said both.  As far as the Gárdaí are concerned, they have done their utmost around Dublin, and around Cork also. What may happen in country places is another matter, and in any case it would not be a serious problem in the country districts.  For instance, I can quite understand a sensible sergeant seeing people going into a grocer's shop during prohibited hours, knowing that they do not want a drink, and, quite naturally, he does not want to get up against public opinion, although that may be a breach of the law; but I will say that in County Dublin the police have done their utmost to prevent abuses.  I was asked why they did not oppose the granting of licences.  They did.  They put up cases which, in my opinion, were unanswerable, <Col N="1486" /> and yet the licences were given in spite of them.  What is the use, then, of blaming the Gárdaí?</P>
+    <P>I am satisfied, and I am quite sure that the House, generally, is satisfied, that there is only one way to grapple with this problem, and that is to have a definite closing at certain times.  As to what these times may be, I hope my suggestion will be accepted &mdash; that is, a definite closing down from 11 o'clock until 6, say, during which there will be no drink served to anybody, and where either the customer or the licence-holder who breaks the law will be very severely dealt with.  If that is done, I think we will have achieved the object that I have in view and that, I think, we all have in view in this country, because everybody has expressed their dissatisfaction with these new and vicious conditions that have arisen in recent years.  Honestly, I think that the fighting that used to take place at fairs in the old days was a wholesome thing compared with this rotten, vicious kind of thing that is happening nowadays.  The kind of thing that is happening nowadays is a thing that we ought to be ashamed of.  It results in the ruination of young lives, especially of the lives of young girls, that nothing can compensate for, and I think that every Deputy should remember that that is the big problem, and anything that would check that, in my opinion, ought to get the support of the House.</P>
+    <P>On Committee, I shall have an open mind.  I think I shall bring in an amendment myself dealing with this matter of the opening hours, and I shall receive any other amendments that are put forward, from any side of the House, on their merits, and I am sure we will succeed eventually in coming to agreement on the Bill.</P>
+    <P>Question put and agreed to.</P>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>When will the Committee Stage be taken?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Boland Mr. Boland">
+      <NameTxt>Mr. Boland</NameTxt>
+      <P>I suppose next Wednesday week or, if Deputies do not wish to take it then, I will be agreeable to Wednesday fortnight.</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Wednesday week will be 28th October.</P>
+    </Speaker>
+    <Col N="1487" />
+    <Speaker pid="PeadarSeanDoyle" hpid="Mr. P.S. Doyle Mr. P.S. Doyle">
+      <NameTxt>Mr. P.S. Doyle</NameTxt>
+      <P>Why not leave it over for three weeks?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>That would be next Wednesday fortnight?</P>
+    </Speaker>
+    <Speaker pid="PeadarSeanDoyle" hpid="Mr. P.S. Doyle Mr. P.S. Doyle">
+      <NameTxt>Mr. P.S. Doyle</NameTxt>
+      <P>That would be for putting in amendments?</P>
+    </Speaker>
+    <Speaker pid="FrankFahy" hpid="An Ceann Comhairle Frank Fahy">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>No, the date <Col N="1488" /> when the Committee Stage will be taken &mdash; Wednesday fortnight, 4th November.</P>
+      <P>Committee Stage ordered for Wednesday, 4th November.</P>
+      <P>The Dáil adjourned at 2.30 p.m. until 3 p.m., Wednesday, 28th October.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

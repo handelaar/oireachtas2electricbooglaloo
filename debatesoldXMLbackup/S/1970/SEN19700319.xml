@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="19" Month="Mar" Year="1970" Vol="67" No="15" DateIrish="Déardaoin, 19 Márta 1970" DateEnglish="Thursday, 19 March 1970" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1541">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1541" /> Tháinig an Seanad le chéile ar 2 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election of Acting" RHead="Cathaoirleach">
+    <Title>Election of Acting Cathaoirleach.</Title>
+    <Speaker pid="" hpid="Cléireach an tSeanaid (Seán Mac Gabhann) Cléireach an tSeanaid (Seán Mac Gabhann)">
+      <NameTxt>Cléireach an tSeanaid (Seán Mac Gabhann)</NameTxt>
+      <P>Is mian liom a chur in iúl don Teach de bhun Buan-Ordú 11 go bhfuil an Cathaoirleach agus an Leas-Chathaoirleach as láthair ón tionól seo. Beidh sé riachtanach mar sin Comhalta a thoghadh don lá inniú chun na dualgais a chuirtear ar an gCathaoirleach a chomhlíonadh agus an t-údarás a fheidhmiú a thugtar dó leis na BuanOrduithe.</P>
+      <P>I have to inform the House pursuant to Standing Order 11 that the Cathaoirleach and Leas-Chathaoirleach are absent from this sitting.  It will be necessary therefore to elect for today a Member to perform the duties devolving upon and exercise the authority conferred upon the Cathaoirleach by Standing Orders.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tómás Ó Maoláin Tómás Ó Maoláin">
+      <NameTxt>Tómás Ó Maoláin</NameTxt>
+      <P>I move that Senator Eoin Ryan be elected Acting Cathaoirleach for today's sitting.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Agreed.</P>
+      <P>
+        <i>Senator Eoin Ryan then took the Chair.</i>
+      </P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Election" RHead="of Member">
+    <Title>Election of Member.</Title>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>Tá orm a fhógairt gur toghadh an Comhalta seo a leanas chun an corrfholúntas i gcomhaltas an tSeanaid lena mbaineann an Rún a rith Seanad Éireann an 12 Samhain, 1969.</P>
+      <P Just="Center">AN ROLLA TALMHAÍOCHTA</P>
+      <P Just="Center">
+        <i>An Fo-Rolla do Chomhlachtaí Ainmniúcháin.</i>
+      </P>
+      <P Just="Center">Conmhubhar Ó Ceallacháin</P>
+    </Speaker>
+    <P>I have to announce that the following Member has been elected to fill the casual vacancy in the membership of the Seanad to which the Resolution of <Col N="1542" /> Seanad Éireann of 12th November, 1969, has reference:&mdash;</P>
+    <P Just="Center">AGRICULTURAL PANEL.</P>
+    <P Just="Center">
+      <i>Nominating Bodies Sub-Panel.</i>
+    </P>
+    <P Just="Center">Cornelius Kevin O'Callaghan.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Messages" RHead="from Dáil">
+    <Title>Messages from Dáil.</Title>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>Fuarthas na Teachtaireachtaí seo a leanas ó Dháil Éireann:</P>
+      <P>Tá Dáil Éireann tar éis aontú leis na Leasuithe a rinne Seanad Éireann ar an mBille Sláinte, 1969.</P>
+      <P>Tá Dáil Éireann tar éis aontú leis na Leasuithe a rinne Seanad Éireann ar an mBille Rialtais Áitiúil (Rátaí) (Uimh. 2), 1969.</P>
+      <P>The following Messages have been received from Dáil Éireann:</P>
+      <P>Dáil Éireann has agreed to the Amendments made by Seanad Éireann to the Health Bill, 1969.</P>
+      <P>Dáil Éireann has agreed to the Amendments made by Seanad Éireann to the Local Government (Rates) (No. 2) Bill, 1969.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>It is proposed to to take Nos. 1 and 3.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Agriculture (Amendment) Bill, 1970:" RHead="Second Stage">
+    <Title>Agriculture (Amendment) Bill, 1970: Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time&rdquo;.</P>
+    <Speaker pid="NeilTCBlaney" hpid="Minister for Agriculture and Fisheries (Mr. Blaney) Neil T. Blaney">
+      <NameTxt>Minister for Agriculture and Fisheries (Mr. Blaney)</NameTxt>
+      <P>The amendment of the Agricultural Acts as proposed by this Bill is designed to enable county councils to make an increased contribution where necessary towards financing county committees of agriculture during the local financial year commencing 1st April, 1970.</P>
+    </Speaker>
+    <P>The existing statutory ceiling of such contribution, which has been in operation since 1st April, 1965, is a sum not exceeding 21 times the produce of a rate of 1d&mdash;that is 1s 9d&mdash;in the £1 in the area consisting of the county, exclusive of any urban areas therein. Under section 1, subsection (1) of this Bill, it is proposed to increase the <Col N="1543" /> ceiling by 6d to 27d in the £ with effect from 1st April, 1970.  This maximum provision is, of course, permissive and does not make it mandatory on county councils to reach it or indeed to meet the demands of committees of agriculture, unless they see fit.</P>
+    <P>Section 1, subsection (2), would enable county councils to make any necessary preliminary arrangements during the current financial year with a view to adopting a suitable rate contribution, within the proposed new maximum, in respect of the coming financial year.</P>
+    <P>The short title and collective citation of the Bill are dealt with in section 2, which also proposes in subsection (3) that the Bill will come into operation on 1st April next.</P>
+    <P>The committees of agriculture are financed each year by means of contributions from their respective county councils together with State grants related to such contributions.  The State grant normally approximates to the local rates contribution by the county councils, but in the case of the twelve committees of agriculture in the small farms areas of the west and north west of the country, further State assistance is granted by way of a contribution of 75 per cent instead of the normal 50 per cent towards the cost of employing adequate numbers of advisory staff.</P>
+    <P>Eight committees have not yet reached the maximum rate contribution of 15d in the £ which was operative prior to 1965 but the remaining 19 committees are now approaching at varying levels the present permitted maximum at 21d in the £.  One committee has, in fact, reached the 21d maximum and five are in receipt of over 20d in the £.  The proposed legislation is, therefore, necessary to ensure that the committees can carry on with their business in the years ahead.</P>
+    <P>As in the case of many other bodies, expenditure by committees of agriculture generally has been increasing in recent years.  Total expenditure by the committees reached £828,000 in 1963-64; it now exceeds some £1,500,000. This increase is due principally to a welcome increase in the numbers of <Col N="1544" /> the advisory staffs employed by the committees.  The total number of advisers in 1963-64 was 402.  In 1968-69 the figure was 509 which represents an increase of about 26 per cent over the five-year period.  The educational and other services of the committees have also been expanding.  These include new education centres, winter farm schools, the pilot areas scheme, the small farms (incentive bonus) scheme, and the farm home management advisory scheme.  Further advances in most of these areas are necessary if the farming community are to be adequately catered for in the advisory and educational work of the committees.</P>
+    <P>This Bill is required to meet the needs of some 11 committees who, in the immediate future, cannot carry on within the present permitted maximum rate contribution.</P>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>This is a rather short Bill which is designed to increase the amount of money county councils may allocate to their county committees of agriculture to enable them to carry on and where possible to increase all the services which they have built up over a period of years.  All that is involved is the simple question of whether the House is going to grant that money or not, a simple question of &ldquo;Yes&rdquo; or &ldquo;No&rdquo;.  As the people who pay the piper, we are at least entitled to call the tune and, therefore, we should examine the services which the various committees are giving to the agricultural community to see whether the granting of this money is justified or not.</P>
+    </Speaker>
+    <P>There is the question of the rates which in many counties have already been struck and it is to be noted that there is provision in the Bill to enable counties in which the rate has been struck to look for a further increase for committees who need extra money to carry on their services.  I am sorry to say that in some cases this is not just belated but is in actual fact too late.  We have arrived at the position in some counties&mdash;and there is no reflection on the eight who have not yet reached the pre-1965 figures&mdash;where a penny in the £ would bring in more <Col N="1545" /> than in other counties and consequently they would have more money to play around with and would not necessarily require this increase.  However, there are county committees of agriculture who have reached the limit and they are unable to pay their officials the salaries which they could get in other sectors and, consequently, many very able men and women are at present leaving permanent, pensionable positions to take up better paid positions in the private sector.  This is something we must deplore and about which we must do something immediately in order to stem this flow from the public to the private sector.  This is something which could very easily snowball and those officials who are leaving for the private sector could very well find that they are happier in their new positions, certainly better paid and possibly have better conditions all round, and if that word gets around it could have an adverse result.  We could find that instead of an increase in the number of advisers&mdash;which last year was the highest ever&mdash;there could be fewer next year.  Consequently, the services instead of being extended as has been happening&mdash;and there is a tremendous opportunity at present to increase the services for the agricultural community who are ready to accept all available advice to bring about an increase in agricultural production and an increased return to themselves&mdash;would be reduced.</P>
+    <P>In the past the agricultural committees have had a really tough uphill fight to get advice across to the agricultural community.  For far too long agriculture was looked upon as a way of life instead of being the country's oldest and greatest industry.  I think it is true to say that it was not until around 1946 or 1947 when the great rural organisation Macra na Feirme was founded and the agricultural committees became its godparents that at long last the breakthrough was achieved.  We were dealing with a new generation of young farmers who were anxious to learn and willing to put into operation the advice and recommendations of the agricultural advisers. This has expanded to such an extent that now we should be in the position of being able to put the <Col N="1546" /> county committees of agriculture on a similar footing to that enjoyed by the vocational education committees.  There is a great demand for further instruction, further farm schools and further home advisory services and unless we can provide the personnel not alone to keep those going but to keep them expanding, and unless we provide the extra money, that expansion just cannot take place.</P>
+    <P>There is also the likelihood that in the foreseeable future we will gain entry to the EEC and then it will not be just good enough to be second best. We must make every provision for the young farmers who are coming along, for the people who are going to be the backbone of the country.  They must be fully equipped to play their part when that day arrives.</P>
+    <P>If we take a look at the position in agriculture and look at the various Government Departments, there is hardly a single Government Department which has not a finger in the agricultural pie at some stage or another.  If you remember that the agricultural committees are involved in various activities such as forestry and the agricultural credit corporation, if all those other branches could be brought together in one body it would be doing a great service to the agricultural community.  Under the present scheme the committees of agriculture are unable to encourage or to employ men who specialise in a particular branch of agriculture, but we have now a tendency towards specialisation in farming and many farmers tend to specialise in one branch of agriculture or another.  It would cost considerably more, I must admit, but all the various schemes and Departments should be brought together under one roof as in our Fine Gael agricultural policy called the rural development authority&mdash;if you do not like that name call it something else&mdash;because, to give one example, the Agricultural Credit Corporation are unwilling to give a loan to a farmer unless he can show that through his agricultural advisers he is prepared to embark on some particular scheme that will give the necessary return from the loan that he is about to receive.</P>
+    <P>
+      <Col N="1547" /> That is just one heading under which I have tried to point out the necessity for bringing all these bodies under the one roof.  It would save an enormous amount of overlapping, and the committee of agriculture could then supply one person specialising in one particular branch.  Take, for instance, dairying.  One man could deal with the cows from the calf to the building that she uses.  Another could deal with pigs, another with sheep, and so on right down the line, instead of as at the present time when each agricultural adviser has to be a specialist in every field, which to my mind is very difficult, if not impossible.</P>
+    <P>Unless we are prepared to supply the extra money to provide this service the agricultural committees are going to find that instead of advancing as we would hope that they should they are just going to be back to square one in many cases, as the Minister has pointed out in his speech.</P>
+    <P>There was talk of reconstructing the committees of agriculture, and regionalising them, but I do not think it would be satisfactory if we were to bring agriculture into regions.  As they are at present constituted we have the General Council of Committees of Agriculture who are doing very good work, and if you put three or four committees together to do the same job they will be inclined to get away from the personal contact that they are so familiar with in their own county, and the farming operations differ very largely from one county to another.  I feel that unless all the Departments that have, as I say, a finger in the agricultural pie can be brought under one roof and the advisers specialise in the various branches of agriculture, I cannot see that bringing them into regions would be a better idea.</P>
+    <P>The committees of agriculture have certainly done a tremendous job.  They give their services free and they are most anxious to see that the message is got across by any and every means. County shows to which the committees very often make substantial financial contributions are one excellent means which they have for the <Col N="1548" /> people to see what is being done. While I realise that this increase is going to have a further serious impact on the already soaring rates, I feel that the people who are getting the service are quite prepared at all times to pay for it.  While it will be levied on a county at large basis rather than the committees of agriculture alone, the people who do not benefit directly from it will, I am quite certain, accept the increase in the knowledge that if we have not got a prosperous agricultural community there is very little hope of having prosperity in the towns and cities.</P>
+    <P>The Bill, as I have said at the outset, is a short one and somewhat restricted. I should like to speak at greater length on agriculture in the wider field, but I saw the Cathaoirleach looking in my direction a moment ago and I, therefore, would tend to bring my remarks to a close, but I look forward to speaking at greater length in the presence of the Minister in another place at a later date.</P>
+    <Speaker pid="JohnFitzgerald" hpid="Mr. J. Fitzgerald Mr. J. Fitzgerald">
+      <NameTxt>Mr. J. Fitzgerald</NameTxt>
+      <P>As Senator Malone has mentioned, this is a very short and restricted Bill.  On behalf of the Labour Party I should like to say that we support the Bill.  It is essential that committees of agriculture should be enabled to be properly financed so as to provide the services which the agricultural community needs.  Perhaps the Minister when he is replying might refer to the fact that it appears that every five years it is necessary to have an Agriculture (Amendment) Bill of this kind.  One wonders why he should be restricted to increasing it by only 6d each time. One would think that nowadays when money has lost its value the Minister would be asking us to increase it from 1/9d to, perhaps, 2/6d or 3/- rather than by 6d to 2/3d.  Perhaps the thinking behind that might be that the agricultural committees might be inclined to run riot, making excessive demands on the local authorities.  It will be noted here from the Minister's introductory speech that he specified, as we all know, that it is not mandatory on county councils to pay it.  Very, very often at a county council estimates meeting we have the question of the <Col N="1549" /> agricultural committee's demand being questioned by councillors, perhaps, very vigorously, if they do not happen to be members of the agricultural committee.  It does appear that the demand is there for more advisory services, and the proof of that is here where the Minister pointed out that he had an increase in the number of advisers of 26 per cent in the five year period, which I presume is the five year period covered since 1965.</P>
+      <P>Coming from one of the counties that, perhaps, has not reached the maximum of 1s 9d, or not nearly reached the maximum, because of the fact that a penny in the £ brings in £2,400, as against the neighbouring county where a penny in the £ would only bring in £1,200, I should like to say that this would mean they would have to impose twopence in the £ to bring in the same amount as a penny in the £ would bring in in my county.  I do not wish to detain the House further.  I support the Bill but I should just like to know what is the thinking behind restricting it to an increase of sixpence since that means that in a very short time the Minister will be looking for another increase to keep pace with the increased demand on the agricultural committees for more advisory services.</P>
+    </Speaker>
+    <Speaker pid="BrendanCrinion" hpid="Mr. Crinion Mr. Crinion">
+      <NameTxt>Mr. Crinion</NameTxt>
+      <P>I, too, should like to support the Bill.  It will be very welcome particularly in counties where they are reaching the limit and expenditure on salaries will increase in the coming year.  The staffs of the committees of agriculture are on incremental scales.  If the committees do not wish to expand their services at least their expenditure has to increase every year.  I should like to point out to my friend, Senator Malone, that this Bill has nothing to do with payment of instructors by committees of agriculture.  Their salaries are regulated by their terms of reference with the Department and their own negotiating body.  In fact, the committees of agriculture only carry out the recommendations of their conciliation and arbitration agreements.</P>
+    </Speaker>
+    <Speaker pid="PatrickMolone" hpid="Mr. Malone Mr. Malone">
+      <NameTxt>Mr. Malone</NameTxt>
+      <P>Which in one case was £2 a year.</P>
+    </Speaker>
+    <Col N="1550" />
+    <Speaker pid="BrendanCrinion" hpid="Mr. Crinion Mr. Crinion">
+      <NameTxt>Mr. Crinion</NameTxt>
+      <P>That was discussed at conciliation and that was the award. I felt they should have got more all right but the Senator is only taking the higher end of the scale.  The people at the bottom of the scale got a much higher rate.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>It was £2.</P>
+    </Speaker>
+    <Speaker pid="BrendanCrinion" hpid="Mr. Crinion Mr. Crinion">
+      <NameTxt>Mr. Crinion</NameTxt>
+      <P>It was £2 in respect of poultry instructors at the maximum of the scale.  Those at the lower end got a much higher increase.  I think the Senator referred to the trend towards moving out into industry.  That has always been the case.  As long as I remember, the rates of remuneration obtaining in industry have always been higher than those obtaining in committees of agriculture.  A graduate always had to think about security. If he went into industry he received higher pay.  He had not the security and he had to work harder.  It is very hard to get horticultural instructors because of their scarcity.  It is not the remuneration which is causing the scarcity.  There are not enough people doing the course.</P>
+      <P>I was told by a graduate that roughly about 200 every year start in agricultural science but only 50 come through the four year period.  If this is so I feel that there should be some arrangement whereby more than 50 can come through.  People fail examinations but where the failure rate is so high something should be done to let more through.  We need those graduates.</P>
+    </Speaker>
+    <P>Staffs of committees of agriculture have been doing tremendous work over the years.  I was glad Senator Malone mentioned Macra na Feirme because we both have very happy memories in days gone by of the work of that organisation and what the committees of agriculture have done throughout the length and breadth of Ireland.  There seems to be a trend towards specialisation in certain directions.  England have set this pattern for a number of years but, as a farmer, I do not think it is a step I should recommend.  Normally, the farmer is conservative.  If he calls an instructor he wants advice.  He wants a guide and philosopher.  Specialisation <Col N="1551" /> would involve five or six different people telling the farmer how he should spend his money.  If a farmer were working to a plan, instead of having an instructor he would have five or six different people discussing what they were going to do with his money and how it was to be spent in the coming year.  He would be overwhelmed. He would be much better if only one man discussed matters with him.</P>
+    <P>We are all politicians but we do not know the answer to everything.  Most of us have an idea where we can get the information we require and it would be the same with the instructor.  If he has to tackle a problem he can use the telephone saying he will think the matter over for a week or so but that in the meantime he will get all the data he can.  I would not like to see specialisation creeping into our advisory services because it would have fairly far-reaching repercussions.  University courses&mdash;they are farm management courses although they have never been so called&mdash;would have to be changed. It is unfortunate that so few of our farmers, particularly the larger ones, take those courses to run their own farms.  Less than 1 per cent of those who graduate every year go back to work on farms.</P>
+    <P>I should like to see greater emphasis in our agricultural schools on encouraging people, particularly farmers' sons, to take this university course. It is fundamentally a farm management course embracing everything the farmer is likely to encounter in running a farm.  I give my wholehearted support to the Bill.</P>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>I too welcome this Bill.  Our advisory services must be kept up to date and expanded where necessary.  I would ask the Minister to look into the entire question of our advisory services with the greatest possible speed.  While it is encouraging to note the numbers of advisers now employed it is disturbing to see the large numbers of advisers employed on a temporary basis.  When a farmer wishes to obtain credit facilities he has to submit a farm plan which is drawn <Col N="1552" /> up either by or in consultation with an adviser and it is therefore very necessary to have permanent advisers in each county to advise the farmers.  I noticed recently that one bank made an additional appointment of an agricultural graduate to its staff and I think this trend will continue in the future.</P>
+      <P>I must join issue with Senator Crinion on the question of the status of the advisory service at present.  As a member of a committee of agriculture it has been my experience when advertising for advisers that the applicants have always had several years experience.  Graduates usually work in industry for a few years, but this year we were fortunate enough to appoint a graduate who qualified only last year. He took up his appointment the day after he was conferred.  As far as we were concerned this was a new practice, but it seems to prove that the attractiveness of the position of temporary advisory officers has dwindled. If we are to attract the best advisers to agriculture we must make the profession of agricultural advisers at least as attractive as the profession of engineers employed by county councils. These people demonstrated in no uncertain way their dissatisfaction with the pay scales awarded to them last year, yet our agricultural advisers' salaries are a long way behind those paid to engineers.  From looking at the diaries of many of the advisers in my own county it appears that more and more farmers are availing of their services. The last arbitration award left many young people very dissatisfied and I would ask the Minister to help out in this difficult situation.</P>
+    </Speaker>
+    <P>I should like the Minister to do something to shorten the time lag between the time when a committee of agriculture asks the local appointments commission to appoint additional permanent officers and the eventual date when the name comes up for approval. In my experience it takes anything from nine months to two years and I think this is altogether far too long. The system of appointment must be changed.  At present on appointment an adviser can take three months to make up his mind whether or not to accept <Col N="1553" /> the appointment and this causes difficulties for many county committees of agriculture.  While I do not disagree with an individual's right to choose between various appointments offered him the good of the advisory service should also be taken into account. I understand the salary on the temporary scale is in the region of £800 or £900, but this is not a realistic figure for people who have spent several years graduating from the university.</P>
+    <P>It would be a good idea if principal officers were to visit county committees of agriculture at least once in their five year reign.  This might help the people in Dublin appreciate the position a little better.  I am not suggesting that the Department of Agriculture is not doing a good job but I feel that the people in Merrion Street do not always appreciate the thoughts of local members in the county.  Such visits would provide a helpful link.</P>
+    <P>I should like to know if the Minister has any strong views about the appointment of agricultural technicians. I recall reading that a particular county proposed making such appointments and I would like to hear from the Minister if in fact these appointments were made.  The general council of committees of agriculture should be utilised to a greater degree as this is an ideal way for representatives and farmers at committee level to exchange views and discuss policy matters.  If agriculture is to thrive in the years ahead we must make a better effort to increase the effectiveness of our advisory services.  The greatest blow our advisory services have suffered in recent years has been the lack of a long-term agricultural policy. In my county we made a very special effort two or three years ago to promote the expansion of the dairying industry in the midlands and while our advisory services certainly put their backs into the work and achieved a very significant increase in the output of milk yet a very few years after we find a drastic change of policy in the Department of Agriculture.  This reflects most severely on the instructors who had done a very good job in <Col N="1554" /> tackling the task initially set for them. The Minister has an obligation to ensure that the services are not treated in this way.  The only way of ensuring that people will not begin to mistrust our advisory services is to have them embark on a long-term policy and for the Department to introduce a long-term policy for agriculture.  I certainly welcome this provision.</P>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>It is obvious that this is a Bill that will be welcomed generally for the reason stated by several Senators, that it will enable improvements to be made in various matters that concern agriculture. Basically, however, this Bill seems to me to be a Bill to allow the farmers to tax themselves more in order to be able to grant more money to themselves. This Bill is to enable a higher rate to be struck for the purpose of subsidising further the agricultural committees. Who will pay these increased rates?  It will, of course, be the farming community.  It is possible that that particular aspect might not be quite so welcome as the other aspect which enables more money to be given to the agricultural committees.</P>
+    </Speaker>
+    <P>The Minister told us that the committees of agriculture are financed each year by means of contributions both from their respective county councils&mdash; and by this Bill we are increasing those grants&mdash;and by contributions from the State which the Minister told us are related to the local contributions.  He implied that as a rule the State pays 50/50, more or less.  The State pays just about as much as the local council.  He did mention that in some counties&mdash; the small farm areas in the west and north-west&mdash;the State pays a markedly bigger proportion.  It pays up to 75 per cent instead of the more normal 50 per cent.  I notice, however, that in his speech he mentions that eight committees have not yet reached the maximum rate contribution that was operative prior to 1965, that is a contribution of 15d or 1/3d in the £. They have not quite reached what was the maximum in 1965 and therefore they had not got anywhere near the 21d which we are now raising to a maximum of 27d.  I am entitled to assume that the eight committees to <Col N="1555" /> which he refers, which have not yet reached what was regarded as a legitimate maximum up to 1965, are the poorer counties and these counties, by reason of being poorer, will get less local grant and consequently less State grant.  I may be wrong about this and I speak partly for clarification on this point.  I should be interested to know, if I am correct in assuming that the committees which have not yet reached this 1/3d rate are in general the poorer counties, whether the Minister is not concerned that the help given to them by the State might not be enough, in other words in cases of the really poorer counties is the 75 per cent grant of the State sufficient?</P>
+    <P>Coming back to what I said in the beginning, are we as city and town dwellers satisfied that we are doing enough as general taxpayers to help agriculture?  In the main this is a country of relatively cheap food compared with some of the other countries in the world and with some of the richer industrial countries like the United States.  We, in the city, get the benefit of relatively cheap food.  If one compares the price of meat or butter here with the price in France one will find that the price in France is markedly higher.  There is admittedly a different method of calculation in regard to butcher's meat in France because when one buys butcher's meat in France one buys meat, not just partly meat and partly bone.  Nevertheless, in general, meat here, dear and all as it may appear to us, is cheaper than in many other European countries. The question I am putting to the Minister is whether he is satisfied that we as general taxpayers, in particular city taxpayers, are paying enough in subsidy to these agricultural committees which are the immediate concern of this Bill?  In other words, is our contribution&mdash;in view of the fact that food is relatively cheap and that this may be at the expense of the agricultural community &mdash; as general taxpayers sufficient in his opinion?</P>
+    <Speaker pid="PeggyFarrell" hpid="Mrs. Farrell Mrs. Farrell">
+      <NameTxt>Mrs. Farrell</NameTxt>
+      <P>I could answer some of Senator Sheehy-Skeffington's questions about rates and who pays them <Col N="1556" /> in the agricultural counties but I have no doubt the Minister will deal with that.  I will speak about one aspect of the advisory services which seems to have been forgotten by the men.  This is the farm home management advisory service which is a comparatively new service and has done great work since it was started.  At this stage the Department of Agriculture should take a hard look at the position of the women in the advisory service.  They must do a very severe course of training, just as hard a course as the men, but they do not get a degree for this. I have already said here that it is incomprehensible to me why a man who is going to deal with animal nutrition and farm management can get a degree in agriculture but a woman who is going out to instruct the women of the country in home economics, in the feeding of our children and our adults, cannot get a degree and because she cannot she is penalised.  Women get a diploma and they are second class citizens in the advisory services.  This was very evident at the course which was held on the university farm in the Lyons estate run by the Kellogg Foundation of America last year where there was a post-graduate course done. There were nine agricultural graduates. There were two farm home management advisers.  The girls did exactly the same course as the men.  They did exactly the same examination.  They had to write their theses exactly the same.  At the end of that time the men became Masters of Agricultural Science but the girls could not even attend the conferring.  They were conferred <i>in absentia</i> with diplomas.  This, in this year of grace, is a disgrace.  We should have a degree, perhaps combining home economics as well as farm home management.  It should be partly in the university and partly in the schools which are now there.  In this I am perhaps being slightly heretical in that I would suggest combining farm economics and farm home management in a common degree, with the successful students having the option of going to teach in the vocational schools or to work for the Department of Agriculture and Fisheries.  Something should be done about this quickly.</P>
+    </Speaker>
+    <P>I wonder, too, if the Minister would <Col N="1557" /> like to tell me if at present a farm home adviser applies for a post as CAO or assistant CAO what that girl's chances are of getting such a post, because I am sure a reason would be advanced that because she had not got a degree it would not be possible for her to be in charge of an office where all the advisers would have a degree. I know there is to be a commission on the status of women but I think the degree of farm economics and farm home management should not have to await this.  There is a degree being done this year in the University of Sussex and it is something the Minister should take a look at and perhaps recommend to the university authorities that such a degree course be initiated here.</P>
+    <Speaker pid="PierceButler" hpid="Mr. Butler Mr. Butler">
+      <NameTxt>Mr. Butler</NameTxt>
+      <P>I know the Minister wishes to get the Bill through quickly and I do not intend to delay the House. I want to make one point, and I do not agree with Senator Malone when he said he does not believe in regionalisation. If there is one part of this country where the county committees of agriculture could form some kind of regionalisation it is in the west of Ireland where you could have three or four county committees together forming a subcommittee to look into the real position of the west.</P>
+      <P>It is my opinion that they should examine the position of group farm schemes in the west and they should appoint agricultural workers on such group farms subsidised by the county committees which form the subcommittee. In such group farms a manager could be appointed and such farms could consist of 500, 600 or 700 acres. The manager could have a staff subsidised by the county committees and by the farmers themselves.  It is about time something like this was done, particularly for the west.  We have a pilot scheme in County Meath on a farm of 200 acres.  I believe this is too small.  It is time now that the farmers should be able to enjoy a five-day week and this would be possible through group farms of the size I have already mentioned to which would be appointed a manager and an agricultural adviser.  I hope the Minister will look into the suggestion.</P>
+    </Speaker>
+    <Col N="1558" />
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Might I first say thanks to the Members of the House who generally welcomed the Bill?  In so far as their various comments are concerned, I will be as brief as possible but I shall deal with all of them to the best of my ability, presuming on the latitude the Chair will allow me.</P>
+      <P>First there is the suggestion about the low salaries being paid to staffs and the comment that we should do something about them because, it was suggested, departure of personnel from local services is entirely related to salaries and conditions.  This is almost entirely if not entirely a fallacy.  The recent award was not what they had hoped to get, but the movement out of the service had been taking place already for the reason I indicated&mdash; lack of promotional outlets.  There are 600 instructors and only 27 of them can attain top posts as CAOs and 25 as assistant CAOs.  This gives 52 out of 600, and if that number of instructors is expanded to 1,000, the outlets at the top will not get greater because they will remain at a county basis.  Deputy Malone talked about a Fine Gael policy of bringing these things, as he said, under one roof. I have expounded a policy and I do not know whether it is Fine Gael or not.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Possibly.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Possibly, if it is wrong, no, if it were correct.  I spoke to the county committees of agriculture in November and told them I would like to see, and I am more convinced of it today than I was then, that in each county or, perhaps, where suitable regional committees might be formed, in each region, there would be a full supervisory service and not just that but the whole range of agricultural aids and assistance that would come not only from the county committees of agriculture but also from the other interested agencies, particularly from the Department, so that we would have in these counties or regions many departments, each with county or regional headquarters.  The aim would be to have all the services under the one roof.  In that way the central Government would be able to delegate <Col N="1559" /> administrative operations from Dublin. This would eliminate the passing to and fro, throughout the length and breadth of Ireland, of files and other documents.</P>
+      <P>This, of course, would envisage the attaching also of the advisory services to this mini-Department, but it would unfortunately impinge to some degree on the autonomy that the advisory services believe they enjoy&mdash;although personally I do not think they do enjoy such autonomy.  Apart from what would go to the farmer, the staff would have the benefit that they could aim at the very highest post in the State service, even aspire to the position of a Departmental Secretary.  Perhaps, also, there would be outlets at county level for those who came in by the Civil Service method of recruitment as well as for those who came in through the Local Appointments Commission. This is broadly what I have advocated for years and the more I see of the operation, from an administrative and efficiency point of view as well as from the point of view of local advisory staff the more I am satisfied that something on those lines can be worked out and that the committees of agriculture, whether on a regional or county basis, must be retained; that they must continue to have a very important place in the new order of things if we are to have such an order because I do not wish to see centralisation and power, even if delegated from the top, being put into the hands of servants of the State or local authorities as the case may be without the invaluable knowledge and experience of the members who make up the committees of agriculture continuing to be available.</P>
+      <P>I know there are people who will point to members who they say should not be on committees of agriculture. These people quietly and conveniently ignore the fact that if there is one person who should not be on a county committee, there are likely to be 16 or 18 persons on that committee who have a great deal to contribute and who have continued to contribute a great deal during the years.</P>
+    </Speaker>
+    <P>If such changes were being made I <Col N="1560" /> would wish to retain the advantage of the local committees.  This answers to a degree, the complaint of Senator Malone to the effect that staff are being attracted away from the advisory services. It is not money alone that is responsible for this.  While money is important it may well be that this situation has been created by a sense of frustration on the part of staff. If they come in as instructors they reach the end of the line after just two steps upwards and only few reach that stage.</P>
+    <P>Senator Fitzgerald spoke about competing. I did not take a sufficient note to enable me to remember what he said but I may remember later.  Senator Crinion gave his views about the recent wage round.  It is not for me to say what I think about it.  I have had recent discussions with the staffs on this matter among many other related matters and it is likely that further talks and negotiations will arise from those discussions.  I hope that some of the dissatisfaction prevailing in the service will be allayed or removed.</P>
+    <P>Mention was made of a delay by the Local Appointments Commission with regard to a request from a local committee for the filling of a permanent post.  Many Members of the House will appreciate that this is a matter about which I can do nothing.  I cannot even explain why there should be a delay in any particular case but these delays are frequent and prolonged.  However, we should not take it that the delays are avoidable.  I do not know whether or not they are avoidable.  The Local Appointments Commission are doing a service for us in filling these vacancies and I assume that they fill them as quickly as they can consider the various requests they receive.  If there are delays perhaps there are very good reasons for them.  One aspect about which we certainly cannot do very much and which applies not only to the Local Appointments Commission but to the Civil Service Commission is that very often the availability of suitable applicants with the minimum qualifications is not evident.  This may account for some of the delay in appointments.</P>
+    <P>A request has been made for closer contact between the Department's officers and county committees.  Of <Col N="1561" /> course, it would not be possible to have too close a contact between the Department of Agriculture, their operators, administrators, professional and technical people and the county committee staffs but, on the other hand, I would say that we have fairly close contact between the Department and the people employed by the committees in the various counties.  On the administrative side we have the advantage of the General Council of the Committees of Agriculture.  This council has become quite active in the few years of its existence.  They are likely to become more actively associated with my Department in discussing problems that arise at various levels throughout the country.  We are at a developing stage in that regard at the moment but there is hope for continued and increasing communication, particularly through the committees of the general council and the sub-committees, with the Department and discussion on a wider scale of the various problems arising in agriculture as a whole.</P>
+    <P>Senator Sheehy-Skeffington suggested that the number of counties that had not reached various levels of expenditure, expressed in pence in the £, might be the poorer counties and he posed the question, if this were so was it an indication that we are not providing enough moneys from the Central Fund &mdash;in other words, that we are not making it attractive enough.  I think the converse is true, not necessarily all the way but certainly in so far as it is not the poorer counties but the better off counties that are concerned.  This does not imply what it seems to imply.  It implies that these advisory services are not being provided but, generally speaking, many of the better off counties are very highly valued to begin with.  They contain a larger proportion of the larger holdings than the poorer counties.  Therefore, the number of farms to be served is less, proportionately speaking.  In addition to that there is the situation of less to be served, where there is greater valuation and therefore a lesser number of pence in the £ producing more money to employ more instructors.</P>
+    <P>This is really the situation rather than an indication that the poorer <Col N="1562" /> counties are not spending.  The poorer counties are spending the money and it is to these poorer counties that we have given the higher contribution. The contribution is 75 per cent in their case rather than 50 per cent for the rest of the country so that they in fact are extending more quickly than the better off counties in the east.  Subject to the odd exception, of course, this is the overall average of the situation as things stand.</P>
+    <P>I knew that Senator Farrell would raise the home management situation before ever she did, but I do not think that this idea is correct that because they do not get degrees that immediately relegates them to a kind of second-class citizenship.  If this is regarded as being so, to my mind it is more a state of mind than of actual fact.  I do think that those people are very highly thought of and are regarded as an excellent staff doing an excellent job, and if that is the case, I fail to see where second-class citizenship comes in here.</P>
+    <Speaker pid="PeggyFarrell" hpid="Mrs. Farrell Mrs. Farrell">
+      <NameTxt>Mrs. Farrell</NameTxt>
+      <P>They have not got a degree.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>What I am trying to do is to look at this realistically.  It is only the minority who have degrees here, and as one who has not got a degree, I am saying that the degree does not necessarily make them do the job better.</P>
+    </Speaker>
+    <Speaker pid="PeggyFarrell" hpid="Mrs. Farrell Mrs. Farrell">
+      <NameTxt>Mrs. Farrell</NameTxt>
+      <P>The advisory services have degrees.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The mere holding of a degree in itself does not necessarily make them better or anything else. They are as good as they are regardless of whether they have a degree or a diploma, but at the same time if it would make them happier to have degrees rather than diplomas, if there is something that I can do about it I would be glad to do it, but we are dealing with the universities, and they do not brook much argument from people like myself telling them what they should do and to whom they should give degrees at any particular time.  Nevertheless perhaps this developing service will come to be recognised <Col N="1563" /> and the universities in their degree courses will come to see this. Whether they have degrees or diplomas I could not care less as long as they are doing the job as well as they are.</P>
+      <P>But if they can get degrees or letters added to their names by all means let them do so, though I do not think that it would improve their status one little bit.  It would not detract from them either.  The question is not one that I can deal with.  I do not think it matters whether they have degrees or diplomas, and I do not think it would increase their chances of promotion.  Certainly I would not think their chances would be very bright of being promoted to the higher level to fill a few of the 52 posts, not because of lack of a degree but because of their sex.  It is as plain and simple as that.  We will have to recognise that if they had a degree they would not be any more acceptable to the men and the staff to be supervised. I am not anti anything but I have to take this realistic attitude in the matter.  If there is a poor chance of their becoming assistant CAOs, or CAOs particularly, it is because they are women, not because they lack a degree or letters after their name.  Maybe we can do something about that, but it is neither we nor the universities who have to do this job&mdash;it is the people who have to say whether men only should be in this particular field, and it is for the public mind to accept these people for what they are rather than on the basis of whether they are women or men.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Professor Sheehy Skeffington Professor Sheehy Skeffington">
+      <NameTxt>Professor Sheehy Skeffington</NameTxt>
+      <P>When will we have the first woman Cabinet Minister since Countess Markievicz?</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I do not know, but as long as woman is not competing for my place in the Cabinet I am all for it being considered.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Professor Sheehy Skeffington Professor Sheehy Skeffington">
+      <NameTxt>Professor Sheehy Skeffington</NameTxt>
+      <P>An altruistic attitude.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>It is an honest one.  I would love to see some of them in the Cabinet but not in my place.</P>
+    </Speaker>
+    <P>Group farming was mentioned, or at least I wrote that down but I do <Col N="1564" /> not think it is what the Senator actually suggested.  He suggested that in areas where farms are not really viable entities they should be grouped together and that the local adviser should become a sort of farm manager to the group and that the whole outfit would be established by the local committee of agriculture or by the farmers themselves, and that they would be able to go out and earn money working at something else than the farm.  This is a grand idea if it would work, but I question it very much.  The farmers are, I think the Senators will agree, a very individualistic lot&mdash;more power to them for being so.  I do not think we would have farmers as we know them unless they were individualistic, and I do not think that they are inclined to be cut up or stamped and put into compartments by anybody.  The idea that we can make more out of the small non-viable farms by putting them all together and getting everybody to do his share and getting somebody to run the whole thing while the farmers go off daily to earn money at something else is a very nice thought for the future, but it will take a whole long time in my estimation.  If we are to have the farmer working 20 miles away while somebody else is running his little farm as well as ten other little farms it will take a bit of working out.  I do not wish to run down the idea.  It seems to be a pretty thought and perhaps a very good one, but I do not see it as a fairly immediate possibility as far as our farmers are concerned.</P>
+    <P>It may be said that it is working in other countries, but I was only talking about this country, and our farmers, I think, have an individuality about them, as we have as a nation and as we have in the various categories and classes of our people throughout the country.  There is more individualism to be found among the farmers and perhaps even, it may be said, among the small farmers.  The smaller the farmer the more individualistic he becomes.  Maybe this is because being so small he has to be more individualistic to survive as long as he does.  That may be part of the explanation.  Certainly it is, nine times out of ten.  If we are to take forty or <Col N="1565" /> fifty or 100 small holdings and group them all together with somebody managing the lot of them while the farmers go off to their day's work somewhere else it will take a lot to organise that, and I think that I will be back here looking for another 6d before there is any sign of any great progress being made in that direction. If we wish to look into this and feel that it can be done and that it can work it might be a very good thing.</P>
+    <P>I still have not got Senator Fitzgerald's contribution here.  I still have not interpreted my own markings here as to what I wanted to say in regard to it, so I am afraid that I will have to leave him.  It may come up at a later stage.  Suffice it to say that I would like to get, if the Seanad will oblige me, this little Bill into law as fast as possible.  Members of the House who are members of these committees of agriculture and of county councils will be aware that their estimates are either prepared or in course of final preparation and that they will be very shortly striking their rate.  This has a bearing on it, particularly in counties which are already right up to the limit and want to go beyond it.  So, if the House can do so it would help very much if this could be passed, perhaps this evening, by the House.</P>
+    <P>Question put and agreed to.</P>
+    <P>Agreed to take remaining Stages today.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Agriculture (Amendment) Bill, 1970:" RHead="Committee and Final Stages">
+    <Title>Agriculture (Amendment) Bill, 1970: Committee and Final Stages.</Title>
+    <P>Question proposed: &ldquo;That section 1 stand part of the Bill&rdquo;.</P>
+    <Speaker pid="NevilleKeery" hpid="Mr. Keery Mr. Keery">
+      <NameTxt>Mr. Keery</NameTxt>
+      <P>I should like to ask a question arising from section 1.  I note that subsection (2) refers to the council of a county.  The area in which I live, Dún Laoghaire, has a county borough council and as I understand it up to two years ago the county borough council were able to benefit from Dublin County Council.  They were able to benefit from the work of the Dublin County Committee of Agriculture. I may say in passing that I was amazed by the progressive approach <Col N="1566" /> of Senators McDonald and Malone, because Fine Gael in practice when in power in Dún Laoghaire Borough Corporation took the borough out of this arrangement with the Dublin County Committee of Agriculture and as a result in Dún Laoghaire Borough at the moment the local owners of market gardens and, indeed, private residences with substantial gardens can no longer avail of the services of the horticultural inspector which they had up to two years ago.  I wonder if it is due to legislation or is it as I think has been the case a mean, narrowminded decision by the corporation to opt out of the services of Dublin County Council?  Many people in the area are saddened that they no longer have the valuable services of a horticultural inspector.  I should like to know if the Minister could explain what the situation is here.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>I thought the Senator was against Senator Malone and myself.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The situation is quite clear in that never was such a service provided directly as between the county committee of agriculture and the Borough of Dún Laoghaire.  It was merely an arrangement made by the vocational committee in the Dublin borough area with a county committee of agriculture for the use of a horticultural instructor or other staff.  That fell through a couple of years ago.  I am not sure whether it was for financial reasons or otherwise.  It was really done by the vocational committee utilising the personnel of the committee of agriculture. It was an arrangement between the two bodies.  This was how it came about.  It has fallen through by mutual consent.</P>
+    </Speaker>
+    <Speaker pid="NevilleKeery" hpid="Mr. Keery Mr. Keery">
+      <NameTxt>Mr. Keery</NameTxt>
+      <P>It was a tragic loss to the borough.</P>
+    </Speaker>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>It was agreed it was not Senator Malone or myself who did it.</P>
+    </Speaker>
+    <Speaker pid="NevilleKeery" hpid="Mr. Keery Mr. Keery">
+      <NameTxt>Mr. Keery</NameTxt>
+      <P>I am sorry Senator Belton is not here as he might have something to say on it.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+    <P>
+      <Col N="1567" /> Section 2 agreed to.</P>
+    <P>Title agreed to.</P>
+    <P>Bill reported without amendment, received for final consideration and passed.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I move:</P>
+      <P>That in relation to motions other than Government motions the following provisions shall apply until the adjournment of the House for the Summer Recess:&mdash;</P>
+      <P>1.  Where it has been agreed that such motions are to be taken, then, in each week in which the Seanad sits on Wednesday such motions shall be taken on the Thursday from 10 a.m. to 2 p.m. at which time proceedings on the motion then under consideration shall be interrupted.</P>
+      <P>2.  The time allowed for the debate on a motion shall not exceed a period of four hours in the aggregate and at the expiration of this period, if the proceedings on the motion have not previously concluded, the Cathaoirleach shall put forthwith the question or questions necessary to bring them to a conclusion.</P>
+      <P>3.  The speech of a Senator proposing a motion shall not exceed thirty minutes, and the Senator proposing, or such other Senator who has not already spoken as he may authorise in that behalf, shall be entitled to not less than fifteen minutes for a speech in reply; the speech of any other Senator in the course of the debate shall not exceed twenty minutes.</P>
+      <P>This speaks for itself and I do not think there is any necessity for me to go into it at this stage.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Would the Senator say if this motion is in the same terms as the recommendation of the Committee on Procedure and Privileges?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>That is the way I interpret it.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I just want to know <Col N="1568" /> if there is any alteration between the terms here and the actual recommendation which was made?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>In effect, I do not see any alteration.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I am not suggesting there is.  I am simply asking for information.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I do not see that there is.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Professor Kelly Professor Kelly">
+      <NameTxt>Professor Kelly</NameTxt>
+      <P>I do not know if this is the appropriate time to ask this but would Senator Ó Maoláin indicate whether in the Government's view a distinction is entitled to be drawn between motions which have a statutory effect to annul regulations, for example, and other motions?  It seems to me that there is a special duty on the Government to make time available one way or the other for motions of the first category.  I do not want to press the Leader of the House at the moment if he has some other arrangement in mind but I think we should make it clear that in laying down our own regulations in regard to the taking of motions a distinction like this must be made and must be maintained.  It seems to me to be an absolute requirement of the law which gives power to either House to annul rules and regulations or orders that the Government should permit this distinction to be attempted to be made; otherwise the law is being frustrated.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I do not see any difficulty of the kind arising under the arrangement we have made.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Professor Kelly Professor Kelly">
+      <NameTxt>Professor Kelly</NameTxt>
+      <P>I accept entirely that that is Senator Ó Maoláin's idea.  I simply wanted to draw the attention of the House to the possibility that motions of this kind in which delay can be fatal are in quite a different category and a situation might arise which would require a special regulation over and above what we are now doing in order to get it on.  I am thinking of a motion in the name of Senator Alexis FitzGerald and myself which has been on the Order Paper since November and for which only six days are now left.</P>
+    </Speaker>
+    <Col N="1569" />
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I appreciate the Senator's point in that regard.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>Will the House, in view of the lack of notice which affects discussion on this particular matter at the moment, accept amendments without notice?  I have given two sets of amendments to the Clerk and I should like to have them discussed if at all possible.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I put down this motion at the request of the Cathaoirleach and in response to a suggestion by Senator Sheehy Skeffington and with a view to having the procedure brought into effect.  If there is to be any question of amendments and chopping and changing, I do not know what to say.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>Might I explain to the House and to Senator Ó Maoláin why the amendments are necessary at this stage?  They are necessary because I believe there are two substantial differences between the letter we originally got from the Cathaoirleach and the motion as presented to us today.  I think this should be brought to the attention of the House.  I would prefer to go into more detail if given the opportunity to do so.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Part of my objection originally to taking this merely as a circular letter from the chairman was that the opportunity of amending what were called decisions of the Committee on Procedure and Privileges was not ours.  We had not the right to amend those.  Part of what I sought was a motion which we could not only discuss but, if necessary, amend.  As Senator Horgan has pointed out, there would appear to be at least one, if not two, differences between the text now before us and the text originally circulated.  The first would seem to me to be quite important.  I refer to the first paragraph commencing with the words: &ldquo;Where it has been agreed that such motions are to be taken, then,...&rdquo;  The implication is that unless there is agreement between Government and non-Government Senators the motions will be postponed just as long as the Government want.  This will not be a change <Col N="1570" /> from the present situation.  Therefore, it seems to me that this initial paragraph rather spoils the whole intention. I would support the amendments which Senator Horgan is asking to put to the House.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>There would have to be agreement regarding the taking of any motion.  Surely Senators do not expect the House to sit at 10.30 in the morning and take any motion on the Order Paper without prior indication being given to the Minister concerned.  There would have to be agreement before any motion could be taken.  There is nothing unusual in that.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I accept that where there is good faith but, having suffered before now with motions being on the Order Paper for 18 months and having seen other Senators' motions being deferred indefinitely on what I would call spurious grounds that this Minister or that Minister was not available, I have become rather weary.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>Could we have the Chair's ruling on the question of the amendments?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>If it is proposed to introduce amendments to this motion I suggest it would be preferable to adjourn consideration of the motion until the next sitting day in order to give the House an opportunity to consider the amendments.  I think it would be unsatisfactory to discuss them now because the House has not seen them yet.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I put down the motion because the House agreed on the last occasion that we should have some law and order in regard to motions.  This motion is a reasonable interpretation of the decision arrived at by the Committee on Procedure and Privileges and it carried out, in effect, the wishes of that committee.  If amendments are going to be put down, that is not in accord with what I undertook to do and I am not interested in it.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It seems to me that <Col N="1571" /> the Chair's suggestion is a reasonable one.  I sympathise with Senator Ó Maoláin's position because, as he has said, he brought in the motion at the request of the Cathaoirleach when the matter was raised here before.  On the other hand, the framing of the motion was a matter for the Leader of the House without further consideration by the Committee on Procedure and Privileges.  In the original recommendation a suggestion was made that Ministers attending on motions should also be subject to a time limit but that suggestion does not appear in the motion before us. It seems to me that the correct thing to do in the circumstances, particularly if Senators wish to propose amendments, would be to leave consideration over until Senators have had an opportunity of seeing and digesting the proposed amendments.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Four hours is allotted for discussion of a motion: half an hour for the proposer, a half an hour each for others wishing to speak and half an hour for the Minister. That need cause no trouble.  I cannot see that any further amendments would make any difference to the point we had in mind when we discussed this matter at the Committee on Procedure and Privileges.  If there are going to be amendments I certainly shall not have any further interest in the motion.  I was asked to deal with a motion and I put it down. If Senators want to take a different view of it they can put down an amendment but I am not going to waste any more time on it.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I support the suggestion that we defer this for a week.  The Leader of the House has said that he is implementing what was decided by the Committee on Procedure and Privileges but that decision was taken months ago and I should like to know why he delayed so long? The motion could have been put down six weeks ago.  The House has not met for six weeks and we would have had plenty of time to make amendments but, in fact, we got notice of this for the first time only this morning.  The <Col N="1572" /> reason for the delay is based on Senator Ó Maoláin's delay.  He has said that he assumes the Minister would not speak for longer than the Senator opening the debate on the motion.  If that is what Senator Ó Maoláin means why cannot he put it into the motion? Under the terms of the motion, as it is at present, it would be possible for a Minister to talk at great length and as a consequence shut out most of the Senators from speaking on the motion. In later years it will be no good our saying that we remembered that the Leader of the House way back in 1970 was prepared to assume that no Minister would do any such thing.  We have a right to study this motion carefully and put down any amendments we think necessary.  I would have appreciated it if the motion had been circulated earlier but as the Leader of the House was dilatory I do not think he can blame us for wanting to put down amendments.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>On the last occasion we dealt with this matter the only objector was Senator Sheehy Skeffington, but now I find there are others.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I think there is one substantial change in this motion as regards ministerial interventions.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>No, there is not.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>We would be prepared to delay discussion on this motion until the next sitting day provided we were guaranteed that discussion would take place then.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>It is a matter for the House to decide whether to take the motion as it stands, accept amendments now or defer consideration.  I do not think we can discuss it for very much longer.  I should like a positive decision.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I have not seen the amendments but it does seem reasonable that if a motion is proposed by even one Senator he should have an opportunity to put it down.  I am not familiar with Standing Orders on this.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>The amendments are relatively simple but it is a <Col N="1573" /> matter for the House to decide whether to consider them at short notice.  The amendments merely suggest the deletion of all words from &ldquo;where to then&rdquo; in paragraph 1 and the addition in paragraph 3 of the words, &ldquo;and the speech of any Minister intervening in the debate shall not exceed 30 minutes&rdquo;.  These amendments are proposed by Senators Horgan and Sheehy Skeffington.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I am agreeable to considering amendments to the motion now.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>If there are going to be amendments I am not interested in a motion any further.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>The Leader of the House is getting very petulant because we are insisting on correct procedure.  He wanted to foist this motion on us as the decision of the committee which have no right to impose any decision on this House.  It does not matter to me if the Leader of the House has lost interest.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The motion is not put down as a result of any decision taken by the committee.  It is put down as my interpretation of the recommendations of the Committee on Procedure and Privileges at the request of Senator Sheehy Skeffington.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>For correct procedure.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I do not know whether it would help Senator Ó Maoláin to know that, as far as I am concerned, I would disagree with the first amendment and I would agree with the second amendment proposed.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I should like to say that we would accept the proposal in the form in which it came from the Committee on Procedure and Privileges.  In fact, there has been a change and, if Senator Ó Maoláin does not mind my saying so, he might have explained to the House why this change took place. Any amendments that have been made at this juncture are amendments made by Senator Ó Maoláin to the original <Col N="1574" /> proposal from the Committee on Procedure and Privileges.  That is the only objection we have to it.  I am speaking for the Fine Gael Party.  If it came to us in the original form, I think we would have accepted it without question.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>The motion is before the House and amendments have been proposed.  In view of the fact that the House has not had the text of this motion before it for very long I will have to rule that the amendments should be permitted at short notice if the House wishes to discuss the motion today.  Apparently the House does wish to discuss it today so the amendments are before the House.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>I move amendment No. 1:</P>
+      <P>In paragraph 1 to delete all words from &ldquo;where&rdquo; to &ldquo;then&rdquo;.</P>
+      <P>The amended motion would then read:</P>
+      <P>In each week in which the Seanad sits on Wednesday such motions...</P>
+      <P>That is referring back to motions other than Government motions in the preamble of the Resolution</P>
+      <P>...shall be taken on Thursday from 10 a.m. to 2 p.m. at which time proceedings on the motion then under consideration shall be interrupted.</P>
+      <P>This is the nearest I can get and I believe the nearest anybody can get to the relevant paragraph in the recommendation of the Committee on Procedure and Privileges which was sent to each Senator by the Cathaoirleach on the 6th February, 1970.  This paragraph reads, without qualification:</P>
+      <P>In each week in which the Seanad sits on Wednesday motions should be taken on Thursday from 10 a.m. to 2 p.m.</P>
+    </Speaker>
+    <P>We now have a situation in which a qualification has been introduced with the words: &ldquo;where it has been agreed that such motions are to be taken then.&rdquo;  This may give rise to some difficulty. It may be argued from the other side of the House, as Senator Ó Maoláin has already argued, that <Col N="1575" /> agreement is, of course, necessary for everything and to this extent one would agree with him; but clearly, if words mean something, they are put in to have a particular meaning, a particular force, a particular effect.  Therefore, one must examine the words that are put in in order to see what effect they are intended to have.  If they are not intended to have any effect there is no point in having them there at all and the Members on the other side of the House would have no difficulty in agreeing to their deletion, but since there is opposition from the other side to the deletion of these words I can only conclude that they do mean something.</P>
+    <P>My reading of what they mean is they are designed to introduce into the thought of the Committee on Procedure and Privileges a proviso which gives the Government an effective veto over the discussion of Private Members' Business in this House, a veto which it has had and has exercised fairly ruthlessly since this House was set up in its present form.  I see very little difference&mdash;in fact I can see no difference at all&mdash;between the state of affairs set out in this motion, as Senator Ó Maoláin has presented it to us, and the state of affairs which existed before the Committee on Procedure and Privileges ever sat to examine the matter.  I further think that this qualification which has been introduced here in paragraph 1 is in a very real sense almost a reflection on the Chair, which framed and sent out this message to each Senator in a very positive way. To import at this stage a qualification of such a serious nature to what we have before us, signed by the Cathaoirleach of the Seanad, is in fact almost a reflection on that Chair.</P>
+    <P>I believe, and many Members of the House on both sides would agree with me, that this House should be its own master at least in matters of procedure if nothing else.</P>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>Hear, hear.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>This is purely a procedural matter but nevertheless a matter of some considerable importance. When I detect in this change an <Col N="1576" /> attempt to give the mastery of the House's own procedural affairs to one party alone, in spite of a contrary recommendation from an all-party Committee on Procedure and Privileges, I feel we must object very strongly.  This, I feel, is the most substantial amendment that needs to be made.  I would be very interested to hear from Senator Russell what he disagrees with in it or what alternative wording he has to suggest because, if he has alternative wording to suggest, I believe it would be with precisely the same effect in mind.</P>
+      <P>This does not mean to say that I do not feel equally strongly about my second amendment.  It reads:</P>
+      <P>To add to paragraph 3 the words &ldquo;and the speech of any Minister intervening in a debate shall not exceed 30 minutes&rdquo;.</P>
+      <P>When we look back over the history of this particularly thorny procedural question we realise how important this is.  I would not suggest that one of the reasons why the Government all too infrequently accepted Private Members' motions in this House was simply because they had not any regard or esteem for this House.  I would not accuse the Government of that.  It is clear that one of the biggest objections from busy Government Ministers to the taking of Private Members' motions in the Seanad was that Ministers could never be certain when they were to be called upon to reply to a debate.  One can sympathise with Ministers who have many other things to do&mdash;not necessarily more important but very often at least equally important&mdash;being kept hanging around Leinster House as various long-winded gentlemen of all parties&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Or none.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>&mdash;&mdash;made it clear that they wanted nothing more than to hear the sound of their own voices and were not really concerned with facilitating the Minister, which I think one should always do, at least to a certain extent.</P>
+      <P>It is clear that the original recommendation of the Committee on Procedure and Privileges, which I again quote from&mdash;&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="1577" /> The speech of the proposer and of the Minister intervening should not exceed 30 minutes...</P>
+    <P>&mdash;&mdash;is particularly relevant here.</P>
+    <P>In speaking on the first amendment I pointed to the fact that if words had been added it must be because they meant something.  In speaking to my second amendment I would say that if words are left out it is because they mean something just as if words are put in it is also because they mean something.  There is little reason to think that Ministers will always behave in the way in which the Leader of the House assured us they will behave.  I think Ministers, within the terms of the original letter from the Cathaoirleach and the terms of this motion as amended, have been given what many of them would consider a very valuable opportunity to make statements to this House on matters of public importance, all the more so at a time in which Ministers are all too frequently attacked for choosing places other than the Houses of the Oireachtas for making public policy statements.</P>
+    <P>I stress that both amendments are simply to reintroduce the full force of the all-party agreed recommendation of the Committee on Procedure and Privileges and that both these amendments ensure a fixed time limit for every motion.  I find it difficult to foresee any debate on Private Members' Business collapsing in less than the four hours anticipated in the motion, so the amendments also ensure that the Minister concerned, if he is in the House from 1 p.m. on the day in question, will be out of it by 2 p.m.  I do not think any Minister could ask for more or that this House should ask for anything less.</P>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I formally second both amendments which, I take it, will be voted on separately.  I make the point initially that these motions obviously will have to be taken one at a time.  There is at each of our meetings an agenda agreed at the beginning and the fact that motions are on the agenda does not necessarily mean we will take them or that we will depart from the agreed agenda.  We know <Col N="1578" /> that on a Thursday morning some motions will be dealt with in so far as it is humanly possible to do so and we are not any longer content to allow motions to be deferred almost indefinitely. The point has been made fully by Senator Horgan.</P>
+      <P>I wish to remind the House that when Senator Ó Maoláin introduced the motion earlier he was asked by Senator O'Higgins if there was any change in the phrasing from the original motion agreed by the Committee on Procedure and Privileges, and very hesitantly the Leader of the House said that as far as he could interpret it there was no change.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Not in the phrasing.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I am prepared to accept that this misleading of the House by the Leader of the House &mdash;I hesitate to call him the mis-Leader of the House&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I understood Senator O'Higgins to ask was there any change in the phrasing and Senator Sheehy Skeffington now insists on pursuing the line that I was misleading the House.  I ask him to withdraw that.  I was not misleading the House.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>As I was about to say when so vigorously interrupted, I am prepared to accept that this misleading of the House was not deliberate.  However, it was misleading. This is not merely a question of phrasing, no matter how much Senator Ó Maoláin would like to make it such. There has been one addition to the original motion&mdash;a substantial addition&mdash;and one subtraction and this is therefore not a question of phrasing but of actual import.  It is a question of whether a motion should be agreed before we take it or whether there should be a time limit on the Minister&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I must interrupt again.  I said that this was my interpretation of the views of the Committee and of the meaning of the letter of the Cathaoirleach.  I did not say it was the same phraseology.  I said it <Col N="1579" /> was my interpretation, and so it is. I maintain that the motion means the same thing as the Cathaoirleach's letter and if the Senator is not able to appreciate this I cannot help him further.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>The record will show.  In my belief this was unintentional, though the Senator is sowing doubts by the very delicate nature of his conscience in this matter.  However, we have two clear amendments before us.  When I originally objected to the method whereby we were asked to accept this innovation, what I was objecting to was the procedure adopted. It was not correct procedure for the House simply to say that we got a circular letter from the Cathaoirleach to the effect that this was the decision of the Committee on Procedure and Privileges and that therefore, since we have received this letter, this becomes fresh procedure of the Seanad.  I made the point that it is not the Committee or the Cathaoirleach but this House, and that therefore such decisions should come before the House for approval and if necessary amendment. It was on that procedural point that the House supported me on the other occasion and it was not some fractious point on my part.  I was standing up for the rights of the House.  With these things in mind, I second both amendments.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I think Senator Sheehy Skeffington is undoubtedly right in his view that the Committee cannot take a decision which will be binding on this House as regards its procedure. I think it is accepted that despite the particular wording of the Cathaoirleach's letter the intention is that the views of the Committee should have been recommendatory to the House and that it was then a matter for the House to approve of them or not.  I agree also with what I take to be the view of Senators Horgan and Sheehy Skeffington that it should not lie entirely with the Government, with the Leader of the House or with the largest party in the House to decide when motions will or will not be discussed.</P>
+    </Speaker>
+    <P>Although I cannot agree fully with <Col N="1580" /> the terms of the first amendment proposed here, I sympathise with its objectives because it seems to me that a Senator who goes to the trouble of putting down a motion is entitled to some kind of assurance from the House that that motion will see the light of day within the reasonably foreseeable future, that we will not have a situation where motions can indefinitely be kept out of discussions here.</P>
+    <P>On the other hand, if the amendments as proposed by Senator Horgan and Sheehy Skeffington were accepted I think it would create considerable difficulties here.  It would make it obligatory on the House, no matter what emergency situation might exist to spend from 10 a.m. to 2 p.m. each Thursday considering motions and if there were no motions down for consideration I do not think the House would be free to consider anything else In such circumstances we might have the ridiculous situation in which we meet on a Wednesday and in which we might meet again on a Thursday but, because there were no motions down we could not do anything on a Thursday from 10 a.m. until 2 p.m.  This would provide that in each week in which the Seanad sits on Wednesdays, such motions could only be taken on Thursdays from 10 a.m. to 2 p.m.  I may be wrong in that view but that is the view that I take of the amendment as it stands.  I fully appreciate why the motion was put down because in the original recommendation from the Committee, the Cathaoirleach's letter read in the first paragraph:</P>
+    <P>In each week in which the Seanad sits on Wednesday, motions should be taken on Thursday from 10 a.m. to 2 p.m.</P>
+    <P>The use of the word &ldquo;should&rdquo; shows the recommendatory nature of this letter.  What was being proposed was that that should be the ordinary procedure and as far as I am concerned it should be the ordinary procedure. The only difficulty I see with regard to the first amendment is to decide whether it goes too far.  I am inclined to think that if the amendment were accepted and we were to start off bluntly with the mandatory obligation to take motions at this hour each week, <Col N="1581" /> we are going too far.  I would suggest, by way of comparison, to Senators Horgan and Sheehy Skeffington, that it would attain the same object as they have in mind if this motion were to start &ldquo;Where so requested by or on behalf of the Senator who has tabled the motion.&rdquo;  In other words, that the right of a Senator who puts down a motion should be preserved, that if he wishes it to be taken it will be taken but difficulty would not arise if there is no motion or if the Senator does not wish the motion to be taken on a particular Thursday.  As far as the first motion is concerned that would probably meet the point of view of both Senators Horgan and Sheehy Skeffington and it would certainly meet the point of view that I am expressing here in so far as the Senator who has tabled the motion should have a say in the motion.</P>
+    <P>In so far as the second amendment is concerned, I support it fully.  It was agreed by the Committee on Procedure and Privileges that the Minister should be restricted to 30 minutes as well as the Senator proposing the motion.  I do not understand why that was deleted from the motion when it was being put down.  It should be reinstated. I am sure that Senator Ó Maoláin will agree that the reinstatement of this restriction will meet the recommendation made by the Committee on Procedure and Privileges.</P>
+    <Speaker pid="CharlesBMcDonald" hpid="Mr. McDonald Mr. McDonald">
+      <NameTxt>Mr. McDonald</NameTxt>
+      <P>I regret that this crux has arisen.  During the past few months, when the Whips and the Committee on Procedure and Privileges endeavoured to improve the situation which has existed during the past years with regard to motions, I must say that among the people concerned there was quite an amount of co-operation and understanding.  Perhaps the House is losing sight of the fact that this motion only relates to a trial period, that it only covers the period up to the Summer Recess.  No matter how bad this arrangement will prove to be in practice, it cannot be any worse than what we endured during the life of the last Seanad.  I should not like to see the House dividing on this point at this time.  If this motion, amended or otherwise, can make it possible to deal <Col N="1582" /> with seven or eight motions it will be worthwhile but Senators must realise that all through the talks that have led up to this motion we have worked towards finding a solution or formula that would improve the situation.</P>
+      <P>I agree with Senator Sheehy Skeffington when he says that it was frustrating to have motions on the Order Paper for as long as one and a half years until they were completely out of date.  Therefore, to have some formula by which one could expect a motion to be taken at some time would be a vast improvement.  If at all possible, we should preserve the co-operation and agreement that has been evident all along the line when dealing with this subject.</P>
+    </Speaker>
+    <Speaker pid="JohnMKelly" hpid="Professor Kelly Professor Kelly">
+      <NameTxt>Professor Kelly</NameTxt>
+      <P>I should like to repeat the appeal made by Senator McDonald for co-operation.  From the little experience I have had in this House, it seems to me that there is no reason for one side to be unduly suspicious of the other.  For that reason, I cannot understand why it should have seemed necessary for Senator Ó Maoláin to leave out of the motion, as drafted, any restriction on the length of time allowed to a Minister for intervention.  As Senator Horgan said, these words meant something and, therefore, their deletion must imply something.  The terms of the motion as put down by the Leader of the House are likely to give rise to suspicion in the minds of those of us on this side of the House.  All of us must be aware that some Ministers are able to talk for hours on end but I am not for a moment saying that that will happen in this House.  However, I cannot understand why Senator Ó Maoláin should be afraid or unwilling to incorporate the restriction on the time to be allotted to a Minister which, as Senator McDonald has said, could only have a temporary effect in any case.  I know that I am very often partisan but I appeal to the Leader of the House in all sincerity not to give us additional reason to be more partisan.  The Leader of the House can imagine what it would be like here in the months of May, June or July if we had several Ministers who continued to talk for, maybe, an hour <Col N="1583" /> and a half.  We would have uproar and I am giving warning of my taking part in any such uproar.  While it is unreasonable to expect that many Ministers will do that, I appeal to Senator Ó Maoláin to allay the suspicions that have been created by the rewording of this motion.</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>At this stage I am to inform the Leader of the House that on the basis of the fact that these provisional arrangements are only to last for a number of months, both Senator Sheehy Skeffington and I are proposed to withdraw the first amendment and we would be glad to hear what Senator Ó Maoláin has to say about the second one.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I am very glad to hear that because it saves me a lot of further explanation.  With regard to the second motion the reason for not tying the Minister down to exactly 30 minutes was that in the case of something exceptional he might require a further ten or 15 minutes.  I visualise the Minister taking 30 minutes the same as any Member.  However, in the event of something of extreme importance or extreme difficulty in discussing or explaining, a little extra time might be required, and in that case I do not think that anybody would grudge that extra time.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Could that not be dealt with by agreement?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Of course, by agreement.  I do not think that anyone would grudge that if the indication is that these matters should be seriously discussed and information given to the Members of the House.  I assure Senators that there is nothing sinister whatever in this thing.  Senator Sheehy Skeffington, I know, of course has a jaundiced mind in regard to everything that Fianna Fáil, the Government or I do.  I do not mind his suspicions but I am surprised at the line that Senator Horgan took at the start, but now that he has seen the light I will forgo further criticism of it.</P>
+    </Speaker>
+    <P>I assure the Seanad that that is the position with regard to the second part of the motion.  There is nothing sinister <Col N="1584" /> in leaving out the name of the Minister, and that is the proper way to do it.  Senator McDonald quite rightly drew attention to the fact that Senator Sheehy Skeffington apparently did not see, although he asked about it on the last occasion, that the introductory paragraph here shows that this thing was experimental for the next four months.  Senator Sheehy Skeffington at the last meeting of the Seanad insisted that there should be something in it to show that this was only experimental, but he never drew attention even to the inclusion of that in this motion.</P>
+    <P>I do not think that the Seanad need have any doubt about this.  By withdrawing the second amendment we could, as Senator McDonald said, experiment with this for the next four months, and at the end of that time if anybody is not satisfied&mdash;perhaps I will not be satisfied myself&mdash;then we can think again.</P>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>Is the second amendment being accepted?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>I just want to say in relation to that, that I appreciate what the Leader of the House said with regard to the odd occasion when a Minister might for some reason wish to exceed 30 minutes.  I do not think that he would find the House ungenerous if that situation arose, even if you put in the 30 minute time limit which was recommended, after all, by the Committee on Procedure and Privileges. Certainly, speaking for my own party I have no doubt at all about this. If the Minister in his discretion wants an extra ten or 15 minutes to conclude or to make his case we will give it to him, and I think that we should adhere to the recommendation of the Committee as far as the motion goes.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>This is a constructive effort to try to cure people on the other side of the House who have the unceasing suspicion of everything the Government does or that we do here.  There is this suspicion that the Minister might do this or that so we must put it in to tie him down.  That is the very thing that will get my back up <Col N="1585" /> to the extent that I will resist to the limit.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>From what Seanadóir Ó Maoláin tells us now it is obvious that his interpretation of the proposal &mdash;I will not say a decision&mdash;of the Committee on Procedure and Privileges was, I would accept, correct in the first instance.  Senator O'Higgins has pointed out that the word &ldquo;should&rdquo; is important here, and how Senator Ó Maoláin could possibly think that by deleting reference to the restriction on the Minister he was interpreting the wishes of the Committee I cannot understand.  It is fairly obvious that the intention of the Committee was to put in this phrase and to suggest that it is limiting the Minister is in fact the complete antithesis of the recommendation of the Committee.  I would like to support what Senator O'Higgins has said, that this House should be given every opportunity to show that it is prepared <Col N="1586" /> to extend to any Minister concerned the courtesy of an extension.  The 30 minutes limit suggested by the Committee on Procedure and Privileges was preferred to leaving it wide open.  I would like to ask Senator Ó Maoláin again to reconsider his position in that regard.  The House should be given an opportunity of extending to a Minister the courtesy of 15, 20 or 30 extra minutes if the necessity arose on a matter of possibly a major pronouncement. The Minister should not be given <i>carte blanche</i> to talk as long as he likes, since Ministers have been known to talk as long as five hours in certain instances.  I appeal to the Senator to consider the second amendment.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>Is the amendment being pressed?</P>
+    </Speaker>
+    <Speaker pid="JohnHorgan1977" hpid="Mr. Horgan Mr. Horgan">
+      <NameTxt>Mr. Horgan</NameTxt>
+      <P>The second amendment is being pressed.</P>
+      <P>Amendment put.</P>
+      <P Just="Center">The Seanad divided: Tá, 14; Níl, 28.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Boland, John.<br />Butler, Pierce.<br />Dunne, James.<br />Fitzgerald, Jack.<br />Horgan, John.<br />Kelly, John.<br />McDonald, Charles B.</entry>
+            <entry rowsep="1">Malone, Patrick.<br />O'Brien, Andy.<br />O'Brien, William.<br />O'Higgins, Michael J.<br />Owens, Evelyn P.<br />Russell, G.E.<br />Sheehy Skeffington, O.L.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Ahern, Liam.<br />Brennan, John J.<br />Brugha, Ruairí.<br />Cranitch, Mícheál C.<br />Crinion, Brendan.<br />Doyle, John.<br />Eachthéirn, Cáit Uí.<br />Farrell, Joseph.<br />Farrell, Peggy.<br />Fitzsimons, Patrick.<br />Flanagan, Thomas P.<br />Gallanagh, Michael.<br />Garrett, Jack.<br />Hanafin, Desmond.</entry>
+            <entry rowsep="1">Honan, Dermot P.<br />Keery, Neville.<br />Killilea, Mark.<br />McElgunn, Farrell.<br />McGlinchey, Bernard.<br />McGowan, Patrick.<br />Nash, John J.<br />Norton, Patrick.<br />O'Callaghan, Cornelius K.<br />Ó Maoláin, Tomás.<br />O'Sullivan, Terry.<br />Ryan, Patrick W.<br />Ryan, William.<br />Walsh, Seán.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers: Tá, Senators Horgan and Sheehy Skeffington; Níl, Senators Brennan and Farrell.</P>
+    <P>Amendment declared lost.</P>
+    <P>Motion put and agreed to.</P>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>There is just one point in connection with the motion. It would seem as a matter of courtesy, in view of the various drastic changes in the motion, that it should be referred back to the Committee on Procedure and Privileges.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Cathaoirleach Acting Cathaoirleach">
+      <NameTxt>Acting Cathaoirleach</NameTxt>
+      <P>The Committee on Procedure and Privileges, of course, can consider this at any time but the decision of the House, I understand, is that the motion be carried.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>The only thing which worries me is that the motion in its present terms, which I think <Col N="1587" /> the Leader of the House quite honestly from his interpretation is putting before the House as the recommendation of the Committee&mdash;this is a view which I hold and which others hold&mdash;is not the entire recommendation of the Committee and I do not think it should be put before us as the recommendation of the Committee <Col N="1588" /> unless it is referred back first to the Committee.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I do not know what the Senator is talking about. There was a motion put down, it was discussed and it was carried.</P>
+    </Speaker>
+    <Speaker pid="MichaelJosephOHiggin" hpid="Mr. O'Higgins Mr. O'Higgins">
+      <NameTxt>Mr. O'Higgins</NameTxt>
+      <P>It was not carried. There was an amendment defeated.</P>
+      <P>The Seanad adjourned at 4.50 p.m. <i>sine die.</i></P>
+    </Speaker>
+  </MainHeading>
+</Debate>

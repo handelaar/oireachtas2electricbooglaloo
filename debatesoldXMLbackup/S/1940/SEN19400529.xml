@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="29" Month="May" Year="1940" Vol="24" No="17" DateIrish="Dé Céadaoin, 29 Bealtaine 1940" DateEnglish="Wednesday, 29 May 1940" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1685">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1685" /> Do chuaidh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>In connection with the order of business to-day, I have been informed that the Taoiseach will be unable to attend to-day to take the Institute for Advanced Studies Bill. If the House is agreeable, I presume I may take it that the Fourth Stage of the Bill will be postponed until Wednesday next.</P>
+      <P>Agreed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Matter to be raised" RHead="on the Adjournment">
+    <Title>Matter to be raised on the Adjournment.</Title>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>I have received notice from Senator Douglas that, on the motion for the adjournment of the Seanad to-day, he proposes to raise the question of the need for some provision for war risk insurance on property in Éire and to suggest that the Government should give the matter their early consideration.  I am accepting that notice.</P>
+      <P>The matter will be taken on the motion for the adjournment at the conclusion of the other business on the Order Paper.</P>
+    </Speaker>
+    <Speaker pid="FrankMacDermot" hpid="Mr. MacDermot Mr. MacDermot">
+      <NameTxt>Mr. MacDermot</NameTxt>
+      <P>Is it open to raise any other matters on the motion for the adjournment?</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Notice should have been given.</P>
+    </Speaker>
+    <Speaker pid="FrankMacDermot" hpid="Mr. MacDermot Mr. MacDermot">
+      <NameTxt>Mr. MacDermot</NameTxt>
+      <P>It is too late to give notice now?</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>For to-day, yes.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Business. - Pier and Harbour Provisional" RHead="Order Confirmation Bill, 1940&mdash;First Stage">
+    <Title>Private Business. - Pier and Harbour Provisional Order Confirmation Bill, 1940&mdash;First Stage.</Title>
+    <Col N="1686" />
+    <Speaker pid="" hpid="Leas-Chathaoirleach Leas-Chathaoirleach">
+      <NameTxt>Leas-Chathaoirleach</NameTxt>
+      <P>I move that the Bill entitled an Act to confirm the Limerick Harbour Order, 1939, be read the First Time.</P>
+      <P>Bill read the First Time.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Business. - Pier and Harbour Provisional Order" RHead="Confirmation (No. 2) Bill, 1940&mdash;First Stage">
+    <Title>Private Business. - Pier and Harbour Provisional Order Confirmation (No. 2) Bill, 1940&mdash;First Stage.</Title>
+    <Speaker pid="" hpid="Leas-Chathaoirleach Leas-Chathaoirleach">
+      <NameTxt>Leas-Chathaoirleach</NameTxt>
+      <P>I move that the Bill entitled an Act to confirm the Tralee and Fenit Pier and Harbour Order 1939, be read the First Time.</P>
+      <P>Bill read the First Time.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - County Management" RHead="Bill, 1939&mdash;Report and Final Stages">
+    <Title>Public Business. - County Management Bill, 1939&mdash;Report and Final Stages.</Title>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 1:&mdash;</P>
+      <P>In page 7, Section 9, sub-section (2), to delete the word &ldquo;three&rdquo; in line 7 and substitute the word &ldquo;two&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Minister for Local Government and Public Health (Mr. Ruttledge) Patrick J. Ruttledge">
+      <NameTxt>Minister for Local Government and Public Health (Mr. Ruttledge)</NameTxt>
+      <P>It is proposed to start with the appointment of only two assistant managers in Cork, but power is taken so that, if, after experience, it is found that three are required, they can be appointed.  We cannot say at the outset whether two assistant managers will be sufficient, but when we see the Act in operation for some time and have an idea of the amount of work which may have to be performed by the officials, we will be in a position to know whether it will be necessary to increase the number from two to three.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 2:&mdash;</P>
+      <P>In page 7, Section 9, sub-section (4), to delete all from the word &ldquo;direct&rdquo; in line 15 to the end of the sub-section and substitute the following words and paragraphs:&mdash;</P>
+    </Speaker>
+    <P>
+      <Col N="1687" />&ldquo;do all or any of the following things, that is to say:&mdash;</P>
+    <P>(a)  direct in respect of a particular county (other than a county mentioned in any of the preceding sub-sections of this section) that there shall be, for such county, an assistant county manager, or a specified number of assistant county managers, in addition to the county manager;</P>
+    <P>(b)  in the case of grouped counties (other than the counties of Tipperary, North Riding, and Tipperary, South Riding), give such direction as is mentioned in the next preceding paragraph of this sub-section either, as he shall think proper, in respect of one only of such counties or in respect of both such counties and in the latter case, if he so thinks proper, direct that the same person or persons shall be the assistant county manager or assistant county managers for each of such counties;</P>
+    <P>(c)  increase the number of assistant county managers for a county mentioned in any of the preceding sub-sections of this section and, in the case of the counties of Tipperary, North Riding, and Tipperary, South Riding, make such increase either, as he thinks proper, in respect of one only of those counties or in respect of both of those counties and, in the latter case, either with or without the requirement that the same person or persons shall be the additional assistant county manager or assistant county managers for each of those counties.&rdquo;</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>As the Bill stands, the Minister has power to appoint additional assistant managers in counties where it might be found necessary to do so.  The exceptions, however, are the group counties of Tipperary, North and South Ridings, Cork County and Dublin City and County.  It is proposed in this amendment to take <Col N="1688" /> powers the same as in other counties in these cases, that is, in Dublin City and County, Tipperary, North Riding, Tipperary, South Riding, and Cork County, so that if it is found necessary additional assistant managers may be appointed.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 3:&mdash;</P>
+      <P>In page 7, Section 9, sub-section (5), to delete the word &ldquo;foregoing&rdquo; in line 19 and substitute the words &ldquo;next preceding&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is a drafting amendment.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 4:&mdash;</P>
+      <P>In page 7, Section 9, sub-section (5), after the word &ldquo;county&rdquo; in line 23, to add the words &ldquo;but not so as to reduce the number of assistant county managers for any of the counties of Dublin, Cork, Tipperary, North Riding, or Tipperary, South Riding, below the number fixed by this section&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is to make it clear that the number of assistant managers in Dublin, Cork, Tipperary, North and South Ridings, shall be the minimum set out in the Bill.  We want to make it clear that while the number may not be reduced an increased number may be appointed.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 5:&mdash;</P>
+      <P>In page 7, Section 9, sub-section (6), to delete all from the word &ldquo;and&rdquo; in line 25 to the end of the sub-section.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>The words proposed to be deleted here are not necessary. When an order made by the Minister is revoked, the position is as it was previous to the order having been made.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Col N="1689" />
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 6:&mdash;</P>
+      <P>In page 7, Section 9, before sub-section (8), to insert a new sub-section as follows:&mdash;</P>
+      <P>(8)  Whenever and so long as there is in force an order made by the Minister under this section increasing the number of assistant county managers for any of the counties of Dublin, Cork, Tipperary North Riding, or Tipperary South Riding, the number of assistant county managers for such county shall be increased in accordance with such order or an order amending such order.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is a drafting amendment, consequential on amendment No. 2.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 7:&mdash;</P>
+      <P>In page 7, Section 10, before sub-section (3), to insert a new sub-section as follows:&mdash;</P>
+      <P>(3)  The following provisions shall have effect in relation to the number of Dublin assistant city managers, that is to say:&mdash;</P>
+      <P>(a)  the Minister may by order, whenever he so thinks fit, increase the number of Dublin assistant city managers;</P>
+      <P>(b)  the Minister may by order, whenever he so thinks proper, amend any order made by him under the foregoing paragraph of this sub-section or under this paragraph;</P>
+      <P>(c)  the Minister may by order, whenever he so thinks proper, revoke any order made by him under this section;</P>
+    </Speaker>
+    <P>(d)  whenever and so long as there is in force an order made by the Minister under this section increasing the number of Dublin assistant city managers, the number of Dublin assistant city managers shall be increased in <Col N="1690" /> accordance with such order or an order amending such order;</P>
+    <P>(e)  it shall be obligatory on the Minister so to exercise the powers conferred on him by this section and the powers conferred on him by this Act in relation to the number of assistant county managers for the County of Dublin as to secure that the number of Dublin assistant city managers shall always be the same as the number of Dublin assistant county managers.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This takes power to increase the number of assistant managers in Dublin City and County. We are starting off with two assistant managers who, as well as being managers for the city, will be managers for the county.  That may not be sufficient and power is being taken to appoint additional managers if required.  They are not going to be appointed at the outset.  As in the case of Cork, we will have to see what work has to be performed and whether they will be necessary or not.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 8:&mdash;</P>
+      <P>In page 8, before Section 12, to insert a new section as follows:&mdash;</P>
+      <P>12.&mdash;(1)  This section applies to the following offices and to no other offices, that is to say:&mdash;</P>
+      <P>(a)  the two offices of Dublin assistant county manager created by this Act,</P>
+      <P>(b)  the two offices of assistant county manager for the County of Cork created by this Act, and</P>
+      <P>(c)  the office of assistant county manager for the County of Tipperary, North Riding, created by this Act, and</P>
+      <P>(d)  the office of assistant county manager for the County of Tipperary, South Riding, created by this Act, and</P>
+    </Speaker>
+    <P>(e)  the two offices of Dublin <Col N="1691" /> assistant city manager created by this Act.</P>
+    <P>(2)  In this section the expression &ldquo;first appointment&rdquo; means the first permanent appointment and shall not be construed as referring to a temporary appointment made by the Minister pending such permanent appointment.</P>
+    <P>(3)  Notwithstanding anything contained in any other section of this Act, the following provisions shall apply and have effect in relation to the first appointment to any office to which this section applies, that is to say:&mdash;</P>
+    <P>(a)  Section 5 of the Local Authorities (Officers and Employees) Act, 1926 (No. 39 of 1926), shall not apply or have effect in relation to the first appointment to such office and Sections 6, 8 and 9 of that Act shall have effect in relation to such first appointment subject to the provisions of the next following paragraph of this sub-section;</P>
+    <P>(b)  the Minister shall request the Local Appointments Commissioners to recommend to him a person for the first appointment to such office and those commissioners shall select (otherwise than by competitive examination) and recommend to the Minister under the Local Authorities (Officers and Employees) Act, 1926 (No. 39 of 1926), one and only one person for such first appointment, and thereupon the person so selected and recommended shall become and be appointed by virtue of such recommendation as on and from such day as the Minister shall by order appoint in that behalf;</P>
+    <P>(c)  in carrying out the duties imposed on them by the next preceding paragraph of this sub-section, the Local Appointments Commissioners shall have regard to the provisions (where relevant) of this Act giving priority of recommendation to a particular person or requiring two particular offices <Col N="1692" /> to be held by one and the same person;</P>
+    <P>(d)  nothing in this section shall prejudice or affect the appointment by this Act of a named person to an office to which this section applies if, in the events which happen, such appointment becomes effective.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This amendment deals with the practice for the first four appointments of assistant managers.  The four covered by this amendment are: one Dublin assistant city manager, two Cork County assistant managers, and one for Tipperary, North and South Ridings.  So far as the Dublin appointment is concerned, preference will be given to the secretary of the county council and secretary of the board of public health.  In Dublin County there is only the secretary of the county council involved, as he is also secretary of the board of public health.  Preference will be given there for this post, as in the other counties it is given for the county managership to the secretary of the county council, who in Dublin cannot become county manager as that post is assigned by the Bill to the city manager.  In the other two places, Cork and Tipperary, there will be no preferences.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 9:&mdash;</P>
+      <P>In page 10, Section 14, sub-section (2), after the word &ldquo;council&rdquo; in line 54, to add the words &ldquo;or, in the case of grouped counties, by the chairman of the council of such one of those counties as the Minister shall direct&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is to provide for rare cases where a deputy manager has to be appointed by the chairman. There might be a possibility that, where there are group counties, there may not be agreement between the two chairmen and the manager as to who should be the deputy manager.  In a position like that the appointment is only for a few weeks, while the manager <Col N="1693" /> may be absent through illness or vacation and, to provide against the possibility of a deadlock between the two chairmen of the group counties, it leaves the power with the Minister to specify the chairman who shall appoint after consultation with the manager.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="Mr. Baxter Mr. Baxter">
+      <NameTxt>Mr. Baxter</NameTxt>
+      <P>What will the Minister do?  The deputy is going to deputise for the manager over two counties, and the Minister is going to select one of the two chairmen?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Where a deadlock arises.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="Mr. Baxter Mr. Baxter">
+      <NameTxt>Mr. Baxter</NameTxt>
+      <P>The Minister means that the two chairmen will be consulted first?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is where the two chairmen disagree.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="Mr. Baxter Mr. Baxter">
+      <NameTxt>Mr. Baxter</NameTxt>
+      <P>Then the Minister is going to select one of them to decide?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>He would have to do something.</P>
+    </Speaker>
+    <Speaker pid="PatrickFrancisBaxter" hpid="Mr. Baxter Mr. Baxter">
+      <NameTxt>Mr. Baxter</NameTxt>
+      <P>I would like the Minister to reconsider this.  Let us imagine that I am going to be nominated as a deputy for a county for a month or two.  The county manager and the two chairmen have been in consultation and the chairmen cannot agree as to whether I am to be appointed or not. After they have failed to agree, the Minister is going to nominate one of them to give a decision.  The decision at this stage is quite obvious when the Minister makes his selection.  As far as I can see the implication of this amendment, it is not a solution and I would much prefer that the Minister should take the decision to nominate the deputy himself rather than invite a particular chairman to make the nomination, knowing beforehand what the decision is going to be.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>The same point occurred to me.  As far as the Minister is concerned, it is the same thing as making the appointment himself.  As far as the public is concerned, all that will be known is that they disagreed <Col N="1694" /> and it will not be known which particular chairman has made the selection. I think it would be very much better for the Department, in the event of a failure, to nominate the assistant manager.  It is only for a few months and it would be undesirable to allow the public to know who sponsored whom?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>I do not think it means much one way or the other. There might be an assistant manager in any case.  The accountant usually acts for the county secretary when he goes on vacation.  I think it is a rare possibility we are providing for, but, in the very rare cases where such a deadlock might take place, it seems best to provide for it by enabling the Minister to name the chairman who would make the decision.</P>
+    </Speaker>
+    <Speaker pid="DesmondFitzgerald" hpid="Mr. Fitzgerald Mr. Fitzgerald">
+      <NameTxt>Mr. Fitzgerald</NameTxt>
+      <P>Would it not be simpler for the Minister to nominate the person who would act instead of nominating the chairman who would decide?</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>It will only arise where a manager does not appoint his deputy.</P>
+    </Speaker>
+    <Speaker pid="DesmondFitzgerald" hpid="Mr. Fitzgerald Mr. Fitzgerald">
+      <NameTxt>Mr. Fitzgerald</NameTxt>
+      <P>The Minister has to come in as a sort of referee.  Instead of delegating his function by picking one of the chairmen, it would be simpler for him to make the appointment.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>In practice, before any likelihood of trouble arose, the Minister would say which chairman should make the decision.  The manager himself will nominate in the first instance and I do not think that any difficulty will arise.  This has to be done urgently and quickly and so it had to be specified.  If I had not put down the amendment in this form I might have considered some other way, but I do not think it would make much difference.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 10:&mdash;</P>
+    </Speaker>
+    <P>In page 11, Section 14, before sub-section <Col N="1695" /> (5), to insert a new sub-section as follows:&mdash;</P>
+    <P>(5)  Whenever a deputy county manager is appointed under this section for each of two grouped counties, one and the same person shall be appointed to be the deputy county manager for each of those counties, and whenever a deputy city manager is appointed for the County Borough of Dublin and a deputy county manager is appointed under this section for the County of Dublin, one and the same person shall be appointed to be such deputy city manager and to be such deputy county manager.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is to provide for one deputy for the manager in grouped counties.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No.11:&mdash;</P>
+      <P>In page 19, Section 29, to add at the end of the section a new sub-section as follows:&mdash;</P>
+    </Speaker>
+    <P>(4)  Whenever it appears to the Minister to be necessary in order to enable the county manager for a county to attend the first annual meeting of the council of such county after the first election of members of such council held after the commencement of this Act or to attend the first meeting (whether annual or quarterly) of an elective body for which he is manager after the first election of members of such elective body held after the commencement of this Act, it shall be lawful for the Minister by order to appoint the day and hour at which the first annual meeting of such council or the first meeting (whether annual or quarterly) of such elective body after the first election of members of such council or elective body (as the case may be) after the commencement of this Act shall be held, and, where the Minister so appoints the day and hour for any such meeting, such meeting shall, notwithstanding anything contained in the Local Elections Act, 1927 (No. 39 of 1927), <Col N="1696" /> be held on the day and at the hour so appointed.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This deals with the first meetings of councils.  It is considered desirable that the manager should be present at the first meeting after election.  There will be a number of elective bodies in each county or grouped counties, and it will be necessary to specify the days on which these meetings shall be held, so that the manager can be present at them.</P>
+      <P>Amendment agreed to.</P>
+      <P>Amendment No. 12 not moved.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 13:&mdash;</P>
+      <P>In page 21, Section 33, sub-section (5), after the word &ldquo;thereof&rdquo; in line 27 to add the words &ldquo;subject to compliance with the rules made by the Minister under this section&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This provides, in the case of visiting committees of mental hospitals, that the rules shall be drawn up by the Minister as to the visiting of these hospitals by these committees.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 14:&mdash;</P>
+      <P>In page 21, Section 33, sub-section (6), after the word &ldquo;hospitals&rdquo; in line 29, to insert the words &ldquo;and of visiting members of such committees&rdquo;; and in line 30, after the word &ldquo;committees&rdquo; to insert the words &ldquo;and such visiting members&rdquo;.</P>
+      <P>Amendment put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 15:&mdash;</P>
+      <P>In page 25, Second Schedule, paragraph 16, to delete the words &ldquo;a public&rdquo; in lines 12 and 13 and substitute the word &ldquo;another&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Senator Mrs. Concannon raised a point in regard to this section on the Committee Stage and she mentioned in particular insurance bodies.  To remove any doubts we are having this amendment inserted.</P>
+    </Speaker>
+    <P>
+      <Col N="1697" /> Amendment put and agreed to.</P>
+    <Speaker pid="SeanFGibbons" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>Government amendment No. 16:&mdash;</P>
+      <P>In page 25, Second Schedule, before paragraph 17, to insert a new paragraph as follows:&mdash;</P>
+      <P>The nomination of a person to be a candidate at an election of a person to the office of President of Ireland.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>This is also an amendment which is hardly necessary, but we are having it inserted to clear up any doubts.</P>
+      <P>Amendment put and agreed to.</P>
+      <P>Question&mdash;&ldquo;That the Bill as amended be received for final consideration&rdquo;&mdash;put and agreed to.</P>
+      <P>Agreed to take the Final Stage now.</P>
+      <P>Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="McGillycuddyReeks" hpid="The McGillycuddy of the Reeks The McGillycuddy of the Reeks">
+      <NameTxt>The McGillycuddy of the Reeks</NameTxt>
+      <P>I should like to say a few words on the Final Stage because the Bill deals with a subject in which I am immensely interested.  Though I do not expect any spectacular results from the Bill, I believe it will definitely give us increased efficiency and that it will make for economy, a thing which in these days is very badly needed.  But this second desirable result depends very much not only on the councils and the managers, but on the Government and the Minister himself.  The managers will remain the servants of the public and they must carry out the law.  If the law prescribes continuous additional expenditure, well, even supermen in charge of elected bodies can do very little indeed.  On the Committee Stage, the House was rather moved to laughter when I mentioned the Kerry arrears of rates but I wonder if Senators realise that in the last few years, since the year 1933, the rates collected in rural districts alone have risen by over £1,000,000.  That is a colossal amount.  I admit that there has been a slight increase at the same time in the value of agricultural products <Col N="1698" /> but the cost of living figure has easily kept pace with it while the rate able value of the land which pays rate has actually been reduced considerably in the last year owing to the decision in the railway valuation case.  To give some sort of an index of what that increase means, in Kerry alone where the valuation is 5/- an acre, the rate in that period has risen by 20 per cent., a very large figure indeed.  I know that experts tell us that we could produce a great deal more all over the country but the farmers' incentive to production is money to be saved to improve the standards on his farm, and not money to be handed direct to the rate collector.</P>
+      <P>I think we have almost reached the stage now in the rural areas when a farmer who is milking ten cows for the creamery cans puts a label on one with the inscription &ldquo;My share of the fire brigades&rdquo;, on a second a label with the inscription &ldquo;My share of the new water supplies&rdquo;, on a third a label with the inscription &ldquo;My share of the Institute for Advanced Studies&rdquo; and so on. In the end he has only one stripper with which to feed his family and provide for the essential services of the county in which he lives.  The fact is that we are trying to move too fast and the farmers' income cannot stand it.  That is why arrears and overdrafts are accumulating.  I admit that the Minister finds some £5,000,000 of the money which goes towards the expenses of local government but the greater part of that £5,000,000 is provided in the first instance, directly or indirectly, by the people of the country. It is handed to the Minister who in turn supplies it to the local authorities.</P>
+    </Speaker>
+    <P>The need for economy in local government administration, urgent as it is to-day, will become very much more urgent in the difficult years which obviously lie before us.  I think this war in Europe, which is incidentally drawing closer to us every day, should have brought us to a grave consideration of the problems which await us in the future in the matter of local government.  From that standpoint, we might consider in what way we can <Col N="1699" /> help those managers who are about to be appointed.  Whether events go well or ill with the democracies, we are bound to suffer severely.  In the most favourable circumstances, the exhaustion of the war effort will reduce to a minimum the purchasing power of other nations for the goods which we have to sell and, at the same time, our income from external investments will become almost infinitesimal. In any other eventuality, the assets on which we depend for our present scale of national services will disappear entirely, and the march of progress in this country will be retarded to an extent which will not bear contemplation. I trust that Ministers, members of both Houses, managers and members of the public, will take note of these words and realise the very grave responsibility which rests on them all to anticipate, and so avoid, the possible consequences of disturbance to our social fabric which might well result from a sudden change from providence to poverty.  The Minister is well aware of the position and he can do much, not only to prevent further increases, but by insisting on economies.  I hope that he will do so.</P>
+    <P>One other matter which is germane to the Bill occurs to me.  As time goes on and public opinion becomes more educated to the advantages, I hope that further amalgamations will be considered.  I think they cannot but lead towards efficiency, economy and that broadmindedness which is so much wanted in the process of national development.</P>
+    <Speaker pid="PeadarMacFhionnlach" hpid="Peadar Mac Fhionnlaoich Peadar Mac Fhionnlaoich">
+      <NameTxt>Peadar Mac Fhionnlaoich</NameTxt>
+      <P>Ba mhaith liom focal scuir a rádh sul a dtéighidh an Bille seo uainn.  Ní fheicim aon Ghaedhilg sa Bhille seo ach amháin tiodal an Bhille.  Is dóiche go gcuirfear leagan Gaedhilge air sul a sroichfidh sé an pobal, ach ní mór an éifeacht é sin.  Rithtear é i nGall-Bhéarla, agus cuirfear i bhfeidhm é i nGall-Bhéarla. Agus cuireann sin i gcuimhne damh, caidé an seasamh bhéas ag an Ghaedhilg faoi an Bhille nuair déanfar Acht de?  An neartóchaidh sé leis an Ghaedhealachas ins na Contaethe nó a mhalairt?  Bhí na Comhairlí Contae <Col N="1700" /> measardha láidir ar thaobh na Gaedhilge.  Neartuigh siad linn go tréan, calma triocha bliadhain ó shoin, nuair a chuireamar suas troid le Gaedhilg do dhéanamh riachtanach ar ghabháil isteach san Iolscoil Náisiúnta. Má theip orrainn ó shoin mórán talmhan do dhéanamh san Iolscoil chéanna chan ar na Comhairlí Contae atá an locht.  Agus sílim gur ghlac na Comhairlí Contae, nó furmhór aca, cúram go mbeadh an Ghaedhilg riachtanach ag a seirbhísigh.</P>
+      <P>Anois támaoid ag tógáil cúram na seirbhiseach ó na Comhairlí Contae agus á thabhairt do bhainisteóirí. Caidé an dearcadh bhéas aca-san don Ghaedhealachas?  Níl aon fhocal ins an Bhille seo fá sin.  An mbeidh gach bainisteoir saor le feadhmannaigh do thoghadh?  Agus caidé an mianach bhéas ins na bainisteóirí iad féin?  An féidir linn muinighin do bheith againn asta go dtiubhraidh siad Comhthrom na Féinne don Ghaedleachas?  Tá cuid aca ainmnithe cheana féin, nó leathainmnithe, sa Bhille.  An Gaedhil iad, nó an bhfuil dearcadh Gaedhealach aca?  Tá eagla orm nach bhfuil.  Bhí, nó, tá, bainisteoir ag teastáil do Chathair Phortláirge.  Cuireadh fuagra sa pháipéar ar a lorg agus ní dubhradh san fhuagra gur Gaedhilgeóir a bhítheas a lorg.  Más comhartha é sin ar a bhfuighmíd mar bhainisteóirí, ní maith an comhartha é.  Do réir an Bhille seo beidh an chéadh éileamh ar an phost ag cléirigh Conndae, agus cléirigh fá shláinte.  Tá cuid aca seo Gaedhealach agus cuid aca nach bhfuil.  Is dóiche go mbeidh an focal scuir sa scéal ag an Coiste Ceapacháin, agus níl mórán muinighne ag Gaedhil as an Choisde, nó an Coimisiún céanna, fá dtaobh den Ghaedhealachas.</P>
+    </Speaker>
+    <P>Is truagh nár ghlac an Riaghaltas cúram fán cheist: seasamh na Gaedhilge do luadh san Bhille féin.  Is dóiche go bhfuil sé ro-mhall anois le sin a dhéanamh.  Caithfidmuid mar sin féachaint chuig an Riaghaltas, agus go háithrid chuig an Aire a bhfuil baint aige leis an cheist seo, nach leigfidh siad síos an Ghaedhilg.  Beidh cuid mhaith cumhachta fágtha aige sin más mian leis a chur i bhféidhm.  Tá an Ghaedhilg riachtanach ag seirbhísigh <Col N="1701" /> poiblí faoi an Riaghaltas.  Is mó is fiú don teanga na seirbhisígh contae ná na seirbhísigh Stáit ó tá siad scaipthe thríd an tír agus níos mó bainte aca leis an choitcheanntacht.  Tá súil agam nach mbeidh ádhbhar gearáin againn ar an cheist seo.  Fágfa mé an scéal mar sin ach bhéarfainn moladh don Riaghaltas, agus don Aire go speisialta, cúram a ghlacadh nach rachaidh an Ghaedhilg ar gcúl ins na Conntaethe.</P>
+    <Speaker pid="PatrickFrancisBaxter" hpid="Mr. Baxter Mr. Baxter">
+      <NameTxt>Mr. Baxter</NameTxt>
+      <P>I would just like to say one final word of protest, not, I know, that it is going to alter the situation in the least.  I am no more satisfied now than I was on the Second Reading or the introduction of this Bill that it is either necessary or justifiable.  I do not like all this shepherding by officials at all.  It may be that some of our people in the counties did not make the best use of the liberty they got, and I am one of those who believe that if you do not use your liberty well and fight for it when you have got it, you lose it.  I think our local electors are going to lose considerable powers that they have had up to the present. I do not think, either, that it is fair to judge the use they made of those powers on the work of the past ten years or so.  However, this Bill is the decision of the Oireachtas.  Different points of view have been expressed from different sides of the House and of the other House.  We know that it has its supporters and its opponents in every Party.  We can only just express our view as we see things within our own narrow compass, and now that it is to become law we must only hope that it will be more effective, more beneficial than some of us believe it will be.</P>
+    </Speaker>
+    <P>I would like some indication from the Minister as to what exactly is the intention with regard to local government in future.  We understood him, I think, to say that there was a further measure to be introduced which was complementary to this.  Does that mean that the other Bill is going to be introduced in this session?  Are we going to have the machinery set going immediately to select our county managers <Col N="1702" /> or when may we expect local government elections, with all their implications? What has he in mind about that or what exactly is the position? Is there a possibility that we may not have any local government elections at all this year?  This is a problem now, in the new conditions which exist at the moment, that, probably, may require reconsideration, but it would be a help if we got some indication from the Minister as to the lines on which his mind is running at the moment.</P>
+    <Speaker pid="JamesMcGee" hpid="Mr. McGee Mr. McGee">
+      <NameTxt>Mr. McGee</NameTxt>
+      <P>As the House is aware, I have already expressed considerable opposition to this measure.  At the same time, the decision of the country, through this House, is being implemented, and I can only assure the House that, as far as I am concerned, I would do everything I could to make it the biggest success possible.  My original opposition to it was based on what I considered to be the dying out of that true sense of citizenship on which the success of this nation of ours largely depends.  The soul of the nation is the soul of its citizens and I should congratulate any Government that would seek to train the youngest minds within its domain to regard everything, public property, even every leaf on every tree in Ireland, as something to be religiously safeguarded.  It is true that there is something to be said for the Minister when he states that he gives many millions and that, therefore, there must be Government control down through every public institution. There would be something to be said also if we could train every humble scavenger and worker in our streets to safeguard and control the Exchequer, both local and national, as if they themselves were the representatives elected to do so.  I deplore the very idea of welcoming a Bill which does undoubtedly deprive the citizens of considerable power.  Rather do I think that the fact that, for 20 years, a policy of curtailing these powers has been pursued, is largely responsible for the fact that many of our best citizens will not offer themselves for election and that others will not even take the trouble to vote.</P>
+    </Speaker>
+    <P>
+      <Col N="1703" /> A tendency is created, I imagine&mdash;it may be imaginary on my part&mdash;that as a result of this Bill there will be an exaggerated spirit of sycophancy and of supporting the powers that be.  With all deference to all of us, I think that, whether it is due to the fact that for many years we were looked upon as a nation in chains or a nation of slaves, we somehow are inclined to get into narrow grooves, as Senator The McGillycuddy suggested when he advocated the broadening of the minds of the people of this country.  To my mind, this Bill will bring in the Party spirit in a still more exaggerated form, and I am very much afraid&mdash;although I hope it will not be so&mdash;that it will bring it in even in connection with our civil service in a more marked form than some of us think it is already.</P>
+    <P>I was one of the first councillors in the country to advocate the setting-up of the Appointments Commissioners.  I think there were only three of us in that little locality across the Boyne&mdash; myself and two well-known labour representatives, Michael O'Connor and David Blood&mdash;who approved of that in its origin.  As the years have gone by, however, I must confess that I have grown cold in my enthusiasm for that body.  Now, as to the question of economy, which Senator The McGillycuddy suggests is a very essential feature in our administration, where is the economy to come from, if not from the people themselves in the different districts that they control? What is true economy?  Can anyone for an instant show me where any Minister for Local Government or any Minister for Finance or Chancellor of the Exchequer, during the last 23 years has ever said a word in favour of economy locally?  Has not the whole thing been: &ldquo;We have put in these waterworks schemes, and we have these sewerage schemes, we have put in developed the country,&rdquo; and so on? Who are the people who developed the country, however?  The people who developed the country are the farmers, and not the Ministers.  Neither of the political Parties developed the country. I cannot very well say in this <Col N="1704" /> House what, in my opinion, has been most developed by either of the big political Parties, and I shall leave it to somebody else to say that.</P>
+    <P>Now, with regard to this matter of the hospitals, I had an amendment down to the Committee Stage of the Bill and spoke on it at some length the other night.  I know that the Minister is sufficiently altruistic in his mind to read carefully the meaning of the amendment I spoke to the other night. I pointed out that in one sub-section it was laid down that there should not be any inquiry into or any complaint received or any report made in relation to the services, remuneration, privileges or superannuation of the officers and servants of these hospitals.  Now, no one has a greater regard than I have for these doctors and nurses&mdash;and I have come across a great number of them in my time&mdash;but still I believe that all these doctors, nurses and attendants, who are placed in charge, and particularly who are placed in charge of the poor, should be first subject&mdash;first, if not all the time&mdash;to local control.  The Minister cannot have the same experience as the people living on the hillsides and in country districts of the performance that goes on in different parts of the country in connection with the handing out of a red ticket.  I should love to envision the time when all these red tickets would be abolished, and where every worker and if, possible, every unemployed man, would have the right to choose his own doctor.  I should love to see the Labour Party fighting to have some such scheme initiated.  So long, however, as the poor have to depend on the services meted out to them by officials, then I think that the control of these officials should rest with the public directly.  The part of this Bill that I deplore most is this part to the effect that the hospitals, or the attendants and staffs in the hospitals, are not to be directly controlled by the representatives of the public, and I hold that it should be possible for the Department to bring about some system whereby they would be directly controlled by the representatives of the public.  We all know how hard it is to see a Minister sometimes.  It sometimes <Col N="1705" /> takes even a Senator a long time &mdash;unless he happens, perhaps, to play the same game&mdash;to see a Minister; and how, in the name of goodness, is, say, Billy Muldoon, on the side of the Cooley mountains, to be able to lodge a complaint if he thinks that some officials are not doing their duty properly?  It seems to me that you are going away from the whole system of local control, the importance of which even the Church itself has stressed.</P>
+    <P>Finally, I feel that this will not appeal to our people in Northern Ireland.  I am perfectly satisfied that the independent thought of Northern Ireland, whether it be Catholic thought or Protestant thought, will not desire that the staffs that will control their institutions shall be appointed by some such body as the Appointments Commissioners, or appointed in any way from Dublin.  I am perfectly satisfied that what may be considered good enough for Kerry&mdash;I should never like to think that it would be good enough for Louth&mdash;would not be considered good enough across the Border, and I am afraid you would find it very hard to bring it across the Border.  We are working towards an independent and united Ireland, and the way to work towards it is through the independent outlook of the citizens of our country&mdash; through their broad-mindedness and sense of justice, and not through having a Government seeking to put them in a strait-jacket; and not to have, above all, the atmosphere that it is essential to put them in a strait-jacket. That stage may have been reached in some cases; but where that stage has not been reached, then the taking away of control from the people should not be supported.  Some people seem to think that, as a result of this, rates will go down and that their property will be better safeguarded&mdash;just because James McGee or Christy Byrne are not permitted to strike a rate. Well, I should like to tell these ratepayers, who are so very anxious to get the officials into the saddle, that they ought to be careful.  I have had good experience of that, just as they have had, but I should like to say to these individual owners who think that their interests will be better safeguarded by <Col N="1706" /> officials than by the elected representatives of the public, that there is a very old saying to the effect that the devil you know is often better than the one you do not know.  Time will tell.  I wish the Bill success, and I hope it will be a success, but if it is, I am sorry to think that we should have reached the stage in Ireland when it is necessary to curtail what is the product of the conscience of the people.</P>
+    <Speaker pid="ThomasHonan" hpid="Mr. Honan Mr. Honan">
+      <NameTxt>Mr. Honan</NameTxt>
+      <P>On the Second Reading of this Bill I indicated that I entirely approved of the principle of the Bill. I drew attention to one point in connection with Section 5, and I was hoping that the Minister would bring in an amendment to adjust that matter I was referring to the matter of the tenure of office of a county manager. The section says that every person appointed to be the county manager for a county shall hold office until he dies, resigns, or is removed from office. The reason I drew the Minister's attention to that was that it seemed an extraordinary thing that a manager of a county, who is supposed to be alert, energetic, and so on, and who would be in control of the whole county, could remain in office and in charge of the whole county until he died, even though, possibly, he might live to be 100.  There is no doubt that a manager, above all men, must be energetic, and the existing county council and board of health officials have been hard worked all their lives. It is very hard to expect that they can hold that energy for all time, and I think it would be better if the section read:</P>
+      <P>&ldquo;Every person appointed to be county manager of a county shall hold office until he dies or attains the age of 65 years....&rdquo;</P>
+    </Speaker>
+    <P>That is the usual civil service age, and all other conditions are normal, as I have stated before.  They are very hard worked officials all their lives and I think they should be relieved of office at an early date so that it would be possible to bring in younger and more energetic men and, it is hoped, men who will have got some special training for the office.  There was some suggestion <Col N="1707" /> about making it a profession and that it was very hard to make it a profession but, certainly, there should be some very special training for the position because it will be the highest and best paid office in the county. There is no reason why those hoping to attain such an office should not go through a special course of training in all the branches of administration that would come under their control.  I do not know whether the Minister proposes to make any alteration in that section in this or in a forthcoming Bill. Perhaps it will be adjusted in the Local Government Bill which the Minister has promised.  Certainly, I think it should be adjusted in this or in the next Bill.</P>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Senator Mac Fhionnlaoich complains about some provision not having been made for Irish.  So far as the first appointments are concerned, we are in a difficulty because we are trying to provide for a smooth changeover. But a number of those secretaries of boards of health already have a knowledge of Irish, and while there may be a few places in the Gaeltacht &mdash;there are very few I think where they have not&mdash;we will certainly make provision for future appointments that in Gaeltacht areas anyway a competent knowledge of Irish would be essential and that in all other areas preference should be given to those with a knowledge of Irish.</P>
+    </Speaker>
+    <Speaker pid="PeadarMacFhionnlach" hpid="Peadar Mac Fhionnlaoich Peadar Mac Fhionnlaoich">
+      <NameTxt>Peadar Mac Fhionnlaoich</NameTxt>
+      <P>Go maith.</P>
+    </Speaker>
+    <Speaker pid="PatrickJosephRuttled" hpid="Mr. Ruttledge Mr. Ruttledge">
+      <NameTxt>Mr. Ruttledge</NameTxt>
+      <P>Senator Baxter has asked about the other Bill.  The other Bill is actually drafted at present and I had hoped to introduce it in the Dáil to-morrow.  That Bill, of course, among other things, deals with what Senator Honan has in mind about the fixing of the age limit and of other matters more relevant there than in the County Management Bill.  It also provides for certain reductions in the numbers of members of public bodies, county councils, and so on, and the intention was that this other Local Government Bill would be put through in this session <Col N="1708" /> and that the elections would be held about September.  Whether conditions here might alter that intention I could not at the moment say, but if such conditions can be foreseen, then it will mean that there will have to be an amending Bill introduced postponing the elections for another year.</P>
+      <P>Senator McGee complained about control of staffs.  I do not propose to go into that matter again.  We have had it all out on the Second Stage and I still hold the view and I think that anybody who really believes in control of staffs must realise it, that the only effective and proper way to control staffs is to have one executive head, who would be responsible to the body of councillors, for the control and management of the staff.  I think that is the most constructive and the most efficient way to do it.  I feel, and believe, that this Bill will be a true reflection of democracy as it should be understood and appreciated because there is not very much good in having democratic powers if we are not in a position effectively to control those powers.  I have pointed out here on the Second Reading and on other stages of this Bill the very great amount of work now done by public bodies, that it is impossible for them in the limited time at their disposal, and which they are giving voluntarily, to perform this work efficiently, no matter how conscientious or anxious they are.  I feel that they cannot do it efficiently and effectively and attend to their other business as well.  They have ample powers apart from the powers of the executive head of the control and management of the staff.  They have ample powers over the manager and have ample reserve functions.  It may be described as an experiment&mdash;I am not going to say it is anything more than an experiment&mdash; but we have at least some little experience, perhaps, in the City of Dublin and the City of Cork and since then in Waterford and Limerick.  It may have been a limited experience because it has not been sufficiently long in operation, but I do believe that, based on the experience we have obtained in this way, the experiment that is now being extended will mean greater efficiency and, I hope, greater economy.</P>
+    </Speaker>
+    <P>
+      <Col N="1709" /> Question put and agreed to.</P>
+    <P>Ordered: That the Bill be returned to the Dáil with amendments.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Control of Imports (Quotas Nos." RHead="1 to 32) (Amendment) Order, 1939&mdash;Motion">
+    <Title>Public Business. - Control of Imports (Quotas Nos. 1 to 32) (Amendment) Order, 1939&mdash;Motion.</Title>
+    <Speaker pid="WilliamQuirke" hpid="Mr. Quirke Mr. Quirke">
+      <NameTxt>Mr. Quirke</NameTxt>
+      <P>I move:</P>
+      <P>That Seanad Eireann hereby approves of Control of Imports (Quotas Nos. 1 to 32) (Amendment) Order, 1939.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Industry and Commerce (Mr. MacEntee) Minister for Industry and Commerce (Mr. MacEntee)">
+      <NameTxt>Minister for Industry and Commerce (Mr. MacEntee)</NameTxt>
+      <P>This order is to regularise and to make effective certain exemptions from the operation of quota orders which were made prior to the passing of the Control of Imports (Amendment) Act, 1937, and whereby small parcels and isolated articles brought into this country, and to which quota restrictions were never intended to apply, fell within the scope of that legislation.  Prior to the passing of the Act of 1937, the entry of the articles into the Twenty-Six Counties was facilitated by the administrative action of the Revenue Commissioners, acting within their general discretion, but without any statutory authority, and always on the understanding that at the earliest practicable date and the earliest convenient opportunity, the relaxations they permitted would be regularised by legislation.  Consequent upon the passing of the Control of Imports (Amendment) Act to which I have already referred, this order has now been made by the Executive Council and, as prescribed by the Act, comes before both Houses of the Oireachtas for their approval.</P>
+    </Speaker>
+    <P>Under the order, articles of the following descriptions are exempted from the operation of certain quota orders which are set out in the First Schedule: samples or models, stage clothes and properties, scientific medical and surgical articles, upholstery, that is to say, materials brought in for upholstering or covering furniture, the manufacture of curtains, the upholstering of vehicles and binding of books, blanketing and felt, articles brought in for further manufacture and exportation, <Col N="1710" /> articles brought in for the purposes of competitions and exhibitions, articles temporarily imported, as, for instance, by people coming to the country on a visit, or a holiday, or passing through the country, articles coming in as part of passengers' luggage, gifts, wedding presents, parts and accessories for further manufacture, or coming in as parts of imported articles, articles imported for the purpose of ship building, articles which form part of the estates of persons dying abroad, articles imported into this country and passed through it for the purpose of the British Post Office and articles used in connection with or in conjunction with transatlantic air services.</P>
+    <Speaker pid="JosephJohnston" hpid="Professor Johnston Professor Johnston">
+      <NameTxt>Professor Johnston</NameTxt>
+      <P>I think this amendment order provides one with an opportunity of making a few remarks relating to the general policy, and to the particular facts mentioned in the order itself.  In the first place, I am glad to welcome this order because it seems to me to embody a certain liberalising tendency in the general policy of commercial restrictions which has been practised over a number of years.  It appears to be a using of machinery, designed originally for the purpose of restricting imports in such a way as to diminish the degrees of restriction exercised on imports, and, to that extent, I welcome it; but it raises one question of general policy, that is, the policy of quota restrictions, associated with a moderate tariff or, indeed, sometimes a tariff that is not so very moderate, or the other policy of a fairly high tariff and no quantitative restriction of any kind.</P>
+    </Speaker>
+    <P>Personally, if I had to choose between these two methods of restricting and controlling imports, I should much rather have the system of a moderately high tariff and no quantitative restrictions, rather than the system of quantitative restrictions and a low tariff, for the reason that, in the absence of quantitative restriction, the essential freedom of international commerce and the essential freedom of the consumer at home are preserved.  The consumer who is patriotic enough to prefer to support the public revenue <Col N="1711" /> rather than the native profiteer can always buy the imported article, and have the comfortable feeling that he is contributing to the public revenue in the process of doing so; but, under the system of quantitative restriction embodied in these quota limitations, he has not got that valuable option.</P>
+    <P>Another point suggests itself to me, and it is that this policy was devised in a time of peace and used as a method of furthering industrial development at home.  I am not at all satisfied that, under war conditions, we should continue to use the machinery of restricting imports, however many may have been the arguments in favour of using it in times of peace.  Surely the war situation itself creates such a condition of scarcity, abroad as well as at home, that our whole problem at present and in the immediate future will be how to get necessary imports in, rather than how to keep them out. On the face of it, it looks to me as if the war has created a situation in which we should simply scrap the whole of the machinery devised under the Control of Imports Act, 1934, instead of being content with merely modifying it.</P>
+    <P>Coming then, to some of the detailed orders, I observe with interest that perambulators, if imported as wedding presents, are allowed to escape from this quantitative limitation of imports. Personally, I have never thought of giving a perambulator as a wedding present, but I agree that it is an entirely appropriate and even desirable form of wedding gift, but when we come to the limitation on the import of phosphates, for example, we find that no provision is contained in this amending order to enable one to import phosphates as a wedding present.  That may appear absurd, but there is a relation between the fertility of our soil and the fertility of our people, and if you prejudice the fertility of our soil by restricting and making artificially dear the phosphates which are needed for improving that fertility, you indirectly diminish the numbers of our population and the fertility of our people.  I can imagine no more appropriate <Col N="1712" /> wedding present for a young farmer setting out on the greatest adventure of his life than the gift of a ton or two of first-class imported superphosphate.</P>
+    <P>That raises another question of, perhaps, more general policy.  It seems to me that the whole operation of the policy embodied in this Control of Imports Act has tended to make the requisites of agricultural production much dearer in this area than they are elsewhere and, in particular, in the Six-County area.  I have, for some time, been in the habit of receiving, by courtesy of the Minister of Agriculture in Northern Ireland, their monthly report which contains most valuable information about the prices of feeding stuffs, live stock, and so on, in that area, and that, in conjunction with the literature I receive, and which we all receive, from the Ministry of Agriculture here, enables me to effect some interesting comparisons.  In that connection, may I say that it would be desirable in the interests of all Ireland that the habit of exchanging official information between members of the Oireachtas and members of the Parliament in Northern Ireland should be encouraged and extended, and, if possible, put under official or semiofficial auspices.</P>
+    <P>I find that, owing to the unfortunate division of our country, we tend to develop the most remarkable ignorance of the facts and problems with which the different sections of the country are confronted.  One way by which we may get to know each other better and to understand each other's problems better would be by the official or semiofficial exchange of valuable documents of official information such as that report which I have just mentioned.</P>
+    <P>From this publication it appears that in August 1939&mdash;before the war situation created abnormal disturbances&mdash; the price of maize meal in Northern Ireland was 6/6 per cwt. and it appears from our own official publication that the price of maize meal in our region of the country was at the same date 8/6.</P>
+    <Col N="1713" />
+    <Speaker pid="JohnCounihan" hpid="Mr. Counihan Mr. Counihan">
+      <NameTxt>Mr. Counihan</NameTxt>
+      <P>That was the admixture.</P>
+    </Speaker>
+    <Speaker pid="JosephJohnston" hpid="Professor Johnston Professor Johnston">
+      <NameTxt>Professor Johnston</NameTxt>
+      <P>At all events, the prices we had to pay for feeding stuffs of all kinds were higher than the prices our competitors were paying in Northern Ireland.  That seems to imply an attitude of public policy in which we prefer the interests of 1,000 people manufacturing artificial manures or the interests of another 1,000 people manufacturing Indian meal to the interests of 600,000 engaged in our principal economic activity, agriculture.  In my view, it is more important that 600,000 agricultural producers should be enabled to produce and prosper than that the number of people manufacturing artificial manures should be 1,000 instead of 889.  These are the only points I should like to raise, but I consider them important and believe they should receive the attention of the Government.</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>Might I ask the Minister to be a little more illuminating as to what the purpose of the order is, as it appears very technical?  Evidently, he takes power to exempt from duty a number of articles for a number of State purposes.  I fail to see how it is that that statutory power does not exist already, or, if it does not, why he cannot take it in a more general form.  The Government appears to be a complete dictator in the matter of these duties, they may put them on where they like and in any way they like.  Why cannot they take general power to exempt these articles at their discretion?</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>It seems to me that this is the one quota order in which they are taking general power rather than specifically dealing with each item.  I think I am correct in saying that tariffs are not affected.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That is so; it only relates to quota restrictions.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>It relates to articles imported under quota licence, and now it will be possible to import the particular articles mentioned here without a quota licence for them, if they come within these particular <Col N="1714" /> categories.  The categories themselves puzzle me and somewhat amuse me.  I wonder why certain things are left out in some cases and included in others. I know that silk stockings can be brought in if they are the property of a deceased person, and so can brooms, but not handles.  I find that the inner tubes for motor cars can be imported if they are scientific or medical articles. My imagination is not good enough to picture the inner tube of a motor car which will prove to be a surgical article, though it may be temporarily used for that purpose.  How you are going to prove that your inner motorcar tube may be used for tying up a wound at a later date is beyond me. Generally, I should say that it is very much better that these small things be exempt, although I do not at all agree with Senator Johnston that it is in the public interest, if you cannot choose between the two, to have high tariffs and no quota restrictions rather than low tariffs and quantitative restrictions. I believe the State has far more control with low tariffs.  The use of the quota gives adequate protection to Irish industry, but it does not allow Irish manufacturers to put the price too high, as the Government has power immediately to increase the quota, and that will prove, I need hardly say, an extremely effective check.  I do not agree with Senator Johnston that, because it is wartime, one should immediately remove such quota restrictions as were devised before the war, in order to encourage industry here and keep the present industries going.  I would have said the opposite&mdash;if there were no war some of the restrictions might be due for revision, but it would be extremely dangerous during the present situation to add to the difficult position of many industries.  If the supply is short and Irish manufacturers are unable to supply, the Government has full powers under the quota system.  They can simply increase the quantities admitted, assuming that they can be obtained.  I believe that has occurred in some cases.  To simply scrap the scheme without some consideration would be disastrous.  I support the motion.</P>
+    </Speaker>
+    <Col N="1715" />
+    <Speaker pid="DominickMacCabe" hpid="Mr. MacCabe Mr. MacCabe">
+      <NameTxt>Mr. MacCabe</NameTxt>
+      <P>I agree with some of the remarks made by Senator Johnston and especially those with reference to the restrictions on artificial manures and seeds imported.  The farmers are well aware that last spring there was not a sufficient quantity of artificial manure.  While admitting that the Government did its best to get sufficient supplies, I know there were people in the country who could not get sufficient in view of the extra tillage.  Year after year there is an inclination on the part of our farmers to import Scotch oats as a change of seed and, from my knowledge of it, it is well worth the trouble to get a change of seed.  There should be no restriction on the importation of Scotch seed oats and there should be no tariffs on oats or manures.  The same might apply to flax seed, which is a crop grown very much in the North of Ireland.  The Government should seriously consider the advisability of placing no restrictions on the importation of flax seed.  I would go as far as Senator Johnston in saying that anything which may promote the agricultural industry should not be subject to restrictions in the way of tariffs and quotas.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Perhaps I have left the House under some misapprehension as to what exactly we are doing by this quota order and what we propose to do.  We are dealing merely with isolated and peculiar cases of articles which were caught unintentionally by the original quota legislation.  The Act for setting up the machinery for the enforcement of quantitative restriction on our imports was passed in 1934.  It was subsequently discovered that no provision had been included in that Act which would enable us to deal with articles coming within the categories which I have put before the House. In order that undue inconvenience might not be occasioned to our residents and visitors, the Revenue Commissioners by administrative action dealt with these things in a commonsense way.  The Commissioners take a very rigid view of their responsibilities in this matter, and insisted that at an early date amending legislation should <Col N="1716" /> be passed to enable them to exempt from the quota restrictions articles which were brought in in certain special circumstances, in circumstances in which it would be unreasonable to ask an importer to get a licence to import an article before it could be brought into the country.  What this order does in fact is to say that when certain articles are brought in in certain circumstances, a licence will not be necessary and they will not be taken as forming part of the general import quota which has been made in respect of these articles.</P>
+      <P>I do not pretend to be in a position to deal with every one of these exemptions in detail.  I can only say that, in their wisdom, the Revenue Commissioners have thought it desirable to seek power to exempt from the quota restriction, certain of these articles in certain cases and that in determining which particular exemption should be inserted in each particular quota, two general principles were followed.  The first is that the exemption should be inserted unless there is positive reason why it should not be&mdash;for instance, serious danger that the exemption would be abused and the objects behind the quota order defeated.  The second is that where an article had been exempted expressly from some general duty of customs, logically it should also be exempted from the general quota restriction.  On that basis, the schedule which forms the operative part of this order has been drawn up.</P>
+      <P>In relation to the one or two articles to which reference has been made by Senator Johnston and also by Senator Douglas, I would point out, for example in the case of pneumatic tyres and tubes imported for medical or surgical purposes, or surgical tables or chairs, that chairs for invalids are often equipped with pneumatic tyres and accordingly as pneumatic tyres and tubes are covered by quota restrictions, it is desirable that they should be exempted.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>May I draw the Minister's attention to the fact that this <Col N="1717" /> refers to tyres and tubes for mechanically propelled vehicles?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>That may be but has the Senator never seen an invalid carriage mechanically propelled?</P>
+    </Speaker>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>Might I suggest that it is hard to see the relation between marble chippings and the transatlantic air service.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The position in relation to that is that we are so anxious to remove any barrier to the development of that service that we think there should be no quota restriction there at all.  However, I am sure, as I say, that the Revenue Commissioners would not ask that these exemptions should be granted unless they have had on occasion to permit the import of these articles notwithstanding the quota.  The other case made had reference to the possibility of a person receiving a quantity of phosphates as a wedding gift.  If the recipient is not too particular or too proud of his newly acquired marital state, he can take it as an ordinary gift.  If he gets a gift of fertiliser, he does not have to ask the Revenue Commissioners to assume that the presentation of a ton of superphosphates was essentially an expression of good will to a newly married couple on the occasion of their marriage.  It would be equally plausible to ask them to assume that there might be an enthusiastic gardener on the other side, who would have a friend here who was equally enthusiastic in regard to horticulture and he might on occasion wish to send him a particular brand of fertiliser as a gift.  If Senator Johnston's young bridegroom is prepared to accept the gift under these conditions, I think the Revenue Commissioners would be prepared to listen to any representations.</P>
+    </Speaker>
+    <Speaker pid="JosephJohnston" hpid="Professor Johnston Professor Johnston">
+      <NameTxt>Professor Johnston</NameTxt>
+      <P>I shall bear that in mind but would the Minister inform the House what is the precise position at present in regard to imported manures?</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>The present position is that a very wide quota has been fixed and, in fact, for all practical purposes there is no real restriction on <Col N="1718" /> import.  We will take fertilisers wherever and whenever we can get them. I would have thought that if there was any point to be raised on this order, it would be related to the fact that somehow or other perambulators have been associated with the transatlantic air service.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Public Business. - Control of Imports (Quota" RHead="No. 13) (Amendment) Order, 1940&mdash;Motion">
+    <Title>Public Business. - Control of Imports (Quota No. 13) (Amendment) Order, 1940&mdash;Motion.</Title>
+    <Speaker pid="WilliamQuirke" hpid="Mr. Quirke Mr. Quirke">
+      <NameTxt>Mr. Quirke</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That Seanad Eireann hereby approves of Control of Imports (Quota No. 13) (Amendment) Order, 1940.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Under Quota Order No. 13, cloths which do not exceed 2/- per square yard in value are exempt from quota restrictions.  The motion which is now before the House proposes to raise the exemption level from 2/- to 3/6 per square yard so that cloths which do not exceed 3/6 per square yard can come in without quota restriction.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>I may say that I know something about this matter, and this is a motion which is absolutely necessary.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Matter Raised on Motion for the" RHead="Adjournment. - War Risk Insurance in Éire">
+    <Title>Matter Raised on Motion for the Adjournment. - War Risk Insurance in Éire.</Title>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>In moving the adjournment of the House, I should like to draw the attention of the Government, through the Minister who is present, to the need for an early consideration of the possibility of providing some type of war-risk insurance in this country.  We are aware that An Taoiseach and others have warned us that we are within what he calls the war zone and that we cannot ignore the possibility of certain danger.  I do not want anything that I should say to exaggerate in any way that danger or to add to any uneasiness, but the dangers of the moment are further emphasised by the action taken in the Dáil last night which I think everybody in this House will thoroughly <Col N="1719" /> approve and which we all hope will meet with the greatest possible success. That action shows the need for our standing together in every possible way at the present time.  Now, it seems to me that if people are going to stand together, and if it should be necessary to take action and to take risks, they will do so with very much more confidence if some provision has been made by which property losses will be shared all round.  That, to my mind, can only be done satisfactorily through some system of war-risk insurance.  It also seems to me that at the present time it is extremely important that every person should carry on normally as far as possible, and that there should be no restriction of trade, business, or anything else, just because we have been warned that there may conceivably be a certain amount of danger.  Already, it has come to my notice that certain persons, who have fairly considerable stocks and who have to carry considerable stocks as part of their business, are restricting buying because they feel that the personal risk of carrying stocks is too great.  I suggest that, if you are going to maintain employment, and if you are going to maintain business during the period in which we may be subject to a possible risk, the maintenance of that employment and that business will be greatly facilitated by providing some method whereby persons, firms, or businesses can insure their stocks.</P>
+    </Speaker>
+    <P>I do not know what the exact position is in England, but I think it is the same as in the Six Counties, and in the Six Counties a business with which I have intimate knowledge is able to insure its stocks, which are very considerable&mdash;in fact, it is compulsory to insure&mdash;and the rate since the beginning of the war, or at any rate since one month afterwards, has been 5/- per cent. per month.  As far as I know, a scheme has been worked out in Great Britain also.  I do not think that that covers private houses, and I do not know what the position is with regard to farms, but I am very strongly of the opinion that the Government should give this matter very careful consideration.  To my mind, it is very <Col N="1720" /> important in the case of industries, factories, warehouses, shops and all types of businesses that employ a fair number of people and where substantial stocks have to be carried.  Should the worst happen here&mdash;which we all hope and pray will not be the case&mdash; and a certain amount of damage be done, it would be done, judging by, say, the case of Finland, in a relatively small portion of the total area of the country, but it might be absolutely vital in maintaining the national spirit of the people that they should feel that the losses would be unquestionably shared by everybody, including those who were more fortunate.</P>
+    <P>In addition to that, I know that there is a certain amount of uneasiness, due to the fact that a very large number of our shop-keepers, factory-owners and businessmen generally&mdash; and, I think, farmers also &mdash; have to borrow from banks from time to time against the security of their business, in which case, very often, their greatest asset is the amount of stocks they deal with, and if such firms or companies found that substantial destruction took place, they would be placed in the position that they could not carry on at all and, possibly, could not go to their banks for any further accommodation; whereas, in normal circumstances, if the same property had been destroyed by, let us say, fire, and had been insured in the ordinary course, as soon as the banks were satisfied that the matter of insurance was in order, the banks would be quite willing to facilitate the owner of the property concerned by giving him a loan to enable him to start his business again as soon as possible.  As a rule, if things are found to be in order, the banks are very ready to facilitate persons in that way.</P>
+    <P>For these and many other reasons that I could give, I believe that, as part and parcel of the steps that should be taken in connection with what we may call the crisis, which we are told is now before us&mdash;although I think that that crisis has been in existence for a much longer time than some of us seem to realise&mdash;I think that there should be some provision made <Col N="1721" /> for war-risk insurance.  I am not putting this matter forward in any critical or Party sense, but I am putting it forward as a matter to which I think the Government should give careful attention. I have been informed by the manager of one leading insurance company that such a matter could not be considered by ordinary insurance companies, and that any such scheme would have to be arranged in conjunction with the State, as, I believe, is the case in Great Britain.  I am bringing forward this matter to-day because I know that it is agitating the minds of a large number of people, many of whom have spoken to me, and because I believe that it is a matter that should be taken into consideration as soon as possible.</P>
+    <Speaker pid="JohnKeaneBart" hpid="Sir John Keane Sir John Keane">
+      <NameTxt>Sir John Keane</NameTxt>
+      <P>I should like to support Senator Douglas on the general principle that this is a matter that ought to be considered.  I do not see much difficulty in being able to go as far as they have gone on the other side in connection with the insurance of stocks, but when you come to the question of insurance on private houses, it is a different matter.  I understand, that, on the other side, they say that they cannot deal with such a matter: that it is a question of waiting until the war is over in order to be able to assess what damage has been done.  Apart from that, however, I think that the Government should examine this matter and go into it at the earliest possible opportunity.</P>
+    </Speaker>
+    <Speaker pid="DesmondFitzgerald" hpid="Mr. Fitzgerald Mr. Fitzgerald">
+      <NameTxt>Mr. Fitzgerald</NameTxt>
+      <P>I understand that what is being put forward in this motion is merely a proposal that the Government should consider this matter.  Personally, I should not like the Minister to make any statement now, either committing the Government to this proposal or rejecting it. I agree that it is a matter for consideration. Now, I am not quite sure what will be the functions of this new council or committee that has been formed, as was announced last night, but I think that, as this is a matter arising out of war conditions, it might be something that they would have to consider.  From that point of view, I <Col N="1722" /> hope that the Minister will not either bless or damage the proposal that is made here, and that he will not go further than an undertaking to consider it.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>May I be permitted to point out that that was my only intention in making this proposal?  I only wanted the Minister, or his Government, to consider the matter, but wanted to point out that the matter was urgent.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Minister for Industry and Commerce (Mr. MacEntee) Minister for Industry and Commerce (Mr. MacEntee)">
+      <NameTxt>Minister for Industry and Commerce (Mr. MacEntee)</NameTxt>
+      <P>Naturally, since the matter has been raised in the House, I promise to give consideration to this matter&mdash;not for the first time because, as a matter of fact, we did look into the question on the outbreak of the war, but we then came to the conclusion that the matter, as Senator Sir John Keane has mentioned, was one of very great difficulty.  I do not know to what extent it would be possible for us to grant insurance in respect of all classes of property.  Naturally, people who have no property might say: &ldquo;You had better insure us with regard to our lives first, before you begin to think of property.&rdquo;  When you begin to consider how far that idea might be applied&mdash;the idea of sharing our losses&mdash;and what limitations might be put upon that, I think you will find that it is not at all a simple matter. I suppose one may start from the assumption that if people have stocks in the country, or if they import stocks into the country, they import them primarily for their own advantage and hope to make an honest profit on the sale of these stocks.  If they do not happen to have the stocks on hands, and if an opportunity should arise to dispose of such stocks, at a time when they have not got them, then they would lose a profit.  Naturally, the incentive to make a profit is the cause of importing or carrying these stocks. However, there is another point of view, and that is that the importation of these stocks may be for the good of the community as a whole, ultimately, and it is rather from that point of view that I should like to approach the matter: that is, in order to ensure that <Col N="1723" /> no undue impediment or discouragement might prevent the due replenishment of our stocks, and that any such undue impediment should be removed. I should rather approach the matter from that point of view than from the point of view of distributing losses in respect of property over the whole community.  As I said, this matter has been raised before, but since it has <Col N="1724" /> become, perhaps, more urgent than the case appeared to be eight months ago, I shall look into it again.</P>
+    </Speaker>
+    <Speaker pid="JamesDouglas" hpid="Mr. Douglas Mr. Douglas">
+      <NameTxt>Mr. Douglas</NameTxt>
+      <P>Perhaps I might be permitted to say, that, in this connection, I was advocating entirely a contributory scheme, and nothing else.</P>
+      <P>The Seanad adjourned at 4.40 p.m. until Wednesday, 5th June.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

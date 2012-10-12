@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="6" Month="Jun" Year="1996" Vol="147" No="13" DateIrish="Déardaoin, 6 Meitheamh 1996" DateEnglish="Thursday, 6 June 1996" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1529" /> Chuaigh an Cathaoirleach i gceannas ar 10.30 a.m.</P>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>I have notice from Senator Enright that, on the motion for the Adjournment of the House today, he proposes to raise the following matter:</P>
+      <P>The need for the Minister for Education to review the regulations under the Sports Capital Programme whereby swimming pools are specifically excluded under section 1.1 of the Sports Capital Programme, in view of the fact that swimming pools are most important for recreation; and if she will consider funding for new pools and the maintenance of existing pools under this scheme.</P>
+      <P>I have also received notice from Senator Cosgrave of the following matter:</P>
+      <P>The need for the Minister for Enterprise and Employment to outline his attitude to the recent Consumer Association of Ireland survey into the country's 13 biggest mortgage lenders.</P>
+      <P>I regard these matters as suitable for discussion on the Adjournment and they will be taken at the conclusion of business.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Col N="1530" />
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>Today's Order of Business is items 1,2 and 3.  Item 1 will be taken until 1 p.m.  There will be a sos from 1 p.m. to 2 p.m. and item 2 will be taken from 2 p.m. to 3 p.m. with, by agreement, ten minutes per speaker. Item 3 will begin at 3 p.m. and will conclude not later than midnight.</P>
+    </Speaker>
+    <Speaker pid="GVWright" hpid="Mr. Wright Mr. Wright">
+      <NameTxt>Mr. Wright</NameTxt>
+      <P>With regard to item 1, I am informed by our spokesperson that the Minister may accept most of the amendments put forward.  The Bill may, therefore, be dealt with more quickly than might have been anticipated.  The Leader may wish to consider bringing forward item 2, although that may not suit him if Ministers are organised for attendance.</P>
+      <P>What are the Leader's intentions with regard to the extensive legislative programme he announced recently?  Does he envisage extra sittings to ensure the programme is dealt with, as we all wish?</P>
+    </Speaker>
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>I am delighted the Leader has made time available to ensure the Committee Stage of the Refugee Bill, 1996, is completed this week.</P>
+      <P>Last week I referred to disinformation with regard to consumer items. The tobacco company, Philip Morris, has taken full page advertisements in some British and Irish newspapers informing people that passive smoking is no more dangerous than eating a biscuit a day.  It is important that people get true information.  The House should congratulate the chief executives of Irish health boards who made it clear today that people should not take information from a tobacco company which is contrary to what they are informed by health boards, cancer societies and all other acknowledged experts.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Has the Senator a question on today's Order of Business?</P>
+    </Speaker>
+    <Col N="1531" />
+    <Speaker pid="JoeOToole" hpid="Mr. O'Toole Mr. O'Toole">
+      <NameTxt>Mr. O'Toole</NameTxt>
+      <P>Given the tobacco industry is pouring huge amounts of money into what they call &ldquo;the no danger of other people's smoke&rdquo;, we need to ensure debate on the matter. People are being misled and we should be fully informed.  I am sure the Minister for Health would appreciate the opportunity to come to the House to outline the Government's position and that of all the professionals.  We are at a point where tobacco companies are telling people to ignore their doctors and that is dangerous when we are trying to make people health conscious.</P>
+    </Speaker>
+    <Speaker pid="JohnDardis" hpid="Mr. Dardis Mr. Dardis">
+      <NameTxt>Mr. Dardis</NameTxt>
+      <P>With regard to item 2, the Civil Service Regulation (Amendment) Bill, 1996, the Leader has indicated a time limit of one hour with ten minutes per speaker.  If the Minister takes 20 minutes that will leave little time for others.  It is a straightforward item of legislation; but in the event that the normal rota applies, some of those who wish to speak on it would not have a chance to do so.  Senator Honan is anxious to speak on the Bill.  Can the Leader accommodate us in that regard?</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>Is the Leader of the House aware of the serious problem that has arisen in County Clare in the oversupply of milk to the co-operative which has led to fines being imposed on milk producers &mdash; mainly small milk producers in the most disadvantaged areas of the county?</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>There are more appropriate ways of raising that issue.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>Will the Leader draw the attention of the Minister for Agriculture, Food and Forestry to the matter because it is creating serious hardship for farmers, especially the smaller farmers? Some of them face bills of up to £10,000 for the oversupply of milk. Many of them will not receive premium cheques for this summer.  Perhaps the Minister would indicate if he will deal with this matter at European level in the same manner in which he dealt with the <Col N="1532" /> beef fines so as to alleviate the hardship caused to over 500 farmers.</P>
+    </Speaker>
+    <Speaker pid="WillieFarrell" hpid="Mr. Farrell Mr. Farrell">
+      <NameTxt>Mr. Farrell</NameTxt>
+      <P>I support Senator Daly because this is a country wide problem. Those who are subject to it took the advice of experts in the Department of Agriculture, Food and Forestry and increased their stocks and production in order to be economic.  As a result of doing what they were told to do by my great friends, the experts, many farmers may go out of business.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>As I pointed out to Senator Daly, there are other ways of raising this matter.</P>
+    </Speaker>
+    <Speaker pid="WillieFarrell" hpid="Mr. Farrell Mr. Farrell">
+      <NameTxt>Mr. Farrell</NameTxt>
+      <P>I know that, but it is a serious matter and this is the only place we can raise it.  We will not have a chance to discuss it unless the Minister comes here, which I believe he should. Where are experts driving this country? One day they tell us to do something, the next day we are in a crisis and they deny they ever gave us advice; but we know that they did.  They have driven the farmers mad and will put them out of house and home.</P>
+    </Speaker>
+    <Speaker pid="JoeSherlock" hpid="Mr. Sherlock Mr. Sherlock">
+      <NameTxt>Mr. Sherlock</NameTxt>
+      <P>The Senator is being misled.</P>
+    </Speaker>
+    <Speaker pid="WillieFarrell" hpid="Mr. Farrell Mr. Farrell">
+      <NameTxt>Mr. Farrell</NameTxt>
+      <P>Some experts will lock the door and walk out after the farmers.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I agree with the compliment paid by the Leader of the Opposition to the Minister of State, Deputy Gilmore, who has been open minded in taking on suggestions from all sides of the House.  I do not think it will be possible to reschedule this morning's business but I thank the Senator for his help in the matter.  As to future business, I envisage we will be sitting on three days most weeks from now until the end of this session.  Next week's arrangements have yet to be confirmed but I hope we will have a debate on the Forfás report, as requested by a number of Members. As I mentioned yesterday the An Bord Bia Bill will be a Seanad Bill and I hope <Col N="1533" /> to take it next week, which will allow many concerns raised this morning to be aired.  I also hope to complete the Refugee Bill on Tuesday and to take Second Stage of the Health (Amendment) Bill. There is a heavy programme of legislation, which is why I expect we will sit three days per week from now.  I will give a fuller list of legislation to the House early next week.</P>
+      <P>Senator O'Toole mentioned misinformation and conflicting claims made in highly financed campaigns.  If the Senator could devise a formula of words whereby we could have a debate on the matter, I would be more than happy to make an hour available in the next few weeks.  It is an important issue and I thank him for bringing it to the attention of the House.</P>
+      <P>Senator Dardis raised Item 2 on today's Order Paper.  Senator Honan will be heard and we will be flexible &mdash; there is no way that she would not have a chance to make her contribution.  I suggest to Senator Daly that the best way to raise his issue is on the Adjournment or on the An Bord Bia Bill next week.</P>
+      <P>Order of Business agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Dumping at Sea Bill, 1995:" RHead="Report and Final Stages">
+    <Title>Dumping at Sea Bill, 1995: Report and Final Stages.</Title>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Before we commence I remind Senators that they may speak only once on Report Stage.</P>
+      <P>Government amendment No. 1:</P>
+      <P>In page 8, between lines 22 and 23, to insert the following:</P>
+      <P>&ldquo;(c) The Minister shall, as soon as may be after the end of each year, cause to be published in <i>Iris Oifigiúil</i>, particulars of all permits granted under this section, in that year.&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="EamonGilmore" hpid="Minister of State at the Department of the Marine (Mr. Gilmore) Minister of State at the Department of the Marine (Mr. Gilmore)">
+      <NameTxt>Minister of State at the Department of the Marine (Mr. Gilmore)</NameTxt>
+      <P>On Committee Stage Senator Daly proposed an <Col N="1534" /> amendment providing for publication by the Minister of a list of permits in at least one national newspaper each year. I have examined his proposal and, as I indicated on that stage, I am satisfied that members of the public have open access to particulars of permits.  Under section 5 (9) of the Bill, the Minister must keep a register of particulars of all dumping at sea permits and this register must be kept open for inspection by the public free of charge.  It is also normal practice for my Department to forward copies of permits to members of the public on request.  Notwithstanding that, I appreciate Senator Daly's concerns that details of permits should be made available to as wide an interested public as possible.  For that reason I consider it appropriate to make provision in the Bill for publishing of the details of permits in <i>Irish Oifigiúil.</i>  I recommend this amendment to the House.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>I thank the Minister of State for the positive response he has shown in moving this worthwhile amendment.  I would have preferred to see my proposal, that it be published in the national newspapers, being enacted; but this is an improvement to the Bill and in so far as the Minister has gone some way towards meeting my request, I welcome it.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>I compliment the Minister, Deputy Gilmore, for introducing this amendment.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>The Senator opposed it on Committee Stage.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>I did not.  I opposed the undue expense.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>The Senator should read the record to see what she said.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>The Minister said he would consider the possibility of rural publication, with which we all agreed.</P>
+    </Speaker>
+    <Col N="1535" />
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>She is trying to get in on the act now but it is a waste of time.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>This is indicative of the transparency and openness with which the Minister operates in the Department of the Marine, unlike previous Ministers with that portfolio who had tunnel vision.  When constructive or even not particularly constructive proposals have been made, at least this Minister and his officials are prepared to examine them with an open mind and to accommodate them if possible.  That is commendable in the political arena and Oireachtas debate and I hope it will be adhered to in the years ahead.  I thank the Minister for this approach and I hope Senator Daly and his party open their minds in a similar fashion.</P>
+      <P>Amendment agreed to.</P>
+      <P>Government amendment No. 2:</P>
+      <P>In page 8, to delete lines 35 to 38, and substitute the following:</P>
+      <P>&ldquo;(b)  The Minister may, in relation to the fisheries regions created under section 10 of the Fisheries Act, 1980, appoint an officer of the Central Fisheries Board established by the said Act, to be an authorised officer.</P>
+      <P>(c)  The Minister may, in relation to a fisheries region created under the said section 10, appoint an officer of a regional fisheries board (within the meaning of that section) established in respect of that fisheries region, to be an authorised officer.</P>
+      <P>(d)  An authorised officer appointed under paragraph (a), (b) or (c) of this subsection shall, in the discharge of his functions under this section, have regard to such considerations of policy as the Minister may direct.&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="EamonGilmore" hpid="Mr. Gilmore Mr. Gilmore">
+      <NameTxt>Mr. Gilmore</NameTxt>
+      <P>On Committee Stage Senator Daly proposed an amendment providing for the appointment of <Col N="1536" /> officers of the central and regional fisheries boards as authorised officers for the purposes of the Fisheries Act, 1980. I had some reservations about this amendment because that Act, which established the boards, provides that their jurisdiction in relation to management and protection of fisheries should extend out to 12 miles only.  The Bill before the House extends our jurisdiction on the regulation of dumping at sea to 200 miles and to 350 miles in some cases.  I also took the view that the Bill as it stands provides for the appointment of a wide range of technical and scientific experts as authorised officers, including fisheries experts from the Marine Institute.</P>
+      <P>However, I accept the point made by Senator Daly and Senator Fitzgerald that in some cases members of the regional fisheries board would be best placed to enforce the provisions of the Bill in respect of their region.  The amendments I now propose, which have been drafted by the Office of the Attorney General, provide for appointment by the Minister of officers of the central and regional fisheries boards as authorised officers for the purpose of the Bill.  Their authority for enforcement of the Bill will be in respect of their region only.</P>
+      <P>The Bill as it stands requires that officers of the Marine Institute who are appointed as authorised officers must have regard to such considerations of policy as the Minister may direct.  The amendment to section 6 (c), which I now propose on the advice of the Attorney General, is being extended to include officials of the central and regional fisheries boards who are appointed as authorised officers.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>I welcome this amendment also and compliment the Minister of State for being so straightforward in doing what we suggested was important on the last occasion.  This side of the House felt that the people who were to the forefront in fighting pollution and illegal fishing activities were the officers of the regional fisheries boards, under <Col N="1537" /> the direction of the Central Fisheries Board.  In so far as this amendment goes, it is welcome and I thank the Minister for making these changes.</P>
+      <P>As I said on earlier stages of this Bill, the most important aspect of this legislation will be its enforcement, so we must ensure the resources and staffing are provided to deal with the matter. The Minister of State is aware that, despite legislation being in place for a number of years, there is an ongoing problem with the dumping of refuse, particularly at sea.  One only has to look at the beaches.  The Minister had an opportunity to look at the situation in Kilkee when he was there over the weekend.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>Do not mention the beaches.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>Senator Daly, without interruption.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>In spite of the interruptions he was getting from Senator Taylor-Quinn who tried to&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>We will allow you to settle that Clare dispute in Clare.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>We will not settle it here.</P>
+      <P>The Minister is aware that an amount of refuse is being washed ashore and it is obvious that some of it comes from fishing and other vessels.  It has been established that quite an amount of refuse from Spanish fishing vessels is surfacing on beaches in the west of Ireland. With the best will in the world, unless we have the necessary manpower and resources to deal with this problem, it will continue.</P>
+    </Speaker>
+    <P>I compliment the Minister on taking this action to direct the fisheries boards to take a special interest in the areas of the sea within their jurisdiction, especially in terms of identifying the source of the refuse so it can be tidied. Some of the coastline is disastrous because of the amount of waste and dumped material coming in on to the <Col N="1538" /> beaches.  This is not just a problem for local authorities, but also for people who frequent beaches.  One finds wine bottles, beer cans and other items which have obviously been dumped from vessels operating around the coastline. There should be a clamp down on this activity this year.  The full resources of the State should be used by both the fisheries boards and the local authorities to endeavour to enforce this new legislation.</P>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>On Committee Stage an extensive discussion took place on this matter.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>The Senator opposed this as well.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>At the time I opposed the Opposition's suggestion to extend the jurisdiction of the fisheries boards to the 300 miles included in this Bill.  I believed they had neither the manpower nor the equipment to go out into the high seas and do what this Bill required and that they had neither the personnel nor the expertise to engage in that type of activity.  I am delighted that the Minister saw the sense of it and in the course of the discussion expressed the view&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>Against the Senator's wishes.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>&mdash;&mdash;that it would not be feasible or possible to extend the responsibility of the fisheries boards into the high seas out to 300 miles.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>That was never said.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>In essence the Minister has given a broader remit to the regional fisheries boards within their own region.  It is wise to contain the regional fisheries boards within their region, as defined in the 1980 Act, because their primary responsibility is our inland waters, particularly rivers and lakes.  It is important that those are properly monitored and controlled <Col N="1539" /> because of the pollution which can occur and regularly does occur.  Much work and monitoring is required to ensure that no more discharges, pollution or fish kills occur on the rivers and lakes.  The Minister has shown an open-mindedness.</P>
+      <P>I agree with Senator Daly that there are problems, particularly in relation to Spanish trawlers and the way they have trawled our coasts and waters at various stages.  I compliment the Minister and his Department on the closer monitoring in that area and the number of boats that have been picked up.  In particular, they have managed to keep the Spanish trawlers outside the limit.  That is extremely important.  It is also important that the vigilance continues so Irish fishermen will have an opportunity of securing reasonable catches and that they are not put into a situation of confrontation with Spanish trawlers. The Minister has shown common sense and I compliment him for that.</P>
+    </Speaker>
+    <Speaker pid="TomFitzgerald" hpid="Mr. Fitzgerald Mr. Fitzgerald">
+      <NameTxt>Mr. Fitzgerald</NameTxt>
+      <P>I join with Senator Daly and Senator Taylor-Quinn in complimenting the Minister.  The acceptance of amendments and suggestions from the Opposition is good for legislation.  I have found the Minister to be very open in the time since he was appointed. When discussing Bills in this House he has always been ready to accept amendments and suggestions from this side of the House if they are good ones.  It is a pity this does not extend to more portfolios, but I will not go into that.</P>
+      <P>My point on Committee Stage was that the regional fisheries boards' officers would be travelling through these waters anyway.  If they saw anything illegal, such as the dumping of refuse, they could afford to take action.  I was not saying that these people should change over, forget the fish and go out specifically to monitor dumping at sea.</P>
+    </Speaker>
+    <P>I have one suggestion which relates to a problem we have experienced on our own doorstep.  Could we circulate the fishing boats?  I am not sure how this could be done.  We should advise skippers <Col N="1540" /> of trawlers and so on of the laws and the penalties which could be imposed on them for dumping at sea. They have refuse on board their ships and boats.  Last week in Dingle we had to take action when one of the local fishermen dumped regular refuse out of the boat into the harbour without even thinking.  A boat is like a house in terms of refuse.  When one walks along the shore, one finds more milk bottles and plastic bottles than anything else.  Most of them are coming from fishing boats. All registered fishing boats should be warned that continued dumping is coming to an end and they should be given details of the penalties that could be imposed if they do not adhere to this.</P>
+    <Speaker pid="BillCashin" hpid="Mr. Cashin Mr. Cashin">
+      <NameTxt>Mr. Cashin</NameTxt>
+      <P>I compliment the Minister. He has shown great feeling towards the sea and dumping at sea.  I commend him on giving power to the Garda to apprehend these people.  There are areas along the sea coast which the fisheries boards may not be able to reach. It is good that the Garda will be in a position to do that job.  I come from an inland town, Kanturk in north Cork.  For a number of years we had much pollution in our rivers.  Unfortunately, by the time the regional fisheries people came to our town and the district from which the pollution came, they could not trace it and therefore could not prosecute.</P>
+      <P>I agree with Senator Fitzgerald.  It would help if notice boards were placed on harbours to outline the new laws and the penalties people would suffer if they committed an offence.  It may clean things up.  I hope that we will have the resources to monitor this, as it is a large project for a small nation.  We must protect our shores from pollution if we want to develop tourism, which is relevant to the west and southwest of the country, and fish farming.  I compliment the Minister again.</P>
+    </Speaker>
+    <Speaker pid="EamonGilmore" hpid="Mr. Gilmore Mr. Gilmore">
+      <NameTxt>Mr. Gilmore</NameTxt>
+      <P>I thank Senators for their complimentary and supportive remarks.  Senator Taylor-Quinn is right. On Committee Stage my concerns were <Col N="1541" /> that the inclusion of the officers of regional fisheries boards and the Central Fisheries Board as then proposed could result in their powers being extended past the 12 mile limit and their own regions.  My amendment, which is in response to the one proposed by Senator Daly and Senator Fitzgerald on Committee Stage, proposes to confine the powers of officers within the 12 mile limit, their own regions and the policy guidelines set down by the Minister. They will be in line with the other officers who are to be appointed for the purposes of this Bill.</P>
+      <P>With regard to the enforcement of the Bill, there is the option to appoint officers of the Minister, the Marine Institute, the Garda Síochána, the Defence Forces, the Radiological Protection Institute, harbour authorities, regional fisheries boards and the Central Fisheries Board as enforcement officers.  There is a wide range of people who may be appointed as authorised officers to monitor and enforce dumping at sea legislation.  They will work in close harmony with the measures now in place for the surveillance of our sea fisheries.  These measures are extensive and sophisticated and involve the Air Corps, the Navy and fisheries officers. All these will co-operate to ensure this legislation is enforced.</P>
+      <P>Senator Fitzgerald and Senator Cashin suggested that information or notices should be made available about not just this Bill but the range of marine environment legislation and regulations now in place.  This suggestion is worthwhile and I will consider the possibility of putting together a layman's guide in this area.  The MARPOL Convention probably does not confer a great deal of immediate sense and it would perhaps be useful to prepare a guide since we now have in place a large body of legislation and regulations governing the protection of the marine environment.  I would be happy to consider this suggestion.</P>
+    </Speaker>
+    <P>The issue of beaches was raised.  Pollution of beaches and their standards is <Col N="1542" /> a matter for the Minister for the Environment and the local authorities, which are under his remit.  My responsibility relates only to pollution which comes from the seaward side.  I am sure Senators will agree that a great deal of the pollution which appears on our beaches does not come from the seaward side but from dumping and landbased sources.  The Minister for the Environment and local authorities are actively addressing this matter.</P>
+    <P>With regard to officers of fisheries boards, I made the point on Committee Stage and I will repeat it now, given that the summer season is finally with us, that I do not envisage officers of regional fisheries boards being dispatched out to sea to enforce this legislation. We already have in place, between officers of the Department, the Marine Institute and the Naval Service, quite an amount of resources to address this area.</P>
+    <P>There is a serious problem about which we have, unfortunately, heard some evidence.  Senator Cashin referred to pollution of rivers.  Every summer we see evidence of pollution in rivers and lakes in the form of fish kills.  Some of these are due to low water levels and seasonal conditions which arise.  I envisage that officers of regional boards will concentrate their attention on pollution in rivers and lakes.  Boards have my full support in applying the full rigours of water pollution and fisheries legislation to identify and pursue polluters of rivers and lakes.  The negligence and irresponsibility which give rise to pollution and damage to fish life and which occur too often cannot continue.  Throughout the summer officers of regional boards, the Central Fisheries Board and local authorities will be extremely vigilant in identifying sources of pollution and polluters and applying the full rigours of the law to them.  People who think they can get away with letting substances, whether from land or industrial activity, into our rivers and lakes to damage fish life and water quality must think again.  The central and regional fisheries boards, the Department of the Environment &mdash; its <Col N="1543" /> Minister has a keen interest in this area &mdash; and local authorities will be extremely vigilant this summer in ensuring that pollution of rivers and lakes is kept to a minimum.</P>
+    <Speaker pid="TomFitzgerald" hpid="Mr. Fitzgerald Mr. Fitzgerald">
+      <NameTxt>Mr. Fitzgerald</NameTxt>
+      <P>I have a brief question.</P>
+    </Speaker>
+    <Speaker pid="SeanFallon" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>You have already spoken on this Stage.  You can make a point on Fifth Stage.</P>
+      <P>Amendment agreed to.</P>
+      <P>Bill reported with amendment and received for final consideration.</P>
+      <P>Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="TomFitzgerald" hpid="Mr. Fitzgerald Mr. Fitzgerald">
+      <NameTxt>Mr. Fitzgerald</NameTxt>
+      <P>We spoke about jurisdiction in our 12 mile limit.  What officers will have jurisdiction outside this limit to monitor compliance with the Bill?  The Garda only has jurisdiction within this limit.  How will compliance be monitored?</P>
+      <P>I compliment the Minister on the way he listened to all sides of the argument in bringing this Bill to fruition.  He said that much of the pollution on our beaches comes from the seaward side. However, while Clare can look after itself, we in Kerry were disappointed to lose blue flags this year in spite of the fact that more sewage treatment plants have gone into operation in the county during the past year.  They should prevent pollution and provide a high water quality.  Despite all our efforts and the legislation we are passing we seem to be getting nowhere, although Clare is worse off.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>We can speak for ourselves.</P>
+    </Speaker>
+    <Speaker pid="TomFitzgerald" hpid="Mr. Fitzgerald Mr. Fitzgerald">
+      <NameTxt>Mr. Fitzgerald</NameTxt>
+      <P>In spite of all that, we are getting fewer blue flags this year than last.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>I thank the Minister of State for the changes he has made in the <Col N="1544" /> Bill, which will improve it.  It was not our intention that the Minister of State should dispatch anybody to any particular location.  Far be it from us to distract conservation staff from their important pollution control work.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>The Senator should have put it on the record on Committee Stage.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>Nevertheless, the Minister of State must be aware that there is quite an amount of refuse coming in from the sea.  If he comes to the west Clare coast on any weekend he would see many indications of discarded refuse from Spanish and other foreign vessels operating off the west coast.  He would see an amount of wine and brandy bottles along the coast, although they are all empty.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>They would not be discarded for long if it were otherwise.</P>
+    </Speaker>
+    <Speaker pid="BrendanDaly" hpid="Mr. Daly Mr. Daly">
+      <NameTxt>Mr. Daly</NameTxt>
+      <P>That is an indication that quite a sizeable amount of refuse comes from the sea, although it is fair to say that refuse also comes the land side.  We must make every effort to control that.</P>
+      <P>Does the Protocol finish now and is it possible through further amendments to the convention to build some type of fund into that to allow us to draw down some support to deal with these problems?</P>
+      <P>I support the Minister's strong message that illegal or careless activity causing indiscriminate destruction of fish stocks will be opposed.  We fully support him in his efforts to clamp down on any type of illegal activity that puts such valuable stocks at risk.</P>
+    </Speaker>
+    <Speaker pid="MadeleineTaylorQuinn" hpid="Mrs. Taylor-Quinn Mrs. Taylor-Quinn">
+      <NameTxt>Mrs. Taylor-Quinn</NameTxt>
+      <P>I join with my colleagues in thanking the Minister for bringing this legislation before the House.  It is progressive and constructive in relation to our sea environment and I hope it will be put into effect fully in the years ahead.  I endorse the Minister's comments on pollution that has <Col N="1545" /> the potential to occur during the summer season.  I am delighted the Minister has forewarned any parties with such notions that the full force of the law will be used against them.</P>
+      <P>We talk about farmers and industrialists causing pollution but they have been taken to court by local authorities who are themselves the most serious offenders.  The Government is making progress with a sewage treatment programme and the quicker it can move on with that the better.  Balance is required in viewing the overall situation.  The Minister has shown an openness and foresight that is welcome in the political arena.  I hope it will last for a long time.</P>
+    </Speaker>
+    <Speaker pid="BillCashin" hpid="Mr. Cashin Mr. Cashin">
+      <NameTxt>Mr. Cashin</NameTxt>
+      <P>I commend the Minister on this Bill.  I thank him for taking suggestions from the floor of the House and for accommodating us.</P>
+      <P>As regards refuse on our shores, I made inquiries concerning Castle-townberehaven, where as many as 27 boats can be tied up at a given time.  My source was not sure if there was a skip on the harbour to take refuse from the boats.  I suggest that something similar to household bins should be compulsory on boats.  In that way they could easily discharge waste into a container on the pier.  Given human frailty, there is a tendency to go five miles out and dump it overboard; but it is then washed back onto our shores.</P>
+    </Speaker>
+    <Speaker pid="EamonGilmore" hpid="Minister of State at the Department of the Marine (Mr. Gilmore) Minister of State at the Department of the Marine (Mr. Gilmore)">
+      <NameTxt>Minister of State at the Department of the Marine (Mr. Gilmore)</NameTxt>
+      <P>I thank Senators for their co-operation in getting this Bill passed.  It is an important piece of legislation because we are banning sea dumping of all harmful materials like noxious and poisonous waste, radioactive substances and munitions.  The ban covers all materials, including those that have in some cases, unfortunately, been dumped at sea in the past.  While in years past people did not know the difference, now it will no longer be possible to dump such materials in our seas.</P>
+    </Speaker>
+    <P>We are also extending the jurisdiction of the State out from the 12 mile limit <Col N="1546" /> to 200 and 350 miles from our coasts. We will thus have much greater control over the maritime environment than has been the case.</P>
+    <P>Third, we are enabling this country to ratify the OSPAR Convention governing pollution at sea in the areas around the north east Atlantic.  It is an important piece of legislation to protect our seas, to make sure they are not used as a dumping ground and that they are kept safe and clean for people and for future generations.</P>
+    <P>I wish to respond to a number of specific questions raised by Senators.  As regards the officers who will be authorised to enforce this legislation, with the exception of fishery board officers who will be confined to their own 12-mile limit regions, all other authorised officers will have power to enforce this legislation to the extent of our maritime area.</P>
+    <P>A pollution fund was suggested and there is already an oil pollution fund which can be extended to include other substances.  All these questions are under continuing review by the OSPAR Convention and they will come up for discussion when the convention is reviewed.</P>
+    <P>In relation to the disposal of garbage at ports, under the MARPOL Convention the obligation is to dispose of waste in port garbage facilities.  I am advised that such facilities are available at Castletownbere.</P>
+    <P>In relation to beach pollution, while I am sure that Senator Daly did not intend this, we have a tendency in this country when something unpleasant happens to identify the source somewhere else.  There may indeed be pollution from Spanish vessels and if there is, then they will have to be dealt with in the normal way under this and other legislation.</P>
+    <P>We must face up to the fact that pollution which appears on our beaches is for the most part caused by our own citizens. We will have to put our own house in order in relation to that type of pollution which is caused by people throwing bags of rubbish over a cliff and onto <Col N="1547" /> a beach.  That type of thing must be stamped out.  Citizens will have to become more vigilant by reporting it to the appropriate authorities.  Those dumping the rubbish will have to get a new sense of responsibility in relation to their environment.  The best protection of our environment is the responsibility which people exercise to ensure that they do not pollute whether by littering, indiscriminate dumping or by polluting a river, lake, beach or the sea.</P>
+    <P>I thank Senators for their help and assistance in passing this Bill.  I will be required to go back to the Dáil with the amendments made by the Seanad to this Bill, which has been substantially improved by the debate in this House.</P>
+    <P>Question put and agreed to.</P>
+    <P>
+      <i>Sitting suspended at 11.20 a.m. and resumed at 2 p.m.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Civil Service Regulation (Amendment)" RHead="Bill, 1996: Second Stage">
+    <Title>Civil Service Regulation (Amendment) Bill, 1996: Second Stage.</Title>
+    <P>Question proposed: &ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="AvrilDoyle" hpid="Minister of State at the Department of Finance (Mrs. A. Doyle) Avril Doyle">
+      <NameTxt>Minister of State at the Department of Finance (Mrs. A. Doyle)</NameTxt>
+      <P>The purpose of this Bill is to abolish the reinstatement scheme under which women who resigned from the Civil Service on marriage and were subsequently widowed or who could demonstrate that they were not being supported by their husbands could apply for readmission to the service without having to further compete in a competition run by the Civil Service Commission.</P>
+    </Speaker>
+    <P>In a very real sense the history of the scheme mirrors the story of women in modern Ireland and, indeed, developments in the area of gender equality. In 1932 the Brennan Commission reported that &ldquo;if a woman recruited to the post married after eight or ten years, the main purpose for which she had been employed entirely fails, and she has, moreover, during that time been blocking the way of a man who could <Col N="1548" /> give good value for the service in question.&rdquo;.</P>
+    <P>With that sort of attitude it was not surprising, therefore, that the Civil Service Regulation Act, 1956, required that women must retire from the Civil Service on marriage.  It also provided, however, an exemption where any such women who became widowed could seek to be reinstated into the Civil Service. The presupposition underpinning the Brennan Commission report and the 1956 Act was that a married woman had no role in the workforce.</P>
+    <P>By the early 1970s the thinking about the role of women in the workplace had moved on and the inherent injustice in a system which compelled them to leave the Civil Service on marriage had been recognised.  Richie Ryan, the then Minister for Finance, acting upon the recommendation of the Commission on the Status of Women, took decisive action to bring this particular form of discrimination to an end.  The Civil Service (Employment of Married Women) Act, 1973, abolished the requirement of resignation upon marriage and, in fact, broadened out the circumstances under which women who had resigned compulsorily in the past or who were to resign voluntarily on marriage in the future could apply to return to the Civil Service.  Now, in addition to widowhood, any woman who resigned to get married and where the marriage did not take place, or where after marriage, her husband was unable to support her, could also apply for reinstatement.</P>
+    <P>For its time the 1973 legislation was progressive and marked a very real advance for women in employment.  It also afforded due recognition to the fact that for those women who opted not to work outside the home after marriage, circumstances might change and the economic support upon which they had depended might not, for any one of a variety of reasons, remain a reality.</P>
+    <P>The 1973 legislation afforded a route back to economic security for many women who were experiencing difficult financial circumstances.  In fact, in the period 1985-95, an average of 29 women <Col N="1549" /> per annum qualified for reinstatement under the statutory provisions.  I must concur with those speakers in the Lower Chamber who pointed to the many positive aspects of the reinstatement scheme.</P>
+    <P>Why are we now seeking to repeal a legislative provision, the benefits of which have been so widely recognised? Paradoxically, the answer to that is equality.</P>
+    <P>Some years ago a woman who had been obliged to leave the Office of the Revenue Commissioners on marriage &mdash; before 1973 &mdash; took a case to an equality officer claiming that she was being discriminated against on grounds of marital status under the terms of the Employment Equality Act, 1977. Because her husband was still alive, she would have to prove non-support if she wished to be re-employed under the reinstatement scheme, where a widow would simply have to provide simple evidence of her husband's demise if she wished to re-enter the service.</P>
+    <P>The Labour Court found that the entire scheme was discriminatory in that it conferred on one particular group of people &mdash; women who resigned on marriage &mdash; the privilege of re-employment in the Civil Service which it denied to other women and to all men and as such was contrary to the equal treatment directive.  The court also found that the scheme should be repealed.  Legal advice was sought by the Department of Finance at the time and the unambiguous opinion was that the scheme was in breach of the equal treatment directive and should be repealed.</P>
+    <P>Action on repealing the scheme was delayed pending the outcome of a High Court challenge by the former employee of the Revenue Commissioners to the Labour Court ruling. That challenge was ultimately struck out by consent and we are now in a position to proceed with the repeal.  As I mentioned, equality or, more precisely, the equal treatment directive, is the reason I am presenting the case for the abolition of the reinstatement scheme.</P>
+    <P>I am sure that those who framed and <Col N="1550" /> pushed through the Civil Service (Employment of Married Women) Act, 1973, must find it hard to suppress a wry smile when they find that their far seeing enactment, which represented one of the first steps towards dismantling the barriers against full participation by women in the country's public life, is now found to infringe the principle of equality.</P>
+    <P>I said earlier that the vicissitudes of this scheme reflected the developments in equality and in the role of women in modern Ireland.  Today, equality has a more complete meaning than was the case in the past.  Contemporary concepts of equality stress equal rights for all rather than focusing on particular groups in society which are deemed to be hard done by.  Therefore, the reinstatement scheme, which in its post 1973 manifestation represented a form of positive action for women, must now be ruled out of bounds.</P>
+    <P>The occasion of the proposed repeal of the reinstatement scheme represents an opportune occasion on which to reflect on the role of women in our Civil Service.  I am pleased to note that the recently launched policy statement on the programme of change for the Civil Service, <i>Delivering Better Government</i>, confronts head on the issues surrounding the under representation of women in the upper echelons of the Civil Service and considers the means whereby this imbalance can be overcome.</P>
+    <P>If anybody still thinks that any organisation, whether in the public or private sector, can operate with optimum efficiency and effectiveness while drawing on the resources of only half of the talent at its disposal, they should try driving a car with two flat tyres &mdash; one might chug along for a while, but even the most obdurate will recognise that there is a better way.</P>
+    <P>Where stands the position of women in the Civil Service in 1996?  In absolute terms the figures are still disappointing, with only one woman at departmental secretary level &mdash; Ms Margaret Hayes in the Department of Tourism and Trade &mdash; and one other woman who is head of <Col N="1551" /> an office &mdash; Ms Julie O'Neill in the Office of the Tánaiste.</P>
+    <P>However, we must not be despondent and we must recognise that while current figures may make for less than euphoric reading, we are merely at a stage in a process.  If we look at the proportions of women in each of the main middle and senior management grades, we find that the picture is a good deal more healthy than it was in 1972, just before the marriage bar was lifted.  At higher executive officer level, 38 per cent of the grade is now composed of women; the corresponding figure in 1972 was 12.4 per cent.  Women assistant principal officers now represent 24 per cent; in 1972 they were a mere 4 per cent.  Some 13 per cent of all principal officers are now women compared to 0.5 per cent in 1972.  The percentage of women assistant secretaries is now 5 per cent, whereas in 1972 women in the combined grades of assistant secretary, deputy secretary and secretary constituted less than 1 per cent.  Women are still under represented at management levels in the Civil Service but progress is being continually recorded.</P>
+    <P>Progress may have been slow, but it has been certain.  Few people would accuse me of being a starry eyed optimist; I am long enough at the political game to have had any sense of unrealism knocked out of me.  Nevertheless, I am confident enough about the future role of women in the Civil Service to predict that within ten years the situation will have improved so much that many will wonder why there was ever such a fuss about the number of women in the upper echelons of Departments and offices.  I base this prediction on a range of positive indicators, the first of which is the presence of role models.  Over the years women, unfortunately, have tended not to compete for senior jobs to the same extent as their male counterparts.</P>
+    <P>To the extent that this shortfall in participation may have been driven by a feeling of &ldquo;what is the point, a man is certain to get the job anyway&rdquo;, the <Col N="1552" /> recent successes of women in securing top jobs, through fair competition with their male counterparts, will serve to dispel any misconceptions and to give confidence to officers to put themselves forward.  I hope that, as far as the contemporary Civil Service is concerned, we no longer have to say with Jane Austen in <i>Northanger Abbey</i> that &ldquo;a woman, especially if she has the misfortune to know anything, should conceal it as well as she can&rdquo;.</P>
+    <P>Second, the Civil Service has had in place for some time a series of measures designed to help those who wish to combine the responsibilities of marriage and parenthood with careers.  I refer to such initiatives as career breaks, job sharing and flexitime.  A crèche for the children of civil servants is fully subscribed and there are plans for further such developments.</P>
+    <P>The Department of Finance chairs an equality committee which meets once a month and includes representatives from various Civil Service unions and Department officials.  Through the aegis of the committee, practical resolutions can be explored together with any difficulties which are being experienced in securing the fuller participation of women in the Civil Service.</P>
+    <P>It is with mixed feelings that I introduce the Bill.  The Government recognises that it must face up to its responsibilities under the equal treatment directive.  However, the Government is anxious to mitigate the negative effects of the repeal to the greatest extent possible without introducing in the process any new provisions which might be found to be discriminatory.  Accordingly, it is intended to make special provision in the next two series of open clerical assistant and executive officer competitions for the creation of sub-panels which will be constituted entirely of former civil servants without any distinction as to gender or marital status.  I hope, and expect, that many of the women who would have availed of the reinstatement scheme will find a route back into the Civil Service through these subpanels.  I thank Senators for <Col N="1553" /> their interest in the Bill, which I have pleasure in commending to the House.</P>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>I commend the Minister of State for introducing the Bill.  In common with her, I also have mixed feelings about it, because I remember too well the Civil Service marriage bar and the talent which was flushed from the public service.  As a student of public administration over the years, I recognised on many occasions the extraordinary inadequacy of the public service in that it does not demographically represent the people.  I was struck by the Minister of State's analogy about driving a car with two flat tyres.  She probably knows this analogy goes way back to the time of Plato's <i>Republic</i> when he considered the situation of women and the extraordinary arrangements of the day which forced humanity to dispense with half its talent.</P>
+      <P>One of the extraordinary anomalies of Irish life throughout the first seven decades of this century was the marriage bar which applied to all women in the public service.  The strange thing about it was that it was easily and readily accepted as almost a natural form of life.  I remember entering the public service in the late 1960s early 1970s when it was regarded as the norm.  Looking back on Irish life then, it is extraordinary that there was virtually no debate about the issue.  I also recall when Ireland became a member of the EEC in 1973 and there was some timid debate in the Department of Finance about the applicability or otherwise of Article 119 of the Treaty of Rome relating to equal treatment.</P>
+    </Speaker>
+    <P>If the Minister wants a little interesting history, she should go back over the files in the Department of Finance from that time when one or two officials argued that Article 119, the equality provision, should be taken as directly applicable.  However, officials in other Departments, experts in EEC law, said that was not the case, that it was an aspirational arrangement.  Soon after Ireland joined the EU, a Belgian air hostess challenged the discrimination <Col N="1554" /> which then applied in the airlines on the basis that as a woman she was entitled to the same treatment as male staff.  The European Court, in what was a most important and progressive judgement, took the strong view that Article 119 was directly applicable.</P>
+    <P>The fact that member states failed to apply it by putting the necessary measures in place was disposed of by the court when it argued that as they were directly applicable rights, they applied from day one.  From the day Madame Defrenne won her case, marriage bars and bars based on discrimination on gender were wiped away in Europe.  It is worth stating this because people often cynically say we got nothing from Europe.  This progressive leap forward occurred soon after Ireland joined the EU.  As a consequence of the jugdment in that case, the rights of generations of women who suffered discrimination silently were vindicated.</P>
+    <P>At that time we faced the reality that many women were discriminated against unfairly in the State.  Such women lost an opportunity to develop their careers and the public service became peculiarly and particularly male dominated.  I was amused when I read the debates at that time and the Brennan report, the authors of which would never be accused of being contaminated by political correctness or even forward thinking.  It was a most bizarre document.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>They should have been arrested.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>It was not the only issue on which they should have been arrested.  The Brennan Commission also had extraordinary views on ministerial responsibility, which the House recently discussed.  It is a most interesting document.</P>
+    </Speaker>
+    <P>The Minister is right that it is a mark of how far we have moved, but it also provides an opportunity to consider the prejudices which were a reality of Irish life.  There is still the extraordinary situation <Col N="1555" />&mdash; the Minister mentioned this aspect &mdash; that there have been only two women secretaries of Departments in the entire history of the nation.  This is wrong and reprehensible and must be addressed.  It is interesting that both Secretaries were in the same Department. There is yet to be a woman chief executive of any of the major State-sponsored bodies and this is extraordinary. There has not been a woman manager of any local authority and this is also bizarre.  These circumstances require explanation, given that it is 20 years since the marriage bar was lifted.</P>
+    <P>I remember at the time in the Department of Finance that some of the brightest and the best among the administrative grades were women.  There was a great deal of fear among the male ranks that the women would get to the top rapidly.  They did not lack any capacity so why have more women not reached senior levels?  Why are so few women coming through the top level appointments commission?  I accept there has been a massive increase in the number of women assistant principal officers and a worthwhile increase at principal officer level, but the reason so many have not made the transition through the TLAC evades me.  I do not know the answer.  The talent is there, but there seems to be some ingrained prejudice within the arrangements which takes the view of the Brennan Commission &mdash; a view which was incorrect at the time &mdash; that women filling top positions are simply taking positions that should more appropriately be available to men.  I am sure the Minister will be looking at that.</P>
+    <P>This short Bill does not address those issues but it does bring them to mind and it suggests to us that on the one hand we have done a lot to redress the imbalance, but on the other we have achieved little enough.  The marriage bar, which was lifted 20 years ago, left a number of anomalies that had to be addressed, and this Bill arises because of one of those anomalies was the court case that the Minister of State has adverted to.  It repeals the scheme which <Col N="1556" /> provided that women who were affected by the marriage bar could be reinstated upon widowhood.  That scheme was well meaning and even humane and was regarded as positive at the time it was introduced.  It was seen to do something for women who had been discriminated against, particularly where their economic circumstances suffered a catastrophic reversal.</P>
+    <P>It was generally viewed as a positive measure until 1990, when a married woman took her case to court.  I followed that particular case with great interest.  It had an impact on some activities in which I was engaged in my day job.  It is interesting that again we all accepted in 1973 that what Minister Ryan was doing was right.  It was applauded by all sides in both Houses. It is interesting that we could transfer across the border into what really was a prejudice, because again we did not regard married women as that important.  They were regarded as a chattel of the husband, to be supported by the husband.  The lady in that case did us a service because it brought the issue of prejudice to our minds.</P>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>I would remind the Senator that he has two minutes remaining.  There is a time limit of ten minutes.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>I was not aware there was such a flush of speakers.  I will do my best to conclude within the two minutes.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>If the Senator wants more time, I do not mind.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>The Minister of State has outlined the facts of the case, but on legal scrutiny it presents the Minister and Government of the day with a conundrum because if we want to fully operate the EU directive on equal treatment, which is a good piece of legislation, we have to do what we are doing here.  There are two points that are striking about the episode.  First, the events illustrate that a measure which is introduced with universal approval and <Col N="1557" /> with the very best of motives can be a real double edged sword.  There is a lesson there for us.  Second, closing these arrangements would have a very negative impact on some women.  The Minister of State made the point that she found herself between a rock and a hard place and I sympathise with her in this predicament.  She has in effect to close down what we regarded a humane measure, which was introduced with the very best and highest of motives.  Moreover, she has closed down a measure which has given great support to women, as we know from our constituency work.  I have progressed three cases under these arrangements and I am sad to see that they are being closed down.</P>
+      <P>The Minister of State has included some mitigating arrangements in the concluding part of her speech.  It is important that we look at alternative approaches to provide some means of readmission to the public service of women who were penalised simply because they were married.  I remember in the early 1970s people lived together in the anticipation of overcoming the marriage bar.  They &ldquo;lived in sin&rdquo; and were rewarded for their ingenuity, whereas people who went in what was regarded as the normal way in Irish life were penalised.  The Minister is correct to look at some way of providing readmission for women who were forced to curtail their careers simply because they married and decided to devote themselves to families.  I doubt any measure introduced to positively discriminate in favour of those women. Any measure which opens, for example, recruitment without any age limit to women who were affected by the bar could be regarded as mitigating against the equal rights directive.</P>
+    </Speaker>
+    <P>In supporting this Bill I have the same problems as the Minister of State.  It is closing a scheme that was welcome at the time and that did provide a degree of alleviation from hardship.  I commend the final point of the Minister of State's statement that an alleviation would be made.  She mentioned that it would be <Col N="1558" /> at clerical officer level.  A lot of very talented women at that level were forced to leave at executive and higher officer level.  Would the Minister of State look at the possibility of open recruitment and examinations into the public service in the years ahead making a specific provision, because age bars still exist, that any person who was forced to leave because of existing marriage regulations should automatically be allowed to apply for jobs?  It would be few enough in number but it might provide positive discrimination for people who were discriminated against by this nation for generations.</P>
+    <Speaker pid="PaddyBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>I welcome this short Bill. I agree with Senator Roche that the marriage bar was quite readily accepted in those years.  The 1973 Act was the first major step to improve the lot of women in the Civil Service.</P>
+      <P>The Minister stated that when we look at the proportions of women in each of the middle and senior management grades we find that the picture is healthier than it was in 1972 before the marriage bar was lifted.  At higher executive level 38 per cent of the grade is composed of women; the corresponding figure in 1972 was 12.4 per cent. Women assistant principal officers now represent 24 per cent of the total; in 1972 there were a mere 4 per cent.  13 per cent of all principal officers are now women compared to 5 per cent in 1972. The percentage of women assistant secretaries is now 5 per cent, whereas in 1972 in the combined grades of assistant secretary, deputy secretary and secretary, women constituted less than 1 per cent.  Women are still underrepresented at management level, but there have been significant steps taken over the last number of years.  There is work still to be done.</P>
+    </Speaker>
+    <P>I congratulate Margaret Hayes, who was appointed assistant secretary at the Department of Tourism and Trade last September.  She is the second woman to rise to this rank in the history of the State.  I also congratulate Brid Kelly, who is from County Mayo.  She worked <Col N="1559" /> with Mayo County Council for a number of years and has been appointed as county secretary with Cavan County Council.  Before that she was secretary to the Western Regional Authority which includes the counties of Mayo, Galway and Roscommon.  She is the first lady county secretary in the history of the State.  She did not get the job just because she is a woman.  She got the job because she was fit for it and well able to do it.  She was an excellent employee of Mayo County Council and I have no doubt she will do a marvellous job as county secretary in County Cavan.  We have not had a lady county manager yet. It should not be long before we have a female county secretary and I look forward to the day it happens.</P>
+    <P>I am delighted to see that the Department of Finance chairs an equality committee which meets once a month and includes representatives from the various Civil Service unions together with departmental officials.  Practical matters can be explored, together with any difficulties being experienced in securing the fuller participation of women in the Civil Service.  Women should not get a job or be appointed to a board because they are women.  They should secure positions on the basis of priority.  They believe they are as capable as males of doing the job and that they should secure positions on the basis of ability. Females can compete in all areas of the Civil Service with their male colleagues.</P>
+    <P>Senator Roche referred to job sharing. It is an area that should be looked at closely.  Many women believe they still have a major role in the home, so job sharing can play a significant role in retaining women in the workforce and particularly in the Civil Service.  The Minister of State is the right person in the right place to expand and explore the option of job sharing.  I am delighted this Bill is before the House and I look forward to more strides being made in this area by the Minister of State and the Department.</P>
+    <Col N="1560" />
+    <Speaker pid="CathyHonan" hpid="Ms Honan Ms Honan">
+      <NameTxt>Ms Honan</NameTxt>
+      <P>I cannot say I welcome this legislation; no woman could welcome it.  There is a sad irony at the heart of this Bill.  Prior to 1973 thousands of women suffered shameful discrimination in that they were forced to leave the Civil Service when they got married. By any standards, they were treated unjustly.</P>
+      <P>This Bill denies these women a fast track means of re-entering the Civil Service because such a process would fall foul of the European Union's equal treatment directive.  That is ironic because Europe has been good to Irish women.  But for the EU, Irish women would not have received equal treatment under social welfare legislation. We have seen the large lump sums they had to be paid as a result of the discrimination. Europe has also been helpful to Irish women in the area of equal pay.  It is ironic and wrong that equal treatment legislation is the reason for denying justice to women who were victims of injustice in the past.</P>
+      <P>The Minister of State's decision to include special subpanels of former civil servants in the next Civil Service Commission examinations for the grades of clerical assistant and clerical officer is welcome.  However, these panels will be open to men and women who were not themselves victims of the marriage bar. In view of the vast array of legal and technical expertise available to the Government, I cannot understand why it was not possible to arrive at a formula that would have allowed the victims of negative discrimination in previous years to benefit from positive discrimination now.  I doubt that any fair view of society would decide that a particular provision was unlawful when it was established beyond all doubt that the purpose of this was to give preferential treatment to people who were unfairly treated in the past.</P>
+    </Speaker>
+    <P>Even though the marriage bar in the Civil Service was removed in 1973, women are still unequally represented there and particularly in its higher echelons. Over 20 years after the abolition of the marriage bar we have seen the <Col N="1561" /> appointment of the first woman county secretary.  There is still no woman county manager in the country and there are no women top executives in many public companies.  The Civil Service and State bodies can give example in this regard and the onus is on the Government to address imbalances in the participation of women in the workforce, particularly since there was active discrimination against them in the past.</P>
+    <P>It upsets me to see this Bill before the House.  Senator Burke spoke about the appointment of a woman county secretary in County Cavan and declared that she did not secure the job because she was a woman.  That reminded me of my party leader talking about the time she was appointed auditor of the Historical Society in Trinity.  She applied to become a member of one of the clubs on St. Stephen's Green which automatically offered membership to the auditors of that society.  She was not offered membership so she wrote and asked whether that was because she was a woman.  Their reply stated that it was because she was not a man.  Such discrimination upsets me greatly.</P>
+    <P>It is important to look at the current position of women in the Civil Service. Much has changed since 1973.  The number of women in the service has grown and their participation in the higher echelons is much greater.  However, women are not fulfilling their true potential in the Civil Service and we must ask why. Earlier this year the Progressive Democrats published a comprehensive policy document on the reform of the public service.  It paid particular attention to the position of women in the Civil Service. We looked at the representation of women in the ten general service grades, ranging from clerical assistant to departmental secretary, as of the end of December 1995.  There are 16,000 civil servants in these grades, which account for more than half the total number in the Civil Service, and two-thirds of them were women.  The majority of women were concentrated in the two most junior grades, clerical assistant and clerical officer.  More than 70 per cent of all <Col N="1562" /> women civil servants work in these grades.</P>
+    <P>The situation is very different in the senior grades.  There are about 1,400 civil servants in the general grades from assistant principal officer up and fewer than 20 per cent of these positions are held by women.  That is not a fair representation 23 years after the marriage bar was lifted.  Of the 450 positions ranging from principal officer upwards, which are the senior management grades, just over 10 per cent are held by women.  Women predominate in the four lowest grades in the Civil Service while men predominate in the six highest grades.  That is very wrong.  It shows that despite the ending of the marriage bar in 1973 and despite anti-discrimination legislation and increased female participation in the workforce, women are still seriously under represented at the highest levels of our Civil Service. Obviously some form of glass ceiling operates.</P>
+    <P>It is important that women are fairly represented in the upper echelons of the Civil Service not only from the point of view of equity but also from the point of view of efficiency.  The Civil Service must be managed by the best people and we cannot hope to find such people if half of the population is under represented in the pool from which senior appointments are made.  The reasons for this degree of female under representation at the top are difficult to ascertain because the phenomenon is not confined to the Civil Service.  It also occurs in the private sector, local government and many other areas.  National teaching and the nursing profession, for example, are almost totally dominated by women; yet in both cases the trade unions representing these workers are led by men.  During the negotiations about the nurses' dispute the main negotiators for all the nurses' unions were men.  That is extraordinary for a profession that is almost totally dominated by women.  I cannot accept that women were not capable of representing the views and interests of these largely female professions.</P>
+    <P>
+      <Col N="1563" /> If we are trying to address the lack of women in the upper echelons in the Civil Service we must look closely at the administrative officer grade because this is where the key graduate intake takes place.  People who enter at this grade are on the fast track for promotion into the key management positions of assistant principal and higher grades.  Given that the Civil Service is effectively a closed shop, the composition of the administrative officer cohort is a crucial determinant of the future composition of the top ranks of the service.</P>
+    <P>I am aware that other people are promoted to higher positions, but the post of administrative officer is the key grade.  It is interesting to note that at the end of last year only 27 of the 99 administrative officers in the service were women.  I cannot understand why this is the case because the administrative officer competition is open to all graduates of several fields with the required academic standard and is not confined to any discipline.  If we consider the school and university systems and the academic achievements of women, it would appear that the administrative officer cohort should be divided equally between males and females.  This is not the case.  The Department or the Civil Service Commission should investigate the reason women are under represented at this grade.  Perhaps there is an in-built bias against them in the examination process as at present constituted. If they do not enter this grade on the basis of equality, we will never succeed in obtaining representation for women at the top level in the Civil Service.</P>
+    <P>I am disappointed with this legislation. I welcome the fact that the Minister of State will make special provisions in the next series of examinations for women who were discriminated against in the past.  I urge her to continue in this regard, but I am not happy with the legislation.</P>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>Before calling Senator O'Sullivan I must point out <Col N="1564" /> that Senator Henry is anxious to make a contribution to the debate.  The order of the House is that the debate will conclude by 3 p.m. and I ask Members to bear this in mind.</P>
+    </Speaker>
+    <Speaker pid="JanOSullivan" hpid="Ms O'Sullivan Ms O'Sullivan">
+      <NameTxt>Ms O'Sullivan</NameTxt>
+      <P>I will only use five minutes of my time.  Like Senator Honan, I am not pleased with this legislation. I believe the Minister of State is of the opinion that this Bill must be enacted as a result of a decision of the Labour Court, the EU equality directive and other equality legislation.</P>
+      <P>In my view, the women involved already suffered enough discrimination before the removal of the marriage bar from the Civil Service.  It is a pity that we must dispense with the granting of compensation to such women.  The female Members of the Oireachtas are not pleased with this development but we must accept it nevertheless.  We will not shoot the messenger.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>Thank you.</P>
+    </Speaker>
+    <Speaker pid="JanOSullivan" hpid="Ms O'Sullivan Ms O'Sullivan">
+      <NameTxt>Ms O'Sullivan</NameTxt>
+      <P>I appreciate that every effort was made and a number of options considered to deal with this issue.  The next series of clerical assistant and executive officer competitions will include a sub-panel of former civil servants, male and female.  We cannot do much about the past but we must do what we can about the present and the future.</P>
+    </Speaker>
+    <P>The present situation relating to numbers of women in the Civil Service and local government is far from satisfactory. The Joint Committee on Women's Rights has published a document dealing with women in management in local administration, which mirrors the pattern that can be seen in the national situation. As other Members stated, there are no female county managers or assistant city or county managers, there are two female county secretaries and one female finance officer.  A great number of women are represented further down the line.  It is interesting to note that most of the interview panels for the positions to which I referred <Col N="1565" /> were entirely male.  This area must be investigated immediately and it is being taken on board in the Strategic Management Initiative.</P>
+    <P>With regard to the past gender composition of interview boards, there were no women on the interview boards for county manager in 1992.  Of the 14 competitions for county and city managers and assistant county and city managers held in 1994-1995, only one woman served on the interview board.  I accept that this is changing but in the recent past women were faced with interview boards that were entirely male in their composition.  That issue is directly dealt with in the Strategic Management Initiative and there will be gender balance in the future.  The sooner this happens the better.</P>
+    <P>We must acknowledge that, from a consideration of this document and other evidence, women did not always pursue promotion.</P>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>They still do not pursue it.</P>
+    </Speaker>
+    <Speaker pid="JanOSullivan" hpid="Ms O'Sullivan Ms O'Sullivan">
+      <NameTxt>Ms O'Sullivan</NameTxt>
+      <P>Perhaps there is a need for women to change their attitudes to ensure that they put themselves forward for promotion.  The reasons for their not doing so relate to conditioning, etc.  This is similar to attempting to address educational advantage at third level where one must begin at the earliest level to try to bring about the kind of changes which will eventually lead to equal balance at senior levels.</P>
+    </Speaker>
+    <P>The Civil Service uses guidelines for promotion and the Strategic Management Initiative has the capacity to change things dramatically with regard to the process of climbing the promotion ladder.  Initiative and other qualities will be rewarded in future, whereas in the past women would not have been helped towards gaining promotion.  Linear progression in the Civil Service has favoured men in the past.  On the graph provided on page 48 of the second report on the Strategic Management Initiative, men and women are denoted by means of blue and orange ink, <Col N="1566" /> respectively.  This graph illustrates the current situation and shows that many women are employed in the lower grades while many men are employed at more senior levels.  According to the figures for December 1995 there were 13,800 women in the Civil Service, 9,000 of whom were serving in the clerical grades.  The numbers in the inspectorate grade were only 5.9 per cent female and over 94 per cent male.</P>
+    <P>I agree with Senator Honan that other areas of Irish life have probably an even worse performance than the Civil Service, local government and politics.  The Senator referred to banks and companies, although small companies tend to have more women at the top level of management.  There is a long way to go because a recent newspaper article stated that the top earners in our society are practically all men.  The problem is not confined to the Civil Service; it exists on a wider scale.  Through the Strategic Management Initiative and the actions of the Minister of State, I hope there will be changes for the better in the near future.</P>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>I thank Senator O'Sullivan for being so brisk and concise in her contribution.  She is quite right to state that this problem is not confined to the Civil Service.  The Minister of State spoke from the heart when she stated that she is between a rock and a hard place with this legislation and it is unfortunate that the Bill must be enacted. Senator O'Sullivan also pointed out that local government management is the same, if not worse, than the Civil Service.</P>
+    </Speaker>
+    <P>Various excuses have been offered as to why women are not progressing within the Civil Service or local government management.  Ms Evelyn McMahon compiled research on behalf of the Joint Committee on Women's Rights and discovered that the fact that women could not transfer to other counties militated against them.  She also discovered that some women in local government management refused to transfer outside the area where they began work and <Col N="1567" /> had progressed up the ladder to county manager level.  Excuses are made about the fact that, for social reasons, women find it more difficult to travel.</P>
+    <P>Another interesting point in the Joint Committee on Women's Rights report is that when the local government executive wanted to point out where women were doing well, it directed attention to the numbers of women who are county librarians.  That is the case because the profession of county librarian is predominantly female. Different criteria must be brought into operation at interview boards and I share the view that there should be a far better gender balance on these boards. People must be asked to explain the way they dealt with gender issues.  This is extremely important.</P>
+    <P>This has often arisen in my profession for consultants within the health services &mdash; employees of the State.  Surely, we are not going to appoint temporary consultants of a lesser grade than permanent consultants to deal with patients in the health service?  Fifteen per cent of permanent consultants are women; but over 50 per cent of temporary consultants are women, which is a huge difference. Permanent consultants are appointed by interview boards.  I question the validity of interview boards which are comprised entirely of one sex. It is a sorry sight to see women, who comprise 50 per cent of medical graduates &mdash; and more in some medical schools &mdash; doing extremely well at the lower level of the health service but doing less well as they gradually go up the rungs of the service.</P>
+    <P>A friend of mine who was made a consultant in the 1960s before the marriage bar was removed, married when she was about 50 years old.  She did not resign from her job and asked her husband what she should say when she went back to work.  He told her to say nothing and wait until someone accused her of being a married woman.  She said nothing and practised as a consultant in this city until she retired.  I was delighted for her sake she did.</P>
+    <P>
+      <Col N="1568" /> This is an international problem.  It was interesting to see the lengths to which women in Northern Ireland had to go to ensure there were at least some women elected to the forum.  I can tell the women Members of the Oireachtas that they were delighted with and amazed by the amount of support they got from women here.  It is terrible to have so few people representing 50 per cent of the electorate.</P>
+    <P>To use the Northern buzz phrase &ldquo;parity of esteem&rdquo;, I am dismayed the funding for the women's archive is being withdrawn.  That sends a message about how little consideration is given to women's history in this State.  I hope the Minister of State will urge the Minister for Arts, Culture and the Gaeltacht to reverse that decision.  The archive made a most worthwhile contribution, as was demonstrated by its splendid exhibition last year on women and the Famine, which toured the country.</P>
+    <Speaker pid="AvrilDoyle" hpid="Minister of State at the Department of Finance (Mrs. A. Doyle) Avril Doyle">
+      <NameTxt>Minister of State at the Department of Finance (Mrs. A. Doyle)</NameTxt>
+      <P>I thank Senators for their contributions and understanding of the Bill.  I have already outlined how we had little option but to go ahead with this legislation.  The Labour Court ruled that the reinstatement scheme is discriminatory and contrary to the principle of equal treatment and should be repealed.  We have also obtained unequivocal legal advice from the Attorney General's Office that the scheme is in breach of the equal treatment directive and that we are obliged under the terms of the directive to repeal it.</P>
+    </Speaker>
+    <P>The repeal of this facility, whereby certain women who had resigned on marriage could re-enter the Civil Service without having to formally compete in Civil Service Commission open competitions, will, I appreciate, not be welcomed by such women who find themselves in difficult economic circumstances.  I have particular sympathy with the women who were obliged to leave the Civil Service on marriage. We all find it extremely difficult today to understand the mind set which prevailed <Col N="1569" /> at that time, particularly when it seems to have been accepted with little protest.</P>
+    <P>I assure Members of the House the Government was anxious to preserve the scheme for the women who had no choice but to resign under the marriage bar.  We did everything to try to facilitate that.  However, we received unambiguous legal advice that the equal treatment directive does not permit positive discrimination to compensate for past discrimination.  Discrimination which took place prior to the enactment of the directive is not relevant to its provisions today.</P>
+    <P>I assure Members that the Government investigated all available options which might have mitigated the effects of the repeal to some degree, at least. We were anxious to take whatever meaningful steps were open to us to facilitate those women who left the Civil Service on marriage and now wish to return, but without introducing any new provisions which would be found to be discriminatory.  As I said earlier, it has been decided in the context of repealing the reinstatement scheme that the next two series of clerical assistant and executive officer competitions will include special sub-panels composed solely of former civil servants, but will not differentiate on grounds of gender or marital status.  I hope this initiative will go some way towards facilitating the re-entry to the Civil Service of women who resigned on marriage, or had to resign for family reasons since.</P>
+    <P>The former marriage bar is not the only factor with a bearing on the current under representation of women at senior level in the Civil Service.  I share the concerns of the many Senators who referred to this point.  Women tend to be slower at putting themselves forward for promotion competitions.  I have decided we have to investigate the reasons for this.  I have asked the women managers' network in the Civil Service to apply their experience to determining why women are so slow to put themselves forward for competitions.</P>
+    <P>
+      <Col N="1570" /> We need to develop appropriate strategies to overcome the obvious glass ceilings which exist.  It is no longer because of the marriage bar.  Margaret Hayes, the secretary of the Department of Tourism and Trade, entered the Civil Service after 1973.  If one can do it, more can.  There are obviously other constraints there which we have not researched properly and which I intend to pursue.  We devoted quite a portion of <i>Delivering Better Government</i>, as Senator O'Sullivan said, to the issue of gender.  I feel very strongly we need to look at this.</P>
+    <P>As I said earlier, the policy statement on the programme of change confronts the issue surrounding the under representation of women in the upper levels of the Civil Service.  We are considering all possible means whereby we can correct the imbalance.  It is accepted today that the promotion of effective equality policies confers benefits on the organisation and they are an essential feature of effective human resource management.  To have an effective and efficient Civil Service we must make the best use of all the talent available to us. I am confident that over the coming years we will see a major improvement in the representation of women at middle and senior management level.</P>
+    <P>Concepts of equality have developed and widened dramatically over the last 20 years.  Actions taken today must not be seen to favour one gender over the other or to give preference on the basis of marital status.  Equality must share with its parent virtue justice a complete blindness to such distinctions.  We must be proactive in promoting fuller involvement by women in the Civil Service. Within the parameters imposed by law, whether Irish or European, this Government is determined to pursue policies which will encourage greater participation rates among women in the most senior ranks of the public service.</P>
+    <P>It is not just a question of equity, but an issue of hard-headed economics.  We do not have to justify it on the basis of equity alone.  If we see human resources as the most important asset of any <Col N="1571" /> organisation, as I do, it stands to reason that an organisation should optimise the benefit of that asset.  Under representation of women in the higher grades of the Civil Service represents the economic loss of a valuable resource.</P>
+    <P>I hope women who have applied for reinstatement, and are eligible on age grounds, will compete for places on the special sub-panels to which I referred. Many of these women have much to contribute.  Their previous experience of the workplace has been rounded by their subsequent experiences of family life.  Modern organisations &mdash; and the Civil Service is no exception &mdash; require flexibility as never before.  They want people who are more interested in making things happen rather than adhering rigidly to procedure.  They want people who value instinct and intuition, as well as analysis and rationality.</P>
+    <P>Irishman Charles Handy, who has an international reputation in the area of management redesign, observed that:</P>
+    <P>Women over the generations have had to make things happen and get things done, with or without formal authority.  They have had to handle endless variety in managing the home, taking decisions on inadequate information, backing hunch and judgment. They have had, in turns, to be disciplinarian and loving mother.  Not all women do these things well by any means but few men have had that much practice.  Organisations need talented women in their core jobs, therefore, not only for reasons of social fairness, important though that is, but because many of those women will have the kind of attitudes that the new flat, flexible organisations need.</P>
+    <P>We are working towards a more flexible, flatter customer oriented Civil Service. We need to avail of all the talent at our disposal, regardless of gender or marital status, in pursuit of this necessary change.</P>
+    <P>Question put and agreed to.</P>
+    <Col N="1572" />
+    <Speaker pid="" hpid="An Leas-Cathaoirleach An Leas-Cathaoirleach">
+      <NameTxt>An Leas-Cathaoirleach</NameTxt>
+      <P>When is it proposed to take Committee Stage?</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>If the House agrees, perhaps we could take it now.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>If it assists the House, the Opposition has no objection.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Cathaoirleach An Leas-Cathaoirleach">
+      <NameTxt>An Leas-Cathaoirleach</NameTxt>
+      <P>The Order of Business must be formally amended.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I propose that the Order of Business be amended so that Committee and Final Stages can be taken now.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Cathaoirleach An Leas-Cathaoirleach">
+      <NameTxt>An Leas-Cathaoirleach</NameTxt>
+      <P>Is that agreed?  Agreed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Civil Service Regulation (Amendment)" RHead="Bill, 1996: Committee and Final Stages">
+    <Title>Civil Service Regulation (Amendment) Bill, 1996: Committee and Final Stages.</Title>
+    <P>Section 1 agreed to.</P>
+    <P Just="Center">SECTION 2.</P>
+    <P>Question proposed: &ldquo;That section 2 stand part of the Bill.&rdquo;</P>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>I am not sure whether my question is germane to section 2.  The Minister suggested lifting the age bar. Women who have been discriminated against in this regard should not be subject to the age bar.  I misheard the Minister who corrected me; I am delighted this applies to the EO, CO and CA panels; I think it could also apply to the AO panel &mdash; there would be few women there &mdash; but it is important to look at whether the imposition of the age bar would further discriminate against these women.  I think it should be abolished.  I do not believe the Minister would have difficulty with EU law if sub-panels were created specifically for people who are the subject of discrimination.  The fact that those people would only be women, in my view, would not cause difficulties.</P>
+    </Speaker>
+    <Speaker pid="CathyHonan" hpid="Ms Honan Ms Honan">
+      <NameTxt>Ms Honan</NameTxt>
+      <P>I support Senator Roche. I know the Minister has difficulties with <Col N="1573" /> the matter.  If the AO grade is not included, it would seem we were stating that we did not think women should be admitted to all of the grades in the Civil Service.  The special provisions that have been made for CA and EO competitions should be extended.  It is only fair that, if the Minister is doing it for two sections, it should be done at the highest level of entry into the Civil Service.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Minister of State at the Department of Finance (Mrs. A. Doyle) Avril Doyle">
+      <NameTxt>Minister of State at the Department of Finance (Mrs. A. Doyle)</NameTxt>
+      <P>I thank the Senators for their constructive questions. There is an age limit for all male or female applicants at the moment &mdash; I think it is 50 years of age, it was recently increased.  There are moves being made to abolish ageism right through the service. When that is done it will apply to these panels.  We cannot remove the age bar for women only as that opens up another area of discrimination.  We think we are doing something right, but we cannot positively discriminate for something that happened prior to the equal treatment directive.  The situation is quite convoluted.  We have taken all the advice we can from the Attorney General and from Europe and we have a problem.  I hope the age bar implicit in the Senator's question will be removed for male and female alike.</P>
+    </Speaker>
+    <P>In relation to Administrative Officers, I have great sympathy and little difficulty with the issue.  However, we are trying to target the women who are forced to leave on grounds of marriage.  We cannot say we are trying to target these women because the provisions have to be open to both genders, regardless of marital status.  Reviewing those who come back into the Civil Service under the reinstatement scheme, the vast majority have come in under the CO and EO grades.  If I felt there was a need to raise that level of competition to create a sub-panel to look after the people we are trying to target, I would certainly do so.  We could raise the level and bring in many other people who were not forced out of the service on marriage grounds, male and female, which would cause all sorts of problems <Col N="1574" /> with young people coming out of school wanting to get into the Civil Service. There is a fine balance between looking after the people we are trying to help without introducing another area of discrimination. I am advised that, looking at the pattern of reinstatement, to extend the sub-panels to CO and EO competitions only will fulfil what we are trying to do without introducing another area of discrimination.</P>
+    <Speaker pid="CathyHonan" hpid="Ms Honan Ms Honan">
+      <NameTxt>Ms Honan</NameTxt>
+      <P>Why will this apply only in the next two series of competition?</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>Saying it or putting it into law would be discriminatory and we have to stay within the terms of the equal treatment directive.  Any woman who left the Civil Service under the marriage bar would be hitting 50 by now, which is the legal age limit to enter or re-enter the Civil Service.  After the next two panels we reckon there will be no one who was forced out on marriage grounds pre-1973 who would meet the requirements of entry to the Civil Service under the present age requirement. If the age bar was lifted &mdash; there is major discussion in Europe and elsewhere about that now &mdash; we can look at that again.  Under the present terms of entry into the Civil Service there will be no one who was forced out pre-1973 who would meet the age requirement.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>I understand the logic of the Minister's answer, but it is based on another prejudice, which is ageism.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>That term is not discriminatory as it refers to both men and women.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>It is prejudice that equally affects most of us but it is prejudice nonetheless. There is a determination to get rid of ageism and there is also a recognition that people who have passed 50 years of age are not just burnt-out wrecks.  If we think of women who are affected by these bars, who were driven out of the public service, many have made careers for themselves and had <Col N="1575" /> the best experience of all &mdash; they have raised families, kept men in check and reared children.  They have a vast amount to offer at 50 years of age and a huge amount of experience.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>I made that point.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>The age bar affects them. I suggest that we should get rid of the age bar.  It does not serve a purpose.  I also suggest she looks at the AO issue. There would be some women who, having been affected by the marriage bar, having developed a family life, went to university and may wish to come back into the Civil Service via the AO grade. This would do no harm.  I cannot see it creating a vast problem because the competition for AO is gruelling and weeds people out fairly rapidly.</P>
+      <P>In these particular competitions we are talking specifically and exclusively about the Civil Service and exclusive Civil Service regulations but we have to remember that marriage bars also applied in State-sponsored bodies and local authorities.  In the State-sponsored bodies, since there was no legislative basis, we cannot correct it on this basis. I hope a ministerial directive would be issued to the State-sponsored bodies to ensure that women who had to leave this sector would not continue to suffer and the Minister's efforts at alleviation would apply in their case.  There is not a lot of recruitment in those areas anyway.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>I am not sure State-sponsored bodies had a reinstatement scheme.  What we are doing here is replacing the facility that women in the Civil Service had under the reinstatement scheme.  We will certainly look at the point the Senator made, but it is a slightly different issue.</P>
+    </Speaker>
+    <P>I agree with the Senator on the ageism argument.  People in their 50s or older have tremendous experience to bring into any organisation.  Under the reinstatement scheme you came in at the grade you were forced out of on <Col N="1576" /> marriage.  It is very easy to check the grades involved.  Since 1981, no AO has qualified for reinstatement.  The facility needed can be checked.  The vast majority who left were not in the Civil Service very long, given the average marriage age in the late 1960s and early 1970s.  It is easy to check where we need to pitch our sub-panel to look after married women who were forced out.  We cannot put it as bluntly as that.</P>
+    <P>The provision must also be available to all who left the Civil Service, regardless of gender or marital status.  If we open it up, we are allowing in those who are not women and were not forced out on marriage grounds.  That is not the intention, even though we will pick up some of those in this non-discriminatory sub-panel scheme we are putting in.  It is a fine balance to put something in place to compensate the women who were forced out and, at the same time, not introduce more discrimination in the system.  If we pick others who left after 1973 and left for reasons other than marriage &mdash; men as well &mdash; we are prepared to do that so long as we can look after those women who were forced out and want to come back.</P>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>I was chairman of the administrative officers association in 1972 and 1973 and I can assure the Minister there were one or two AOs who did make careers after leaving the service.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>One or two came back, but not since 1981.</P>
+    </Speaker>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>I do not think there would be a problem in having an AO panel.  I do not want to press the issue further than that.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Mrs. A. Doyle Mrs. A. Doyle">
+      <NameTxt>Mrs. A. Doyle</NameTxt>
+      <P>There would be a major problem with the AOs in relation to others who were not forced out because of the marriage bar, who would want to get back into the service.  We then create problems for those in the service who want promotion now and <Col N="1577" /> younger people coming in.  The difficulty is getting the balance right.</P>
+      <P>Question put and agreed to.</P>
+      <P>Title agreed to.</P>
+      <P>Bill reported without amendment and received for final consideration.</P>
+      <P>Question proposed: &ldquo;That the Bill do now pass&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>I thank Senator Roche and Senator Honan for agreeing to take Committee Stage today.  It helped greatly in getting the Bill through the House.</P>
+    </Speaker>
+    <Speaker pid="AvrilDoyle" hpid="Minister of State at the Department of Finance (Mrs. A. Doyle) Avril Doyle">
+      <NameTxt>Minister of State at the Department of Finance (Mrs. A. Doyle)</NameTxt>
+      <P>I thank the Leader of the House, Senator Manning, and other Senators for their constructive contributions to the debate on this Bill.</P>
+    </Speaker>
+    <Speaker pid="CathyHonan" hpid="Ms Honan Ms Honan">
+      <NameTxt>Ms Honan</NameTxt>
+      <P>As a woman I have every confidence in the Minister that she will try her best to look after the targeted groups about which we are concerned. All of us in the House are concerned with this issue and are also concerned that the Minister will keep it under constant surveillance.  If the age limit goes it should not be just the next two appointment commissions that will look at these matters.  This is a very important issue.  All of us would like to see more women moving up the ladder. I have great faith that the Minister will keep a close eye on matters and introduce whatever is necessary.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Refugee Bill, 1995:" RHead="Committee Stage (Resumed)">
+    <Title>Refugee Bill, 1995: Committee Stage (Resumed).</Title>
+    <P>Debate resumed on amendment No. 45:</P>
+    <P>In page 26, to delete lines 44 to 46, and substitute the following:</P>
+    <P>
+      <Col N="1578" />&ldquo;The Commissioner shall be conversant with and have experience of human rights issues&rdquo;.</P>
+    <P Just="Right">&mdash;(Senator Mulcahy.)</P>
+    <Speaker pid="DickRoche" hpid="Mr. Roche Mr. Roche">
+      <NameTxt>Mr. Roche</NameTxt>
+      <P>We were discussing the qualifications which the commissioner is required to have.  It would be a good idea to incorporate reference to the qualifications with specific reference to experience of human rights issues.</P>
+      <P>I worked for a short time in the human rights section of the UN as a human rights fellow in the period 1978-79. It struck me that there were very few people working in that section who had any experience.  They were excellent people &mdash; technocrats &mdash; who had come through the diplomatic services, but none of them had ever argued a human rights case in the field.  It did not appear that there was anybody who had come through the NGO circuit.</P>
+      <P>I would be horrified if we were to include a barrister or solicitor.  With due respect to both august professions, the occupation of, or training in either profession does not necessarily make them human rights activists.  However, I do not suggest that human rights activists are the only people who should comprise the commission.</P>
+      <P>I recall studying the implications of ombudsman legislation in various parts of the world.  Two people struck me as the most unsuitable people to be ombudsmen.  Yet, of all of those I met, they were the most extraordinary.  One of them was a Jesuit priest, Fr. Ignatius Killaje, who was the Ombudsman in Papua New Guinea.  He became a figure of mythic proportions; his judgments were the judgments of Solomon.  He appears not to have had the necessary qualifications &mdash; he had not been through the administrative circuit, he did not have the training in public administration and all the things we used to consider necessary &mdash; yet he brought an extraordinary abundance of common sense and humanity to the job. It elevated the post.</P>
+    </Speaker>
+    <P>
+      <Col N="1579" /> The other person was an Ombudsman in Alberta, a retired police chief, who also appeared to be unsuitable.  I asked him what was the best qualification he had for the job.  He told me he had never read the Ombudsman Act.  He was not overly fussed with a too fine attention to the detail of the law that established his position; he was interested in the principle.</P>
+    <P>It is important that we look for somebody who has a track record, experience and has shown some dedication to the concept of human rights.  One of the biggest problems in Irish life, and administrative life everywhere, is that very worthy people come through the administrative processes and at the end of their days are appointed to positions. We did not do this when appointing either of our Ombudsmen.  The appointment of Michael Mills was inspirational. He got the office off the ground because he was not part of the administrative culture.  He looked at it fondly &mdash; not in a destructive way &mdash; from outside.  This humanity was reflected in the way he applied himself to his office.</P>
+    <P>If we appoint people from a specific profession &mdash; for example, a retired judge or retiring senior civil servant &mdash; the necessary additional fire that should be in the position could be missing.  It would be a good idea to make reference to human rights experience in the Act if possible, or certainly in the criteria for establishing who should take this position.</P>
+    <Speaker pid="AustinCurrie" hpid="Minister of State at the Department of Justice (Ms Burton) Austin Currie">
+      <NameTxt>Minister of State at the Department of Justice (Ms Burton)</NameTxt>
+      <P>I am opposing these amendments.  Amendment No. 45 would make it a requirement for appointment as the Refugee Applications Commissioner that the person be conversant with and experienced in human rights issues.  Amendments Nos. 46 and 47 impose a similar requirement for the chairperson and independent members of the Appeal Board.  The amendments also provide that qualification as a barrister or a solicitor is no <Col N="1580" /> longer required for the commissioner or the chairperson of the Appeal Board.</P>
+      <P>While I have been at pains to suggest that I do not see the asylum determination process as being legalistic or adversarial, the person in question should ensure that the process is governed by a desire to ensure absolute fair play for applicants and that the procedures are implemented in accordance with the principles of natural justice.  I appreciate that many people would qualify in so far as these requirements are concerned.  However, it is appropriate, due to the nature of these positions, to have somebody who has legal training and experience to meet the criteria required.</P>
+      <P>With regard to the matter of the persons in question having experience in, or training and knowledge of refugee law and international human rights law, I remind Senators that the commissioner must have been a practising barrister or solicitor for at least seven years, while the chairperson must have had ten years experience.  Any person with this level of experience and knowledge of law would be expected to know how to access and acquire the specifies of refugee law.  This, in effect, is what barristers and solicitors must do on a daily basis.  It is what they are trained to do.  Accordingly, it would be unduly restrictive and unnecessary to limit the position of commissioner or chairperson only to persons who have specific experience of refugee and human rights law, especially in a situation where the range of persons who could meet this requirement in Ireland is not large.</P>
+    </Speaker>
+    <P>Of course, such experience may be persuasive, all else being equal, in determining who should be appointed. However, the lack of such experience should not exclude a good candidate &mdash; Senator Roche has given us many such examples &mdash; especially as there are many excellent courses, particularly with regard to refugee law, which a new commissioner or chairperson would be expected to attend.  It is likely that ordinary members of the board would have the necessary experience of refugee and <Col N="1581" /> human rights law.  However, they would also be asked to attend appropriate training after they are appointed but not before.</P>
+    <P>In the past the UNHCR has been helpful to the Department of Justice in assisting in training in the refugee application process.  It is anxious to assist in ensuring the right level of training is given to all involved in the asylum examination procedures when this Bill is enacted.  I assure the House that UNHCR assistance will be sought and appropriate training will be provided for all members of the board, regardless of their experience.  In view of these assurances I hope the Senator will withdraw the amendments.</P>
+    <P>While the Minister is open to suggestions from all quarters on who might fill the two ordinary positions on the board and who might be appointed chairperson, it is best that the choice is left as wide as possible and not limited to those nominated by the bodies mentioned. The Irish Refugee Council has no statutory basis; it is a voluntary grouping of voluntary bodies.  I have a high regard for the council; I have attended many of its functions and I wish it to continue its important work on behalf of asylum seekers.  However, there is no guarantee it will continue to exist in the future, whether in its present form or at all.</P>
+    <P>The voluntary nature of such a body means that if it or any of its constituent bodies decide not to continue the body's existence, any legislative provision which requires the body be in existence is frustrated.  Therefore it is wiser not to confer a statutory role on what is essentially a voluntary body.</P>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I am disappointed by the Minister of State's response.  She is showing continued inflexibility, insensitivity and inconsistency in this matter. She was at pains to point out at an earlier stage in the debate that it would not be necessary for the Refugee Appeals Commissioner to be a practising barrister or solicitor; rather it would be sufficient if that person had seven years experience as a barrister or solicitor and <Col N="1582" /> perhaps was working in the human rights field.  Yet, on this specific provision relating to the person who will be doing the largest amount of work in relation to the processing of applications, the Minister of State is not prepared to include any formal qualifications or background in the Bill, other than seven years experience as a practising barrister or solicitor.</P>
+      <P>I hoped we would enter into dialogue on this Bill.  However, in the course of the debate the Minister of State has put only three substantial amendments &mdash; two of them were prompted by my amendments relating to errors in the drafting of the Bill and the third, which relates to the Dublin Convention, was brought up because we debated the conflict between the Dublin Convention and the Geneva Convention.  There has been no flexibility towards amendments proposed by this side of the House.</P>
+      <P>The Minister of State has not given a strong enough reason why there should not be a stipulation in the Bill that the person appointed should have experience of human rights issues.  Are we to appoint somebody with no experience in this field?  Are we to appoint someone who has been involved in a totally different area of activity?  The Minister of State will argue that she will not make a bad decision and that may well be the case.  However, there may be other Ministers who are not as <i>au fait</i> with these matters and who might make a wrong decision.  For the sake of people who will apply for asylum, it is incumbent on us to indicate clearly that the commissioner should have human rights experience.</P>
+    </Speaker>
+    <P>Apart from reading the brief supplied to her, the Minister of State has not provided the House with a compelling reason why the commissioner should not have human rights experience.  The only qualification given in the First Schedule is that the person should have seven years experience as a practising barrister or solicitor.  The experience might have been 20 years ago and might have been in a different field.  If the Minister of State wished to show a little <Col N="1583" /> flexibility there would be no harm in accepting this amendment.</P>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>We have had this debate at length on other sections and, as on other issues, the Senator has done a U-turn.  He argued that any solicitor or barrister could perform any legal function by reading up on it.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>Practising.</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>For appointments to bodies such as this one has to have appropriate people in mind, otherwise the structure will not work.  The desire of any Minister will be to make the commissioner and the appeals board function effectively.  In doing so one will have to have regard to appropriately qualified people, of whom there are few in Ireland.  The restriction the Senator wishes to include in the Bill is inappropriate and unnecessary.</P>
+      <P>The training which is critical in dealing with refugees is being provided currently and has resulted in substantial improvements in our provisions for asylum seekers.  It will be made available to those persons who serve in the various capacities under this Bill.  I assure the Senator that the persons appointed will be appropriate to the posts.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I have no doubt but the Minister of State will make a good choice. We wish to ensure that future appointments will be of an equally high standard.  The Minister of State has said that appropriate training will be provided. This is not stated in the Bill.  The person involved may exercise quasi-judicial functions.  There is no provision, however, under the judicial appointments training scheme for any training for this person.  None of the Minister of State's assurances is stated in the Bill. There is nothing in the bill to stipulate that the person will have a background in human rights or refugee matters.</P>
+    </Speaker>
+    <P>There has been a long enough history of political cronyism and appointments by all political parties to allow for the <Col N="1584" /> possibility that the person appointed might not be the best qualified person &mdash; let us be honest and admit that can and does happen.  I do not say it will happen but our job as good legislators is to ensure it does not.  I regret that the Minister is not acceding to my request and that she has been completely inflexible about adapting or changing this basic humanitarian Bill, other than when spurred on by amendments tabled by this side of the House.</P>
+    <P>Question, &ldquo;That the words proposed to be deleted stand,&rdquo; put and declared carried.</P>
+    <P>Amendment declared lost.</P>
+    <P>Question proposed: &ldquo;That the First Schedule be the First Schedule to the Bill.&rdquo;</P>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>What is the thinking behind the three year period in paragraph 3 of this Schedule?  I have no objection to it but the periods of State appointments vary from three to five or even seven years.  The advantage of a three year period is that someone who is not suitable can be replaced more quickly, although he or she can be replaced at any time.  Another argument is that this is a difficult and complex area and, since the Minister said there are not many suitably qualified people, three years might be a short period for someone to get experience in the job. Perhaps she could consider a five year period.</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>The section provides for reappointment and it seemed to me that in many areas of public office, being able to change people or have them continue in service at appropriate intervals is a way to provide for great efficiency. I hope that whoever takes on the job of commissioner deals with the large volume of refugee applications with dispatch. If not, there is an opportunity to rethink the appointment after three years.  Equally, if the commissioner does well, there is an option to reappoint him <Col N="1585" /> or her.  I think it is a sensible, business-like arrangement and I hope the Senator will agree.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I hope the Minister is not getting too excited&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>I never get excited, least of all by Senator Mulcahy.</P>
+    </Speaker>
+    <Speaker pid="MauriceManning" hpid="Mr. Manning Mr. Manning">
+      <NameTxt>Mr. Manning</NameTxt>
+      <P>The Senator is flattering himself.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I thought she was a bit agitated.  I said I did not have a problem with the provision but I wanted to know the rationale.  As usual, the Minister did not answer my question; she did not say why the period was three years as opposed to five years.  Does she not take the point that five years might be more appropriate as it would give a commissioner a decent run at the job?</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>Last night we had a voyage around Europe and parts of Africa; today we are doing numerology, which is fascinating.  I picked three years because I thought it was the appropriate period.  Other periods, such as five or seven years, were open but I picked three years for the reasons I gave.</P>
+      <P>Question put and agreed to.</P>
+      <P Just="Center">SECOND SCHEDULE.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I move amendment No. 46:</P>
+      <P>In page 27, to delete lines 28 and 29, and substitute the following:</P>
+      <P>&ldquo;be conversant with and have experience of human rights issues&rdquo;.</P>
+      <P>Question, &ldquo;That the words proposed to be deleted stand,&rdquo; put and declared carried.</P>
+      <P>Amendment declared lost.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I move amendment No. 47:</P>
+      <P>In page 27, lines 33 and 34, to delete subparagraph (4) and substituted the following:</P>
+    </Speaker>
+    <P>
+      <Col N="1586" />&ldquo;(4)  a person nominated by the Council of the Irish Red Cross,</P>
+    <P>(5)  a person nominated by the Council of the Irish Refugee Council.&rdquo;.</P>
+    <Speaker pid="SeanMaloney" hpid="Acting Chairman (Mr. Maloney) Acting Chairman (Mr. Maloney)">
+      <NameTxt>Acting Chairman (Mr. Maloney)</NameTxt>
+      <P>We can only make a decision on this amendment as it has already been discussed.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I am sorry but that escaped me.  Could I discuss the amendment, with the indulgence of the House?  It was grouped with another amendment but we did not discuss it specifically.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>The Senator was informed of this last night.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I am aware that the groupings of amendments were circulated.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>I cannot allow you to discuss it now, Senator.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>You are not allowing me to discuss this important amendment?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>You have already been informed of the position.  All I want to know is whether the amendment is being pressed.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>It is.</P>
+      <P>Question, &ldquo;That the words and figures proposed to be deleted stand,&rdquo; put and declared carried.</P>
+      <P>Amendment declared lost.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I move amendment No. 48:</P>
+      <P>In page 27, line 34, after &ldquo;Affairs&rdquo; to add &ldquo;who are conversant with and have experience of human rights issues&rdquo;.</P>
+      <P>Amendment put and declared lost.</P>
+    </Speaker>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>I move amendment No. 49:</P>
+    </Speaker>
+    <P>
+      <Col N="1587" /> In page 28, line 37, paragraph 10, to delete &ldquo;3&rdquo; and substitute &ldquo;4&rdquo;.</P>
+    <P>The Minister is setting up a perfectly good appeal board and this amendment is to ensure that it is not, or is as little as possible, under the control of either the Minister for Justice or the Minister for Foreign Affairs.  There are two ministerial appointees to the appeal board, one nominated by each of the Ministers mentioned.  The chairman and the other two members are not officers from the Departments.  As the quorum for these meetings is only three, I am concerned that two civil servants might be at a three person meeting.  I am sure the civil servants present in the House would be impartial and would not be influenced by the Minister.  On the other hand, it is more difficult for people to be seen to be objective if they hold a position within a Department, are nominees of a Minister and are dealing with his or her decisions.</P>
+    <P>I hope this board will work by consensus and if a majority decision is required that it will have to be by an odd number.  If one of the people present is the chairman and that person normally has a casting vote, a quorum of four would be fine.  I hope it would be a rare matter that would be so serious that a vote had to be called.  We are dealing with a grave issue &mdash; a person may be seeking asylum because he or she is in fear of his or her life.  That is why I hope the commission proceeds by consensus.</P>
+    <P>I ask the Minister to substitute &ldquo;4&rdquo; for &ldquo;3&rdquo; because the Chair may have a casting vote in these cases, which I hope will not arise too often.  It does not look good that two departmental officials could decide that an appeal would be refused, notwithstanding that majority voting is involved.  It also looks bad that this can happen without the chairman being present.  I ask the Minister of State to accept my amendment.</P>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I am delighted to support this amendment.  The Minister will be able to pack the refugee appeals board &mdash; there will be no difficulty for her in appointing four civil servants and <Col N="1588" /> she also has the power to appoint the chairperson.  I regret that the Minister did not respond to my amendment which sought to appoint to the board people from the Irish Red Cross or the Irish Refugee Council because it would have made it much more independent. Proceedings before the Refugee Appeal Board will be totally confidential. However, I am glad that the Minister acceded to my request that the UN High Commissioner would have observer status at the refugee board.  I am glad that she took the lead from me again in that.</P>
+      <P>In seconding Senator Henry's proposal, I ask that at least some semblance of independence be given to the &ldquo;two persons, not being officers of the Minister or the Minister for Foreign Affairs&rdquo;.  By independence I mean that they should be people from outside the governmental structure.  The quality of this Refugee Appeal Board should not just be dependent on the officers of the Minister and the Minister for Foreign Affairs, whom I have no doubt would be excellent people.  Lest anyone would try to slip words into my mouth, I absolutely support the fact that there will be two civil servants from two different Ministers on the board.  They have a vital role to play, but the role that independent people can play is equally vital.</P>
+      <P>It would be much safer and more democratic if the board was to have a quorum of four people.  The reality will be that if there are three it will be possible for the chairperson, again appointed by the Minister, and the two officers to take a majority decision.  To take up Senator Henry's point, there is nothing in the Bill which indicates that the Refugee Appeal Board must make its decisions by consensus.  Given that there is no provision requiring the five members of the board to agree, one can visualise that there may well be divisions of opinion.</P>
+    </Speaker>
+    <P>As Senator Henry said, this is a very important board.  Subject to various appeals, this board might amount to the difference between the life and death, oppression or non-oppression of an individual.  This is an excellent amendment and I support it wholeheartedly. I <Col N="1589" /> ask if the Minister could be a little more flexible than she has been thus far.</P>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>The origin of the five person board was that when the Bill was originally introduced by the Senator's own party in a previous Government, it only provided for a three person board. I had regard to the various points made to me during the debate on the original Bill asking for people of independence on the board.  In order to achieve that I set out to increase the board numbers from three to five.</P>
+      <P>There were about 400 appeals or applications for asylum up to last week. That is a significant increase.  While I have great sympathy with the objective Senator Henry is trying to achieve, I would refer her to section 15(2) of the Bill, which says specifically that the board has to be independent in the operation of its functions.</P>
+      <P>Senator Mulcahy talked about packing the board.  I have to confess I am a great admirer of Franklin Delano Roosevelt and I recall the sticky end to which he came when he tried to pack the American Supreme Court.  This is not the Supreme Court, although at times the Senator has spoken of it as though it was both the Supreme Court and the UN General Assembly rolled into one.  It is a board to hear and examine an appeal against a decision of a commissioner that somebody does not qualify for refugee status.</P>
+      <P>An official of the Department of Justice is on the board &mdash; and, by the way, is subject to the same conditions of independence in section 15(2) as all other board members &mdash; because the Department of Justice has particular experience and responsibility in relation to asylum and other matters.  Similarly, the Department of Foreign Affairs has a particular responsibility and experience in relation to conditions in different countries in the world from which asylum seekers are likely to come.  It is extremely appropriate that an official of each Department should be on the board.</P>
+    </Speaker>
+    <P>The point was made that with just the independent chairman and two officials the board might not be seen as being <Col N="1590" /> sufficiently independent, even though their independence is set out in the Bill. I added two more people to the board and section 4 sets out positively to answer one of the Senator's queries.  It mentions &ldquo;two persons, not being officers of the Minister or the Minister for Foreign Affairs.&rdquo;  They must be independent people.</P>
+    <P>In terms of the work of the board Senator Henry's amendment would be unduly restrictive.  There is a potential average of 800 applications to hear and a backlog, which at the moment amounts unfortunately to a couple of thousand because we are still waiting for many cases to be processed by the UNHCR in London.  The board will need working arrangements which allow it to do its work efficiently and effectively.</P>
+    <P>I have some experience of civil servants, but there is no history of civil servants who are appointed to boards being afraid to act independently of the Minister.  In terms of packing, were there no civil servants one could envisage an alternative scenario where the people appointed would be political appointees and therefore lack the independent and rigorous cast of mind that civil servants often bring to matters with which they are appointed to deal on behalf of a Minister.</P>
+    <P>In setting out the structure of the board I attempted to meet the reasonable representations which were made to me both in the Houses of the Oireachtas and by the NGO community who are concerned about this issue.  We have a good working model which is not excessively bureaucratic and which will enable the board to do its job in a reasonable time frame.  Although I appreciate the sentiments which Senator Henry is expressing, I am absolutely confident that this board will act according to section 15(2), be independent and act independently in reaching its decisions.</P>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>The Minister has highlighted a problem which I had not envisaged previously.  She referred to civil servants on boards.  The Minister can correct me if I am wrong, but it is fairly <Col N="1591" /> rare that civil servants are appointed to State boards or to appeal boards.</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>Not at all, it is a very common practice.  It has generally been usual for there to be a departmental appointee on the boards which I have appointed and of which I have personal knowledge.  I would have to check the figures but almost all boards have departmental nominees.  The reason for that in this case is knowledge.  The Department of Foreign Affairs has knowledge and experience of the political situations in the different countries from which refugees may be applying. Similarly, people in the Department of Justice have experience of asylum and immigration procedures.  Those two appointments are appropriate and will assist the working of the board.</P>
+    </Speaker>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>I agree with the Minister that departmental nominees are essential. There have been departmental nominees on all the boards on which I have served.  As Senator Mulcahy would know, there are departmental nominees on the board of the Irish Red Cross. Although as a member of that organisation I have sympathy for his view that persons should be nominated from it and the Irish Refugee Council to the Refugee Appeal Board, there are other agencies which would consider that some of their members should also be nominated.  I hope the Minister will look at bodies like the Irish Red Cross, the Irish Refugee Council, the Society of St. Vincent de Paul and bodies involved in missionary work who have done an enormous amount for refugees.  I will not press the amendment but I may put it down on Report Stage.  Perhaps we could do something in areas where there is no consensus.  My anxiety refers to votes where the two departmental appointees may decide to refuse the appeal.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I beg to differ with the Minister with regard to civil servants on State boards.  Generally there are no civil servants on the Valuation Appeals Tribunal, the Employment Appeals Tribunal <Col N="1592" /> and similar tribunals.  A general problem is highlighted here.  It is never too late to address problems.  The Minister may decide a particular policy with regard to some aspect of refugee law in relation to a third country.  The Minister for Justice and the Minister for Foreign Affairs will each have a civil servant on the appeal board.  If the board is to exercise its functions independently, as it must do under the Bill, those civil servants will find themselves in conflict because, on the one hand, they are working for a Minister who has a policy and, on the other hand, they are officers of the Refugee Appeal Board which may find itself in potential conflict with the Minister for Justice on an issue.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Could you now please conclude?  Senator Henry indicated she is withdrawing her amendment. You have made your point and I want to move on.</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>This is the reason the independence of civil servants on the board is protected in the Bill.  If they have strong views, I would expect responsible members of the board, whether they are civil servants, to act independently.  The Bill asks them to do so.  What problem does Senator Mulcahy have with this?</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question proposed: &ldquo;That the Second Schedule be the Second Schedule to the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I am not happy with the composition of the Refugee Appeal Board.  The Minister has lost a golden opportunity to put in place a properly structured board to be the major board hearing determinations from the Refugee Appeals Commissioner.  The Minister has been at pains to lecture me that there will never be any conflict or adversarial procedures in this business. However, when cases come to the board, they will, in almost all instances, be by way of appeal from the Refugee Appeal Commissioner who has refused an application for asylum status.  From the beginning applicants will be in conflict <Col N="1593" /> with the commissioner.  They will say they have been persecuted and are seeking the protection of this country under the Geneva Convention.  The commissioner will say they are not entitled to such protection and there will be appeals to the board.</P>
+      <P>In earlier amendments the Minister opposed changes to the workings and procedures of the board which would have entitled an applicant to bring a witness. She said people would have an inherent right to bring witnesses or testimony in support of their cases.  As usual, there are no words of comfort in the Bill in respect of bringing a witness for an applicant who is in conflict with the commissioner.</P>
+      <P>I have grave reservations about the workings of the board.  I am not satisfied that we have properly decided on the confidentiality aspect with regard to whether an expertise in this area will be developed over the years.  I am not satisfied that people who assist refugees will be in a position to learn from the proceedings of the board.  I am disappointed with the composition of the board because there is no guarantee that any of its five members, including the chairman, will be independent of Government.</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>The Senator should read section 4.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>The Minister can appoint a civil servant to be chairperson and civil servants to the posts outlined in paragraphs 1 (2), 1 (3) and 1 (4) of the Schedule.  There is the possibility that the board, which is supposed to be independent of the Government and the commissioner, can be comprised of five officers of the Government.  If this were to happen, there would be more and more appeals to the High Court and this would have the bad effect of dragging people through lengthy and expensive procedures which the board is supposed to obviate.  People are supposed to come before the board knowing, believing and trusting they will get an independent hearing.  I am not suggesting that, even if there were five civil servants on the board, a person would not get a fair <Col N="1594" /> and independent hearing.  However, various dicta of the Supreme Court clearly indicate that justice must not only be done but must be seen to be done.  That principle arises mainly where, for example, the relation of a judge was representing a client before that judge.  As I recall, it was held by the High Court or Supreme Court that would be inappropriate in certain cases.</P>
+      <P>The problem with the Refugee Appeal Board, especially given that the Minister did not see fit to accept some of these amendments, is that there is a possibility that the board itself will not be seen to be independent of Government agencies.  I am sorry if the Minister has a problem with that but I think it is a possibility and something that should be addressed.</P>
+      <P>Question put and declared carried.</P>
+      <P Just="Center">THIRD SCHEDULE.</P>
+      <P>Question proposed: &ldquo;That the Third Schedule be the Third Schedule to the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>The Third Schedule is the Geneva Convention.  I do not think we need to disagree with the Geneva Convention which is the basis of the Bill.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>I am not going to speak on this.</P>
+    </Speaker>
+    <Speaker pid="SeanMaloney" hpid="Acting Chairman (Mr. Maloney) Acting Chairman (Mr. Maloney)">
+      <NameTxt>Acting Chairman (Mr. Maloney)</NameTxt>
+      <P>Is the Third Schedule agreed to?</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>Not as structured.</P>
+      <P>Question put and declared carried.</P>
+      <P Just="Center">FOURTH SCHEDULE.</P>
+      <P>Question proposed: &ldquo;That the Fourth Schedule be the Fourth Schedule to the Bill.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>Of course, I support the provisions of the Geneva Convention but I do not support the Minister's failure to make it absolutely clear in the Bill that the Dublin Convention is subordinate <Col N="1595" /> to the Geneva Convention.  I am not going to raise this matter again today.  However, for the record I oppose the inclusion of the Dublin Convention in this Bill in circumstances where the Minister has failed to say why it should not be clearly stated in the Bill that the Dublin Convention is subordinate to the Geneva Convention.  For that reason and because there has not been a proper public debate about the implications of the Dublin Convention, I am opposing the insertion of the convention in this Bill.</P>
+      <P>I anticipate there will be a lot of litigation and tragic human cases arising from the Minister's failure to clearly insert in the Bill the relationship between the Dublin Convention and the Geneva Convention.  The Minister failed the test last night.  The record and the future will show that was a mistake.</P>
+      <P>Question put and declared carried.</P>
+      <P Just="Center">TITLE.</P>
+      <P>Question, &ldquo;That the Title be the Title to the Bill&rdquo;, put and declared carried.</P>
+      <P>Bill reported with amendments.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>When is it proposed to take the next Stage?</P>
+    </Speaker>
+    <Speaker pid="BrianHayes" hpid="Mr. Hayes Mr. Hayes">
+      <NameTxt>Mr. Hayes</NameTxt>
+      <P>Next Tuesday.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Is that agreed? Agreed.</P>
+    </Speaker>
+    <Speaker pid="JoanBurtonLAB" hpid="Ms Burton Ms Burton">
+      <NameTxt>Ms Burton</NameTxt>
+      <P>Fianna Fáil has voted down the Geneva Convention.</P>
+    </Speaker>
+    <Speaker pid="MichaelMulcahyFF" hpid="Mr. Mulcahy Mr. Mulcahy">
+      <NameTxt>Mr. Mulcahy</NameTxt>
+      <P>We want a good Bill, not a bad one.</P>
+    </Speaker>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>Will the Minister put on her Department of Foreign Affairs hat and tell me if Ireland has ratified the 1977 Protocols to the Geneva Convention? I asked this question three years ago and was told it would take time.  I have not been able to find out if we have ratified them.</P>
+    </Speaker>
+    <Col N="1596" />
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>Can these matters be dealt with on Report Stage?</P>
+    </Speaker>
+    <Speaker pid="MaryHenry" hpid="Dr. Henry Dr. Henry">
+      <NameTxt>Dr. Henry</NameTxt>
+      <P>It is not relevant to the Bill; I just hoped for information.</P>
+      <P>Report Stage ordered for Tuesday, 11 June 1996.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Acting Chairman Acting Chairman">
+      <NameTxt>Acting Chairman</NameTxt>
+      <P>When is it proposed to sit again?</P>
+    </Speaker>
+    <Speaker pid="BrianHayes" hpid="Mr. Hayes Mr. Hayes">
+      <NameTxt>Mr. Hayes</NameTxt>
+      <P>Next Tuesday at 2.30 p.m.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Adjournment Matters. -" RHead="Sports Capital Programme">
+    <Title>Adjournment Matters. - Sports Capital Programme.</Title>
+    <Speaker pid="TomEnright" hpid="Mr. Enright Mr. Enright">
+      <NameTxt>Mr. Enright</NameTxt>
+      <P>The Department of Education has a sports capital programme which is funded by the National Lottery. There are two schemes &mdash; the recreational facilities scheme where grants of £50,000 or less are paid and the major facilities scheme where grants of £50,000 or upwards are paid.  I would like to refer specifically to the recreational facilities scheme which assists voluntary community organisations in the provision of improvements to and the equipping of recreational leisure and community facilities.  However, it excludes swimming pools and environmental works which is the reason I raise this matter.</P>
+      <P>Swimming pools should not be excluded from the sports capital programme. There was a major investment in swimming pools in the 1960s and in the early 1970s.  Funds were raised by local communities and grant assistance was provided by the former Department of Local Government, now the Department of the Environment.  Many excellent swimming pools were built at that time.  They provide an excellent sporting facility for people of all ages, particularly young people.  This is particularly obvious during the summer months when we see school children walking and cycling to swimming pools with towels over their shoulders.</P>
+    </Speaker>
+    <P>Swimming is a great leisure activity and sport.  Many Irish Olympians started their swimming careers in these pools.  It is wonderful to see such an <Col N="1597" /> interest in the sport.  However, little or nothing has been done since these pools were provided.  Some local authorities have taken them over but most of them were left to the local communities and organisations, which originally provided them, to fund and run in the intervening period.</P>
+    <P>Most of the pools have problems.  It is expensive to replace their pumping systems and clean their pipes.  The local communities charged small fees to encourage young people to avail of the facilities, many of them would come from low income groups and would not be able to pay more than 50p to go for a swim.  Little money has been set aside for the maintainence and upkeep of the pools, which is why I have raised this matter.  Regrettably, the Department of the Environment and the local authorities have failed to do much to maintain these pools.  I ask the Minister to consider including the maintenance and upkeep of swimming pools under the national lottery.  In some areas, they should be considered for capital grants.</P>
+    <P>Birr swimming pool needs a considerable investment.  Clara swimming pool, which caters for a population of in excess of 2,000 people and a huge catchment area, is closed because £150,000 is needed to carry out structural alterations. Edenderry pool, which services a big town and a huge hinterland, is also closed, although it may open temporarily after minor repairs are carried out. To see Clara pool closed is a great disappointment.</P>
+    <P>I ask the Minister to re-examine this matter and to endeavour to change these regulations.  This area needs help under the national lottery, the Department of the Environment and the local authorities.  If a small investment is made from national lottery funds, many of these pools could be reopened.  I urge the Minister to do all she can in this matter.  I would be thankful for this, as would the people of Clara, Birr and Edenderry.</P>
+    <Speaker pid="EithneFitzgerald" hpid="Minister of State at the Department of Enterprise and Employment (Ms E. Fitzgerald) Minister of State at the Department of Enterprise and Employment (Ms E. Fitzgerald)">
+      <NameTxt>Minister of State at the Department of Enterprise and Employment (Ms E. Fitzgerald)</NameTxt>
+      <P>I thank Senator Enright for raising the matter.  The Department of <Col N="1598" /> Education administers two schemes for the provision of sports facilities under the sports capital programme &mdash; the recreational facilities scheme and the major facilities scheme.  The recreational facilities scheme, which is for small scale projects, does not explicitly exclude swimming pools; they come under the major facilities scheme.</P>
+      <P>The recreational facilities scheme assists voluntary community organisations in providing, improving and equipping of recreational, leisure and community facilities.  Swimming pools and environmental works are specifically excluded from this smaller scale scheme.  It does not assist the purchase of sites or premises.  Average grants under this scheme in 1994 and 1995 were in the region of £6,800 and £6,300, respectively.</P>
+      <P>The recreational facilities schemes are typically made to local sports clubs, community centres and youth groups towards repairs to their premises or provision of changing rooms, pitch development or equipment.  In 1995 the total amount of money available for allocation of the recreational facilities scheme was £1.5 million and 238 projects were assisted.  As this is the smaller scale scheme, it would not be practical to offer meaningful assistance towards swimming pool refurbishment under the terms of the scheme.</P>
+    </Speaker>
+    <P>The other scheme run by the Department of Education is for major facilities. In 1988 the Government approved a multi-annual capital programme for major sports facilities at national, local and regional levels with a total budget of £16.9 million.  The centres were designated by Government but in each case the local sponsors established the needs of their area and the facility or mix of facilities required to meet these needs. Where appropriate, the grant amount was divided between two or more projects in response to local needs.  As most of these projects were virtually completed, a new capital programme was introduced in 1994 and £15 million was provided for the scheme for the years 1994-96.  The actual annual allocation is to be decided in the context of the annual public service Estimates.  The <Col N="1599" /> programme now comprises over 125 projects with total grant allocations amounting to £36.175 million.</P>
+    <P>The Department of Education has allocated funding towards the cost of providing swimming pools under the major facilities scheme.  In some locations the local sponsors established the need for such pools and, as a result, the Department provided assistance towards the cost of pools in Sligo and at the Seán Kelly Centre in Carrick-onSuir, Country Tipperary.</P>
+    <P>Assistance was also provided towards works on the pool at Tralee Sports and Leisure Centre.  Construction work is ongoing on the pool at the Cork Regional Sports Centre in Bishopstown and there are commitments under the programme to provide assistance towards the development of swimming pools in Athlone and Enniscorthy.</P>
+    <P>The Senator may be aware that the Department of the Environment administers a scheme for the provision and refurbishment of swimming pools. Nevertheless, applications for groups sponsoring swimming pools could be considered under the Department of Education's major facilities scheme. However, in general the funds available under the sports capital programme are limited.  In addition to the £1.5 million provided for the recreational facilities scheme, £2.5 million was provided for allocation under the major facilities scheme in 1995.  The Department has a huge number of applications on hand from sport and community organisations under the sports capital programme and it endeavours to achieve an equitable geographical spread of these funds.  The average cost of providing a new swimming pool could be in the region of £2 million.  Refurbishment costs are also high.  All these factors must be taken into account when dividing out the money so as to get a fair spread.</P>
+    <P>The sports strategy group, under the chairmanship of John Treacy, is developing a strategy for the future of sport in Ireland.  Its work is due to be completed later this year.  Among other things, it is considering the provision, <Col N="1600" /> funding, management and maintenance of sports and leisure facilities, including the provision of swimming pools and the extensive refurbishment programme required for the country's stock of existing pools.</P>
+    <P>In view of the way the two tiers are structured, there are no proposals to change the format of the schemes administered by the Department of Education at present.  Applications must be considered in the context of the huge demands on the scheme to get the best value from the limited funds relative to the annual demand.  I hope it is possible to examine the cases raised by the Senator and I will bring them back to my colleague, the Minister of State at the Department of Education, Deputy Allen.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Adjournment Matters. -" RHead="Hidden Financial Charges">
+    <Title>Adjournment Matters. - Hidden Financial Charges.</Title>
+    <Speaker pid="LiamTCosgrave" hpid="Mr. Cosgrave Mr. Cosgrave">
+      <NameTxt>Mr. Cosgrave</NameTxt>
+      <P>I thank you, Sir, for allowing me to raise this important and relevant matter.  Borrowers, particularly mortgage holders, are being asked to pay hidden charges and are not told the whole truth.  The various financial institutions must get their act together or be made to do so.  I am glad the Director of Consumer Affairs is launching an inquiry into these charges.  The financial institutions, building societies, banks, etc., have a range of charges, some of which are hidden charges and are not fair to the borrower.  I ask the Minister to consider this area.  I am sure she is aware of the various problems.</P>
+      <P>The Consumers' Association of Ireland recently carried out a survey which showed that various charges are hidden.  At present, seven of the 13 major lending institutions still charge people for the privilege of applying for a mortgage.  Not only must one pay back the sum plus interest and other charges but one must also pay up to £200 for the privilege of taking out the institution's mortgage package.</P>
+    </Speaker>
+    <P>Many institutions spent large amounts of money producing glossy pamphlets and promotional material. However, many borrowers would prefer if the institutions spent less money on glossy and glamorous brochures and <Col N="1601" /> more on telling the public about hidden charges.  At times borrowers are asked to take out mortgage protection policies and indemnity bonds.  However, borrowers are not aware that the institution makes large commissions on these products. The purpose of indemnity bonds is supposedly to back up the security.  The old rule was that the house was security for the lending institution, whether it was a bank or building society, if the borrower defaulted.  In recent times, the price of houses has increased and the institutions' security is well looked after.</P>
+    <P>Borrowers should be properly advised and told the truth about various charges and other items which can arise. They should have greater freedom and options.  At present, they are not getting a fair crack of the whip.  Borrowers pay enough money back to financial institutions and, given that the institutions at their AGMs regularly return vastly inflated profits, it is obvious consumers should get a fairer crack of the whip.</P>
+    <P>I hope the director will examine these matters and that the Minister will ensure they are investigated.  For example, when one has paid back a mortgage, one must pay a fee of approximately £50.  If a person is getting a top up loan or selling the house and buying another, some institutions charge up to £40 for the glorious honour of taking up the documents and accounts.  This matter must be examined and, if necessary, legislation should be introduced to deal with the problem of hidden charges.  The areas where these arise should be identified to ensure the public is aware of them.  They should not be in the small print on the second last page of the document.</P>
+    <P>I welcome the survey published in <i>Consumer Choice</i> because it drew the public's attention to hidden charges. Borrowers deserve a fair deal.  They pay enough to the institutions and they do not need further hidden charges imposed on them.  They should not be penalised by incurring extra charges.  I ask the Minister to respond as positively as possible and, if necessary, to introduce legislation.  I hope the director, following <Col N="1602" /> his investigations, will be in a position to issue directions in consultation with the Central Bank.</P>
+    <Speaker pid="EithneFitzgerald" hpid="Minister of State at the Department of Enterprise and Employment (Ms E. Fitzgerald) Minister of State at the Department of Enterprise and Employment (Ms E. Fitzgerald)">
+      <NameTxt>Minister of State at the Department of Enterprise and Employment (Ms E. Fitzgerald)</NameTxt>
+      <P>I am replying on behalf of my colleague, the Minister of State, Deputy Rabbitte, who is addressing the other House.</P>
+      <P>The Consumer Credit Act, 1995, came into effect on 13 May 1996.  This measure, which is one of the most comprehensive of its type in Europe, regulates all forms of consumer credit, including housing loans.  The Act enshrines a statutory pro-consumer code of rules and procedures which apply to all institutions issuing housing loans, whether they are building societies or banks.  This also applies to local authorities which is important because that involves the lower income end of the market.</P>
+      <P>The survey undertaken by the Consumers' Association of Ireland was published in <i>Consumer Choice</i> and a selection of the findings was disclosed in the media on 1 May.  These did not accurately reflect the position.  In particular, it was claimed that the Consumer Credit Bill was diluted.  It is the case that the Bill as originally published provided for mandatory disclosure of commissions. However, the advice available to the Government was that if the provisions were not changed, the consumer would have been disadvantaged because conditions written into primary legislation are inflexible.  For this reason it was decided to replace the mandatory requirements with a more effective system which can be achieved by far ranging regulation marking powers.</P>
+    </Speaker>
+    <P>This will better serve the consumer because it will be more prescriptive and more detail can be included.  It avoids the lack of flexibility inherent in primary legislation which is neither practical nor suitable for dealing with complex disclosure issues, such as when commissions are paid by way of benefit in kind. If the detail is laid out in primary legislation and other ways of avoiding the disclosure requirement emerge, one is stuck with the legislation. <Col N="1603" /> However, regulation can be adapted to deal with new problems, if they emerge.</P>
+    <P>Regulations allow for the drawing up of a comprehensive range of detailed transparency requirements which can be adapted from time to time to deal with potential circumvention in addition to any anomalies which may emerge. Equal disclosure obligations shall apply to the mortgage lender and the intermediary which was not the case previously. This is equity of treatment, particularly for people who deal through intermediaries.  The consumer will get the same disclosure they would receive if they were dealing directly with the mortgage company.</P>
+    <P>I wish to assure consumers that, following the completion of the consultation process which is well advanced with the Minister for the Environment, a disclosure regime will be established which will be readily intelligible to and form a powerful basis for the making of informed choices by all would be mortgage borrowers.</P>
+    <P>The association's survey also dealt with the cost of borrowing, having regard to the method of calculating interest and the imposition of fees and charges.  Section 122 of the Act prescribes a common method for calculating the total cost of mortgage credit which shall comprise interest and all other associated fees and charges.  In addition, a notice must be included on the front page of all housing loan agreements and not buried in the small print.</P>
+    <P>It must show the following information and indicate the date on which the information is valid: the amount of the loan, the period of the agreement, the number of repayment instalments, the amount of each instalment, the total amount repayable, the cost of the credit, the annual percentage rate of charge, or APR, the amount of the endowment premium, if applicable, the amount of mortgage protection and the effect on the instalment amount of a 1 per cent increase in the first year's interest rate. In combination these protections enable consumers to compare with confidence <Col N="1604" /> and assurance the various range of mortgage products on offer as well as giving them a clear picture from the start of their total financial obligations and required outlays.  This type of information will help people to shop around.</P>
+    <P>In addition to providing wide ranging safeguards for new borrowers, the Act provides valuable protection for existing mortgage holders by way of a ban on redemption fees in the case of variable mortgages, the outlawing of any restrictions on the choice of house insurance, a mandatory requirement to provide borrowers with an annual statement of the amount outstanding during the lifetime of the loan, a similar requirement applicable every five years in relation to the performance of the insurance policy underlying the endowment loan, a statutory duty on lenders to disclose interest rates and penalties to be applied to arrears of housing loans and continued protection for the interest of the borrower in the event of the winding up of a mortgage lender.</P>
+    <P>During the progress of the legislation through the Oireachtas, the Minister of State, Deputy Rabbitte, met many interest groups.  Now that the Act is in force, the Minister of State assures me his door is open and he is available to meet interest groups, including the Consumers' Association of Ireland which has been invited to discuss its position on the disclosure of insurance commission generally.</P>
+    <P>The flexibility of the provisions in the Consumer Credit Act which has now come into force and regulations to be made shortly following statutory consultation with the Minister for the Environment will provide the protection sought.  I read the <i>Consumer Choice</i> article and one of the points it makes is that it is criticising the existing situation, but it does acknowledge that the new Act will effect these changes.  Maybe there was a misunderstanding about the power of the regulations and how it was more powerful than the original provision in the Bill, as published, to put it all in the primary legislation.</P>
+    <P>The Seanad adjourned at 4.40 p.m. until 2.30 p.m Tuesday, 11 June 1996.</P>
+  </MainHeading>
+</Debate>

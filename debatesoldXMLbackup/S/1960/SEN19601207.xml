@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="7" Month="Dec" Year="1960" Vol="53" No="4" DateIrish="Dé Céadaoin, 7 Nollaig 1960" DateEnglish="Wednesday, 7 December 1960" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="227">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="227" /> Do chuaigh an Cathaoirleach i gceannas ar 3 p.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Statement" RHead="by Senator">
+    <Title>Statement by Senator.</Title>
+    <Speaker pid="JohnODonovan" hpid="Dr. O'Donovan Dr. O'Donovan">
+      <NameTxt>Dr. O'Donovan</NameTxt>
+      <P>Having read the record of last Wednesday's proceedings on the Electricity (Supply) (Amendment) Bill, I very much regret, Sir, that I did not comply with the ruling of the Chair.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>The Chair appreciates the Senator's action.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>It is proposed to take Items Nos. 1 and 2.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>May I ask a question about motions?  When are the motions on the Order Paper likely to be reached?  There are six motions on the Paper and I think it desirable to reach them as soon as possible.</P>
+    </Speaker>
+    <Speaker pid="OwenSkeffington" hpid="Dr. Sheehy Skeffington Dr. Sheehy Skeffington">
+      <NameTxt>Dr. Sheehy Skeffington</NameTxt>
+      <P>I should like to support Senator Quinlan, because we frequently find, at the end of a day's debate, that we have not reached the motions, but it appears today that we will have some time.  As Senator Quinlan says, there are a number of motions before the House and I feel that we should take some of them now, either in the order in which they occur or in another order. I think we should tackle them.  It takes, I understand, £200 to assemble the Seanad and when it is assembled, we should use it.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The difficulty is that last week the Minister was ready to take motions Nos. 4 and 5, but with regard to No. 5, the Senator was not ready to go on and in regard to No. 4, the proceedings of the Seanad continued right up to the adjournment and there was not time.  The position <Col N="228" /> now is that the Minister is available today to take No. 4 and the Senator in whose name the motion is tabled will not be available until later in the evening.  It is very difficult so to arrange matters that both sides are on the spot at the time required.  I cannot see at the moment when these motions will be taken, in view of the amount of Government business on the Order Paper for the next couple of weeks.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>Might I point out that motion No. 4 has been on the Order Paper for almost a year now and is very much out of date.  While it was quite relevant&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>We just cannot go into that matter.</P>
+    </Speaker>
+    <Speaker pid="PatrickQuinlan" hpid="Professor Quinlan Professor Quinlan">
+      <NameTxt>Professor Quinlan</NameTxt>
+      <P>Can we have an assurance that some time will be set aside before the Adjournment, to take the motions, even if it is necessary to sit an additional day next week, seeing that we are assembled for the purpose?</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Could we be told what business we are expected to transact before the recess?  The Leader of the House made a rather terrifying statement a moment ago when he spoke of &ldquo;the next couple of weeks.&rdquo; I do not like that.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I shall let the House know before the adjournment this evening the amount of business we expect to take.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>You will make a statement before the House rises?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Thank you.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Oireachtas Members Pension Scheme:" RHead="Report of Joint Committee">
+    <Title>Oireachtas Members Pension Scheme: Report of Joint Committee.</Title>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>I move:</P>
+      <P>(1)  That the Report do lie on the Table; and</P>
+      <P>(2)  That the Report, Appendix and Proceedings be printed.</P>
+      <P>Agreed and ordered accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Local Government (No. 2) Bill, 1960" RHead="&mdash;Committee and Final Stages">
+    <Title>Local Government (No. 2) Bill, 1960 &mdash;Committee and Final Stages.</Title>
+    <P>
+      <Col N="229" /> Sections 1 to 9, inclusive, agreed to.</P>
+    <P Just="Center">SECTION 10.</P>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I move amendment No. 1:</P>
+      <P>Before subsection (7) to insert a new subsection as follows:&mdash;</P>
+      <P>&ldquo;( ) Every order to which subsection (6) of this section applies which authorises a local authority to extinguish a public right of way and in respect of which a local public inquiry has not been held shall be laid before each House of the Oireachtas as soon as may be after it is made and if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.&rdquo;</P>
+      <P>The purpose of this amendment is to provide that where it is proposed to extinguish a public right of way, the order which will eventually be made extinguishing that public right of way should be laid before each House of the Oireachtas.  The practice, as I understand it, has been that you cannot extinguish a public right of way except by Act of Parliament. If a private individual wanted to extinguish a right of way over his land, however inconvenient it might be and however much it might reduce the value of his land, he could not do so except by private Act of parliament. That would be quite a costly business for a private individual.  It might mean a great loss to a builder who had acquired a building site.</P>
+    </Speaker>
+    <P>It seems to be a minimum requirement that if we extinguish public rights of way merely by an order and dispense with the formality of an Act of Parliament for that purpose, we ought have the order extinguishing the right of way laid before each House of the Oireachtas, so that if there is any good reason why it should not be <Col N="230" /> confirmed, the Oireachtas will have the last say.</P>
+    <P>It is often too easy to take the easy way out and merely to say: &ldquo;The Minister has sanctioned this after an inquiry has been held.&rdquo;  It would be far better if, in a case of that kind where a right of way has to be extinguished, the Oireachtas could examine the matter, be fully briefed and have the benefit of any representations that might be made by people interested.</P>
+    <P>There is a further point associated with this amendment.  If there is an alternative to leaving a public right of way, the fact the order has to be laid before each House of the Oireachtas will make a local authority look a second time at the position. They may be able to leave the right of way or to substitute an alternative without any great inconvenience or cost to the local authority.  The fact that the order confirming the extinguishing of the right of way would have to be examined by the Oireachtas would have that restraining effect on the local authority in extinguishing the right of way completely.  For that reason, I urge this amendment on the House.</P>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>I wish to support the amendment.  It is a most arbitrary power to take the right to extinguish rights of way.  Perhaps in city areas the importance of rights of way may not be in the minds of some Senators.  As a rural Senator, I am conscious that rights of way are most important.  They have extraordinary effects on the value of property and on the lives of individuals. Taking something which was enjoyed by one's forebears for many generations almost in the dead of night, to use the phrase, does seem just a bit too high-handed.</P>
+    </Speaker>
+    <P>I feel Senator O'Quigley's amendment is very reasonable.  There is nothing extraordinary about it and it is one that could easily be accepted by the Minister.  It would lead to the feeling that at least notice was being taken of this power, if it were being used and that while we were entering into the field of interfering with <Col N="231" /> the individual, at the same time, we did it with reluctance.  The individual would know that notice was being taken of the fact that his right of way was being extinguished.  Therefore, I wish to support Senator O'Quigley's amendment and I ask the Minister to look at it sympathetically.</P>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>In my opinion, Senator O'Quigley's amendment deserves support.  I am thinking particularly of my own homeland, Dalkey. Much of the amenities of that district depend on the rights of way.  There are magnificent walks away from traffic and if those rights of way were removed, Dalkey would suffer considerably. Under this Bill, they could be removed without any Act of Parliament as was necessary in the old days.  As Senator Donegan said, they are precious things to the community. They enhance the value of property and they enhance the amenities of many country districts.  I agree with him that this is a matter which perhaps townspeople do not understand as well as country people.  It is in the country that these rights of way really matter.</P>
+      <P>There is one question I should like to ask in supporting this amendment. How will this bear on compensation? A site may be very much more valuable if a right of way is abolished. Who will get the value of that?  Will it be the seller or a county council which can build a school and perhaps move it to another site and have a very much more valuable site as a result of this?  I hope the Minister will consider this amendment and perhaps concede it is a reasonable one.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>On the question of the meaning of the section, am I right in thinking that a right of way can be extinguished, in the first place, only if a local body wants it extinguished and in the second place, if the Minister confirms the order; that in any case where the Minister does not confirm the order, the right of way is not abolished and in cases where the Minister does confirm the order, there will be a local public inquiry?  If that is so, then the amendment expresses itself on line 3 &ldquo;in <Col N="232" /> respect of which a local public inquiry has not been held.&rdquo;  My reading of the section&mdash;perhaps I am wrong&mdash;is that where the Minister is going to confirm the order, he must have a public inquiry.  If that is right, it would alter the whole matter.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Minister for Local Government (Mr. Blaney) Neil T. Blaney">
+      <NameTxt>Minister for Local Government (Mr. Blaney)</NameTxt>
+      <P>Senator Hayes has put his finger on the context of this amendment and the particular powers under the section to which it refers.  The amendment would be to the purpose that where it was proposed to extinguish a right of way about which no local inquiry had been held, the order should be laid before both Houses of the Oireachtas.  Subsection (6) of Section 10 makes it quite clear that a local inquiry will have been held in any case where the public right of way is in question, whether or not any objection has been made by anybody to the extinguishment.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Provided the Minister is going to agree&mdash;is that right?</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Whether he agrees or not?</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>If it is proposed to extinguish any right of way, whether there has been any objection made by an aggrieved party, a local public inquiry must be held.  Therefore, the point in the amendment is really unnecessary.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>In regard to the question of compensation, who is going to benefit by the abolition of the right of way?  There might be a lot of money involved in the value of a site.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I am afraid it is rather difficult to answer the Senator as to who is going to gain by way of compensation. Being a public right of way, nobody owns it to the degree that he can in fact be paid.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>Except by an Act of Parliament, but we do not want to press that point.  I take it that <Col N="233" /> it is the local authority which will ultimately benefit by the abolition but the public will lose, because I am quite sure a great number of the public would prefer the right of way rather than have the site opened up.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I can only say that it seems that what the Senator has said would be so.  Again, we must have regard to the considerations and the reasons why such public rights of way might be extinguished.  It would be through the local authority in furtherance of the interests of the common good, and the public would be benefiting through that local authority, possibly in small obscure ways; nevertheless whatever benefit there would be, would be to the public and the community.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It is a fiction to say that subsection (6) of Section 10 is clear because it is quite evident that it is not clear and I do not think anybody understands precisely what the position is.  What I want to establish is that where a public right of way is being extinguished, the ultimate order authorising the extinguishment of the public right of way will be subject to appeal to both Houses of the Oireachtas, that it will be laid before each House of the Oireachtas.</P>
+      <P>It does appear that a public inquiry will have to be held in all cases where a right of way is to be extinguished if the Minister proposed to confirm it. I am not satisfied with that at all.  It may sound well to speak of a local public inquiry and that the findings of the inquiry will be confirmed by the Minister.  How are our people to get copies of the decision of the Minister?  Where are they to get the report of the inspector or other public functionary who holds the inquiry? How do the public know the particular considerations which eventually motivate the Minister to confirm rather than not confirm the report of the local inquiry?</P>
+    </Speaker>
+    <P>It is all right to talk about having a public inquiry.  An inquiry can be carried out well, indifferently, or not well, and I think when we are going the distance of giving these extraordinary <Col N="234" /> powers to local authorities, we ought to ensure that the public interests, public rights of way, will be protected.</P>
+    <P>The Minister has not said anything at all which convinces me that there is no necessity for this amendment and I would ask him to consider another version of this amendment, which, I think, was mistakenly drafted in the belief that subsection (6) meant something else.  What I want to achieve is that every order which will extinguish a public right of way will be laid before each House of the Oireachtas.  If the Minister is going on practice and experience, he has nothing to fear in that regard because orders laid before each House of the Oireachtas are never looked at.  At any rate, I want to provide that Parliament will have the last say.</P>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>If it wants to.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Or if the public are agitated by a right of way, they will take note of it.  In that context, I want to refer&mdash;I hope not irrelevantly &mdash;to what happens when you vest final powers in public authorities such as Ministers, statutory bodies and so on. At the present time, there is not a thing in the world that members of the public or either House of the Oireachtas can do in relation to the dismemberment of the railway system. There is no right of review. There is no power of annulment and there is no right to question the decision. When complaint is made of C.I.E. decisions, the Minister for Transport and Power says that is what they are entitled to do under the Act.  That same system which everybody abhors and against which there is a growing body of public opinion, is being perpetuated and continued in relation to public rights of way.</P>
+      <P>I want to preserve the position where Parliament will have the last say.  If Parliament is to be taken as acting reasonably and with a view to the common good, I do not see what objections the Minister can have to an amendment of this kind.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The objection is not really an objection.  The fact is that <Col N="235" /> the amendment does not make sense. I tried to explain that earlier.  May I say this again: The amendment which we have before us asks that these orders should be placed before both Houses of the Oireachtas in the case where a public right of way is being extinguished without a local public inquiry.  I have already stated, and I reiterate, that no such eventuality can arise under this enactment without a public local inquiry.  Therefore, as I say, the amendment does not make any sense.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I agree that the amendment is not accurate.  I said that it was based on a misconception of this eminently clear subsection. Would the Minister accept the principle I am putting forward?  What I want to provide is that the orders extinguishing a public right of way will eventually be laid before each House. If the Minister is prepared to agree that is desirable, we can certainly have an amendment for the next stage.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>May I put it another way?  Even this further widening of what is said to be the intention of the amendment, which in fact does not mean what is now being said of it, is based on the belief that the powers conferred under this measure are very wide and are arbitrary powers; that they are something new, unknown and unheralded in this House in the past. The fact is that this is not a new type of power at all.  It is merely a contribution of the power contained in, I think, Section 18 of the Housing Act, 1931.  No new power is given that has not been observed in its working in the past.  What is new in this enactment is that greater safeguards are now being given than have operated under the Housing Acts since 1931.</P>
+    </Speaker>
+    <P>Those greater safeguards have the effect that no right of way may be extinguished by order, unless and until a public local inquiry has been held, regardless of whether or not any member of the public has objected to the extinguishment.  Under the Housing Act which has operated for years, if no objection was made to an extinguishment, there was no local public <Col N="236" /> inquiry.  In this case, the additional safeguard is that whether or not the members of the public might be fully alive to the position or go to the trouble of objecting, no extinguishment may take place under this enactment without a public local inquiry.</P>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I am withdrawing the amendment for the purpose of putting down an amendment to meet the position on Report Stage.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Question proposed: &ldquo;That Section 10 stand part of the Bill&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>The ramifications of the powers vested in local authorities for the purpose of acquiring land for the Housing of the Working Classes Act are so immense that it is not very easy to see what they apply to particularly and with certainty.  I understood from the speech made by the Minister on Second Reading that it is intended, though the Minister did not stress this, that these powers of compulsory acquisition which apply in relation to housing will apply also in relation to the acquisition of land for road purposes.</P>
+      <P>If that is the case, we would want to pause and consider the vesting of these powers in local authorities.  I understand that this kind of power&mdash; I may be wrong&mdash;can be used, for instance, to assist in the Bray Road project and that the homes of people along that proposed new road may be broken into by these compulsory acquisition powers and that thereafter the amount of compensation which will be paid to them will be determined by an arbitrator under the Acquisition of Land (Assessment of Compensation) Act, 1919.</P>
+    </Speaker>
+    <P>If this power is to be used, or if it may be used, for the purpose of acquiring land compulsorily for road purposes, it means that a tremendous number of people will be involved.  In the acquisition of land in the case of housing estates or any particular town or centre of population there will be only a few places where it will be necessary to acquire land.  Can the Minister tell us, if this power in relation to roads is vested in the local <Col N="237" /> authorities, how many inquiries it will be necessary to hold?  Again, it may be that I am wrong in thinking that an inquiry will be necessary at all.  If not, it is much worse.</P>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Might I repeat that no new powers are being conferred?  In other words, no new operations will necessarily arise as a result of this measure which could not have arisen under existing laws in the past.  The main change is in the method of procedure in the case of acquisition but the actual power already exists under various other enactments.  We are not adding one whit to the powers or extending them in any way whatsoever. I think that, if appreciated, will answer many of the queries that may arise in the minds of Senators.  They will realise that this is not an extension of power and, therefore, nothing new in the sphere of operations can be contemplated under it that could not have been contemplated in the past.  It is merely tightening up the procedure in relation to acquisition rather than conferring new powers of acquisition.</P>
+    </Speaker>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>Speaking on Second Stage, I made this point in a general way.  I do not view the tightening up, to quote the Minister's phrase, with any great equanimity.  I hold the view that when a compulsory acquisition order is being made, particularly if poor people or small land holders are involved, they feel that they are being caught up in the machinery of compulsory acquisition and when they come out of the mill on the other side, they are in a fairly masticated condition&mdash;or perhaps not quite as bad as that.</P>
+    </Speaker>
+    <P>I feel that the provisional order procedure was slower and more unwieldy. It was more difficult for the county manager and more annoying to the staff, but, in my view, it had this good point: it gave time for local feeling and public opinion to develop.  It could not be put through in as facile a manner as it can now be put through. It will certainly be faster and more facile if we give power to take land for roads and office buildings and that type of thing under a compulsory <Col N="238" /> acquisition order, just as if it were land for housing for the working classes.  Such an extension of power is most convenient for the county manager and the staff, but the slowing up was a safeguard and I deplore its passing.</P>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Senator Donegan seems to have fallen for the idea that something which is slow and cumbersome and, in some cases, almost unworkable, has some virtue that does not lie in a procedure which can be said to be the opposite.  I say again that the provisional order procedure contained the same power ultimately&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>Ultimately, yes.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>&mdash;&mdash;as does the compulsory purchase order procedure.  The provisional order procedure was unwieldy and did not make for the speedy and efficient carrying out of the business of local authorities.  At the same time, I want to say that no real benefits and no real safeguards existed because of the slowing down effect of that procedure, which it is now proposed to take away.  The fact that it was slow and unwiedly does not make it any safer, nor does it offer any particular virtue from anyone's point of view.</P>
+      <P>When the Senator talked of the county manager being able to act with greater ease and with greater speed in future, one would be excused for thinking for a moment he was doing something for himself rather than that his operations as county manager or as the executive of the local authority were on behalf of the local authority and, in turn, on behalf of the community as a whole which he himself serves in that capacity.  The situation we had in regard to the provisional order procedure was not one which made for expedition in the work of the local authority, in many instances, nor does its passing, in any way that I can see, significantly alter the situation as we knew it in that compulsory purchase was possible in the past under the old procedure and is still possible under the new procedure.</P>
+    </Speaker>
+    <P>That it can be done with less red <Col N="239" /> tape in the future is surely not to be mourned.  In fact, one of the main objectives of the Bill is to try to cut down the red tape of the provisional order procedure, without at the same time altering in any real degree the safeguards available to the public who may fall under the new procedure.  I think I should again read in detail how this procedure actually performs its functions.</P>
+    <P>It provides that the local authority must first advertise its proposal for three consecutive weeks in one month. That is the first thing it provides.</P>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>That is the provisional order?</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>That is the provisional order procedure.  In the following month, the local authority must serve notice on every owner, lessee and occupier of property affected.  Only after that procedure may the local authority petition the Minister for a provisional order putting into force the provisions of the Lands Clauses Acts with respect to the purchase and taking of lands otherwise than by agreement. Unless all those served by the local authority with notice signify assent to the proposal the Minister may not grant a provisional order without holding a public inquiry.  If all interested parties assent, nevertheless the Minister must give two weeks' public notice before making the provisional order.  The local authority next advertises the provisional order, and five weeks are allowed for appeals to the Minister or Circuit Court. Finally, the Minister must give one week's public notice before confirming the provisional order.</P>
+    </Speaker>
+    <P>I think with all respect to that outline of the provisional order procedure, it would appear quite obvious to a number of people that a lot of the odds and ends attached to this matter could be left out without doing damage to anyone.  It was on looking at it from that point of view that we came to the idea of bringing acquisition under this procedure into line with the acquisition procedure which operates in regard to quite a number of other matters with which local authorities <Col N="240" /> are concerned.  In future the acquisition procedure for all enactments will be the compulsory purchase order procedure.</P>
+    <P>As I say, that procedure is not unduly lengthy or unduly protracted. The House will agree that adequate safeguards are contained in the relevant legislation, which the House is entitled to expect in any enactment like this one.  This will be readily understood when I give the House a brief analysis, as it were, of how the compulsory purchase procedure actually works.</P>
+    <P>The procedure itself is contained in Section 37 of the Housing (Miscellaneous Provisions) Act, 1931, and in the Second Schedule to that Act.  A compulsory purchase order must be in the prescribed form and describe by reference to a map the land to which it applies.  Before submitting it to the Minister it must be published in one or more newspapers circulating within the district of the local authority; and notices must be served on every owner, lessee and occupier&mdash; except monthly or lesser tenants&mdash;of the land to which the order relates. Two or three weeks are allowed for objecting, at the local authority's discretion. If no objections are made to the order, or if any objections made are withdrawn, the Minister may confirm the order without inquiry, but in any other case, unless the Minister is satisfied that the order should be annulled, a public local inquiry must be held.  After consideration of the report of the inquiry, the order may be confirmed with or without modification. Notice of the confirming order is published and circulated by the local authority and the order becomes operative three weeks afterwards. There is, I might add, an appeal to the High Court on points of law only.</P>
+    <P>That is the compulsory purchase order procedure and with the notice, the advertisements, the obligation to hold a public inquiry where objections are made, and all the time which even under this more speedy solution must elapse, I do not think anyone can feel it would be a dangerous weapon in the hands of a local authority, particularly <Col N="241" /> as this type of procedure is not new and has indeed been used by local authorities for a considerable time.  Furthermore, no real objection to it has in fact been made over all these years in which it has been worked by local authorities in respect of acquisition for purposes other than those outlined in this measure.  I feel that the House can be quite satisfied from past experience that the compulsory purchase order, and the requirements of the formula which must be gone through in the compulsory purchase procedure, present no undue danger. In fact, it seems to me that there is every safeguard for the rights of individual owners of property that may from time to time come under this instrument.</P>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>The Minister speaks of speedy and efficient carrying out of local government business.  If the Minister spoke of laying a railway track in the middle of the House, he might be in favour of speedy and efficient carrying out of business.  I hold that the people who made the difference between the compulsory order and the provisional order knew what they were doing, that they made local authorities which were interfering with the rights of the individual go through a lengthy procedure deliberately so that a period could elapse in which a person will have time to make every effort to keep his property, if he feels aggrieved.</P>
+    </Speaker>
+    <P>Mark you, the distinction was clearly deliberately made only for more pressing needs; the compulsory acquisition order was allowed only for pressing needs such as housing, a matter more pressing than roads or office buildings.  That distinction was deliberately made so that the procedure would be lengthy.  Would the Minister concede that a county manager, faced with the prospect of going through a lengthy provisional order procedure, would be more inclined to bend over backways to try to get an ordinary purchase from the owner of property rather than go through the procedure, whereas if he has the more efficient and speedy compulsory order procedure, he becomes less inclined <Col N="242" /> to make a decent offer for the property or deal privately with the owner?</P>
+    <P>I hold that this is another step to strengthen the hands of officials of local government and I am all against that.  It is necessary that we should have compulsory acquisition in many cases, but interference with the rights of the individual and his property is something against which this House should jealously guard.  I think the Minister must concede that if county managers have this more easy compulsory order under this new schedule to work with in the case of land they want for roads or office buildings, they will be less inclined to deal privately with owners and that this will be to the detriment of owners.</P>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>The Minister went to great lengths to distinguish between the provisional order procedure and the compulsory order procedure and at the end of his description of the latter procedure, he tells us of a right of appeal on a point of law to the High Court.  He did not tell us this evening as he did on the Second Reading about a right of appeal to the Minister or to the Circuit Court under the provisional order procedure.  I do not know what the nature of that appeal was to the Circuit Court, but at any rate I always like to see courts brought into these matters&mdash;not because I am a barrister but because I have tremendous respect for the rights of the individual and I believe that these rights are more likely to be safeguarded by somebody who can snap his hands figuratively at the Minister or the local authority than by a public functionary who is a servant of the Minister.</P>
+    </Speaker>
+    <P>All public local Government inquiries, as I understand the position, are held by servants of the Minister, members of the Minister's Department. That is not the independence, the status, you want in a case where you are deciding a matter between the State or the local authority and the individual.  As far as I am concerned, every step further you go away from having a matter decided between an individual and the State by the court is a step in the wrong direction.  I do not think I shall convince the Minister <Col N="243" /> on that because he has already made up his mind.  So far, as the House is concerned, any powers such as these should be given reluctantly, and, from that point of view, therefore, I think the debate on the amendment and on this section was well worth while.</P>
+    <P>I want to turn to another aspect of subsection (4), sub-paragraphs (a) and (b).  Sub-paragraph (b) clearly is the kind of drafting about which the Minister was speaking earlier with regard to subsection (6).  It reads:&mdash;</P>
+    <P>The provisions of sections 30, 36, 45 and 49 of the Housing (Miscellaneous Provisions) Act, 1931, and the provisions of section 50 of that Act as modified by section 18 of the Housing (Amendment) Act, 1954, are hereby extended so to have effect for the purposes of this section, and &ldquo;the Minister&rdquo;, wherever that expression occurs in subsections (2) and (3) of the said section 45 as so extended, shall be construed as referring to the appropriate Minister.</P>
+    <P>I would like the Minister to tell us what does that mean?</P>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>The Minister has told us that we are to have less red tape and more speed if this goes through, but I would remind him that more speed often leads to bad legislation and we must guard against that.  I agree with other Senators that we are going too far in the wrong direction.  The whole principle of compulsory acquisition and the Housing of the Working Classes Act was set up here in Ireland to enable local authorities to overcome an urgent social problem and to get land for houses for less well-off people.  It was introduced to put an end to landowners holding local authorities up to ransom or looking for an unfair price for a piece of land.  I agree with the policy that local authorities should have the right compulsorily to acquire land for houses and subsequently to refer the case for fair compensation to an independent arbitrator. That is generally accepted throughout this country and that is good legislation.</P>
+    </Speaker>
+    <P>
+      <Col N="244" /> The Minister speaks about less red tape but red tape often protects the individual and the individual owner. I think that in this House we should be jealous of and guard the rights of ownership, whether it is the ownership of land, of a house or even of a labouring man's cottage, especially when we see cases throughout the world to-day of confiscation by a Government of both public and private property.  We were told the last day &mdash;and I agree&mdash;that we are giving powers to our Minister and local authorities so that if in the future we had a Communist county council or Minister, they could under existing legislation and the laws we are passing at the present time indulge in confiscation of people's property.</P>
+    <P>Very wide powers of compulsory acquisition are being given to local authorities in this Bill.  I take exception to them.  I agree with Senator Donegan.  This is another example of the manner in which bureaucracy is creeping into our legislation.  It is more convenient, from a bureaucratic point of view, to provide a means of acquisition by a local authority.  I object to that.  It is our duty to be on guard against the growth of bureaucracy. Unfortunately, whether or not we like it, some county managers and county officials are little Hitlers and dictators. There is no denying that if they get this power, they will use it.  When they decide to go ahead with any grandiose scheme, such, for instance, as the rebuilding of the Bray road they hate anything to stand in their way.  It is dangerous to give too much power to local authorities.  We know that all power corrupts and that absolute power corrupts absolutely.</P>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Certain statements have been made on false assumptions.  The last speaker made the case that if we should have a Communist Minister, manager and council, all sorts of things would happen which none of the ordinary democratic people would wish to tolerate.</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>Or a Fidel Castro.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>It amounts to this. The Senator is envisaging a situation <Col N="245" /> in which the manager is a Communist. His council must agree with the type of Communism he professes.  The Minister must be a like type of Communist, with the same view on acquisition. Then all three must gang up on the rest of the community and say: &ldquo;We will do this for our own purposes and not for the good of the community.&rdquo; That is asking a little too much.</P>
+      <P>In circumstances where that could really happen, it would be a case of all the people concerned being of the same mind.  To stretch the imagination to the point of getting three different people to think wrongly but in the same manner on a single situation or subject is asking a little too much in our democracy as we know it and the manner in which it has worked.</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>Hitler got all Germany.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>That neither proves nor disproves what the Senator has been asserting.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>And we had virtual dictatorship here for 16 years.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Exception was taken by a Senator to the fact that a public local inquiry relating to these matters will be presided over by a servant of the Minister.  It is alleged that that is a grave and dangerous situation. The servant of the Minister would very likely be an officer of the Department of Local Government who, by his training, experience and knowledge, would be particularly suited to elicit every relevant fact in relation to the case about which the inquiry was being held.  Having elicited all the facts, as only somebody with knowledge and experience of these matters could be expected to do, he reports the findings of the inquiry to his Minister.  What is wrong with the procedure?  What is wrong with sending a qualified, experienced, knowledgeable man to deal with a subject about which he knows more than most people in the country?</P>
+    </Speaker>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>He is one of the boys.  That is what is wrong.</P>
+    </Speaker>
+    <Col N="246" />
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>We have to look at this again.  What boys is the Senator talking about when he talks of this servant or official being &ldquo;one of the boys&rdquo;?</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>One of the bureaucrats.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Let us say that is a danger&mdash;which I do not admit.  Let us take it that the manager and the officers of the local authority and the officials of the Department of Local Government are all &ldquo;the boys&rdquo; and &ldquo;the bureaucrats&rdquo;.  Is that not the assumption we are working on now? Very good.  The manager is subject, in relation to a vast degree of his duties to his elected council.  Will they also be &ldquo;the boys&rdquo;?  Will they also be in the majority on their councils in order that the manager, as &ldquo;one of the boys,&rdquo; can behave according to the Senator's suggestion?</P>
+      <P>Assuming that that most unlikely and almost impossible event is possible, we have then to bring the manager and the Local Government officials&mdash;having converted the local council to think as &ldquo;one of the boys&rdquo; and as &ldquo;one of the bureaucrats&rdquo;&mdash; into the presence, as it were, of the Minister for Local Government who must also&mdash;if these people are to have their bureaucratic way as is suggested here&mdash;join &ldquo;the boys&rdquo; and be one of them and one of &ldquo;the bureaucrats.&rdquo; That is straining one's imagination a little too far.  The dangers allegedly inherent in such an assumed situation are very far from real and are most unlikely ever to come to pass.</P>
+      <P>Senator L'Estrange said he agrees with compulsory purchase order procedure for housing.  Since we are also operating it for other matters.  I take it he agrees with those other matters. I refer to health services, public assistance and mental hospitals.  I take it there is agreement there, since this procedure has been in operation and has worked without unduly straining anybody's patience over the years.</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>There is more red tape.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I am talking about compulsory purchase order procedure <Col N="247" /> with which the Senator said he agrees, as far as housing is concerned.  I take it he would also agree that it is suitable, since it has worked without unduly straining anybody's patience, in regard to health services, public assistance and mental hospitals.  That being so, would the Senator tell me the difference between using compulsory purchase order procedure, for instance, for the purpose of building an office for health staff as distinct from building an office for ordinary county council staff?</P>
+      <P>When there is no apparent difference at all between the actual building of offices for the health staff and other staff, there should be no objection in relation to acquisition for building for ordinary county council staff.  Surely it is rather indefensible that grave objection should be taken if the manner in which land for the building of offices for the health staff of the council is acquired is applied to land which will be acquired for the building of an office for other staff of the council?  That the two should be so radically different, that there should be a completely diametrically opposite approach to the way in which the land should be acquired, since it will be agreed that building offices for both staffs is tantamount to the same thing&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>The Minister is too suave.  Would he like to tell us the difference between roads&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>And dancehalls. You can provide dancehalls, if this goes through.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Tell us about the roads.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>What I am trying to get across&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>The Senators do not want to listen.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>If they want to make arguments such as these, which I do not think are very sound, then in the interest of general accuracy, I feel obliged to refute them.  In doing that, I merely draw attention to the acceptance by the Senators who have <Col N="248" /> made these objections, of the compulsory purchase order procedure which is already in existence for the acquisition of land for building offices for health staff.  Yet they would insist that we should not use the same procedure to acquire land to house staffs of county councils.  That is the type of argument that has been made and the type of argument which I am answering.</P>
+      <P>The point I should emphasise, if there is any point in emphasising it, in order to try to convert those who will not see, is that no new powers are being given under this Bill.  They are dealing with a point of procedure and not with the question of conferring new additional powers placing landowners still further in the grasp of county managers who were mentioned as not being likely to lean backward sufficiently in order to get a voluntary acquisition of lands in the future, because of this ready weapon of the compulsory purchase order procedure which is now being made available to them.</P>
+      <P>My experience of county managers and of local authorities down the years is that they lean backwards on every occasion where there is any possible hope of a voluntary or agreed acquisition. On every possible occasion, they try to get voluntary agreement rather than use any part of the compulsory powers they already have.  I have no fear that councils or managers are going to change completely in the future on foot of the change made in this Bill in respect of some of their functions, or depart from that reasonable approach which they have shown in the past, or suddenly set themselves up as dictators, backed, it is alleged, by power given in this proposal which is now before the House.  It is assumed that it gives that power, but in fact it does not give anything additional to that which they already have.</P>
+    </Speaker>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>I should like to give the Minister a peroration on &ldquo;the boys&rdquo;.  It is a fact that every good Minister defends his Department and it is a fact that every man becomes a cog in the wheels of his organisation and that he wants that organisation <Col N="249" /> to succeed.  The organisation of which the Minister is head has farflung arms, reaching to Kerry County Council and to Donegal County Council. When a county manager or a county engineer decides to build a road or to straighten a road, then if he is near Dublin, he goes into the Department of Local Government once a week and has a chat with the particular principal officers in whatever section he wants to deal with.  If he is in Donegal or Kerry, he goes in once a fortnight.</P>
+      <P>Eventually, through all the machinations, it comes up to the top and there is the decision of the Minister: &ldquo;We will straighten that road and we will give 100 per cent. grant.&rdquo;  We have had experience of that and the Minister was very munificent, for which I thank him.  But when that complexion has been put on it then, you have the group I am talking about, and small blame to them.  All you want at the stage is the acquiescence of the county council and the whole thing is set in motion and the principal officers from the Department of Local Government who comes down to the public inquiry can be&mdash;and pardon me for using the phrase&mdash;&ldquo;one of the boys&rdquo;, too.</P>
+      <P>I feel the safeguards are needed but the Minister has not answered my query.  He is very efficient at answering the ones he wants to and not answering those he does not want to answer. Here is my query a second time: If a county manager had to put a provisional order through to take a man's property and he knew it was unwieldy and perhaps a nuisance, and that it would take a considerable amount of time, he would be more inclined to deal with that man privately, in my opinion, than he would be if he knew he had the weapon of the more efficient and more speedy&mdash;to quote the Minister's words&mdash;compulsory acquisition order.  Does the Minister agree with me on that or not?</P>
+    </Speaker>
+    <P>I say the people who made the distinction made it on purpose and excluded the less essential services.  When the Minister makes the distinction that you can build an office for health staff <Col N="250" /> and you cannot build an office for county council staff, it is bringing the two ends as close together as the dividing wall will allow.  Of course, you cannot frame legislation to cover everything.  What was intended was that you could compulsorily acquire and go through the more speedy method when you needed land for hospitals, but, when you needed land for a road, you had to give the individual the greater advantage and protection of the more lengthy procedure of the provisional order.</P>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It is only too evident that the Minister will not address himself to the real objection we are making to this section.  What I am objecting to is not the application of the compulsory purchase procedure for the purchase or acquisition of land for houses and hospitals and things of that kind.  It may be all right with fairly limited safeguards to turn from the norm for the purpose of acquiring land for vital needs, such as hospitals and houses, but it is quite a different story when it comes to acquiring land for making new roads which may not be necessary and which may impose tremendous burdens on ratepayers and taxpayers alike.  What it is sought to do is to accelerate the acquisition of land in order to provide more and more roads which, in the opinion of many people, are quite unnecessary.</P>
+      <P>There is another objection in substance to this procedure which I repeat, and I find authority for it in the Bible: no man can serve two masters. The servant of the Minister cannot serve the Minister and, at the same time, serve the public interest and the interests of justice.  We have seen examples of this kind of procedure where in the Supreme Court an appeals officer under the Social Welfare Acts did not stand up for five minutes.  He was washed out.  He was completely wrong.  That is the kind of procedure we are having instead of the ordinary judicial process where people are deprived of land.  The Minister has not answered any of these objections. I do not think we can convert him now.  Might I ask him what is intended to be achieved by paragraph (b) of subsection (4)?</P>
+    </Speaker>
+    <Col N="251" />
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>I just want to raise one very small non-contentious point.  There seems to be a misprint in line 14.  As it stands it says &ldquo;hereby extended so to have effect&rdquo;.  I take that to be &ldquo;so as to have effect&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>I am in agreement with any legislation that encourages a local authority to look after the public welfare and to carry out developments in the public interest in the building of houses, hospitals or anything concerned with our health services.  I am in agreement with the powers the local authorities have in regard to compulsory acquisition.  At the same time, I realise that the owners of land have their rights.  In cases like this, the local authority must cater for the public interest and the common good and in that connection I am definitely in favour of the law.</P>
+      <P>If this new legislation goes through, the land can be taken over compulsorily for the building of roads.  Under this measure, if agreed to, land can also be acquired for the building of halls.  I think there is a very big difference between the compulsory acquisition of land for hospitals and houses and its compulsory acquisition for roads and halls.</P>
+      <P>The Minister stated that he is doing away with red tape.  I think it might be better if we had some of the red tape there so that it might be found somewhat more difficult to take lands, particularly for the building of halls, as is stated specifically in this Bill. As regards county councillors ganging up, county councillors can gang up and do very funny things at times. The Minister's brother is a member of the Donegal County Council.  He got up recently along with seven other county councillors in Donegal and objected to Surgeon McGinley's portrait being hung in the new hospital in Donegal, simply because he was a Fine Gael supporter.</P>
+    </Speaker>
+    <Speaker pid="LiamOBuachalla" hpid="An Cathaoirleach An Cathaoirleach">
+      <NameTxt>An Cathaoirleach</NameTxt>
+      <P>That has nothing to do with the Bill under discussion.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The longer we talk on this, the more ridiculous it becomes. That is really not quite unintentional. I shall again endeavour to elucidate <Col N="252" /> to some degree, if elucidation is any use in this matter.  Let me put another matter to Senators who take such grave exception to this question of procedure.  There are multipurpose uses for which land might be acquired, such as for offices that might contain health staffs, public assistance staffs and the council's general purpose staff.  We might also want land for roads.  We might want land, perhaps, for a hospital or a dispensary or some such project.  These things have arisen.  They are not just something that may happen.</P>
+      <P>We had a ludicrous position in regard to the procedure laid down when, for instance, part of a building, which would stand on part of the ground, referred to the general staff of a county council.  We had the provisional order procedure whereby we might acquire an undefined portion of the site on which a composite office, to house both the health people and the general council staff, was to be built.  We had to try to find out which part of the site were we acquiring for the ordinary general staff of the council, and provisional order procedure applied thereto.  The other part of that site for that same building, which would be appropriate to the health staff, had the compulsory purchase order procedure.  Likewise, if it were a dispensary, or a housing scheme with the widening of a roadway not necessitated because of the building of those houses, we had for the housing scheme the compulsory purchase order procedure, and for the roadway, which was part of the same lands to be acquired, the provisional order procedure.</P>
+    </Speaker>
+    <P>A sensible and sane approach to that matter was to use the one procedure, if we had two different procedures which we might have to use simultaneously on one particular parcel of land.  We asked ourselves which of the two procedures should be used.  What were the objections and what was the experience in the past in the use of both procedures?  We came to the conclusion, without any doubt whatever in our minds, that the compulsory purchase order procedure had advantages over the provisional order procedure and that if we were to go <Col N="253" /> for uniformity, which would seem to be ordinary common sense, as well as good business practice, uniformity would be better secured by having all compulsory purchase order procedure rather than provisional order procedure.</P>
+    <P>What had we against the provisional order procedure?  From experience, what were the faults of that procedure? It did not work in a businesslike way over the years.  It is too cumbersome a method of doing a job which can be done equally well otherwise and in doing it otherwise, no hardship, damage or danger to any member of the public is created.  We opted for the compulsory purchase order procedure and brought uniformity as well as common sense into our dealings in these matters.</P>
+    <P>It is on that basis, I think, that the matter could even at this stage be approached and appreciated rather than on the basis of alleging that the Bill is giving some new powers to our local authorities and managers which, in fact, it does not give.  I do not think there is any purpose I can serve by further elaborating on what I have said not only here to-night and on the Second Reading in this House but on the various Stages on which I have spoken during the passage of this measure through the Dáil.</P>
+    <P>Question put and agreed to.</P>
+    <P>Sections 11 and 12 agreed to.</P>
+    <P Just="Center">SECTION 13</P>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I move amendment No. 2:&mdash;</P>
+      <P>In subsection (6), line 54, to delete &ldquo;month&rdquo; and substitute &ldquo;year&rdquo;.</P>
+    </Speaker>
+    <P>The purpose of this amendment is to extend from a month to a year the time within which a person whose land has been damaged by the entry thereon of a local authority official may make a claim for compensation from the local authority.  It seems to me to be quite absurd to fix a time limit of one month.  A person may be away on holidays, or it might happen that the damage itself might not appear until <Col N="254" /> well after a month after the time the local authority official entered on the land.</P>
+    <P>For instance, a local authority official may go upon land which is, say under barley or wheat.  It might appear at that stage that no great damage was done, but it might also happen that when the farmer came to harvest his crop, the yield might be below what would ordinarily be expected, and that might be traced back to the trampling around of the local authority official during his inspection of the property. I cannot see any justification for the period being as short as a month, and I think the Minister should accept the amendment and extend it to 12 months.</P>
+    <Speaker pid="EdwardMcGuire" hpid="Mr. McGuire Mr. McGuire">
+      <NameTxt>Mr. McGuire</NameTxt>
+      <P>I should like to support the proposal in this amendment. I urge on the Minister that a month is definitely too short a period. As Senator O'Quigley pointed out, it might take more than a month for damage to show itself, especially in the case of crops or anything growing.</P>
+      <P>I know of a case where a screen of trees was damaged rather seriously by an operation of this kind, and, because of the fact that the damage was done in the winter time, it was not noticed until the trees should have been in foliage.  It was then discovered that quite a wide area had been trampled on, which was very important from a screening point of view as well as from a beauty point of view.  I urge on the Minister that a month is definitely too short.  Perhaps he would see his way, if not to making it a year, at least to extending it to six months.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>I support this amendment.  Under subsection (2) of this section, authority is given to make excavations and to examine the depth and nature of the subsoil.  It is possible that sewerage pipes or water pipes might be damaged in the process and that damage might not become apparent until well after a month. This is a reasonable amendment and I hope the Minister will see his way to accept it.</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>I agree with the previous speaker that this is a most reasonable amendment, and I hope the Minister will accept it.  An owner is <Col N="255" /> entitled to be protected.  An individual or an owner of land might be away in America, or in the Congo, and might not be back for two or three months, and might not have an opportunity of finding out what damage had been done.  Senator Stanford mentioned that there can be examinations for sewerage or water and trenches might be six or eight feet deep.  They would be filled in but after that it depends on the land.  Anyone who knows anything about land knows that in some places the hole may subside by as much as one or two feet, in two or three months.  It depends on the soil and on the water.  I think the Minister should agree to alter the period to at least a year.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>In case a wrong impression is created, this right under this subsection is not the only right of a person whose hereditament may be damaged.  If there is any damage to his hereditament he has his ordinary legal rights, apart from his rights under this section.</P>
+    </Speaker>
+    <Speaker pid="PatrickSDonegan" hpid="Mr. Donegan Mr. Donegan">
+      <NameTxt>Mr. Donegan</NameTxt>
+      <P>I support the amendment. I can give a simple example which I heard of only two or three days ago.  A man had a green-house behind his house which was maliciously damaged.  In fact, every pane of glass was broken and when he came back, time had elapsed and he found that he could not claim from the county council because the evidence was that the damage had been done at some earlier period.  The owner was out of this country and returned after two years.  A period of one month in which to expect any man to examine his property is far too short.  I know that in most cases people know immediately if damage has been done, but there are the odd cases in which they do not know.  This is a very reasonable amendment and should be accepted.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>I wonder is Senator Lenihan correct in what he said. I very much doubt it.  I am not a practising lawyer, but this is a section which gives certain powers to local authorities and which provides for <Col N="256" /> what is to happen when the local authorities do damage.  It would take a good deal to convince me that under the provisions of subsection (6), which are quite explicit and deal with all these types of cases, a person has any other remedy.  If he has, it certainly is not any very simple remedy.  There may be an elaborate and difficult remedy.  If that is so, people whose land has been entered upon should be able to exercise the remedy given to them under this section.</P>
+      <P>It seems quite clear that one month is not enough.  I am not a landowner, and I do not know as much about land as my friend, Senator L'Estrange.  I have no experience such as Senator McGuire has, of land being taken from me, but it is quite clear to me that this subsection is self-contained and that the intention of the Minister and of the legislation is to give a person one month.  I am sure that if the Minister thought a month was not enough, he would be easily persuaded to extend it.  It does not appear to me that there is any other remedy, but, if there is, it certainly is not simple or swift.  There is no doubt about that.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>As Senator Lenihan has said, the provisions with regard to the time in which action may be taken are set out in the Bill.  This does not in any way reduce or abrogate the general common law obligations that may fall as a result of these operations.  May I say that the procedure here is a more or less cheap procedure which is readily available and which is being offered in such cases for whatever damage might occur as a result of entry.  It is right, I think, that in making provision for that cheap and easy remedy, some limit should be put on the time during which it may be available.</P>
+    </Speaker>
+    <P>It has been suggested, and it might so appear at first glance, that the period of a month would make for difficulty and would, in fact, create an impossible procedure for an absent owner or an owner who was away for a time.  Entry may be made under this section only with the consent of the owner or occupier or on the authority of the district justice, following, the <Col N="257" /> serving of notice.  There is no question that the owner or the person in whose care the property is will be ignorant of the matters which are being carried out by the local authority or the agent of the local authority, and so the question of an absentee owner does not really arise.  There are persons who might be out of the country for a couple of months but nothing will be done without their knowledge.</P>
+    <P>For that reason, I would point out to the House that the section does not raise the point which may appear at the outset, that someone may be away or may be missing for a time.  A claim can arise only if and when an agent of a local authority or a local authority's servant enters the land to investigate its possibilities for the purposes the local authority have in mind.  But that entry will only be after the owner or occupier has given his consent, or if he has failed to give his consent, it will arise only as a result of an order made by a district justice having heard the matter in the local district court.  The landowner has a month and if for any particular reason, such as that which has been mentioned, that damage might not become evident within a month&mdash;and that is always a possibility&mdash;the ordinary common law of the land is still available to the aggrieved party. No doubt if it should be a more costly procedure to take the action under common law, then, in the findings of the court, cognisance will have been taken of the additional costs incurred by the aggrieved person.  The matter of costs would arise, just as it would in any other action in the courts.</P>
+    <P>For that reason, I am inclined to put it to the House that this subsection really does not restrict anybody to this particular period.  The claim is really something that will be given within this time, but after that time expires, a person who, for one reason or another, has not availed of the rights, has still adequate protection&mdash;and I think it is adequate protection&mdash;under the common law of the land.  He may avail himself of that in the way which seems best to him.</P>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Would the Minister consider, in the light of what has <Col N="258" /> been said&mdash;we will get all Stages of the Bill next week, I presume, under the arrangements we propose to make &mdash;before the next Stage extending the period of a month?  It is not fair, it seems to me, that a county council or any local body should get power to interfere with my property and give a period of a month&mdash;the period has been recognised as not being sufficient&mdash;and then say: &ldquo;Oh, well; you have your common law rights.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>You say you have not.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>You have.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>I am assuming that I have my common law rights, but I have them against a body which under this Bill will have been given special rights.  I have many common law rights against a person who injures me, but here special rights are given to the local body to do something which may injure me and the Minister recognises the principle in this section.  I should have something more than common law rights.  There is no good in getting vexed about this, but, on the Minister's argument, it is very desirable that he should consider, before the next Stage, extending the month either to 12 months, as suggested in the amendment, or to some other period so as to give all persons who may be damnified by the Bill when it becomes an Act the cheaper remedy rather than the more difficult and more costly remedy.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It is clear what the purpose is.  The Minister says that nobody is likely to be injured without having notice of the fact that the local authority proposes to enter upon his land and that the local authority is obliged to serve 14 days' notice in writing of intention to make entry.  If there is no objection, then entry can be made.  If there is an objection, an application can be made to the district court.</P>
+    </Speaker>
+    <P>Then there is subsection (4) which authorises a district justice to make an order allowing the local authority to enter.  The district justice's order should specify the time or times in which the person will enter.  If that <Col N="259" /> were so, then there would be something to be said for the Minister's view that the owner of the land would know when the local authority was entering, but the district justice may merely make an order that X Y, a member of the local authority of county A B, may enter upon the lands of Jack Murphy.  If the time were specified, there would be something to be said for the Minister's point of view, but that is not contained in the Bill and if the Minister wants to have it that way, he can add it to Section 13, subsection (4).</P>
+    <P>In any event, I do not think that meets the situation.  The Minister has not made any argument against the 12 months but has relied upon the view expressed by Senator Lenihan that a person still has his common law right of action.  That is not so, with great respect to my learned senatorial colleague.  The position, as I apprehend it, is this: if a local authority enters upon my land and carries out, within the limits set out by statute, the work it is authorised to do, and does not do that negligently, and damage results to me, I have no right of action in common law or otherwise.</P>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>I was talking about negligence.  You have the common law remedy.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>The Senator never mentioned the word &ldquo;negligence&rdquo;. He thought we were simpletons and, mind you, we are not.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>There is no remedy if the local authority does the work within its powers and does not do it negligently and damage results. Damage could result in three months even if the local authority had done everything according to statute, and not negligently, and I want to provide for that case.  Say a local authority entered and did the work properly but none the less, the owner suffered damage up to £50 and had a claim for compensation.  I want that person entitled to three months or six months or, as I fix it, 12 months.</P>
+    </Speaker>
+    <P>The Minister on the last occasion <Col N="260" /> made a most heartening statement in reply to an observation by me: when it is a matter of a row between a local authority or public body and an individual, the Minister was standing four square and breast-high for the individual.</P>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>I thought he was bending over backwards.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I would ask the Minister to consider this again.  Take the case of some lady who has spent a great deal of money on flowers or doing up a rockery.  In the case of this dear old lady who has spent a great deal of money, it might take £25 or £30 to compensate her for the damage. She should not be deprived of the amount of money necessary to enable her to restore the <i>status quo.</i> A farmer whose land is damaged might need £40 or £50.  The Minister should certainly stand on the side of that individual and agree to extend the period to 12 months.  I cannot see any reason in the world why he should not, except one perhaps which I do not want to mention&mdash;we were not too kind to the Minister on Section 10. On previous occasions, for example, when we had a Bill from the Minister for Agriculture about dogs doing damage, quite a number of amendments were accepted in this House and certainly it is frustrating to this House to think that here in what at most is a matter of opinion, the Minister will not make any concessions.  He says, I know, that he always stands for the individual.</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>We are trying to protect the ordinary hardworking busy citizen from annoyance, hardship and loss under this Bill. There is a risk of considerable hardship and loss, if the time is not extended. It is easy enough, in a sense, for officials to go in.  It is part of their regular work.  It is easy enough for any of us or for them, through negligence or any other fault, to do serious damage.  It is not easy for the ordinary citizen to put the whole machinery of law into action to deal with this damage.  It will be a long and tedious process which will take <Col N="261" /> him away from his work.  It is a considerable hardship and annoyance.</P>
+      <P>The official is paid, at least.  Whether he causes the damage or not, it is all part of his routine job.  I am sorry for the ordinary citizen with a day's work to do.  He comes back from a holiday and finds this damage done. He has to face all the tedium and annoyance of a law case.  If the Minister extended the period to three or six months, he would reduce that risk considerably.  In the interest of the ordinary decent citizen, he ought to do it.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>In this context, it is quite patent that, when the common law remedy was mentioned as the obvious remedy to anyone who suffered damage by a local authority in this case, the only common law remedy is an action.  I have had recent experience of cases of this very nature where local authorities caused damage.  In practically all cases where damage is caused, it is due to negligence.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>That is a terrible indictment of local authorities.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>There is a case for extending the month, somewhat.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>When the Senator made his case, he did not use the words &ldquo;common law&rdquo; or &ldquo;negligence&rdquo;. He simply told us from the heights of his professional knowledge that there was another remedy.  It happened that there were people here who knew the remedy.  If there were not people here who knew it, Senator Lenihan would not have told us.  The position of Patrick Murphy who can, after a certain period, say: &ldquo;You did damage, without negligence&rdquo; is quite different from that of Patrick Murphy who has to take an action.  Is the word &ldquo;tort&rdquo; the right word?</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>That is right.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>To prove negligence is a very different thing altogether. In spite of his sleight of hand, I am glad Senator Lenihan has been converted to extending the period.</P>
+    </Speaker>
+    <Col N="262" />
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>I am not satisfied with the Minister's explanation.  I appeal to him to accept this amendment. He spoke about a man who is absent from home and to whom the county council have appealed for land which must be got from him.  He knows, before he goes away, that the land will be taken and work done on it.  The majority of county councils make application a year before they intend to do a job.  They could make application on 1st January, 1959, and not go ahead or complete the work for a year afterwards.</P>
+      <P>Consider the position of a landowner who knows very little about law, common law or otherwise.  I instanced the digging of a trench through a field.  It could be filled in and could look lovely.  It might be six or eight feet deep.  After a month, it could subside three feet.  After three months, he could write to the secretary of the county council and the secretary could inform him that under Section 10 (6) of the Local Government (No. 2) Act, 1960, he had no redress and as far as they were concerned, that was the end.  They would not inform him that he had an action under common law and was protected under common law.</P>
+      <P>What we want in any of these cases is co-operation.  We want to avoid expensive litigation in the interest of the ratepayers and the landlord.  I know what some cases have cost the ratepayers in my county and in other counties.  I know also what it can cost the landowner.  We do not want that. If the Minister agrees, I think everybody will be satisfied.</P>
+    </Speaker>
+    <Speaker pid="EdwardMcGuire" hpid="Mr. McGuire Mr. McGuire">
+      <NameTxt>Mr. McGuire</NameTxt>
+      <P>The Minister might be inclined to overlook that this is not merely a question of giving a month to the person to notify the fact that damage had been done.  If this month is retained, it will mean that county council officials, if they see there is a reasonable case for compensation, will not be able to give it because, I take it, they are limited to the month.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Quite so.</P>
+    </Speaker>
+    <Speaker pid="EdwardMcGuire" hpid="Mr. McGuire Mr. McGuire">
+      <NameTxt>Mr. McGuire</NameTxt>
+      <P>My land is at present being operated on.  I found the officials very willing in every way.  I <Col N="263" /> have had very good experience with them.  But the official might say: &ldquo;I want to do the right thing by you but I cannot because you did not let me know in a month.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The question of the time factor is not one about which I need necessarily be very difficult.  I do not want to be difficult about it.  At the same time, the opting by an aggrieved party to avail of his redress within the stipulated month does not necessarily arise always in the case where some damage has been caused by the local authority or its agents. Agreement could be reached in advance as to what disturbance would be created or what might be regarded as damage.  If the two parties got together in advance it is quite probable that agreement either before or immediately after the carrying out of activities on the lands could be arrived at.  Therefore, the question of damage being claimed within the month in any context would not arise, nor would the question of common law damages necessarily arise thereafter.</P>
+      <P>It is not in every case that this matter of compensation for damage done will arise at all in the manner in which we are talking and that the period of a month will be a disadvantage. If we were to consider the extension of the month I should be inclined to put it to the House that it is being said that because the Minister for Agriculture gave way on a number of points and accepted amendments here it follows that each amendment proposed on this measure must be right and should be accepted.</P>
+    </Speaker>
+    <P>If we are to have this Stage of the Bill to-night and another Stage on another night, I presume that what will happen in that event is that you will suggest amendments to-night which we may consider on another Stage which, presumably, will be in another week. At that point I shall no longer be able to get this Bill through both Houses of the Oireachtas before the Christmas recess.  If there is any suggestion that would resolve my difficulties in this approach to the Bill, I will feel in a position, I think, to meet what is now being suggested in regard to this amendment. <Col N="264" /> Otherwise, I am afraid I shall have to leave it over and think about it at a later stage.</P>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>I take it that the Dáil will meet on Tuesday, Wednesday and Thursday next week?</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I believe so.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>And this House will meet next week on Wednesday and Thursday.  There is nothing to prevent the Minister from having this as first business on Wednesday and I think it would have a very easy passage, if he yielded on this amendment. There is nothing very much else to be said about it, but of course I can speak only for myself.  It would give the Minister the rest of Wednesday and the whole of Thursday in the Dáil and the Dáil has frequently, at the end of this particular period, taken amendments from the Seanad and I take it there would be no objection to the short notice.  I take it the Minister would not be under any difficulty if he got this Bill through all Stages at the earliest possible moment on Wednesday and to get that, he does not need the agreement of anybody but his colleagues.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Might I say that our difficulties, whether seen or unseen, would be greatly lessened if we could adjust these matters tonight rather than next week.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It would be possible to adjust it tonight.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>This, Sir, is an extremely Gaelic procedure called in Irish marguíocht.  What is the Minister's suggestion for meeting us?</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The suggestion which, to my mind, was a reasonable approach was the suggested minimum of three months.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Is it still more Gaelic?</P>
+    </Speaker>
+    <Speaker pid="WilliamStanford" hpid="Professor Stanford Professor Stanford">
+      <NameTxt>Professor Stanford</NameTxt>
+      <P>In the case of crops, three months would not be enough.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>It would surely depend on the crops.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="Professor Hayes Professor Hayes">
+      <NameTxt>Professor Hayes</NameTxt>
+      <P>Make it six months and take it away.</P>
+    </Speaker>
+    <Col N="265" />
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>I am agreeable to six months.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>I hope we get the &ldquo;quo&rdquo; for the &ldquo;quid&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="" hpid="An Leas-Chathaoirleach An Leas-Chathaoirleach">
+      <NameTxt>An Leas-Chathaoirleach</NameTxt>
+      <P>The question is that the amendment be amended by the deletion of the word &ldquo;year&rdquo; and substitution of the words &ldquo;six months&rdquo;.</P>
+      <P>Amendment, as amended by leave, agreed to.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I move amendment No. 3:&mdash;</P>
+      <P>In subsection (7), page 7, to delete all words from and including &ldquo;in&rdquo; in line 4 to the end of the subsection and substitute &ldquo;if the amount claimed in respect thereof does not exceed £2,000, by the Circuit Court or, in any other case, by the High Court.&rdquo;</P>
+      <P>Under Section 10, the Minister has been talking about getting rid of cumbersome procedure and of streamlining the acquisition of land by local authorities.  This section is well in accord with the principle the Minister adumbrated in relation to the justification for the extension of compulsory purchase acquisition power.  I do not understand at all why it is that if Pat Murphy injures Martin Moran's lands, Martin Moran can go to court&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>He is Minister for Lands.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I am talking about an imaginary person in my own village. However, if John Browne injures Michael White's land, Michael White can go into court and get the damage assessed, in the Circuit Court, the High Court or the District Court, as the case may be.  Why can that procedure not be adopted here in relation to damage done to property by local authorities? Why is it necessary that this extraordinary procedure which is quite unknown to the vast majority of the people, this arbitration under the Acquisition of Land (Assessment of Compensation) Act, 1919, should be invoked?  Why must this arbitrator be summoned from the depths of the Custom House, or some other place, to <Col N="266" /> sit solemnly and preside over a claim perhaps for £57, something over £50, while, at the same time, there is a court there competent to assess the compensation between the local authority and the individuals concerned, as it would in the case of two individuals?  I do not know what justification there can be for introducing this kind of extraordinary ramification into a Bill of this kind and I should like to hear the Minister's justification for it.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>In regard to this amendment, I am somewhat at a loss to understand whether or not the Senator believes that damage resulting from entry into some property for the purpose of investigation as to whether or not it is suitable for a particular purpose for a local authority, is likely to arise to the extent of £2,000 or over, and whether in fact by this amendment we would be legislating for the unique happening rather than a likely happening.  I am inclined to think it would be an unique happening, if it ever happened.  I wonder if the Senator holds the view that it will happen more often or that it will be a likely happening with which we shall have to deal every week in the future?  I think it would be an unique happening and I am not inclined to think that we should legislate for the unique in a particular way.</P>
+    </Speaker>
+    <P>I think that damage caused by a local authority's agents entering on property to investigate its suitability, to the extent of £2,000 or over, is something I cannot really visualise happening except in the most rare cases.  On the other hand if we were to accept this amendment, or consider accepting it, even to deal with the unique happening, I think we would be thrown back on the basis that we would in fact have to come to deal with the Acquisition of Land (Assessment of Compensation) Act, 1919. That is an Act from which is derived much of the power of the local authorities over the years in many enactments and whether, as per this amendment, we should in fact contemplate a change in the powers of the 1919 Act in order to meet these rare and unique cases is something which, <Col N="267" /> in my understanding of the situation, I would not be prepared to recommend for acceptance, or offhand to accept myself.</P>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>The Minister is talking about the case in which lands are damaged to the extent of £2,000 and he thinks it extraordinary that provision should be made for that. What I intend in this amendment is to make the assessment of damage to property as cheap as possible and therefore, I would give the circuit court jurisdiction to the extent of £2,000, if there happened to be damage to that extent.  I agree it is most unlikely. Rather the amount of damage likely to be caused to land would be £100, £150 or £200 or sums of that order, but if that be the case, what is the justification for establishing a new kind of tribunal or a special kind of tribunal to arbitrate under the Acquisition of Land (Assessment of Compensation) Act, 1919 and to measure compensation?</P>
+      <P>Why can the Circuit Court, if there is only £200 or £300 involved, not do that?  What is the necessity for bringing down a high official from Dublin, somebody on the panel of arbitrators established by this Act?  What is the necessity of bringing him from Dublin to Tralee, when you have already the circuit court sitting in Tralee quite competent to assess damages to the extent of £200 to £400?  It seems to be entirely wasteful, cumbersome and slow.  It does not accord with the views expressed by the Minister in relation to Section 10, that we must streamline the whole procedure in relation to the acquisition of land.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>The amendment is inappropriate in this particular place. If Senator O'Quigley had some desire to repeal entirely the provisions of the Acquisition of Land (Assessment of Compensation) Act, 1919, he could bring in a Private Member's Bill to transfer that jurisdiction to the Circuit Court and High Court.  Once you have the paraphernalia of the arbitration set up under the 1919 Act, the procedure suggested in the amendment seems singularly inappropriate if it is merely <Col N="268" /> for the purpose of assessing in relation to what is merely an inspection section. Do you have to bring in the Circuit Court and the High Court where you already have the arbitration provisions under the 1919 Act?  I have sympathy with the amendment from the trade union point of view, but no other.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I want to make one observation.  I did not put down an amendment to vary in any way the provisions of the 1919 Act because I would be ruled out of order.  It is not I who brought in the court and the arbitrator.  It is the Minister who has done that.  The Minister brought in the district court up to £50.  When you have damages up to £57, you have to forget about courts and find out who the arbitrator is.  What is the necessity for bringing him down from Dublin when you could go into the Circuit Court?  What is the objection to that? It is the Minister who has brought in the court and the arbitrator.  The Minister is introducing the two procedures. He may say it was only up to £20 but the fact is that he brought in the district court.  Since the claims will be as low as I, the Minister and Senator Lenihan agree they will be, this thing should not require the arbitrator under this outmoded Act.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>Repeal the Act.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It has nothing to do with repealing the Act.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>The section as it stands is a standard type of section. It has been used in other legislation over the years in relation to similar types of matter.  Why should we now regard it in this context as something that should be treated differently when we have the experience of its operation for many years under the Mental Treatment Act, the Public Assistance Act, the Health Acts and even getting to more minor detail, bringing in the question of arbitration being used in disputes even in regard to compensation for way-leaves for water mains and sewers and all sorts of various purposes necessitating small adjustments, no doubt.  Nevertheless, for those various purposes over the years, this type of procedure has been <Col N="269" /> standard and the section now before the House without amendment is the standard section as applying in all these other cases in the past.</P>
+      <P>As Senator Lenihan said, if it is desired to change the whole system, the thing to do is to change the 1919 Act and not go fiddling round by a mere amendment of a particular subsection of a section of a Bill which deals with only a small part of what is likely to be dealt with altogether by this arbitration procedure which we know so well and the operation of of which, incidentally, the local authorities and the public generally are aware of.  It is not something new. It is not something that everybody will be ignorant of or the working of which they will have to find out about. It is by no means new in that context. It is a standard section as applying in many other enactments in the past.  Its continuance here commends itself very strongly to me, at any rate.  I really cannot follow the weight of the argument emphasised by Senator O'Quigley on the proposal.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Before leaving the matter, would the Minister tell us how many arbitrators are available to deal with these disputes all over the country?</P>
+    </Speaker>
+    <Speaker pid="PatrickFirmullaghOReilly" hpid="Mr. O'Reilly Mr. O'Reilly">
+      <NameTxt>Mr. O'Reilly</NameTxt>
+      <P>That is beside the point.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It is very much to the point, for the reason that we want to know the facility with which the people will be able to avail of the machinery.  How many on the panel of official arbitrators will be available to deal with these disputes?</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Might I ask Senator O'Quigley how cheaply in comparison are the facilities of the Circuit Court being made available to the people concerned?</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I will answer that question for the Minister.</P>
+    </Speaker>
+    <Speaker pid="PatrickFirmullaghOReilly" hpid="Mr. O'Reilly Mr. O'Reilly">
+      <NameTxt>Mr. O'Reilly</NameTxt>
+      <P>A local authority may intend to provide a new cemetery. Before providing it, they must make test pits to see if it is suitable.  The local authority would send their agents to make excavations to see if the particular <Col N="270" /> sites were suitable.  It is to such a situation that this is directed.  It may happen that the water level is too near the surface and that the land is not suitable for a cemetery.  The owner of the land may feel that damage has been done and it is proposed to increase the amount of damages he can get. The Senator would like to see all this sort of thing settled in a court.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Not necessarily.</P>
+    </Speaker>
+    <Speaker pid="PatrickFirmullaghOReilly" hpid="Mr. O'Reilly Mr. O'Reilly">
+      <NameTxt>Mr. O'Reilly</NameTxt>
+      <P>If we had fewer courts, we would be better off generally. A very glib statement comes to my mouth.  It was a statement made by somebody to the effect that if you had fewer courts, you would have less perjury.  Arbitration has apparently been found to be a good system.  It was not enacted by the Oireachtas.  It was one of the Acts taken over and it worked well.  In England, I understand, they still have an Act like this in operation. Without any experience of the courts or arbitration, I am prepared to suggest that it is much cheaper for people to have claims decided by arbitration rather than in courts whether the Circuit Court, the High Court or possibly, by way of appeal, the Supreme Court.  That may be very good indeed for the trade union of lawyers but I do not think it is good for the ordinary people.  These matters should be settled, so far as possible, by co-operation, in the first instance, and then, by arbitration.  There has been no great outcry against this principle and I think it would not be in the public interest to change it.  I feel very strongly on this matter and I believe we would be much happier in this country if we had less law.  The Minister should stand firm.</P>
+    </Speaker>
+    <Speaker pid="DenisBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>And more civil servants.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>Before the amendment is decided on, I should like to know if the Minister is going to tell us how many people are on the panel of official arbitrators.  The Minister will not tell us because he knows that the Act provides for only one for the whole country.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>Because of the fact that I presumed the Senator had his <Col N="271" /> own reasons for asking the question, and it was not in ignorance of the answer that he sought the information, there did not seem to be any purpose in telling him.  I would like to say to the House and to the Senator that there is now before the Dáil a Bill entitled the Property Values (Arbitration and Appeals) Bill, 1960, on which I think these matters can be discussed.  I do not know for a definite fact that what Senator O'Quigley said about there being only one arbitrator at the moment is right.  I am not disputing that he may be right, but I am not quite sure that he is right.  The question of having this arbitrator on each and every one of these cases does not arise because, in fact, many other people are experts and they could be added for the purpose for which the machinery operates.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>There is only one permanent one.  There are plenty of temporary ones.</P>
+    </Speaker>
+    <Speaker pid="FrankCarter" hpid="Mr. Carter Mr. Carter">
+      <NameTxt>Mr. Carter</NameTxt>
+      <P>Can the Senator show that there is, in fact, any delay in arbitration?  His argument is of a hypothetical kind, if you like.  I have not heard of anyone who required arbitration or anyone who was aggrieved who had to wait an undue length of time for arbitration.</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>Westmeath County Council had to wait nearly nine months.</P>
+    </Speaker>
+    <Speaker pid="NeilTCBlaney" hpid="Mr. Blaney Mr. Blaney">
+      <NameTxt>Mr. Blaney</NameTxt>
+      <P>It was the fault of the elected body.</P>
+      <P>(<i>Interruptions.</i>)</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>Fianna Fáil have the majority&mdash;14 to eight.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section 13, as amended, agreed to.</P>
+      <P>Section 14 agreed to.</P>
+      <P>Title agreed to.</P>
+      <P>Bill reported with amendment, received for final consideration and passed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business" RHead="of Seanad">
+    <Title>Business of Seanad.</Title>
+    <Col N="272" />
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>Senator Hayes asked earlier in the proceedings for an indication of the business we might expect to get before the Christmas Recess.  For the information of the Senator, the business will be as follows: the Rent Restrictions (No. 2) Bill, which will be coming back from the Dáil; the Army Pensions (No. 2) Bill, the Transport Bill, the Electricity (Supply) (Amendment) Bill, the Derelict Sites Bill, the Electoral Bill, the Property Values (Arbitration and Appeals) Bill, the Health (Fluoridation of Water Supplies) Bill and we will, of course, take Senator O'Quigley's Bill with the Government Electricity (Supply) (Amendment) Bill.  Arising out of that business, it will be necessary for us to sit at least on Wednesday and Thursday of next week.</P>
+    </Speaker>
+    <Speaker pid="DenisBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>We should like to give full co-operation but I do not think it would be possible to deal with all those Bills thoroughly before the Christmas Recess.  I agree with Senator Ó Maoláin that we should meet on Wednesday, and at 11 a.m. on Thursday.  We should then rise for the Recess.  Not all these Bills are necessary and we could not promise to give them before Christmas.  That is fairly heavy legislation.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>In the event that we cannot finish business next week, we shall be compelled to sit the following week.</P>
+    </Speaker>
+    <Speaker pid="BrianLenihanSnr" hpid="Mr. Lenihan Mr. Lenihan">
+      <NameTxt>Mr. Lenihan</NameTxt>
+      <P>We want to get the work done.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>It is a pity you did not start working earlier.</P>
+    </Speaker>
+    <Speaker pid="GeraldLEstrange" hpid="Mr. L'Estrange Mr. L'Estrange">
+      <NameTxt>Mr. L'Estrange</NameTxt>
+      <P>&ldquo;Let's get cracking&rdquo;.</P>
+    </Speaker>
+    <Speaker pid="DenisBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>We are interested in getting the work done but eight Bills were, I think, mentioned by Senator Ó Maoláin and I believe it may not be possible to deal with them all before Christmas.  We cannot give that undertaking.</P>
+    </Speaker>
+    <Col N="273" />
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>We can try.</P>
+    </Speaker>
+    <Speaker pid="DominickMurphy" hpid="Mr. Murphy Mr. Murphy">
+      <NameTxt>Mr. Murphy</NameTxt>
+      <P>Would it not be advisable if more legislation were initiated in the Seanad rather than having it all coming together from the one direction?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Tomás Ó Maoláin Tomás Ó Maoláin">
+      <NameTxt>Tomás Ó Maoláin</NameTxt>
+      <P>If Senator Burke looks at the Bills I have mentioned, he will find that they are not so overwhelming as they may appear to be.  I do not see any reason <Col N="274" /> in the world why we cannot finish the business before the Christmas Recess.</P>
+    </Speaker>
+    <Speaker pid="JohnOQuigley" hpid="Mr. O'Quigley Mr. O'Quigley">
+      <NameTxt>Mr. O'Quigley</NameTxt>
+      <P>I am all against slot-machine legislation.</P>
+    </Speaker>
+    <Speaker pid="DenisBurke" hpid="Mr. Burke Mr. Burke">
+      <NameTxt>Mr. Burke</NameTxt>
+      <P>So far as we can, we will co-operate.</P>
+      <P>The Seanad adjourned at 5.30 p.m. until 3 p.m. on Wednesday, 14th December, 1960.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

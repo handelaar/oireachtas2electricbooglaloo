@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="21" Month="Mar" Year="1958" Vol="166" No="6" DateIrish="Dé hAoine, 21 Márta 1958" DateEnglish="Friday, 21 March 1958" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="0">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="705" /> Do chuaigh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+    <P Just="Center">
+      <i>Paidir.</i>
+    </P>
+    <P Just="Center">
+      <i>Prayer.</i>
+    </P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Order of" RHead="Business">
+    <Title>Order of Business.</Title>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>It is proposed to take business in the following order: Nos. 1, 7, 8, 9 and 10; Public Business not to be interrupted.</P>
+    </Speaker>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>Could the Tánaiste give us an idea what business will be taken next week?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>All the Bills which are on the Order Paper are available for discussion and there will be some Supplementary Estimates, including one for the Department of Industry and Commerce.  Then we shall start on the main Estimates, the first of which will be the Department of Defence.</P>
+    </Speaker>
+    <Speaker pid="JosephBlowick" hpid="Mr. Blowick Mr. Blowick">
+      <NameTxt>Mr. Blowick</NameTxt>
+      <P>On what days shall we sit?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Tuesday, Wednesday and Thursday.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I thought we had a Supplementary Estimate for Industry and Commerce the other day?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>Not really.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Minister for Finance (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Finance (Dr. Ryan)</NameTxt>
+      <P>Not the Department.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I would not like to bet at this hour of the morning.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>There was a Supplementary Estimate for transport and marine services.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Surely we had a Supplementary Estimate that had something about Mianraí Teoranta in <Col N="706" /> it?  Surely that is Department of Industry and Commerce?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="An Tánaiste Seán F. Lemass">
+      <NameTxt>An Tánaiste</NameTxt>
+      <P>That is correct.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Would the Minister who is introducing this Estimate give us some indication why it was not possible within a short period of three weeks to judge the figures in the Department of Industry and Commerce Vote and deal with both at the same time?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>This is a difficult one; it is the question of wheat.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>That will be a difficult one when it comes to the House.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Supplementary Estimate&mdash;Leave" RHead="to Introduce">
+    <Title>Supplementary Estimate&mdash;Leave to Introduce.</Title>
+    <Speaker pid="JamesRyan" hpid="Minister for Finance (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Finance (Dr. Ryan)</NameTxt>
+      <P>I move:&mdash;</P>
+      <P>That leave be given by the Dáil to introduce the following Supplementary Estimate for the service of the year ending on the 31st day of March, 1958, namely, Vote No. 50 (Industry and Commerce).</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Trustee (Authorised Investments) Bill," RHead="1957&mdash;Committee and Final Stages">
+    <Title>Trustee (Authorised Investments) Bill, 1957&mdash;Committee and Final Stages.</Title>
+    <P>SECTION 1.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I move amendment No. 1:&mdash;</P>
+      <P>To delete paragraph (j).</P>
+    </Speaker>
+    <P>The purpose of this amendment is to ensure that trustees should not be enabled permanently, unless specifically authorised by the settlement, to leave trust funds on deposit.  I understand it was always the view that deposit was a suitable place for temporarily leaving trust funds, but I never heard a case made before that deposit was suitable as a permanent investment. In that respect, I should like to know what caused the Minister to change, not his personal mind but the mind of the corporate Minister for Finance, so to speak, and insert this clause (j) in Section 1.  I might add that, of course, <Col N="707" /> amendments Nos. 1 and 2 are correlated and hang together.  The draft Bill that was available to the Minister when he entered office did not have this provision in it.  Deposit in the draft Bill was most specifically to be pending investment and, in fact, the first three lines of my amendment No. 2 are taken practically word for word from Section 3 of the draft Bill I left behind.  I know that that draft Bill was circulated to interested bodies and I should like to hear what reasons these bodies submitted before the change or what reasons the Minister himself had for the change.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>As the Deputy has explained, in the draft Bill circulated to these various bodies which we consulted in relation to this measure, the words &ldquo;pending investment&rdquo; were left out.  Now the words &ldquo;pending investment&rdquo; are in.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>No.  It is the other way round; the words &ldquo;pending investment&rdquo; were in and now they are left out.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am sorry; that is the position.  When the draft Bill was circulated, various bodies&mdash;the Central Bank, the Dublin Stock Exchange, the Public Trustee, the Incorporated Law Society and the Irish Banks Standing Committee&mdash;offered the criticism that the words &ldquo;pending investment&rdquo; should not remain in the Bill.  Roughly, the reason they gave was that, in the first place, it might happen, for instance, that a trustee facing, let us say, falling prices in securities, and not knowing where he stood exactly, or what would be an advisable investment to make, might prefer to hold on for a while and leave the money on deposit, until the market should settle down.  It was considered from the legal point of view that he might be held to contravene the draft Bill as it stood, if he held out too long waiting for the market to settle.</P>
+    </Speaker>
+    <P>The limiting words in the draft Bill were an innovation.  In the legislation prior to this Bill, the words &ldquo;pending investment&rdquo; were not included.  The <Col N="708" /> position is that for many years the trustee had an option, as it were, to leave money on-deposit for a reasonable period, if, for any reason, he wanted to see how the market would go.  That was the principal reason. He had the discretion to wait.  These various bodies I have mentioned pointed out that things had run smoothly and satisfactorily and they thought that that restriction would be a mistake in present circumstances. They were, I think, unanimous in advising that these words, &ldquo;pending investment&rdquo; should not be inserted in the new Bill.  They were therefore left out really for the purpose of giving more discretion.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Could the Minister tell the House how the law stands, and under what section, at the moment, in this respect?  Is it one of the sections of the Trustee Act of 1893?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>For many years the trustee could put money on deposit with the Bank of Ireland.  The central Bank Act extended that provision to the Associated Banks.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Did the Central Bank Act extend it to the Post Office Savings Bank and the Trustee Savings Bank?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>No, only to the joint stock banks, I believe.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>We are, therefore, extending it further in this section?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Section agreed to.</P>
+      <P Just="Center">SECTION 2.</P>
+      <P>Amendment No. 2 not moved.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 2a:&mdash;</P>
+      <P>In sub-section (3), page 3, line 39, to delete &ldquo;Society,&rdquo; and substitute &ldquo;Society of Ireland,&rdquo;.</P>
+    </Speaker>
+    <P>This amendment is merely a drafting amendment.  When we put in the &ldquo;Incorporated Law Society&rdquo;, we did not realise that the proper title was the <Col N="709" />&ldquo;Incorporated Law Society of Ireland&rdquo;. We are now putting in an amendment to that effect.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>They make enough representations to have their title sufficiently familiar to all concerned.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It should be.</P>
+      <P>Amendment agreed to.</P>
+      <P>Section 2, as amended, agreed to.</P>
+      <P Just="Center">SECTION 3.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The amendment the Minister has tabled, No. 4, meets my amendment, I think.  I am not absolutely certain it does and I do not think the Minister will be able to answer me now.  I think he may have to take legal advice, unless somebody else has already raised the point with him.  Is it quite clear that amendment No. 4 covers the permission for the court to sanction, where it is desirable, the turning of a business belonging to a ward of court into a private company or private business?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It does cover that.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Is that quite clear?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Then, I am perfectly satisfied.</P>
+      <P>Amendment No. 3 not moved.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I move amendment No. 4:&mdash;</P>
+      <P>To add to the section the following sub-section:&mdash;</P>
+      <P>(3) This section shall not affect the jurisdiction of any court to direct or permit money under its control or subject to its order to be used for the benefit of any person entitled thereto or having an interest therein&mdash;</P>
+      <P>(a)  in making payments in connection with the acquisition, use or management of any land or business, or any share in any business, or</P>
+    </Speaker>
+    <P>(b)  in subscribing for securities offered on advantageous terms to <Col N="710" /> holders of the same kind of securities.</P>
+    <P>Amendment agreed to.</P>
+    <P>Section 3, as amended, agreed to.</P>
+    <P Just="Center">SECTION 4.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I move amendment No. 5:&mdash;</P>
+      <P>In sub-section (1) to delete paragraph (a).</P>
+      <P>The Minister is aware that representations were made that it is undesirable that this discretion should be there and that the Minister should come down definitely on one side or the other in relation to the manner in which premiums against investment drawings will be made.  Quite frankly, I am not desperately enamoured of the case made and I merely put down the amendment, not because of any great belief in it, but for the purpose of getting from the Minister an explanation as to what the various representative bodies feel on the matter.  If all the representative bodies have the same view, then I am satisfied.  If there is a clash, I think the clash ought to be ventilated.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I believe the Incorporated Law Society did not agree.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I beg the Minister's pardon&mdash;the Incorporated Law Society of Ireland.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>They do not agree with the provision as it stands.  They thought that discretion should not be left to the trustee.  The other bodies concerned all agree with the discretion being given.  I had to take account of this conflict of views, and make up my own mind, as it were, and I think, on the whole, the discretion should be given.  It may be difficult at times for a trustee to meet the premium out of capital.  The amount on hand may make it difficult.  Also, to be just both to the life tenant, and to the remainder man, the trustee may consider it fairer in some cases to pay the premium out of income.  For that reason, I think the discretion should be given.  The amounts involved will be very small.  Furthermore, the insurance <Col N="711" /> will be taken out only when bonds are purchased above the par value.  It is unlikely that that will happen for some time.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I would not agree to that at all.  The effect of yesterday's decision elsewhere will put 6 per cent. bonds over par.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>But they are not redeemable.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>There is a 6 per cent. Land Bond Issue.  The Minister signed the Order creating it himself.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It is doubtful if they are very often purchased by these people. On the whole, I think we should give them discretion.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>It is a very small point not worth arguing.</P>
+      <P>Amendment, by leave, withdrawn.</P>
+      <P>Amendment No. 6 not moved.</P>
+      <P>Section 4 agreed to.</P>
+      <P>Sections 5 to 7, inclusive, agreed to.</P>
+      <P>Schedule agreed to.</P>
+      <P>Title agreed to.</P>
+      <P>Bill reported with amendments, received for final consideration and passed.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Industrial Credit (Amendment)" RHead="Bill, 1958&mdash;Second Stage">
+    <Title>Industrial Credit (Amendment) Bill, 1958&mdash;Second Stage.</Title>
+    <Speaker pid="JamesRyan" hpid="Minister for Finance (Dr. Ryan) James Ryan">
+      <NameTxt>Minister for Finance (Dr. Ryan)</NameTxt>
+      <P>I move that the Bill be now read a Second Time.</P>
+      <P>The Industrial Credit Company was established in accordance with powers given by the Industrial Credit Act, 1933.  The authorised share capital of the company is £5,000,000, of which £2,000,000 has been issued and paid up. The issued capital is in the form of £1 shares, of which shares to the nominal value of £1,991,393 are held by the Minister for Finance.  The balance is in private ownership.</P>
+    </Speaker>
+    <P>The purpose of this Bill is to improve the arrangements for financing the Industrial Credit Company, Limited, and so to facilitate the provision of capital for the development of industry. <Col N="712" /> It is Government policy to increase the flow of capital to productive investment and, in this connection, great importance is attached to the role of the Industrial Credit Company as a specialised institution for the provision of capital for industrial enterprise.</P>
+    <P>The Bill will improve the position of the company in this regard in three important ways: Firstly, it will enable the Minister for Finance to take up directly shares in the company without the necessity for a public issue; secondly, it will enable the Minister for Finance to guarantee the principal and interest of borrowings by the company; and thirdly, it will enable the Minister for Finance to guarantee the payment of a minimum dividend on shares of the company held by parties other than himself.</P>
+    <P>These extensive powers should give the company all the facilities necessary to meet any foreseeable eventualities in raising additional capital and in a manner which will recognise the special position of the company in financing new industries.  I shall now elaborate on the three additional powers I have mentioned.</P>
+    <P>Under the provisions of the 1933 Act, shares in the company can be taken up by the Minister for Finance only when an issue has been made by the company for public subscription and the Minister has agreed to take up such shares as the public do not apply for.  In effect, therefore, State assistance to the company has been confined to the underwriting of public issues of shares by the company.  This is an awkward and unnecessary restriction which does not apply in the case of other State-sponsored companies.  From time to time market conditions may make a public issue by the company inadvisable, but as the law stands it would have to go through all the formality and incur the expense of a public issue before the State could invest another penny in the company's shares.</P>
+    <P>Under the revised arrangements now proposed, it will be possible to make advances from the Central Fund for the purchase of shares, if so desired, without any prior offer or issue of shares <Col N="713" /> being made to the public, who up to this have taken up very few shares in the company.  With this obstacle removed, it will be easier to increase the capital resources of the company.  The power to purchase existing shares will also be available should the necessity arise.</P>
+    <P>Secondly, it is proposed under the Bill to take power to guarantee borrowings by the company by way of the issue of debentures or loan stocks or otherwise.  In the Bill as circulated, there is a limit of £2,000,000 on the amount of borrowings which may be guaranteed from time to time.  Recent developments indicate that this limit may be too low, and I propose to introduce an amendment on Committee Stage providing for the higher limit of £5,000,000.  Thirdly, as I mentioned, power is being taken to guarantee the payment of a dividend on the shares of the company held otherwise than by the Minister for Finance.  No immediate occasion for the exercise of this power is in view, but it is desirable that the company should have this facility in reserve as a possible means of attracting capital resources in the future.</P>
+    <P>The Industrial Credit Company has now been in existence for almost a quarter of a century, and during that period it has played a most important part in the development of Irish industry. It is still the only organisation in the country devoted solely to acting as an underwriting and issuing house for industrial securities and operating generally as an industrial financing body.  During the period of its existence, the company, with a relatively small permanent capital, has been responsible for the provision of some £16,000,000 of capital for Irish industry. This substantial sum has consisted in the main of capital moneys raised by public flotations underwritten by the company.  The balance has been provided in the form of loans, advances, guarantees, etc., for industry.</P>
+    <P>A test of the success of an issuing house is its ability to secure capital for industrial enterprise on a scale much greater than its own permanent resources would allow; indeed, it must seek not to have these locked up for long in any particular venture but to turn them over as frequently as possible. <Col N="714" /> By this test, the Industrial Credit Company has been quite successful in very difficult circumstances.</P>
+    <P>Not only have the company's activities been benficial to the national economy, but, so far as the narrower Exchequer interest is concerned, I am happy to be able to say that moneys invested in the company have yielded a return to the taxpayer.  The company has made a profit from the outset and for many years now it has been paying a dividend of 4 per cent. on its share capital.  This is a very creditable record when it is borne in mind that little or no return may be obtained from its investments in new industries during their early years and I wish to pay a special tribute to the directors and staff of the company for the success which they have achieved.</P>
+    <P>It has been evident for some time that the resources of the Industrial Credit Company would have to be enlarged to enable it to continue its task of encouraging new and financing extensions of existing industrial enterprises. There are reasons for expecting that the new industries of the future directed in the main towards export markets, may require rather heavy capitalisation, if only because of the substantial post-war rise in the cost of capital equipment.  One has also to envisage that adjustment to the conditions of freer trade in Europe will necessitate considerable outlay on the adaptation and modernisation of existing industries.  We are, therefore, facing a future in which the scope and importance of the functions to be discharged by the Industrial Credit Company will undoubtedly increase.</P>
+    <P>The authorised share capital of the company, which is £5,000,000, is considered sufficient for the present but, if and when the need arises, proposals will be brought forward to increase it. As I indicated earlier, £3,000,000 of share capital can still be issued within the existing limit.  When the new limit of £5,000,000 is appointed for guaranteed borrowings by the company, the total amount which it will be authorised to raise by way of fresh issues of share capital and by guaranteed borrowings will be £8,000,000.  The company also has power to borrow where this <Col N="715" /> does not involve the issue of debentures or a Government guarantee.</P>
+    <P>Negotiations have been proceeding with the Irish commercial banks to secure their participation in the provision of fresh capital for the company. The banks have, of course, played their part in the financing of industry directly by way of advances for working capital and even for long-term capital purposes.  It is, however, a common feature of industrial financing in other countries that the banks provide most, if not all, of the capital for specialised institutions like the Industrial Credit Company.  This method of financing industrial development offers advantages to the banks themselves as well as being in the national interest.  It spreads the risks of individual banks over a wide field and insulates them from identification with the fortunes of individual firms. Also, it places at their disposal for investment purposes the experience and specialised services of an organisation established to cater for the particular needs of Irish industry.</P>
+    <P>It was suggested to the banks that they might consider participating by taking up a substantial block of shares in the company, if necessary, with a guaranteed minimum dividend; but I understand they would prefer to make their contribution in the form of guaranteed loan stock rather than shares.  What matters&mdash;and I am glad to announce this&mdash;is that they have agreed in principle to make a contribution amounting to £1,800,000.</P>
+    <P>This will enable the Industrial Credit Company not merely to discharge completely its own overdraft indebtedness and to finance directly its liabilities under existing bank guarantees, but also to have available, over and above this, a balance of about £400,000 for new business.  Further, a provision of £500,000 was included in this year's State Capital Budget which will be used to purchase shares in the company as soon as this Bill is enacted. The company will, thus, have almost £1,000,000 at call for new projects apart from whatever may become available to it by the turning over of its existing capital.</P>
+    <P>
+      <Col N="716" /> This is the first occasion on which the banks have participated on a long-term basis in the financing of the Industrial Credit Company and I would like to express the Government's appreciation of their co-operative approach and of their practical assistance in this, no less than other aspects of national development.</P>
+    <P>As to the company's further capital requirements, I hope it will be possible to arrange for tripartite financing on the basis of contributions by the banks, insurance companies and the Exchequer. Apart from being a channel through which Irish savings might be made available for productive industrial development, the Industrial Credit Company could also serve as a medium for investment of foreign institutional capital in Irish industry.</P>
+    <P>Arising out of the enlargement of the resources of the Industrial Credit Company, Limited, it is proposed that the system by which loans for industrial purposes are guaranteed under the Trade Loans (Guarantee) Acts should be replaced by an alternative system by which similar loans will be provided by the Industrial Credit Company.  One advantage of this change is that applications for assistance in this form can be dealt with more expeditiously and with fewer legal formalities than are necessary under the present system.  There is also advantage in having one organisation dealing with the provision of assistance from State sources for industrial development by way of share and loan capital.</P>
+    <P>From the date of the change, the acceptance of applications of the ordinary kind from industrial firms by the Department of Industry and Commerce will cease.  In all cases which would previously have been referred to the Advisory Committee set up under the Trade Loans (Guarantee) Acts, the applicants will be referred to the Industrial Credit Company.  In settling the amount of resources to be provided for the credit company from time to time account will, of course, be taken of any additional needs of the company for the purpose of their new function.</P>
+    <P>The statutory limits fixed under the Trade Loans (Guarantee) Acts have <Col N="717" /> nearly been reached, and no further loans of any size could be guaranteed unless amending legislation were enacted. It is not proposed to repeal the Acts, but it is intended that recourse to them will be made only in very special circumstances to deal with cases which would not come within the functions of the Industrial Credit Company.</P>
+    <P>It is unnecessary for me to speak at length on the need for increased productive investment.  There is now general appreciation that we must increase significantly the proportion of the nation's capital resources which is devoted to such investment if the economy is to expand, thereby creating additional real wealth and much needed additional employment.  The new arrangements which I have outlined are designed towards this end in the sphere of industry.</P>
+    <P>The Government are determined to ensure that the resources of the Industrial Credit Company will be ample to meet all reasonable requirements arising out of the financing of industry and would be very pleased to see a sustained growth in these requirements. Industrialists may, therefore, proceed with their plans in the knowledge that no industrial project with worthwhile prospects, particularly export prospects, need be frustrated by lack of necessary capital and I trust that this knowledge will give a general stimulus to efforts to establish new, and to expand existing, industries.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>This is an appropriate occasion on which to express appreciation of the investigation that was made into industrial credit by the Industrial Credit Company, Limited, at my request.  As a result of that investigation, measures for the provision of new industrial credit now come before the House.  The examination that was undertaken by the directors of the company at that time was an exhaustive examination which must have been of assistance to the Minister, just as it was of assistance to me in considering aspects of industrial credit and the provision of new credit.</P>
+    </Speaker>
+    <P>I am not absolutely clear about the <Col N="718" /> announcement that the Minister has just made in relation to the Trade Loans (Guarantee) Acts.  Am I to understand that no further applications are to be lodged under these Acts, or is the Minister merely giving advance notice that at some future date the Trade Loans (Guarantee) Acts system will be terminated?  It is important that it should be clear beyond question, because there are projects&mdash;I know of one at the moment&mdash;whose sponsors are considering the form of their application to the Department of Industry and Commerce for a trade loan guarantee.  I should like the Minister to make that clear&mdash;&mdash;</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It will not be a sudden cut-off.  Those that are there will carry on, I presume.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I understood the Minister to say that cases already before the committee, or which were going to a committee, would be referred to the Industrial Credit Company, but, however&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I think it depends on what stage they have reached.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>&mdash;&mdash;when the Minister is replying, perhaps he could make the situation clear, because it is obviously a thing about which there should be no uncertainty whatever.</P>
+    </Speaker>
+    <P>When originally formed in 1933, the Industrial Credit Company was, as the Minister indicated, floated as a public company, but it is clearly the type of company which would be most unlikely to attract private investors in the form in which it was floated.  Of necessity, industrial finance that has to be provided by a company of this kind must be finance which will take some time to earn a profit.  It is inevitable that the early, formative years of any industry should not be highly profitable, to put it mildly.  In ordinary industry, the industry may get over that difficulty in a couple of years and then begin to reach a position in which it is able to pay dividends to the shareholders. The very function of the Industrial Credit Company, however, means that such finances as it sponsors for the <Col N="719" /> provision of new industries keep on turning that wheel round and round and it would therefore be almost inevitable that the company would not be able to deal with its dividend awards in the same way as any ordinary concern.</P>
+    <P>At the same time, as the Minister said, the Industrial Credit Company has dealt satisfactorily with the situation, but while it has done so from the point of view of being a body existing for the provision, on behalf of the State, of industrial finance, it is very different from ordinary private investment.  It seems to me quite clear that some method, such as was visualised by the company concerned, of bank participation, for shares, for loan stock or for overdraft is obviously essential.</P>
+    <P>Of course, it is not only in this country that industrial finance has been established in this way.  In Britain, their Finance Corporation for Industry, which was instituted in 1945, provides capital on a large scale for the re-equipment and the development of industry which is so vital towards productivity at the present time.  As I understand, the capital of that corporation is some £25,000,000, and it was provided there by the Bank of England, by the investment trusts and the insurance companies.  Even though it has a capital of that size, I think it operates almost entirely on loan capital provided either by overdraft or by loan stock&mdash;I am not sure which.  Because of the special nature of the job to be done it, for example, has never paid any dividend on its share capital, realising that the provision of capital for industry is more important than the remuneration of its own capital.</P>
+    <P>There is also there another body, the Industrial and Commercial Finance Corporation, Limited, which was also established by the State for the same type of business, but, perhaps, for smaller ones.  Again, the capital in that case was provided by the banks in England and I think examination of its accounts shows that the finance that is made available to <Col N="720" /> that corporation is made available at a very low rate of interest.  I should be glad to hear from the Minister whether any specific arrangement has been made in relation to interest rates for the £1,800,000 that he has indicated will be provided on this occasion by the banks.</P>
+    <P>Without in any way cavilling at or demeaning the assistance which the banks are giving by the provision of this loan stock, I say it is not an additional provision of £1,800,000 or anything like it, because the first thing that will be done out of that amount is the repayment of the bank overdraft already there.</P>
+    <P>In Canada, the Industrial Development Bank, which was established as a subsidiary of the Bank of Canada, was provided to do the same type of work and it seems that there, again, the provision of the necessary capital was made possible by the banks.</P>
+    <P>A similar organisation has been established in South Africa, and there the Government alone owns the share capital, but it operates also on loan capital.  The loan capital in the South African example is very much smaller than the share capital.</P>
+    <P>I am inclined to the view that a provision by way of share capital would have been preferable, but I do not think it matters an awful lot.  The essential thing is that the capital be available and in that respect we must consider the over-all question.  I shall not discuss it in any detail to-day, but one of the things that have got to be considered is the apportionment to the various claims, the priorities of the various claims on such capital as may be available in the State or as may be capable of being provided in the State in a non-inflationary way.</P>
+    <P>I want to make it clear that, while I welcome wholeheartedly the provision of additional capital for industry, I hope that the twin brother, and the more important of the twins, agriculture, will have the capital necessary for its development.  Without in any way running down industry, I say that the foundations of the State and the economic future of the State depend much more on the development of agriculture, <Col N="721" /> although we all want industry to develop side by side with it.  Industry cannot develop, except on the basis of a prosperous agriculture, and I trust that, while we are discussing the question of capital for industry to-day, the provision of additional capital, as and when it may be required, for agriculture will always remain in the forefront of the mind of whoever is Minister for Finance.</P>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I welcome the decision to transfer the trade loan facilities from the Department of Industry and Commerce to the Industrial Credit Company.  There are just one or two matters which the Minister may be good enough to clarify for me.  This guaranteed loan stock is intended to pay off the present bank overdrafts of the Industrial Credit Corporation?  Is that correct?  As far as that is concerned, it will not give any additional capital to the banks?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It does.  There is additional capital provided for, yes.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>Their capital is provided as to £400,000 which, apparently, they have available at the moment, plus £500,000 which is being made available from the Government, giving them almost £1,000,000 in new capital, which the Minister has stated should be adequate for their requirements.  I wonder is the Minister quite correct in that statement.  If, as we hope, there is going to be a substantial expansion of industrial activity, particularly in regard to exports, I doubt if £.9 million would be adequate to finance the new concerns, especially if outside concerns, whom we are hoping to entice here to manufacture, particularly for export, are to have access to this new capital also.  Would the Minister say if the funds of the Industrial Credit Company will be available to outside companies who establish industries here? Would he say if it is intended that the Industrial Credit Company will compete with the industrial banking companies, mainly of outside origin, of which there are quite a number in the country at the present time and which are competing actively in this country for the available supply of funds by <Col N="722" /> offering interest rates as high as 8 per cent.?</P>
+      <P>As Deputy Sweetman said, it is obvious that the Industrial Credit Company cannot hope to entice private capital into its funds, as long as there are concerns competing with them and offering interest at as high a rate as 7 per cent. and 8 per cent.  I should also like to ask the Minister if the present liabilities of the Trade Loan Section of his Department will be transferred to the Industrial Credit Company when this change-over comes and also, in addition to Deputy Sweetman's question about the rate of interest, may I ask if the Minister will give particulars of the repayment terms of the guaranteed loan stocks from the banks?</P>
+      <P>As one who has had some experience and some contact with the officers of the Trade Loan Section of the Minister's Department, I should like to pay a tribute to the efficiency and courtesy of these officers while these loan facilities were being dealt with by the Department.  I think that any industrialist who had occasion to seek funds from the Trade Loan Section will agree with me that the officers there were competent, courteous and could not have been more helpful.  Having said that, I do believe it is a desirable change to transfer this section into a separate company with a statutory basis.</P>
+      <P>Has the Minister given any thought to the question of the personnel of the Industrial Credit Company.  I do not wish to be taken as criticising the present directors but, taking the long term view of the necessity to expand industrial production, I believe it is very necessary that the board of the Industrial Credit Company are active and also that it would be possible for industrialists to get rapid decisions there in regard to the provision of capital.  In addition to the present personnel I would like to see in this company one or two commercial directors with knowledge of commercial and industrial practice.</P>
+    </Speaker>
+    <P>Generally, I welcome this transfer but I hope that the £.9 million which will be available will not be adequate for its requirements and perhaps the <Col N="723" /> Minister in his reply would indicate how it is intended to provide additional finance if and when it is required.</P>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>This Industrial Credit Company heretofore has acted mainly as an underwriting body to sponsor the issue of shares and, in fact, when in the ordinary course of its business it has found itself retaining part of a public issue it has concerned itself to dispose of that issue on the market so far as the market was prepared to absorb it.  I think that kind of organisation is necessary in order to facilitate the underwriting of public issues but sooner or later in this country we will have to make up our minds as to whether we want to make it possible for the old established family business to survive or not.</P>
+      <P>The old established family business is a good type of business socially and economically, but we must bear in mind that the maintenance of that type of industrial or business activity is not consistent with the public issue of shares because with the transfer of a private business to the register of public companies it ceases to be a private business, and the time has come when the Minister for Finance, considering this question of industrial finance, should ask himself the question whither his policy leads.</P>
+      <P>If the Minister agrees with me that the maintenance of the old family firm, provided it is enterprising, is desirable, we have to face these facts, that with the present rate of taxation on the earnings of private corporations, whether distributed or not, it is becoming impossible to accumulate the capital necessary to meet the rising charges of business or industry in our time and it is increasingly difficult for private firms to get from their banks the kind of accommodation they require to carry on their business, because bankers in our system, as distinguished from the German system, do not want to carry quasi capital commitments for their customers.  The ideal from the bankers' point of view is an overdraft that is at regular intervals extinguished.</P>
+    </Speaker>
+    <P>
+      <Col N="724" /> I do not know in how far under this new dispensation it would be possible for the Industrial Credit Company to make loans of a quasi permanent character to businesses.  That would be a mere interim solution but if we are to maintain the best kind of business organisation from a social point of view, in my opinion, we will be forced to the conclusion that the only satisfactory procedure would be declare that in future corporate profits would be taxed not on the occasion of being earned but on the occasion of their being distributed and that where firms were prepared to re-invest their profits in expansion, modernisation and development they would be free to do so on the clear understanding that when profits derived from that investment came to be distributed to shareholders they would be subject to the customary rates of corporation and income-tax.</P>
+    <P>Unless we are to reconcile ourselves to the fact that all private family business at present existing in this country is gradually to vanish and to be absorbed by public companies or combines of one kind or another, as is happening on a very large scale at the present time, we will have to devise some kind of machinery to make the survival of the private firm possible.</P>
+    <P>There is a case in point where that is actually happening and it is to the great detriment to the whole social structure of the country.  It is partly due to this problem of finance and partly, I admit, due to other causes. But has the attention of the Minister for Finance been directed to what is happening in the bakery industry? We used to have&mdash;and I think it was a most salutary thing&mdash;a multitude of small family businesses baking bread. They were scattered all over the country.  Many of them were operated by the family, but some of them were operated by the family, assisted by considerable employed labour.  With the development of that kind of business, it became necessary to instal a drawplate oven, the expensive pre-1939 equipment, which was considered necessary for economic operation; but we have passed on from that now and, as a result of competition from other <Col N="725" /> types of equipment, it has very rapidly become as uneconomic as the old peel oven was.</P>
+    <P>There were very few family businesses in this country which were ever able to accumulate sufficient capital to contemplate the installation of that kind of expensive machinery.  Without the flotation of shares and the raising of capital on the business market, there was no possibility of getting anywhere the means to instal this type of equipment.  The result is that within the past five years we have seen a very rapid development in the centralisation of the bakery trade in the hands of a relatively few wealthy operators who transport bread over wide areas.  The inevitable result is that the small family business is disappearing.</P>
+    <P>I admit there are factors operating in this field other than financial problems, but there is no doubt whatever that lack of capital or the inability of small units to get the type of capital necessary to put them into the modern style of trade is contributing to the evil I have described.  It is also true &mdash;and it must be faced&mdash;that the tendency in the bakery trade to which I refer is being further promoted by the desire of flour mills to procure certain outlets for their milling quota.  That undoubtedly contributes to this evil I have described, but the availability of capital contributes also.</P>
+    <P>Let me put two points to the Minister. First, as far as small industry is concerned, I do not think underwriting facilities are of any great value. They are of value to large business companies and are undoubtedly a necessary part of our economic set-up. Secondly, if the small unit in industry or business is to survive in this country, it requires, I think, two things.  One is access to long term loan capital and that is not available in the joint stock banks.  I think it right that it should not be available in the joint stock banks in our set-up.  That is not the primary purpose for which joint stock banks function here.  But, over and above that, I believe that in connection with this whole question of financing industry and business, we ought to <Col N="726" /> consider whether, without any detriment to the public revenue, it might not be possible to arrange that the profits of such businesses would be taxed on distribution.</P>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I want to say that I was grateful indeed for the memorandum issued by the Industrial Credit Company on capital and industry which was referred to by Deputy Sweetman.  This document, which was drawn up in 1955, was very helpful indeed.  The £1,800,000 being invested by the banks is invested at current rates of 6 per cent., but will vary with current rates.  The banks made a rather strong fight for loan capital, rather than share capital.  If it had been done in the form of share capital, it would be one of the places where we would have had to guarantee the rate, I am sure.  It would be fixed interest and would not vary again.  It is not easy to determine which is the more favourable, but as far as we are concerned, that is the position, anyway.</P>
+      <P>On the whole, I would have preferred it in the form of share capital, but we are very glad to get it in any case.  The reorganisation of industrial credit brings to mind whether we could do something in relation to the twin industry of agriculture also.  As Minister for Finance, I must say that I would be very sympathetic to any proposals made in that way.  I do not think it is want of money in that case. It may mean some reorganisation to get it to work more effectively.</P>
+      <P>With regard to the Trade Loans (Guarantee) Acts, the position is that I am not repealing those Acts, but it is intended to hand over all cases to the Industrial Credit Company when this Bill becomes an Act.  With regard to existing cases in process of being considered, a lot will depend on the stage reached.  If they are near completion, the Department of Industry and Commerce will complete them.  If they have only been received, they might pass them over to the Industrial Credit Company for consideration.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Should a company that is now anxious to file an application under the Trade Loan Acts not file such an application and give it to the Industrial Credit Company?</P>
+    </Speaker>
+    <Col N="727" />
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Let it be filed with the Department of Industry and Commerce. I think we will guarantee that there will be no delay on account of the change-over in considering any case put in.  Deputy Russell asked what became of the present loans. They will remain with Industry and Commerce and the Department of Industry and Commerce will see the guarantee through to the end.  With regard to others which they have already overtaken, they will not hand over their liability to the Industrial Credit Company.  The Industrial Credit Company will commence only from a given date to consider guarantees. Then we will give the guarantee they consider wise.</P>
+      <P>As I said in my opening speech&mdash; this is again in answer to Deputy Russell&mdash;when the Industrial Credit Company get this £1,800,000 from the banks, they will pay all their liabilities, both by way of debts and guarantees, and they will have £400,000 left.  The Estimates this year will provide, on the capital side, £500,000 from the Exchequer.  That makes £900,000. What I said was that that is sufficient for the present.  When that is run out, more money will be provided.  The purpose of the Bill is to make it easier to provide money for the company by issuing loan capital or giving a guaranteed loan, as the case may be.  The whole purpose of the Bill is to make that an easier matter in future.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>Are all these moneys or grants repayable?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>Yes, in so far as the Government has put in share capital.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>What about the £500,000?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>That will be put in as share capital.  I have not considered the personnel of the Industrial Credit Company at this stage.  It will come up for consideration at the time of the annual meeting.</P>
+    </Speaker>
+    <P>I am glad to say that I agree entirely with Deputy Dillon in his regard for the private and family business.  I think it would indeed be a disastrous thing, <Col N="728" /> both socially and economically, if, as the Deputy said, we should do anything that would make it more difficult for a family business to carry on, whether it is carried on by the proprietor or through the medium of a company.  I should indeed be very sorry if anything were done that would make it more difficult for these small private companies or family businesses to carry on.</P>
+    <P>The Deputy is probably right when he says it is almost impossible for these private companies and family businesses to provide capital.  With the various expenses&mdash;including taxation&mdash; they find it difficult to make more than the ordinary profit which is necessary for the proprietor or the shareholders to live.  Therefore, they are at a disadvantage with regard to finding capital for development which the big joint stock company can find.  I can quite see the point.  How to get over it, I am afraid, is the difficulty.</P>
+    <P>The question of taxing profits at distribution level rather than when earned was considered very fully, not alone by me but probably by my predecessor or predecessors&mdash;Ministers for Finance&mdash;on many occasions.  It is not considered desirable by any of those who are concerned with the administration of these Acts or with revenue collection.  I am quite prepared to say that that should not be a deterrent, if we were up against an extreme case with these family businesses.</P>
+    <P>The Deputy suggests there should be some way under which these small businesses can get long-term capital. There is nothing to prevent this company from lending to a private company or even a family business.  They are quite free to lend and, in fact, they have done so.  I made some inquiries about that before coming forward to the Dáil with this Bill.  I found that they had actually lent very small sums, down as low as a couple of thousands.  I am inclined to think that, in that case, it was short-term capital.  I mention it to show that, legally, there is nothing to prevent them from helping the small businessman or the small private company.</P>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Was that done by guarantee?</P>
+    </Speaker>
+    <Col N="729" />
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>It was a direct loan.  I mentioned it to show that there is nothing to prevent them from doing it.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Were those small direct loans, not merely <i>ad interim</i> measures pending a larger&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>No.  The type of industry I have in mind was what might be called a small, one-man industry where he had taken in two or three to help him.  The loan was made.  As I have said, I mentioned it to show that the power is there.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I do not recollect any small case like that being on the list of the holdings held by the Industrial Credit Company.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I think I could probably give two or three examples, without mentioning names, when the next stage of the Bill comes up.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Did the Minister consider the desirability of giving the company power to issue redeemable preference shares?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I am told that the Company Law Reform Committee will consider that point.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The Minister is aware, no doubt, that the company are anxious to have that power, pending the other committee which has been going on for some time.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>With regard to the redemption terms of this loan&mdash;is that permanent capital?  Is the guaranteed loan stock from the Industrial Credit Company redeemable?</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>On a long-term basis.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>On Deputy Dillon's point about the family business, with which I entirely agree, there is one possible way of giving relief which the Minister might consider.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>This is the Second Stage.  I would remind the Deputy that he can make only one speech on this stage.</P>
+    </Speaker>
+    <Col N="730" />
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>We are all in a very friendly mood this morning.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Ceann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I do not want a precedent to be established.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>That would be to increase the Corporation Profits Tax from £2,500 to a bigger sum.</P>
+    </Speaker>
+    <Speaker pid="JamesRyan" hpid="Dr. Ryan Dr. Ryan">
+      <NameTxt>Dr. Ryan</NameTxt>
+      <P>I see.</P>
+      <P>Question put and agreed to.</P>
+      <P>Committee Stage ordered for Tuesday, 15th April, 1958.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Imposition of Duties (Confirmation of Orders) Bill," RHead="1958&mdash;Committee Stage (Resumed) and Final Stages">
+    <Title>Imposition of Duties (Confirmation of Orders) Bill, 1958&mdash;Committee Stage (Resumed) and Final Stages.</Title>
+    <P>Question again proposed: That the Schedule be the Schedule to the Bill.</P>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I want to comment on the fact that this Schedule covers a number of commodities, most of which impose a charge on the agricultural community in that they have to pay costs.  I have advanced to the House on divers occasions the proposition that an export is, from the point of view of the national economy, substantially the same as a protective tariff.  That proposition has been challenged.  I want, therefore, to raise the question in respect of any one of these commodities. Let me take it with special reference to No. 91 of 1957&mdash;an increase in the duty on certain agricultural implements and the extension of the scope of the duty.</P>
+      <P>That duty means that, in respect of certain agricultural implements, the manufacturers make the case that if they have to sell those implements at the same price as they could be imported from world markets, there will be no margin of profit left to pay the wages and meet the costs of production in this country.  The Minister for Industry and Commerce accepts that argument and imposes the tariff or raises the existing rate of tariff, thereupon enabling the producer of that agricultural implement to charge the world price, plus 10, 15 or 20 per cent.</P>
+    </Speaker>
+    <P>In the case of these agricultural machines, that additional charge <Col N="731" /> amounts to approximately £5 per machine.  When the farmer goes to buy that machine, whether he regards himself as a consumer or a taxpayer, the fact is that he pays £5 more than he would otherwise have paid&mdash;but no more is heard of it.  Once we have passed this Imposition of Duties Bill, that charge will continue to be levied on every purchaser of an agricultural machine.  Although there is no legislation recurring in Dáil Éireann, the charge continues to be levied.  So the manufacturer is kept in lucrative occupation and the operatives in the factory retain trade union rates of wages.</P>
+    <P>When that farmer uses that machine to produce merchandise for export, he finds that when he seeks to sell his product in the same market whence the competitive farm machine has been forbidden to come, he can get only the world price for his product and there is no machinery available to this House which, by way of imposition of a tariff, can provide a silent subsidy for him.  The only way we can make him competitive, while retaining a tolerable standard of living in his own country, is to appropriate money to be paid out by the Exchequer in relief of the price which he has to accept on the foreign market.</P>
+    <P>Now, I have seen it argued, very recently, in certain industrial publications, that this is not a fair comparison, because the domestic market is, in effect&mdash;whether by tariff or veterinary regulation or otherwise&mdash; preserved for the agricultural community and they are already enjoying that benefit which is strictly comparable with the tariff protection provided for industry; but the proposition that he should get an export bounty is something quite separate and over and above anything that industrial production has enjoyed or sought to enjoy.</P>
+    <P>That constrains me to say that which it might be better not to dwell upon at too great length.  I am satisfied that there are industries in this country at the present time which are charging for certain commodities 30/- to 36/- in Ireland, while they dispose of the same commodity in foreign <Col N="732" /> markets at 20/- to 21/-; and that, with the consent and approval of the Minister for Industry and Commerce, price levels are maintained here far in excess of the price levels accepted for the same commodities in foreign markets, thus ensuring that these industrial products not only have the protection which secures the domestic market for them, but a further protection which secures the domestic market for them at a price level which enables them to sell surplus production at a lower price abroad.</P>
+    <P>If that is the settled policy of the country, all I stipulate for is that there should not be discrimination against the agricultural exporter&mdash;because if there is, he has a legitimate grievance and sooner or later, if that grievance is allowed to continue, the farmers will react to it by withdrawing from the export market&mdash;which I consider would be a catastrophe.</P>
+    <P>I said here before, and I want to say again, that I believe the farmers are a reasonable body of people.  If they are asked to take their fair share of a common burden of which everybody else in the community is bearing a share, they will be prepared to do it; but if you put to them the proposition that the industrial producer is guaranteed his profit, guaranteed his trade union rate of wages and guaranteed not only the domestic market but facilities for disposing of his surplus output at remunerative prices in foreign markets, by the device of marrying the foreign to the domestic price, then the agricultural producer will demand from the community the same support.  If he does not get it, I believe he has a legitimate grievance and the consequence of that legitimate grievance will be a reduction in his output, with catastrophic results, not alone for agriculture but for industry and employment in the whole country, whether it be town, city or the countryside itself.</P>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. S. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. S. Lemass)</NameTxt>
+      <P>It seems to me that all the observations which we have heard from Deputy Dillon are based on two completely wrong premises.  It is not correct that the prices of agricultural <Col N="733" /> machinery produced in Ireland are higher than the prices at which that machinery could be imported from Great Britain.  Indeed, we have an undertaking from the manufacturers concerned that they will maintain their prices at the prices at which comparable machines can be imported from Britain&mdash;unless some exceptional circumstances should arise, in which case they would seek my approval before effecting an alteration in that situation. It may be that some continental agricultural machinery could occasionally be imported at less than British prices, but I have no information about that. The present situation is, however, that most of the agricultural machines used in this country are available to Irish farmers at or below the price at which similar machines could be imported from Britain without duty.</P>
+      <P>The Deputy wandered into a very wide field when he talked about industrial producers in this country selling their products abroad at lower prices than they could obtain in Ireland.  That, I think, could be regarded as the classical method by which industrial exports expanded in every country in the world.  If these firms cease to sell abroad at whatever price they can get there, it does not mean that the Irish producer will get the products at a lower price.  Possibly he would have to pay a still higher price for them.</P>
+      <P>In the normal type of industry which sells the bulk of its production in the home market and exports only something less than half its output, the aim would be to recover the normal overhead expenses upon home market sales and to seek the trade in the more highly competitive markets abroad by eliminating these charges when determining its selling prices.  As I said, if the export sales do not materialise, the overhead charges have still to be recovered anyhow, and if they have to be recovered upon a lower output intended for home market sales only, then the prices in the home market would tend to increase.</P>
+    </Speaker>
+    <P>Even though, therefore, it is true that in some cases firms sell abroad at a lower price than at home, the effect of the extension of their production, <Col N="734" /> which is involved in their success in obtaining export sales, is to reduce prices at home as well, and I would not regard that as an undesirable development. Indeed, I doubt if there are any firms in this country which are in a position deliberately to subsidise export sales by increasing prices at home.  In most industries, there is competition on the home market and the price level which operates is determined by the intensity of that competition.</P>
+    <P>I think it is undesirable to spread this idea that there is, in any way, discrimination in policy between agricultural and industrial producers.  It is not true.  Indeed, it would be far easier for me to show that agricultural producers for export are getting from the State a far greater degree of assistance than any industrial producer is getting, than it is for Deputy Dillon to show the contrary.  Regarding products like bacon, butter and wheat and other commodities which are produced in exportable surpluses, where the export price is lower than the domestic price, the producer here is getting not merely the benefit of protection but also the benefit of State subventions to export sales.  In the case of butter, bacon and wheat, there is complete prohibition on import; the home market is absolutely reserved for the local producer.</P>
+    <P>The protection given to these producers is as complete as in the case of any industrial production, and more complete than in the case of most. Over and above that, there are these arrangements under which deficiencies realised on export sales, because of the lower prices available on export markets, are recouped in whole or in part from funds to which the Exchequer contributes.  I recognise at once that in the case of many agricultural products the volume of production is not within the control of the individual producer and that, therefore, export surpluses may arise which cannot be checked in the same way as an industrial firm, which, finding it is losing on export sales, may be able to limit its activities in that field and avoid losses.</P>
+    <P>
+      <Col N="735" /> It is because of that, that the practice of giving subventions from State funds to meet the losses on export sales of agricultural producers can be justified.  There is, however, no case whatever for the argument that there is any more preferential treatment or that there are more liberal arrangements devised for industrial producers than those which apply to agricultural producers.  The contrary is the case.</P>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I do not suppose the Minister or myself will ever agree on this general theme.  He has his views and I have mine.  There is one specific matter arising in connection with this Schedule.  When the previous Government were in office, there was a conference between the National Farmers' Association on the one side and the Taoiseach, the Minister for Industry and Commerce and myself on the other.  At that conference, it was agreed that certain tests and experiments would be carried out and that the National Farmers' Association would be accorded an opportunity, at a future date, of making further representations as to the question of whether the domestic manufacturers had redeemed their undertaking to make such reasonable adaptations in their mowing machines, ploughs and so forth, as might be bespoken, and on the question of whether the quality of the machinery came up to the specification claimed by the manufacturer.</P>
+      <P>I want to suggest to the Minister that that undertaking should be redeemed now, even if the Minister chooses to change the policy thereafter and to say to the National Farmers' Association: &ldquo;This redeems the undertaking given by our predecessors, but as from now on I will adopt a different policy.&rdquo;  There is no doubt whatever that the imposition of that duty was a consequence of an arrangement to which there were two parties, one of whom was the National Farmers' Association, and I think that the undertakings given to them then should be redeemed, whatever the future may provide.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>There is no question about that.  Indeed, quite recently I <Col N="736" /> had discussions with the manufacturers of agricultural machinery and I have ascertained from them that they are only too willing to enter into discussions with the representatives of farmers' organisations and to consider any observations they may wish to make regarding the design, quality or price of their products.  There was, as the Deputy knows, a test carried out under the auspices of the advisory committee set up by the previous Government in respect of ploughs.  That committee is available to carry out similar tests, if they are considered necessary.</P>
+      <P>I have, with the consent of the Government, relieved Dr. Beddy of the obligation of acting as chairman because of his multitudinous other duties, but a chairman will be appointed in his stead by the Minister for Agriculture. If at any time there is a question of carrying out further tests and having a report from the committee, there is the problem who is going to pay for them. That is a detail which was overlooked when the committee was set up originally. If there is to be a question of further tests, some arrangements will have to be made to defray the cost. But I do not know that that is entirely a matter to be solved by means of tests by Government-appointed committees. I see no reason why representatives of farmers' organisations and machinery manufacturers should not get together and stay in continuous contact with one another to consider all questions that may arise regarding suitability in respect of quality, design and price of Irish agricultural machinery.</P>
+      <P>I have ascertained that so far as the machinery manufacturers are concerned they are only too willing to have an arrangement of that kind and I see no reason why there should not be a similar willingness on the side of the farmers' organisations.  There have been acrimonious comments appearing in farmers' journals concerning the machinery manufacturers.  I have urged them not to add any fuel to that fire by engaging in public controversies with those organisations which are representatives of their customers.  I do not think that is good policy and they agree it is not good policy.</P>
+    </Speaker>
+    <P>
+      <Col N="737" /> I believe that advantage is to be gained by the whole country, both by the farmers and the manufacturers of agricultural machinery, by an arrangement under which there is regular consultation and agreed methods for the investigation of complaints regarding any type of machinery and for consideration of questions of design in order to have it brought about that the machines produced here will be those best suited in every respect for the needs of the agricultural community. I believe that method of consultation will work satisfactorily so long as the general policy of securing the maximum production of agricultural machinery within the country is accepted.</P>
+    <P>Question put and agreed to.</P>
+    <P>Title agreed to.</P>
+    <P>Bill reported without amendment.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I presume there is no objection to taking the remaining stages now.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Has the Minister not an objection to taking the Final Stage of this Bill in the absence of Deputy Corry?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Not the slightest.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister's tone is very disrespectful.</P>
+      <P>Bill received for final consideration and passed.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>This is a Money Bill within the meaning of Article 22 of the Constitution.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Tea (Purchase and Importation) Bill," RHead="1957&mdash;Report and Final Stages">
+    <Title>Tea (Purchase and Importation) Bill, 1957&mdash;Report and Final Stages.</Title>
+    <Speaker pid="SeanFLemass" hpid="Minister for Industry and Commerce (Mr. S. Lemass) Seán F. Lemass">
+      <NameTxt>Minister for Industry and Commerce (Mr. S. Lemass)</NameTxt>
+      <P>I move amendment No. 1:&mdash;</P>
+      <P>In page 4, line 7, Section 5 (3) (a), before &ldquo;post&rdquo; to insert &ldquo;registered&rdquo;.</P>
+      <P>Amendments Nos. 1 and 2 are inserted to meet the case made by Deputy Sweetman in Committee, that notice under this section, if issued, should go by registered post.</P>
+      <P>Amendment agreed to.</P>
+    </Speaker>
+    <Col N="738" />
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I move amendment No. 2:&mdash;</P>
+      <P>In page 4, line 24, Section 6 (3), before &ldquo;post&rdquo; to insert &ldquo;registered.&rdquo;</P>
+      <P>Amendment put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Amendment No. 3 in the names of Deputy Cosgrave and Deputy Sweetman has been ruled out of order.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I want to make certain submissions on that and I appreciate the difficulty of doing so when the ruling was made by the Ceann Comhairle.  This amendment and amendments Nos. 5 and 7, I have been informed, are all ruled out of order, on the basis that the purpose of this Bill is to provide for the purchase of tea in the country of origin.  If that is so, then may I suggest to you, Sir, that the House is entitled to take a separate decision on the point of whether tea may be purchased by persons other than the company.  The House must be given the opportunity of taking two decisions in relation to the Bill and the two decisions cannot be merged into one.  One principle of the Bill is that nobody except the company can purchase tea; the second principle of the Bill is that tea can be purchased only in the country of origin.  There are two principles in the Bill.  If one principle is deemed to be the main principle in the Bill, then it must be allowable to have a decision in the House on the other principle.</P>
+    </Speaker>
+    <P>We discussed this on Committee Stage and, without in any way imputing anything other than an anxiety to help, we were led to believe that an amendment to delete the whole section would be permissible on Report. Regardless of whether that is so or not, it does seem that when those two principles are in the Bill, the House should be given an opportunity of deciding on them.  Of the three amendments I have put down, the last one was to delete the whole section.  I can quite see that might involve the principle of the Bill, but the other two amendments I have cover a different point.  One principle is that you can buy tea only in the country of origin <Col N="739" /> and the second is that only the company can buy tea.  I submit that if the amendment purporting to negative whichever you rule is the principle of the Bill, is out of order, the other amendments must be in order to give the House an opportunity of deciding on a secondary basis.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>If the Chair had not ruled this out of order, I would have asked the Chair to do so because, no matter what consequent amendments the Chair may rule on, as far as this one is concerned, it is true to say that Section 7 is the kernel of the Bill and, if Section 7 were deleted, there would be no alternative but to withdraw the Bill.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>This is not the amendment to delete Section 7.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No. 4 is to delete Section 7.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I beg the Minister's pardon.  I thought that was the last amendment.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>I had two amendments down and they are ruled out of order as they involve a proposal of substantial importance which was not effectively before the House in Committee on this Bill.  My principal objection was that the import of tea was to be confined to the new company, which I thought was a bad move.  It was the Minister's intention that they buy tea in the country of origin&mdash;</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Is yours ruled out also?</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Many heads are falling.</P>
+    </Speaker>
+    <Speaker pid="GeorgeERussell" hpid="Mr. Russell Mr. Russell">
+      <NameTxt>Mr. Russell</NameTxt>
+      <P>There is nothing I can do about it.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The amendments have been ruled out of order because the effect of both the first and second amendments in the names of Deputy Cosgrave and Deputy Sweetman would be to negative the principal section of the Bill.  The Ceann Comhairle has pointed out that <Col N="740" /> the general principle of the Bill was approved by the House on Second Stage and the main operating section was agreed to on Committee Stage.  A debate then on the fundamental issues on Report Stage would not be in order. As far as Deputy Russell's amendments are concerned their subject matter was not adverted to in Committee and, therefore, it would be out of order to raise them on Report Stage.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>When we rule amendment No. 5 out of order, perhaps my comments would be more relevant on that amendment than on amendment No. 3.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Amendment No. 4 is out of order.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>On amendment No. 5, which deals with the principle&mdash;</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>I understand the Deputy dealt with amendments Nos. 3 and 5.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I am asking you to amplify what you said as the Minister has said that Section 7 is the kernel of the Bill.  Section 7 contains two kernels.  Surely the Chair is not ruling on a section which contains two kernels.  The House may not now give a separate decision on each kernel.  If there were only one kernel in Section 7, I could understand the ruling of the Chair, but there are two.  One is that tea shall not be imported from anywhere save the country of origin, and the second is that no one but the company shall import tea.  The Chair must decide which of those is the primary principle.  Having decided which is the primary principle, we are entitled to debate the secondary principle.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Does the Deputy not think his amendment is out of order because it does seek to kill two birds with two stones?</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Amendment No. 5 is different from amendment No. 7.  I am not allowed to throw two stones, but I think I must be allowed to throw one stone.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The <Col N="741" /> effect of amendment No. 5 would also appear to be to negative the principle of the Bill.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>With respect, Sir, I do not know if I am in order in reading the letter which I have from the Ceann Comhairle.  It says: &ldquo;The purpose of the legislation is to secure that tea be purchased in the country of origin unless with ministerial authorisation.&rdquo; My amendment does not conflict with purchase in the country of origin.  The effect of it is that purchase in the country of origin means that anybody, in addition to the company, can so purchase.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>So he can.  That, I think, is an argument on the merits.</P>
+    </Speaker>
+    <Speaker pid="LionelBooth" hpid="Mr. Booth Mr. Booth">
+      <NameTxt>Mr. Booth</NameTxt>
+      <P>He can import.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Import, if you like, and/or purchase.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Ceann Comhairle's ruling is that amendment No. 5, as I pointed out, would negative the principal section of the Bill and, therefore, I fear we cannot have any further discussion on it at this stage.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The Chair is the judge, but I wish to go on record that I cannot accept the absence of logic in the ruling.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>It is absurd.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>So far as this Bill is concerned, the ruling governs this Bill.  I do not know whether I have to give notice that the matter should be considered elsewhere, if that is necessary, but I shall certainly not allow a similar situation in relation to any other measure where there are two kernels and neither kernel can be attacked.  That is manifestly wrong.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Amendment No. 6 in the name of Deputy Russell has been ruled out of order.</P>
+      <P>Amendment No. 7 in the names of Deputy Cosgrave and Deputy Sweetman has been ruled out of order.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>For what reason?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>As the <Col N="742" /> Deputy has been informed it appears to destroy the purpose of the Bill, which is to secure that tea be purchased in the country of origin.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Thank you.  You have made the case completely why amendment No. 5 should not have been ruled out of order.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I move amendment No. 8:&mdash;</P>
+      <P>In page 5, lines 25 and 26, Section 9, to delete &ldquo;or to imprisonment for a term not exceeding six months.&rdquo;</P>
+      <P>During the course of the discussion in Committee, Deputy Dillon queried the desirability of having a provision for possible imprisonment at the discretion of the court for an offence under the Bill.  I indicated that I was prepared to consider a modification of the provision and this amendment is actually framed for that purpose.</P>
+      <P>Amendment put and agreed to.</P>
+      <P>Question&mdash;&ldquo;That the Bill, as amended, be received for final consideration&rdquo; put and agreed to.</P>
+      <P>Question proposed: &ldquo;That the Bill do now pass.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I want to submit again to the House that this whole Bill ought to be abandoned.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>Hear, hear!</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I have listened carefully to what the Minister had to say about it in the discussions on the various stages of the Bill and the only arguments that I have heard him advance for it are: one, he wants, to put it bluntly, to wreak vengeance on the tea traders in London because the Ministry of Food is no longer there to wreak vengeance upon.  It has disappeared. The second reason he advances is that it seems to him manifest that it must be more economical to import tea direct from the country of origin to the city of consumption rather than allow it to pass through an intermediate market and, therefore, he is going to say to every tea merchant in Ireland, many of whom have spent their whole lives in the business: &ldquo;Whatever your experience <Col N="743" /> suggests to you, I, Seán Lemass, Minister for Industry and Commerce, sustained by the advice of my staff, no one of whom has ever handled a lb. of tea except to go out and buy it for his wife to put in his respective teapot, have made up my mind that, though you, the merchants, who have been handling tea all your lives consider it most expedient to buy it sometimes in Mincing Lane and sometimes in Djakarta, as your own discretion may direct you, you are all wrong and, fortified by that conviction, we are going to enact a statute of the Oireachtas to make your practice conform to our theory.&rdquo;</P>
+      <P>I have been myself 35 years in the tea trade and I want to tell the House, with the fullest deliberation, that this Bill is a Bill which will impose on our people relatively bad tea at relatively high prices.  That is one ground upon which I object to it.</P>
+      <P>I want to make this point clear: if the Minister is concerned to set up an organisation or to facilitate others to set up an organisation, to buy tea in Calcutta or Djakarta for direct importation here, I have no objection to that at all.  All I am objecting to is that, having set up that machinery, he forbids, by Act of this Oireachtas, ordinary merchants in the ordinary course of business doing that business as they think best in their own interests and in the interests of their customers, who are the tea consumers of this country.</P>
+    </Speaker>
+    <P>There is no justification for an interference of that kind and it is fantastic to listen to the Minister for Finance thundering here last night about the devotion of the Government to the principle of individual enterprise and private enterprise in industry and business and find oneself the following morning engaged on legislation to prevent a merchant procuring his merchandise in the market where he knows he can get it cheapest and best.  I want to recall to the House that every penny on a lb. of tea represents £100,000 per annum here.  I want to remind the House that it is only a pretty experienced tea buyer who will detect a <Col N="744" /> differential of 4d. per lb. in the quality of teas submitted to him for comparison.</P>
+    <P>We are, therefore, putting in the hands of a strictly limited number of persons, because it is only a very limited number of dealers who will be so circumstanced as to be able to import tea direct from Colombo, Calcutta or Djakarta, a power to levy on the consumers a charge of up to £400,000 per annum without any conceivable means of anybody checking upon them. Remember, whatever expert opinion there is available in this country to undertake a check of that kind will be within the ring constituted under this Bill as a monopoly for importing tea from the country of origin.</P>
+    <P>The Minister has stated that this proposal has met with the general approbation of the tea dealers of this country.  That is a fantastic misrepresentation of the facts, and if that view has been made to prevail on the Minister's mind, the Minister has been most gravely misled.  If he is prepared to submit to being so deceived, he should take very special precautions not to relay his affliction on to this House.  There may be a limited number of large tea wholesalers, who have been having a nice time already under the Tea Importers set-up, who do not want to let go and who see in this permanent arrangement an opportunity of retaining their previous position.</P>
+    <P>I am putting it to the Deputies, of their own personal knowledge, is it not true that over the past ten years, it is the universal experience of us all that we have been consuming poor quality tea at unprecedentedly high prices? Why can anybody believe that it corresponds to the public interest that we should make that a permanency?  Far from the Minister's belief that the majority of tea merchants in this country approve the principle of this Bill, I venture to suggest that from 85 per cent. to 90 per cent. of the tea merchants&mdash;by whom I mean those who deal in tea&mdash;object most strenuously to this Bill.  But if you determine there are only 90 tea merchants in the whole of Ireland, as defined for the purpose of the Minister's contention as registered tea merchants on some register <Col N="745" /> of wholesalers he maintains in the Department of Industry and Commence, I want to make this prophecy. If you accept that as the total number of merchants, not one quarter even of that number will in fact import tea directly under this organisation.</P>
+    <P>I want to deny most categorically that the 90 persons registered with the Minister represents the tea merchants of Ireland.  Ninety per cent. of the tea distributed in this country prior to 1939 was purchased by wholesaler/retailers scattered all over the country. Some of the most discriminating tea buyers in this country were to be found in towns with a population of not more than 1,500 persons.  One of the most effective methods of building up a remunerative grocery trade in rural Ireland was to acquire the reputation in the area in which you lived of being a discriminating tea buyer.  All that is to be swept away now.  The Individual who trusts to his skill to build up his business is now to be delivered into the hands of, I believe, not more than 15 to 20 persons who will become in practice the sole importers of tea.</P>
+    <P>Here is where the Minister immediately challenges me and says there is nothing in the Bill to prevent anybody being an importer of tea.  I am not interested in theoretical calculations of that character.  I mean no personal disrespect to the Minister when I say he is not capable of making other than theoretical, speculative calculations of that character.  He has not the advice available to him drawn from the pragmatic angle from which I speak. I know that theoretically under the Bill anybody can import tea from Colombo or Calcutta.  The only stipulation is that they bring it in through this company.  But, in practice, that means that 90 per cent. of the persons who heretofore had effectively operated as tea merchants cannot effectively operate as such hereafter.  I ventilated that point before, but I cannot allow this occasion pass without reaffirming the fundamental principle on which I am and our Party are opposed to this legislation.</P>
+    <P>The Minister on a previous occasion appeared to get indignant when I <Col N="746" /> directed his attention to another aspect of this problem which is of fundamental importance.  There is no use pretending that outside parties are so stupid and so blind as not to see aspects of this problem which jump to the eye.  On yesterday, the officers of the Department of Agriculture appeared at the British Board of Trade to make the case that it would be unfair discrimination against this country, if Great Britain levied discriminatory duties on our butter.</P>
+    <P>Mark you where the representations had to be made, at the British Board of Trade.  The basis of our argument to the British Board of Trade is that we have been dealing with one another on the widest possible front and with the minimum of discrimination or interference with the free passage of trade between us.  We can prove in regard to butter that that has been going on between ourselves and Great Britain longer than between Great Britain and any other supplier.  On that ground, we claim we are still entitled to trade in this market as freely as we did in the past.</P>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy is going very wide on this stage of the Bill.  On the Final Stage of a Bill, only matters contained in the Bill may be discussed.  Anything else is irrelevant.  There is nothing in the Bill about retaliatory action on the part of the British Board of Trade.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>I have not yet explained the matter.  I have no doubt that the Leas-Cheann Comhairle will discern the moment I have.</P>
+    </Speaker>
+    <P>The very same body in London, the British Board of Trade, is the body that deals with the subject matter of this Bill.  If the tea merchants of London feel that this Bill is designed finally and permanently to terminate their market in Ireland, where will they go?  Their immediate goal is the British Board of Trade.  It is their spokesman in matters of this kind.  As certainly as we are in this Chamber to-day, there will be a deputation from the tea merchants of London to the British Board of Trade, informing them that they regard this Bill as an <Col N="747" /> arbitrary interference by our Government in their legitimate operations on our market.</P>
+    <P>How can it be of advantage to us, who have emphasised in every trade agreement yet made with Great Britain that we want to expand trade between the two countries, what conceivable consideration can justify us in taking a measure of that kind?  They are entitled to ask us, as we are entitled to ask them, about any proposed restriction on the import of butter. They are entitled to ask us about any proposed restriction by us of their trade: &ldquo;What reason have we for it?&rdquo; We have only two&mdash;one is that we want to express our indignation at the attitude of the Ministry of Food in 1941&mdash; and I think they can make an unanswerable case that that is not a valid ground for action now&mdash;and the second is that our Department of Industry and Commerce believes that it is more economical to import direct from the country of origin than from the Mincing Lane market in London to which the British Board of Trade will say: &ldquo;You are quite entitled to hold that view and we do not for a moment challenge the setting up of machinery providing special facilities for the import of tea direct from the country of origin.  We do not claim the right to interfere in your legislation for the promotion of any particular trade and all we ask is that you do not deprive us by any Act of your Oireachtas of the right to compete in your market.&rdquo;</P>
+    <P>I ask the Minister what advantage can he conceivably imagine will accrue that will outweigh the dangers here envisaged? If he honestly believes in his plan, what could be easier than to set up his plan and, at the same time, say: &ldquo;Let anybody else, or let these people, deal in London, if they prefer.&rdquo;  I do not object if he is managing this whole idea and if he says: &ldquo;I am giving a grant to these people to get them started, an annual grant for the first five years to get them into the practice of dealing with the countries of origin, because I am so profoundly convinced that in the long run it will be advantageous to the nation to do so.&rdquo; All I object to is that, having set up <Col N="748" /> the machinery enabling people to deal directly with the countries of origin, he prohibits them from dealing anywhere else, while bearing in mind that I am as certain as I am that I am standing here to-day that we would get better tea at lower prices by being free to trade wherever we like.</P>
+    <P>I am certain that legislation of this kind will not create the sort of atmosphere I would like to have in the British Board of Trade at a time when it is of such vital importance to us to make it abundantly clear in London that we desire, in the terms of the first Article of our Trade Agreement of 1948, to expand and develop to our mutual advantage trade of every description between their people and our people.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Like Deputy Dillon, I think the Bill is &ldquo;cracked.&rdquo;  I think it was conceived out of the Minister's vindictiveness because of what occurred in 1941.  What happened in 1941 was absolutely wrong; this country was treated extremely badly; but in my view it was not the Mincing Lane people who were responsible for that. Yet, because of the wrong that was done at that time, the Minister proposes in this Bill to inflict a further wrong on us here.  I cannot discover anywhere the volume of support for this measure which the Minister has alleged exists.  I have had many letters about this Bill and about the debates and I have not got a single letter which in any way commends the point of view put forward by the Minister.  I have not seen in the public Press any letter or statement by any interested person with the courage to put his name to such a statement, approving this Bill.</P>
+    </Speaker>
+    <P>On the contrary, I have seen many criticisms and I have received samples of those criticisms, including criticisms by people who took cuttings out of newspapers reporting the debates here.  On one paper reporting the Committee Stage debate, my correspondent has written across words that I spoke, words that Deputy Sullivan spoke, that Deputy Booth spoke and that Deputy Dr. Esmonde spoke, &ldquo;Right.&rdquo;  If the Minister will not be too shocked, when the correspondent <Col N="749" /> comes to the Minister's remarks, he just crossed them out and wrote &ldquo;Rubbish&rdquo;.  I think that is a pretty good comment on the case the Minister tried to make in support of this Bill.</P>
+    <P>I mentioned previously, and I want to repeat now, that it seems to me to be crazy, at the time when we are discussing the question of joining the Free Trade Area, there should be legislation such as this Bill to provide that we cannot buy in that area.  The two things seem to me entirely and absolutely incompatible.</P>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>The Free Trade Area applies to goods of area origin.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>All sides of the House agree that we must increase our exports.  How can we do that?  How can we get other countries to take our goods, if we show that the countries that are prepared to take our goods will meet deliberate discrimination against them in favour of countries not prepared to take anything from us?  The last available issue of the <i>Trade Journal</i> is for December, 1956, and it shows total exports to India were worth £141,807; exports to Ceylon, apparently, are so small that they do not appear to be mentioned at all in this.  Yet we are prepared to provide in this Bill discrimination in favour of India and Ceylon.  That does not seem to me to be the way to get that reciprocal trade which is so vitally necessary for us, not merely if we are to make progress, but if the country is to survive.</P>
+      <P>It seems to me that this Bill will give a handle, and a very useful handle, to those people who wish to push us out of markets where we have already a footing.  It will give a handle to those people to say that the preferential arrangements that we enjoy in those markets should be taken away.</P>
+    </Speaker>
+    <P>I do not think there is any advantage in this Bill, but even the advantage which the Minister has suggested and which is so trifling compared with the risks involved of our losing the existing export markets and losing the goodwill in those markets is, on the Minister's <Col N="750" /> own showing, utterly unrealistic and utterly unconvincing.</P>
+    <P>I cannot conceive of any reason for this Bill, except the reason of ensuring that the whole tea trade will be centred in the hands of a few.  Let us be quite clear also about this, that once this Bill is passed, once this company is formed, the directors of the company and possibly others, the members of the company, but, certainly, the directors of the company, will have private confidential trade information available to them, not in respect of their own business but in respect of the business of their competitors. That is highly undesirable.</P>
+    <P>I will tell the Minister why, because he raises his eyebrows: Only the company can import tea.  Anybody who is importing, in order to enable such importation to take place, must have all the necessary shipment particulars. Those shipment particulars must inevitably include invoices, certificates, particulars of supply, prices, all the private confidential information of anybody who is importing and who is not a director of this company.  All that information affecting his private and confidential business must, of necessity, be put through this company. If that is not giving an unfair trade advantage to those who are in the trade and directing this company, I do not know what it is.</P>
+    <P>The whole effect of this Bill, in practice, no matter what theoretical let-out there may be in it, will be for the future to concentrate the tea trade in Ireland in the hands of a very few people.  That is highly undesirable and I believe that the Minister, if he were not blinded by a memory of something he should forget, as other people have had to forget far worse things, would also realise that it is highly undesirable and that that will be the only result of this Bill.</P>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>I should like to support Deputy Sweetman and Deputy Dillon in the remarks they have made about this Bill.  This Bill has been discussed pretty extensively over the past few weeks.  It is fair to say that it is unusual that a Bill introduced by a <Col N="751" /> Government should have received so much direct criticism and so little support. We have discussed the Bill at considerable length.  It purports to do two things: first, to create a situation whereby tea is to be bought in the country of origin and, secondly, that that tea will be imported into this country by a company.  No arguments have been put forward by any member of the Minister's Party in favour of that Bill.  No one among the general public outside appears to have any sympathy with the intentions of this Bill.</P>
+      <P>The Minister has told the House that it is the wish of the tea traders that this Bill should be passed.  None of us on this side of the House has been able to discover any such desire on the part of any of those traders, with the possible exception of a limited few who may get some benefit out of the Bill. It is reasonable to suggest that if there were any general desire for this Bill, some members of the Minister's Party would have stood up and put forward arguments in favour of it and would have tried to support the Minister in the dilemma in which he now finds himself. Nobody in this House, except Deputy Norton and the Minister, wants this Bill and in the course of the discussion here, the Minister has not given us any idea of what the arrangements are or as to the ideas in his mind of the benefits to the people of Ireland or even to those who deal in tea as a whole.</P>
+      <P>All we know is that another control is being set up.  Of course, the Minister glibly gets out of that by saying that anyone can buy tea.  Nevertheless, we are going to have another of the numerous controls which are strangling this country.  A few people will be in control of this company who will have the sole right to import tea.</P>
+    </Speaker>
+    <P>It is easy for the Minister to say that anyone can buy tea, that anyone can register as a member of the company, that anyone who becomes a member of the company can import tea.  The fact is that that company will have a right to bring in that tea at whatever cost they like and will have the power to determine the price of tea and to determine what tea we <Col N="752" /> get.  The Minister will answer and say that anyone can buy tea where he wishes, that anyone can bring in that tea.  He knows perfectly well that that is not true.  My own opinion is that if the Minister could get out of this Bill and save his face, he would probably do so.</P>
+    <P>As this is the last opportunity we will have of discussing the Bill in this House, I should like the Minister to explain to us what, in his mind, is the purpose of the Bill, why he has introduced this Bill.  So far, he has not told us.  He has tried to put it across the House that, unless we have a company such as this, we will not have a continuous supply of tea.  Does anyone in his senses believe that where there is a tea trade running into £6,000,000, there will not be people interested to see that there is tea in the country and good tea, at competitive prices, sold to the Irish people?</P>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy is making a Second Reading speech.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>I am discussing the Bill as it has been discussed in this House.  This is the last time that we will have a chance of talking about it. I hope the Minister will clarify the position with regard to the importation of tea.  We are on the Fifth Stage now and that has not been made clear to us.  All I know is that there will be a group of people importing tea.  I should like, on this Final Stage, to know from the Minister what benefits he suggests will accrue to the Irish people.</P>
+      <P>Deputy Sweetman very correctly pointed out that the newspapers, the public, the majority of those who have voiced any opinion in Dáil Éireann are against this Bill.  The Minister has not shown us any reason for it, except that he does not want anybody to buy tea in London.  I shall not go so far as Deputy Sweetman went and say that that is personal spite on the Minister's part against Mincing Lane, but I am suspicious at the same time.  That is the only reason that has been put forward for the Bill.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The Minister admits <Col N="753" /> it.  He admitted quite frankly it was because of what happened in 1941.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>He said what happened in 1941 might happen again.  We might not be able to import tea.  Will the Minister indicate to the House how, in the event of unfortunate circumstances arising in which we would have another world conflagration, this company would then propose to get tea into Ireland from the country of origin? Has he any plans in his mind?  I presume he has had a lengthy discussion with members of the company.  I presume he knows who the company will be already&mdash;that, I take it, has been long since arranged.  Has he had any discussion with them as to how, in the event of a national emergency, they propose to get the tea?  I should like the Minister to tell us a little more about this Bill.  All we know is that tea is to be imported from the country of origin and that certain people have a monopoly to do so.  First of all, I would ask him to withdraw the Bill.</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy is out of order in asking the Minister to withdraw the Bill at this stage.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>Until the Bill becomes law, surely we can ask that it be withdrawn?</P>
+    </Speaker>
+    <Speaker pid="CormacBreslin" hpid="An Leas-Cheann Comhairle Cormac Breslin">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>It is out of order on the Fifth Stage to ask for the withdrawal of a Bill.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>May I put it this way? May I ask the Minister not to press the Bill?  It does not seem to be very acceptable to Dáil Éireann, and if he cannot see his way to go as far as that, perhaps he will tell us what is in his mind in respect of this futile Bill which is going through the Fifth Stage in this House and will then go to the Seanad, I feel, unwept, unhonoured and unsung.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Let us start by looking at the present situation.  There is one company in existence which buys all the tea, imports it and then resells it to the wholesale merchants.</P>
+    </Speaker>
+    <Col N="754" />
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>A thoroughly bad situation.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>The legislation upon which that situation is based expired in 1956 at a time when there was a Government in office which included Deputy Dillon and Deputy Sweetman.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>No, 1957.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Yes.  The legislation which maintained that situation expired automatically in 1956 and the Government in which these two Deputies were very important members decided to continue that situation and brought to this House, in 1956, a Bill designed to continue the arrangements under which all the tea for this country was purchased and imported by a single organisation.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>But the Minister knows why.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Why?</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Because there was a large accumulated deficit that had to be liquidated.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Was that the reason?</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>There is no question of that.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>Does the Minister not know it was the reason?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Would the Deputy accept that as a good reason why the present arrangement should continue?</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>There is no overdraft left now.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That is the position we have had for 15 years, a situation in which all the tea of the country was purchased and imported by a single organisation.  That is the situation which the Government containing Deputy Dillon and Deputy Sweetman in 1956 decided to continue.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>For a good and sufficient reason, to liquidate the deficit.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>If the Minister would be good enough to have a look at the files in the Department of Finance, he will find my note that I <Col N="755" /> thought it was desirable to continue it until the overdraft was liquidated, and not thereafter.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>We are now going to get rid of that situation.  We have to change from that situation in which there is a single buyer and importer to a new situation in which anybody can buy tea.  That is what this Bill is designed to do.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>Can they not buy tea without a Bill?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I want to qualify that.  I shall deal later with the advantages to the country of maintaining the practice under which the tea we use here is bought in the country where it is produced and imported direct from that country.  This Bill provides that it will be imported by a new company that is to be set up by the wholesale tea merchants of the country.</P>
+      <P>We went to the wholesale tea merchants and said: &ldquo;We want to get rid of this wartime situation.  We want to restore complete freedom to trade in tea, subject to the maintenance of some arrangement which will ensure that tea will be purchased in the country of origin and imported direct, because we think that is to the advantage of the country.&rdquo;  The suggestion for the establishment of this company and the channelling of all imports through it came from the tea wholesale merchants who had a meeting at which the whole proposition was explained to them and at which various alternatives were discussed, and who arranged to take a ballot amongst their members as between the various alternatives.</P>
+    </Speaker>
+    <P>Following a ballot and a majority vote covering every merchant in the country who was registered as a wholesaler with Tea Importers Ltd., this proposition was put forward to me that I should legislate for the establishment by them of a company which would have the sole right to inspect the tea which they as individuals had bought. They argued that, with that arrangement, they would be able to get the bank credit which was required to facilitate <Col N="756" /> the arrangement, that the bringing in of regular cargoes of tea would represent a substantial saving in freight and that no other way would be effective in ensuring that the smaller merchants who wanted to buy tea in the country of origin and be on an equal footing with the larger merchants would be able to remain in business. That is the reason for this Bill.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>They were given no opportunity of voting whether the tea should be bought in the country of origin or elsewhere.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>No, that was a question for the Government.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The Government laid that down.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I think the great majority of the merchants would agree it is a far more economic method of trading.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>That is not my information.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>It is mine, and I have had an opportunity of discussing the matter more recently than the Deputy.  There appears to be some impression that there is an international market in tea in Mincing Lane.  That is completely untrue.  There is no international market in tea there.  There is a market there through which tea is auctioned to British wholesalers.  The total quantity of tea exported from England through Mincing Lane is not 5 per cent. of the imports of tea into Britain and represents a quantity of tea far less than we in this country consume.  Teas go into the Mincing Lane market from many countries other than India.  Everybody knows that the Irish demand is for Indian tea.  We are not interested in tea from Rhodesia, Tanganyika or any place else because our people have not a taste for those teas.  Of the teas that go into Mincing Lane, not much more than half are from India and they go in under quota. The Indian Government dislikes the arrangement of tea being sent forward for auction in London and they have restricted by quota the quantity of tea that may be sold in that way.</P>
+    </Speaker>
+    <P>
+      <Col N="757" /> Nevertheless, there seems to be some idea that, by going into this restricted market for Indian tea, which is not in any sense an international market, we can do better than by buying in the country where the tea is produced and where there are unrestricted supplies. We are not insignificant in the tea trade.  This country is the third largest importer of Indian tea.  We buy more tea from India than any other country in the world, except the United States of America or Great Britain.  The total quantity of Indian tea exported from England through the Mincing Lane auction would be only a fraction of our supplies and what is being suggested here is that we should give them, through some mistaken conception of our own advantage, an export trade in tea which would mean that their present export trade in tea would be more than doubled.</P>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Not at all.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I shall give the Deputy the figures.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>That is not the suggestion at all.  The Minister would need to be careful and accurate in regard to his figures so that he and I will not be put in the same category.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>The total quantity of tea exported from England&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Exported?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Exports from Britain. I am talking about tea brought in and auctioned in London.  The total quantity of tea exported from England was 5 per cent. of imports and that means imports of tea from all sources. As I pointed out, only 58 per cent. of the tea auctioned in Mincing Lane is Indian tea.  Tea was purchased from Kenya, Tanganyika, Rhodesia, Ceylon and many other countries, including Indonesia and China.  With regard to Indian tea, we have effective arrangements working for the purchase of tea.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Minister was going to give us figures in regard to the total exports of tea from England in 1957.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I have figures for the Channel Islands, Canada and other <Col N="758" /> Commonwealth countries and the Republic of Ireland&mdash;4,000,000 lb.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>In other words, the Minister was chancing his arm?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>There is no great international market in London.  It does not compare with the markets in India in which we have now established an organisation for buying the tea.  Deputy Dillon said it will be dearer tea. Except during the period when, as a result of what I would describe as the mismanagement of the tea trade of the country, Tea Importers, Limited, had to recover the losses they were compelled to incur by orders of the then Government, tea in this country, over the greater part of the past ten years, was retailed at the lowest price in the world.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Some of the merchants do not think that.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I do not know what the merchants think.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>They would have a pretty fair idea.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I have said that may not be attributable to exceptional brains, experience or knowledge on the part of Tea Importers, Limited.  It was, perhaps, not an unexpected situation when the general world price trend was upwards, that any company like this, buying large stocks of tea and carrying them forward to sell gradually over a period, was always in a better position in regard to price than the trader buying and selling at the current price.  There were occasions when fluctuations in price made it possible to buy occasional parcels of tea in London at lower prices.</P>
+    </Speaker>
+    <Speaker pid="ThaddeusLynch" hpid="Mr. T. Lynch Mr. T. Lynch">
+      <NameTxt>Mr. T. Lynch</NameTxt>
+      <P>Would the low quality have anything to do with the low price?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Nothing whatsoever. Tea Importers, Limited, bought the tea which Irish merchants wanted.  It may be that individual merchants decided to use lower quality teas in their blends but nobody compelled them to do it. Maybe they thought that would be an advantage and then put the blame on <Col N="759" /> Tea Importers but there will be no danger of that in the future.  They can buy any tea they like in the future at whatever price they like.  They will be responsible for the teas they acquire.</P>
+      <P>The aim of this Bill is to restore freedom to the tea trade and get rid of the situation which obtained under the previous Government and which the previous Government legislated to continue. The aim of the Bill is to create a situation in which anybody can get into the trade and buy tea provided they do so in the country of origin.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>Surely tea was free before the last war and people bought tea wherever they wanted to and imported it accordingly?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That is not quite correct.  It is true that this country was emerging from a situation in which we were economically dependent upon England.  The trade of this country was largely in the hands of English merchants.  That was true in regard to a variety of commodities.  The efforts of Irish merchants to change that situation, even though it was to the advantage of the Irish people that it should be changed, made very little progress.  We do not have to go back to that disadvantageous position.  We have a new situation.  There is no longer any reason why we should seek to get back to the disadvantageous conditions which we inherited from the past.  We can get into a situation in which we can trade in tea as every other country is doing.  Why should this be the only country which should not do that?  Why do the Danes, the Dutch and the Belgians not buy their tea in London if it is so advantageous to do so?  I am pointing out that the total quantity of tea traded through London on international account is insignificant.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>The Dutch, next to the English, are the largest tea growers in the world.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>They were&mdash;not now. They have lost their Empire too.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>I thought Ceylon was second to England?</P>
+    </Speaker>
+    <Col N="760" />
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>Ceylon is a country in which substantial quantities of tea are available but the Irish people do-not buy Ceylon tea.  The demand here is for Indian tea as everybody knows. Our task is to devise arrangements to ensure that the trade will be continued upon the basis most advantageous to the Irish consumer and at the same time remove the limitations upon new entrants into the trade and the other restrictions inevitably associated with the war years.  They are all being swept away now.  A new Tea Importers, Limited, is coming into existence because the tea wholesalers of Ireland in ballot voted for it.  Even that need not be regarded as a permanent arrangement.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>How many voted in the ballot?</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>As far as I know, every registered wholesale merchant in Ireland.</P>
+    </Speaker>
+    <Speaker pid="JamesMatthewDillon" hpid="Mr. Dillon Mr. Dillon">
+      <NameTxt>Mr. Dillon</NameTxt>
+      <P>About 90.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>That is all there are. Deputy Dillon spoke about tea traders. The register incorporated every tea wholesaler in Ireland.  There was no means by which anybody could become a wholesaler except by buying from Tea Importers, Limited during that period. It will be a different situation in the future.  Any Irish person or Irish company can get on to that register and become a tea retailer or wholesaler.  A new entrant can become the biggest wholesale tea trader in the country and, so far as legislation is concerned, there will be no impediment to his so becoming.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>He cannot be an importer.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>He can be an importer of tea except that the actual agency by which the tea is shipped to this country will be this co-operative organisation which the merchants have voluntarily set up.</P>
+    </Speaker>
+    <Speaker pid="AnthonyCEsmonde" hpid="Dr. Esmonde Dr. Esmonde">
+      <NameTxt>Dr. Esmonde</NameTxt>
+      <P>No matter how big a dealer he is, he cannot import tea himself. He has to do so through this company.</P>
+    </Speaker>
+    <Col N="761" />
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>He buys the tea and arranges with this company to have it shipped.  It is a more economic and efficient method of handling the importation of tea, according to the advice given to me by the people in the business. As far as I am concerned, it is not an essential condition of the legislation. It was an arrangement they suggested and which I approved.  It is a principle of this Bill but it is not an essential condition to the creation here in the tea trade of the conditions which I desire to see.  If a review of the situation in subsequent years suggests a better method of handling the tea trade, we can adopt it.  I think, however, we shall have ample evidence by then that the policy of direct importation from the country of origin is so infinitely better for this country that nobody in future will ever think of getting away from it.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>The only test is to have the two systems working side by side.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I do not think it would be a fair test.  We have to work here through a number of Irish companies who have had no opportunity for a long number of years&mdash;15, 16, or more years&mdash;of gaining experience in the negotiation of their own purchases, in establishing the contacts necessary in India in order to make the best <Col N="762" /> purchases.  It would be most unfair to put them, right now, into competition with the giant organisations which have retail establishments in this country and the scale of whose operations are such as to give them tremendous advantages in various directions in this trade.  As soon as we have got out of that situation, as soon as we have Irish wholesalers acting independently, acquiring experience and making market contacts, we can have another look at the situation.  At the moment, I am prepared to give them a fair chance of survival against the competition to which they would otherwise be subjected&mdash;and that requires legislation of this kind.</P>
+    </Speaker>
+    <Speaker pid="GerardSweetman" hpid="Mr. Sweetman Mr. Sweetman">
+      <NameTxt>Mr. Sweetman</NameTxt>
+      <P>Why not let those people, who feel they have not the experience about which the Minister speaks, buy and import through that company and let the others, who feel they have the experience, buy separately?</P>
+      <P>
+        <i>Notice taken that 20 Members were not present; House counted, and 20 Members being present</i>,</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. S. Lemass Mr. S. Lemass">
+      <NameTxt>Mr. S. Lemass</NameTxt>
+      <P>I have said all I have to say.</P>
+      <P>Question put and declared carried.</P>
+      <P>The Dáil adjourned at 1.15 p.m., until 3 p.m. on Tuesday, 25th March, 1958.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

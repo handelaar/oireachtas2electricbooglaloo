@@ -1,0 +1,1314 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Fri" Date="9" Month="May" Year="1919" Vol="F" No="8" DateIrish="" DateEnglish="" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="80">  
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title></Title>
+		<P Just="Left"><Col N="80" />AN TREAS TIONÓl</P>
+		<P Just="Center">1. ROLLA NA DÁLA</P>
+		<P Just="Center">2. FÁILTE ROIM CHOIMISIÚN MHEIRIOCA UM NEAMHSPLEÁDHCHAS ÉIREANN </P>
+		<P Just="Center">3. FÁISNÉISÍ AR STAD NA hÉIREANN</P>
+		<P Just="Center">4. ÓRÁIDEANNA LUCHT AN CHOIMISIÚIN</P>
+		<P Just="Left">Seiseon Puiblidhe den Dáil chun fáilte do chur roim  Choimisiún Mheirioca um Neamhspleádhchas Éireann, do tionóladh i nÁrus Árd-Mhéire Bhaile Átha Cliath, an 9adh lá de Bhealtaine, 1919.</P>
+		<P Just="Left">Do ghaibh an CEANN IONAID ceannus na Dála ar 11.45 r.n., agus dubhairt:-</P>
+		<P Just="Left"> "Anois, a Uaisle, tosnóchaimmid ar obair an lae i n-ainm Dé, agus iarraim ar an gCléireach an Rolla do ghlaodhach."</P>
+		<P Just="Left">Do léigh Diarmuid Ó hÉigeartaigh (Cléireach an Chinn Chomhairle) ainmneacha na dTeachtaí, agus do freagruigheadh fé mar tá annso 'nár ndiaidh:-</P>  
+	</MainHeading>  
+	<MainHeading Type="GD" LHead="AN" RHead="ROLLA">    
+		<Title>AN ROLLA</Title>
+		<table pgwide="1"> 
+			<tgroup cols="3">  
+			<colspec colname="1" colnum="1" colwidth="40*" align="left" />
+			<colspec colname="2" colnum="2" colwidth="30*" align="left" />
+			<colspec colname="3" colnum="3" colwidth="30*" align="left" />  
+				<tbody>
+					<row>
+						<entry>Co. Thír Eoghain (thiar thuaidh)</entry>
+						<entry>Árt Ó Gríobhtha</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Iolscoil na hÉireann</entry>
+						<entry>Eoin  Mac Néill</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Áth Cliath (Pembroke)</entry>
+						<entry>Deasmhumha Mac Gearailt</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Áth Cliath (Naomh Séamus)</entry>
+						<entry>Seosamh Mag Craith</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. na Midhe (theas)</entry>
+						<entry>Eamonn Ó Dubhgáin</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry> Co. na Midhe (thuaidh)</entry>
+						<entry>Liam Ó Maoilíosa</entry>
+						<entry>ar díbirt ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Cheatharloch</entry>
+						<entry>Séamus Ó Lionáin</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. an Chabháin (thoir)</entry>
+						<entry>Art Ó Gríobhtha</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry> Co. an Chabháin (thiar)</entry>
+						<entry>Pól Ó Gallagáin</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. an Chláir (thoir)</entry>
+						<entry>Éamonn de Bhaléra</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. an Chláir (thiar)</entry>
+						<entry>Brian Ó hUigín</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Áth Cliath (Cluain Tairbh)</entry>
+						<entry>Riseárd Ó Maolchatha</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Áth Cliath (Faithche an Choláiste)</entry>
+						<entry>Seán T. Ó Ceallaigh</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Cuan na Mara</entry>
+						<entry>Pádraig Ó Máille</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Cathair Chorcaighe</entry>
+						<entry>S.S. Breathnach</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Cathair Chorcaighe</entry>
+						<entry>Liam de Róiste</entry>
+						<entry>as láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chorcaighe (thuaidh)</entry>
+						<entry>Pádraig Ó Caoimh</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Chorcaighe (thoir)</entry>
+						<entry>Dáithí Ceannt</entry>
+						<entry>as láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chorcaighe (meadh)</entry>
+						<entry>Toirdhealbhach Mac Suibhne</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Chorcaighe (thoir thuaidh)</entry>
+						<entry>Tomás Ó Fiachra</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Chorcaighe (theas)</entry>
+						<entry>Micheál Ó Coileáin</entry>
+						<entry> as láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chorcaighe (thiar)</entry>
+						<entry>Seán Ó hAodha</entry>
+						<entry> I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chorcaighe (thoir theas)</entry>
+						<entry>Diarmuid Ó Loingsigh</entry>
+						<entry>ar díbirt ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Doire Cholmchille</entry>
+						<entry>Eóin Mac Néill</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Dún na nGall(thuaidh)</entry>
+						<entry>Seosamh Ó Dochartaigh</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Dún na nGall (theas)</entry>
+						<entry>Peadar Mac an Bháird</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Dún na nGall (thiar)</entry>
+						<entry>Seosamh Mac Suibhne</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Áth Cliath (thuaidh)</entry>
+						<entry>Proinsias Ó Laoidhléis</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Áth Cliath (theas)</entry>
+						<entry>S. Gabhán Uí Dhubhthaigh</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Fhearmanach (theas)</entry>
+						<entry>Seán Ó Mathghamhna</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. na Gaillimhe (thoir)</entry>
+						<entry>Liam Ó Maoilíosa</entry>
+						<entry>ar díbirt ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. na Gaillimhe (thuaidh)</entry>
+						<entry>An Dr. Ciosóg</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. na Gaillimhe (theas)</entry>
+						<entry>Proinsias Ó Fathaigh</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Roinn an Chuain (Áth Cliath)</entry>
+						<entry>Pilib Ó Seanacháin</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chiarraidhe (thoir)</entry>
+						<entry>Piaras Béaslaí</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chiarraidhe (thuaidh)</entry>
+						<entry>An Dr. S. Ó Cruadhlaoich</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Chiarraidhe (theas)</entry>
+						<entry>Fionán Ó Loingsigh</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry> Co. Chiarraidhe (thiar)</entry>
+						<entry>Aibhistín de Staic</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Chill Dara (thuaidh)</entry>
+						<entry>Domhnall Ó Buachalla</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chill Dara (theas)</entry>
+						<entry>Art Ó Conchubhair</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Chill Coinnigh (thuaidh)</entry>
+						<entry>Liam Mac Cosgair</entry>
+						<entry></entry>
+					</row>
+					<row>
+						<entry><Col N="81" />Co. Chill Coinnigh (theas)</entry>
+						<entry>Séamus Ó Meaghra</entry>
+						<entry>as láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Phortláirge</entry>
+						<entry>Cathal Brugha</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. na hIar-Mhide</entry>
+						<entry>Labhrás Mag Fhionnghaill</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Loch gCarmáin (thuaidh)</entry>
+						<entry>Roger Sweetman</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Loch gCarmáin (theas)</entry>
+						<entry>An Dr. S. Ó Riain</entry>
+						<entry>An Dr. S. Ó Riain</entry>
+					</row>
+					<row>
+						<entry>Co. Liathdroma</entry>
+						<entry>Séamus Ó Dóláin</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Luimnighe (thoir)</entry>
+						<entry>An Dr. R. Ó hAodha</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Luimnighe (thiar)</entry>
+						<entry>Conchubhar Ó Coileáin</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Cathair Luimnighe</entry>
+						<entry>M. P. Colivet</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. an Longphuirt</entry>
+						<entry>Seosamh Mac Aonghusa</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Lughmhaighe</entry>
+						<entry>Seán Ó Ceallaigh</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Mhuigheó (thoir)</entry>
+						<entry>Eamonn de Bhaléra</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Mhuigheó (thuaidh)</entry>
+						<entry>An Dr. Ó Cruadhlaoich</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Mhuigheó (theas)</entry>
+						<entry>Liam Seers</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Mhuigheó (thiar)</entry>
+						<entry>Seosamh Mac Giolla Bhríghde</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Mhuineacháin (thuaidh)</entry>
+						<entry>Earnán de Blaghd</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Mhuineacháin (theas)</entry>
+						<entry>Seán Mac an tSaoi</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Ros Comáin (thuaidh)</entry>
+						<entry> S. N. Pluincéad (Count)</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Ros Comáin (theas)</entry>
+						<entry>Énrí Ó Beóláin</entry>
+						<entry>as láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Shligigh (thuaidh)</entry>
+						<entry>S. S. Mac Fhlannchadha</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Shligigh (theas)</entry>
+						<entry>Alasdar Mac Cába</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Thiobraid Árann (thuaidh)</entry>
+						<entry>Seosamh Mac Donnchadha</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Thiobraid Árann (meadh)</entry>
+						<entry>Séamus A. De Búrca</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Thiobraid Árann (theas)</entry>
+						<entry>P. A. Maoldomhnaigh</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chill Mantáin (thiar)</entry>
+						<entry>R. C. Barton</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Co. Chill Mantáin (thoir)</entry>
+						<entry>Seán Etchingham</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Uí Fáilghe</entry>
+						<entry>An Dr. P. Mac Cartáin</entry>
+						<entry>ar díbirt ag Gallaibh</entry>
+					</row>
+					<row>
+						<entry>Co. Laoise</entry>
+						<entry>Caoimhghin Ó hUigín</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Áth Cliath (St. Michan's)</entry>
+						<entry>Micheál Mac Stáin</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Áth Cliath (Faithche Stíopháin)</entry>
+						<entry>Tomás Ó Ceallaigh</entry>
+						<entry>I láthair</entry>
+					</row>
+					<row>
+						<entry>Áth Cliath (Naomh Pádraig)</entry>
+						<entry>Countess Markievicz</entry>
+						<entry>fé ghlas ag Gallaibh</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>    
+		<Speaker pid="RISTEÁRD Ó MAOLCHATHA(Teachta Chluain Tairbh) RISTEÁRD Ó MAOLCHATHA(Teachta Chluain Tairbh)">
+			<NameTxt>RISTEÁRD Ó MAOLCHATHA(Teachta Chluain Tairbh)-
+			</NameTxt>
+			<P Just="Left">A Chinn Chomhairle agus a lucht na Dála, is eól dúinn go bhfuil congnamh ag teacht chughainn le fada ó gach áird;tá congnamh fé leith ag teacht chughainn le fada ó Mheirioca agus anois tá an congnamh san níos mó agus níos tréine ná mar bhí sé riamh.
+			</P>
+			<P Just="Left">Tá Coimisiún anso I láthair indiu  ó n-ár gcáirde I Merioca; chun cabhair do thabhairt dár gcúis a thángadar, agus cuirim os bhúr gcóir go gcuirfear gnáth-riaghalacha na Dála so I leithtaoibh go fóil, I dtreó go dtiocfadh an Coimisiún os comhair na Dála agus go dtabharfadh siad cúntas dúinn ar an obair atá ar siubhal ag ár ndaoine thar lear. 
+			</P>
+		</Speaker>    
+		<Speaker pid="SEOSAMH MAC AONGHUSA (Teachta Cho. Longphuirt) SEOSAMH MAC AONGHUSA (Teachta Cho. Longphuirt)">
+			<NameTxt>SEOSAMH MAC AONGHUSA (Teachta Cho. Longphuirt)-
+			</NameTxt>
+			<P Just="Left">A Chinn Chomhairle agus a lucht na Dála, cuidighim le lán-chroidhe leis an dtairiscint sin.  Is áthas linn agus is áthas le muintir na hÉireann ar fad, fáilte fíor do chur roimh ár gcáirde ó Mheirioca. 
+			</P>
+		</Speaker>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE-
+			</NameTxt>
+			<P Just="Left">Chualabhair an moladh san, ár gcáirde do sgaoileadh isteach san Dáil. Is dóigh liom gur ar éigin gur gádh dhom moladh don tsórd so do chur fé bhrághaid na Dála, mar tá fhios agam go gcuirfar I bhfeidhim le lúthgháir, agus le lán-chroidhe é.
+			</P>
+			<P Just="Left">Cuireadh an rún I bhfeidhim d'aon-toil agus le lúthgháir.
+			</P>
+			<P Just="Left">Ansan do threoruigh an Príomh-Aire lucht an Choimisiún go dtí an tÁrdán mar ar shuidheadar le hais an Chinn Chomhairle. Do tháinig Labhrás Ó Néill, Árd-Mhaor Áth Cliath, ar an Árdán leis.
+			</P>
+		</Speaker>  
+	</MainHeading>  
+	<MainHeading Type="GD" LHead="FAILTE ROIM AN" RHead="CHOIMISIUN">    
+		<Title>FAILTE ROIM AN CHOIMISIUN.
+		</Title>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE-
+			</NameTxt>
+			<P Just="Left">A uaisle, tuigeann sibh go léir cad é ár meas ar ár gcáirde a tháinig ón dtír 'na bhfuil an oiread san d'ár gcine; thángadar chun éileamh ortha súd atá cruinnighthe I gComhdháil na Síothchána I bPáras, cead do bheith ag na Toscairí a toghadh anso dhá mhí ó shoin dul I láthair na Comhdhála chun Cúis na hÉireann do phléidhe. Is truagh liom ná tuigeann ár gcáirde ó Mheirioca an Ghaedhluinn. Níl leigheas air sin, agus toisc é bheith amhlaidh, beidh orm an rud nach gnáthach liom do dhéanamh,  <Col N="82" /> sé sin Béarla do labhairt, agus anois labharfad cúpla focal sa teangain sin. 
+			</P>
+			<P Just="Left">So far, the public sessions of our Republican Parliament have been literally punctuated with welcomes.
+			</P>
+			<P Just="Left">At the <i>first</i> public Session we were ourselves welcomed with an enthusiasm and sympathy we can never forget, mainly, of course, because it was the first Session of the first elected Parliament of our new Republic.
+			</P>
+			<P Just="Left">At the <i>second</i> public Session we, in turn, had the pleasure of welcoming back the colleagues and comrades who, in the interval, had escaped or had been released from England's dungeons.
+			</P>
+			<P Just="Left">This is our <i>third</i> public Session, and to-day we welcome with a warm Irish welcome the distinguished members of the Irish-American Commission sent to Europe by our kith and kin to demand that the accredited delegates of the Irish Republic be admitted to the Peace Conference to submit there Ireland's unassailable claim to self-determination.
+			</P>
+			<P Just="Left">Three-quarters of a century ago the great Irish Apostle of Temperance, Father Theobald Mathew, went to the United States, and on presenting himself at Washington was welcomed and accorded the privileges of the House by the elected representatives of the American people.  It is significant that his mission is bearing its full fruit to-day. Other Irish leaders, notably Charles, Stewart Parnell, have since been accorded similar privileges.  Since Parnell's time the situation at home has somewhat altered for the better.
+			</P>
+			<P Just="Left">Twenty years ago one of the greatest champions of human liberty our race has produced—the, Rev. Dr. Peter Yorke, of San Francisco—came to Ireland, and by a memorable address, entitled “The turn of the tide,” placed the Young Irish-Ireland movement of that time on a plane from which it has never since receded.  To-day, not only have we reached the turn of the tide— the flowing tide is with us, thanks to the martyrs whose blood and whose ashes sanctify the clay and hallow the quicklime of Kilmainham; thanks also to the labours of our race in every land, at home and abroad, at the Antipodes, neath the Southern Cross, and all the way from America's Statue of Liberty to the Golden Gate.  The flowing tide is with us, and hence it is, in acknowledgment of countless favours, that we are especially glad to welcome the good friends from America who honour and encourage us by their presence here to-day. In the name of the Irish Nation and on behalf of the Parliament of the Irish Republic, I am proud to have the privilege of extending to them Naoi gCéad Míle Fáilte.
+			</P>
+		</Speaker>    
+		<Speaker pid="AN PRÍOMH-AIRE AN PRÍOMH-AIRE">
+			<NameTxt>AN PRÍOMH-AIRE-
+			</NameTxt>
+			<P Just="Left">A Chinn Chomhairle agus a lucht na Dála, isé mo dhualgas fáilte oifigeamhail ceart do chur os cómhair an Choimisiúin ar son na hÉireann ar fad. Ba cheart gur as Gaedhilg ar fad a chuirfinn an fáilte sin rómpa cé nach dtuigean siad an teanga sin, mar seo í Páirliméad an Náisiúin, agus isí an Ghaedhilg teanga an náisiúin, agus ba chóir dhúinn an Ghaedhilg do chur san gcéad áit I gcomhnuidhe. 
+			</P>
+			<P Just="Left">I have spoken a few words of Irish even though our friends do not understand them in order that they might understand, as I am sure they understand without its having been impressed upon them, that this assembly is a National Assembly, and that the official language of this assembly is the Irish language.  Our friends have been but a few days amongst us, but in these few days I am perfectly certain that they have experienced and that they understand the warmth and the sincerity of the welcome by which they have been received by the Irish people.
+			</P>
+		</Speaker>
+		<P Just="Left">My part here is simply to give a formal and official expression to that welcome as the chief representative of the Irish Nation.  Had they come amongst us simply as individuals, distinguished citizens of the great Republic of America as they are, and of our own kindred, they would merit many of the marks of honour and affection with which they have been received; but I am sure they understand that our reception of them here to-day in this National Assembly is for them in their representative character as the chosen representatives not merely of our race <Col N="83" /> in America, but of all true lovers of liberty in America—and I hope that comprises the whole American nation.
+		</P>
+		<P Just="Left">We greet them then and we salute them as a sign that America will not regard the official assurances of her responsible head as mere scraps of paper, but that the principles of right and justice are about to be supported by the massed strength of the greatest nation on the earth to-day—that nation which the whole world recognises as its only hope, that nation on which it depends whether the principles of right and justice are to prevail, or whether, as formerly might and might only is to be right.  The honour we pay here to day to our visitors will naturally be associated with the honour paid formerly to Franklin in this country, and the honour paid later to Parnell and to other distinguished Irishmen in America, and it will be a notable link in the chain of friendly relations that binds this nation to the great nation beyond the Atlantic.  As I looked in the course of the past few days on the flag of the Irish Republic and on the flag of the great Republic of America floating side by side, I could not help thinking what an appropriate combination these two flags were.  I would wish to remind our friends that Mary's Heights and the Forts of Fredericksburg were a monument to the man, Thomas Francis Meagher, with whose name they will ever be associated, the man who was the first to unfurl that flag of orange, green and white here in our land.  I am sure, too, that, as history acknowledges, it was the success of the American Rebels against England that was the precursor of the Republican idea in Europe, and in particular the precursor of the Republican idea here in this country.  Therefore it seems to me, that even in all the combinations in which the American flag has recently been found, there is no one of which America has so great a reason to be proud as its combination with the tri-colour of Ireland in the past few days— a combination, too, for which no man who knows Ireland's history need be ashamed.
+		</P>
+		<P Just="Left">It is a matter of much regret to me that our friends' stay amongst us is to be a brief one.  I regret that they cannot stay another week so as to give us an opportunity to arrange that they might meet with Irishmen whose political views are not those of the majority of the people—but who are in a sense types that it would be instructive for our visitors to come in direct contact with. Then again there are certain notables whose voices, even if unrepresentative, carry far.  Had the Delegation an opportunity of meeting these they could judge for themselves the exact weight that should be attached to their opinions, which, at least, would be interesting.
+		</P>
+		<P Just="Left">In private I have urged these considerations on the Delegation, but unfortunately the demands of the main purpose of their mission are inexorable and they must leave us without having obtained at first hand that varied experience which would enable them to envisage with certainty and as a whole the Irish political situation as it is, in its almost astonishing simplicity, and to apportion truly to their relatively small dimensions the almost insignificant differences which the microscope of England's Press has (for England's purposes) enlarged beyond all recognition—not merely enlarged, but distorted as well, so that the foreigner in matters relating to Ireland is truly in the position of one who cannot see the forest for the trees.
+		</P>
+		<P Just="Left">Had the Delegation been able to stay, longer I am certain they would have departed convinced that the Irish people show a unanimity of feeling and desire which it would be very hard to match in any other nation in the world; convinced that if it depended upon their own will the Irish Republic which has been proclaimed as the <i>de jure</i> Government of this country would be accepted enthusiastically by all except perhaps the avowed Unionists; convinced also that such as are heard to advocate Colonial Home Rule, etc., do so not because they consider it the best, not because they hanker after the English connection, but because they think that the militarist power which has kept <Col N="84" /> Ireland within its grasp for centuries can never be persuaded to let her go; that the moral appeals of justice and right despite the professions of English statesmen during the war will have as little influence on English selfishness now as in the past, and that just as Cabinets and Chancellors remained deaf to the appeals of the suffering subject nations of Europe until their own selfish advantage prompted them to listen, so will they remain deaf now to our appeals and suffer England to work her will upon us.
+		</P>
+		<P Just="Left">Curiously, the attitude implies that they have no trust in the professions of the statesmen.  And yet during the war they were active in asking support for Britain and the Allies as if every word uttered by these statesmen could be taken as gospel to be depended upon.
+		</P>
+		<P Just="Left">The attitude of the majority of the Irish people during the war has not been this—the majority, too, believed the fine professions of the statesmen as for the most part hypocrisy, except in so far as these could be used as means of weakening their enemies.  But they acted consistently with their belief no doubt.
+		</P>
+		<P Just="Left">When America entered the war, and when the American people had adopted as their own, and given their nation as a guarantor of the principles of Self-Determination and of a League of Nations so that the rules of justice and right should be established as the basis of their relations with each other instead of the rules of force and might, many who doubted began to hope.  But still Ireland had not in herself the material strength which alone could be a sufficient guarantee that she would not be cheated —cheated as those who obeyed Mr. Redmond's call, and fought and died for Britain have been cheated.  The only course then open to Ireland was to show unmistakably that she approved of the principles America went into the war to promote, and to make it clear, that, if these principles were impartially applied to Ireland, Ireland's choice would be an Independent Republic and a distinct and separate unit in the League of Nations.
+		</P>
+		<P Just="Left">Every Irishman knew that the British connection was one which was never freely desired by the mass of the Irish people and has always been maintained not by Ireland's choice but by England's force.  The Home Rule movement was an attempt by Irish political leaders to bring about an arrangement by which they hoped the two peoples might live side by side less in direct antagonism; less in the relations of master and slave.  These leaders had hoped that the result of the removal of England's irritating interference in the immediate domestic concerns of Ireland by which the statesmen of England made these concerns subservient to England's interests would be that a better understanding might be reached which would enable the two countries to live side by side in peace as equal constituents in something like a Commonwealth Federation. They were willing to accept the British Empire on the terms of autonomy within it, but their efforts were met almost uniformly by England with insult and treachery.  The hand of Irishmen held out in good faith was spurned and spat upon.  The purely conditional acceptance of the British connection was exploited to place us in a false position, to misrepresent our national claims, and to create division in our national forces.
+		</P>
+		<P Just="Left">In the name of “loyalty”—as if the Federation were already in existence— England made demands for which a basis could only have been found had Ireland's side of the proposed bargain been conceded, but which were unjust and intolerable when the position was that England wanted to gain the benefit which by the proposed bargain would accrue to her whilst denying to Ireland the freedom for which the benefits were the proposed price.
+		</P>
+		<P Just="Left">Ireland has been cheated often—she is not going to be cheated again, neither will she be deceived by promises.  To some of us the saddest incidents of the war were the deaths of Irishmen, who, believing England's promises, fought in England's army in the hopes that success meant Ireland's freedom.  To us it seems they must have known they would be betrayed and that in their <Col N="85" /> generous impulsiveness they were but contributing to maintain England's strength and England's power to keep their own nation in slavery.  The majority, thank God, have been saved from the tragedy.  The threat of possible extermination was held over their heads, but they never wavered, and to-day they are proudly conscious that they have saved the national position, cleared away the fogs and mists with which England surrounded it and let in the sunlight.
+		</P>
+		<P Just="Left">To-day the world sees Ireland as a distinct nation fearlessly asserting her national individuality and demanding her rights.  To-day Ireland is understood, and even if her struggle for freedom should be still further prolonged, she has the satisfaction of at least knowing that this time she has not allowed her natural nobility and natural generosity to be traded upon, but that the majority of her people have acted in accordance with the dictates of common sense and saved themselves from the humiliating agony of yet another betrayal at the hands of England.
+		</P>
+		<P Just="Left">There are a number of other aspects of the Irish question which if time permitted I would like very much to speak about publicly so that our friends may have a complete view of the situation. I would like to deal here with England's claim that the question of Ireland's independence is an English domestic question.  I would like also to have time to deal with our minority question under which a small fraction of our people occupying a small portion of the country wish to set up a veto on the desires and wishes of the whole Irish nation.  I would like also to give a picture of the present government of the country by England's army of occupation; I would like to impress upon them what land purchase really means to this country; the history of the struggle for freedom we have endured and how every “concession”—as they have been called—every particle of justice wrung from England has been wrung from her by violence.  We charge England here as being the cause of all the violence and of all the regrettable incidents connected with that struggle.
+		</P>
+		<P Just="Left">We charge England as being responsible for them all.  I cannot enumerate in detail all these matters, but some of them will be touched upon by the Ministers responsible for other departments in so far as they relate to their departments, and I am sure our friends will be able to gather from them the true position of affairs and will be able to tell the Irish in America and the American people the true position here in Ireland and they will then be in a position to use their power and influence in America and amongst all the lovers of liberty to see to it that the mendacious propaganda carried on by England is not taken for gospel in America or anywhere else.
+		</P>
+		<P Just="Left">Our meeting, then, is one of welcome, but we also mean it to be one of instruction for the members of the Delegation.  I wish on behalf of the Irish Nation to give our distinguished visitors a hearty welcome, and I also wish to express to them our gratitude and our pride that they have come here to defend the right.
+		</P>  
+	</MainHeading>  
+	<MainHeading Type="GD" LHead="FAISNEISI AR STAD" RHead="NA hEIREANN">    
+		<Title>FAISNEISI AR STAD NA hEIREANN.
+		</Title>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE
+			</NameTxt>
+			<P Just="Left">- Labharfaidh an tAire Dúithche anois. 
+			</P>
+			<P Just="Left">The Home Secretary will now make a statement on the effects of England's occupation on Ireland's population.
+			</P>
+		</Speaker>    
+		<Speaker pid="AN tAIRE DÚITHCHE AN tAIRE DÚITHCHE">
+			<NameTxt>AN tAIRE DÚITHCHE-
+			</NameTxt>
+			<P Just="Left">A Chinn Chomhairle agus a mhuinntir na Dála, The statement I have to make will be a very brief one.  At the beginning of the war, or during the progress of it, we read in the English Press accounts of the extermination of the Armenian Nation.  It was stated that the Turks had fallen upon the Armenians and had almost destroyed that ancient race, and recruits for the English army to fight for and avenge the Armenians were asked for.  The war is now over, and having been over, certain Armenians a week or two ago went to the English Foreign Office in London and there asked for an accession of territory for Armenia.  The English Government explained to them that the Armenians should want no territory since they were <Col N="86" /> exterminated.  Whereupon the Armenians replied that their extermination existed only in the English Press.
+			</P>
+			<P Just="Left">There is a country where the people were and are being exterminated to a greater extent than any other country in Europe or the civilised world and that country is our own.  And that extermination has not been carried on by the brutal and courageous method of the sword, but by methods that no other country or empire has used against its people.  We were asked at the beginning of the war to sympathise with Bohemia against Austria, then with Alsace-Lorraine and the other little nations, and the picture of the oppression these nations endured was painted in the darkest colours by England.
+			</P>
+			<P Just="Left">But no oppression that any country in Europe suffered could equal or be equalled by the oppression that England has inflicted on this country.  We in Ireland always sympathised with Poland and other oppressed peoples, but we know that what they have endured under their Governments is as water unto wine compared with what we have endured under the Government of the usurping foreign power in this country.
+			</P>
+			<P Just="Left">Until recently, as John Mitchell said fifty years ago, England possessed the ear of the world, into which she poured her story.  To-day that is no longer true.  England is no longer able to pour any story she wishes into the ear of the world, and we must tell the world that there is no nation in Europe which has suffered so much under an existing Empire as this nation of ours. Poland suffered nationally under Russia, but economically she was fostered. Bohemia, no doubt, suffered to some extent under Austria, but she grew in prosperity and population.  Alsace-Lorraine doubled her population under Germany's sway, and Finland, under Russia, doubled its population.  But in this country our people have been swept away not in hundreds, not in thousands, but in millions.  Now, when a few years ago we were asked to fight for the freedom of Belgium it was pointed out to the Irish people that the Belgians in 1841 numbered half of our population, whereas to-day she has double our number, and when later on it came to be England's role to denounce Russia she reversed the old story of Poland.  It was known to the world that whereas we in Ireland, 70 years ago, had double the population of Poland, Poland has twice our population now.  In Prussian Poland in 40 years the population has doubled.
+			</P>
+			<P Just="Left">Now I stand for a constituency in the North of Ireland, N.W. Tyrone.  In Co. Tyrone, in 1841, the inhabitants were double the number of people who are in the place to-day, and in that year there were 54,419 homesteads.  At the last Census, in 1911, there were 22,000 homesteads.  No war ravaged Ireland during these 70 years, and the story I have related of this Ulster county is true also of the rest of the country.  I will ask my colleagues to give the facts in regard to other counties.
+			</P>
+		</Speaker>    
+		<Speaker pid="CATHAL BRUGHA CATHAL BRUGHA">
+			<NameTxt>CATHAL BRUGHA
+			</NameTxt>
+			<P Just="Left">(Teachta Cho, Phort láirge) —In the Co. Waterford in the period between 1841 and 1911 the population has decreased by 112,621, and in the same period the number of homesteads has decreased by 12,000.
+			</P>
+		</Speaker>    
+		<Speaker pid="AN PRÍOMH-AIRE AN PRÍOMH-AIRE">
+			<NameTxt>AN PRÍOMH-AIRE
+			</NameTxt>
+			<P Just="Left">—In the Co. Clare there were 182,162 people destroyed between 1841 and 1911, and in the same period 24,532 homesteads were destroyed.
+			</P>
+		</Speaker>    
+		<Speaker pid="SEÓIRSE PLUINCÉAD SEÓIRSE PLUINCÉAD">
+			<NameTxt>SEÓIRSE PLUINCÉAD
+			</NameTxt>
+			<P Just="Left">(Teachta Thuaiscirt Roscomáin)—In Co. Roscommon in 50 years the population, which might have been more than doubled, had been reduced by 160,000 people and in the same period the destruction of homesteads was 24,133.  It was a mistake to take this figure as representing the mere destruction of the population—it meant that a fairly populated county had become empty and that large masses of land had been acquired by a few people. The vast plains of Boyle were now without a plough and the people were without homes.
+			</P>
+		</Speaker>    
+		<Speaker pid="MÍCHEÁL Ó COILEÁIN MÍCHEÁL Ó COILEÁIN">
+			<NameTxt>MÍCHEÁL Ó COILEÁIN
+			</NameTxt>
+			<P Just="Left">(Teachta Dheiscirt Chorcaighe)—In 60 years <Col N="87" /> three people out of every five in the County Cork have been destroyed, and one homestead out of every two. Let them see if that record can be beaten in North-East France during the recent war.
+			</P>
+		</Speaker>    
+		<Speaker pid="EARNÁN DE BLAGHD EARNÁN DE BLAGHD">
+			<NameTxt>EARNÁN DE BLAGHD
+			</NameTxt>
+			<P Just="Left">(Teachta Thuaiscirt Mhuineacháin)—In 70 years the population of County Monaghan has decreased by 64 per cent.
+			</P>
+		</Speaker>    
+		<Speaker pid="ART Ó CONCHUBHAIR ART Ó CONCHUBHAIR">
+			<NameTxt>ART Ó CONCHUBHAIR
+			</NameTxt>
+			<P Just="Left">(Teachta Dheiscirt Chilldara)—Between 1841 and 1911 the population of Co. Kildare has been reduced by 48,000, or two-fifths, while the number of homesteads has been reduced by 5,000.
+			</P>
+		</Speaker>    
+		<Speaker pid="LIAM MAC COSGAIR LIAM MAC COSGAIR">
+			<NameTxt>LIAM MAC COSGAIR
+			</NameTxt>
+			<P Just="Left">(Teachta Thuaiscirt Chill Choinnigh)—County Kilkenny has lost in population 137,000 people, while the homesteads have been reduced from 32,000 to 15,000.
+			</P>
+		</Speaker>    
+		<Speaker pid="LABHRÁS MAG FHIONNGHAILL LABHRÁS MAG FHIONNGHAILL">
+			<NameTxt>LABHRÁS MAG FHIONNGHAILL
+			</NameTxt>
+			<P Just="Left">(Teachta Iar-Mhidhe)—Westmeath has lost 81,314 in population from 1841 to 1911, while in the same period there has been a loss of 11,385 in homesteads. All that has occurred in a time of peace.”
+			</P>
+		</Speaker>    
+		<Speaker pid="ÉAMONN Ó DUBHGHÁIN ÉAMONN Ó DUBHGHÁIN">
+			<NameTxt>ÉAMONN Ó DUBHGHÁIN
+			</NameTxt>
+			<P Just="Left">(Teachta Dheiscirt na Midhe)—Co. Meath has lost 118,737 of its population in 70 years. But these figures do not take into account what the natural increase in population would have been in those 70 years. More than half the population of this rich and fertile county have been wiped out in an average life-time.
+			</P>
+		</Speaker>    
+		<Speaker pid="SEÁN MAC AN TSAOI SEÁN MAC AN TSAOI">
+			<NameTxt>SEÁN MAC AN TSAOI
+			</NameTxt>
+			<P Just="Left">(Teachta Dheiscirt Mhuineacháin)—It is a standing refutation of the English lie that Ulster is prosperous that in the space of 70 years the population of County Fermanagh has been reduced by 74,000, while the homesteads in the county have been reduced by one half.
+			</P>
+		</Speaker>    
+		<Speaker pid="CONCHUBHAR Ó COILEÁIN CONCHUBHAR Ó COILEÁIN">
+			<NameTxt>CONCHUBHAR Ó COILEÁIN
+			</NameTxt>
+			<P Just="Left">(Teachta Iarthar Luiminighe —In 70 years 186,900 people have been exterminated in the County of Limerick, while 21,000 homesteads have been destroyed.
+			</P>
+		</Speaker>    
+		<Speaker pid="AN TAIRE DÚITHCHE AN TAIRE DÚITHCHE">
+			<NameTxt>AN TAIRE DÚITHCHE
+			</NameTxt>
+			<P Just="Left">—I do not wish that further time should be occupied in dealing with these figures.  What you have heard is true not alone of the counties referred to, but of every county in Ireland.  What has happened in Ireland is not that we have lost half our population, but that we have lost a great potential population. Had this country been under Russian rule from 1841 to the present time, what happened in Poland would have happened here.  Poland has in that period increased in population threefold, and had Ireland the good luck to be under the Russian instead of under the Englishman she would have to-day a population of 24 millions of people. And had she been under the heel of Prussianism instead of being under the hoof of Englishism she would have now 12 millions of people instead of 4 millions.
+			</P>
+			<P Just="Left">At the beginning of this war England discovered a use for the Irish people and that was as a help to save her from the menace of Germany.  Without a war in Ireland our man power has declined from 4,072,000 to 2,090,000 at the outbreak of the war.  That is to say that two million potential fighting men had been banished from Ireland. In her dreams England set herself to kill two birds with one stone—to destroy her great commercial rival.  Germany, and to complete the extermination of the Irish people.  Well, in the last part of her programme she has not succeeded. We have survived her last and greatest attempt at our destruction.
+			</P>
+		</Speaker>
+		<P Just="Left">The province from which my ancestors came, the same county which I represent in this Dáil.  England has painted to the outside world as being opposed to the remainder of Ireland politically and is being prosperous and contented.  It must not be taken for granted that what England chooses to tell the world about another country is true.  The Province of Ulster has suffered more than Leinster under English rule.  In 1841 there were 2,400,000 people in Ulster; now these <Col N="88" /> are 1,580,000.  She has thus lost one-third of her population in 70 years. Every county in Ulster has suffered, and some of them to a greater extent than the counties of Leinster.
+		</P>
+		<P Just="Left">I will give you the detailed list:— Antrim, which is the only county in Ireland which is opposed in every shape and form to the independence of Ireland, has lost 92,000, or 32 per cent. of its population; Armagh, 112,000, or 48 per cent. of its population; Cavan, 104,000, or 53 per cent. of its population; Derry, 81,000, or 37 per cent. of its population; Down, 121,000, or 37 per cent. of its population; Donegal, 79,000, or 32 per cent. of its population; Fermanagh, 95,000, or 60 per cent. of its population; Monaghan, 128,000, or 64 per cent. of its population; Tyrone, 170,000, or 54 per cent. of its population.
+		</P>
+		<P Just="Left">Those are the figures for the 9 counties of Ulster.  One city in Ulster— Belfast—has increased its population, but not to the same extent as other industrial cities in England have increased. Its prosperity is largely due to the fact that it was made the centre of that trade to promote which all Ireland was taxed —namely, the linen trade—and to the fact that a foreigner named Wolff had started a shipbuilding industry there, so that Belfast's prosperity has been raised on a basis of German gold.
+		</P>
+		<P Just="Left">Let it not be thought that the destruction of the population affects only one class or creed.  The foreign usurping Government claims, and falsely claims, abroad that Protestant Ireland is opposed to the remainder of Ireland, and asserts that Protestant Ireland is prosperous. The difference between the two is that the English Government has detroyed one Protestant in three and one Catholic in two.  These figures speak for themselves.  Every figure represents a man or a woman, and when we talk of 56,000 or 57,000 people gone we have to think of them with children born in this country being forced to leave that country, or of having been destroyed by the artificial famine of '47, of the human hearts and the human hopes destroyed. The effort to destroy Ireland has been going on for three centuries. It was carried on at first openly and by the sword, and later it was continued by the subtler method of famine.  If we were governed by some other country to-day and these same things happened the whole world would cry out in rage against the country that did such a thing.  I am old enough to have heard the stories of men who lived in Ireland through the famine years, and I have read the stories of how my countrymen and countrywomen and the helpless little children died of starvation in a land of plenty.  I read in the columns of the London <i>Times</i> in the year following that of the famine a comment on that famine in which the English mind revealed itself exultingly: “The Celts are gone with a vengeance, and God be praised.”  Well, to-day we have the Celts back with us.
+		</P>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE
+			</NameTxt>
+			<P Just="Left">&gt;—Labharfaidh an tAire Airgid anois.
+			</P>
+			<P Just="Left">The Secretary for Finance will now make a statement.
+			</P>
+		</Speaker>    
+		<Speaker pid="AN TAIRE AIRGID AN TAIRE AIRGID">
+			<NameTxt>AN TAIRE AIRGID
+			</NameTxt>
+			<P Just="Left">&gt;—A Chinn Chomhairle agus a mhuinntir na Dála, You have been given figures to-day showing how the people and the inhabitants of Ireland have been destroyed.
+			</P>
+			<P Just="Left">The task falls to me of showing how, while this destruction was going on, we were at the same time paying enormous sums in over-taxation, and were, in addition, being drained of our Capital to an appalling extent.
+			</P>
+			<P Just="Left">My duty is not an exciting one, but I promise you that the story I am going to relate will be interesting.  You will forgive me for being dry.  I have to be. At the same time, I shall endeavour to present the history of the financial relations between this country and England as clearly and as briefly as the subject will permit.
+			</P>
+			<P Just="Left">First, let me say to you that the actual over-taxation results of the nineteenth century were anticipated by the Irish Lords when, just 120 years ago, they made the following general protest against the then impending Act of Union:—
+			</P>
+		</Speaker>
+		<P Just="Left"><Col N="89" /> “Because, when we compare the relative abilities of Great Britain and Ireland, we find the contributions to be paid by the two Kingdoms to the expenses of the new Empire most unequally adjusted; that the share of two-seventeenths fixed upon us as the proportion to be paid by Ireland, is far beyond what her resources will enable her to discharge.  Should Ireland undertake to pay more than she shall be able to answer, the Act will be irrevocable, and the necessary consequences will be a gradual diminution of her Capital, the decline of her Trade, a failure in the produce of her taxes, and, finally, her total bankruptcy.”
+		</P>
+		<P Just="Left">This was regarded as such a serious indictment that the British Prime Minister felt called upon to reply to it, and the comments he made upon the statement were as follows:—
+		</P>
+		<P Just="Left">PITT:—“That the Union was not sought from a pecuniary motive. It must infuse a large portion of wealth into Ireland, and supply the want of industry and capital. There was no ground for the apprehension that Great Britain would tax Ireland more heavily or that Ireland would be subjected to an increase of taxes or to a load of debt.  The contribution to be imposed on Ireland would not be greater than her own present necessary expenses.  Ireland would continue to contribute in its accustomed proportion, and one of the objects of the Act was to ensure that Ireland would never be taxed but in proportion as we tax ourselves.”
+		</P>
+		<P Just="Left">At the same time Castlereagh stated:
+		</P>
+		<P Just="Left">“That the Plan of Revision gave to Ireland the utmost possible security.  That she could not be taxed beyond the measure of her comparative ability, and the proportion of her contribution must ever correspond with her limited wealth and prosperity.”
+		</P>
+		<P Just="Left">I will draw the distinction between the truth of the Irish Lords and the falsehoods of Pitt.
+		</P>
+		<P Just="Left">The Union Makers decided that Ireland's “accustomed proportion” or “proper ratio” was 2 in 15.  It may be well to indicate how this proportion was arrived at.  The following is a table comparing the Irish expenditure with the British expenditure for some typical years which will show you at once that the manner in which they arrived at this ratio was false:—
+		</P>
+		<table pgwide="1"> 
+			<tgroup cols="4">  <colspec colname="1" colnum="1" colwidth="5*" align="center" />  <colspec colname="2" colnum="2" colwidth="15*" align="center" />  <colspec colname="3" colnum="3" colwidth="15*" align="center" />  <colspec colname="4" colnum="4" colwidth="15*" align="center" />  
+				<thead>
+					<row><entry rowsep="1" />
+						<entry rowsep="1">Irish Expenditure.
+						</entry>
+						<entry rowsep="1">British.
+						</entry>
+						<entry rowsep="1">Proportion.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>1783.
+						</entry>
+						<entry>£1,192,897
+						</entry>
+						<entry>£15,455,572
+						</entry>
+						<entry>1.—12.95
+						</entry>
+					</row>
+					<row>
+						<entry>1784.
+						</entry>
+						<entry>£1,015,059
+						</entry>
+						<entry>£15,566,429
+						</entry>
+						<entry>1.—15.33
+						</entry>
+					</row>
+					<row>
+						<entry>1797.
+						</entry>
+						<entry>£2,693,267
+						</entry>
+						<entry>£44,055,285
+						</entry>
+						<entry>1.—16.35
+						</entry>
+					</row>
+					<row>
+						<entry>1799.
+						</entry>
+						<entry>£4,745,111
+						</entry>
+						<entry>£30,563,008
+						</entry>
+						<entry>1.—6.44
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<P Just="Left">It should be particularly noted that in the years 1783 and 1784, when the Irish Parliament was really independent, in spite of the fact that England was engaged in a mighty war for civilisation, the Irish Chancellor did not pay a single pound to what is called Imperial Expenditure.  This, of course, was as it should be.
+		</P>
+		<P Just="Left">Between the years 1784 and 1797, the Irish proportion of expenditure as compared with the English did in truth grow, because the English expenditure fell temporarily to a very low level, and in 1797, when expenditure in the latter country again reached what was to it a normal amount, we find the Irish proportion 1 in 16.35.  This is the last year that can truthfully be considered a representative year.
+		</P>
+		<P Just="Left">Following, 1797, when the Irish Parliament became entirely subservient to Westminster, we get the 1799 figures showing that the British expenditure had decreased to £30,563,008, the figures then being in the proportion of 1 to 6.44. But that increased expenditure on Ireland is the result of the expenditure incurred by England in suppressing the Irish Insurrection of 1798 being foisted on to the Irish Exchequer, and as an outcome of the position so created, the proper contribution of Ireland was declared to be 2 in 15.
+		</P>
+		<P Just="Left">In any true calculation of Ireland's <Col N="90" /> debt, the English expenditure in suppressing the gallant men of '98 should not be taken into account.  The roads through Wicklow, made to defeat Michael Dwyer, were hardly expenditure on an Irish service—that was surely Imperial outlay.  The last year, therefore, that gives any true indication of the burden of taxation was 1797.  In that year Ireland was one of the most lightly taxed countries in the world, and England one of the heaviest.  At that time Ireland's taxation per head was little over 10s., whereas in England they paid £3 10s. 3d. per head.
+		</P>
+		<P Just="Left">To make it clear to you in another way, Ireland's total National Debt in 1793 was £2,252,667; in 1801 it had grown to £28,541,157, emphasising again what I have already said—that England made the then Irish Parliament pay for the cost of the war of 1798— increasing both our annual taxation and our National Debt.
+		</P>
+		<P Just="Left">You will readily see that the premises on which Ireland's contribution were based were inaccurate.  It is little wonder, consequently, that the warning of the Irish Lords—quoted above—was prophetic in its truthfulness, and that after a certain time Ireland had, indeed, almost become bankrupt.
+		</P>
+		<P Just="Left">It became evident as time elapsed that Ireland struggled under a load of excessive taxation, and in 1816 the Exchequers of the two countries were amalgamated.
+		</P>
+		<P Just="Left">Now, it was specifically laid down in the Act of Union that, for purposes of taxation, Ireland was to be treated as a separate entity, and that the accounts were to be kept distinct.  Probably the only advantage that this conferred on Ireland was that it did enable us to see easily that we were being overtaxed. From the amalgamation onwards Ireland had no Account-Keeper, and ever since that time it has become increasingly difficult to find out the true position as regards Ireland and England.
+		</P>
+		<P Just="Left">At that time England remitted some £16,000,000 which she averred we owed her, and presented us in exchange with our share in the entire National Debt of England and Ireland.
+		</P>
+		<P Just="Left">I have already said that at the time of the Act of Union, the debts of the two countries stood:—
+		</P>
+		<table pgwide="1"> 
+			<tgroup cols="2">  <colspec colname="1" colnum="1" colwidth="25*" align="center" />  <colspec colname="2" colnum="2" colwidth="25*" align="center" />  
+				<thead>
+					<row>
+						<entry rowsep="1" namest="1" nameend="2">Ireland.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Total.
+						</entry>
+						<entry>per head.
+						</entry>
+					</row>
+					<row>
+						<entry>£28,541,157.
+						</entry>
+						<entry>£5 10s.0d.
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<table pgwide="1"> 
+			<tgroup cols="2">  <colspec colname="1" colnum="1" colwidth="25*" align="center" />  <colspec colname="2" colnum="2" colwidth="25*" align="center" />  
+				<thead>
+					<row>
+						<entry rowsep="1" namest="1" nameend="2">England.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Total.
+						</entry>
+						<entry>per head.
+						</entry>
+					</row>
+					<row>
+						<entry>£400,000,000.
+						</entry>
+						<entry>£46.
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<P Just="Left">Thus they relieved themselves of an indebtedness of about £20 per head at our expense, and even to this day the English Treasury shows in its returns the amount they remitted in 1816.  Remission is a pleasing term, and they bring it forward from year to year.
+		</P>
+		<P Just="Left">Immediately after this Consolidation of the Irish Exchequer the figures of taxation for the two countries stood:—
+		</P>
+		<table pgwide="1"> 
+			<tgroup cols="2">  <colspec colname="1" colnum="1" colwidth="25*" align="center" />  <colspec colname="2" colnum="2" colwidth="25*" align="center" />  
+				<thead>
+					<row>
+						<entry rowsep="1" namest="1" nameend="2">Ireland.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Revenue.
+						</entry>
+						<entry>per head.
+						</entry>
+					</row>
+					<row>
+						<entry>£7,349,000.
+						</entry>
+						<entry>£1 3s.5d.
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<table pgwide="1"> 
+			<tgroup cols="2">  <colspec colname="1" colnum="1" colwidth="25*" align="center" />  <colspec colname="2" colnum="2" colwidth="25*" align="center" />  
+				<thead>
+					<row>
+						<entry rowsep="1" namest="1" nameend="2">England.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Revenue.
+						</entry>
+						<entry>per head.
+						</entry>
+					</row>
+					<row>
+						<entry>£49,511,000.
+						</entry>
+						<entry>£3 10s.3d.
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<P Just="Left">In the course of taxation from 1817 to 1850, there was scarcely any change in method.  The passing of the Corn Laws did not affect the weight of taxation; of course they affected very materially the economic status of Ireland, as will be referred to later.
+		</P>
+		<P Just="Left">Roughly speaking, in the year 1850 the Revenue from Ireland was the same as it had been in 1817—£7,186,000 in 1850 as against £7,349,000 in the former year.
+		</P>
+		<P Just="Left">In 1853, the British Chancellor of the Exchequer—Mr. Gladstone, who has inflicted more taxation upon us than any other British Chancellor except Mr. Asquith—imposed the Income Tax and soon afterwards commenced raising the Spirit Duties; and this notwithstanding that one of the clauses of the Act of Union provides that the Income Tax levy should not be imposed upon Ireland.
+		</P>
+		<P Just="Left"><Col N="91" /> It should be borne in mind that Gladstone fully realised he was imposing on Ireland through these Taxes further unwarrantable exactions.  Not to be outdone by any former Chancellor of the British Exchequer he gave us a remission.
+		</P>
+		<P Just="Left">There was in existence at that time a debt due by Ireland to England of £4,500,000.  This was lent in the form of Grants during the famine years.  The annual payment in respect of this was £250,000, including Sinking Fund. Remember this was only temporary.  The entire debt would have been paid off in less than 20 years, and in point of fact portion of it had been repaid in 1853.
+		</P>
+		<P Just="Left">In a space of two years Gladstone had recovered for his country the entire amount of £4,500,000 which they had “granted” us for relief of distress during the Famine years, and up to the present time we have paid some £200,000,000, or approximately fifty times the original sum for Mr. Gladstone's kind “remission.”
+		</P>
+		<P Just="Left">To illustrate more definitely this increase after Gladstone's plum, Ireland contributed:
+		</P>
+		<table pgwide="1"> 
+			<tgroup cols="5">  <colspec colname="1" colnum="1" colwidth="13*" align="center" />  <colspec colname="2" colnum="2" colwidth="19*" align="center" />  <colspec colname="3" colnum="3" colwidth="6*" align="center" />  <colspec colname="4" colnum="4" colwidth="6*" align="center" />  <colspec colname="5" colnum="5" colwidth="6*" align="center" />  
+				<thead>
+					<row>
+						<entry rowsep="1">Year.
+						</entry>
+						<entry rowsep="1">Revenue.
+						</entry>
+						<entry rowsep="1" namest="3" nameend="5">per head.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>1850
+						</entry>
+						<entry>£7,186,000
+						</entry>
+						<entry>£1
+						</entry>
+						<entry>0
+						</entry>
+						<entry>10
+						</entry>
+					</row>
+					<row>
+						<entry>1855
+						</entry>
+						<entry>8,400,000
+						</entry>
+						<entry>1
+						</entry>
+						<entry>8
+						</entry>
+						<entry>7
+						</entry>
+					</row>
+					<row>
+						<entry>1860
+						</entry>
+						<entry>9,575,000
+						</entry>
+						<entry>1
+						</entry>
+						<entry>12
+						</entry>
+						<entry>10
+						</entry>
+					</row>
+					<row>
+						<entry>1870
+						</entry>
+						<entry>10,154,000
+						</entry>
+						<entry>1
+						</entry>
+						<entry>17
+						</entry>
+						<entry>5
+						</entry>
+					</row>
+					<row>
+						<entry>1880
+						</entry>
+						<entry>10,572,000
+						</entry>
+						<entry>2
+						</entry>
+						<entry>0
+						</entry>
+						<entry>8
+						</entry>
+					</row>
+					<row>
+						<entry>1890
+						</entry>
+						<entry>11,422,000
+						</entry>
+						<entry>2
+						</entry>
+						<entry>8
+						</entry>
+						<entry>4
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<P Just="Left">England in parallel periods:—
+		</P>
+		<table pgwide="1"> 
+			<tgroup cols="5">  <colspec colname="1" colnum="1" colwidth="13*" align="center" />  <colspec colname="2" colnum="2" colwidth="19*" align="center" />  <colspec colname="3" colnum="3" colwidth="6*" align="center" />  <colspec colname="4" colnum="4" colwidth="6*" align="center" />  <colspec colname="5" colnum="5" colwidth="6*" align="center" />  
+				<thead>
+					<row>
+						<entry rowsep="1">Year.
+						</entry>
+						<entry rowsep="1">Revenue.
+						</entry>
+						<entry rowsep="1" namest="3" nameend="5">per head.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>1850
+						</entry>
+						<entry>£49,651,000
+						</entry>
+						<entry>£2
+						</entry>
+						<entry>7
+						</entry>
+						<entry>8
+						</entry>
+					</row>
+					<row>
+						<entry>1870
+						</entry>
+						<entry>59,678,000
+						</entry>
+						<entry>2
+						</entry>
+						<entry>5
+						</entry>
+						<entry>9
+						</entry>
+					</row>
+					<row>
+						<entry>1880
+						</entry>
+						<entry>60,060,000
+						</entry>
+						<entry>2
+						</entry>
+						<entry>0
+						</entry>
+						<entry>5
+						</entry>
+					</row>
+					<row>
+						<entry>1890
+						</entry>
+						<entry>71,588,000
+						</entry>
+						<entry>2
+						</entry>
+						<entry>3
+						</entry>
+						<entry>4
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<P Just="Left">After this date an agitation was raised against over-taxation and the position became so acute that it was thought necessary by the Government to appoint a Commission to enquire into the question.
+		</P>
+		<P Just="Left">The Terms of Reference were:—
+		</P>
+		<P Just="Left">1.  “Upon what principles of comparison and by the application of which specific standards the relative capacity of Great Britain and Ireland to bear Taxation may be most equitably determined.
+		</P>
+		<P Just="Left">2.  “What is the proportion as far as can be ascertained under the principles and specific standards so determined between the taxable capacity of Great Britain and Ireland.
+		</P>
+		<P Just="Left">3.  “The History of the Financial Relations between Great Britain and Ireland at and after the Legislative Union, the charge for Irish purposes on the Imperial Exchequer during that period, and the amount of Irish Taxation remaining available for contribution towards the Imperial Expenditure. Also the Imperial Expenditure which it is considered equitable that Ireland should contribute.”
+		</P>
+		<P Just="Left">In view of the importance and far-reaching scope of the finding of this Commission it may be well to say a word as to who the men were who composed it.
+		</P>
+		<P Just="Left">First there was:—
+		</P>
+		<P Just="Left">Mr. Childers—an ex-Chancellor of the Exchequer, as Chairman;
+		</P>
+		<P Just="Left">Lord Farrar; and
+		</P>
+		<P Just="Left">Lord Welby—Expert on the Treasury Board of Trade;
+		</P>
+		<P Just="Left">men of the type of:—
+		</P>
+		<P Just="Left">Mr. Redmond, and,
+		</P>
+		<P Just="Left">Mr. Sexton, and
+		</P>
+		<P Just="Left">three or four strong Unionists and a few other men who were less strong Unionists.
+		</P>
+		<P Just="Left">In any event nobody could accuse the members of this Commission of an unfair bias in favour of Ireland.
+		</P>
+		<P Just="Left">They found—and these findings are too little known and understood in Ireland:—
+		</P>
+		<P Just="Left">1.  “That Great Britain and Ireland must for the purpose of this Enquiry be considered as separate entities;
+		</P>
+		<P Just="Left"><Col N="92" /> 2.  “That the Act of Union imposed upon Ireland a burden, which, as events showed, she was unable to bear;
+		</P>
+		<P Just="Left">3.  “That the increase in Taxation laid upon Ireland between 1853 and 1860 was not justified by the then existing circumstances;
+		</P>
+		<P Just="Left">4.  “That identity of rate of Taxation does not necessarily involve equality of burden;
+		</P>
+		<P Just="Left">5.  “That whilst the actual Tax Revenue of Ireland is about one eleventh of that of Great Britain, the relative taxable capacity of Ireland is much smaller, and is not estimated by any of us as exceeding one-twentieth.”
+		</P>
+		<P Just="Left">It will be readily observed that of these Nos. 2 and 5 are the vital findings. No. 2, which shows that because of the financial provisions on which the Union was based, over-taxation was inevitable.  The arrangement that we had to pay being made, No. 5 follows and shows the extent of the burden.
+		</P>
+		<P Just="Left">The following figures will illustrate. They will also serve in a general way to show the extent of the robbery we were subjected to in the ninety-four years of connection with England.  In that time we had contributed an average Annual Revenue of somewhat over £6,000,000, or a total of £570,000,000.
+		</P>
+		<P Just="Left">Now, according to the findings of the Royal Commission (under No. 5) our just proportion would have been £3,000,000 annually, or a total, roughly, of £280,000,000.  In other words, we had been defrauded of an average annual amount of £2,750,000, or a grand total during the period under review of £290,000,000; that is, we had paid double the amount we should lawfully have been called upon to pay.
+		</P>
+		<P Just="Left">I will call to the support of the findings of the Commission the testimony of a very distinguished man—Mr. A.W. Samuels—now Attorney-General for Ireland.
+		</P>
+		<P Just="Left">In his Presidential Address of 1906 (afterwards published as a Pamphlet entitled “Some features of recent Irish Finance”) to the Social and Statistical Society of Ireland, he said:—
+		</P>
+		<P Just="Left">“I believe that the present system of taxation with its narrow basis and peculiar incidences presses and has long pressed unduly upon Ireland, and that the Exemption and Abatements Clauses of the Act of Union have not been, and are not, sufficiently observed having regard to the comparative poverty and peculiar circumstances of Ireland.  I suggest that the Vice-Treasurership of Ireland under the Act for consolidating the Exchequer should be restored.”
+		</P>
+		<P Just="Left">The system has not been amended, the narrow and peculiar incidences remain.
+		</P>
+		<P Just="Left">The wrong has never been righted, and during the years since the Royal Commission reported the tendency to over-tax us has increased rather than daminished.
+		</P>
+		<P Just="Left">Indeed under the Budget which the Chancellor of the English Exchequer has introduced in the Parliament of his country a few weeks ago we find that Ireland will pay about £50,000,000 in taxation.  Making deductions in respect of arrears of Excess Profits, and sales of war material, we find that Great Britain will pay £600,000,000 in taxation. Thus, we are paying one-twelfth now and it must be remembered that our taxable capacity in proportion to that of England has decreased very considerably since 1893.
+		</P>
+		<P Just="Left">Our payments in proportion to those of England have been well maintained.
+		</P>
+		<P Just="Left">Let me now bring my figures up to 1913—I choose that year so as not for the moment to become involved in wartime figures—and in doing so it should be noted that I am not going beyond the standard of average annual over-taxation agreed upon by the Royal Commission, viz.: £2,750,000.  Had I time, however, to go into details.  I would show you that by any responsible calculation the figure was greatly in excess of that.
+		</P><Col N="93" />
+		<table pgwide="1"> 
+			<tgroup cols="2">  <colspec colname="1" colnum="1" colwidth="25*" align="center" />  <colspec colname="2" colnum="2" colwidth="25*" align="center" />  
+				<thead>
+					<row><entry rowsep="1" />
+						<entry rowsep="1">£
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Paid in over-taxation in 1893
+						</entry>
+						<entry>290,000,000
+						</entry>
+					</row>
+					<row>
+						<entry>Paid in over-taxation from 1893-1913
+						</entry>
+						<entry>50,000,000
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<P Just="Left">So that in round figures England had up to the outbreak of the European war plundered us of £340,000,000.
+		</P>
+		<P Just="Left">During the four years of war it has been increasingly difficult to make any accurate estimate of the amount of our over-taxation.
+		</P>
+		<P Just="Left">I am taking £60,000,000, and no one can accuse me of over-stating the amount.  Few there are who will not be inclined to say that I have left a complete margin for a reasonable war-taxation, provided that the war was Ireland's war.
+		</P>
+		<P Just="Left">The total over-taxation levied on us, therefore, since the Act of Union is £400,000,000.
+		</P>
+		<P Just="Left">English apologists have attempted to deny this over-taxation, or rather to palliate it, by a careful manipulation of the term “Imperial Expenditure.”  By charging (a) many items that should properly come under this head, against Ireland, they show an inflated expenditure on Irish services, and by charging (b) as Imperial Expenditure many items that are entirely spent in England they increase our liability to contribute.
+		</P>
+		<P Just="Left">Thus they have it both ways.
+		</P>
+		<P Just="Left">Now it is well to understand what they regard as Irish Expenditure—it is described as:—
+		</P>
+		<P Just="Left">“All outlay in Ireland, whether for the Viceregal Court, Judges, Law Charges, Police, Loans, Grants, Government Offices, or any kind of central or local expenditure, excepting only the Army and Navy.”
+		</P>
+		<P Just="Left">You will not disagree with me if I protest that not a single one of these services is unconnected with Imperial necessity.
+		</P>
+		<P Just="Left">Take the R.I.C. alone.  We have twice as many policemen as Scotland, although our population is less than hers.  We have one-fifth as many as England, although that country has now almost ten times as many people as Ireland. The excess above the normal in the number of policemen in Ireland is entirely due to Empire needs.
+		</P>
+		<P Just="Left">The annual cost of the R.I.C. is upwards of £1,500,000.
+		</P>
+		<P Just="Left">A normal Civil Police Force, quite capable of fulfilling efficiently all Police needs in this country, would cost £500,000 at most.  Consequently on this one head alone the Empire is costing us over £1,000,000 per annum, and it is charged as an Irish service.
+		</P>
+		<P Just="Left">To show clearly what happens under the second part of the argument I again call in the testimony of Mr. Samuels.
+		</P>
+		<P Just="Left">Now that his Imperial activities are paid for as an Irish service perhaps he does not feel so keenly on the matter. In any case, his lips are sealed.
+		</P>
+		<P Just="Left">His words were:—
+		</P>
+		<P Just="Left">“The larger the Imperial Column can be made the better for England and the worse for Ireland and Scotland.  An examination from these returns shows that, apart from the Crown Civil List, and Naval and Military Expenditure, expenditure actually taking place in England, by being classed as Imperial, is charged against Scotland and Ireland, too, whilst almost all the expenditure in Ireland or Scotland or in England for Irish or Scottish purposes is charged as Irish or Scottish.  I examined some of the details of those Treasury Returns in a paper read before the Society in 1897 and pointed out that at least £14,000,000 charged as Imperial Expenditure in the Return for 1893-4 should have been charged against England for English services, and the whole method of computation was differential, empirical, unconstitutional, unfair.”
+		</P>
+		<P Just="Left">The survey of the financial robbery of Ireland cannot be considered complete even in general outline without a reference to the <i>effect</i> of the taxation and of financial proposals contained in various Acts on our National life and industry, capital and income.
+		</P>
+		<P Just="Left"><Col N="94" /> Taxation is not to be considered by its yield to the Exchequer.  Taxes may be used to foster National industry, to relieve the burdens of those least able to pay, to encourage thrift, to increase national wealth, and generally to promote national activity.
+		</P>
+		<P Just="Left">England's taxation of Ireland for over a century has been deliberately designed to prevent all these things.  A few examples will show my meaning.
+		</P>
+		<P Just="Left">In the early part of the Nineteenth Century quite a flourishing Tobacco Industry had been developed in Ireland. In 1819 the English Chancellor in creased the taxes:—
+		</P>
+		<P Just="Left">On un-Manufactured Tobacco from 1/- to 3/- per lb.
+		</P>
+		<P Just="Left">On Manufactured Tobacco from 3/- to 16/- per lb.;
+		</P>
+		<P Just="Left">a step which had the effect of destroying completely a young and very promising Irish industry.
+		</P>
+		<P Just="Left">Nor is it material wealth alone that the English Government deprived us of by unjust taxation.
+		</P>
+		<P Just="Left">The Repeal of the Corn Laws—however beneficial that measure may have been to England—was disastrous to Ireland, which was an agricultural country.  It ruined our greatest industry, and is probably the best illustration in all history of the far-reaching financial and other effects of a law having a different primary object.
+		</P>
+		<P Just="Left">The Repeal of the Corn Laws gave cheap food to the English—then rapidly progressing towards industrialism.  The passing of the Act ruined agriculture in this country.  By doing so it destroyed another million of our population.
+		</P>
+		<P Just="Left">I have mentioned the new taxation imposed on Ireland in 1853.
+		</P>
+		<P Just="Left">This taxation was initiated by Mr. Gladstone—and I may here say that I consider Mr. Gladstone the greatest enemy this country has ever had.
+		</P>
+		<P Just="Left">I have shown you the Revenue Return of the Tax, but the effect was infinitely worse than the simple.  Tax Returns show.  Prior to Mr. Gladstone's proposals Income Tax had not been levied on Ireland.  Consequently there was a very distinct advantage for those whose incomes were acquired in Ireland, and were residing there.  With the imposition of the Income Tax on Ireland the advantage from this point of view disappeared with the result that Absenteeism increased enormously.
+		</P>
+		<P Just="Left">Thus the Tax had the effect of draining Ireland's <i>Capital.</i>
+		</P>
+		<P Just="Left">And as I have mentioned Capital, let me give you an illustration of how real-taxation and over-taxation had diminished Ireland's share in the years from 1812 to 1895:—
+		</P>
+		<table pgwide="1"> 
+			<tgroup cols="3">  <colspec colname="1" colnum="1" colwidth="10*" align="center" />  <colspec colname="2" colnum="2" colwidth="20*" align="center" />  <colspec colname="3" colnum="3" colwidth="20*" align="center" />  
+				<thead>
+					<row>
+						<entry rowsep="1">Capital in
+						</entry>
+						<entry rowsep="1">Great Britain.
+						</entry>
+						<entry rowsep="1">Ireland.
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>1812.
+						</entry>
+						<entry>£1,500,000,000
+						</entry>
+						<entry>£563,000,000
+						</entry>
+					</row>
+					<row>
+						<entry>1895
+						</entry>
+						<entry>10,000,000,000
+						</entry>
+						<entry>400,000,000
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<P Just="Left">Thus in some eighty years Ireland's Capital has been reduced by £163,000,000, but like the population and the habitations that you have already heard about this morning, we must, in addition, allow for the ordinary increase that would have taken place under normal conditions.
+		</P>
+		<P Just="Left">In the period England's Capital increased seven-fold.
+		</P>
+		<P Just="Left">If we apply the same standard of increase to Ireland we find that England has robbed us of Capital to an amount equivalent to a sum twice as large as the first instalment of the Indemnity the Allies propose to recover from the Germans.  Or to put it in another way. If the Capital of Ireland had increased relatively to the Capital of England, Ireland's Capital should have been somewhere about £3,940,000,000.
+		</P>
+		<P Just="Left">It will be said, however, that a large proportional advantage must be given to England because of her industrialised position.  This may be done, but it will, I submit, be quite fair to assume that Ireland's Capital should have increased three-fold.
+		</P>
+		<P Just="Left">This is the conservative estimate I have taken in the Summary, and on this basis Ireland's Capital should have been £1,700,000,000 in 1895.
+		</P>
+		<P Just="Left">There, then, Mr. Chairman and Members of the Dáil, is the position after a Century of Union with England.
+		</P>
+		<P Just="Left">Summarised—England stands arraigned with having through her financial machinations:—
+		</P>
+		<P Just="Left"><Col N="95" /> 1.  Over-taxed us to the extent of at least £400,000,000;
+		</P>
+		<P Just="Left">2.  Drained our Capital to the extent of (at a moderate estimate, as already set forth) £1,000,000,000;
+		</P>
+		<P Just="Left">3.  Destroyed flourishing Industries, and generally retarded our Industrial Development;
+		</P>
+		<P Just="Left">4.  Banished some millions of our population and made the remainder “pay,” as Grattan said they would pay, “the price of their enslavement.”
+		</P>
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE
+			</NameTxt>
+			<P Just="Left"> Labharfaidh Aire na nDéantús libh anois.
+			</P>
+			<P Just="Left">The Secretary for National Industries will now make a Statement.
+			</P>
+		</Speaker>
+		<Speaker pid="AN tAIRE UM DÉANTÚSAÍ AN tAIRE UM DÉANTÚSAÍ">
+			<NameTxt>AN tAIRE UM DÉANTÚSAÍ
+			</NameTxt>
+			<P Just="Left"> An déantús go bhfuil trácht agam le déanamh air anso, ní féidir a rádh gur déantúts náisiúnta é, acht is déantús dáiríribh é.
+			</P>
+			<P Just="Left">On the present occasion I have to deal with an industry that we cannot call a National Industry.  Nevertheless it is an industry and a flourishing one, and one to which more attention has been paid in Ireland than to any other. The French have, I believe, an expression, “Chevalier d'Industrie”—a Knight of Industry—which applies exactly to the class of industry I am now going to describe.
+			</P>
+			<P Just="Left">The worst feature, I think, of all the features of the English usurpation in this country—and it may seem a very strong thing to say—the worst feature of all the features of that usurpation has been the corruption of law and justice. For centuries in the early period of the English intrusion, the invaders frankly declared the Irish nation to be a kingdom, and that was a healthier state of things than what followed. With Henry VIII. a new departure came and the usurpation endeavoured— and with a certain amount of success— to draw the representatives or alleged representatives of the Irish nation into the institutions of English government in Ireland.  That was the beginning of a long period of Irish history in which Irishmen by taking part in the institution of English government gave colour to the pretence that the English government had some position of, if not moral, at least legal justification in the country.  With that new departure, and from the beginning of it, there began an era of the corruption of law and justice which runs down to our own time; and has been active recently and quite recently, and probably if we knew it, the present time is the worst period of all.  Now, sir, I intend to be very brief, for the simple reason that to fully expose the matter that I have in hand to-day it would require not one sitting but a whole Session of this Assembly; and at the end of a continued series of sittings of this Assembly the subject would not be exhausted, because we have to deal here with operations, such as we conceive them and with such evidence as we can find of them, of a secret organisation—an absolute secret organisation which calls itself “the Government” here in Ireland.
+			</P>
+			<P Just="Left">For nearly four centuries now Dublin Castle has been the forcing house of such a growth of legal corruption, chicanery, systematic perjury, judicial murder, confiscation, and oppression through forms of law as cannot be paralleled in the history of any other country.  One single chapter dealing with one single local manifestation of this appalling system in its early days will be found in Mr. T.M. Healy's book, “Stolen Waters,” and in that record there is nothing exceptional.  It is merely a specimen, a sample of the entire system.  The English authorities in Ireland have obtained control of the machinery of law and justice from the outset, have poisoned and corrupted these institutions, and the working of that corruption has never ceased for a single year.  It has been carried on under every alteration of English Party Government, and has been as active under Gladstone as under Balfour, as active under Lloyd George as 300 years ago under Chichester.  The entire atmosphere of legal administration through Dublin Castle has at all times been saturated with poison gas, and is so at this moment.  In that atmosphere there is neither honesty nor honour.  Our concern, however, is not so much with <Col N="96" /> past history as with the living present, and I merely mention the past for the purpose of explaining the present.  In regard to this usurpation, to the history of the English trespass on Ireland, past and present are one unbroken unit.  I shall now ask attention to several important aspects of the English perversion of law and justice here in this country.
+			</P>
+			<P Just="Left">The first thing I have to dwell on is the organised system of perjury.  Under the effects of that system—as many here present know—a number of men are now undergoing sentences of long imprisonment—some of penal servitude— in English prisons, and the hired officials of the English Government, and, I doubt not, the Ministers of that Government also, are fully aware that the evidence against these men is false, that evidence having been concocted under the supervision of these officials themselves. It may seem incredible that the English Government can always find the requisite supply of perjurers for its political purposes, but it takes good care of that.  The headquarters for the training of its police—both officers and men—is a training school of evidence. The sort of training that is administered there may be judged from a recent exposure.  You all remember a short time ago when under English law here, and taking advantage of English law, a <i>Habeas Corpus</i> application was made for the release of the little child who was kidnapped from his home in the County Tipperary, brought here and stowed away in the headquarters of the Constabulary in the Depôt in the Phœnix Park, and brought three times every week alone, with no friend near him, under the charge of these hostile police officials, to undergo a cross examination in the presence of the higher officials of the English Government in Dublin Castle; brought before the English Government—this little child—three times every week, in order to be subjected to this modern form of the rack and torture.  Now the result of that application was that the child was released; but the Court insisted upon having an affidavit from the officials and the police explaining the child's detention, and that affidavit after great difficulty was ultimately produced.  It would not have been produced at all—because these officials relied on the idea that if they delayed it to the last day of the sittings they would escape the necessity of making an explanation—but the Lord Chief Justice stated he would sit to a late hour in the afternoon, and if the affidavit were not forthcoming then he would sit to a later hour in the evening, and the result was that the affidavit had to be forthcoming.  When it did come forth he described it as “peculiarly lacking in candour.”  Now if an ordinary man in the street made a wrong statement, signed his name to it, and swore to the truth of that statement in the presence of a Commissioner, the expression that another man would use, when he found the statement was not true, would embrace the word “perjury” and not “candour.”  That example of perjury exposed came from the man who has charge of the training of the officers and men of the Irish police.  Here we see at once the explanation of this particular system of expert evidence with which we are all familiar in every part of Ireland.
+			</P>
+			<P Just="Left">I pass on from that question of the organisation of perjury to another aspect of the example of corruption of justice in Ireland, viz., jury packing.  It is unnecessary for me to dwell upon it as we are all so familiar with it.  A great deal has been heard of it in the past, but it has not become obsolete.  It has only become obsolete during the past few years in so far as trial by jury has become obsolete in Ireland.  Jury packing has been reduced to a science. What is meant by that is, the exercise on the part of the English Crown here in Ireland of a practice which in England is unconstitutional and which Englishmen would not tolerate in their country; but it has not only been exercised here in Ireland but pursued to a degree almost incredible.  In connection with the manipulation of juries it must first of all be noticed that the Government here has the selection of the Sheriffs, and through them of the <Col N="97" /> Sub-Sheriffs who prepare the jury panels, and who are expected to have full information when required, with regard to the politics, the religion, and the leaning in other ways of all the people whose names appear on these panels.  That system of jury-packing is not obsolete.  I see a member of this Assembly here present who was placed on his trial before one of these tribunals a few years ago, charged with a political offence against the English Government; and at the Commission that was appointed by that Government to inquire into the Rising of 1916, the Lord Lieutenant of the time—Wimbourne— giving evidence, stated with regard to our friend here present, “We packed the jury; we failed to obtain a conviction.” The Lord Lieutenant and Governor-General of Ireland declared in his testimony before a Royal Commission appointed by the English Government that they packed the jury.  That statement will be found in the printed record of the evidence of the Commission.  They have gone further than that.  Not content with the power of packing juries, they have invented specially for Ireland, an indirect plan for the selection of venues; that means they change the trial at will.  It has been so elaborated by the Attorney-General for the time being that trial by jury of political prisoners —when such is held—I do not know whether they will be held again—can be changed to Belfast, Dublin, or Derry, or wherever desired, dependent of course on the jury panel.
+			</P>
+			<P Just="Left">But apart from the desire to obtain conviction, there is another purpose, and one worse still.  This particular device of changing the venue is one of those employed for the deliberate purpose— the steady purpose of English government here for one and a half centuries —of inflaming one section of the Irish people against the rest, of feeding and inflaming the sectional feeling in the North-East of Ireland.  Some of you, no doubt, are familiar with the views I have tried to impress on people generally with regard to what they call the “Ulster difficulty.”  The Ulster difficulty is no Irish difficulty.  It is a difficulty created originally, and renewed, and deliberately renewed, from time to time whenever occasion arose, by the operations of the English Government here in Ireland; and not merely by the operations of the Castle alone, but by the operations of the English Government working from London.  Though we have heard of the school of politics associated with the name of Sir Edward Carson, and that many people believe it represents some sort of popular demo cratic expression of opinion of the people of Ulster, it represents nothing of the kind.  Every time that Sir Edward Carson has visited Ulster he has visited it with his programme already prepared in London.  Only last week his followers came back from Westminster to the North of Ireland, and the result was, as those who read the Belfast papers can see for themselves, that once more they had come to the conclusion to start a fresh campaign of “No Popery.”
+			</P>
+			<P Just="Left">The next aspect of the system after jury-packing is the packing of the Bench.  With very few exceptions—I doubt if there is more than one— amongst the existing occupants of the higher Irish Bench, every man who, in my recollection, has been placed on that Bench, has been placed on it, not for his eminence in the legal profession; not for the spirit of justice and equity which could be relied on to inspire his action on the Bench; not for the profundity of his knowledge of the law; but for one reason and one alone—the excellence of his services to the British Government.  That applies not only to the Judges of the High Court of Justice here in Ireland, but applies also to the County Court Judges all over Ireland. County Court Judgeships are generally a reward for political services, and, where not, they are obtained at the back-door of Dublin Castle through political intrigue.  It applies also to that class of magistrates which exist in Ireland alone—the Removable Petty Magistrates, who are appointed at the pleasure of the British Government, and of course conduct themselves accordingly. I will now give you a brief example here of how this sort of thing operates.  I will take the case of one <Col N="98" /> particular judge who has not been noted for the violence of his political opinions or for the remarkable nature of his political services.  He will be regarded as a rather mild type.  That Judge, within a very recent time, having had a man before him on a very gross case of the murder of a woman, sentenced that man to twelve months' imprisonment in the second division—rather a privileged class!  We all speak here as prison experts!  Now that same Judge had another person brought before him for the terrible crime known as “Sedition,” and he sentenced the “criminal” in that case to two years' penal servitude.  A third case that came before him was a conspiracy, apparently against the sacred rights of property.  A man committed the crime of destroying seven yards of a landlord's wall, and for that he got seven years' penal servitude, a year for every yard of the wall.  How do you explain twelve months' imprisonment for the murder of a woman, two years' imprisonment for sedition, and seven years' penal servitude for destroying a small piece of a landlord's property? The explanation with regard to the first case is that the man who murdered the woman, when brought up for sentence, stated he had been engaged on the Recruiting platform for the British Army.  Now we all know that an American citizen who happened to be here after the Easter Week Rising testified before the Congress in America that he had journeyed over part of Dublin in company with Sir John Maxwell, and that Maxwell stated, “There is no crime in this country except sedition.”  Yet we have 12,000 police, and the expenditure on this police force by the British Government within the last two or three years has been increased 50 per cent.  We are under constant espionage.  Every one of us here knows that, if we get into a railway carriage, at almost every principal station we can see eyes peering through the window to see if they can identify us.  A late representative to this country—Mr. Birrell—stated—and the statement will be found in the evidence given at the Commission of Inquiry after the Easter Rising of 1916—“The whole people of Ireland,” he says, “live under the microscope of Dublin Castle.”
+			</P>
+			<P Just="Left">A further feature of this arrangement is the system known as that of the “Agent-Provocateur”—under which people go about manufacturing crime, these being paid agents of the Government. Some of you will remember the case in the American Aerodrome in this country, where, when the invaders were captured, it was found that under the long coats they had assumed for the occasion they were wearing the uniform of the Constabulary.  It was not to capture rifles or ammunition they went to the aerodrome, because the R.I.C. are as liberally supplied as the military forces with all the arms and ammunition they require.  No, but if they had not been discovered, and the thing had developed properly, we would have as the result of it “Another Sinn Fein Outrage.”
+			</P>
+			<P Just="Left">I remember, when the Volunteers used to be training on the piece of ground placed at their disposal at Kimmage by Countess Plunkett, noticing there one day a rather clear stream flowing through these grounds, and on inquiring where it came from and where it went, I was told it came from the Dublin Hills.  It looks as pleasant as any stream and the name of it is the Poddle.  Further on it disappears underground, and as it passes on it travels under Dublin Castle in its course, and finally emerges through a grated gateway into the Liffey.  The colour of it where it emerges into the Liffey is very different from that at Kimmage.  That Poddle is an allegory of the English Government in Ireland. What I find it difficult to believe about the system is this—that a large number of men—men in high station as they themselves would consider—men, many of whom have had distinguished University careers—that men of that class become the managers and directors of the system, and that these same men after their hours of sleep go forth to Dublin Castle, and there steep themselves and soak themselves in the foul <Col N="99" /> sewer of corruption and perjury, and after that come back again in their free time and go into the society of their families, of their wives and children, their friends and acquaintances, and pass as honest and honourable men. Let it not be supposed that this infamous business is carried on in a purely official circle in the Castle and its outposts throughout Ireland, and carried on without the knowledge and recognition of the higher Ministers of State— Englishmen or Scotchmen who are sent here from London to preside over what they call their “Government” do not believe that for a moment.  Whatever public honour or honesty there is in the individual, on the passage from Holyhead it suffers the consequence of an unpleasant crossing of the sea.  We in Ireland do not believe that a man can be a scoundrel in Dublin Castle and an honest man in the Kildare Street Club. It would be as easy to convince us that an egg on our breakfast table is good in one part of it and rotten in other parts.
+			</P>
+		</Speaker>  
+	</MainHeading>  
+	<MainHeading Type="GD" LHead="ORAIDEANNA LUCHT" RHead="AN CHOIMISIUIN">    
+		<Title>ORAIDEANNA LUCHT AN CHOIMISIUIN.
+		</Title>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE
+			</NameTxt>
+			<P Just="Left">Seadh labharfaidh lucht an Choimisiúin ó Mheirioca libh anois (bualadh bas).
+			</P>
+			<P Just="Left">I am glad to see that you all appre-preciate the announcement that our friends from the United States are to address you now.
+			</P>
+		</Speaker>
+		<Speaker pid="">
+			<NameTxt>Mr. WALSH
+			</NameTxt>
+			<P Just="Left"> Mr. President, Mr. Speaker, and Members of The Dáil, the generous and hearty welcome given to this delegation by the people of Ireland has of course evoked a very deep sense of appreciation upon the part of the delegation.  Impressive as it has been up to this moment, the honour conferred upon us by this legislative body, with the information obtained in an official way, was even more profoundly so because, after all, the mandate we bear while political in a sense, is in a higher sense a business mandate, which has to do with a definite charge, made, not alone, we hope, by twenty millions of people of Irish blood represented in the Philadelphia Convention, but, as your President has so well stated, by the great heart of America itself.  As we moved through your fair land, and particularly coming through the City of Dublin last night, I know that my colleagues as well as myself must have caught the spirit of the great soul of you all.  To pass the spot where Emmet, in the traditional Irish way so beautifully described by Patrick Pearse in the record of his dream, gave up his beautiful young life with a careless toss of the head and smile for the liberty of the people of his land, and for the principles which are the foundation of the independence of that country of which I am proud to say I am an humble citizen; to pass the house in which lay before interment the body of the immortal Wolfe Tone; to see the building in which Lord Edward Fitzgerald gave personal combat to his captors; to pass the house from which the Sheares Brothers went forth to their execution; to look into, as we did yesterday, the white face of the widow of Thomas J. Clarke, a citizen of these two Republics; and meet the mother of the proclaimed President of the Irish Republic and of his martyred brother, who gave up their lives in the Easter Rising; to reflect, as we must reflect, upon the service to struggling humanity, upon the heroic fight and the brutally painful death of James Connolly; and to pass along the very scenes of his activity make our service—as we desire it to be of worth to you—seem infinitestimal in the face of such surroundings. True is the word of the bard who sung:—
+			</P>
+			<P Just="Left">“Sweet is the love of a woman and sweet is the kiss of a child;
+			</P>
+			<P Just="Left">Sweet is the tender strength and the bravery of the mild;
+			</P>
+			<P Just="Left">But sweeter than all, for embracing all, is the young life's peerless price;
+			</P>
+			<P Just="Left">The young heart laid on the altar as a Nation's sacrifice.”
+			</P>
+			<P Just="Left">And as we passed the historic building in which the Irish Parliament sat in the days of Ireland's glory and the material upbuilding for a short time of <Col N="100" /> Dublin and its surroundings, I saw again the figure of that great constructive statesman of revolutionary days, our own Benjamin Franklin, coming as the ambassador of a struggling people seeking light as you are to-day; seeking the assistance in spirit at least of the Irish people through the regularly elected Parliament, and not seeking it in vain; bringing back to his country the word that the first country appealed to—the Irish Nation—had responded to the cry of freedom of the American Colonies through its regularly constituted Parliament; and I think again of those days when Washington and his compatriots, like others of this day, were struggling with the intellectual problems involved in the establishment of a nation, spoken of to-day—but then a struggling one—as the strongest and most powerful one on the face of the earth; and I contemplated also the advice given by Washington and the other founders of our country, that our country was one which should stand away, as it were, in splendid isolation, far from the entangling alliances and the politics of Europe, and have nothing to do with the changes in the map of that Continent.  Again I see a great change coming over the policy of our country to-day.
+			</P>
+			<P Just="Left">May I stop here to express our century-old policy in the words of a man dear to the heart of everyone in this Dáil to-day—a patriot of yours, a great statesman of ours, a sweet singer of the world, a fighter in the great cause of humanity, the sainted John Boyle C'Reilly.  When France made a present to its cross-Atlantic Sister Republic of the great Statue that stands in the harbour of New York, one that is familiar to every school child now in that land of liberty and light in the world, this distinguished son of freedom, then—I do not exaggerate—the foremost man of letters in the United States, was called upon to write an Ode commemorative of that presentation.  I recall the closing words of that Ode, because that Statue, as you know, is the heroic figure of a woman holding aloft in the right band a lighted torch, and on the left arm a scales.  These were O'Reilly's words:—
+			</P>
+			<P Just="Left">“I am Liberty, God's daughter,
+			</P>
+			<P Just="Left">My symbols a law and a torch—
+			</P>
+			<P Just="Left">Not a sword to threaten slaughter—
+			</P>
+			<P Just="Left">Nor a flame to dazzle and scorch—
+			</P>
+			<P Just="Left">But a light that the world may see,
+			</P>
+			<P Just="Left">And a truth that shall make men free.”
+			</P>
+			<P Just="Left">And when we entered on this war, I recall one of the most stirring utterances of him who voiced the thought of the American people upon this great departure from their ancient policy and who stated: “We are but in a greater way carrying out the practice of more than a century, when we started out upon the high and honourable career of teaching the beauties of freedom to all the peoples of the earth.”  And so at this point I might answer the suggestion made by the unthinking, that the question of the recognition of the Irish Republic is a domestic question, with which no person has to do except the Government of Great Britain and the people upon this island.  I might say that no great wrong inflicted on one nation by another is a domestic question.  Unless I say that I must turn my back upon my own country's course in the history of the world.  I must write the condemnation of one of the most important acts ever performed by my Government, when they went into the Island of Cuba and swept from the western hemisphere for ever the hand of monarchy.
+			</P>
+			<P Just="Left">Had it been a war of revenge, had it been a conflict of reprisal, had it been anything except what our plighted word has said to the world was the motive that caused us to enter upon this world conflict, then I would be compelled to say that we had come all too late into it.  Belgium had been violated, the <i>Lusitania</i> had been sunk, the lives of American citizens engaged in their ordinary avocations had been ruthlessly sacrificed; but there was no call to arms on the part of our country; and let me say—if I may have the temerity to do so—for the thought of my own people in America, what I believe to be the <Col N="101" /> controlling psychology that finally determined us upon the course we after wards took.  It was not, as I say, out of motives of revenge, it was not on account of the great wrongs done our country incidental to the war between the other monarchies and nations, but our course was determined from the spirit of the so-called Zimmerman note. It was finally disclosed that the Imperial German Government had designs through Mexico upon our own fair land. It was suggested, that if assistance could be given, perhaps such a situation could be brought about, that our territory, the great State of Texas equalling an empire in extent, the great State of Arizona and Lower California, and other parts of the country might be divided between the victorious armies; and I say to you as an American to-day, that in my humble opinion, what drove us into this war was the thought that the heel of the invader might press upon our sacred soil.  And regardless of what their thought might have been prior to that time, I say that the entry of America into this war on terms so clear and unequivocal that all may understand, denies for ever the claim of any man or any government that the question of Ireland is not an international question in which the whole world is interested to-day, and on the proper solution of which depends the ultimate and permanent peace of the world.
+			</P>
+			<P Just="Left">We live in a democracy as self confessed Republicans.  No autocrat has a right to declare war for us.  It can only be done by the Congress of the United States, and the only power that the Chief Executive has is to advise Congress as to the necessity of action; as to the state of the country in its foreign relations; and sign the resolution that makes war possible.  When that was done in this instance it was done upon the terms now known to the world. The most sacred bond was written by 115 millions of people, by their representatives in the Congress of the United States, and accepted by the Entente Allies and by the independent people of the world.  That declaration when written and declared and acted upon, meant that Ireland had the right to a free and independent existence if the people of Ireland chose a government of that kind. For it was declared that this war, so far as America was concerned, was for the right of all who submit to authority to have a compelling voice in their own government; for the rights and liberties of the small nations of the world; for a universal dominion of right, by a concert of action of free peoples that would make safe and secure and peaceful all the nations of the world, and finally make the world itself free.  And as though to make it impressive on the nations of the world, we declared that to this task we would devote our fortunes, our lives, all that we had and all that we were.  When that declaration was made—on that very night I had the honour of addressing the Catholic Club in Kansas City in Missouri, at a banquet given in honour of an American citizen of Irish blood, who had just crawn his sword and was ging into our army as Colonel of the local regiment, and it came to every man at that gathering that this bond meant the end of the Irish question and the absolute freedom of Ireland at last; for here was a nation with a homogenous population.  There was nothing said about its boundaries, to question about its territory, because God settled it by the circle of the seas. It was a people that had held with vitality to their common concepts of freedom and justice with unparalleled persistence in the history of the world; a people that has kept alive the fires of human liberty, not only in their own land, but had also flung themselves across the face of the civilised and uncivilised world, preaching liberty everywhere, and putting it into practise with incomparable skill in every other land on the face of the earth.
+			</P>
+			<P Just="Left">And again I had the great privilege of standing on the beautiful slope of the Potomac river after we had entered that war, at the grave of the immortal Washington, and of hearing our great President speak at the tomb that held all that was mortal of the great founder of our Republic; and I felt there the spirit of the great Washington, and of <Col N="102" /> the company which surrounded him in the revolutionary days.  I saw them looking out upon the world as a whole and saying: “We are a people who will have done with classes, and have done with rulers acting without the consent of the people whom they rule.”  We took our cue from those dead patriots of the past.  We intend what they intended. The only difference in our causes is that they fought for the freedom of the original thirteen American States while we fight for the freedom of all the nations of the world, large and small.
+			</P>
+			<P Just="Left">Our mission here and its spirit—need I say, not in the spirit of boastfulness— is to press the Irish question; which throughout my life at least has been reasonably clear to the people of the United States, and exceedingly clear to many of them who might be called students in the great sphere of American intellectuality; but up to this there was withal something that was confusing. Some people who had a great regard for the welfare of Ireland were kept apart, sometimes on account of prejudice, sometimes on account of misunderstanding, oftener on account of incapacity to grasp the subtleties of the differences between the Irish people themselves.  To-day the people of America understand the aspirations of the people of Ireland; they are so beautifully lucid, so remarkably clear, that any person of ordinary understanding may not be confused. Ireland to-day has done with all talk as America understands it, of the Repeal of the Union, of Home Rule, of Dominion Home Rule, of the various shades of refinement of European, Irish, and English politics; and I may para-phrase—if I may, Mr. President—your interest in the words of our great President at Mount Vernon, when I say that you take your cue from us; you intend what we intended.  You have established, by a vote of the Irish people, a form of Government along the lines of the American Bill of Rights and the Constitution of the United States, and unless interfered with from outside, through the help of God Almighty you intend to have a Government such as we have.
+			</P>
+			<P Just="Left">Might I say in passing—and I crave your indulgence for a little tediousness —that our country has had an experience that would be very helpful to the nations of the world when your representatives go to Paris—as I hope they will—to present the case of Ireland, not to England, the interested of all nations in the question; but to the disinterested nations of the world.  They would call on as for assistance, which we hope to render in our humble way in such an eventuality. Perhaps we might mention the one monumental mistake made by our country at its inception, as a warning to the nations of the world in dealing with this Irish question.  Our Government is based upon the consent of the governed. That is practically the first line in the American Bill of Rights; but when we came to act, it seems that we had a mental reservation; namely, that all persons should have a voice in the government except the black slaves of America. Slavery was an institution built up and interwoven with the economic foundations of our Government itself; and it was as false in economics as it was a brutal preversion of the thoughts of the Creator, that slavery should be allowed; but it was thought to be the fundamental basis of the social structure of the United States, built on economy and industry. The great plantations of the South were manned by slave labour, labour that could be purchased in flesh and blood and everything but the souls of this unfortunate people.  This had reached in so deep in the warp and woof of the very fabric of our Government that it was thought to be right.  The slaves could not at that time be considered as an integral unit of our Government, and so we went along with black slavery for half a century, until Lincoln, the great Liberator, rose and stated that no Government could exist half slave and half free; and he came to the dangerous internal conflict, a conflict more serious than was ever waged within the nation.  Our Civil War was fought for the very principle laid down in the initial line of the American Declaration of Independence.  The negroes were freed, and there is no slave owner or descendant of a slave owner, who would look back at the black days of the past and have any change made in what <Col N="103" /> was done in the days of the Civil War. May we not warn the League of Nations, the conferees in the Conference at Paris, not to make the mistake of having a mental reservation in bringing democracy to the world to the Irish people—for fear that it may rise up to haunt them, as the mental reservation did the people of the United States; and that therefore there can be no real peace unless the Irish people as a nation are freed.
+			</P>
+			<P Just="Left">May I say a word or two further in conclusion.  The claim of Ireland is the most conservative claim being made by any small nation in the world to-day; but these diplomats and statesmen and governments may not understand it; but I warn them now that, backed by the thought of America, it <i>is</i> the most conservative claim being made in the world to-day; and we are going to Paris, to ask them there to permit us to put a prop under civilisation.  We are passing from the merely political and governmental democracies into the industrial State.  This was not won by idlers and loafers.  It was won by the producers of the world, it was won by the workers amongst human-kind on earth, and when I say that, I do not mean muscle workers alone, but all those who took part and helped to take part in the production that meets the needs of the human family and makes life worth living.  If this book is now closed against any nation under the bond accepted by the nations and by America when she entered the war, Ireland may be compelled to take its place with the great part of Europe, and perhaps with the assistance of their brothers in the United States, to appeal, not to Governments, not to statesmen, not to diplomats, but to the common people of the world.
+			</P>
+			<P Just="Left">I say, my friends, that we are returning to Paris.  We came with a direct mandate; we are not here to give direction. Thank God you have visualised to us that you have the direction.  We are not here to give advice, because, thank God, you have been well advised by your own trusted leaders already; but we are here to ask our powerful Government to say to the other Governments of the world, that President de Valera, Count Plunkett and Arthur Griffith have been selected to represent the Government elected by an overwhelming majority of the Irish people; and to request that they be permitted, with all the dignity attached to that representation, to proceed to Paris, and there lay before the nations of the world the case of Ireland.  I cannot believe that that request can be denied. I do not believe that England herself could face the world and say that this great people, diminished as they are, are held in bondage and imprisonment in Ireland, and that their leaders are not even permitted to go before the nations of the world to state in a conservative and ordered fashion their own case.  Rather I believe that that will be granted, and that we will have nothing further to do than to go back to those that sent us, and give our report— the greater part of which will be of this meeting of the Dáil—of what we have learned to-day, and to say to them that the cause of Ireland has passed out of international politics by the recognition of the existing government in Ireland. As American citizens we will have nothing further to do except to wish for your prosperity, and in as serviceable a manner as possible to help materially as one nation dealing with another nation, helping it in the ordinary course of trade and commerce.  Am I too optimistic in indulging the hope that this morning the God of Nations is smiling upon us, that the aspirations that fill your hearts are likewise ours, and that, thanks to our forbears for more than seven centuries, they are now about to come to a beautiful realisation.
+			</P>
+		</Speaker>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE
+			</NameTxt>
+			<P Just="Left">—Mr. Dunne will now address The Dáil.  (Applause.)
+			</P>
+		</Speaker>    
+		<Speaker pid="Ex-Governor DUNNE Ex-Governor DUNNE">
+			<NameTxt>Ex-Governor DUNNE
+			</NameTxt>
+			<P Just="Left">—Mr. President, Mr. Speaker, and Members of the Irish Parliament, it is a very distinguished and most unique thing for men—citizens of one nation—to be accorded the dignity by another nation of sitting in and becoming a part of its legislative <Col N="104" /> machinery.  That distinguished honour has fallen to me for the first time in my life to-day, as I believe it has fallen to my colleagues.  Why this honour should have been conferred on us is not due to our personality, but because of the mission in which we are engaged. I say we have been recognised and given this unique and distinguished honour by a different nation, which entitles us now by your resolve to sit on this platform, by reason of an invitation extended to us—and to which we have responded—by the President of a nation whose representatives have been duly elected according to the forms of even foreign law—the law of force which prevails in this land.  I believe that Ireland alone, amongst all the nations of the earth, is the only one, that, since the signature of the armistice on the 11th November of last year, has been able to take, under the forms and securities of law, a plebiscite as to the wishes of its people with reference to self-government.  As I am informed, at that election, surrounded with all the forms and securities of British law, the question was clearly and fairly submitted to the people of this country, as to whether or not the men seeking election at that time, and who are now sitting here in this Parliament, were to be elected as representatives of an independent Republic.  Now, as the result of that election, by nearly a three-fourths majority, the people of Ireland determined that they needed and would have a Republic, and that these men should be elected as representative of the republican idea.
+			</P>
+			<P Just="Left">An invitation has been extended officially to us to come from Paris to visit this nation, and the purpose of the visit is apparent and openly proclaimed.  We come not to advise you, the people of Ireland, as to the form of government you should have.  That fact has been accomplished.  The nation has spoken and you have decided for a Republic. We come avowedly—and it has been openly declared in Paris as well as here, and in America before we left—to endeavour to secure a hearing of the Irish question before the League of Nations in Paris.  We were informed before we came, and have been informed since coming here, that there were certain difficulties in the situation.  We were told, that when the Irish people assembled for the purpose of declaring the Irish will, their meetings were proclaimed. We were told, that when the Irish representatives sought to publish the views of the Irish people in the papers, they were censored.  We were told, that when the duly elected representatives of the people desired to act in the public interests, they were hauled off to jail; and we were told, that by reason of these facts it was very difficult for the voice of Ireland to be heard at the Paris Conference; and therefore, we Americans, who had entered into this war with certain aims and purposes, waited patiently for some time to hear the aims of our country declared at the Conference in Paris.
+			</P>
+		</Speaker>
+		<P Just="Left">We entered the war, as has been pointed out by Mr. Walsh in his splendid and most eloquent address to you, to protect the rights of American citizens on land and sea, and to endeavour to prevent aggression and tyranny in the western hemisphere.  We had not entered the war prior to 1917.  On the contrary, it was well known throughout America that there was probably no man in the land more decidedly peaceful in his intention than President Wilson.  It was the women of the West probably as much as anyone who helped to keep us out of the war; but when we did enter, the aims and objects of our country were declared by the great President of our country.  Let me read a few statements of the objects and aims of America, as quoted from the President:— “Political Independence and territorial integrity to great and small states alike are the objects and aims of this war,” declared President Wilson on the 8th January, 1918.  “We have heard the demand and watched the struggle for self-government spread amongst many peoples,” he declared the same day. “We have come to regard the right of political liberty as the common right of human kind,” and again, in his address, he declared, “We are face to face with <Col N="105" /> the necessity of ascertaining now the fundamental right of free men to make their own laws and choose their own allegiance.”  Again he states at Mount Vernon—“It is your inestimable privilege to consort with men of every nation that shall make not alone the liberty of America secure, but the liberties of every other people in the world.”
+		</P>
+		<P Just="Left">These being the declarations under which we entered the war, we in America waited patiently to hear the name of Ireland mentioned at the Peace Conference. There was no exception of Ireland in the statement made by the President.  We waited for months, and then not hearing the call or voice of Ireland expressed, certain elements in the United States determined that steps should be taken; and so there assembled in the city that is called the cradle of the Republic—the great city of Philadelphia—on Washington's birthday, as great and representative a convention as has probably ever been seen in that great city.  Over 5,000 delegates were present, representing every state and probably every territory, and the most conservative citizen and Churchman of the United States—known throughout the length and breadth of the land as a loyal American citizen—in the person of Cardinal Gibbons, moved a resolution. We avowedly stated our purpose when we left.  In our application for passports, in every act we did, when our Chairman called on the President, when we all called on Colonel House and had interviews with him, we avowed that our object was to secure a hearing for the people of Ireland in their demand for self-government and a republican form of government.
+		</P>
+		<P Just="Left">We need not say to you that this is and has always been a nation.  We need not, as some men do, deplore the fact that it is a long time since you had an independent government in being.  We need not apply or speak of the Statute of Limitations because of 700 years of misgovernment.  We can recall that the people of Greece and Rome had Turkish rule for many centuries, and yet the people of Greece are free to-day.  We know that the people of Bohemia have been suffering under Austrian tyranny for 400 years, but are free to-day.  We know that with the vigour and force and vitality shown in this struggle for 700 years, that the time will come, and that in the immediate future, when you will be entitled to secure your independence.  The sympathy of every man and woman of Irish blood, or through whose veins runs the Celtic blood of Ireland, is behind you in this struggle.  There was a time when there was a difference of opinion, but I never remember a time when Irish sentiment was so united and unanimous as it is at present.  Not alone that, but there are millions of American citizens, who have no Irish blood coursing through their veins, but who love justice, liberty and right, and they are also behind us in our present mission.  Our hopes are with you.  I think perhaps I might put it more eloquently.  Our hearts, our hopes are all with thee; our heart, our hopes, our prayers, our tears; our hopes triumphant over tears are all with thee.
+		</P>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE
+			</NameTxt>
+			<P Just="Left">—Mr. Ryan will now address The Dáil.  (Applause.)
+			</P>
+		</Speaker>    
+		<Speaker pid="Mr. RYAN Mr. RYAN">
+			<NameTxt>Mr. RYAN
+			</NameTxt>
+			<P Just="Left">—Mr. President.  Mr. Speaker, and Members of this Assembly. I almost hesitate to trespass upon you, and I know there is no need so to do, since you have listened to the splendid orations of my colleagues, and yet did I fail to speak.  I would accuse myself for the rest of my days.  I glory in the fact that I was Chairman of the Platform Resolutions Committee of the great Irish Race Convention, and that it was at my suggestion and on my motion that a Committee of twenty-five was constituted, from which the three men were sent who appear before you to-day.  When urging that action I did not contemplate membership, but having asked others to do something, men stated that I should join and go, and so I am here to-day.  I never was in Ireland, nor had I ever any hope of seeing it.  So far as I knew, there were neither kith nor kin of mine within its confines, but for more than a generation, as some of you know, I have upheld the Irish Race, as I know it, in the United States, <Col N="106" /> and have stood always for those who represent the majority of the people of Ireland; and today I range myself behind Sinn Fein, because, after the horrible tragedy of Easter Week, I see nothing else for the freedom of the motherland.  I say to you—and there will be no dissent from the statement— that I speak with authority.  I have been connected, and am still, with every organisation of an Irish character in America, and I say to the men who make up this Assembly, I say to this audience that may convey it through Ireland, that never in the history of the Irish people in America has there been such union as there is to-day in the stand I take myself and the stand of all the people, because we all feel the same.
+			</P>
+			<P Just="Left">I hardly know in which channel to set my small barque, but may I say to the men assembled here, that in my native city of Philadelphia assembled the first half dozen Congresses of the United States.  When the Declaration of Independence was written the 56 men who made up that great representative body, the first Congress, were men, most of whom were like yourselves.  It may be some consolation and encouragement to you to know this.  Capital was absent from that Congress, wealth was absent from it.  The men who made it up were denounced in the language applied to you, language even as I read in this morning's Dublin papers.  John Handcock, the President, why he was an agitator.  Amongst those who are honoured and reverenced to-day is the “hairbrained youth.”  These men had, according to the critics, neither stake nor interest in the community.  They were “dreamers,” but they met and they planned, they battled and they won.  Turn to the files of America, and you will find that which is the story of every country where change is sought in conditions.  Wealth is ever conservative. Stability goes hand in hand with resources. The men who have are not eager for the change.  Those who possess will not undertake the risk.  Revolutions are won by the ambitious and by the youth.  Of the 56 men who made up the Declaration of Independence, two stand out conspicuously for possessing money; one George Washington, and the second Charles Carroll, said to be the richest man of the party; but all the rest were poor young fanatics and agitators—they received the same kind of titles now bestowed on you, but Ireland will live to see the day when these titles become econiums.
+			</P>
+		</Speaker>
+		<P Just="Left">May I remind you that New York never came into the possession of the contending forces.  May I remind you that Philadelphia, then, and for years, the capital of the nation, with all its wealth, was Tory.  Washington and his army of 12,000 lay out in the snow of Valley Forge, twenty miles away, keeping watch and ward for American freedom; but in the capital city of the nation lay entrenched the British Army, feasted and feted by fashion and money. The snows of Valley Forge melted and Washington emerged to take up again the battle.  The French Minister, after the Declaration of Independence, wrote to his government, that not one-fourth of the people were in favour of the new Government, and that no one of wealth endorsed it.  May I say that I have read your Declaration of Independence, which has also been treated with derision, as offering no policy of construction, as the dream of dreamers, and referred to as the hopes of idealists promising nothing.  May I ask you to recall that it is recorded, that when the instrument, announcing that all Governments derive their just powers from the consent of the governed, was read to the people of Philadelphia, it is recorded that it was listened to only by the rabble. It might prove even to some heartening —to President de Valera—if I recall that General Cornwallis—afterwards, I think, in command in Ireland—wrote to his Government, and spoke thus of him who became the first President of the Republic: “At last,” he said, “I have the old fox in a trap”—the old fox was General Washington.  “He cannot last more than ten days longer”; and they had arranged where to transport him to, or to hang him right there; but the trap never clinched.  We are told that Washington in that dark and terrible time wrote, “I cannot hold out here much longer; I must fly to the <Col N="107" /> hills; unless new forces rally to me I cannot answer for the result”; and then new forces did rally to him, and what were the new forces, my friends?  The new forces were contingents of Pennsylvanian troops known as the Pennsylvanian line; rather should they have been called the line of Ireland.  They were made up of the refugees from Ireland; the victims of the autocratic woollen laws; the autocratic trade laws; the victims of that infamous legislation passed in the interests of England, and which in the eighteenth century began its infamy of the extermination of the Irish people.  They fled to that new land.
+		</P>
+		<P Just="Left">You need not speak of gratitude to us.  Somewhat bluntly I think, one of your members said we owed you a duty, We do; but it may be, that some of us might think that it would be better, if we told you that ourselves, rather than that we should be told it by you.  We owed too a debt of gratitude to France, and by the way it was never remembered until a few years ago.  We could not have been swarming in to pay a debt of gratitude to England, but France appealed to us; and yet our youth in our Catholic University of Washington discovered, that of the French troops that came to the United States under Lafayette, 2,900 of the 5,000 were the descendants, under Count Arthur Dillon —the second in command under Rochambeau—of the section of the Irish Brigade known as the “Wild Geese,” who had fought at Cremona, Ramilies, and Fontenoy, and who must have made England feel that she has made a mistake in exiling her Irish people.  We owe a debt to France, but we do also owe a debt to you.  Two years before the Declaration of Independence was written, the great writer of the Revolution, Thomas Payne, had laid it down, that Europe and not England was the mother country of America, and he traced the great contribution made, particularly by Ireland.  Ireland is no new proposition, to have it supported from America.  In 1764—ten years or eleven before the Declaration—the ninth before the first Continental Congress assembled in Philadelphia—Benjamin Franklin, as the agent for our Government, made a written plea to Ireland for help.  Our Congress in 1778 made a plea to Ireland for help, and Oh! how I wish it had been adopted, as great trouble might have been saved, but it is no new proposition—the union of America with Ireland in 1776, when men were hovering—and we must remember that the most advanced and greatest antagonists in America were always of that mind; men hesitated to break the yoke, to go to the final test; and you may discover in Ireland, that some of those who have held back will press far and beyond you when the time comes to make the final struggle.  God grant it.  You have contributed to the making of our nation beyond any other people.  You have been the instruments of our upbuilding. There is not an industry where your people have not been captains.  There is no manufactory of any kind or character in the United States to-day but your kith and kin are there above any other people.  You have made us strong, and to your credit be it said that ever and always you have been the upholders of the loftiest ideals of the Republic, willing to make any sacrifice, so that our government shall endure and endure in triumph.  I know that we are anxious to pay the debt, and now the clouds have dissipated.
+		</P>
+		<P Just="Left">There is one idea running through the heart and soul and mind of Ireland, and if you will let me make a plea to you; not much is attained by the ugly word, not much is won by attack.  I would try to rally about me all elements in Irish life, and solidify and unify the Irish nation.  It is so easy to speer; it is so easy to speak of errors of the past.  Turn your faces to the rising sun, and let him be regarded as an enemy to the cause who permits to fall from his lips, a word that would prevent an honest hand being taken in an honest hand-grasp by any man, through whose veins flows Irish blood.  Let us remember that, Protestant or Catholic, <i>one</i> thought has run through England, and that has been, the extermination of our race.  Was not Ireland crucified even by Catholic kings?  Were not the Irish people battling for Ireland's <Col N="108" /> liberty centuries before Martin Luther nailed his thesis on the church doors of Wittenburg?  The infamous Castlereagh used religion in his policy, and matured and developed that policy when he divided our people into Irishmen worshipping God at this altar and Irishmen worshipping.  Him at that; and induced them to slaughter each other in the name of the common God.  Divide and rule, unite and win.  Bring back the golden days of that Parliament when Grattan, Plunkett and Flood wrought for Irish redemption; men whose monuments in this capital city bear testimony to their energy and achievement; and the industries connected with these few years are but evidences of the possible accomplishments of Ireland.  Let us bring back the days that Wolfe Tone sighed for and wrought for, the times of the United Irishmen, when, regardless of chapel, church, or grove, there will be union of sentiment.  Try to put into the men of the North the same love for Ireland that once characterised them and made them the glory of Ireland; for the names of McCracken and Orr, and others are names to conjure with.  We three men of America would say that our business associates and our intimates are men who do not go to the same Church with ourselves.  I am President of a University in Philadelphia with thousands of students organised by the Baptists of Philadelphia.  We in our city work for a common cause, regardless of where we worship; and Oh! this can be said—that the Irish people never persecuted the cause of religion. The Huguenots, flying from France, found shelter in Ireland, and the Jew, when nowhere else could he find toleration, was permitted to erect his Ghetto in Ireland; for Catholic Ireland has never been polluted by the infamy of ostracism; and it is to our glory, that one who sprung from this soil, coming to America, first brought the doctrine of religious liberty that was to permeate the world.
+		</P>
+		<P Just="Left">Men and women be steadfast.  In the long history of England's rule millions have died for Ireland, millions literally.  In the eight years between 1844 and 1852 we are told your population fell by nearly three millions, but taking them all in all, I know of no deaths that have done so much for any people as those of the sixteen who were shot to death in Dublin in Easter Week. I took the hand of the widow of one of them yesterday, and I said I touched it in sorrow and in joy—sorrow at the personal loss of seeing snatched away in the prime of life the life companion —joy that the death was so glorious. You men have pledged yourselves to follow in their footsteps, and most of you are as eager as they to die.  You will tread your way of the Cross; you will march through your Garden of Gethsemani; the crown of thorns will be placed on Ireland's brow; there will be a Calvary; but the stone will be rolled away on an Easter morning.  Most of as believe in the doctrine of the communion of saints.  Could we but tear away this ceiling above us and discard these eyes of the flesh and see with the sight of the spirit, and in holy vision pierce the clouds beyond the stars up into the Heavens, I am sure that our hearts would be gladdened, because, wafting benedictions from its battlements would be the dead of Ireland; the dead who died on the scaffold and in the dungeon; the dead who died on hill and on plain; the dead who died at home and in exile; the dead whose bones pave the floor of the Atlantic; the dead who lie by the Pacific shores or in the Australian bush; the dead who died for Ireland would be found there wafting benedictions, and I believe we would hear their spirits exhorting us to keep up the fight and push on to victory.
+		</P>    
+		<Speaker pid="CATHAL BRUGHA CATHAL BRUGHA">
+			<NameTxt>CATHAL BRUGHA
+			</NameTxt>
+			<P Just="Left">(Teachta Cho. Phort-láirge) — A Chinn Chomhairle agus a mhuinntir na Dála, ba chóir dúinn ár mbuidheachas do chur I n-iúil dár gcáirde a labhair anso linn indiu mar gheall ar na smaointe breaghtha a chuireadar os ár gcomhair. Thugadar adhbhar machtnaimh dúinn agus ní miste dhúinn machtnamh do dhéanamh ar na smaointe do chuireadar rómhainn, agus cuirim os bhúr gcómhair go ngabhaimíd buidheachas leó.
+			</P>
+		</Speaker><Col N="109" />     
+		<Speaker pid="LIAM MAC COSGAIR LIAM MAC COSGAIR">
+			<NameTxt>LIAM MAC COSGAIR
+			</NameTxt>
+			<P Just="Left">(Teachta Thuaiscirt Chill Choinnigh) — A Chinn Chomhairle, aontuighim leis sin. 
+			</P>
+		</Speaker>    
+		<Speaker pid="AN CEANN COMHAIRLE Seán T. O'Kelly">
+			<NameTxt>AN CEANN COMHAIRLE
+			</NameTxt>
+			<P Just="Left">— Anois a chómh-theachtaí chualabhar an tairiscint sin; an méid gur toil leo go gcuirfí I bhfeidhm é abraidís 'Is toil.' 
+			</P>
+			<P Just="Left"> Glacadh leis an dtairiscint d'aon toil agus le lúthgháir, agus do sgur an Dáil ar a 3 a chlog um thráthnóna. 
+			</P>
+		</Speaker>  
+	</MainHeading>
+</Debate>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Thu" Date="23" Month="Jun" Year="1927" Vol="9" No="1" DateIrish="Déardaoin, 23 Meitheamh 1927" DateEnglish="Thursday, 23 June 1927" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="1">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="1" />
+      <Col N="2" /> Do chuaidh an Cathaoirleach i gceannas ar 3 a chlog.</P>
+    <P Just="Center">THE PROCLAMATION.</P>
+    <P>The Clerk read the Proclamation convening the Oireachtas as follows:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Furógra ó Thadhg O hEoluithe, duine d'Abhcóidí a Shoillse, Seanascal Shaor- stáit Eireann.</entry>
+            <entry rowsep="1">Proclamation by Timothy Healy, one of His Majesty's Counsel, Governor- General of the Irish Free State.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>DE BHRI gur dineadh leis an bhfurógra uaim ar an dáta so Oireachtas Shaorstáit Eireann do scur agus Toghachán Generálta i gcóir Dháil Eireann d'fhógairt ach ní i dtreo go ndéanfaidh baill Sheanaid Eireann do chur as a Suidheacháin ná toghachán i gcóir na mball san a bheith riach- tanach.</entry>
+            <entry>WHEREAS by my proclamation of this date the Oireachtas of the Irish Free State was dissolved and a General Election for Dáil Eireann declared but not so as to vacate the Seats or require an election of members of Seanad Eireann.</entry>
+          </row>
+          <row>
+            <entry>ANOIS AR AN ABHAR SAN, do réir agus de bhua na comhachta agus an údaráis atá agam dinim-se, an Seanascal roimh-ráite, leis an bhfurógra so in ainm a Shoillse an Rí agus comhairle Ard-Chomhairle Shaorstáit Eireann agam chuige sin Oireachtas Shaorstáit Eireann agus gach Tigh den Oireachtas san do ghairm agus do ghlaoch le chéile chun teacht le chéile i gCathair Bhaile Atha Cliath, Déardaoin, an 23adh lá de Mheitheamh, 1927, ar a 3 a chlog um thráthnóna chun pé gnó a leagfar fé bhráid na dTithe fé seach do dhéanamh.</entry>
+            <entry>NOW THEREFORE under and by virtue of the power and authority in me vested I, the Governor-General aforesaid, by this proclamation in the name of His Majesty the King do here- by and with the advice of the Executive Council of the Irish Free State summon and call together the Oireachtas of the Irish Free State and each House of the said Oireachtas to meet at the City of Dublin on Thursday, the 23rd day of June, 1927, at the hour of 3 o'clock in the afternoon, for the despatch of such business as shall be submitted to the respective Houses.</entry>
+          </row>
+          <row>
+            <entry>Tugtha fém Láimh agus Séaluithe le Mhór-Shéala Shaorstáit Eireann i mBaile Atha Cliath an 23adh lá so de Bhealtaine, 1927.</entry>
+            <entry>Given under my hand and Sealed with the Great-Seal of Saorstát Eireann at Dublin, this 23rd day of May, 1927.</entry>
+          </row>
+          <row>
+            <entry>
+            </entry>
+            <entry>(Sighnithe) T.M. HEALY,</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Signed) Seanascal Shaorstáit Eireann.</entry>
+          </row>
+          <row>
+            <entry namest="1" nameend="2">(Governor-General of the Irish Free State).</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="SESSIONAL" RHead="CHAIRMEN">
+    <Title>SESSIONAL CHAIRMEN.</Title>
+    <Col N="3" />
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>The first business on the Order Paper is the appointment of Senators under Standing Order No. 3, that is, in reference to Sessional Chairmen.  If they would be prepared to act I would suggest to the House that Senators Dowdall and Counihan be appointed.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="COMMITTEE OF" RHead="SELECTION">
+    <Title>COMMITTEE OF SELECTION.</Title>
+    <Speaker pid="SamuelBrownKC" hpid="Mr. BROWN Mr. BROWN">
+      <NameTxt>Mr. BROWN</NameTxt>
+      <P>I move the re-election of the Committee which previously acted, consisting of Senators Bennett (Chairman), Douglas, Dowdall, Fanning, Farren, Jameson, Sir John Keane, O'Hanlon, O'Rourke.</P>
+    </Speaker>
+    <Col N="4" />
+    <Speaker pid="HenryGuinness2" hpid="Mr. GUINNESS Mr. GUINNESS">
+      <NameTxt>Mr. GUINNESS</NameTxt>
+      <P>I second the motion.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="THE" RHead="ADJOURNMENT">
+    <Title>THE ADJOURNMENT.</Title>
+    <Speaker pid="" hpid="CATHAOIRLEACH CATHAOIRLEACH">
+      <NameTxt>CATHAOIRLEACH</NameTxt>
+      <P>Before I declare the House adjourned I wish to intimate that it is not possible for me to forecast a date on which the House is likely to be called together again. That might depend upon a variety of events, or perhaps upon a number of various events in the variety, but, of course, Senators will receive ample notice.</P>
+      <P>The House adjourned at 3.5 p.m.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

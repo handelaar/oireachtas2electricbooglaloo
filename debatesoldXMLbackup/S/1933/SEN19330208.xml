@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="Seanad Debate" Day="Wed" Date="8" Month="Feb" Year="1933" Vol="16" No="10" DateIrish="Dé Céadaoin, 8 Feabhra 1933" DateEnglish="Wednesday, 8 February 1933" House="S" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="633">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P Just="Center">
+      <Col N="633" />
+      <Col N="634" /> Do chuaidh an Cathaoirleach i gceannas ar 3 p.m.</P>
+    <P Just="Center">PROCLAMATION.</P>
+    <P>The Clerk read the Proclamation convening the Oireachtas as follows:&mdash;</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">FURÓGRA Ó DHOMHNALL Ó BUACHALLA, SEANASCAL SHAORSTAIT EIREANN.</entry>
+            <entry rowsep="1">PROCLAMATION BY DONAL BUCKLEY, GOVERNOR-GENERAL OF THE IRISH FREE STATE.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>DE BHRI gur dineadh leis an bhfurógra uaim ar an dáta so Oireachtas Shaorstáit Eireann do scur agus Toghachán Generálta i gcóir Dháil Eireann d'fhóghairt ach ní i dtreó go ndéanfaí baill Sheanaid Eireann do chur as a Suideacháin ná toghachán i gcóir na mball san do bheith ríachtanach:</entry>
+            <entry>WHEREAS by my proclamation of this date the Oireachtas of the Irish Free State was dissolved and a General Election for Dáil Eireann declared, but not so as to vacate the Seats or require an election of members of Seanad Eireann:</entry>
+          </row>
+          <row>
+            <entry>ANOIS AR AN ABHAR SAN do réir agus do bhua na comhachta agus an údaráis atá agam dinimse, an Seanascal roimh-ráite, leis an bhfurógra so in ainm a Shoillse an Rí agus comhairle Ard-Chomhairle Shaorstáit Eireann agam chuige sin Oireachtas Shaorstáit Eireann agus gach Tigh den Oireachtas san do ghairm agus do ghlaoch le chéile chun teacht le chéile i gCathair Bhaile Atha Cliath, Dia Céadaoin, an t-ochtadh lá d'Fheabhra, míle naoi gcéad tríochadh trí, ar a trí a chlog um thráthnóna chun pé gnó a leagfar fé bhráid na dTithe fé seach do dhéanamh.</entry>
+            <entry>NOW THEREFORE under and by virtue of the power and authority in me vested I, the Governor-General aforesaid, by this proclamation in the name of His Majesty the King do hereby by and with the advice of the Executive Council of the Irish Free State summon and call together the Oireachtas of the Irish Free State and each House of the said Oireachtas to meet at the City of Dublin on Wednesday, the eight day of February, one thousand nine hundred and thirty-three, at the hour of three o'clock in the afternoon, for the dispatch of such business as shall be submitted to the respective Houses.</entry>
+          </row>
+          <row>
+            <entry>Tugtha fém Láimh agus Séaluithe le Mór-Shéala Shaorstáit Eireann i mBaile Atha Cliath, an dara lá so d'Eanair, míle naoi gcéad tríochadh trí.</entry>
+            <entry>Given under my hand and Sealed with the Great Seal of Saorstát Eireann at Dublin, this second day of January, one thousand nine hundred and thirty-three.</entry>
+          </row>
+          <row>
+            <entry>DOMHNALL Ó BUACHALLA,</entry>
+            <entry>DONAL BUCKLEY,</entry>
+          </row>
+          <row>
+            <entry>Seanascal Shaorstáit Eireann.</entry>
+            <entry>Governor-General of the Irish Free State.</entry>
+          </row>
+          <row>
+            <entry>
+              <Col N="635" />Tugtha fé Láimh a Oirdhearcais Seanascal Shaorstáit Eireann agus tugtha amach fé Mhór-Shéala Shaorstáit Eireann i mBaile Atha Cliath, an dara lá so d'Eanair, míle naoi gcéad tríochadh trí.</entry>
+            <entry>
+              <Col N="636" />Given under the hand of His Excellency the Governor-General of the Irish Free State, and issued under the Great Seal of Saorstát Eireann at Dublin, this second day of January, one thousand nine hundred and thirty-three.</entry>
+          </row>
+          <row>
+            <entry>EAMON DE VALERA,</entry>
+            <entry>EAMON DE VALERA,</entry>
+          </row>
+          <row>
+            <entry>Uachtarán Ard-Chomhairle, Shaorstáit Eireann.</entry>
+            <entry>President of the Executive Council of the Irish Free State.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Vacancy in" RHead="the Seanad">
+    <Title>Vacancy in the Seanad.</Title>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>I have received a communication from Senator Joseph O'Doherty to the effect that he was elected a member of the Dáil for the constituency of Donegal at the General Election held on the 24th January last. Accordingly, pursuant to Article 16 of the Constitution, he is deemed to have vacated his seat in the Seanad.</P>
+      <P>Under Standing Order 108, it is my duty to announce the vacancy to the Seanad, and the Seanad must make an Order directing the Clerk to send notice thereof in writing to the Minister for Local Government and Public Health, in order to cause such vacancy to be filled.</P>
+      <P>Ordered accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Messages from" RHead="the Dáil">
+    <Title>Messages from the Dáil.</Title>
+    <Speaker pid="" hpid="Cathaoirleach Cathaoirleach">
+      <NameTxt>Cathaoirleach</NameTxt>
+      <P>The following Messages were received from the Dáil subsequent to our last meeting but prior to the dissolution:&mdash;</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Control of Prices" RHead="Bill, 1932">
+    <Title>Control of Prices Bill, 1932.</Title>
+    <P>Dáil Eireann has agreed to the amendments made by Seanad Eireann to the Control of Prices Bill, 1932.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Finance (Customs Duties)" RHead="(No. 4) Bill, 1932">
+    <Title>Finance (Customs Duties) (No. 4) Bill, 1932.</Title>
+    <P>Dáil Eireann has accepted recommendations 1, 2 and 3 of Seanad Eireann to the Finance (Customs Duties) (No. 4) Bill, 1932, and has made certain amendments in consequence to the Bill.</P>
+    <P>The Seanad adjourned at 3.7 p.m. <i>sine die.</i></P>
+  </MainHeading>
+</Debate>
