@@ -36,7 +36,7 @@ of reasonable quality but will contain some structural errors.
 ---------
 
 This material was made as part of a digitisation project of 'historical debates' in
-approximately 2011.  It is for the most part *complete garbage* because nobody wrote quality
+approximately 2002-03.  It is for the most part *complete garbage* because nobody wrote quality
 control into the delivery specs.  Above all you should be aware that these two bodies of
 material, while sharing the same DTD, are in radically-different formats. You should especially
 note that:
@@ -44,7 +44,7 @@ note that:
 *  The older material makes no effort to use &lt;mainheading type="WA"&gt; to denote written
    answers, as the DTD requires
    
-*  The older material makes no effort to isolate procedural text from speec. Consequently you
+*  The older material makes no effort to isolate procedural text from spec. Consequently you
    are very likely to find erroneous examples of people saying things like "motion defeated"
    immediately after a speech exhorting Members to vote in favour of that motion. 
    
